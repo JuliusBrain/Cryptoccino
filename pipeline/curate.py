@@ -2,9 +2,10 @@
 
 Loads prompts/brief_system.md as the system prompt, formats the items as a
 numbered list with source_id, title, summary, link, and age in hours, then
-asks the model for a JSON document with a one-line opener, ordered beats,
-and a closing line. Beats are reordered into canonical order and any beat
-with no stories is dropped before returning.
+asks the model for a JSON document with: a one-line opener (pour), a 3-item
+today teaser, an optional labelled lead, ordered beat roundups, a brewing
+tail, and a closing line. Beats are reordered into canonical order and any
+beat with no items is dropped before returning.
 
 Primary model: claude-sonnet-4-6.
 Cheaper fallback: claude-haiku-4-5-20251001.
@@ -27,22 +28,47 @@ CANONICAL_BEATS = ["the_tape", "projects_money", "security_desk", "on_the_hill"]
 MAX_OUTPUT_TOKENS = 8192
 
 JSON_SHAPE_EXAMPLE = {
-    "pour": "one dry line",
+    "pour": "one dry line on the mood of the day",
+    "today": [
+        {"teaser": "short teaser phrase", "beat": "Markets"},
+        {"teaser": "another teaser", "beat": "Security Desk"},
+        {"teaser": "third teaser", "beat": "Projects & Money"},
+    ],
+    "lead": {
+        "kicker": "MARKETS",
+        "headline": "Single most important story of the day.",
+        "links": [
+            {"source_id": "theblock", "url": "https://..."},
+            {"source_id": "coindesk", "url": "https://..."},
+        ],
+        "blocks": [
+            {"label": "What happened", "text": "Two to three sentences."},
+            {"label": "Why it matters", "text": "Two to three sentences."},
+            {"label": "The catch", "text": "Two to three sentences."},
+        ],
+    },
     "beats": [
         {
             "id": "the_tape",
-            "title": "The Tape",
-            "stories": [
+            "title": "Markets",
+            "items": [
                 {
-                    "headline": "...",
-                    "body": "...",
-                    "source_id": "coindesk",
-                    "link": "https://...",
+                    "lead_in": "Bold lead-in phrase.",
+                    "text": "Two to three self-contained sentences.",
+                    "links": [
+                        {"source_id": "coindesk", "url": "https://..."},
+                    ],
                 }
             ],
         }
     ],
-    "last_sip": "one quiet line",
+    "brewing": [
+        {
+            "text": "Single-sentence note on a minor story.",
+            "links": [{"source_id": "decrypt", "url": "https://..."}],
+        }
+    ],
+    "last_sip": "one quiet unresolved line",
 }
 
 
@@ -50,12 +76,18 @@ def _build_user_message(items, max_per_beat, max_age_hours):
     now = datetime.now(timezone.utc)
     lines = [
         f"You are given {len(items)} news items from the last {max_age_hours} hours.",
-        f"Cap each beat at {max_per_beat} stories. Skip a beat entirely if nothing earns a slot.",
+        "",
+        "Output requirements:",
+        "- ONE lead (or null on a quiet day) with 2 to 4 labelled blocks. Third label flexes between 'The catch' and 'Watch'.",
+        f"- Beat roundups, capped at {max_per_beat} items each. Skip empty beats. Each item: a bold lead_in phrase and 2 to 3 self-contained sentences.",
+        "- 3 to 6 brewing items, each a single sentence.",
+        "- 'today' is exactly 3 teasers naming the 3 biggest items with their beat title (display title, e.g. 'Markets').",
+        "- 'links' is an array so clustered duplicates surface every source.",
+        "",
+        f"Beat ids must be one of: {', '.join(CANONICAL_BEATS)}.",
         "",
         "Return ONLY valid JSON, no markdown fences, in this exact shape:",
         json.dumps(JSON_SHAPE_EXAMPLE, indent=2),
-        "",
-        f"Beat ids must be one of: {', '.join(CANONICAL_BEATS)}.",
         "",
         "Items:",
     ]
@@ -84,7 +116,7 @@ def _reorder_beats(beats):
     return [
         by_id[beat_id]
         for beat_id in CANONICAL_BEATS
-        if by_id.get(beat_id) and by_id[beat_id].get("stories")
+        if by_id.get(beat_id) and by_id[beat_id].get("items")
     ]
 
 
@@ -112,7 +144,7 @@ def curate(items):
         logger.error("Failed to parse JSON. Raw response:\n%s", raw)
         raise
 
-    result["beats"] = _reorder_beats(result["beats"])
+    result["beats"] = _reorder_beats(result.get("beats") or [])
     return result
 
 

@@ -2,12 +2,17 @@
 
 Invoked by .github/workflows/daily.yml. A day with zero new items is a quiet
 skip (exit 0, no issue written). Any other failure propagates and fails the run.
+
+Markets are fetched separately from CoinMarketCap and handed to the renderer
+alongside the curated issue. A failed market fetch never breaks the run; it
+just drops the price strip.
 """
 
 import logging
 
 from pipeline.curate import curate
 from pipeline.ingest import fetch_feeds
+from pipeline.markets import fetch_markets
 from pipeline.render import render_post
 from pipeline.store import filter_new, init_db, mark_seen
 
@@ -33,11 +38,21 @@ def main():
     logger.info("Curating issue with Claude.")
     issue = curate(new)
     beats = issue.get("beats", [])
-    stories = sum(len(b.get("stories", [])) for b in beats)
-    logger.info("Curated %d beats with %d stories total.", len(beats), stories)
+    items_total = sum(len(b.get("items", [])) for b in beats)
+    logger.info(
+        "Curated lead=%s, %d beats with %d items, %d brewing.",
+        "yes" if issue.get("lead") else "no",
+        len(beats),
+        items_total,
+        len(issue.get("brewing") or []),
+    )
+
+    logger.info("Fetching market data.")
+    markets = fetch_markets()
+    logger.info("Fetched %d coins for price strip.", len(markets))
 
     logger.info("Rendering Jekyll post.")
-    path = render_post(issue)
+    path = render_post(issue, markets)
     logger.info("Wrote %s.", path)
 
     logger.info("Marking %d items as seen.", len(new))

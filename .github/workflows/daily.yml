@@ -26,6 +26,7 @@ jobs:
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
         run: python -m pipeline.run
 
       - name: Commit issue and updated DB

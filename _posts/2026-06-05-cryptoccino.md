@@ -7,6 +7,8 @@ description: "Hot jobs data, a four-year-old privacy bug, and a market that forg
 card: /assets/cards/2026-06-05.png
 ---
 
+<div class="pour-band" markdown="1">
+
 > **The Pour.** Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor.
 >
 > **Today.** Bitcoin breaks $60K as blowout NFP kills rate-cut hopes _Markets_ · Zcash's Orchard Pool had a silent counterfeiting flaw for four years _Security Desk_ · JPMorgan, BofA and Citi plan a shared tokenised deposit network _Projects & Money_.
@@ -15,18 +17,16 @@ card: /assets/cards/2026-06-05.png
 <section class="prices">
   <p class="prices-label">Prices</p>
   <ul class="chips">
-    <li class="chip"><span class="ticker">BTC</span><span class="price">60,172</span><span class="change down">−5.73%</span></li>
-    <li class="chip"><span class="ticker">ETH</span><span class="price">1,575</span><span class="change down">−11.29%</span></li>
-    <li class="chip"><span class="ticker">USDT</span><span class="price">0.9994</span><span class="change up">+0.05%</span></li>
-    <li class="chip"><span class="ticker">BNB</span><span class="price">578</span><span class="change down">−4.54%</span></li>
-    <li class="chip"><span class="ticker">USDC</span><span class="price">0.9998</span><span class="change up">+0.01%</span></li>
-    <li class="chip"><span class="ticker">XRP</span><span class="price">1.10</span><span class="change down">−5.78%</span></li>
-    <li class="chip"><span class="ticker">SOL</span><span class="price">64.16</span><span class="change down">−7.78%</span></li>
-    <li class="chip"><span class="ticker">TRX</span><span class="price">0.3203</span><span class="change down">−3.12%</span></li>
-    <li class="chip"><span class="ticker">HYPE</span><span class="price">57.70</span><span class="change down">−14.44%</span></li>
-    <li class="chip"><span class="ticker">DOGE</span><span class="price">0.08156</span><span class="change down">−8.74%</span></li>
+    <li class="chip"><span class="chip-left"><span class="ticker">BTC</span><span class="price">$59,721</span></span><span class="chip-right"><span class="change down">−6.6%</span><svg class="spark" viewBox="0 0 82 24" width="82" height="24" preserveAspectRatio="none"><polyline fill="none" stroke="#B14A33" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1.0,2.4 3.8,2.2 6.5,2.0 9.3,1.9 12.0,1.4 14.8,1.5 17.6,1.0 20.3,1.6 23.1,1.9 25.8,1.7 28.6,1.7 31.3,3.4 34.1,5.5 36.9,5.7 39.6,6.2 42.4,8.3 45.1,9.4 47.9,13.0 50.7,15.0 53.4,14.9 56.2,13.4 58.9,15.5 61.7,16.1 64.4,20.7 67.2,20.0 70.0,19.4 72.7,19.9 75.5,20.4 78.2,23.0 81.0,22.9"/><circle cx="81.0" cy="22.9" r="1.8" fill="#B14A33"/></svg></span></li>
+    <li class="chip"><span class="chip-left"><span class="ticker">ETH</span><span class="price">$1,559</span></span><span class="chip-right"><span class="change down">−12.2%</span><svg class="spark" viewBox="0 0 82 24" width="82" height="24" preserveAspectRatio="none"><polyline fill="none" stroke="#B14A33" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1.0,2.3 3.8,2.1 6.5,2.0 9.3,1.9 12.0,1.4 14.8,1.6 17.6,1.0 20.3,1.7 23.1,2.5 25.8,2.6 28.6,2.3 31.3,4.3 34.1,4.8 36.9,3.3 39.6,3.1 42.4,4.1 45.1,4.2 47.9,7.5 50.7,10.6 53.4,11.7 56.2,9.7 58.9,12.5 61.7,11.9 64.4,16.6 67.2,16.2 70.0,16.2 72.7,16.0 75.5,17.3 78.2,23.0 81.0,23.0"/><circle cx="81.0" cy="23.0" r="1.8" fill="#B14A33"/></svg></span></li>
+    <li class="chip"><span class="chip-left"><span class="ticker">BNB</span><span class="price">$566</span></span><span class="chip-right"><span class="change down">−7.1%</span><svg class="spark" viewBox="0 0 82 24" width="82" height="24" preserveAspectRatio="none"><polyline fill="none" stroke="#B14A33" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1.0,14.8 3.8,14.3 6.5,11.1 9.3,9.8 12.0,5.3 14.8,4.2 17.6,1.0 20.3,3.7 23.1,3.6 25.8,5.0 28.6,5.4 31.3,8.4 34.1,8.6 36.9,7.6 39.6,7.7 42.4,8.7 45.1,9.4 47.9,11.1 50.7,13.6 53.4,15.2 56.2,14.5 58.9,15.6 61.7,16.2 64.4,19.1 67.2,19.8 70.0,19.6 72.7,19.4 75.5,19.9 78.2,23.0 81.0,21.4"/><circle cx="81.0" cy="21.4" r="1.8" fill="#B14A33"/></svg></span></li>
+    <li class="chip"><span class="chip-left"><span class="ticker">SOL</span><span class="price">$63.76</span></span><span class="chip-right"><span class="change down">−8.3%</span><svg class="spark" viewBox="0 0 82 24" width="82" height="24" preserveAspectRatio="none"><polyline fill="none" stroke="#B14A33" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1.0,2.5 3.8,2.4 6.5,1.7 9.3,1.9 12.0,1.4 14.8,1.7 17.6,1.0 20.3,1.5 23.1,2.4 25.8,2.6 28.6,1.6 31.3,3.9 34.1,4.9 36.9,3.9 39.6,3.7 42.4,5.5 45.1,6.0 47.9,8.7 50.7,12.3 53.4,12.2 56.2,10.3 58.9,12.8 61.7,13.7 64.4,16.6 67.2,17.9 70.0,17.3 72.7,18.0 75.5,18.8 78.2,23.0 81.0,22.3"/><circle cx="81.0" cy="22.3" r="1.8" fill="#B14A33"/></svg></span></li>
+    <li class="chip"><span class="chip-left"><span class="ticker">XRP</span><span class="price">$1.09</span></span><span class="chip-right"><span class="change down">−7.3%</span><svg class="spark" viewBox="0 0 82 24" width="82" height="24" preserveAspectRatio="none"><polyline fill="none" stroke="#B14A33" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1.0,3.8 3.8,2.7 6.5,1.0 9.3,1.5 12.0,1.0 14.8,1.6 17.6,1.4 20.3,1.8 23.1,2.6 25.8,2.7 28.6,2.5 31.3,5.1 34.1,6.3 36.9,5.9 39.6,6.5 42.4,8.7 45.1,9.0 47.9,11.5 50.7,14.9 53.4,13.7 56.2,11.1 58.9,12.7 61.7,13.3 64.4,16.5 67.2,18.0 70.0,17.8 72.7,17.4 75.5,19.2 78.2,22.8 81.0,23.0"/><circle cx="81.0" cy="23.0" r="1.8" fill="#B14A33"/></svg></span></li>
+    <li class="chip"><span class="chip-left"><span class="ticker">DOGE</span><span class="price">$0.0810</span></span><span class="chip-right"><span class="change down">−9.5%</span><svg class="spark" viewBox="0 0 82 24" width="82" height="24" preserveAspectRatio="none"><polyline fill="none" stroke="#B14A33" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1.0,3.3 3.8,3.1 6.5,1.2 9.3,1.8 12.0,1.0 14.8,2.0 17.6,1.3 20.3,2.0 23.1,2.7 25.8,3.1 28.6,1.5 31.3,3.7 34.1,3.9 36.9,2.9 39.6,1.8 42.4,3.7 45.1,4.1 47.9,8.0 50.7,11.9 53.4,11.8 56.2,9.8 58.9,11.4 61.7,11.5 64.4,15.2 67.2,16.4 70.0,15.9 72.7,16.2 75.5,17.6 78.2,22.4 81.0,23.0"/><circle cx="81.0" cy="23.0" r="1.8" fill="#B14A33"/></svg></span></li>
   </ul>
 </section>
+
+</div>
 
 <section class="lead" markdown="1">
 

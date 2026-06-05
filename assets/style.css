@@ -140,41 +140,78 @@ article.issue blockquote.last-sip em {
   margin-left: 0.25rem;
 }
 
-/* === Prices strip — panel band === */
-.prices {
-  margin: 0 0 2.5rem;
-  padding: 0.95rem 1.25rem 1.05rem;
+/* === Pour band: blockquote + price strip on one panel surface === */
+article.issue .pour-band {
+  margin: 0 0 2rem;
+  padding: 1.1rem 1.4rem;
   background: var(--panel);
-  border-radius: 3px;
+  border-left: 2px solid var(--crema);
+  border-radius: 0 3px 3px 0;
+}
+article.issue .pour-band blockquote.pour {
+  background: transparent;
+  border-left: none;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* === Prices strip === */
+.prices {
+  margin: 1rem 0 0;
 }
 .prices-label {
   font-family: var(--mono);
   font-size: 0.68rem;
-  color: var(--mut);
+  color: var(--crema);
   text-transform: uppercase;
   letter-spacing: 0.24em;
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.6rem;
 }
 .chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1.25rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 0.5rem;
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.chip {
-  display: inline-flex;
-  align-items: baseline;
-  gap: 0.4rem;
-  font-family: var(--mono);
-  font-size: 0.8rem;
-  white-space: nowrap;
+article.issue .chips li {
+  margin: 0;
+  padding: 0;
 }
-.chip .ticker { font-weight: 700; color: var(--ink); letter-spacing: 0.04em; }
-.chip .price { color: var(--soft); }
+article.issue .chips li::before { display: none; }
+.chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.45rem 0.65rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  line-height: 1.2;
+}
+.chip .chip-left,
+.chip .chip-right {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+.chip .chip-right { align-items: flex-end; }
+.chip .ticker {
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: 0.04em;
+  font-size: 0.78rem;
+}
+.chip .price { color: var(--soft); font-size: 0.72rem; }
+.chip .change { font-size: 0.7rem; }
 .chip .change.up { color: var(--up); }
 .chip .change.down { color: var(--down); }
+.chip .spark { display: block; }
 
 /* === Lead section === */
 section.lead {

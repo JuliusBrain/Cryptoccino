@@ -75,9 +75,15 @@ article.issue .section-card {
   margin: 3rem 0 0.5rem;
   border-radius: 3px;
 }
-/* When a section-card sits above a beat heading, collapse the heading's
-   top margin so they read as one block. */
-article.issue .section-card + h2 {
+/* Kramdown wraps the raw <img> in a <p>; collapse the paragraph margin so
+   the card and the H2 that follows read as one block. */
+article.issue p:has(> .section-card) {
+  margin: 3rem 0 0.5rem;
+}
+article.issue p:has(> .section-card) > .section-card {
+  margin: 0;
+}
+article.issue p:has(> .section-card) + h2 {
   margin-top: 1rem;
 }
 article.issue h1 {

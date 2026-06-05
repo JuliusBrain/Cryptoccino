@@ -46,7 +46,7 @@ card: /assets/cards/2026-06-05.png
 
 </section>
 
-<img class="section-card" src="/assets/cards/2026-06-05-the_tape.png" alt="Markets">
+<img class="section-card" src="{{ "/assets/cards/2026-06-05-the_tape.png" | relative_url }}" alt="Markets">
 
 ## Markets
 
@@ -58,7 +58,7 @@ card: /assets/cards/2026-06-05.png
 
 > **Ethereum's liquidation stack builds as ETH trades below $1,600.** Ethereum's slide below $1,600 for the first time since April 2025 has put roughly $547 million in onchain positions at risk of forced liquidation at nearby price levels. Prediction markets are pricing a 71% chance of a further fall to $1,500, and the charts offer little structural support between here and that level. [`cryptobriefing`](https://cryptobriefing.com/ethereum-faces-547m-liquidation-risk-as-price-nears-critical-levels/) [`cryptobriefing`](https://cryptobriefing.com/ethereum-falls-below-1600-for-first-time-since-april-2025/) [`decrypt`](https://decrypt.co/369926/ethereum-eth-price-25-percent-bottom-technical-analysis)
 
-<img class="section-card" src="/assets/cards/2026-06-05-projects_money.png" alt="Projects & Money">
+<img class="section-card" src="{{ "/assets/cards/2026-06-05-projects_money.png" | relative_url }}" alt="Projects & Money">
 
 ## Projects & Money
 
@@ -70,7 +70,7 @@ card: /assets/cards/2026-06-05.png
 
 > **Mastercard deepens stablecoin settlement coverage via USDC and RLUSD.** Mastercard expanded its stablecoin settlement rails to include Circle's USDC and Ripple's RLUSD alongside existing integrations, framing the push as a commitment to always-on payment capability. The move adds two of the largest non-Tether stablecoins to a network that processes billions of transactions annually. [`decrypt`](https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd)
 
-<img class="section-card" src="/assets/cards/2026-06-05-security_desk.png" alt="Security Desk">
+<img class="section-card" src="{{ "/assets/cards/2026-06-05-security_desk.png" | relative_url }}" alt="Security Desk">
 
 ## Security Desk
 
@@ -82,7 +82,7 @@ card: /assets/cards/2026-06-05.png
 
 > **DOJ task force freezes $3.8 million in illicit crypto tied to Southeast Asian organised crime.** The operation drew on cooperation from Coinbase, SpaceX and Meta to identify and freeze funds linked to fraud networks operating out of Southeast Asia. The dollar figure is modest but the cross-sector industry participation in a law enforcement action is notable. [`decrypt`](https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta)
 
-<img class="section-card" src="/assets/cards/2026-06-05-on_the_hill.png" alt="On the Hill">
+<img class="section-card" src="{{ "/assets/cards/2026-06-05-on_the_hill.png" | relative_url }}" alt="On the Hill">
 
 ## On the Hill
 

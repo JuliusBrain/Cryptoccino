@@ -86,8 +86,12 @@ def _render_beat(beat, section_card_path=None):
     parts = []
     if section_card_path:
         title = beat.get("title", "")
+        # Liquid expression so Jekyll prepends site.baseurl at build time
+        # (the path stored in section_cards is baseurl-relative).
         parts.append(
-            f'<img class="section-card" src="{section_card_path}" alt="{title}">'
+            f'<img class="section-card" '
+            f'src="{{{{ "{section_card_path}" | relative_url }}}}" '
+            f'alt="{title}">'
         )
         parts.append("")
     parts.append(f"## {beat['title']}")

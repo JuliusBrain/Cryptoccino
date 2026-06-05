@@ -264,9 +264,10 @@ class TestRenderPost:
             section_cards={"the_tape": "/assets/cards/2026-06-05-the_tape.png"},
         )
         content = Path(path).read_text()
+        # Path is wrapped in a Liquid expression so Jekyll prepends baseurl.
         assert (
             '<img class="section-card" '
-            'src="/assets/cards/2026-06-05-the_tape.png" '
+            'src="{{ "/assets/cards/2026-06-05-the_tape.png" | relative_url }}" '
             'alt="Markets">'
         ) in content
         # img tag appears before the `## Markets` heading.

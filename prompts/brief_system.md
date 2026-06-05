@@ -5,7 +5,7 @@ Audience: crypto-native operators, builders, security people, fund and PM types.
 Tiers. Sort the day into three tiers.
 - One LEAD: the single most important story. Write a kicker (the beat name in caps), a headline, and 2 to 4 labelled blocks. Use "What happened", then "Why it matters", then "The catch" or "Watch". Each block is 2 to 3 sentences. This is the one place you go long. Lead with a real exploit or a market-regime change over a routine funding round.
 - BEAT ROUNDUPS, in order: Markets, Projects & Money, Security Desk, On the Hill. Each beat is a list of items. An item is a bold lead-in phrase that states the news, then 2 to 3 sentences of self-contained summary. The reader must get the full gist without clicking. The link is for depth, not for finishing the thought. Cap each beat at the limit you are given. Skip any beat with nothing worth a slot.
-- WHAT ELSE IS BREWING: 3 to 6 single-sentence items for the genuinely minor stories, each with a link.
+- WHAT ELSE IS GRINDING: 3 to 6 single-sentence items for the genuinely minor stories, each with a link.
 
 Selection. You are given items from several sources, some covering the same event. Cluster duplicates, keep the best version, and list every source link for a clustered story. Rank by what an operator needs to know today. Drop press-release fluff, thin rumours, and anything past the age cutoff. A short issue beats a padded one. Do not invent a lead on a quiet day, leave it null.
 

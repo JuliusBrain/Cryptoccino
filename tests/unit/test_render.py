@@ -158,7 +158,7 @@ class TestRenderBrewing:
             {"text": "Another minor thing.", "links": []},
         ]
         out = _render_brewing(brewing)
-        assert "## What else is brewing" in out
+        assert "## What else is grinding?" in out
         assert "{: .brewing-label}" in out
         assert "- Minor thing. [`decrypt`](https://e.example/a)" in out
         assert "- Another minor thing." in out
@@ -226,4 +226,4 @@ class TestRenderPost:
         (tmp_path / "_posts").mkdir()
         path = render_post(_minimal_issue(), markets=[])
         content = Path(path).read_text()
-        assert "What else is brewing" not in content
+        assert "What else is grinding?" not in content

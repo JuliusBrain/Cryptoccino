@@ -93,7 +93,7 @@ def _render_beat(beat):
 
 
 def _render_brewing(brewing):
-    parts = ["## What else is brewing", "{: .brewing-label}", ""]
+    parts = ["## What else is grinding?", "{: .brewing-label}", ""]
     for item in brewing:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""

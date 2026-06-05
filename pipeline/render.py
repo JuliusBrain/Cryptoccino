@@ -129,22 +129,37 @@ def _render_body(issue, markets):
     return "\n\n".join(blocks) + "\n"
 
 
-def render_post(issue, markets=None):
-    """Write today's Jekyll post from the curated dict + markets, return path."""
+def _yaml_quote(value):
+    return '"' + (value or "").replace('"', '\\"') + '"'
+
+
+def render_post(issue, markets=None, card_path=None):
+    """Write today's Jekyll post from the curated dict + markets, return path.
+
+    `card_path` is a site-relative path (e.g. /assets/cards/2026-06-05.png)
+    that ends up in the post's front matter so the layout can emit the hero
+    image and the og:image/twitter:image meta. None means no card today.
+    """
     markets = markets or []
     today = date.today()
     iso = today.isoformat()
     long_date = today.strftime("%A %d %B %Y")
     title = f"{TITLE_BASE} — {long_date}"
 
-    front_matter = (
-        "---\n"
-        "layout: issue\n"
-        f'title: "{title}"\n'
-        f"date: {iso}\n"
-        f"issue_date: {iso}\n"
-        "---\n\n"
-    )
+    fm = [
+        "---",
+        "layout: issue",
+        f"title: {_yaml_quote(title)}",
+        f"date: {iso}",
+        f"issue_date: {iso}",
+        f"description: {_yaml_quote(issue.get('pour'))}",
+    ]
+    if card_path:
+        fm.append(f"card: {card_path}")
+    fm.append("---")
+    fm.append("")
+    fm.append("")
+    front_matter = "\n".join(fm)
 
     out_path = Path(POSTS_DIR) / f"{iso}-cryptoccino.md"
     out_path.write_text(front_matter + _render_body(issue, markets))

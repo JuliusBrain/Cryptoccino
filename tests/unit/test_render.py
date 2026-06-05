@@ -227,3 +227,28 @@ class TestRenderPost:
         path = render_post(_minimal_issue(), markets=[])
         content = Path(path).read_text()
         assert "What else is grinding?" not in content
+
+    def test_description_in_front_matter_from_pour(self, tmp_path, monkeypatch):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        path = render_post(_minimal_issue(), markets=[])
+        content = Path(path).read_text()
+        assert 'description: "mood line"' in content
+
+    def test_card_path_lands_in_front_matter(self, tmp_path, monkeypatch):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        path = render_post(
+            _minimal_issue(),
+            markets=[],
+            card_path="/assets/cards/2026-06-05.png",
+        )
+        content = Path(path).read_text()
+        assert "card: /assets/cards/2026-06-05.png" in content
+
+    def test_card_field_omitted_when_no_card(self, tmp_path, monkeypatch):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        path = render_post(_minimal_issue(), markets=[])
+        content = Path(path).read_text()
+        assert "card:" not in content

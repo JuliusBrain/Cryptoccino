@@ -1,6 +1,27 @@
 <!doctype html>
 <html lang="{{ site.lang | default: 'en' }}">
 <head>
+  {%- comment -%}
+    Roast toggle — read the persisted choice (or prefers-color-scheme) and
+    set data-roast BEFORE the stylesheet paints so a returning Espresso
+    drinker doesn't get a flash of Cappuccino first.
+  {%- endcomment -%}
+  <script>
+    (function () {
+      try {
+        var key = 'cryptoccino-roast';
+        var saved = localStorage.getItem(key);
+        var roast = saved
+          || ((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
+                ? 'espresso'
+                : 'cappuccino');
+        document.documentElement.dataset.roast = roast;
+      } catch (e) {
+        document.documentElement.dataset.roast = 'cappuccino';
+      }
+    })();
+  </script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -27,6 +48,12 @@
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
         <img src="{{ '/assets/cryptoccino-logo.svg' | relative_url }}" alt="{{ site.title }} — {{ site.description }}">
       </a>
+      <div class="roast-toggle" role="group" aria-label="Coffee strength">
+        <button type="button" data-roast="latte" aria-pressed="false">Latte</button>
+        <button type="button" data-roast="cappuccino" aria-pressed="true">Cappuccino</button>
+        <button type="button" data-roast="flat-white" aria-pressed="false">Flat White</button>
+        <button type="button" data-roast="espresso" aria-pressed="false">Espresso</button>
+      </div>
     </header>
 
     <main>
@@ -38,5 +65,28 @@
       <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
     </footer>
   </div>
+
+  <script>
+    (function () {
+      var key = 'cryptoccino-roast';
+      var html = document.documentElement;
+      var current = html.dataset.roast || 'cappuccino';
+      var buttons = document.querySelectorAll('.roast-toggle button[data-roast]');
+      function sync(active) {
+        buttons.forEach(function (b) {
+          b.setAttribute('aria-pressed', b.dataset.roast === active ? 'true' : 'false');
+        });
+      }
+      sync(current);
+      buttons.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var roast = btn.dataset.roast;
+          html.dataset.roast = roast;
+          try { localStorage.setItem(key, roast); } catch (e) {}
+          sync(roast);
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

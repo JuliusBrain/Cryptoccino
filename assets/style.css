@@ -1,12 +1,24 @@
 :root {
-  --bg: #14110f;
-  --bg-band: #1a1612;
-  --fg: #e8e0d2;
-  --fg-muted: #9a8f7e;
-  --accent: #d4a574;
-  --border: #2a241e;
-  --up: #6fb87a;
-  --down: #d27d6f;
+  /* Cappuccino-cream palette. Step from darkest ground -> page card -> bands. */
+  --bg: #EAE0CF;          /* cappuccino ground            */
+  --panel: #F3EBDB;       /* lighter band (Pour, Mempool) */
+  --card: #FBF6EE;        /* page / issue surface         */
+
+  /* Ink (text) ramp, espresso to faint warm grey. */
+  --ink: #2E2117;         /* primary body text            */
+  --soft: #4F4031;        /* secondary body text          */
+  --mut: #7D6C58;         /* tags, meta, small labels     */
+  --faint: #9A8A74;       /* faint labels                 */
+
+  --line: #DECBAF;        /* warm divider                 */
+
+  /* Crema: legible accent for links/kickers, and a brighter decorative tint. */
+  --crema: #A35E1E;       /* links, kickers, source tags  */
+  --crema-deco: #C2823C;  /* glyphs, decorative crema     */
+
+  --up: #4C7A47;
+  --down: #B14A33;
+
   --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
   --serif: "Iowan Old Style", Georgia, Cambria, "Times New Roman", serif;
 }
@@ -16,7 +28,7 @@ html { -webkit-text-size-adjust: 100%; }
 
 body {
   background: var(--bg);
-  color: var(--fg);
+  color: var(--ink);
   font-family: var(--serif);
   font-size: 17px;
   line-height: 1.6;
@@ -27,61 +39,55 @@ body {
 .container {
   max-width: 720px;
   margin: 0 auto;
+  background: var(--card);
   padding: 2.5rem 1.25rem 4rem;
 }
 
 /* === Site chrome === */
 header.site {
   margin-bottom: 2.5rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--line);
   padding-bottom: 1.5rem;
 }
 header.site .brand {
-  font-family: var(--mono);
-  font-size: 0.95rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  margin: 0;
-}
-header.site .brand a {
-  color: var(--accent);
+  display: inline-block;
   text-decoration: none;
 }
-header.site .tagline {
-  font-style: italic;
-  color: var(--fg-muted);
-  margin: 0.25rem 0 0;
-  font-size: 0.95rem;
+header.site .brand img {
+  display: block;
+  width: 100%;
+  max-width: 360px;
+  height: auto;
 }
 
 article.issue header { margin-bottom: 2rem; }
 article.issue h1 {
   font-family: var(--mono);
   font-size: 1.3rem;
-  color: var(--fg);
+  color: var(--ink);
   margin: 0;
   letter-spacing: -0.01em;
   line-height: 1.3;
 }
 
-/* === Beat headings (default h2 inside the article) === */
+/* === Beat headings === */
 article.issue h2 {
   font-family: var(--mono);
   font-size: 0.95rem;
-  color: var(--accent);
+  color: var(--crema);
   margin: 3rem 0 1.25rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
-/* === Pour + Last sip — label style on a band === */
+/* === Pour + Last sip — label style on a panel band === */
 article.issue blockquote.pour,
 article.issue blockquote.last-sip {
   margin: 0 0 2rem;
   padding: 1.1rem 1.4rem;
-  background: var(--bg-band);
-  border-left: 2px solid var(--accent);
-  color: var(--fg);
+  background: var(--panel);
+  border-left: 2px solid var(--crema);
+  color: var(--ink);
   font-style: italic;
   border-radius: 0 3px 3px 0;
 }
@@ -93,7 +99,7 @@ article.issue blockquote.pour strong,
 article.issue blockquote.last-sip strong {
   font-family: var(--mono);
   font-style: normal;
-  color: var(--accent);
+  color: var(--crema);
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -102,24 +108,24 @@ article.issue blockquote.last-sip strong {
 article.issue blockquote.pour em,
 article.issue blockquote.last-sip em {
   font-style: normal;
-  color: var(--fg-muted);
+  color: var(--mut);
   font-family: var(--mono);
   font-size: 0.72rem;
   letter-spacing: 0.06em;
   margin-left: 0.25rem;
 }
 
-/* === Prices strip === */
+/* === Prices strip — panel band === */
 .prices {
   margin: 0 0 2.5rem;
   padding: 0.95rem 1.25rem 1.05rem;
-  background: var(--bg-band);
+  background: var(--panel);
   border-radius: 3px;
 }
 .prices-label {
   font-family: var(--mono);
   font-size: 0.68rem;
-  color: var(--fg-muted);
+  color: var(--mut);
   text-transform: uppercase;
   letter-spacing: 0.24em;
   margin: 0 0 0.75rem;
@@ -140,8 +146,8 @@ article.issue blockquote.last-sip em {
   font-size: 0.8rem;
   white-space: nowrap;
 }
-.chip .ticker { font-weight: 700; color: var(--fg); letter-spacing: 0.04em; }
-.chip .price { color: var(--fg-muted); }
+.chip .ticker { font-weight: 700; color: var(--ink); letter-spacing: 0.04em; }
+.chip .price { color: var(--soft); }
 .chip .change.up { color: var(--up); }
 .chip .change.down { color: var(--down); }
 
@@ -149,12 +155,12 @@ article.issue blockquote.last-sip em {
 section.lead {
   margin: 0 0 2.5rem;
   padding: 1.5rem 0 0;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--line);
 }
 section.lead .kicker {
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--accent);
+  color: var(--crema);
   letter-spacing: 0.22em;
   text-transform: uppercase;
   margin: 0 0 0.4rem;
@@ -163,7 +169,7 @@ section.lead .kicker strong { font-weight: inherit; color: inherit; }
 section.lead h2 {
   font-family: var(--serif);
   font-size: 1.55rem;
-  color: var(--fg);
+  color: var(--ink);
   margin: 0 0 1rem;
   line-height: 1.3;
   letter-spacing: -0.01em;
@@ -175,10 +181,10 @@ section.lead .sources {
   gap: 0.4rem;
   flex-wrap: wrap;
 }
-section.lead p { margin: 0 0 1rem; color: var(--fg); }
+section.lead p { margin: 0 0 1rem; color: var(--ink); }
 section.lead p strong:first-child {
   font-family: var(--mono);
-  color: var(--accent);
+  color: var(--crema);
   font-size: 0.72rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -190,24 +196,24 @@ section.lead p strong:first-child {
 article.issue blockquote:not(.pour):not(.last-sip) {
   margin: 0 0 1.5rem;
   padding: 0 0 0 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--fg-muted);
+  border-left: 2px solid var(--crema);
+  color: var(--soft);
   font-style: normal;
 }
 article.issue blockquote:not(.pour):not(.last-sip) p { margin: 0; }
 article.issue blockquote:not(.pour):not(.last-sip) strong:first-child {
-  color: var(--fg);
+  color: var(--ink);
   font-weight: 600;
   margin-right: 0.25rem;
 }
 
-/* === Source tags — inline code anywhere inside the article === */
+/* === Source tags === */
 article.issue code {
   font-family: var(--mono);
   font-size: 0.7rem;
-  color: var(--accent);
+  color: var(--crema);
   background: transparent;
-  border: 1px solid var(--border);
+  border: 1px solid var(--line);
   border-radius: 3px;
   padding: 0.05rem 0.4rem;
   letter-spacing: 0.04em;
@@ -215,17 +221,27 @@ article.issue code {
   white-space: nowrap;
   vertical-align: 0.1em;
 }
-article.issue a code { color: var(--accent); }
+article.issue a code { color: var(--crema); }
 article.issue a:has(code) { text-decoration: none; }
 
-/* === Brewing list === */
+/* === Grinding / Mempool band — heading + list share a panel surface === */
 article.issue h2.brewing-label {
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--fg-muted);
+  color: var(--mut);
   text-transform: uppercase;
   letter-spacing: 0.22em;
-  margin: 3rem 0 1rem;
+  margin: 3rem 0 0;
+  background: var(--panel);
+  padding: 1rem 1.4rem 0.6rem;
+  border-radius: 3px 3px 0 0;
+}
+article.issue h2.brewing-label + ul {
+  background: var(--panel);
+  padding: 0.4rem 1.4rem 1.1rem;
+  margin: 0 0 2rem;
+  border-radius: 0 0 3px 3px;
+  list-style: none;
 }
 article.issue ul {
   list-style: none;
@@ -236,19 +252,19 @@ article.issue ul li {
   margin: 0 0 0.65rem;
   padding-left: 1rem;
   position: relative;
-  color: var(--fg-muted);
+  color: var(--soft);
   line-height: 1.55;
 }
 article.issue ul li::before {
   content: "›";
-  color: var(--accent);
+  color: var(--crema-deco);
   position: absolute;
   left: 0;
 }
 
 /* === Links === */
 article.issue a {
-  color: var(--accent);
+  color: var(--crema);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
@@ -258,37 +274,37 @@ article.issue a:hover { text-decoration-thickness: 2px; }
 /* === Horizontal rule === */
 article.issue hr {
   border: none;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--line);
   margin: 3rem 0 2rem;
 }
 
 /* === Archive === */
 .archive {
   margin-top: 4rem;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--line);
   padding-top: 2rem;
 }
 .archive h2 {
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--fg-muted);
+  color: var(--mut);
   text-transform: uppercase;
   letter-spacing: 0.22em;
   margin: 0 0 1.25rem;
 }
 .archive ul { list-style: none; padding: 0; margin: 0; }
-.archive ul li { margin-bottom: 0.4rem; padding-left: 0; color: var(--fg); }
+.archive ul li { margin-bottom: 0.4rem; padding-left: 0; color: var(--ink); background: transparent; }
 .archive ul li::before { display: none; }
 .archive a {
   font-family: var(--mono);
   font-size: 0.9rem;
-  color: var(--fg);
+  color: var(--ink);
   text-decoration: none;
 }
-.archive a:hover { color: var(--accent); }
+.archive a:hover { color: var(--crema); }
 
 .empty {
-  color: var(--fg-muted);
+  color: var(--soft);
   font-style: italic;
   text-align: center;
   padding: 3rem 0;
@@ -298,10 +314,10 @@ article.issue hr {
 footer.site {
   margin-top: 4rem;
   padding-top: 1.5rem;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--line);
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--fg-muted);
+  color: var(--mut);
   letter-spacing: 0.18em;
   text-transform: uppercase;
   display: flex;
@@ -309,10 +325,10 @@ footer.site {
   flex-wrap: wrap;
   gap: 0.5rem;
 }
-footer.site a { color: var(--fg-muted); text-decoration: none; }
-footer.site a:hover { color: var(--accent); }
+footer.site a { color: var(--mut); text-decoration: none; }
+footer.site a:hover { color: var(--crema); }
 
-::selection { background: var(--accent); color: var(--bg); }
+::selection { background: var(--crema-deco); color: var(--card); }
 
 /* === Mobile === */
 @media (max-width: 480px) {
@@ -326,4 +342,6 @@ footer.site a:hover { color: var(--accent); }
   .chip { font-size: 0.76rem; }
   article.issue blockquote.pour,
   article.issue blockquote.last-sip { padding: 1rem 1.1rem; }
+  article.issue h2.brewing-label { padding: 0.85rem 1.1rem 0.5rem; }
+  article.issue h2.brewing-label + ul { padding: 0.4rem 1.1rem 0.9rem; }
 }

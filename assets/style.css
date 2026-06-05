@@ -1,31 +1,89 @@
+/* ============================================================
+   Cryptoccino — theme tokens.
+   Default :root is Cappuccino. Three overrides via the
+   html[data-roast="…"] attribute swap the same tokens for the
+   other roasts. Every theme-able colour reads through a variable;
+   nothing outside this block hardcodes a roast colour.
+   ============================================================ */
+
 :root {
-  /* Cappuccino-cream palette. Step from darkest ground -> page card -> bands. */
-  --bg: #EAE0CF;          /* cappuccino ground            */
-  --panel: #F3EBDB;       /* lighter band (Pour, Mempool) */
-  --card: #FBF6EE;        /* page / issue surface         */
+  /* Cappuccino — sandstorm beige.
+     Darker / sandier than the previous default cream so the four
+     roasts (Latte / Cappuccino / Flat White / Espresso) read as a
+     clear lightest → darkest gradient. */
+  --bg:     #E8D9B6;   /* sand storm                  */
+  --card:   #F2E5C2;   /* lighter sand surface        */
+  --panel:  #D9C58F;   /* deeper sand band            */
+  --ink:    #2E2117;   /* primary body text           */
+  --soft:   #4F4031;   /* secondary body text         */
+  --mut:    #6D5C40;   /* tags, meta, small labels    */
+  --line:   #C2A86E;   /* hairline divider + borders  */
+  --accent: #7B440E;   /* links, kickers, decoration  */
 
-  /* Ink (text) ramp, espresso to faint warm grey. */
-  --ink: #2E2117;         /* primary body text            */
-  --soft: #4F4031;        /* secondary body text          */
-  --mut: #7D6C58;         /* tags, meta, small labels     */
-  --faint: #9A8A74;       /* faint labels                 */
+  /* Price up/down — fixed across all roasts so red/green stays
+     legible on the dark Espresso too. 16% alpha pill background
+     composes onto whichever chip surface is underneath. */
+  --price-up:       #5C8A54;
+  --price-down:     #C25A4F;
+  --price-up-tint:  rgba(92, 138, 84, 0.16);
+  --price-down-tint: rgba(194, 90, 79, 0.16);
 
-  --line: #DECBAF;        /* warm divider                 */
-
-  /* Crema: legible accent for links/kickers, and a brighter decorative tint. */
-  --crema: #A35E1E;       /* inline links, lead block labels (WHAT HAPPENED…) */
-  --crema-deco: #C2823C;  /* glyphs, decorative crema     */
-  --kicker: #8A4E16;      /* mono caps under ~13px (THE POUR, PRICES, etc.)   */
-
-  --up: #4C7A47;
-  --down: #B14A33;
-
-  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+  --mono:  ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
   --serif: "Iowan Old Style", Georgia, Cambria, "Times New Roman", serif;
 }
 
+html[data-roast="latte"] {
+  --bg:     #FCFAF5;   /* near-pure white with faint warm undertone */
+  --card:   #FFFFFF;   /* pure white milk */
+  --panel:  #F2E9D5;   /* very light cream band */
+  --ink:    #3A2C1E;
+  --soft:   #5A4A39;
+  --mut:    #8A7860;
+  --line:   #E6D9BD;
+  --accent: #9A5A1C;
+}
+
+html[data-roast="flat-white"] {
+  --bg:     #C8A370;   /* caramel */
+  --card:   #D4B485;   /* light caramel */
+  --panel:  #B58E55;   /* deeper caramel */
+  --ink:    #2A1A0B;   /* near black-brown for max contrast */
+  --soft:   #3F2818;
+  --mut:    #5F4426;
+  --line:   #8B6332;
+  --accent: #4A2A0E;   /* deep wood brown for legible links on caramel */
+}
+
+html[data-roast="espresso"] {
+  --bg:     #241910;
+  --card:   #2F2217;
+  --panel:  #352619;
+  --ink:    #F3E9D8;
+  --soft:   #D8C7AE;
+  --mut:    #A38E72;
+  --line:   #473628;
+  --accent: #D9963C;
+}
+
+/* ============================================================
+   Resets + transition (the "pour" between roasts).
+   ============================================================ */
+
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
+
+html, body, .container,
+article.issue, article.issue *,
+.prices, .chip, .chip *,
+.roast-toggle, .roast-toggle button,
+header.site, footer.site {
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease,
+    fill 0.25s ease,
+    stroke 0.25s ease;
+}
 
 body {
   background: var(--bg);
@@ -46,6 +104,11 @@ body {
 
 /* === Site chrome === */
 header.site {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
   margin-bottom: 2.5rem;
   border-bottom: 1px solid var(--line);
   padding-bottom: 1.5rem;
@@ -53,12 +116,51 @@ header.site {
 header.site .brand {
   display: inline-block;
   text-decoration: none;
+  color: var(--ink);
 }
-header.site .brand img {
+/* Inline lockup SVG: currentColor on dark parts picks up --ink via
+   .brand's color; caramel parts read var(--accent) directly. */
+header.site .brand .lockup {
   display: block;
   width: 100%;
-  max-width: 360px;
+  max-width: 320px;
   height: auto;
+}
+
+/* === Roast toggle (segmented control) === */
+.roast-toggle {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  overflow: hidden;
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: var(--card);
+}
+.roast-toggle button {
+  appearance: none;
+  background: transparent;
+  border: none;
+  border-right: 1px solid var(--line);
+  color: var(--mut);
+  cursor: pointer;
+  padding: 0.4rem 0.7rem;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  line-height: 1.2;
+}
+.roast-toggle button:last-child { border-right: none; }
+.roast-toggle button:hover:not([aria-pressed="true"]) { color: var(--ink); }
+.roast-toggle button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+.roast-toggle button[aria-pressed="true"] {
+  background: var(--accent);
+  color: var(--card);
 }
 
 article.issue header { margin-bottom: 2rem; }
@@ -76,17 +178,10 @@ article.issue .section-card {
   margin: 3rem 0 0.5rem;
   border-radius: 3px;
 }
-/* Kramdown wraps the raw <img> in a <p>; collapse the paragraph margin so
-   the card and the H2 that follows read as one block. */
-article.issue p:has(> .section-card) {
-  margin: 3rem 0 0.5rem;
-}
-article.issue p:has(> .section-card) > .section-card {
-  margin: 0;
-}
-article.issue p:has(> .section-card) + h2 {
-  margin-top: 1rem;
-}
+article.issue p:has(> .section-card) { margin: 3rem 0 0.5rem; }
+article.issue p:has(> .section-card) > .section-card { margin: 0; }
+article.issue p:has(> .section-card) + h2 { margin-top: 1rem; }
+
 article.issue h1 {
   font-family: var(--mono);
   font-size: 1.3rem;
@@ -100,19 +195,19 @@ article.issue h1 {
 article.issue h2 {
   font-family: var(--mono);
   font-size: 0.95rem;
-  color: var(--crema);
+  color: var(--accent);
   margin: 3rem 0 1.25rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
-/* === Pour + Last sip — label style on a panel band === */
+/* === Pour + Last sip === */
 article.issue blockquote.pour,
 article.issue blockquote.last-sip {
   margin: 0 0 2rem;
   padding: 1.1rem 1.4rem;
   background: var(--panel);
-  border-left: 2px solid var(--crema);
+  border-left: 2px solid var(--accent);
   color: var(--ink);
   font-style: italic;
   border-radius: 0 3px 3px 0;
@@ -125,7 +220,7 @@ article.issue blockquote.pour strong,
 article.issue blockquote.last-sip strong {
   font-family: var(--mono);
   font-style: normal;
-  color: var(--kicker);
+  color: var(--accent);
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -141,12 +236,12 @@ article.issue blockquote.last-sip em {
   margin-left: 0.25rem;
 }
 
-/* === Pour band: blockquote + price strip on one panel surface === */
+/* === Pour band: wraps Pour blockquote + price strip === */
 article.issue .pour-band {
   margin: 0 0 2rem;
   padding: 1.1rem 1.4rem;
   background: var(--panel);
-  border-left: 2px solid var(--crema);
+  border-left: 2px solid var(--accent);
   border-radius: 0 3px 3px 0;
 }
 article.issue .pour-band blockquote.pour {
@@ -160,15 +255,15 @@ article.issue .pour-band blockquote.pour {
 /* === Prices strip === */
 .prices {
   margin: 1rem 0 0;
-  background: #F6F2E8;
-  border: 1px solid #E3D4BA;
+  background: var(--panel);
+  border: 1px solid var(--line);
   border-radius: 10px;
   padding: 0.95rem 1.05rem 1.05rem;
 }
 .prices-label {
   font-family: var(--mono);
   font-size: 0.68rem;
-  color: var(--kicker);
+  color: var(--accent);
   text-transform: uppercase;
   letter-spacing: 0.24em;
   margin: 0 0 0.6rem;
@@ -181,10 +276,7 @@ article.issue .pour-band blockquote.pour {
   padding: 0;
   margin: 0;
 }
-article.issue .chips li {
-  margin: 0;
-  padding: 0;
-}
+article.issue .chips li { margin: 0; padding: 0; }
 article.issue .chips li::before { display: none; }
 .chip {
   display: flex;
@@ -192,8 +284,8 @@ article.issue .chips li::before { display: none; }
   justify-content: space-between;
   gap: 0.75rem;
   padding: 0.9rem 1.1rem;
-  background: #FFFDF9;
-  border: 1px solid #E8DCC6;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   font-family: var(--mono);
   font-size: 0.78rem;
@@ -219,16 +311,15 @@ article.issue .chips li::before { display: none; }
   border-radius: 5px;
   font-weight: 600;
 }
-.chip .change.up   { background: #E7EFE0; color: #3F6B3A; }
-.chip .change.down { background: #F1E0DD; color: #A8403A; }
+.chip .change.up   { background: var(--price-up-tint);   color: var(--price-up); }
+.chip .change.down { background: var(--price-down-tint); color: var(--price-down); }
 .chip .spark { display: block; }
-/* Restroke inline sparkline SVG to match the direction pill so the
-   green/red is consistent and clearly distinct from the crema link colour.
-   Sibling selector overrides inline stroke/fill attributes from pipeline/prices.py. */
-.chip .change.up   ~ .spark polyline { stroke: #3F6B3A; }
-.chip .change.up   ~ .spark circle   { fill:   #3F6B3A; }
-.chip .change.down ~ .spark polyline { stroke: #A8403A; }
-.chip .change.down ~ .spark circle   { fill:   #A8403A; }
+/* Restroke inline sparkline SVG to match the direction pill. Sibling
+   selector overrides the inline stroke/fill attributes from prices.py. */
+.chip .change.up   ~ .spark polyline { stroke: var(--price-up); }
+.chip .change.up   ~ .spark circle   { fill:   var(--price-up); }
+.chip .change.down ~ .spark polyline { stroke: var(--price-down); }
+.chip .change.down ~ .spark circle   { fill:   var(--price-down); }
 
 /* === Lead section === */
 section.lead {
@@ -239,7 +330,7 @@ section.lead {
 section.lead .kicker {
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--kicker);
+  color: var(--accent);
   letter-spacing: 0.22em;
   text-transform: uppercase;
   margin: 0 0 0.4rem;
@@ -263,7 +354,7 @@ section.lead .sources {
 section.lead p { margin: 0 0 1.75rem; color: var(--ink); }
 section.lead p strong:first-child {
   font-family: var(--mono);
-  color: var(--crema);
+  color: var(--accent);
   font-size: 0.72rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -275,7 +366,7 @@ section.lead p strong:first-child {
 article.issue blockquote:not(.pour):not(.last-sip) {
   margin: 0 0 1.5rem;
   padding: 0 0 0 1rem;
-  border-left: 2px solid var(--crema);
+  border-left: 2px solid var(--accent);
   color: var(--soft);
   font-style: normal;
 }
@@ -290,7 +381,7 @@ article.issue blockquote:not(.pour):not(.last-sip) strong:first-child {
 article.issue code {
   font-family: var(--mono);
   font-size: 0.7rem;
-  color: var(--crema);
+  color: var(--accent);
   background: transparent;
   border: 1px solid var(--line);
   border-radius: 3px;
@@ -300,10 +391,10 @@ article.issue code {
   white-space: nowrap;
   vertical-align: 0.1em;
 }
-article.issue a code { color: var(--crema); }
+article.issue a code { color: var(--accent); }
 article.issue a:has(code) { text-decoration: none; }
 
-/* === Grinding / Mempool band — heading + list share a panel surface === */
+/* === Grinding / Mempool band === */
 article.issue h2.brewing-label {
   font-family: var(--mono);
   font-size: 0.72rem;
@@ -336,14 +427,14 @@ article.issue ul li {
 }
 article.issue ul li::before {
   content: "›";
-  color: var(--crema-deco);
+  color: var(--accent);
   position: absolute;
   left: 0;
 }
 
 /* === Links === */
 article.issue a {
-  color: var(--crema);
+  color: var(--accent);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
@@ -380,7 +471,7 @@ article.issue hr {
   color: var(--ink);
   text-decoration: none;
 }
-.archive a:hover { color: var(--crema); }
+.archive a:hover { color: var(--accent); }
 
 .empty {
   color: var(--soft);
@@ -405,21 +496,25 @@ footer.site {
   gap: 0.5rem;
 }
 footer.site a { color: var(--mut); text-decoration: none; }
-footer.site a:hover { color: var(--crema); }
+footer.site a:hover { color: var(--accent); }
 
-::selection { background: var(--crema-deco); color: var(--card); }
+::selection { background: var(--accent); color: var(--card); }
 
 /* === Mobile === */
 @media (max-width: 480px) {
   body { font-size: 15px; }
   .container { padding: 1.75rem 1rem 3rem; }
+  header.site { gap: 0.75rem; }
+  header.site .brand img { max-width: 260px; }
+  .roast-toggle { font-size: 0.55rem; }
+  .roast-toggle button { padding: 0.35rem 0.55rem; }
   article.issue h1 { font-size: 1.1rem; }
   section.lead h2 { font-size: 1.3rem; }
   section.lead p { margin: 0 0 1.4rem; }
   article.issue h2 { font-size: 0.88rem; margin-top: 2.25rem; }
   .prices { padding: 0.85rem 0.95rem 0.95rem; }
   .chips { gap: 0.45rem 0.9rem; }
-  .chip { font-size: 0.76rem; }
+  .chip { font-size: 0.76rem; padding: 0.75rem 0.9rem; }
   article.issue blockquote.pour,
   article.issue blockquote.last-sip { padding: 1rem 1.1rem; }
   article.issue h2.brewing-label { padding: 0.85rem 1.1rem 0.5rem; }

@@ -5,80 +5,96 @@ date: 2026-06-05
 issue_date: 2026-06-05
 ---
 
-> **The Pour.** A blowout jobs print, a four-year-old privacy-coin bug, and a week crypto would rather forget.
+> **The Pour.** Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor.
+>
+> **Today.** Bitcoin breaks $60K as blowout NFP kills rate-cut hopes _Markets_ · Zcash's Orchard Pool had a silent counterfeiting flaw for four years _Security Desk_ · JPMorgan, BofA and Citi plan a shared tokenised deposit network _Projects & Money_.
+{: .pour}
 
-## The Tape
+<section class="prices">
+  <p class="prices-label">Prices</p>
+  <ul class="chips">
+    <li class="chip"><span class="ticker">BTC</span><span class="price">60,172</span><span class="change down">−5.73%</span></li>
+    <li class="chip"><span class="ticker">ETH</span><span class="price">1,575</span><span class="change down">−11.29%</span></li>
+    <li class="chip"><span class="ticker">USDT</span><span class="price">0.9994</span><span class="change up">+0.05%</span></li>
+    <li class="chip"><span class="ticker">BNB</span><span class="price">578</span><span class="change down">−4.54%</span></li>
+    <li class="chip"><span class="ticker">USDC</span><span class="price">0.9998</span><span class="change up">+0.01%</span></li>
+    <li class="chip"><span class="ticker">XRP</span><span class="price">1.10</span><span class="change down">−5.78%</span></li>
+    <li class="chip"><span class="ticker">SOL</span><span class="price">64.16</span><span class="change down">−7.78%</span></li>
+    <li class="chip"><span class="ticker">TRX</span><span class="price">0.3203</span><span class="change down">−3.12%</span></li>
+    <li class="chip"><span class="ticker">HYPE</span><span class="price">57.70</span><span class="change down">−14.44%</span></li>
+    <li class="chip"><span class="ticker">DOGE</span><span class="price">0.08156</span><span class="change down">−8.74%</span></li>
+  </ul>
+</section>
 
-**[Crypto's worst week since July 2024 deepens on macro and Zcash shock](https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment)** `theblock`
+<section class="lead" markdown="1">
 
-Bitcoin slid to near $62,000 as a combination of Strategy's BTC sale, $4.2 billion in ETF outflows, rising oil prices and the Zcash bug disclosure compounded into the market's worst seven-day stretch in nearly two years. Ether is trading around $1,840 with prediction markets placing a 71% chance on a move to $1,500. The CoinDesk 20 fell 2.8% on the day.
+**MARKETS**
+{: .kicker}
 
-**[Strong US jobs data kills near-term rate-cut hopes](https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes)** `coindesk`
+## Bitcoin breaks below $60,000 for the first time since October 2024 as stronger-than-expected US jobs data crushes rate-cut hopes.
 
-May payrolls came in well above forecasts, pushing interest-rate futures to price in a December hike rather than a cut. The print hit crypto directly, with Bitcoin dropping a further leg as the data crossed. Fed officials signalled policy is comfortable where it is, leaving little room for the liquidity tailwind markets had been counting on.
+[`coindesk`](https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes) [`cryptobriefing`](https://cryptobriefing.com/jobs-data-crushes-crypto-rate-cut-hopes/) [`decrypt`](https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go) [`theblock`](https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment)
+{: .sources}
 
-**[ETF outflow streaks snap, but barely](https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts)** `theblock`
+**What happened.** Bitcoin dropped through $60,000, touching its weakest level since October 2024, capping a 14% slide in a single week. The proximate trigger was a US non-farm payrolls print that blew past consensus, strengthening the dollar and repricing Fed rate expectations hawkishly. The CoinDesk 20 declined in lockstep, with ETH briefly dipping below $1,600 and XRP suffering liquidation-driven losses toward $1.10.
 
-Bitcoin spot ETFs ended a 13-day outflow run with a net $3 million in inflows, and Ether ETFs broke a 17-day streak, both on thin volumes as traders rotated into equity perps ahead of the jobs number. Grayscale noted that Strategy's accumulation capacity is constrained at current MSTR and STRC share prices, flagging the need for new buyer pools to establish a sustainable floor.
+**Why it matters.** This is crypto's worst weekly performance since July 2024, and the macro read is straightforward: a resilient labour market pushes rate cuts further out, reducing the risk-on appeal of speculative assets. Compounding the pressure, Strategy's BTC sale earlier in the week and roughly $4.2 billion in ETF outflows over thirteen consecutive days left no institutional bid to cushion the fall. Grayscale noted that Strategy's accumulation capacity is constrained at current MSTR and STRC share prices, meaning the usual marginal buyer is sidelined.
 
-**[JPMorgan, Citi and Bank of America plan shared tokenised deposit network](https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network)** `theblock`
+**The catch.** Spot BTC and ETH ETFs technically ended their outflow streaks on Thursday, logging modest inflows of $3 million and a handful for ETH after 13 and 17 days respectively. Whether that marks a genuine floor or a one-day noise blip ahead of further macro volatility is the open question. The Zcash bug disclosure and Arthur Hayes publicly exiting multiple positions the same week did not help sentiment.
 
-A bank consortium including JPMorgan, Citi and Bank of America is targeting an early 2027 launch for a tokenised deposit network that would enable instant, round-the-clock settlement. Hong Kong's monetary authority separately announced an expert group, including JPMorgan and HSBC, to develop tokenised bond infrastructure, underlining that TradFi's blockchain build-out is accelerating on multiple fronts.
+</section>
+
+## Markets
+
+> **Zcash craters more than 50% on Orchard Pool counterfeiting disclosure.** Shielded Labs revealed a critical vulnerability in Zcash's Orchard shielded pool that sat undetected for four years, theoretically allowing unlimited undetectable ZEC minting. The bug was discovered using Anthropic's Claude and patched within days, with developers saying actual exploitation is unlikely, but the market wasn't waiting for confirmation. Arthur Hayes publicly dumped his ZEC holdings after the news broke, short interest hit a record, and Cypherpunk Technologies, the Winklevoss-backed Zcash treasury firm, fell nearly 40%. [`theblock`](https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years) [`decrypt`](https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability)
+
+> **Morgan Stanley lets wealth clients lend crypto for in-kind ETF conversions.** Morgan Stanley Wealth Management has partnered with Galaxy Digital to allow eligible clients to lend Bitcoin and other assets in exchange for shares in crypto exchange-traded products. The in-kind conversion route sidesteps cash redemption friction and is a meaningful step toward integrating spot crypto holdings with traditional portfolio structures. [`theblock`](https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions) [`cryptobriefing`](https://cryptobriefing.com/crypto-lending-opportunities-morgan-stanley/)
+
+> **CME CEO warns CFTC-approved perpetual futures are a retail blowup waiting to happen.** CME chief Terry Duffy publicly criticised the CFTC's move to greenlight crypto perpetual futures for US venues, arguing the unlimited-duration leverage products expose retail traders to outsized risk. His comments land as the UK FCA separately flagged Hyperliquid as an unauthorised firm targeting British users, adding regulatory heat to the perps market on two continents. [`theblock`](https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen) [`decrypt`](https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny)
+
+> **Ethereum's liquidation stack builds as ETH trades below $1,600.** Ethereum's slide below $1,600 for the first time since April 2025 has put roughly $547 million in onchain positions at risk of forced liquidation at nearby price levels. Prediction markets are pricing a 71% chance of a further fall to $1,500, and the charts offer little structural support between here and that level. [`cryptobriefing`](https://cryptobriefing.com/ethereum-faces-547m-liquidation-risk-as-price-nears-critical-levels/) [`cryptobriefing`](https://cryptobriefing.com/ethereum-falls-below-1600-for-first-time-since-april-2025/) [`decrypt`](https://decrypt.co/369926/ethereum-eth-price-25-percent-bottom-technical-analysis)
 
 ## Projects & Money
 
-**[Zcash discloses four-year-old counterfeiting bug in Orchard shielded pool](https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million)** `theblock`
+> **JPMorgan, BofA and Citi form a consortium to launch a tokenised deposit network by early 2027.** The Wall Street Journal reported that a bank-backed group including JPMorgan, Bank of America, Citi and others plans to launch a shared tokenised deposit network that enables instant, around-the-clock interbank settlement. Hong Kong's Monetary Authority simultaneously announced its own expert group, pulling in JPMorgan and HSBC to scale tokenised bond issuance, signalling parallel institutional momentum on multiple continents. [`theblock`](https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network) [`theblock`](https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds)
 
-Shielded Labs revealed a critical vulnerability in Zcash's Orchard pool that, in theory, allowed unlimited undetectable minting of ZEC. The flaw was found by a researcher using Anthropic's Claude and patched within days via an emergency network upgrade; developers say no exploitation is evident. ZEC dropped more than 50% on the news and topped $116 million in 24-hour liquidations, with Arthur Hayes publicly exiting his position.
+> **Coinbase closes the first Fannie Mae-backed mortgage using Bitcoin as collateral.** A Michigan couple completed what Coinbase describes as the first conventional home mortgage backed by Fannie Mae where Bitcoin served as the pledged collateral. The structure keeps the BTC position intact while unlocking real-estate financing, a model likely to attract attention from retail holders sitting on appreciated coins. [`decrypt`](https://decrypt.co/370016/fannie-mae-backed-bitcoin-home-mortgages-finally-here-coinbase)
 
-**[Coinbase and Better fund first Fannie Mae-backed bitcoin-collateral mortgage](https://www.theblock.co/post/403640/coinbase-better-first-bitcoin-backed-mortgage-nationwide-rollout-soon)** `theblock`
+> **Radiant Capital winds down after failing to recover from its 2024 hack.** The lending protocol announced it is shutting down operations, citing an inability to rebuild after last year's exploit. Frontends and smart contracts stay accessible so users can still withdraw and manage positions, but new activity is ending. [`cointelegraph_defi`](https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound)
 
-A Michigan couple closed on a conventional home loan using bitcoin as collateral, the first such deal to carry Fannie Mae backing. Coinbase handled the collateral custody and Better originated the loan, with a nationwide rollout planned imminently. The product represents the first time the US government-sponsored mortgage infrastructure has formally accommodated a crypto asset.
-
-**[Radiant Capital winds down after failing to recover from 2024 hack](https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack)** `cointelegraph_defi`
-
-DeFi lending protocol Radiant Capital announced it is shutting down, unable to rebuild after last year's exploit drained its reserves. The frontend and smart contracts will remain live so users can withdraw and repay positions. It is one of several general-purpose DeFi protocols quietly folding as the sector consolidates around a smaller number of dominant platforms.
-
-**[Mastercard widens stablecoin settlement rails across USDC and RLUSD](https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd)** `decrypt`
-
-Mastercard deepened its stablecoin settlement capabilities, adding Circle's USDC and Ripple's RLUSD to its network alongside existing integrations. The move positions the card giant to settle transactions around the clock and underlines that payment infrastructure is treating stablecoins as a mainstream settlement layer rather than a niche product.
+> **Mastercard deepens stablecoin settlement coverage via USDC and RLUSD.** Mastercard expanded its stablecoin settlement rails to include Circle's USDC and Ripple's RLUSD alongside existing integrations, framing the push as a commitment to always-on payment capability. The move adds two of the largest non-Tether stablecoins to a network that processes billions of transactions annually. [`decrypt`](https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd)
 
 ## Security Desk
 
-**[Zcash Orchard pool: four-year counterfeiting vulnerability patched](https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops)** `theblock`
+> **Zcash Orchard Pool: four-year-old counterfeiting flaw disclosed.** A researcher working with Shielded Labs found a critical bug in Zcash's Orchard shielded pool that could have allowed silent, unlimited ZEC minting. Patched within days of discovery; whether any exploitation occurred before disclosure remains unknown. [`theblock`](https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years)
 
-A critical flaw in the Orchard shielded pool could have allowed unlimited, undetectable ZEC minting. Patched via emergency upgrade; no confirmed exploitation, but on-chain history is unverifiable by design.
+> **Kelp DAO hacker launders $220 million, leaving recovery hopes largely exhausted.** The exploiter behind the $293 million Kelp DAO hack has moved nearly all remaining stolen funds through mixing infrastructure, rendering them effectively unrecoverable. Approximately $71 million frozen by Arbitrum's Security Council remains the sole chunk with any recovery pathway. [`cointelegraph_defi`](https://cointelegraph.com/news/kelp-dao-recovery-hacker-launders-most-funds-293m-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound)
 
-**[Kelp DAO hacker launders roughly $220 million in stolen funds](https://cointelegraph.com/news/kelp-dao-recovery-hacker-launders-most-funds-293m-exploit)** `cointelegraph_defi`
+> **EdgeX token collapses; ZachXBT alleges insiders held nearly the entire supply.** The decentralised exchange EdgeX blamed an external party for its token crash, but onchain investigator ZachXBT published evidence suggesting insiders controlled most of the float and orchestrated the dump. The project denies manipulation. [`cointelegraph_defi`](https://cointelegraph.com/news/edgex-blames-external-party-for-token-crash-as-zachxbt-points-to-insider-manipulation?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound)
 
-The attacker behind the $293 million rsETH exploit moved nearly all remaining stolen assets through mixing, leaving only the $71 million frozen by Arbitrum's Security Council potentially recoverable.
-
-**[DxSale drained for $7.3 million via BNB Chain liquidity exploit](https://cointelegraph.com/news/memecoin-platform-dxsale-drained-73m-1400-lps)** `cointelegraph_defi`
-
-Roughly $7.3 million was pulled from BNB Chain liquidity providers through a vulnerability in DxSale's older locker contracts, raising concerns about unmaintained DeFi infrastructure.
-
-**[UK FCA flags Hyperliquid as unauthorised firm targeting British users](https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny)** `decrypt`
-
-The FCA added Hyperliquid to its warning list, noting the perps platform operates without UK authorisation. The move adds regulatory pressure to an already-scrutinised sector.
+> **DOJ task force freezes $3.8 million in illicit crypto tied to Southeast Asian organised crime.** The operation drew on cooperation from Coinbase, SpaceX and Meta to identify and freeze funds linked to fraud networks operating out of Southeast Asia. The dollar figure is modest but the cross-sector industry participation in a law enforcement action is notable. [`decrypt`](https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta)
 
 ## On the Hill
 
-**[CLARITY Act window is narrow, says JPMorgan; Senate process grinds on](https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year)** `theblock`
+> **CLARITY Act stalls again as Senator Alsobrooks insists on an ethics deal before a floor vote.** Senator Angela Alsobrooks confirmed she will not support bringing the Digital Asset Market Clarity Act to a Senate vote until a satisfactory ethics provision addressing elected officials' crypto conflicts is attached. JPMorgan analysts separately warned the bill may have only a narrow window to pass before the legislative calendar tightens. The White House crypto adviser Patrick Witt called the bill pro-enforcement and urged action, but bipartisan consensus remains elusive. [`coindesk`](https://www.coindesk.com/coindesk-news/2026/06/05/alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote) [`theblock`](https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year) [`theblock`](https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill)
 
-JPMorgan analysts warned the market structure bill has only a tight passage window in 2026, with Democratic senators holding out for stronger ethics provisions before they back any version. Treasury Secretary Bessent told lawmakers the Bitcoin reserve executive order is proceeding at deliberate speed, while White House crypto adviser Patrick Witt called the bill pro-enforcement to counter sceptics.
+> **House Ways and Means weighs crypto tax bills including a small-transaction exemption.** The House tax-writing committee took up a slate of crypto-related measures, among them a provision that would relieve taxpayers of reporting obligations on small everyday crypto purchases. A separate lawmaker warned that allowing government payments in stablecoins would legitimise alternatives to the dollar and enable tax evasion. [`coindesk`](https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions) [`decrypt`](https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns)
 
-**[CFTC drops its no-deny settlement policy, following the SEC's lead](https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements)** `cointelegraph_regulation`
+> **South Korean police open the country's first illegal gambling probe into Polymarket users.** Seoul authorities have launched proceedings against local users of the prediction market under gambling statutes, with potential fines of up to roughly $6,500 per person. The action is the first of its kind in South Korea and arrives as US House Republicans also plan to add prediction market restrictions to a congressional stock-trading ban bill. [`theblock`](https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users) [`cointelegraph_regulation`](https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound) [`decrypt`](https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill)
 
-CFTC chair Mike Selig rescinded the agency's longstanding practice of settling enforcement actions without requiring admissions of wrongdoing, mirroring a similar SEC move. Separately, Selig is seeking to reverse the 2025 Gemini settlement, which former CFTC chairs have called extraordinarily unusual for an enforcement agency to pursue.
+> **EU MiCA grace period ends 1 July with ESMA saying unlicensed firms must stop serving EU clients.** The European Securities and Markets Authority has confirmed that crypto businesses still awaiting MiCA authorisation cannot use the pending status as cover to keep operating after the 1 July deadline. Firms that continue serving EU clients without a licence after that date face immediate enforcement exposure. [`cointelegraph_regulation`](https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound)
 
-**[House GOP adds prediction markets to congressional trading-ban bill](https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill)** `decrypt`
+## What else is brewing
+{: .brewing-label}
 
-Representative Bryan Steil plans to include Polymarket and Kalshi-style platforms in the House bill restricting lawmakers from trading on non-public information, a move that arrives as House Democrats simultaneously pushed the FTC to probe prediction markets for deceptive practices and South Korean police opened the country's first illegal-gambling investigation targeting local Polymarket users.
-
-**[OFAC sanctions Iran's four largest crypto exchanges](https://www.elliptic.co/blog/ofac-sanctions-nobitex-and-three-other-iranian-cryptoasset-exchanges)** `elliptic`
-
-Treasury's OFAC designated Nobitex, Wallex, Bitpin and Ramzinex, adding key executives to the list. Elliptic estimates the four platforms processed at least $40 billion in crypto collectively, and has linked Nobitex to IRGC-aligned activity and potential capital flight following recent US-Israeli strikes.
+- Crypto PAC-backed candidates swept primaries in California and New Jersey after $3.5 million in industry ad spend, continuing the sector's streak of primary-season wins. [`cointelegraph_regulation`](https://cointelegraph.com/news/crypto-pac-candidates-california-nj-primaries-ads?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound)
+- Russia sanctioned a 17-year-old British student after he published research alleging the ruble-pegged stablecoin A7A5 was being used to circumvent sanctions, making him reportedly the first high-school student designated by a foreign authoritarian government. [`decrypt`](https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions) [`cointelegraph_regulation`](https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound)
+- Chainalysis traced a $100 million gray-market peptide economy to Chinese cartel-linked suppliers who pivoted to Bitcoin and stablecoins as the looksmaxxing trend drove demand. [`chainalysis`](https://www.chainalysis.com/blog/gray-market-peptide-crypto-boom/) [`decrypt`](https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis)
+- Cardano slumped to a five-year price low as founder Charles Hoskinson warned the ecosystem faces a coming wave of project failures. [`decrypt`](https://decrypt.co/369974/cardano-slumps-5-year-low-price-charles-hoskinson-warns-failures)
+- Coinbase launched pre-IPO perpetual contracts starting with SpaceX, which is targeting a $75 billion IPO oversubscribed and set for a 12 June debut. [`decrypt`](https://decrypt.co/369991/coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spacex)
+- A Casascius physical Bitcoin coin minted 15 years ago was redeemed this week, yielding $1.78 million in BTC to whoever had been holding the brass disc. [`decrypt`](https://decrypt.co/369947/someone-redeemed-15-year-old-physical-bitcoin-scoring-1-78-million)
 
 ---
 
-> **Last sip.** The Zcash ledger has four years of shielded history that no one can verify.
+> **Last sip.** Whether the Zcash Orchard bug was ever quietly exploited before disclosure may never be provable, which is precisely the problem with shielded pools.
+{: .last-sip}

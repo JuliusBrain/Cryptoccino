@@ -61,10 +61,23 @@ def posts_dir(tmp_path, monkeypatch):
     return tmp_path / "_posts"
 
 
-def _stub_externals(monkeypatch, items, curated=SAMPLE_CURATED, markets=SAMPLE_MARKETS):
+def _stub_externals(
+    monkeypatch,
+    items,
+    curated=SAMPLE_CURATED,
+    markets=SAMPLE_MARKETS,
+    card_result="/tmp/fake-card.png",
+):
     monkeypatch.setattr(run_mod, "fetch_feeds", lambda: items)
     monkeypatch.setattr(run_mod, "curate", lambda new: curated)
     monkeypatch.setattr(run_mod, "fetch_markets", lambda: markets)
+    # Stub card generation so tests don't depend on font + icon assets.
+    monkeypatch.setattr(
+        run_mod, "generate_card", lambda lead, pour, date, out_path: card_result
+    )
+    # And neutralise the shutil.copyfile call that follows in _generate_card_for.
+    import shutil
+    monkeypatch.setattr(shutil, "copyfile", lambda src, dst: None)
 
 
 class TestEarlyExit:
@@ -161,3 +174,24 @@ class TestMarketsResilience:
         content = posts[0].read_text()
         assert '<section class="prices">' not in content
         assert "## Markets" in content  # the news beat, distinct from the strip
+
+
+class TestCardsResilience:
+    def test_card_path_lands_in_front_matter_on_success(
+        self, fresh_db, posts_dir, monkeypatch
+    ):
+        _stub_externals(monkeypatch, [SAMPLE_ITEM])
+        run_mod.main()
+        post = next(posts_dir.glob("*.md"))
+        assert "card: /assets/cards/" in post.read_text()
+
+    def test_card_failure_still_writes_post(
+        self, fresh_db, posts_dir, monkeypatch
+    ):
+        _stub_externals(monkeypatch, [SAMPLE_ITEM], card_result=None)
+        run_mod.main()
+        posts = list(posts_dir.glob("*.md"))
+        assert len(posts) == 1
+        content = posts[0].read_text()
+        assert "## Markets" in content
+        assert "card:" not in content

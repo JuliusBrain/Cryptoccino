@@ -9,6 +9,8 @@ Filename convention: _posts/YYYY-MM-DD-cryptoccino.md.
 from datetime import date
 from pathlib import Path
 
+from pipeline.prices import render_strip_html
+
 POSTS_DIR = "_posts"
 TITLE_BASE = "Cryptoccino"
 
@@ -29,38 +31,24 @@ def _render_source_tags(links):
     return " ".join(f"[`{link['source_id']}`]({link['url']})" for link in links)
 
 
-def _render_pour(issue):
-    lines = [f"> **The Pour.** {issue['pour']}"]
+def _render_pour(issue, prices_html=""):
+    """Render the Pour blockquote, wrapped in a band that also contains
+    the price strip when one is supplied."""
+    pour_lines = [f"> **The Pour.** {issue['pour']}"]
     today = issue.get("today") or []
     if today:
         parts = [f"{t['teaser']} _{t['beat']}_" for t in today]
-        lines.append(">")
-        lines.append(f"> **Today.** {' · '.join(parts)}.")
-    lines.append("{: .pour}")
-    return "\n".join(lines)
+        pour_lines.append(">")
+        pour_lines.append(f"> **Today.** {' · '.join(parts)}.")
+    pour_lines.append("{: .pour}")
+    pour_md = "\n".join(pour_lines)
 
-
-def _render_prices(markets):
-    chips = []
-    for coin in markets:
-        change = coin.get("change_24h") or 0
-        direction = "up" if change >= 0 else "down"
-        sign = "+" if change >= 0 else "−"
-        chips.append(
-            f'    <li class="chip">'
-            f'<span class="ticker">{coin["symbol"]}</span>'
-            f'<span class="price">{_format_price(coin.get("price"))}</span>'
-            f'<span class="change {direction}">{sign}{abs(change):.2f}%</span>'
-            f"</li>"
-        )
-    return (
-        '<section class="prices">\n'
-        '  <p class="prices-label">Prices</p>\n'
-        '  <ul class="chips">\n'
-        + "\n".join(chips)
-        + "\n  </ul>\n"
-        "</section>"
-    )
+    band = ['<div class="pour-band" markdown="1">', "", pour_md, ""]
+    if prices_html:
+        band.append(prices_html)
+        band.append("")
+    band.append("</div>")
+    return "\n".join(band)
 
 
 def _render_lead(lead):
@@ -121,12 +109,10 @@ def _render_last_sip(issue):
     )
 
 
-def _render_body(issue, markets, section_cards=None):
+def _render_body(issue, prices, section_cards=None):
     section_cards = section_cards or {}
-    blocks = [_render_pour(issue)]
-
-    if markets:
-        blocks.append(_render_prices(markets))
+    prices_html = render_strip_html(prices, mode="web") if prices else ""
+    blocks = [_render_pour(issue, prices_html=prices_html)]
 
     if issue.get("lead"):
         blocks.append(_render_lead(issue["lead"]))
@@ -146,18 +132,14 @@ def _yaml_quote(value):
     return '"' + (value or "").replace('"', '\\"') + '"'
 
 
-def render_post(issue, markets=None, card_path=None, section_cards=None):
-    """Write today's Jekyll post from the curated dict + markets, return path.
+def render_post(issue, prices=None, card_path=None, section_cards=None):
+    """Write today's Jekyll post from the curated dict + prices, return path.
 
-    `card_path` is a site-relative path (e.g. /assets/cards/2026-06-05.png)
-    that ends up in the post's front matter so the layout can emit the hero
-    image and the og:image/twitter:image meta. None means no card today.
-
-    `section_cards` maps beat_id to a site-relative path; if provided, an
-    <img class="section-card"> tag is injected above the corresponding
-    `## Beat title` heading.
+    `prices` is the list from pipeline.prices.fetch_prices (or None on a
+    failed fetch with no cache). `card_path` lands in front matter so the
+    layout emits the hero image + og:image. `section_cards` maps beat_id
+    to a site-relative path; each banner replaces the corresponding H2.
     """
-    markets = markets or []
     today = date.today()
     iso = today.isoformat()
     long_date = today.strftime("%A %d %B %Y")
@@ -180,6 +162,6 @@ def render_post(issue, markets=None, card_path=None, section_cards=None):
 
     out_path = Path(POSTS_DIR) / f"{iso}-cryptoccino.md"
     out_path.write_text(
-        front_matter + _render_body(issue, markets, section_cards=section_cards)
+        front_matter + _render_body(issue, prices, section_cards=section_cards)
     )
     return str(out_path)

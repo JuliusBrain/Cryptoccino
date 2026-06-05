@@ -26,14 +26,17 @@ jobs:
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
+          # COINGECKO_KEY is optional: the free tier needs no auth, but if a
+          # demo key is set it will be sent as x-cg-demo-api-key for higher
+          # rate limits.
+          COINGECKO_KEY: ${{ secrets.COINGECKO_KEY }}
         run: python -m pipeline.run
 
       - name: Commit issue and updated DB
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _posts/ data/cryptoccino.db assets/cards
+          git add _posts/ data/cryptoccino.db assets/cards assets/data assets/sparklines
           if git diff --cached --quiet; then
             echo "Nothing changed, skipping commit."
             exit 0

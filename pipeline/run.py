@@ -19,7 +19,7 @@ import yaml
 from pipeline.cards import generate_card, generate_section_card
 from pipeline.curate import curate
 from pipeline.ingest import fetch_feeds
-from pipeline.markets import fetch_markets
+from pipeline.prices import fetch_prices
 from pipeline.render import render_post
 from pipeline.store import filter_new, init_db, mark_seen
 
@@ -57,9 +57,9 @@ def main():
         len(issue.get("brewing") or []),
     )
 
-    logger.info("Fetching market data.")
-    markets = fetch_markets()
-    logger.info("Fetched %d coins for price strip.", len(markets))
+    logger.info("Fetching price strip data.")
+    prices = fetch_prices()
+    logger.info("Fetched prices for %d coins.", len(prices) if prices else 0)
 
     today = date.today()
     card_relative = _generate_card_for(issue, today)
@@ -67,7 +67,7 @@ def main():
 
     logger.info("Rendering Jekyll post.")
     path = render_post(
-        issue, markets, card_path=card_relative, section_cards=section_cards
+        issue, prices=prices, card_path=card_relative, section_cards=section_cards
     )
     logger.info("Wrote %s.", path)
 

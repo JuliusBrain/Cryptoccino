@@ -41,9 +41,9 @@ SAMPLE_CURATED = {
     "last_sip": "Done.",
 }
 
-SAMPLE_MARKETS = [
-    {"rank": 1, "symbol": "BTC", "name": "Bitcoin",
-     "price": 60000, "change_24h": -1.0},
+SAMPLE_PRICES = [
+    {"ticker": "BTC", "price": 60000, "change_24h": -1.0,
+     "spark": [1.0, 2.0, 3.0]},
 ]
 
 
@@ -65,12 +65,12 @@ def _stub_externals(
     monkeypatch,
     items,
     curated=SAMPLE_CURATED,
-    markets=SAMPLE_MARKETS,
+    prices=SAMPLE_PRICES,
     card_result="/tmp/fake-card.png",
 ):
     monkeypatch.setattr(run_mod, "fetch_feeds", lambda: items)
     monkeypatch.setattr(run_mod, "curate", lambda new: curated)
-    monkeypatch.setattr(run_mod, "fetch_markets", lambda: markets)
+    monkeypatch.setattr(run_mod, "fetch_prices", lambda: prices)
     # Stub card generation so tests don't depend on font + icon assets.
     monkeypatch.setattr(
         run_mod, "generate_card", lambda lead, pour, date, out_path: card_result
@@ -91,7 +91,7 @@ class TestEarlyExit:
         monkeypatch.setattr(run_mod, "fetch_feeds", lambda: [])
         boom = MagicMock(side_effect=AssertionError("must not be called"))
         monkeypatch.setattr(run_mod, "curate", boom)
-        monkeypatch.setattr(run_mod, "fetch_markets", boom)
+        monkeypatch.setattr(run_mod, "fetch_prices", boom)
         monkeypatch.setattr(run_mod, "render_post", boom)
         monkeypatch.setattr(run_mod, "mark_seen", boom)
 
@@ -112,7 +112,7 @@ class TestEarlyExit:
         monkeypatch.setattr(run_mod, "fetch_feeds", lambda: [SAMPLE_ITEM])
         boom = MagicMock(side_effect=AssertionError("must not be called"))
         monkeypatch.setattr(run_mod, "curate", boom)
-        monkeypatch.setattr(run_mod, "fetch_markets", boom)
+        monkeypatch.setattr(run_mod, "fetch_prices", boom)
         monkeypatch.setattr(run_mod, "render_post", boom)
 
         caplog.set_level(logging.INFO)
@@ -158,7 +158,7 @@ class TestHappyPath:
         boom = MagicMock(side_effect=AssertionError("must not be called"))
         monkeypatch.setattr(run_mod, "curate", boom)
         monkeypatch.setattr(run_mod, "render_post", boom)
-        monkeypatch.setattr(run_mod, "fetch_markets", boom)
+        monkeypatch.setattr(run_mod, "fetch_prices", boom)
         caplog.set_level(logging.INFO)
         run_mod.main()
 
@@ -169,7 +169,7 @@ class TestMarketsResilience:
     def test_empty_markets_still_writes_post_without_prices(
         self, fresh_db, posts_dir, monkeypatch
     ):
-        _stub_externals(monkeypatch, [SAMPLE_ITEM], markets=[])
+        _stub_externals(monkeypatch, [SAMPLE_ITEM], prices=None)
 
         run_mod.main()
 

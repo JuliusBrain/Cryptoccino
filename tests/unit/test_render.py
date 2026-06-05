@@ -8,7 +8,6 @@ from pipeline.render import (
     _render_brewing,
     _render_lead,
     _render_pour,
-    _render_prices,
     _render_source_tags,
     render_post,
 )
@@ -74,30 +73,19 @@ class TestRenderPour:
         assert " · " in out
 
 
-class TestRenderPrices:
-    def test_emits_chips_for_each_coin(self):
-        markets_data = [
-            {"symbol": "BTC", "name": "Bitcoin", "price": 60000, "change_24h": -5.0},
-            {"symbol": "ETH", "name": "Ether",   "price": 1500,  "change_24h": 2.5},
-        ]
-        out = _render_prices(markets_data)
-        assert '<section class="prices">' in out
-        assert '<p class="prices-label">Prices</p>' in out
-        assert out.count('<li class="chip">') == 2
-        assert "BTC" in out and "60,000" in out
-        assert "ETH" in out and "1,500" in out
+class TestRenderPourBand:
+    def test_pour_band_wraps_pour(self):
+        out = _render_pour({"pour": "Quiet day.", "today": []})
+        assert '<div class="pour-band" markdown="1">' in out
+        assert "> **The Pour.** Quiet day." in out
+        assert "</div>" in out
 
-    def test_marks_change_direction_correctly(self):
-        markets_data = [
-            {"symbol": "DOWN", "name": "x", "price": 100, "change_24h": -5.0},
-            {"symbol": "UP",   "name": "y", "price": 100, "change_24h": 5.0},
-            {"symbol": "FLAT", "name": "z", "price": 100, "change_24h": 0.0},
-        ]
-        out = _render_prices(markets_data)
-        assert 'class="change down">−5.00%' in out
-        assert 'class="change up">+5.00%' in out
-        # Zero counts as up (>= 0) per the impl
-        assert 'class="change up">+0.00%' in out
+    def test_pour_band_includes_prices_html_when_supplied(self):
+        out = _render_pour(
+            {"pour": "x", "today": []},
+            prices_html='<section class="prices">stub</section>',
+        )
+        assert "<section class=\"prices\">stub</section>" in out
 
 
 class TestRenderLead:
@@ -183,7 +171,7 @@ class TestRenderPost:
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
 
-        path = render_post(_minimal_issue(), markets=[])
+        path = render_post(_minimal_issue(), prices=[])
 
         assert Path(path).exists()
         content = Path(path).read_text()
@@ -196,42 +184,44 @@ class TestRenderPost:
     def test_omits_prices_when_markets_empty(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
-        path = render_post(_minimal_issue(), markets=[])
+        path = render_post(_minimal_issue(), prices=[])
         content = Path(path).read_text()
         assert '<section class="prices">' not in content
 
-    def test_includes_prices_when_markets_supplied(self, tmp_path, monkeypatch):
+    def test_includes_prices_when_prices_supplied(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
         path = render_post(
             _minimal_issue(),
-            markets=[
-                {"symbol": "BTC", "name": "Bitcoin",
-                 "price": 60000, "change_24h": -1.0},
+            prices=[
+                {"ticker": "BTC", "price": 60000,
+                 "change_24h": -1.0, "spark": [1, 2, 3]},
             ],
         )
         content = Path(path).read_text()
         assert '<section class="prices">' in content
         assert "BTC" in content
+        # Strip lives inside the Pour band wrapper.
+        assert '<div class="pour-band"' in content
 
     def test_omits_lead_when_null(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
-        path = render_post(_minimal_issue(), markets=[])
+        path = render_post(_minimal_issue(), prices=[])
         content = Path(path).read_text()
         assert '<section class="lead"' not in content
 
     def test_omits_brewing_when_empty(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
-        path = render_post(_minimal_issue(), markets=[])
+        path = render_post(_minimal_issue(), prices=[])
         content = Path(path).read_text()
         assert "What else is grinding?" not in content
 
     def test_description_in_front_matter_from_pour(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
-        path = render_post(_minimal_issue(), markets=[])
+        path = render_post(_minimal_issue(), prices=[])
         content = Path(path).read_text()
         assert 'description: "mood line"' in content
 
@@ -240,7 +230,7 @@ class TestRenderPost:
         (tmp_path / "_posts").mkdir()
         path = render_post(
             _minimal_issue(),
-            markets=[],
+            prices=[],
             card_path="/assets/cards/2026-06-05.png",
         )
         content = Path(path).read_text()
@@ -249,7 +239,7 @@ class TestRenderPost:
     def test_card_field_omitted_when_no_card(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
-        path = render_post(_minimal_issue(), markets=[])
+        path = render_post(_minimal_issue(), prices=[])
         content = Path(path).read_text()
         assert "card:" not in content
 
@@ -260,7 +250,7 @@ class TestRenderPost:
         (tmp_path / "_posts").mkdir()
         path = render_post(
             _minimal_issue(),
-            markets=[],
+            prices=[],
             section_cards={"the_tape": "/assets/cards/2026-06-05-the_tape.png"},
         )
         content = Path(path).read_text()
@@ -278,6 +268,6 @@ class TestRenderPost:
     ):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()
-        path = render_post(_minimal_issue(), markets=[], section_cards={})
+        path = render_post(_minimal_issue(), prices=[], section_cards={})
         content = Path(path).read_text()
         assert "section-card" not in content

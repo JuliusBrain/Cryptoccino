@@ -243,7 +243,7 @@ class TestRenderPost:
         content = Path(path).read_text()
         assert "card:" not in content
 
-    def test_section_card_injected_when_path_supplied(
+    def test_section_card_replaces_beat_h2_heading(
         self, tmp_path, monkeypatch
     ):
         monkeypatch.chdir(tmp_path)
@@ -260,8 +260,8 @@ class TestRenderPost:
             'src="{{ "/assets/cards/2026-06-05-the_tape.png" | relative_url }}" '
             'alt="Markets">'
         ) in content
-        # img tag appears before the `## Markets` heading.
-        assert content.index("section-card") < content.index("## Markets")
+        # Banner carries the beat name; the H2 heading is dropped.
+        assert "## Markets" not in content
 
     def test_section_card_omitted_for_beats_without_mapping(
         self, tmp_path, monkeypatch

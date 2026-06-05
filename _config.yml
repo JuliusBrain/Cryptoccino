@@ -34,3 +34,7 @@ exclude:
   - .venv/
   - .github/
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - vendor/

@@ -111,6 +111,27 @@ The curation/writing call is a single shot — selection, clustering, beat assig
 | `assets/` | Static assets for the site. |
 | `.github/workflows/` | The daily cron workflow. |
 
+## Local development
+
+Preview changes at http://localhost:4000 before pushing. One-time setup:
+
+```bash
+brew install ruby       # if you don't already have a non-system Ruby
+make install            # bundle install + pip install dev deps
+```
+
+Then:
+
+```bash
+make serve              # Jekyll serve with --livereload --incremental
+make build              # one-shot build into _site/
+make prices             # refresh assets/data/prices.json + sparklines
+make test               # pytest
+make clean              # remove _site/, .jekyll-cache/
+```
+
+`make serve` runs with `--baseurl ""` so URLs work from the root locally; production keeps `baseurl: /Cryptoccino`. `vendor/`, `_site/`, `.jekyll-cache/` are gitignored.
+
 ## Naming
 
 The brand and repo are **Cryptoccino**. There is no other name. Earlier drafts used "Doppio Block" — do not reintroduce it in new code, copy, or commit messages.

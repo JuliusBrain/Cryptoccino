@@ -3,6 +3,8 @@ layout: issue
 title: "Cryptoccino — Friday 05 June 2026"
 date: 2026-06-05
 issue_date: 2026-06-05
+description: "Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor."
+card: /assets/cards/2026-06-05.png
 ---
 
 > **The Pour.** Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor.

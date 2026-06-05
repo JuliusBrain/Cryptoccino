@@ -76,14 +76,18 @@ def _render_beat(beat, section_card_path=None):
         title = beat.get("title", "")
         # Liquid expression so Jekyll prepends site.baseurl at build time
         # (the path stored in section_cards is baseurl-relative).
+        # The banner carries the beat name visually, so the H2 is dropped
+        # when a card is present to avoid duplicate labels.
         parts.append(
             f'<img class="section-card" '
             f'src="{{{{ "{section_card_path}" | relative_url }}}}" '
             f'alt="{title}">'
         )
         parts.append("")
-    parts.append(f"## {beat['title']}")
-    parts.append("")
+    else:
+        # Fallback when card generation failed — beat is never unlabelled.
+        parts.append(f"## {beat['title']}")
+        parts.append("")
     for item in beat.get("items") or []:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""

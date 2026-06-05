@@ -134,7 +134,9 @@ class TestHappyPath:
         assert len(posts) == 1
         content = posts[0].read_text()
         assert content.startswith("---\nlayout: issue\n")
-        assert "## Markets" in content
+        # Section card present, so the beat heading is replaced by the banner.
+        assert '<img class="section-card"' in content
+        assert "## Markets" not in content
         assert "BTC dips." in content
         assert '<section class="prices">' in content
         assert "BTC" in content
@@ -177,7 +179,8 @@ class TestMarketsResilience:
         assert len(posts) == 1
         content = posts[0].read_text()
         assert '<section class="prices">' not in content
-        assert "## Markets" in content  # the news beat, distinct from the strip
+        # Section card replaces the H2 even when the price strip is missing.
+        assert '<img class="section-card"' in content
 
 
 class TestCardsResilience:
@@ -197,18 +200,18 @@ class TestCardsResilience:
         posts = list(posts_dir.glob("*.md"))
         assert len(posts) == 1
         content = posts[0].read_text()
-        assert "## Markets" in content
+        # Hero card failure doesn't kill section cards; banner still present.
+        assert '<img class="section-card"' in content
         assert "card:" not in content
 
-    def test_section_card_injected_before_beat_heading(
+    def test_section_card_replaces_beat_heading(
         self, fresh_db, posts_dir, monkeypatch
     ):
         _stub_externals(monkeypatch, [SAMPLE_ITEM])
         run_mod.main()
         post = next(posts_dir.glob("*.md"))
         content = post.read_text()
-        # img tag references the_tape's section card; sits immediately
-        # above the `## Markets` heading.
         assert '<img class="section-card"' in content
         assert "the_tape" in content
-        assert content.index("section-card") < content.index("## Markets")
+        # Banner carries the beat name; H2 heading is dropped.
+        assert "## Markets" not in content

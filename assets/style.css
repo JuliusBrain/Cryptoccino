@@ -160,10 +160,6 @@ article.issue .pour-band blockquote.pour {
 /* === Prices strip === */
 .prices {
   margin: 1rem 0 0;
-  background: #F6F2E8;
-  border: 1px solid #E3D4BA;
-  border-radius: 10px;
-  padding: 0.95rem 1.05rem 1.05rem;
 }
 .prices-label {
   font-family: var(--mono);

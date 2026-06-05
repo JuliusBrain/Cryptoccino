@@ -163,7 +163,7 @@ article.issue .pour-band blockquote.pour {
   background: #F6F2E8;
   border: 1px solid #E3D4BA;
   border-radius: 10px;
-  padding: 1.5rem 1.5rem 1.6rem;
+  padding: 0.95rem 1.05rem 1.05rem;
 }
 .prices-label {
   font-family: var(--mono);
@@ -417,7 +417,7 @@ footer.site a:hover { color: var(--crema); }
   section.lead h2 { font-size: 1.3rem; }
   section.lead p { margin: 0 0 1.4rem; }
   article.issue h2 { font-size: 0.88rem; margin-top: 2.25rem; }
-  .prices { padding: 1.2rem 1.1rem 1.25rem; }
+  .prices { padding: 0.85rem 0.95rem 0.95rem; }
   .chips { gap: 0.45rem 0.9rem; }
   .chip { font-size: 0.76rem; }
   article.issue blockquote.pour,

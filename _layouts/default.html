@@ -5,14 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/cryptoccino-icon.svg' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
   {% feed_meta %}
 </head>
 <body>
   <div class="container">
     <header class="site">
-      <p class="brand"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
-      <p class="tagline">{{ site.description }}</p>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
+        <img src="{{ '/assets/cryptoccino-logo.svg' | relative_url }}" alt="{{ site.title }} — {{ site.description }}">
+      </a>
     </header>
 
     <main>

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 110" role="img" aria-label="Cryptoccino — your daily shot of crypto news">
+  <title>Cryptoccino</title>
+  <desc>An espresso cup on a saucer with a folded newspaper, beside the Cryptoccino wordmark and tagline.</desc>
+
+  <!-- ============================================================
+       Icon block: espresso cup, saucer, steam, folded newspaper.
+       Drawn into its native 120x104 coordinate space, then placed
+       on the left of the lockup with a translate.
+       ============================================================ -->
+  <g transform="translate(2 4)">
+
+    <!-- Steam ribbons (caramel). Three strands, asymmetric. -->
+    <g fill="none" stroke="#C58731" stroke-width="2.6" stroke-linecap="round">
+      <path d="M 41 36 C 36 28 46 22 40 14 C 36 8 44 4 40 0"/>
+      <path d="M 55 36 C 60 28 50 22 56 14 C 60 8 52 4 56 0"/>
+      <path d="M 68 36 C 72 30 64 24 70 18 C 73 14 68 10 70 6"/>
+    </g>
+
+    <!-- Saucer.
+         Outer ellipse with a thin lens-shaped slit cut at its top edge
+         (negative space) so a hairline of cappuccino bg reads as the
+         rim highlight on the saucer. -->
+    <path fill="#3A2A1B" fill-rule="evenodd"
+          d="M 13 88 a 42 6.5 0 1 0 84 0 a 42 6.5 0 1 0 -84 0 z
+             M 22 84.5 q 33 -2.4 66 0 q -33 1.1 -66 0 z"/>
+
+    <!-- Cup body.
+         Slightly tapered trapezoid. A thin slanted slit cut on the
+         left side reads as a highlight gap. -->
+    <path fill="#3A2A1B" fill-rule="evenodd"
+          d="M 28 42 L 82 42 L 77 84 L 33 84 Z
+             M 36 50 L 38 50 L 36 78 L 34 78 Z"/>
+
+    <!-- Handle.
+         D-shape, drawn as a thick filled crescent with the inner
+         hole as negative space. -->
+    <path fill="#3A2A1B" fill-rule="evenodd"
+          d="M 80 50
+             C 95 50 99 56 99 61
+             C 99 67 95 72 80 72
+             L 80 67
+             C 90 67 93 64 93 61
+             C 93 58 90 55 80 55 Z"/>
+
+    <!-- Rim ring (brown annulus) + crema disk (caramel).
+         The gap between the annulus inner edge and the crema disk
+         leaves a thin transparent ring — the rim highlight. -->
+    <path fill="#3A2A1B" fill-rule="evenodd"
+          d="M 28 42 a 27 4.6 0 1 0 54 0 a 27 4.6 0 1 0 -54 0 z
+             M 33 42 a 22 3.4 0 1 0 44 0 a 22 3.4 0 1 0 -44 0 z"/>
+    <ellipse cx="55" cy="42" rx="19" ry="2.5" fill="#C58731"/>
+
+    <!-- Folded newspaper at lower right, partly overlapping the
+         saucer and cup base.
+         The body is one compound path so the fold slit and the four
+         text-stand-in slits all subtract via even-odd. The masthead
+         block is a small caramel rect drawn over the top-left. -->
+    <g transform="rotate(-7 95 86)">
+      <path fill="#3A2A1B" fill-rule="evenodd"
+            d="M 60 68 L 116 68 L 116 102 L 60 102 Z
+               M 87 68 L 89 68 L 89 102 L 87 102 Z
+               M 64 79 L 84 79 L 84 80 L 64 80 Z
+               M 92 79 L 112 79 L 112 80 L 92 80 Z
+               M 64 84 L 84 84 L 84 85 L 64 85 Z
+               M 92 84 L 112 84 L 112 85 L 92 85 Z
+               M 64 89 L 84 89 L 84 90 L 64 90 Z
+               M 92 89 L 112 89 L 112 90 L 92 90 Z
+               M 64 94 L 78 94 L 78 95 L 64 95 Z
+               M 92 94 L 106 94 L 106 95 L 92 95 Z"/>
+      <rect x="64" y="71.5" width="20" height="3.2" fill="#C58731"/>
+    </g>
+
+  </g>
+
+  <!-- ============================================================
+       Wordmark + tagline, right of the icon.
+       ============================================================ -->
+  <g>
+    <text x="146" y="63"
+          font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif"
+          font-weight="700"
+          font-size="42"
+          letter-spacing="-1"
+          fill="#2E2117">Cryptoccino</text>
+    <text x="148" y="84"
+          font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+          font-size="9.2"
+          letter-spacing="2.4"
+          fill="#A35E1E">YOUR DAILY SHOT OF CRYPTO NEWS</text>
+  </g>
+</svg>

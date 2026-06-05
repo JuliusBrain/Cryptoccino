@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Cryptoccino">
+  <title>Cryptoccino</title>
+  <desc>Espresso cup on a saucer with a folded newspaper.</desc>
+
+  <!-- Square icon, simplified for legibility down to 32px.
+       Composition: cup + saucer up-left, newspaper tucked behind
+       the cup base at lower-right, two steam ribbons. Text columns
+       on the newspaper are dropped (they muddy at small sizes); the
+       fold and masthead block carry the "newspaper" reading. -->
+
+  <!-- Steam: two simple ribbons, asymmetric. -->
+  <g fill="none" stroke="#C58731" stroke-width="3" stroke-linecap="round">
+    <path d="M 32 36 C 27 28 36 22 30 14 C 26 8 33 4 30 0"/>
+    <path d="M 46 36 C 50 28 42 22 47 14 C 50 9 44 5 47 1"/>
+  </g>
+
+  <!-- Saucer with a hairline cut for the rim highlight. -->
+  <path fill="#3A2A1B" fill-rule="evenodd"
+        d="M 4 82 a 36 6 0 1 0 72 0 a 36 6 0 1 0 -72 0 z
+           M 12 79 q 28 -2.2 56 0 q -28 1 -56 0 z"/>
+
+  <!-- Cup body trapezoid with a left-side highlight cut. -->
+  <path fill="#3A2A1B" fill-rule="evenodd"
+        d="M 14 40 L 60 40 L 56 78 L 18 78 Z
+           M 22 47 L 24 47 L 22 72 L 20 72 Z"/>
+
+  <!-- Handle on the right of the cup. -->
+  <path fill="#3A2A1B" fill-rule="evenodd"
+        d="M 58 48
+           C 72 48 76 54 76 59
+           C 76 64 72 70 58 70
+           L 58 65
+           C 68 65 70 62 70 59
+           C 70 56 68 53 58 53 Z"/>
+
+  <!-- Rim ring + crema, with a thin transparent gap between them. -->
+  <path fill="#3A2A1B" fill-rule="evenodd"
+        d="M 14 40 a 23 4 0 1 0 46 0 a 23 4 0 1 0 -46 0 z
+           M 18 40 a 19 3 0 1 0 38 0 a 19 3 0 1 0 -38 0 z"/>
+  <ellipse cx="37" cy="40" rx="16" ry="2.2" fill="#C58731"/>
+
+  <!-- Folded newspaper at lower-right, tilted, partly overlapping
+       the saucer and cup base. Fold cut + small caramel masthead.
+       Text columns dropped for small-size legibility. -->
+  <g transform="rotate(-8 78 82)">
+    <path fill="#3A2A1B" fill-rule="evenodd"
+          d="M 50 64 L 96 64 L 96 96 L 50 96 Z
+             M 72 64 L 73.5 64 L 73.5 96 L 72 96 Z"/>
+    <rect x="53" y="67" width="16" height="3" fill="#C58731"/>
+  </g>
+
+</svg>

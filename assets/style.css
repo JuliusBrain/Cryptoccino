@@ -7,14 +7,18 @@
    ============================================================ */
 
 :root {
-  --bg:     #FBF6EE;   /* body / page ground          */
-  --card:   #FFFDF9;   /* article + chip surface      */
-  --panel:  #F6F2E8;   /* pour band, prices container */
+  /* Cappuccino — sandstorm beige.
+     Darker / sandier than the previous default cream so the four
+     roasts (Latte / Cappuccino / Flat White / Espresso) read as a
+     clear lightest → darkest gradient. */
+  --bg:     #E8D9B6;   /* sand storm                  */
+  --card:   #F2E5C2;   /* lighter sand surface        */
+  --panel:  #D9C58F;   /* deeper sand band            */
   --ink:    #2E2117;   /* primary body text           */
   --soft:   #4F4031;   /* secondary body text         */
-  --mut:    #7D6C58;   /* tags, meta, small labels    */
-  --line:   #E3D4BA;   /* hairline divider + borders  */
-  --accent: #8A4E16;   /* links, kickers, decoration  */
+  --mut:    #6D5C40;   /* tags, meta, small labels    */
+  --line:   #C2A86E;   /* hairline divider + borders  */
+  --accent: #7B440E;   /* links, kickers, decoration  */
 
   /* Price up/down — fixed across all roasts so red/green stays
      legible on the dark Espresso too. 16% alpha pill background
@@ -29,25 +33,25 @@
 }
 
 html[data-roast="latte"] {
-  --bg:     #FCFAF5;   /* near-white cream */
-  --card:   #FFFFFF;   /* pure white */
-  --panel:  #FAF6EA;   /* warm light cream */
+  --bg:     #FCFAF5;   /* near-pure white with faint warm undertone */
+  --card:   #FFFFFF;   /* pure white milk */
+  --panel:  #F2E9D5;   /* very light cream band */
   --ink:    #3A2C1E;
   --soft:   #5A4A39;
   --mut:    #8A7860;
-  --line:   #E7DAC2;
+  --line:   #E6D9BD;
   --accent: #9A5A1C;
 }
 
 html[data-roast="flat-white"] {
-  --bg:     #E4D7C2;
-  --card:   #EFE7D6;
-  --panel:  #DECBAF;
-  --ink:    #2A1D11;
-  --soft:   #46382A;
-  --mut:    #6E5B45;
-  --line:   #CBB793;
-  --accent: #7A430F;
+  --bg:     #C8A370;   /* caramel */
+  --card:   #D4B485;   /* light caramel */
+  --panel:  #B58E55;   /* deeper caramel */
+  --ink:    #2A1A0B;   /* near black-brown for max contrast */
+  --soft:   #3F2818;
+  --mut:    #5F4426;
+  --line:   #8B6332;
+  --accent: #4A2A0E;   /* deep wood brown for legible links on caramel */
 }
 
 html[data-roast="espresso"] {

@@ -68,6 +68,18 @@ article.issue .hero {
   margin: 0 0 2.5rem;
   border-radius: 3px;
 }
+article.issue .section-card {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 3rem 0 0.5rem;
+  border-radius: 3px;
+}
+/* When a section-card sits above a beat heading, collapse the heading's
+   top margin so they read as one block. */
+article.issue .section-card + h2 {
+  margin-top: 1rem;
+}
 article.issue h1 {
   font-family: var(--mono);
   font-size: 1.3rem;

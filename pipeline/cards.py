@@ -34,10 +34,15 @@ MONO_REGULAR = FONTS_DIR / "JetBrainsMono-Regular.ttf"
 BG = "#EAE0CF"
 LINE = "#DECBAF"
 INK = "#2E2117"
+SOFT = "#4F4031"
 MUT = "#7D6C58"
 FAINT = "#9A8A74"
 CREMA = "#A35E1E"
 CREMA_DECO = "#C2823C"
+
+# Section card (per-beat banner) dimensions.
+SECTION_W, SECTION_H = 1200, 300
+SECTION_BORDER_INSET = 20
 
 SITE_DOMAIN = "juliusbrain.github.io/Cryptoccino"
 
@@ -167,3 +172,67 @@ def _wrap(draw, text, font, max_w):
             current = word
     lines.append(current)
     return lines
+
+
+def generate_section_card(beat_title, beat_note, date, out_path):
+    """Build a 1200x300 PNG section banner. Return out_path or None on failure.
+
+    Used as a per-beat divider inside the issue body. Smaller than the hero
+    card and not used as og:image. Crema rule, beat title in serif bold,
+    beat note in serif regular below, date top-right in mono.
+    """
+    try:
+        return _generate_section_card(beat_title, beat_note, date, out_path)
+    except Exception as exc:
+        logger.warning(
+            "Section card generation failed: %s: %s", exc.__class__.__name__, exc
+        )
+        return None
+
+
+def _generate_section_card(beat_title, beat_note, date, out_path):
+    canvas = Image.new("RGB", (SECTION_W, SECTION_H), BG)
+    draw = ImageDraw.Draw(canvas)
+
+    # Inner border.
+    draw.rectangle(
+        (
+            SECTION_BORDER_INSET,
+            SECTION_BORDER_INSET,
+            SECTION_W - SECTION_BORDER_INSET,
+            SECTION_H - SECTION_BORDER_INSET,
+        ),
+        outline=LINE,
+        width=1,
+    )
+
+    # Date top-right.
+    date_font = ImageFont.truetype(str(MONO_REGULAR), 14)
+    date_str = date.strftime("%d %B %Y").upper()
+    date_bbox = draw.textbbox((0, 0), date_str, font=date_font)
+    draw.text(
+        (SECTION_W - PADDING - (date_bbox[2] - date_bbox[0]), 60),
+        date_str,
+        fill=MUT,
+        font=date_font,
+    )
+
+    # Crema rule.
+    rule_y = 105
+    draw.rectangle((PADDING, rule_y, PADDING + 60, rule_y + 6), fill=CREMA_DECO)
+
+    # Beat title.
+    title_font = ImageFont.truetype(str(SERIF_BOLD), 56)
+    title_y = rule_y + 22
+    draw.text((PADDING, title_y), beat_title, fill=INK, font=title_font)
+
+    # Beat note (sub-tagline).
+    if beat_note:
+        note_font = ImageFont.truetype(str(SERIF_REGULAR), 22)
+        note_y = title_y + 80
+        draw.text((PADDING, note_y), beat_note, fill=SOFT, font=note_font)
+
+    out_path = Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    canvas.save(out_path, "PNG", optimize=True)
+    return str(out_path)

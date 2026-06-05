@@ -3,6 +3,8 @@ layout: issue
 title: "Cryptoccino — Friday 05 June 2026"
 date: 2026-06-05
 issue_date: 2026-06-05
+description: "Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor."
+card: /assets/cards/2026-06-05.png
 ---
 
 > **The Pour.** Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor.
@@ -44,6 +46,8 @@ issue_date: 2026-06-05
 
 </section>
 
+<img class="section-card" src="/assets/cards/2026-06-05-the_tape.png" alt="Markets">
+
 ## Markets
 
 > **Zcash craters more than 50% on Orchard Pool counterfeiting disclosure.** Shielded Labs revealed a critical vulnerability in Zcash's Orchard shielded pool that sat undetected for four years, theoretically allowing unlimited undetectable ZEC minting. The bug was discovered using Anthropic's Claude and patched within days, with developers saying actual exploitation is unlikely, but the market wasn't waiting for confirmation. Arthur Hayes publicly dumped his ZEC holdings after the news broke, short interest hit a record, and Cypherpunk Technologies, the Winklevoss-backed Zcash treasury firm, fell nearly 40%. [`theblock`](https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years) [`decrypt`](https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability)
@@ -53,6 +57,8 @@ issue_date: 2026-06-05
 > **CME CEO warns CFTC-approved perpetual futures are a retail blowup waiting to happen.** CME chief Terry Duffy publicly criticised the CFTC's move to greenlight crypto perpetual futures for US venues, arguing the unlimited-duration leverage products expose retail traders to outsized risk. His comments land as the UK FCA separately flagged Hyperliquid as an unauthorised firm targeting British users, adding regulatory heat to the perps market on two continents. [`theblock`](https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen) [`decrypt`](https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny)
 
 > **Ethereum's liquidation stack builds as ETH trades below $1,600.** Ethereum's slide below $1,600 for the first time since April 2025 has put roughly $547 million in onchain positions at risk of forced liquidation at nearby price levels. Prediction markets are pricing a 71% chance of a further fall to $1,500, and the charts offer little structural support between here and that level. [`cryptobriefing`](https://cryptobriefing.com/ethereum-faces-547m-liquidation-risk-as-price-nears-critical-levels/) [`cryptobriefing`](https://cryptobriefing.com/ethereum-falls-below-1600-for-first-time-since-april-2025/) [`decrypt`](https://decrypt.co/369926/ethereum-eth-price-25-percent-bottom-technical-analysis)
+
+<img class="section-card" src="/assets/cards/2026-06-05-projects_money.png" alt="Projects & Money">
 
 ## Projects & Money
 
@@ -64,6 +70,8 @@ issue_date: 2026-06-05
 
 > **Mastercard deepens stablecoin settlement coverage via USDC and RLUSD.** Mastercard expanded its stablecoin settlement rails to include Circle's USDC and Ripple's RLUSD alongside existing integrations, framing the push as a commitment to always-on payment capability. The move adds two of the largest non-Tether stablecoins to a network that processes billions of transactions annually. [`decrypt`](https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd)
 
+<img class="section-card" src="/assets/cards/2026-06-05-security_desk.png" alt="Security Desk">
+
 ## Security Desk
 
 > **Zcash Orchard Pool: four-year-old counterfeiting flaw disclosed.** A researcher working with Shielded Labs found a critical bug in Zcash's Orchard shielded pool that could have allowed silent, unlimited ZEC minting. Patched within days of discovery; whether any exploitation occurred before disclosure remains unknown. [`theblock`](https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years)
@@ -73,6 +81,8 @@ issue_date: 2026-06-05
 > **EdgeX token collapses; ZachXBT alleges insiders held nearly the entire supply.** The decentralised exchange EdgeX blamed an external party for its token crash, but onchain investigator ZachXBT published evidence suggesting insiders controlled most of the float and orchestrated the dump. The project denies manipulation. [`cointelegraph_defi`](https://cointelegraph.com/news/edgex-blames-external-party-for-token-crash-as-zachxbt-points-to-insider-manipulation?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound)
 
 > **DOJ task force freezes $3.8 million in illicit crypto tied to Southeast Asian organised crime.** The operation drew on cooperation from Coinbase, SpaceX and Meta to identify and freeze funds linked to fraud networks operating out of Southeast Asia. The dollar figure is modest but the cross-sector industry participation in a law enforcement action is notable. [`decrypt`](https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta)
+
+<img class="section-card" src="/assets/cards/2026-06-05-on_the_hill.png" alt="On the Hill">
 
 ## On the Hill
 

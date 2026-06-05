@@ -75,6 +75,10 @@ def _stub_externals(
     monkeypatch.setattr(
         run_mod, "generate_card", lambda lead, pour, date, out_path: card_result
     )
+    monkeypatch.setattr(
+        run_mod, "generate_section_card",
+        lambda title, note, date, out_path: out_path,
+    )
     # And neutralise the shutil.copyfile call that follows in _generate_card_for.
     import shutil
     monkeypatch.setattr(shutil, "copyfile", lambda src, dst: None)
@@ -195,3 +199,16 @@ class TestCardsResilience:
         content = posts[0].read_text()
         assert "## Markets" in content
         assert "card:" not in content
+
+    def test_section_card_injected_before_beat_heading(
+        self, fresh_db, posts_dir, monkeypatch
+    ):
+        _stub_externals(monkeypatch, [SAMPLE_ITEM])
+        run_mod.main()
+        post = next(posts_dir.glob("*.md"))
+        content = post.read_text()
+        # img tag references the_tape's section card; sits immediately
+        # above the `## Markets` heading.
+        assert '<img class="section-card"' in content
+        assert "the_tape" in content
+        assert content.index("section-card") < content.index("## Markets")

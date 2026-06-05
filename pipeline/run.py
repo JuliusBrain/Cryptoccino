@@ -14,7 +14,9 @@ import shutil
 from datetime import date
 from pathlib import Path
 
-from pipeline.cards import generate_card
+import yaml
+
+from pipeline.cards import generate_card, generate_section_card
 from pipeline.curate import curate
 from pipeline.ingest import fetch_feeds
 from pipeline.markets import fetch_markets
@@ -24,6 +26,7 @@ from pipeline.store import filter_new, init_db, mark_seen
 logger = logging.getLogger(__name__)
 
 CARDS_DIR = Path("assets/cards")
+FEEDS_CONFIG = Path("config/feeds.yaml")
 
 
 def main():
@@ -60,9 +63,12 @@ def main():
 
     today = date.today()
     card_relative = _generate_card_for(issue, today)
+    section_cards = _generate_section_cards_for(issue, today)
 
     logger.info("Rendering Jekyll post.")
-    path = render_post(issue, markets, card_path=card_relative)
+    path = render_post(
+        issue, markets, card_path=card_relative, section_cards=section_cards
+    )
     logger.info("Wrote %s.", path)
 
     logger.info("Marking %d items as seen.", len(new))
@@ -83,6 +89,31 @@ def _generate_card_for(issue, today):
     shutil.copyfile(result, latest)
     logger.info("Card saved and copied to %s.", latest)
     return "/" + out_path.as_posix()
+
+
+def _generate_section_cards_for(issue, today):
+    """Generate one card per beat. Return dict of beat_id -> site-relative path."""
+    try:
+        config = yaml.safe_load(FEEDS_CONFIG.read_text())
+        beat_meta = config.get("beats") or {}
+    except Exception as exc:
+        logger.warning("Could not load feeds.yaml beats: %s", exc)
+        beat_meta = {}
+
+    result = {}
+    for beat in issue.get("beats") or []:
+        beat_id = beat.get("id")
+        if not beat_id:
+            continue
+        out_path = CARDS_DIR / f"{today.isoformat()}-{beat_id}.png"
+        note = (beat_meta.get(beat_id) or {}).get("note", "")
+        success = generate_section_card(
+            beat.get("title", ""), note, today, str(out_path)
+        )
+        if success:
+            result[beat_id] = "/" + out_path.as_posix()
+    logger.info("Generated %d section cards.", len(result))
+    return result
 
 
 if __name__ == "__main__":

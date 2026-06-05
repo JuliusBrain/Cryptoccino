@@ -252,3 +252,31 @@ class TestRenderPost:
         path = render_post(_minimal_issue(), markets=[])
         content = Path(path).read_text()
         assert "card:" not in content
+
+    def test_section_card_injected_when_path_supplied(
+        self, tmp_path, monkeypatch
+    ):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        path = render_post(
+            _minimal_issue(),
+            markets=[],
+            section_cards={"the_tape": "/assets/cards/2026-06-05-the_tape.png"},
+        )
+        content = Path(path).read_text()
+        assert (
+            '<img class="section-card" '
+            'src="/assets/cards/2026-06-05-the_tape.png" '
+            'alt="Markets">'
+        ) in content
+        # img tag appears before the `## Markets` heading.
+        assert content.index("section-card") < content.index("## Markets")
+
+    def test_section_card_omitted_for_beats_without_mapping(
+        self, tmp_path, monkeypatch
+    ):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        path = render_post(_minimal_issue(), markets=[], section_cards={})
+        content = Path(path).read_text()
+        assert "section-card" not in content

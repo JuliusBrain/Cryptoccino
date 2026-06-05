@@ -6,7 +6,12 @@ import pytest
 from PIL import Image
 
 from pipeline import cards
-from pipeline.cards import _fit_headline, _wrap, generate_card
+from pipeline.cards import (
+    _fit_headline,
+    _wrap,
+    generate_card,
+    generate_section_card,
+)
 
 
 SAMPLE_LEAD = {
@@ -137,3 +142,37 @@ def _font(size):
     from PIL import ImageFont
 
     return ImageFont.truetype(str(cards.SERIF_BOLD), size)
+
+
+class TestGenerateSectionCard:
+    def test_produces_1200x300_png(self, tmp_path):
+        out = tmp_path / "section.png"
+        result = generate_section_card(
+            "Markets", "The majors and the macro.", SAMPLE_DATE, str(out)
+        )
+        assert result == str(out)
+        with Image.open(out) as img:
+            assert img.size == (1200, 300)
+            assert img.mode == "RGB"
+
+    def test_works_without_note(self, tmp_path):
+        out = tmp_path / "section.png"
+        result = generate_section_card("Markets", "", SAMPLE_DATE, str(out))
+        assert result == str(out)
+
+    def test_creates_parent_dir(self, tmp_path):
+        out = tmp_path / "nested" / "section.png"
+        result = generate_section_card("Markets", "note", SAMPLE_DATE, str(out))
+        assert result == str(out)
+        assert out.exists()
+
+    def test_missing_font_returns_none(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(cards, "SERIF_BOLD", tmp_path / "nope.ttf")
+        out = tmp_path / "section.png"
+        result = generate_section_card("Markets", "note", SAMPLE_DATE, str(out))
+        assert result is None
+
+    def test_garbage_date_returns_none(self, tmp_path):
+        out = tmp_path / "section.png"
+        result = generate_section_card("Markets", "note", "not a date", str(out))
+        assert result is None

@@ -82,8 +82,16 @@ def _render_lead(lead):
     return "\n".join(parts)
 
 
-def _render_beat(beat):
-    parts = [f"## {beat['title']}", ""]
+def _render_beat(beat, section_card_path=None):
+    parts = []
+    if section_card_path:
+        title = beat.get("title", "")
+        parts.append(
+            f'<img class="section-card" src="{section_card_path}" alt="{title}">'
+        )
+        parts.append("")
+    parts.append(f"## {beat['title']}")
+    parts.append("")
     for item in beat.get("items") or []:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
@@ -109,7 +117,8 @@ def _render_last_sip(issue):
     )
 
 
-def _render_body(issue, markets):
+def _render_body(issue, markets, section_cards=None):
+    section_cards = section_cards or {}
     blocks = [_render_pour(issue)]
 
     if markets:
@@ -119,7 +128,7 @@ def _render_body(issue, markets):
         blocks.append(_render_lead(issue["lead"]))
 
     for beat in issue.get("beats") or []:
-        blocks.append(_render_beat(beat))
+        blocks.append(_render_beat(beat, section_cards.get(beat.get("id"))))
 
     if issue.get("brewing"):
         blocks.append(_render_brewing(issue["brewing"]))
@@ -133,12 +142,16 @@ def _yaml_quote(value):
     return '"' + (value or "").replace('"', '\\"') + '"'
 
 
-def render_post(issue, markets=None, card_path=None):
+def render_post(issue, markets=None, card_path=None, section_cards=None):
     """Write today's Jekyll post from the curated dict + markets, return path.
 
     `card_path` is a site-relative path (e.g. /assets/cards/2026-06-05.png)
     that ends up in the post's front matter so the layout can emit the hero
     image and the og:image/twitter:image meta. None means no card today.
+
+    `section_cards` maps beat_id to a site-relative path; if provided, an
+    <img class="section-card"> tag is injected above the corresponding
+    `## Beat title` heading.
     """
     markets = markets or []
     today = date.today()
@@ -162,5 +175,7 @@ def render_post(issue, markets=None, card_path=None):
     front_matter = "\n".join(fm)
 
     out_path = Path(POSTS_DIR) / f"{iso}-cryptoccino.md"
-    out_path.write_text(front_matter + _render_body(issue, markets))
+    out_path.write_text(
+        front_matter + _render_body(issue, markets, section_cards=section_cards)
+    )
     return str(out_path)

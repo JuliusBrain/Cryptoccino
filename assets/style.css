@@ -13,8 +13,9 @@
   --line: #DECBAF;        /* warm divider                 */
 
   /* Crema: legible accent for links/kickers, and a brighter decorative tint. */
-  --crema: #A35E1E;       /* links, kickers, source tags  */
+  --crema: #A35E1E;       /* inline links, lead block labels (WHAT HAPPENED…) */
   --crema-deco: #C2823C;  /* glyphs, decorative crema     */
+  --kicker: #8A4E16;      /* mono caps under ~13px (THE POUR, PRICES, etc.)   */
 
   --up: #4C7A47;
   --down: #B14A33;
@@ -30,14 +31,14 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--serif);
-  font-size: 17px;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.7;
   margin: 0;
   padding: 0;
 }
 
 .container {
-  max-width: 720px;
+  max-width: 620px;
   margin: 0 auto;
   background: var(--card);
   padding: 2.5rem 1.25rem 4rem;
@@ -124,7 +125,7 @@ article.issue blockquote.pour strong,
 article.issue blockquote.last-sip strong {
   font-family: var(--mono);
   font-style: normal;
-  color: var(--crema);
+  color: var(--kicker);
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -159,11 +160,15 @@ article.issue .pour-band blockquote.pour {
 /* === Prices strip === */
 .prices {
   margin: 1rem 0 0;
+  background: #F6F2E8;
+  border: 1px solid #E3D4BA;
+  border-radius: 10px;
+  padding: 0.95rem 1.05rem 1.05rem;
 }
 .prices-label {
   font-family: var(--mono);
   font-size: 0.68rem;
-  color: var(--crema);
+  color: var(--kicker);
   text-transform: uppercase;
   letter-spacing: 0.24em;
   margin: 0 0 0.6rem;
@@ -187,8 +192,8 @@ article.issue .chips li::before { display: none; }
   justify-content: space-between;
   gap: 0.5rem;
   padding: 0.45rem 0.65rem;
-  background: var(--panel);
-  border: 1px solid var(--line);
+  background: #FFFDF9;
+  border: 1px solid #E8DCC6;
   border-radius: 8px;
   font-family: var(--mono);
   font-size: 0.78rem;
@@ -208,21 +213,33 @@ article.issue .chips li::before { display: none; }
   font-size: 0.78rem;
 }
 .chip .price { color: var(--soft); font-size: 0.72rem; }
-.chip .change { font-size: 0.7rem; }
-.chip .change.up { color: var(--up); }
-.chip .change.down { color: var(--down); }
+.chip .change {
+  font-size: 0.7rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 5px;
+  font-weight: 600;
+}
+.chip .change.up   { background: #E7EFE0; color: #3F6B3A; }
+.chip .change.down { background: #F1E0DD; color: #A8403A; }
 .chip .spark { display: block; }
+/* Restroke inline sparkline SVG to match the direction pill so the
+   green/red is consistent and clearly distinct from the crema link colour.
+   Sibling selector overrides inline stroke/fill attributes from pipeline/prices.py. */
+.chip .change.up   ~ .spark polyline { stroke: #3F6B3A; }
+.chip .change.up   ~ .spark circle   { fill:   #3F6B3A; }
+.chip .change.down ~ .spark polyline { stroke: #A8403A; }
+.chip .change.down ~ .spark circle   { fill:   #A8403A; }
 
 /* === Lead section === */
 section.lead {
-  margin: 0 0 2.5rem;
-  padding: 1.5rem 0 0;
-  border-top: 1px solid var(--line);
+  margin: 0 0 3.25rem;
+  padding: 2rem 0 2.25rem;
+  border-bottom: 1px solid var(--line);
 }
 section.lead .kicker {
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--crema);
+  color: var(--kicker);
   letter-spacing: 0.22em;
   text-transform: uppercase;
   margin: 0 0 0.4rem;
@@ -243,7 +260,7 @@ section.lead .sources {
   gap: 0.4rem;
   flex-wrap: wrap;
 }
-section.lead p { margin: 0 0 1rem; color: var(--ink); }
+section.lead p { margin: 0 0 1.75rem; color: var(--ink); }
 section.lead p strong:first-child {
   font-family: var(--mono);
   color: var(--crema);
@@ -394,12 +411,13 @@ footer.site a:hover { color: var(--crema); }
 
 /* === Mobile === */
 @media (max-width: 480px) {
-  body { font-size: 16px; }
+  body { font-size: 15px; }
   .container { padding: 1.75rem 1rem 3rem; }
   article.issue h1 { font-size: 1.1rem; }
   section.lead h2 { font-size: 1.3rem; }
+  section.lead p { margin: 0 0 1.4rem; }
   article.issue h2 { font-size: 0.88rem; margin-top: 2.25rem; }
-  .prices { padding: 0.85rem 1rem 0.95rem; }
+  .prices { padding: 0.8rem 0.9rem 0.9rem; }
   .chips { gap: 0.45rem 0.9rem; }
   .chip { font-size: 0.76rem; }
   article.issue blockquote.pour,

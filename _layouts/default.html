@@ -46,7 +46,7 @@
   <div class="container">
     <header class="site">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
-        <img src="{{ '/assets/cryptoccino-logo.svg' | relative_url }}" alt="{{ site.title }} — {{ site.description }}">
+        {% include cryptoccino-logo.svg %}
       </a>
       <div class="roast-toggle" role="group" aria-label="Coffee strength">
         <button type="button" data-roast="latte" aria-pressed="false">Latte</button>

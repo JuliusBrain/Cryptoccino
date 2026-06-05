@@ -29,9 +29,9 @@
 }
 
 html[data-roast="latte"] {
-  --bg:     #F5EFE3;
-  --card:   #FFFEFB;
-  --panel:  #FBF7EE;
+  --bg:     #FCFAF5;   /* near-white cream */
+  --card:   #FFFFFF;   /* pure white */
+  --panel:  #FAF6EA;   /* warm light cream */
   --ink:    #3A2C1E;
   --soft:   #5A4A39;
   --mut:    #8A7860;
@@ -112,8 +112,11 @@ header.site {
 header.site .brand {
   display: inline-block;
   text-decoration: none;
+  color: var(--ink);
 }
-header.site .brand img {
+/* Inline lockup SVG: currentColor on dark parts picks up --ink via
+   .brand's color; caramel parts read var(--accent) directly. */
+header.site .brand .lockup {
   display: block;
   width: 100%;
   max-width: 320px;

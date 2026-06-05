@@ -1,0 +1,29 @@
+# config/feeds.yaml
+meta:
+  name: "Cryptoccino"
+  tagline: "A double shot of crypto before it confirms."
+  max_per_beat: 4
+  max_age_hours: 30
+
+beats:
+  the_tape:       { title: "The Tape",          note: "Market state and the majors." }
+  projects_money: { title: "Projects & Money",  note: "Launches, upgrades, funding, DeFi." }
+  security_desk:  { title: "Security Desk",     note: "Exploits and threat intel. Skim only." }
+  on_the_hill:    { title: "On the Hill",       note: "Regulators and policy." }
+
+# category is only a hint to Claude. Final beat assignment happens in curation.
+feeds:
+  - { id: coindesk,                 category: crypto,     url: "https://www.coindesk.com/arc/outboundfeeds/rss" }
+  - { id: cointelegraph_regulation, category: regulatory, url: "https://cointelegraph.com/rss/tag/regulation" }
+  - { id: cointelegraph_defi,       category: crypto,     url: "https://cointelegraph.com/rss/tag/defi" }
+  - { id: theblock,                 category: crypto,     url: "https://www.theblock.co/rss.xml" }
+  - { id: decrypt,                  category: crypto,     url: "https://decrypt.co/feed" }
+  - { id: cryptobriefing,           category: crypto,     url: "https://cryptobriefing.com/feed/" }
+  - { id: rektnews,                 category: security,   url: "https://rekt.news/rss/feed.xml" }
+  - { id: elliptic,                 category: security,   url: "https://www.elliptic.co/blog/rss.xml" }
+  - { id: chainalysis,              category: security,   url: "https://www.chainalysis.com/blog/feed/" }
+  - { id: seal_radar,               category: security,   url: "https://radar.securityalliance.org/rss/" }
+  - { id: krebsonsecurity,          category: security,   url: "https://krebsonsecurity.com/feed/" }
+  - { id: sec_press,                category: regulatory, url: "https://www.sec.gov/news/pressreleases.rss" }
+  - { id: cftc_enforcement,         category: regulatory, url: "https://www.cftc.gov/RSS/RSSENF/rssenf.xml" }
+  - { id: coincenter,               category: regulatory, url: "https://coincenter.org/feed/" }

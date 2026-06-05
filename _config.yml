@@ -1,0 +1,33 @@
+title: Cryptoccino
+description: A double shot of crypto before it confirms.
+lang: en-GB
+
+# url: "https://your-user.github.io/Cryptoccino"
+# baseurl: ""
+
+permalink: /:year/:month/:day/
+
+plugins:
+  - jekyll-feed
+
+feed:
+  path: feed.xml
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: issue
+
+exclude:
+  - pipeline/
+  - prompts/
+  - config/
+  - data/
+  - requirements.txt
+  - CLAUDE.md
+  - LICENSE
+  - .venv/
+  - .github/
+  - README.md

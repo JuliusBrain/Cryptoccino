@@ -25,7 +25,10 @@ exclude:
   - prompts/
   - config/
   - data/
+  - tests/
   - requirements.txt
+  - requirements-dev.txt
+  - pytest.ini
   - CLAUDE.md
   - LICENSE
   - .venv/

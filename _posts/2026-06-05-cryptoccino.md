@@ -4,6 +4,7 @@ title: "Cryptoccino — Friday 05 June 2026"
 date: 2026-06-05
 issue_date: 2026-06-05
 description: "Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor."
+headline: "Bitcoin breaks below $60,000 for the first time since October 2024 as stronger-than-expected US jobs data crushes rate-cut hopes."
 card: /assets/cards/2026-06-05.png
 ---
 

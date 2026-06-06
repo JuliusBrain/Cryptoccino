@@ -4,6 +4,7 @@ title: "Cryptoccino — Saturday 06 June 2026"
 date: 2026-06-06
 issue_date: 2026-06-06
 description: "Bitcoin under $60k, Zcash had a counterfeiting bug, and the tax bills are queuing up. Espresso warranted."
+headline: "Zcash patches a vulnerability that allowed undetectable coin counterfeiting, triggering an emergency hard fork and a governance crisis."
 card: /assets/cards/2026-06-06.png
 ---
 

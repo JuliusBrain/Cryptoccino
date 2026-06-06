@@ -51,7 +51,32 @@ def _render_pour(issue, prices_html=""):
     return "\n".join(band)
 
 
-def _render_lead(lead):
+def _render_fng_chip(fng):
+    """Small Fear & Greed Index chip — current value, classification, 7d delta."""
+    if not fng or fng.get("today") is None:
+        return ""
+    today = fng["today"]
+    label = fng.get("today_label") or ""
+    delta = fng.get("delta")
+    if delta is None:
+        delta_html = ""
+    else:
+        direction = "up" if delta > 0 else ("down" if delta < 0 else "flat")
+        sign = "+" if delta > 0 else ("−" if delta < 0 else "±")
+        delta_html = (
+            f' <span class="fng-delta {direction}">{sign}{abs(delta)} / 7d</span>'
+        )
+    return (
+        '<div class="fng-chip" aria-label="Crypto Fear & Greed Index">'
+        '<span class="fng-label">F&amp;G</span>'
+        f'<span class="fng-value">{today}</span>'
+        f'<span class="fng-class">{label}</span>'
+        f'{delta_html}'
+        '</div>'
+    )
+
+
+def _render_lead(lead, fng=None):
     parts = ['<section class="lead" markdown="1">', ""]
     parts.append(f"**{lead['kicker']}**")
     parts.append("{: .kicker}")
@@ -62,6 +87,10 @@ def _render_lead(lead):
     if source_tags:
         parts.append(source_tags)
         parts.append("{: .sources}")
+        parts.append("")
+    fng_chip = _render_fng_chip(fng)
+    if fng_chip:
+        parts.append(fng_chip)
         parts.append("")
     for block in lead.get("blocks") or []:
         parts.append(f"**{block['label']}.** {block['text']}")
@@ -113,13 +142,60 @@ def _render_last_sip(issue):
     )
 
 
-def _render_body(issue, prices, section_cards=None):
+# (threshold, label, bean count) — strictly-less-than thresholds in ascending
+# order. max(abs(change_24h)) across the price strip determines the bucket.
+MOOD_LEVELS = [
+    (2.0,  "Decaf morning", 1),
+    (4.0,  "Single shot",   2),
+    (6.0,  "House blend",   3),
+    (9.0,  "Dark roast",    4),
+    (None, "Extra bold",    5),  # >= 9% catch-all
+]
+
+_BEAN_SVG = (
+    '<svg class="bean" viewBox="0 0 14 18" width="14" height="18" aria-hidden="true">'
+    '<ellipse class="bean-body" cx="7" cy="9" rx="6" ry="8.5"/>'
+    '<path class="bean-seam" d="M 7 1 C 5 5 5 13 7 17" fill="none"/>'
+    "</svg>"
+)
+
+
+def _render_mood_gauge(prices):
+    """1-5 coffee-bean strength meter keyed to today's max price move."""
+    if not prices:
+        return ""
+    top = max(prices, key=lambda p: abs(p.get("change_24h") or 0))
+    max_move = abs(top.get("change_24h") or 0)
+    label, beans = next(
+        (lbl, n) for thresh, lbl, n in MOOD_LEVELS if thresh is None or max_move < thresh
+    )
+    beans_html = "".join(
+        f'<span class="{"bean-filled" if i < beans else "bean-empty"}">{_BEAN_SVG}</span>'
+        for i in range(5)
+    )
+    return (
+        '<div class="mood-gauge" role="meter" aria-label="Market mood" '
+        f'aria-valuemin="1" aria-valuemax="5" aria-valuenow="{beans}" '
+        f'aria-valuetext="{label}">\n'
+        '  <p class="mood-label">Today\'s Roast</p>\n'
+        f'  <div class="mood-beans">{beans_html}</div>\n'
+        f'  <p class="mood-detail"><strong>{label}</strong> · top move '
+        f'{max_move:.1f}% ({top["ticker"]})</p>\n'
+        "</div>"
+    )
+
+
+def _render_body(issue, prices, section_cards=None, fng=None):
     section_cards = section_cards or {}
     prices_html = render_strip_html(prices, mode="web") if prices else ""
-    blocks = [_render_pour(issue, prices_html=prices_html)]
+    blocks = []
+    mood_html = _render_mood_gauge(prices)
+    if mood_html:
+        blocks.append(mood_html)
+    blocks.append(_render_pour(issue, prices_html=prices_html))
 
     if issue.get("lead"):
-        blocks.append(_render_lead(issue["lead"]))
+        blocks.append(_render_lead(issue["lead"], fng=fng))
 
     for beat in issue.get("beats") or []:
         blocks.append(_render_beat(beat, section_cards.get(beat.get("id"))))
@@ -136,13 +212,17 @@ def _yaml_quote(value):
     return '"' + (value or "").replace('"', '\\"') + '"'
 
 
-def render_post(issue, prices=None, card_path=None, section_cards=None):
+def render_post(
+    issue, prices=None, card_path=None, section_cards=None, fng=None
+):
     """Write today's Jekyll post from the curated dict + prices, return path.
 
     `prices` is the list from pipeline.prices.fetch_prices (or None on a
     failed fetch with no cache). `card_path` lands in front matter so the
     layout emits the hero image + og:image. `section_cards` maps beat_id
     to a site-relative path; each banner replaces the corresponding H2.
+    `fng` is the dict from pipeline.sentiment.fetch_fng (or None); when
+    supplied, a small chip is rendered inside the lead section.
     """
     today = date.today()
     iso = today.isoformat()
@@ -166,6 +246,7 @@ def render_post(issue, prices=None, card_path=None, section_cards=None):
 
     out_path = Path(POSTS_DIR) / f"{iso}-cryptoccino.md"
     out_path.write_text(
-        front_matter + _render_body(issue, prices, section_cards=section_cards)
+        front_matter
+        + _render_body(issue, prices, section_cards=section_cards, fng=fng)
     )
     return str(out_path)

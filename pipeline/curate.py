@@ -72,7 +72,7 @@ JSON_SHAPE_EXAMPLE = {
 }
 
 
-def _build_user_message(items, max_per_beat, max_age_hours):
+def _build_user_message(items, max_per_beat, max_age_hours, fng=None):
     now = datetime.now(timezone.utc)
     lines = [
         f"You are given {len(items)} news items from the last {max_age_hours} hours.",
@@ -89,8 +89,20 @@ def _build_user_message(items, max_per_beat, max_age_hours):
         "Return ONLY valid JSON, no markdown fences, in this exact shape:",
         json.dumps(JSON_SHAPE_EXAMPLE, indent=2),
         "",
-        "Items:",
     ]
+    if fng and fng.get("today") is not None:
+        delta_str = (
+            f"{fng['delta']:+d}" if fng.get("delta") is not None else "unknown"
+        )
+        lines.append(
+            f"Sentiment context (Crypto Fear & Greed Index): "
+            f"today {fng['today']} ({fng.get('today_label', '')}), "
+            f"7-day delta {delta_str}. "
+            "Cite it once in a lead block when it strengthens the counter-narrative; "
+            "skip if it doesn't add."
+        )
+        lines.append("")
+    lines.append("Items:")
     for i, item in enumerate(items, 1):
         age_h = int((now - item["published"]).total_seconds() // 3600)
         lines.append(
@@ -120,14 +132,19 @@ def _reorder_beats(beats):
     ]
 
 
-def curate(items):
-    """Run one Claude call and return the parsed issue as a dict."""
+def curate(items, fng=None):
+    """Run one Claude call and return the parsed issue as a dict.
+
+    `fng` (optional) is the dict from pipeline.sentiment.fetch_fng. When
+    supplied, today's value + 7-day delta are included in the user message
+    so the model can cite it in a lead block when relevant.
+    """
     system_prompt = Path(SYSTEM_PROMPT_PATH).read_text()
     config = yaml.safe_load(Path(CONFIG_PATH).read_text())
     max_per_beat = config["meta"]["max_per_beat"]
     max_age_hours = config["meta"]["max_age_hours"]
 
-    user_message = _build_user_message(items, max_per_beat, max_age_hours)
+    user_message = _build_user_message(items, max_per_beat, max_age_hours, fng=fng)
 
     client = anthropic.Anthropic()
     response = client.messages.create(

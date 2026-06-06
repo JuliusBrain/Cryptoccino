@@ -6,7 +6,9 @@ from pipeline.render import (
     _format_price,
     _render_beat,
     _render_brewing,
+    _render_fng_chip,
     _render_lead,
+    _render_mood_gauge,
     _render_pour,
     _render_source_tags,
     render_post,
@@ -73,6 +75,48 @@ class TestRenderPour:
         assert " · " in out
 
 
+class TestRenderMoodGauge:
+    def _prices(self, *changes):
+        # Build a minimal price list with the given 24h % changes per ticker.
+        tickers = ["BTC", "ETH", "BNB", "SOL", "XRP", "DOGE"]
+        return [
+            {"ticker": t, "price": 1.0, "change_24h": c, "spark": []}
+            for t, c in zip(tickers, changes)
+        ]
+
+    def test_empty_prices_returns_empty(self):
+        assert _render_mood_gauge([]) == ""
+        assert _render_mood_gauge(None) == ""
+
+    def test_decaf_morning_at_one_percent(self):
+        out = _render_mood_gauge(self._prices(0.5, -1.0, 0.8, -0.4, 0.2, -0.1))
+        assert "Decaf morning" in out
+        assert 'aria-valuenow="1"' in out
+        assert out.count('bean-filled') == 1
+        assert out.count('bean-empty') == 4
+
+    def test_extra_bold_when_double_digit_move(self):
+        out = _render_mood_gauge(self._prices(-6.6, -12.2, -7.1, -8.3, -7.3, -9.5))
+        assert "Extra bold" in out
+        assert 'aria-valuenow="5"' in out
+        assert out.count('bean-filled') == 5
+        assert out.count('bean-empty') == 0
+        # Top mover highlighted in the detail.
+        assert "12.2% (ETH)" in out
+
+    def test_house_blend_in_middle_range(self):
+        out = _render_mood_gauge(self._prices(-2.0, -5.0, 1.0, -1.0, 0.5, -0.1))
+        assert "House blend" in out
+        assert 'aria-valuenow="3"' in out
+
+    def test_aria_meter_attributes_present(self):
+        out = _render_mood_gauge(self._prices(-6.6, -12.2, 0, 0, 0, 0))
+        assert 'role="meter"' in out
+        assert 'aria-valuemin="1"' in out
+        assert 'aria-valuemax="5"' in out
+        assert 'aria-valuetext="Extra bold"' in out
+
+
 class TestRenderPourBand:
     def test_pour_band_wraps_pour(self):
         out = _render_pour({"pour": "Quiet day.", "today": []})
@@ -118,6 +162,53 @@ class TestRenderLead:
         }
         out = _render_lead(lead)
         assert "{: .sources}" not in out
+
+    def test_includes_fng_chip_when_supplied(self):
+        lead = {
+            "kicker": "MARKETS",
+            "headline": "h",
+            "links": [],
+            "blocks": [{"label": "L", "text": "T"}],
+        }
+        fng = {
+            "today": 18,
+            "today_label": "Extreme Fear",
+            "delta": -22,
+            "series": [],
+        }
+        out = _render_lead(lead, fng=fng)
+        assert '<div class="fng-chip"' in out
+        assert '<span class="fng-value">18</span>' in out
+        # Chip sits between sources and the first block.
+        assert out.index("fng-chip") < out.index("**L.**")
+
+
+class TestRenderFngChip:
+    def test_empty_when_none(self):
+        assert _render_fng_chip(None) == ""
+        assert _render_fng_chip({}) == ""
+
+    def test_extreme_fear_down_22(self):
+        out = _render_fng_chip({
+            "today": 18, "today_label": "Extreme Fear", "delta": -22, "series": []
+        })
+        assert 'fng-value">18<' in out
+        assert "Extreme Fear" in out
+        assert 'fng-delta down">−22 / 7d' in out
+
+    def test_greed_up_15(self):
+        out = _render_fng_chip({
+            "today": 72, "today_label": "Greed", "delta": 15, "series": []
+        })
+        assert 'fng-value">72<' in out
+        assert 'fng-delta up">+15 / 7d' in out
+
+    def test_missing_delta_omits_delta_span(self):
+        out = _render_fng_chip({
+            "today": 50, "today_label": "Neutral", "delta": None, "series": []
+        })
+        assert "fng-delta" not in out
+        assert "Neutral" in out
 
 
 class TestRenderBeat:

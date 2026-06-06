@@ -672,6 +672,16 @@ article.issue h1 {
   letter-spacing: -0.02em;
   line-height: 1.08;
 }
+/* Reading-time meta — sits between the H1 and the header's double rule.
+   Lives in layout chrome (not in {{ content }}), so it never reaches the
+   feed/email. */
+article.issue .reading-time {
+  margin: 0.7rem 0 0;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  color: var(--mut);
+}
 
 /* === Lead: big display-serif headline. The kicker keeps its base
        text treatment (accent uppercase, no fill). === */

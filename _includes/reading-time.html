@@ -1,0 +1,15 @@
+{%- comment -%}
+  Reading-time label for an issue. Pass the rendered post body:
+    {% include reading-time.html content=content %}        (issue.html)
+    {% include reading-time.html content=latest.content %} (homepage hero)
+
+  Lives in the LAYOUT chrome, never inside {{ content }}, so it stays out of
+  feed.xml — and therefore out of any future RSS-driven email. strip_html
+  drops the inline price-strip SVG (its coordinate attributes die with the
+  tags) before the word count, so sparklines don't inflate the estimate.
+  ~200 wpm; floored to a 1-minute minimum.
+{%- endcomment -%}
+{%- assign _rt_words = include.content | strip_html | number_of_words -%}
+{%- assign _rt_min = _rt_words | divided_by: 200.0 | ceil -%}
+{%- if _rt_min < 1 -%}{%- assign _rt_min = 1 -%}{%- endif -%}
+<p class="reading-time">☕ {{ _rt_min }} min read</p>

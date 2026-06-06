@@ -6,6 +6,8 @@ without rewriting markup. The price strip is the one inline-HTML island.
 Filename convention: _posts/YYYY-MM-DD-cryptoccino.md.
 """
 
+import html
+import re
 from datetime import date
 from pathlib import Path
 
@@ -13,6 +15,32 @@ from pipeline.prices import render_strip_html
 
 POSTS_DIR = "_posts"
 TITLE_BASE = "Cryptoccino"
+
+# --- Output escaping -------------------------------------------------------
+# The body is markdown that kramdown renders WITHOUT sanitizing raw HTML, and
+# it carries strings derived from UNTRUSTED RSS feeds (relayed by the model,
+# which is not a security boundary). So every model/feed-derived value is
+# escaped at the point it enters the body: _esc for markdown/text and inline
+# HTML text nodes, _esc_attr for HTML attribute values, and _safe_url to keep
+# only http(s) link targets (blocks javascript:/data: scheme XSS).
+
+_HTTP_URL = re.compile(r"(?i)^https?://")
+
+
+def _esc(value):
+    """Escape a model/feed string for markdown body / HTML text-node context."""
+    return html.escape(str(value or ""), quote=False)
+
+
+def _esc_attr(value):
+    """Escape a model/feed string for a double-quoted HTML attribute value."""
+    return html.escape(str(value or ""), quote=True)
+
+
+def _safe_url(url):
+    """Return the URL only if it is an http(s) link, else '' (drop it)."""
+    url = str(url or "").strip()
+    return url if _HTTP_URL.match(url) else ""
 
 
 def _format_price(price):
@@ -28,16 +56,23 @@ def _format_price(price):
 def _render_source_tags(links):
     if not links:
         return ""
-    return " ".join(f"[`{link['source_id']}`]({link['url']})" for link in links)
+    tags = []
+    for link in links:
+        # source_id sits in a kramdown code span (which already escapes <>&);
+        # only a backtick could break out, so strip those.
+        sid = str(link.get("source_id", "")).replace("`", "")
+        url = _safe_url(link.get("url"))
+        tags.append(f"[`{sid}`]({url})" if url else f"`{sid}`")
+    return " ".join(tags)
 
 
 def _render_pour(issue, prices_html=""):
     """Render the Pour blockquote, wrapped in a band that also contains
     the price strip when one is supplied."""
-    pour_lines = [f"> **The Pour.** {issue['pour']}"]
+    pour_lines = [f"> **The Pour.** {_esc(issue['pour'])}"]
     today = issue.get("today") or []
     if today:
-        parts = [f"{t['teaser']} _{t['beat']}_" for t in today]
+        parts = [f"{_esc(t['teaser'])} _{_esc(t['beat'])}_" for t in today]
         pour_lines.append(">")
         pour_lines.append(f"> **Today.** {' · '.join(parts)}.")
     pour_lines.append("{: .pour}")
@@ -73,7 +108,7 @@ def _render_fng_chip(fng):
         'Scale 0 (extreme fear) to 100 (extreme greed).">'
         '<span class="fng-label">Fear &amp; Greed</span>'
         f'<span class="fng-value">{today}<span class="fng-scale">/100</span></span>'
-        f'<span class="fng-class">{label}</span>'
+        f'<span class="fng-class">{_esc(label)}</span>'
         f'{delta_html}'
         '</div>'
     )
@@ -81,10 +116,10 @@ def _render_fng_chip(fng):
 
 def _render_lead(lead, fng=None):
     parts = ['<section class="lead" markdown="1">', ""]
-    parts.append(f"**{lead['kicker']}**")
+    parts.append(f"**{_esc(lead['kicker'])}**")
     parts.append("{: .kicker}")
     parts.append("")
-    parts.append(f"## {lead['headline']}")
+    parts.append(f"## {_esc(lead['headline'])}")
     parts.append("")
     source_tags = _render_source_tags(lead.get("links") or [])
     if source_tags:
@@ -96,7 +131,7 @@ def _render_lead(lead, fng=None):
         parts.append(fng_chip)
         parts.append("")
     for block in lead.get("blocks") or []:
-        parts.append(f"**{block['label']}.** {block['text']}")
+        parts.append(f"**{_esc(block['label'])}.** {_esc(block['text'])}")
         parts.append("")
     parts.append("</section>")
     return "\n".join(parts)
@@ -113,17 +148,17 @@ def _render_beat(beat, section_card_path=None):
         parts.append(
             f'<img class="section-card" '
             f'src="{{{{ "{section_card_path}" | relative_url }}}}" '
-            f'alt="{title}">'
+            f'alt="{_esc_attr(title)}">'
         )
         parts.append("")
     else:
         # Fallback when card generation failed — beat is never unlabelled.
-        parts.append(f"## {beat['title']}")
+        parts.append(f"## {_esc(beat['title'])}")
         parts.append("")
     for item in beat.get("items") or []:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
-        parts.append(f"> **{item['lead_in']}** {item['text']}{suffix}")
+        parts.append(f"> **{_esc(item['lead_in'])}** {_esc(item['text'])}{suffix}")
         parts.append("")
     return "\n".join(parts).rstrip()
 
@@ -133,14 +168,14 @@ def _render_brewing(brewing):
     for item in brewing:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
-        parts.append(f"- {item['text']}{suffix}")
+        parts.append(f"- {_esc(item['text'])}{suffix}")
     return "\n".join(parts)
 
 
 def _render_last_sip(issue):
     return (
         "---\n\n"
-        f"> **Last sip.** {issue['last_sip']}\n"
+        f"> **Last sip.** {_esc(issue['last_sip'])}\n"
         "{: .last-sip}"
     )
 

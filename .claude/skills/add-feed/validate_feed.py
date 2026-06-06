@@ -12,6 +12,7 @@ Usage:
 Exit 0 and print a short summary on success; exit 1 with the reason on failure.
 """
 
+import re
 import sys
 from pathlib import Path
 
@@ -39,6 +40,12 @@ def main() -> None:
         fail("usage: validate_feed.py <url> [--id <feed_id>]")
 
     url = args[0]
+    # Only fetch http(s) feeds. Blocks file://, gopher://, etc. and keeps this
+    # validator from being repurposed into an SSRF/local-file primitive if it
+    # ever gets a URL from somewhere less trusted than a developer's shell.
+    if not re.match(r"(?i)^https?://", url.strip()):
+        fail(f"url must start with http:// or https:// (got {url!r})")
+
     feed_id = None
     if "--id" in args:
         i = args.index("--id")

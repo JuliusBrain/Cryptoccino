@@ -444,8 +444,10 @@ class TestRenderPost:
         assert (
             '<img class="section-card" '
             'src="{{ "/assets/cards/2026-06-05-the_tape.png" | relative_url }}" '
-            'alt="Markets">'
+            'alt="Markets"'
         ) in content
+        # Sized + lazy-loaded to cut layout shift and defer below-fold banners.
+        assert 'width="1200" height="300" loading="lazy" decoding="async">' in content
         # Banner carries the beat name; the H2 heading is dropped.
         assert "## Markets" not in content
 

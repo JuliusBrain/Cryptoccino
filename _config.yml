@@ -39,3 +39,9 @@ exclude:
   - Gemfile.lock
   - Makefile
   - vendor/
+  # TTFs are used only by the Pillow card generator (pipeline/cards.py) at
+  # build time — the browser loads the woff2. Keep them out of the published
+  # site (~970 KB not served). The woff2 stays.
+  - assets/fonts/PTSerif-Regular.ttf
+  - assets/fonts/PTSerif-Bold.ttf
+  - assets/fonts/JetBrainsMono-Regular.ttf

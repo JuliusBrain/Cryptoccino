@@ -145,10 +145,13 @@ def _render_beat(beat, section_card_path=None):
         # (the path stored in section_cards is baseurl-relative).
         # The banner carries the beat name visually, so the H2 is dropped
         # when a card is present to avoid duplicate labels.
+        # Dimensions (cards are 1200x300) reserve space to avoid layout shift;
+        # lazy/async defer these below-the-fold banners.
         parts.append(
             f'<img class="section-card" '
             f'src="{{{{ "{section_card_path}" | relative_url }}}}" '
-            f'alt="{_esc_attr(title)}">'
+            f'alt="{_esc_attr(title)}" width="1200" height="300" '
+            f'loading="lazy" decoding="async">'
         )
         parts.append("")
     else:

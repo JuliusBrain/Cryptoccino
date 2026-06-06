@@ -13,6 +13,7 @@ Cheaper fallback: claude-haiku-4-5-20251001.
 
 import json
 import logging
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -21,7 +22,11 @@ import yaml
 
 logger = logging.getLogger(__name__)
 
-MODEL = "claude-sonnet-4-6"
+# Primary first, cheaper fallback second. curate() retries each model with
+# backoff, then falls through to the next before giving up.
+MODELS = ["claude-sonnet-4-6", "claude-haiku-4-5-20251001"]
+MAX_ATTEMPTS_PER_MODEL = 3
+BACKOFF_BASE_S = 2
 SYSTEM_PROMPT_PATH = "prompts/brief_system.md"
 CONFIG_PATH = "config/feeds.yaml"
 CANONICAL_BEATS = ["the_tape", "projects_money", "security_desk", "on_the_hill"]
@@ -132,6 +137,38 @@ def _reorder_beats(beats):
     ]
 
 
+def _is_retryable(exc):
+    """True for transient model failures worth retrying / falling back on.
+
+    A malformed-JSON response counts: the model may produce valid JSON on a
+    fresh attempt. Auth/config errors (400/401/403) are NOT retryable — they
+    fail fast so a broken key surfaces immediately instead of after backoff.
+    """
+    if isinstance(exc, json.JSONDecodeError):
+        return True
+    if isinstance(exc, (
+        anthropic.RateLimitError,
+        anthropic.APIConnectionError,   # includes APITimeoutError
+        anthropic.InternalServerError,
+    )):
+        return True
+    if isinstance(exc, anthropic.APIStatusError):
+        code = getattr(exc, "status_code", None)
+        return code is not None and (code >= 500 or code == 529)
+    return False
+
+
+def _log_usage(response, model):
+    usage = getattr(response, "usage", None)
+    if usage is not None:
+        logger.info(
+            "curate: ok on %s (in=%s, out=%s tokens).",
+            model,
+            getattr(usage, "input_tokens", "?"),
+            getattr(usage, "output_tokens", "?"),
+        )
+
+
 def curate(items, fng=None):
     """Run one Claude call and return the parsed issue as a dict.
 
@@ -146,23 +183,45 @@ def curate(items, fng=None):
 
     user_message = _build_user_message(items, max_per_beat, max_age_hours, fng=fng)
 
-    client = anthropic.Anthropic()
-    response = client.messages.create(
-        model=MODEL,
+    # max_retries=0: our loop is the sole retry layer (no hidden SDK retries).
+    client = anthropic.Anthropic(max_retries=0)
+    request = dict(
         max_tokens=MAX_OUTPUT_TOKENS,
         system=system_prompt,
         messages=[{"role": "user", "content": user_message}],
     )
-    raw = response.content[0].text
 
-    try:
-        result = json.loads(_strip_fences(raw))
-    except json.JSONDecodeError:
-        logger.error("Failed to parse JSON. Raw response:\n%s", raw)
-        raise
+    last_exc = None
+    for model in MODELS:
+        for attempt in range(1, MAX_ATTEMPTS_PER_MODEL + 1):
+            raw = None
+            try:
+                response = client.messages.create(model=model, **request)
+                raw = response.content[0].text
+                result = json.loads(_strip_fences(raw))
+                _log_usage(response, model)
+                result["beats"] = _reorder_beats(result.get("beats") or [])
+                return result
+            except Exception as exc:
+                if not _is_retryable(exc):
+                    raise
+                last_exc = exc
+                detail = (
+                    f" raw[:300]={raw[:300]!r}"
+                    if isinstance(exc, json.JSONDecodeError) and raw is not None
+                    else ""
+                )
+                logger.warning(
+                    "curate: %s attempt %d/%d failed: %s: %s%s",
+                    model, attempt, MAX_ATTEMPTS_PER_MODEL,
+                    exc.__class__.__name__, exc, detail,
+                )
+                if attempt < MAX_ATTEMPTS_PER_MODEL:
+                    time.sleep(BACKOFF_BASE_S * 2 ** (attempt - 1))
+        logger.warning("curate: %s exhausted; trying next model.", model)
 
-    result["beats"] = _reorder_beats(result.get("beats") or [])
-    return result
+    logger.error("curate: all models exhausted.")
+    raise last_exc
 
 
 if __name__ == "__main__":

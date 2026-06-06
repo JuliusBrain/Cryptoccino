@@ -1,9 +1,11 @@
 name: Daily brew
 
 on:
-  # 03:30 UTC ≈ 05:30 Warsaw in summer (CEST). Switch to "30 4 * * *" in winter (CET).
-  schedule:
-    - cron: "30 3 * * *"
+  # Triggered externally by cron-job.org via workflow_dispatch — GitHub's
+  # built-in scheduled runs are best-effort and silently skip on free
+  # public repos. The cron-job.org pinger fires this workflow at
+  # 03:30 UTC daily (≈ 05:30 Warsaw summer, 04:30 winter — cron-job.org
+  # handles the DST translation).
   workflow_dispatch:
 
 permissions:

@@ -9,6 +9,7 @@ permalink: /:year/:month/:day/
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 feed:
   path: feed.xml

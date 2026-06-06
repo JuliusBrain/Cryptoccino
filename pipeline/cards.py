@@ -44,7 +44,7 @@ CREMA_DECO = "#C2823C"
 SECTION_W, SECTION_H = 1200, 300
 SECTION_BORDER_INSET = 20
 
-SITE_DOMAIN = "juliusbrain.github.io/Cryptoccino"
+SITE_DOMAIN = "cryptoccino.xyz"
 
 
 def generate_card(lead, pour, date, out_path):

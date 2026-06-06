@@ -207,13 +207,6 @@ article.issue header { margin-bottom: 2rem; }
   color: var(--ink);
   font-weight: 600;
 }
-article.issue .hero {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0 0 2.5rem;
-  border-radius: 3px;
-}
 article.issue .section-card {
   display: block;
   width: 100%;
@@ -413,11 +406,18 @@ section.lead .fng-chip .fng-label {
   letter-spacing: 0.14em;
   font-weight: 600;
   font-size: 0.65rem;
+  white-space: nowrap;
 }
 section.lead .fng-chip .fng-value {
   color: var(--ink);
   font-size: 1rem;
   font-weight: 700;
+}
+section.lead .fng-chip .fng-scale {
+  color: var(--mut);
+  font-size: 0.62rem;
+  font-weight: 500;
+  margin-left: 0.1rem;
 }
 section.lead .fng-chip .fng-class {
   color: var(--soft);

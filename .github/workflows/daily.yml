@@ -7,9 +7,15 @@ on:
   # 03:30 UTC daily (≈ 05:30 Warsaw summer, 04:30 winter — cron-job.org
   # handles the DST translation).
   workflow_dispatch:
+  # Backup trigger. GitHub cron is best-effort on free public repos (hence the
+  # cron-job.org pinger above), but as a safety net it costs nothing: run.py's
+  # first-run-wins guard makes a duplicate same-day trigger a no-op.
+  schedule:
+    - cron: "30 3 * * *"
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   brew:
@@ -45,3 +51,28 @@ jobs:
           fi
           git commit -m "issue: $(date -u +%Y-%m-%d)"
           git push
+
+      # Dead-man's-switch heartbeat: only pings on a fully successful run, so a
+      # crash OR a never-triggered run (cron-job.org stops, GH cron skips) means
+      # no ping and the monitor alerts. Optional — skipped unless the
+      # HEALTHCHECK_URL secret is set (e.g. a free healthchecks.io check).
+      - name: Heartbeat
+        if: success()
+        env:
+          HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
+        run: |
+          [ -n "$HEALTHCHECK_URL" ] && curl -fsS --retry 3 "$HEALTHCHECK_URL" || true
+
+      # Make a broken brew loud: open a GitHub issue on any failure. Uses only
+      # trusted values (date + run context), never event input.
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          DATE="$(date -u +%Y-%m-%d)"
+          gh issue create \
+            --title "Daily brew failed: ${DATE}" \
+            --body "The daily pipeline run failed. Logs: ${RUN_URL}" \
+            || true

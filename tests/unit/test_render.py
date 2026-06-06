@@ -7,6 +7,7 @@ from pipeline.render import (
     _render_beat,
     _render_brewing,
     _render_fng_chip,
+    _render_last_sip,
     _render_lead,
     _render_mood_gauge,
     _render_pour,
@@ -53,6 +54,79 @@ class TestRenderSourceTags:
         assert "[`coindesk`](https://e.example/a)" in out
         assert "[`theblock`](https://e.example/b)" in out
         assert out.count(" ") == 1
+
+
+class TestOutputEscaping:
+    """Untrusted RSS content (relayed by the model) must not become live HTML.
+    kramdown passes raw HTML through, so render.py escapes at every sink."""
+
+    def test_drops_javascript_url_keeps_label(self):
+        out = _render_source_tags([
+            {"source_id": "evil", "url": "javascript:alert(document.domain)"},
+        ])
+        assert "javascript:" not in out
+        assert out == "`evil`"  # link dropped, source label kept as plain code
+
+    def test_drops_data_url(self):
+        out = _render_source_tags([
+            {"source_id": "x", "url": "data:text/html,<script>alert(1)</script>"},
+        ])
+        assert "data:" not in out
+        assert "<script>" not in out
+
+    def test_source_id_backtick_stripped(self):
+        out = _render_source_tags([
+            {"source_id": "a`](javascript:alert(1))`", "url": "https://e.example/a"},
+        ])
+        assert "`](javascript" not in out
+
+    def test_pour_escapes_html(self):
+        out = _render_pour({
+            "pour": "<img src=x onerror=alert(1)>",
+            "today": [{"teaser": "<b>x</b>", "beat": "Markets"}],
+        })
+        assert "<img src=x" not in out
+        assert "&lt;img src=x onerror=alert(1)&gt;" in out
+        assert "<b>x</b>" not in out
+
+    def test_lead_escapes_headline_kicker_blocks(self):
+        out = _render_lead({
+            "kicker": "<i>MK</i>",
+            "headline": "Hi <script>alert(1)</script>",
+            "links": [],
+            "blocks": [{"label": "What<x>", "text": "<svg onload=alert(1)>"}],
+        })
+        assert "<script>" not in out
+        assert "<svg onload" not in out
+        assert "&lt;script&gt;" in out
+
+    def test_beat_alt_attribute_cannot_break_out(self):
+        beat = {"title": '"><img src=x onerror=alert(1)>', "items": []}
+        out = _render_beat(beat, section_card_path="/assets/cards/x.png")
+        # the closing quote + tag must be neutralised inside alt="..."
+        assert '"><img' not in out
+        assert "&quot;&gt;&lt;img" in out
+
+    def test_beat_item_text_escaped(self):
+        beat = {
+            "title": "Markets",
+            "items": [{"lead_in": "<x>", "text": "<img src=x onerror=alert(1)>"}],
+        }
+        out = _render_beat(beat)
+        assert "<img src=x" not in out
+
+    def test_fng_label_escaped(self):
+        out = _render_fng_chip({
+            "today": 50, "today_label": "<img src=x onerror=alert(1)>", "delta": None,
+        })
+        assert "<img src=x" not in out
+        assert "&lt;img" in out
+
+    def test_brewing_and_last_sip_escaped(self):
+        brew = _render_brewing([{"text": "<script>1</script>", "links": []}])
+        assert "<script>" not in brew
+        sip = _render_last_sip({"last_sip": "<script>2</script>"})
+        assert "<script>" not in sip
 
 
 class TestRenderPour:

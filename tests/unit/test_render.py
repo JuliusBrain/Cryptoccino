@@ -178,7 +178,9 @@ class TestRenderLead:
         }
         out = _render_lead(lead, fng=fng)
         assert '<div class="fng-chip"' in out
-        assert '<span class="fng-value">18</span>' in out
+        assert 'fng-value">18<' in out
+        assert "Fear &amp; Greed" in out
+        assert "/100" in out
         # Chip sits between sources and the first block.
         assert out.index("fng-chip") < out.index("**L.**")
 

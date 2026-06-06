@@ -67,9 +67,12 @@ def _render_fng_chip(fng):
             f' <span class="fng-delta {direction}">{sign}{abs(delta)} / 7d</span>'
         )
     return (
-        '<div class="fng-chip" aria-label="Crypto Fear & Greed Index">'
-        '<span class="fng-label">F&amp;G</span>'
-        f'<span class="fng-value">{today}</span>'
+        '<div class="fng-chip" '
+        'aria-label="Crypto Fear &amp; Greed Index" '
+        'title="Crypto Fear &amp; Greed Index. '
+        'Scale 0 (extreme fear) to 100 (extreme greed).">'
+        '<span class="fng-label">Fear &amp; Greed</span>'
+        f'<span class="fng-value">{today}<span class="fng-scale">/100</span></span>'
         f'<span class="fng-class">{label}</span>'
         f'{delta_html}'
         '</div>'

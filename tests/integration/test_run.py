@@ -67,10 +67,12 @@ def _stub_externals(
     curated=SAMPLE_CURATED,
     prices=SAMPLE_PRICES,
     card_result="/tmp/fake-card.png",
+    fng=None,
 ):
     monkeypatch.setattr(run_mod, "fetch_feeds", lambda: items)
-    monkeypatch.setattr(run_mod, "curate", lambda new: curated)
+    monkeypatch.setattr(run_mod, "curate", lambda new, fng=None: curated)
     monkeypatch.setattr(run_mod, "fetch_prices", lambda: prices)
+    monkeypatch.setattr(run_mod, "fetch_fng", lambda: fng)
     # Stub card generation so tests don't depend on font + icon assets.
     monkeypatch.setattr(
         run_mod, "generate_card", lambda lead, pour, date, out_path: card_result

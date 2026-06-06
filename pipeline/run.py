@@ -21,6 +21,7 @@ from pipeline.curate import curate
 from pipeline.ingest import fetch_feeds
 from pipeline.prices import fetch_prices
 from pipeline.render import render_post
+from pipeline.sentiment import fetch_fng
 from pipeline.store import filter_new, init_db, mark_seen
 
 logger = logging.getLogger(__name__)
@@ -57,8 +58,18 @@ def main():
         logger.info("Nothing new today, skipping issue.")
         return
 
+    logger.info("Fetching sentiment (Fear & Greed).")
+    fng = fetch_fng()
+    if fng:
+        logger.info(
+            "F&G today=%d (%s), 7-day delta=%s.",
+            fng.get("today"), fng.get("today_label"), fng.get("delta"),
+        )
+    else:
+        logger.info("F&G unavailable; continuing without sentiment data.")
+
     logger.info("Curating issue with Claude.")
-    issue = curate(new)
+    issue = curate(new, fng=fng)
     beats = issue.get("beats", [])
     items_total = sum(len(b.get("items", [])) for b in beats)
     logger.info(
@@ -79,7 +90,8 @@ def main():
 
     logger.info("Rendering Jekyll post.")
     path = render_post(
-        issue, prices=prices, card_path=card_relative, section_cards=section_cards
+        issue, prices=prices, card_path=card_relative,
+        section_cards=section_cards, fng=fng,
     )
     logger.info("Wrote %s.", path)
 

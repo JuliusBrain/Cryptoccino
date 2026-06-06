@@ -164,6 +164,49 @@ header.site .brand .lockup {
 }
 
 article.issue header { margin-bottom: 2rem; }
+
+/* === Market-mood gauge === */
+.mood-gauge {
+  margin: 0 0 1.75rem;
+  padding: 1rem 1.25rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 1rem 1.25rem;
+  flex-wrap: wrap;
+}
+.mood-gauge .mood-label {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  margin: 0;
+}
+.mood-gauge .mood-beans {
+  display: inline-flex;
+  gap: 0.32rem;
+  align-items: center;
+}
+.mood-gauge .mood-beans svg.bean { display: block; }
+.mood-gauge .bean-filled .bean-body { fill: var(--accent); stroke: none; }
+.mood-gauge .bean-filled .bean-seam { stroke: var(--panel); stroke-width: 0.9; }
+.mood-gauge .bean-empty .bean-body { fill: none; stroke: var(--line); stroke-width: 1.2; }
+.mood-gauge .bean-empty .bean-seam { stroke: var(--line); stroke-width: 0.6; }
+.mood-gauge .mood-detail {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  color: var(--soft);
+  margin: 0;
+  flex: 1 1 14rem;
+  letter-spacing: 0.02em;
+}
+.mood-gauge .mood-detail strong {
+  color: var(--ink);
+  font-weight: 600;
+}
 article.issue .hero {
   display: block;
   width: 100%;
@@ -351,6 +394,39 @@ section.lead .sources {
   gap: 0.4rem;
   flex-wrap: wrap;
 }
+section.lead .fng-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  margin: 0 0 1.5rem;
+  padding: 0.45rem 0.75rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+}
+section.lead .fng-chip .fng-label {
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 600;
+  font-size: 0.65rem;
+}
+section.lead .fng-chip .fng-value {
+  color: var(--ink);
+  font-size: 1rem;
+  font-weight: 700;
+}
+section.lead .fng-chip .fng-class {
+  color: var(--soft);
+  font-style: italic;
+}
+section.lead .fng-chip .fng-delta { font-weight: 600; }
+section.lead .fng-chip .fng-delta.down { color: var(--price-down); }
+section.lead .fng-chip .fng-delta.up   { color: var(--price-up); }
+section.lead .fng-chip .fng-delta.flat { color: var(--mut); }
 section.lead p { margin: 0 0 1.75rem; color: var(--ink); }
 section.lead p strong:first-child {
   font-family: var(--mono);

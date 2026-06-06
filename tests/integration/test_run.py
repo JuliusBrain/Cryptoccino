@@ -121,6 +121,32 @@ class TestEarlyExit:
         assert "Nothing new today" in caplog.text
         assert list(posts_dir.glob("*.md")) == []
 
+    def test_skips_when_todays_post_already_exists(
+        self, fresh_db, posts_dir, monkeypatch, caplog
+    ):
+        # Drop a stub post for today on disk — simulates a previous run
+        # having already written one. The second run must no-op rather
+        # than overwriting it.
+        import datetime as dt
+        today_post = posts_dir / f"{dt.date.today().isoformat()}-cryptoccino.md"
+        today_post.write_text("already published")
+
+        boom = MagicMock(side_effect=AssertionError("must not be called"))
+        monkeypatch.setattr(run_mod, "fetch_feeds", boom)
+        monkeypatch.setattr(run_mod, "filter_new", boom)
+        monkeypatch.setattr(run_mod, "curate", boom)
+        monkeypatch.setattr(run_mod, "fetch_prices", boom)
+        monkeypatch.setattr(run_mod, "render_post", boom)
+        monkeypatch.setattr(run_mod, "mark_seen", boom)
+
+        caplog.set_level(logging.INFO)
+        run_mod.main()
+
+        assert "first-run-wins" in caplog.text
+        # Stub content untouched.
+        assert today_post.read_text() == "already published"
+        boom.assert_not_called()
+
 
 class TestHappyPath:
     def test_writes_post_with_expected_sections(
@@ -155,16 +181,18 @@ class TestHappyPath:
         _stub_externals(monkeypatch, [SAMPLE_ITEM])
         run_mod.main()
 
-        # Second run: items already seen, must early-exit.
+        # Second run on the same day: today's post already on disk,
+        # must early-exit via the first-run-wins guard before fetch.
         caplog.clear()
         boom = MagicMock(side_effect=AssertionError("must not be called"))
+        monkeypatch.setattr(run_mod, "fetch_feeds", boom)
         monkeypatch.setattr(run_mod, "curate", boom)
         monkeypatch.setattr(run_mod, "render_post", boom)
         monkeypatch.setattr(run_mod, "fetch_prices", boom)
         caplog.set_level(logging.INFO)
         run_mod.main()
 
-        assert "Nothing new today" in caplog.text
+        assert "first-run-wins" in caplog.text
 
 
 class TestMarketsResilience:

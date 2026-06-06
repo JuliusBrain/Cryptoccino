@@ -30,7 +30,19 @@ FEEDS_CONFIG = Path("config/feeds.yaml")
 
 
 def main():
-    """Run one full daily cycle and write today's Jekyll post."""
+    """Run one full daily cycle and write today's Jekyll post.
+
+    First-run-wins per day: if today's post already exists on disk, the
+    run is a no-op. Guards against a second trigger on the same day
+    (cron-job.org + manual + GitHub schedule races) overwriting a rich
+    earlier issue with a thinner one curated from the few items that
+    happened to land in between.
+    """
+    today_post = Path("_posts") / f"{date.today().isoformat()}-cryptoccino.md"
+    if today_post.exists():
+        logger.info("%s already exists, skipping run (first-run-wins).", today_post)
+        return
+
     logger.info("Initialising seen-state DB.")
     init_db()
 

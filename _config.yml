@@ -15,7 +15,7 @@ baseurl: ""
 # To go live: set this to your Buttondown username (buttondown.com/<username>).
 newsletter:
   provider: buttondown
-  username: ""
+  username: "cryptoccino"
 
 permalink: /:year/:month/:day/
 

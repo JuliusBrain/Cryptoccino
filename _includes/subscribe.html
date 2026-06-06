@@ -1,0 +1,38 @@
+{%- comment -%}
+  Newsletter subscribe form (Buttondown). Two variants:
+    {% include subscribe.html variant="footer" %}  compact, in the site footer
+    {% include subscribe.html variant="cta" %}      prominent block on the homepage
+
+  Renders nothing until site.newsletter.username is set in _config.yml, so the
+  live site stays clean until Buttondown is wired. Plain HTML POST — no
+  third-party JS, no trackers (matches the site's privacy-first stance). The
+  form lives in layout chrome / the homepage, never inside {{ content }}, so it
+  never enters feed.xml or the email.
+{%- endcomment -%}
+{%- assign user = site.newsletter.username -%}
+{%- if user and user != "" -%}
+{%- assign action = "https://buttondown.com/api/emails/embed-subscribe/" | append: user -%}
+{%- if include.variant == "cta" -%}
+<section class="subscribe subscribe--cta">
+  <p class="subscribe-eyebrow">☕ Get the brief</p>
+  <p class="subscribe-head">{{ site.description }}</p>
+  <form class="subscribe-form" action="{{ action }}" method="post">
+    <input type="email" name="email" required placeholder="you@email.com"
+           autocomplete="email" aria-label="Email address">
+    <input type="hidden" name="embed" value="1">
+    <button type="submit">Subscribe</button>
+  </form>
+  <p class="subscribe-note">A five-minute morning read. No spam, unsubscribe anytime.</p>
+</section>
+{%- else -%}
+<form class="subscribe subscribe--footer" action="{{ action }}" method="post">
+  <span class="subscribe-label">Get it by email</span>
+  <span class="subscribe-fields">
+    <input type="email" name="email" required placeholder="you@email.com"
+           autocomplete="email" aria-label="Email address">
+    <input type="hidden" name="embed" value="1">
+    <button type="submit">Subscribe</button>
+  </span>
+</form>
+{%- endif -%}
+{%- endif -%}

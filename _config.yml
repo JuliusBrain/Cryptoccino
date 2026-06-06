@@ -2,8 +2,20 @@ title: Cryptoccino
 description: A double shot of crypto before it confirms.
 lang: en-GB
 
+# Populates <author><name> in feed.xml (was empty) so RSS-to-email tools and
+# readers show a sender name.
+author:
+  name: Cryptoccino
+
 url: "https://cryptoccino.xyz"
 baseurl: ""
+
+# Newsletter signup (Buttondown). The subscribe form (footer + homepage)
+# renders ONLY when username is set, so the site stays clean until it's wired.
+# To go live: set this to your Buttondown username (buttondown.com/<username>).
+newsletter:
+  provider: buttondown
+  username: "cryptoccino"
 
 permalink: /:year/:month/:day/
 

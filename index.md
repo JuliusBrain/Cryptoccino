@@ -7,6 +7,7 @@ layout: default
 <article class="issue">
   <header>
     <h1>{{ latest.title }}</h1>
+    {% include reading-time.html content=latest.content %}
   </header>
   {{ latest.content }}
 </article>

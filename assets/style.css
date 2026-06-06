@@ -718,8 +718,22 @@ footer.site a:hover { color: var(--accent); }
   .container { padding: 1.75rem 1rem 3rem; }
   header.site { gap: 0.75rem; }
   header.site .brand img { max-width: 260px; }
-  .roast-toggle { font-size: 0.55rem; }
-  .roast-toggle button { padding: 0.35rem 0.55rem; }
+  /* 4-way roast toggle as a full-width 2x2 grid — fits the narrowest phones
+     with no overflow, and gives larger touch targets. */
+  .roast-toggle {
+    font-size: 0.58rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+  }
+  .roast-toggle button {
+    padding: 0.55rem 0.4rem;
+    text-align: center;
+    border-right: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .roast-toggle button:nth-child(2n) { border-right: none; }
+  .roast-toggle button:nth-child(n + 3) { border-bottom: none; }
   article.issue h1 { font-size: 1.1rem; }
   section.lead h2 { font-size: 1.3rem; }
   section.lead p { margin: 0 0 1.4rem; }

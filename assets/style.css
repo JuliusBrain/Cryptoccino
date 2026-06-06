@@ -738,18 +738,6 @@ footer.site a:hover { color: var(--accent); }
   section.lead h2 { font-size: 1.3rem; }
   section.lead p { margin: 0 0 1.4rem; }
   article.issue h2 { font-size: 0.88rem; margin-top: 2.25rem; }
-  .prices { padding: 0.85rem 0.8rem 0.95rem; }
-  /* Fixed 2-up grid (2 tickers per row, 3 rows) — auto-fill collapsed to a
-     single cramped column inside the panel padding. */
-  .chips { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
-  .chip {
-    font-size: 0.74rem;
-    padding: 0.6rem 0.65rem;
-    gap: 0.4rem;
-    min-width: 0;
-  }
-  /* Slim the sparkline so two chips fit comfortably even at 320px. */
-  .chip .spark { width: 46px; }
   article.issue blockquote.pour,
   article.issue blockquote.last-sip { padding: 1rem 1.1rem; }
   article.issue h2.brewing-label { padding: 0.85rem 1.1rem 0.5rem; }
@@ -906,4 +894,35 @@ section.lead .fng-chip { box-shadow: var(--shadow-sm); }
   article.issue > *:nth-child(4) { animation-delay: 0.24s; }
   article.issue > *:nth-child(5) { animation-delay: 0.30s; }
   article.issue > *:nth-child(n+6) { animation-delay: 0.36s; }
+}
+
+/* ============================================================
+   Mobile prices strip. The strip is doubly inset (page padding +
+   its own panel padding), which crushed the chips. Below 600px:
+   trim its own inset, let it use the width, and give every coin a
+   full row so the sparkline has room. Desktop (>600px) is untouched.
+   ============================================================ */
+@media (max-width: 600px) {
+  .prices {
+    /* ~10px horizontal so it isn't doubly inset; pull slightly past the
+       prose so the numbers use more of the width than the text. */
+    padding: 0.85rem 0.6rem 0.95rem;
+    margin-inline: -6px;
+  }
+  /* One coin per row — full-width chips. */
+  .chips { grid-template-columns: 1fr; gap: 0.4rem; }
+  .chip { padding: 0.65rem 0.8rem; font-size: 0.8rem; gap: 0.7rem; }
+  /* ticker + price stay on the left; pill + sparkline ride the right edge,
+     side by side with a clear gap. */
+  .chip .chip-right {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  /* Sparkline gets real horizontal room instead of being crushed; clamped so
+     it scales with the screen but never gets silly. */
+  .chip .spark {
+    width: clamp(80px, 32vw, 150px);
+    height: 26px;
+  }
 }

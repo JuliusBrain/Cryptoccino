@@ -275,6 +275,12 @@ def render_post(
         f"issue_date: {iso}",
         f"description: {_yaml_quote(issue.get('pour'))}",
     ]
+    # Lead headline as its own field so layouts can use it for og:title /
+    # twitter:title (the post `title` is just the dated masthead). Omitted on a
+    # quiet day with no lead; layouts then fall back to the dated title.
+    headline = (issue.get("lead") or {}).get("headline")
+    if headline:
+        fm.append(f"headline: {_yaml_quote(headline)}")
     if card_path:
         fm.append(f"card: {card_path}")
     fm.append("---")

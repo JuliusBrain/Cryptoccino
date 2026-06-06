@@ -378,6 +378,25 @@ class TestRenderPost:
         content = Path(path).read_text()
         assert '<section class="lead"' not in content
 
+    def test_headline_in_front_matter_from_lead(self, tmp_path, monkeypatch):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        issue = _minimal_issue()
+        issue["lead"] = {
+            "kicker": "MARKETS",
+            "headline": "BTC slips below $60k as jobs data lands hot.",
+            "links": [],
+            "blocks": [{"label": "What happened", "text": "It fell."}],
+        }
+        content = Path(render_post(issue, prices=[])).read_text()
+        assert 'headline: "BTC slips below $60k as jobs data lands hot."' in content
+
+    def test_headline_omitted_when_no_lead(self, tmp_path, monkeypatch):
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        content = Path(render_post(_minimal_issue(), prices=[])).read_text()
+        assert "\nheadline:" not in content
+
     def test_omits_brewing_when_empty(self, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
         (tmp_path / "_posts").mkdir()

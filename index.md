@@ -15,16 +15,7 @@ layout: default
 {% endif %}
 
 {% if site.posts.size > 1 %}
-<section class="archive">
-  <h2>Archive</h2>
-  <ul>
-    {% for post in site.posts offset:1 %}
-      <li>
-        <a href="{{ post.url | relative_url }}">
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a %d %b %Y" }}</time>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
+<nav class="archive-link">
+  <a href="{{ '/archive/' | relative_url }}">Browse the full archive <span class="arr">→</span></a>
+</nav>
 {% endif %}

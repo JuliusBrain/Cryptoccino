@@ -904,11 +904,10 @@ section.lead .fng-chip { box-shadow: var(--shadow-sm); }
    ============================================================ */
 @media (max-width: 600px) {
   .prices {
-    /* Break out of the pour-band's horizontal padding (1.4rem) so the strip
-       spans the full content column — wider than the prose, with the chip text
-       landing on the same line as the body text. Small own padding (~9px). */
-    padding: 0.85rem 0.55rem 0.95rem;
-    margin-inline: -1.4rem;
+    /* ~10px horizontal so it isn't doubly inset; pull slightly past the
+       prose so the numbers use more of the width than the text. */
+    padding: 0.85rem 0.6rem 0.95rem;
+    margin-inline: -6px;
   }
   /* One coin per row — full-width chips. */
   .chips { grid-template-columns: 1fr; gap: 0.4rem; }

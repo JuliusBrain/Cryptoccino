@@ -10,12 +10,12 @@ author:
 url: "https://cryptoccino.xyz"
 baseurl: ""
 
-# Newsletter signup. The subscribe form (footer + homepage) renders ONLY when
-# form_id is set, so the site stays clean until ConvertKit/Kit is wired up.
-# To go live: create a Kit form, then put its numeric form ID here.
+# Newsletter signup (Buttondown). The subscribe form (footer + homepage)
+# renders ONLY when username is set, so the site stays clean until it's wired.
+# To go live: set this to your Buttondown username (buttondown.com/<username>).
 newsletter:
-  provider: convertkit
-  form_id: ""
+  provider: buttondown
+  username: ""
 
 permalink: /:year/:month/:day/
 

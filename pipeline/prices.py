@@ -1,8 +1,10 @@
 """Price strip data from CoinGecko's free /coins/markets endpoint.
 
 Fetches 6 fixed coins (BTC, ETH, BNB, SOL, XRP, DOGE) with current price,
-24-hour change, and a 7-day hourly sparkline (~168 points), downsamples to
-~30 points so the inline SVG is light.
+24-hour change, and the CoinGecko 7-day hourly sparkline (~168 points). Only
+the most recent ~24h (the last 1/7) is kept — so the chart matches the 24h
+change pill and a recent up/down move is actually visible — then downsampled
+to ≤30 points so the inline SVG is light.
 
 Fail-open contract: on any error or rate limit, falls back to the last good
 response cached at assets/data/prices.json. With no usable cache, returns
@@ -91,7 +93,7 @@ def fetch_prices():
             "ticker": ticker,
             "price": coin.get("current_price") or 0,
             "change_24h": coin.get("price_change_percentage_24h") or 0,
-            "spark": _downsample(raw_spark, SPARK_TARGET_POINTS),
+            "spark": _downsample(_last_window(raw_spark), SPARK_TARGET_POINTS),
         })
 
     if not result:
@@ -99,6 +101,17 @@ def fetch_prices():
 
     _write_cache(result)
     return result
+
+
+def _last_window(points, fraction=7):
+    """Keep only the most recent 1/`fraction` of a sparkline series. CoinGecko's
+    sparkline spans 7 days, so the last 1/7 ≈ the last 24 hours — matching the
+    24h change pill so a recent move is visible rather than lost in a week of
+    trend."""
+    if not points:
+        return []
+    n = max(2, round(len(points) / fraction))
+    return list(points[-n:])
 
 
 def _downsample(points, target_n):

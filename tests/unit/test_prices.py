@@ -9,6 +9,7 @@ import responses
 from pipeline import prices
 from pipeline.prices import (
     _downsample,
+    _last_window,
     _svg_sparkline,
     fetch_prices,
     format_change,
@@ -69,8 +70,13 @@ class TestFetchPrices:
         assert first["ticker"] == "BTC"
         assert first["price"] == 60000.0
         assert first["change_24h"] == -5.0
-        # Downsampled to ~30.
-        assert len(first["spark"]) == 30
+        # Windowed to the last ~24h (1/7 of the 168-pt 7-day series), then
+        # downsampled to <=30 — so the chart matches the 24h change pill.
+        assert len(first["spark"]) == 24
+        # It's the tail of the series (the recent slice), not the whole week.
+        full = CG_RESPONSE[0]["sparkline_in_7d"]["price"]
+        assert first["spark"][-1] == full[-1]
+        assert first["spark"][0] == full[-24]
         # Cache file written.
         assert isolated_cache.exists()
         cached = json.loads(isolated_cache.read_text())
@@ -130,6 +136,19 @@ class TestFetchPrices:
 # --------------------------------------------------------------------------
 # downsample
 # --------------------------------------------------------------------------
+
+class TestLastWindow:
+    def test_keeps_last_seventh(self):
+        pts = list(range(168))  # 7-day hourly -> last 24h is the final 24
+        out = _last_window(pts)
+        assert out == list(range(144, 168))
+
+    def test_empty(self):
+        assert _last_window([]) == []
+
+    def test_minimum_two_points(self):
+        assert _last_window([1.0, 2.0, 3.0]) == [2.0, 3.0]
+
 
 class TestDownsample:
     def test_returns_empty_when_no_points(self):

@@ -1,0 +1,5 @@
+---
+permalink: /search.json
+sitemap: false
+---
+[{% assign sep = "" %}{% for post in site.posts %}{% for beat in post.beats %}{% for item in beat.items %}{{ sep }}{"date":{{ post.date | date: "%Y-%m-%d" | jsonify }},"url":{{ post.url | relative_url | append: "#" | append: item.slug | jsonify }},"beat":{{ beat.title | jsonify }},"lead":{{ item.lead_in | jsonify }},"text":{{ item.text | jsonify }}}{% assign sep = "," %}{% endfor %}{% endfor %}{% endfor %}]

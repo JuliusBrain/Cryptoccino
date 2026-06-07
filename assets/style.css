@@ -1213,3 +1213,44 @@ footer.site a:hover { text-decoration: none; }
   color: var(--mut);
   margin: 0 0 1rem;
 }
+
+/* ============================================================
+   About / colophon page.
+   ============================================================ */
+.about-page h2 {
+  font-family: var(--display);
+  font-weight: 600;
+  font-size: 1.4rem;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  margin: 2.6rem 0 0.7rem;
+}
+.about-page p,
+.about-page li {
+  font-family: var(--serif);
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: var(--soft);
+}
+.about-page ol,
+.about-page ul { padding-left: 1.2rem; margin: 0.6rem 0; }
+.about-page li { margin: 0.3rem 0; }
+.about-page a { color: var(--accent); }
+.about-page strong { color: var(--ink); }
+/* Newspaper-style staff box. */
+.about-page .colophon {
+  margin-top: 3rem;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel);
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: var(--mut);
+}
+.about-page .colophon p { font: inherit; color: inherit; margin: 0.35rem 0; }
+.about-page .colophon strong { color: var(--ink); font-weight: 600; }
+.about-page .colophon a { color: var(--accent); text-decoration: none; }
+.about-page .colophon a:hover { text-decoration: underline; }

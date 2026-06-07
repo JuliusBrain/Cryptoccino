@@ -138,16 +138,22 @@
     </main>
 
     <footer class="site">
-      <span>Brewed daily.</span>
-      <nav class="site-nav" aria-label="Beats">
-        <a href="{{ '/markets/' | relative_url }}">Markets</a>
-        <a href="{{ '/projects-and-money/' | relative_url }}">Projects &amp; Money</a>
-        <a href="{{ '/security-desk/' | relative_url }}">Security Desk</a>
-        <a href="{{ '/on-the-hill/' | relative_url }}">On the Hill</a>
-        <a href="{{ '/archive/' | relative_url }}">Archive</a>
-        <a href="{{ '/search/' | relative_url }}">Search</a>
+      <nav class="footer-nav" aria-label="Site">
+        <div class="footer-group">
+          <span class="footer-label">Beats</span>
+          <a href="{{ '/markets/' | relative_url }}">Markets</a>
+          <a href="{{ '/projects-and-money/' | relative_url }}">Projects &amp; Money</a>
+          <a href="{{ '/security-desk/' | relative_url }}">Security Desk</a>
+          <a href="{{ '/on-the-hill/' | relative_url }}">On the Hill</a>
+        </div>
+        <div class="footer-group">
+          <span class="footer-label">Browse</span>
+          <a href="{{ '/archive/' | relative_url }}">Archive</a>
+          <a href="{{ '/search/' | relative_url }}">Search</a>
+          <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        </div>
       </nav>
-      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      <p class="footer-colophon">Brewed daily — {{ site.description | downcase }}</p>
     </footer>
   </div>
 

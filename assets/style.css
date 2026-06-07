@@ -981,9 +981,9 @@ section.lead .fng-chip { box-shadow: var(--shadow-sm); }
    ============================================================ */
 @media (max-width: 600px) {
   .prices {
-    /* ~10px horizontal so it isn't doubly inset; pull slightly past the
-       prose so the numbers use more of the width than the text. */
-    padding: 0.85rem 0.6rem 0.95rem;
+    /* Tight horizontal inset so the chips use nearly the full width; pull
+       slightly past the prose so the numbers run wider than the text. */
+    padding: 0.85rem 0.3rem 0.95rem;
     margin-inline: -6px;
   }
   /* One coin per row — full-width chips. */

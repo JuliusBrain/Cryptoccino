@@ -16,7 +16,7 @@
   --panel:  #D9C58F;   /* deeper sand band            */
   --ink:    #2E2117;   /* primary body text           */
   --soft:   #4F4031;   /* secondary body text         */
-  --mut:    #6D5C40;   /* tags, meta, small labels    */
+  --mut:    #5E4F37;   /* tags, meta, small labels (WCAG AA on every surface) */
   --line:   #C2A86E;   /* hairline divider + borders  */
   --accent: #7B440E;   /* links, kickers, decoration  */
 
@@ -38,7 +38,7 @@ html[data-roast="latte"] {
   --panel:  #F2E9D5;   /* very light cream band */
   --ink:    #3A2C1E;
   --soft:   #5A4A39;
-  --mut:    #8A7860;
+  --mut:    #756652;
   --line:   #E6D9BD;
   --accent: #9A5A1C;
 }
@@ -49,7 +49,7 @@ html[data-roast="flat-white"] {
   --panel:  #B58E55;   /* deeper caramel */
   --ink:    #2A1A0B;   /* near black-brown for max contrast */
   --soft:   #3F2818;
-  --mut:    #5F4426;
+  --mut:    #3A2917;
   --line:   #8B6332;
   --accent: #4A2A0E;   /* deep wood brown for legible links on caramel */
 }
@@ -926,3 +926,45 @@ section.lead .fng-chip { box-shadow: var(--shadow-sm); }
     height: 26px;
   }
 }
+
+/* ============================================================
+   Accessibility — skip link + visible keyboard focus.
+   ============================================================ */
+
+/* Skip-to-content: first focusable element; off-screen until focused.
+   z-index sits above the fixed grain overlay (9999). */
+.skip-link {
+  position: fixed;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 10000;
+  padding: 0.5rem 0.9rem;
+  background: var(--accent);
+  color: var(--card);
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  border-radius: 6px;
+  transform: translateY(-200%);
+}
+.skip-link:focus {
+  transform: translateY(0);
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .skip-link { transition: transform 0.15s ease; }
+}
+
+/* Global visible focus for keyboard users (only the roast toggle had one).
+   Reads through --accent so it shows on every roast. */
+a:focus-visible,
+button:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+/* The skip target is programmatically focusable but shouldn't show a ring. */
+main:focus { outline: none; }

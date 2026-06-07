@@ -44,6 +44,29 @@ class TestStorySlugs:
         assert "{: #" not in _render_pour({"pour": "x", "today": []})
         assert "{: #" not in _render_last_sip({"last_sip": "y"})
 
+    def test_front_matter_beats_slugs_match_body_anchors(self, tmp_path, monkeypatch):
+        import re
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        issue = _minimal_issue()
+        issue["beats"] = [
+            {"id": "the_tape", "title": "Markets", "items": [
+                {"lead_in": "Bitcoin breaks $60k", "text": "a", "links": []},
+                {"lead_in": "Bitcoin breaks $60k", "text": "b", "links": []},  # dup
+            ]},
+            {"id": "security_desk", "title": "Security Desk", "items": [
+                {"lead_in": "Zcash counterfeiting bug", "text": "c", "links": []},
+            ]},
+        ]
+        content = Path(render_post(issue, prices=[])).read_text()
+        fm_slugs = re.findall(r"slug: (\S+)", content)
+        body_slugs = re.findall(r"\{: #(\S+?)\}", content)
+        # Every front-matter slug appears as a body anchor (and dedupe held).
+        assert fm_slugs == ["bitcoin-breaks-60k", "bitcoin-breaks-60k-2",
+                            "zcash-counterfeiting-bug"]
+        assert set(fm_slugs).issubset(set(body_slugs))
+        assert "beats:" in content
+
 
 class TestFormatPrice:
     def test_above_100_no_decimals_with_separator(self):

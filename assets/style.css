@@ -1025,3 +1025,47 @@ section.lead h2:target {
   background: color-mix(in srgb, var(--accent) 12%, transparent);
   border-radius: 4px;
 }
+
+/* ============================================================
+   Beat pages — a topic's stories over time, deep-linked.
+   ============================================================ */
+.beat-page { margin-top: 0.5rem; }
+.beat-list { list-style: none; padding: 0; margin: 0; }
+.beat-list li { margin: 0; padding: 0; }
+.beat-list li::before { display: none; }
+.beat-item a {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 0.25rem;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+  color: var(--ink);
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+.beat-item:first-child a { border-top: 1px solid var(--line); }
+.beat-item a:hover { color: var(--accent); background: color-mix(in srgb, var(--accent) 6%, transparent); }
+.beat-item .beat-lead {
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.4;
+  flex: 1 1 auto;
+}
+.beat-item .beat-date {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.06em;
+  color: var(--mut);
+  white-space: nowrap;
+  flex: 0 0 auto;
+}
+
+/* Footer beat/section nav. */
+footer.site .site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+  justify-content: center;
+  flex: 1 1 auto;
+}

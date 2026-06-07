@@ -6,6 +6,128 @@ issue_date: 2026-06-07
 description: "The market handed back everything Trump gave it, and then some."
 headline: "Crypto sheds $390 billion in its worst weekly wipeout since the FTX collapse."
 card: /assets/cards/2026-06-07.png
+beats:
+- id: the_tape
+  title: Markets
+  items:
+  - lead_in: WLD drops 20% after Hayes reverses his hold position overnight.
+    text: Arthur Hayes publicly stated he would hold his Worldcoin position, then
+      sold it the following day, sending WLD down sharply. The episode is a clean
+      reminder of how concentrated influencer positioning interacts with low-liquidity
+      tokens. On-chain watchers flagged the exit before the public announcement landed.
+    slug: wld-drops-20-after-hayes-reverses-his-hold-position-overnight
+  - lead_in: Joseph Lubin moves 110,000 ETH to shore up a $259 million DAI debt position.
+    text: A wallet attributed to the Ethereum co-founder shifted the collateral as
+      ETH prices fell, reducing liquidation risk on a large MakerDAO borrow rather
+      than heading for the exit. On-chain analysts characterised the transfer as defensive
+      collateral management. The position size makes it a systemic watch item if ETH
+      continues lower.
+    slug: joseph-lubin-moves-110000-eth-to-shore-up-a-259-million-dai-debt-position
+  - lead_in: Satoshi-era bitcoin linked to a $285 billion lawsuit moves on-chain after
+      14 years dormant.
+    text: Coins that have sat untouched since the earliest days of the network transferred
+      as they sit at the centre of a long-running legal dispute. Dormant wallet movements
+      of this vintage reliably spook spot markets, adding noise to an already stressed
+      week. The lawsuit context distinguishes this from a typical old-coin spend.
+    slug: satoshi-era-bitcoin-linked-to-a-285-billion-lawsuit-moves-on-chain-after-14-years-dormant
+  - lead_in: Retail bitcoin selling may be partially explained by SpaceX IPO allocation
+      chasing.
+    text: Analysis points to retail outflows from crypto coinciding with heavy demand
+      for SpaceX IPO access, suggesting some participants are liquidating BTC to fund
+      equity allocations. S&P Global separately confirmed it will not bend its index-eligibility
+      rules for mega-cap IPOs, which may cap SpaceX's immediate index-driven demand.
+      The rotation narrative fits with broader AI-and-chips enthusiasm pulling capital
+      away from crypto.
+    slug: retail-bitcoin-selling-may-be-partially-explained-by-spacex-ipo-allocation-chasing
+- id: projects_money
+  title: Projects & Money
+  items:
+  - lead_in: America's largest banks are jointly building a digital currency network
+      to halt deposit outflows to crypto and money-market alternatives.
+    text: 'The consortium, which includes several of the top US retail banks, is developing
+      shared infrastructure for tokenised deposits. The explicit motivation is defensive:
+      slowing the drain of balances toward higher-yielding or natively digital alternatives.
+      If it ships, it is the most serious bank-native stablecoin infrastructure yet
+      attempted in the US.'
+    slug: americas-largest-banks-are-jointly-building-a-digital-currency-network-to-halt-deposit-outflows-to-crypto-and-money-market-alternatives
+  - lead_in: HTX to delist USD1 after World Liberty Financial froze exchange-linked
+      addresses citing UK sanctions.
+    text: HTX said WLF invoked UK sanctions compliance to freeze on-chain addresses
+      connected to the exchange, prompting the delisting of the Trump-affiliated stablecoin.
+      The move puts a political project in direct conflict with a major offshore venue
+      and raises questions about how USD1's compliance controls are configured. It
+      is an early real-world test of whether WLF's stablecoin can operate across jurisdictions
+      without friction.
+    slug: htx-to-delist-usd1-after-world-liberty-financial-froze-exchange-linked-addresses-citing-uk-sanctions
+  - lead_in: Meta is paying creators in stablecoins, but the off-ramp problem is squarely
+      the recipient's.
+    text: Meta has begun disbursing creator payments via stablecoin rails, framing
+      it as faster and more global than traditional payouts. The practical issue is
+      that most recipients lack straightforward conversion paths to local currency,
+      leaving the last-mile problem entirely unsolved on the user side. It is a useful
+      stress test for stablecoin payment infrastructure, even if the framing elides
+      the friction.
+    slug: meta-is-paying-creators-in-stablecoins-but-the-off-ramp-problem-is-squarely-the-recipients
+  - lead_in: Hyperion DeFi unwinds $29 million in HYPE positions as its USDH stablecoin
+      winds down.
+    text: Around 800,000 HYPE tokens will return to the company treasury following
+      the sunset of USDH, with the firm citing a pivot toward more capital-efficient
+      strategies. The unwinding touches both Felix and Native Markets as counterparties.
+      It is a contained but notable example of a DeFi stablecoin experiment ending
+      without a blowup.
+    slug: hyperion-defi-unwinds-29-million-in-hype-positions-as-its-usdh-stablecoin-winds-down
+- id: security_desk
+  title: Security Desk
+  items:
+  - lead_in: apxUSD depegs to $0.90 as collateral token STRC collapses.
+    text: Apyx Finance's synthetic dollar slipped 10 cents from peg after the backing
+      asset STRC sold off sharply, a textbook volatile-collateral depeg. No exploit
+      is alleged; this is a design-risk realisation. Positions in the vault are effectively
+      underwater until STRC recovers or the protocol recapitalises.
+    slug: apxusd-depegs-to-090-as-collateral-token-strc-collapses
+  - lead_in: AI-assisted researcher who flagged a Zcash vulnerability now turns the
+      same tooling on Monero.
+    text: The researcher used frontier AI models to surface a previously unknown Zcash
+      bug and has now queued Monero for the same treatment. Both privacy chains store
+      large amounts of value and have limited formal audit coverage relative to their
+      age. The audit is self-initiated; no vulnerability has been disclosed for Monero
+      yet.
+    slug: ai-assisted-researcher-who-flagged-a-zcash-vulnerability-now-turns-the-same-tooling-on-monero
+  - lead_in: Microsoft researchers flag a prompt-injection flaw in Claude Code that
+      could expose GitHub credentials.
+    text: The attack path involves manipulating Anthropic's AI coding agent via injected
+      instructions in the development environment, potentially leaking credentials
+      stored in CI/CD pipelines. Any team using Claude Code against repos with stored
+      secrets should review their pipeline isolation. Anthropic has not yet issued
+      a public patch advisory.
+    slug: microsoft-researchers-flag-a-prompt-injection-flaw-in-claude-code-that-could-expose-github-credentials
+- id: on_the_hill
+  title: On the Hill
+  items:
+  - lead_in: House Ways and Means circulates seven crypto tax bills ahead of a 9 June
+      hearing.
+    text: The draft bills would reshape digital asset tax treatment across several
+      areas including wash-sale rules, de minimis thresholds, and reporting obligations.
+      The hearing is the most substantive Congressional engagement with crypto tax
+      policy in the current session. Operators and fund structures should start mapping
+      exposure now; the timeline to markup could be short.
+    slug: house-ways-and-means-circulates-seven-crypto-tax-bills-ahead-of-a-9-june-hearing
+  - lead_in: Senate blocks FISA extension carrying embedded crypto and CBDC-related
+      surveillance provisions.
+    text: The bill that failed to advance included language with downstream implications
+      for financial surveillance and digital currency monitoring, though those clauses
+      were not the primary political flashpoint. The June 12 expiration creates a
+      hard deadline for a revised version to pass, likely with some of the same riders
+      reattached. Worth tracking which crypto-adjacent provisions survive the renegotiation.
+    slug: senate-blocks-fisa-extension-carrying-embedded-crypto-and-cbdc-related-surveillance-provisions
+  - lead_in: Crypto Council for Innovation launches a coalition pushing for regulatory
+      clarity on yield-bearing DeFi vaults.
+    text: The Vault Coalition will advocate for a clear framework distinguishing yield-generating
+      vault products from securities, a distinction that remains legally ambiguous
+      in the US. Founding members span protocols and asset managers who have been
+      building in the grey zone. The timing, during a week of intense market stress,
+      is either brave or perfectly calculated.
+    slug: crypto-council-for-innovation-launches-a-coalition-pushing-for-regulatory-clarity-on-yield-bearing-defi-vaults
 ---
 
 <div class="mood-gauge" role="meter" aria-label="Market mood" aria-valuemin="1" aria-valuemax="5" aria-valuenow="3" aria-valuetext="House blend">

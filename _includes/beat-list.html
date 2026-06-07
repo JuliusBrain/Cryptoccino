@@ -1,0 +1,26 @@
+{%- comment -%}
+  Lists every story in one beat across all issues, newest first, each deep-linking
+  to its story anchor. Param: beat = the beat id (the_tape / projects_money /
+  security_desk / on_the_hill). Reads the `beats:` front matter the pipeline emits.
+{%- endcomment -%}
+{%- assign has_stories = false -%}
+<ul class="beat-list">
+{%- for post in site.posts -%}
+  {%- for beat in post.beats -%}
+    {%- if beat.id == include.beat -%}
+      {%- for item in beat.items -%}
+        {%- assign has_stories = true -%}
+        <li class="beat-item">
+          <a href="{{ post.url | relative_url }}#{{ item.slug }}">
+            <span class="beat-lead">{{ item.lead_in }}</span>
+            <time class="beat-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time>
+          </a>
+        </li>
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+</ul>
+{%- unless has_stories -%}
+<p class="empty">No stories in this beat yet — check back after the next brew.</p>
+{%- endunless -%}

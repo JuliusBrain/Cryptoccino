@@ -6,6 +6,139 @@ issue_date: 2026-06-05
 description: "Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor."
 headline: "Bitcoin breaks below $60,000 for the first time since October 2024 as stronger-than-expected US jobs data crushes rate-cut hopes."
 card: /assets/cards/2026-06-05.png
+beats:
+- id: the_tape
+  title: Markets
+  items:
+  - lead_in: Zcash craters more than 50% on Orchard Pool counterfeiting disclosure.
+    text: Shielded Labs revealed a critical vulnerability in Zcash's Orchard shielded
+      pool that sat undetected for four years, theoretically allowing unlimited undetectable
+      ZEC minting. The bug was discovered using Anthropic's Claude and patched within
+      days, with developers saying actual exploitation is unlikely, but the market
+      wasn't waiting for confirmation. Arthur Hayes publicly dumped his ZEC holdings
+      after the news broke, short interest hit a record, and Cypherpunk Technologies,
+      the Winklevoss-backed Zcash treasury firm, fell nearly 40%.
+    slug: zcash-craters-more-than-50-on-orchard-pool-counterfeiting-disclosure
+  - lead_in: Morgan Stanley lets wealth clients lend crypto for in-kind ETF conversions.
+    text: Morgan Stanley Wealth Management has partnered with Galaxy Digital to allow
+      eligible clients to lend Bitcoin and other assets in exchange for shares in
+      crypto exchange-traded products. The in-kind conversion route sidesteps cash
+      redemption friction and is a meaningful step toward integrating spot crypto
+      holdings with traditional portfolio structures.
+    slug: morgan-stanley-lets-wealth-clients-lend-crypto-for-in-kind-etf-conversions
+  - lead_in: CME CEO warns CFTC-approved perpetual futures are a retail blowup waiting
+      to happen.
+    text: CME chief Terry Duffy publicly criticised the CFTC's move to greenlight
+      crypto perpetual futures for US venues, arguing the unlimited-duration leverage
+      products expose retail traders to outsized risk. His comments land as the UK
+      FCA separately flagged Hyperliquid as an unauthorised firm targeting British
+      users, adding regulatory heat to the perps market on two continents.
+    slug: cme-ceo-warns-cftc-approved-perpetual-futures-are-a-retail-blowup-waiting-to-happen
+  - lead_in: Ethereum's liquidation stack builds as ETH trades below $1,600.
+    text: Ethereum's slide below $1,600 for the first time since April 2025 has put
+      roughly $547 million in onchain positions at risk of forced liquidation at nearby
+      price levels. Prediction markets are pricing a 71% chance of a further fall
+      to $1,500, and the charts offer little structural support between here and that
+      level.
+    slug: ethereums-liquidation-stack-builds-as-eth-trades-below-1600
+- id: projects_money
+  title: Projects & Money
+  items:
+  - lead_in: JPMorgan, BofA and Citi form a consortium to launch a tokenised deposit
+      network by early 2027.
+    text: The Wall Street Journal reported that a bank-backed group including JPMorgan,
+      Bank of America, Citi and others plans to launch a shared tokenised deposit
+      network that enables instant, around-the-clock interbank settlement. Hong Kong's
+      Monetary Authority simultaneously announced its own expert group, pulling in
+      JPMorgan and HSBC to scale tokenised bond issuance, signalling parallel institutional
+      momentum on multiple continents.
+    slug: jpmorgan-bofa-and-citi-form-a-consortium-to-launch-a-tokenised-deposit-network-by-early-2027
+  - lead_in: Coinbase closes the first Fannie Mae-backed mortgage using Bitcoin as
+      collateral.
+    text: A Michigan couple completed what Coinbase describes as the first conventional
+      home mortgage backed by Fannie Mae where Bitcoin served as the pledged collateral.
+      The structure keeps the BTC position intact while unlocking real-estate financing,
+      a model likely to attract attention from retail holders sitting on appreciated
+      coins.
+    slug: coinbase-closes-the-first-fannie-mae-backed-mortgage-using-bitcoin-as-collateral
+  - lead_in: Radiant Capital winds down after failing to recover from its 2024 hack.
+    text: The lending protocol announced it is shutting down operations, citing an
+      inability to rebuild after last year's exploit. Frontends and smart contracts
+      stay accessible so users can still withdraw and manage positions, but new activity
+      is ending.
+    slug: radiant-capital-winds-down-after-failing-to-recover-from-its-2024-hack
+  - lead_in: Mastercard deepens stablecoin settlement coverage via USDC and RLUSD.
+    text: Mastercard expanded its stablecoin settlement rails to include Circle's
+      USDC and Ripple's RLUSD alongside existing integrations, framing the push as
+      a commitment to always-on payment capability. The move adds two of the largest
+      non-Tether stablecoins to a network that processes billions of transactions
+      annually.
+    slug: mastercard-deepens-stablecoin-settlement-coverage-via-usdc-and-rlusd
+- id: security_desk
+  title: Security Desk
+  items:
+  - lead_in: 'Zcash Orchard Pool: four-year-old counterfeiting flaw disclosed.'
+    text: A researcher working with Shielded Labs found a critical bug in Zcash's
+      Orchard shielded pool that could have allowed silent, unlimited ZEC minting.
+      Patched within days of discovery; whether any exploitation occurred before disclosure
+      remains unknown.
+    slug: zcash-orchard-pool-four-year-old-counterfeiting-flaw-disclosed
+  - lead_in: Kelp DAO hacker launders $220 million, leaving recovery hopes largely
+      exhausted.
+    text: The exploiter behind the $293 million Kelp DAO hack has moved nearly all
+      remaining stolen funds through mixing infrastructure, rendering them effectively
+      unrecoverable. Approximately $71 million frozen by Arbitrum's Security Council
+      remains the sole chunk with any recovery pathway.
+    slug: kelp-dao-hacker-launders-220-million-leaving-recovery-hopes-largely-exhausted
+  - lead_in: EdgeX token collapses; ZachXBT alleges insiders held nearly the entire
+      supply.
+    text: The decentralised exchange EdgeX blamed an external party for its token
+      crash, but onchain investigator ZachXBT published evidence suggesting insiders
+      controlled most of the float and orchestrated the dump. The project denies manipulation.
+    slug: edgex-token-collapses-zachxbt-alleges-insiders-held-nearly-the-entire-supply
+  - lead_in: DOJ task force freezes $3.8 million in illicit crypto tied to Southeast
+      Asian organised crime.
+    text: The operation drew on cooperation from Coinbase, SpaceX and Meta to identify
+      and freeze funds linked to fraud networks operating out of Southeast Asia. The
+      dollar figure is modest but the cross-sector industry participation in a law
+      enforcement action is notable.
+    slug: doj-task-force-freezes-38-million-in-illicit-crypto-tied-to-southeast-asian-organised-crime
+- id: on_the_hill
+  title: On the Hill
+  items:
+  - lead_in: CLARITY Act stalls again as Senator Alsobrooks insists on an ethics deal
+      before a floor vote.
+    text: Senator Angela Alsobrooks confirmed she will not support bringing the Digital
+      Asset Market Clarity Act to a Senate vote until a satisfactory ethics provision
+      addressing elected officials' crypto conflicts is attached. JPMorgan analysts
+      separately warned the bill may have only a narrow window to pass before the
+      legislative calendar tightens. The White House crypto adviser Patrick Witt called
+      the bill pro-enforcement and urged action, but bipartisan consensus remains
+      elusive.
+    slug: clarity-act-stalls-again-as-senator-alsobrooks-insists-on-an-ethics-deal-before-a-floor-vote
+  - lead_in: House Ways and Means weighs crypto tax bills including a small-transaction
+      exemption.
+    text: The House tax-writing committee took up a slate of crypto-related measures,
+      among them a provision that would relieve taxpayers of reporting obligations
+      on small everyday crypto purchases. A separate lawmaker warned that allowing
+      government payments in stablecoins would legitimise alternatives to the dollar
+      and enable tax evasion.
+    slug: house-ways-and-means-weighs-crypto-tax-bills-including-a-small-transaction-exemption
+  - lead_in: South Korean police open the country's first illegal gambling probe into
+      Polymarket users.
+    text: Seoul authorities have launched proceedings against local users of the prediction
+      market under gambling statutes, with potential fines of up to roughly $6,500
+      per person. The action is the first of its kind in South Korea and arrives as
+      US House Republicans also plan to add prediction market restrictions to a congressional
+      stock-trading ban bill.
+    slug: south-korean-police-open-the-countrys-first-illegal-gambling-probe-into-polymarket-users
+  - lead_in: EU MiCA grace period ends 1 July with ESMA saying unlicensed firms must
+      stop serving EU clients.
+    text: The European Securities and Markets Authority has confirmed that crypto
+      businesses still awaiting MiCA authorisation cannot use the pending status as
+      cover to keep operating after the 1 July deadline. Firms that continue serving
+      EU clients without a licence after that date face immediate enforcement exposure.
+    slug: eu-mica-grace-period-ends-1-july-with-esma-saying-unlicensed-firms-must-stop-serving-eu-clients
 ---
 
 <div class="pour-band" markdown="1">

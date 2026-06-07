@@ -103,6 +103,15 @@
   {%- endif %}
 
   {% feed_meta %}
+
+  {%- comment -%}
+    Privacy-first analytics (Plausible) — cookieless, no consent banner. Loads
+    only in production AND only when a domain is configured, so local dev and an
+    unconfigured site stay tracker-free.
+  {%- endcomment -%}
+  {%- if jekyll.environment == "production" and site.analytics.plausible_domain and site.analytics.plausible_domain != "" -%}
+  <script defer data-domain="{{ site.analytics.plausible_domain }}" src="{{ site.analytics.plausible_src }}"></script>
+  {%- endif -%}
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>

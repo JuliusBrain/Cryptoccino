@@ -65,6 +65,98 @@ html[data-roast="espresso"] {
   --accent: #D9963C;
 }
 
+/* Blackletter for the Newsprint masthead nameplate (only downloaded when that
+   theme is active). Classic textura — UnifrakturCook 700, SIL OFL. */
+@font-face {
+  font-family: "Unifraktur Cook";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("fonts/unifrakturcook-700.woff2") format("woff2");
+}
+
+/* Newsprint — not a roast but a whole-style switch: a black-and-white broadsheet,
+   the kind of prop newspaper you'd see on 70s–90s TV. Cool grey newsprint, black
+   ink and rules, monochrome (no spot colour), a blackletter nameplate, and Times
+   headlines/body. Overrides fonts + grain so the page reads as a newspaper. */
+html[data-roast="newsprint"] {
+  --bg:     #EFEFEC;   /* light grey newsprint        */
+  --card:   #F8F8F6;   /* fresh sheet                 */
+  --panel:  #E3E3DF;   /* boxed column / panel grey   */
+  --ink:    #16171A;   /* black ink                   */
+  --soft:   #2F3033;   /* secondary ink               */
+  --mut:    #5C5D61;   /* caption grey (AA on paper)  */
+  --line:   #2B2C2F;   /* near-black rules            */
+  --accent: #1B1C1F;   /* monochrome — emphasis via weight/caps, not colour */
+  /* Newspaper type: Times headlines/body, typewriter labels. */
+  --display: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
+  --serif:   "Times New Roman", Times, "Liberation Serif", Georgia, serif;
+  --mono:    "Courier New", Courier, ui-monospace, monospace;
+  --grain-opacity: 0.06;
+  /* Flat: newspapers have no drop shadows. */
+  --shadow: none;
+  --shadow-sm: none;
+  /* Monochrome price moves — direction reads from the +/− sign, not colour. */
+  --price-up:        var(--ink);
+  --price-down:      var(--ink);
+  --price-up-tint:   transparent;
+  --price-down-tint: transparent;
+}
+/* Newspapers are flat with square corners — strip rounding + shadows site-wide
+   for this theme so every box reads as a ruled newspaper block. */
+html[data-roast="newsprint"] *,
+html[data-roast="newsprint"] *::before,
+html[data-roast="newsprint"] *::after {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+/* Coffee-toned beat banners → black-and-white to sit on the newsprint. */
+html[data-roast="newsprint"] .section-card {
+  filter: grayscale(1) contrast(1.06);
+}
+/* Justified, hyphenated body — the broadsheet column feel. */
+html[data-roast="newsprint"] article.issue blockquote,
+html[data-roast="newsprint"] section.lead p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+/* --- Front-page nameplate: centred blackletter under a folio rule. --- */
+html[data-roast="newsprint"] article.issue header {
+  text-align: center;
+  border-top: 2px solid var(--line);
+  border-bottom: 4px double var(--line);
+  padding: 0.9rem 0 1rem;
+  margin-bottom: 2.25rem;
+}
+html[data-roast="newsprint"] article.issue header::before {
+  content: "Late Edition · Cryptoccino.xyz · Price: One Espresso";
+  color: var(--ink);
+  letter-spacing: 0.16em;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.6rem;
+  margin-bottom: 0.85rem;
+}
+html[data-roast="newsprint"] article.issue header h1 {
+  font-family: "Unifraktur Cook", "Times New Roman", serif;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0.01em;
+  font-size: clamp(2.1rem, 8vw, 3.4rem);
+  line-height: 1.02;
+}
+html[data-roast="newsprint"] article.issue .reading-time {
+  border-top: 1px solid var(--line);
+  margin-top: 0.9rem;
+  padding-top: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+}
+html[data-roast="newsprint"] section.lead h2 { font-weight: 700; }
+/* Keep links legible in a monochrome layout — underline on hover. */
+html[data-roast="newsprint"] a:hover { text-decoration: underline; }
+
 /* ============================================================
    Resets + transition (the "pour" between roasts).
    ============================================================ */
@@ -530,23 +622,6 @@ article.issue hr {
   to   { opacity: 1; transform: none; }
 }
 
-/* Homepage: just a redirect link at the bottom (no inline list). */
-.archive-link {
-  margin-top: 4.5rem;
-  padding-top: 2.25rem;
-  border-top: 3px double var(--line);
-  text-align: center;
-}
-.archive-link a {
-  font-family: var(--mono);
-  font-size: 0.74rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--accent);
-  text-decoration: none;
-}
-.archive-link a .arr { display: inline-block; transition: transform 0.18s ease; }
-.archive-link a:hover .arr { transform: translateX(4px); }
 
 /* The /archive/ page header — mirrors the issue masthead idiom. */
 .archive-page { margin-top: 0.5rem; }
@@ -718,8 +793,9 @@ footer.site a:hover { color: var(--accent); }
   .container { padding: 1.75rem 1rem 3rem; }
   header.site { gap: 0.75rem; }
   header.site .brand img { max-width: 260px; }
-  /* 4-way roast toggle as a full-width 2x2 grid — fits the narrowest phones
-     with no overflow, and gives larger touch targets. */
+  /* 5-way theme toggle as a full-width 2-col grid — two rows of two plus a
+     full-width fifth (Newsprint) — fits the narrowest phones with no overflow
+     and gives larger touch targets. */
   .roast-toggle {
     font-size: 0.58rem;
     display: grid;
@@ -733,7 +809,8 @@ footer.site a:hover { color: var(--accent); }
     border-bottom: 1px solid var(--line);
   }
   .roast-toggle button:nth-child(2n) { border-right: none; }
-  .roast-toggle button:nth-child(n + 3) { border-bottom: none; }
+  .roast-toggle button:nth-child(5) { grid-column: 1 / -1; border-right: none; }
+  .roast-toggle button:last-child { border-bottom: none; }
   article.issue h1 { font-size: 1.1rem; }
   section.lead h2 { font-size: 1.3rem; }
   section.lead p { margin: 0 0 1.4rem; }
@@ -1071,18 +1148,21 @@ section.lead h2:target {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 0.25rem 0.55rem;
+  gap: 0.35rem 0.9rem;
 }
 .footer-group .footer-label {
   flex: 0 0 4.25rem;
   color: var(--accent);
   letter-spacing: 0.2em;
 }
-/* Mid-dot between links within a group (not before the first). */
+/* Links read as units (tighter than the footer's wide tracking) with a clear
+   pipe divider between them — so multi-word beats don't run together. */
+.footer-group a { letter-spacing: 0.06em; }
 .footer-group a:not(:first-of-type)::before {
-  content: "·";
-  color: var(--line);
-  margin-right: 0.55rem;
+  content: "|";
+  color: var(--mut);
+  margin-right: 0.9rem;
+  font-weight: 400;
 }
 footer.site a:hover { text-decoration: none; }
 /* Editorial sign-off — serif italic, sentence case, against the mono caps above. */

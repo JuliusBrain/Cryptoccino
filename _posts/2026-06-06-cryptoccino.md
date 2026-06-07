@@ -6,6 +6,95 @@ issue_date: 2026-06-06
 description: "Bitcoin under $60k, Zcash had a counterfeiting bug, and the tax bills are queuing up. Espresso warranted."
 headline: "Zcash patches a vulnerability that allowed undetectable coin counterfeiting, triggering an emergency hard fork and a governance crisis."
 card: /assets/cards/2026-06-06.png
+beats:
+- id: the_tape
+  title: Markets
+  items:
+  - lead_in: Bitcoin breaks below $60,000 for the first time since 2024.
+    text: A stronger-than-expected US jobs print pushed risk assets lower across the
+      board, with Bitcoin falling more than 50% from its October peak. Memecoins DOGE
+      and SHIB dropped roughly 9%, amplifying the broader drawdown. The Zcash vulnerability
+      disclosure added a confidence shock on top of the macro pressure.
+    slug: bitcoin-breaks-below-60000-for-the-first-time-since-2024
+  - lead_in: Bitcoin treasury companies collectively shed $62 billion in value this
+      week.
+    text: Strategy shares hit a four-month low and its STRC preferred stock came under
+      pressure alongside the BTC slide. Bitmine and other leveraged treasury vehicles
+      saw paper gains evaporate, with Hyperliquid's treasury standing as the lone
+      exception in profit across the cohort.
+    slug: bitcoin-treasury-companies-collectively-shed-62-billion-in-value-this-week
+  - lead_in: BlackRock picked up $47 million in Bitcoin into the dip.
+    text: The purchase came against a backdrop of broad market fear, reinforcing the
+      institutional pattern of treating sharp corrections as accumulation windows.
+      ETF flow data for the broader session is still pending, but the directional
+      signal from the world's largest asset manager will be watched closely.
+    slug: blackrock-picked-up-47-million-in-bitcoin-into-the-dip
+  - lead_in: ADA trades at four-year lows below $0.20 as social activity spikes.
+    text: The divergence between rising chatter and falling price is a familiar pattern
+      at local bottoms, though it can equally mark capitulation. Cardano has now given
+      back essentially all gains accumulated during the 2024 bull cycle.
+    slug: ada-trades-at-four-year-lows-below-020-as-social-activity-spikes
+- id: projects_money
+  title: Projects & Money
+  items:
+  - lead_in: Securitize clears its SEC registration statement, opening the path to
+      NYSE listing.
+    text: The BlackRock-backed tokenisation firm will trade as SECZ following a SPAC
+      merger that requires a shareholder vote expected later this month. The listing
+      would make Securitize the first major real-world asset tokenisation platform
+      to trade on a major US exchange.
+    slug: securitize-clears-its-sec-registration-statement-opening-the-path-to-nyse-listing
+  - lead_in: BitMine prices preferred shares with a 9.5% dividend in an upsized offering.
+    text: Tom Lee's Ethereum treasury vehicle is lifting the Strategy preferred-share
+      playbook and applying it to ETH accumulation. The offering is designed to fund
+      further ETH purchases, adding another leveraged corporate bet on ether at a
+      notably weak moment for prices.
+    slug: bitmine-prices-preferred-shares-with-a-95-dividend-in-an-upsized-offering
+  - lead_in: Visa and Brale are exploring private stablecoin settlement via SBC on
+      the Canton Network.
+    text: The pair are testing whether Canton's privacy-preserving infrastructure
+      can support institutional stablecoin flows without exposing counterparty data
+      on a public ledger. It is an early signal that enterprise settlement is moving
+      toward purpose-built privacy rails rather than public chains.
+    slug: visa-and-brale-are-exploring-private-stablecoin-settlement-via-sbc-on-the-canton-network
+  - lead_in: Crypto Council for Innovation launches a vault-focused regulatory coalition.
+    text: The coalition is targeting DeFi vaults specifically, pushing for a defined
+      regulatory framework around deposit-and-yield mechanisms that have so far operated
+      in a grey zone. With stablecoin and market-structure legislation advancing,
+      vaults are the next contested surface area.
+    slug: crypto-council-for-innovation-launches-a-vault-focused-regulatory-coalition
+- id: security_desk
+  title: Security Desk
+  items:
+  - lead_in: TrustedVolumes, a 1inch Fusion resolver, lost $6.7 million in an exploit.
+    text: 1inch confirmed its core protocols and user funds were untouched; the breach
+      was isolated to TrustedVolumes as an independent resolver operating within the
+      Fusion ecosystem. A bug bounty has been floated.
+    slug: trustedvolumes-a-1inch-fusion-resolver-lost-67-million-in-an-exploit
+  - lead_in: AI tooling surfaced a critical flaw in a major crypto network, with warnings
+      the class of vulnerability extends to banks.
+    text: The disclosure underlines that AI-assisted code auditing is now a real threat-surface
+      accelerant, capable of finding flaws at a pace human auditors cannot match.
+      Security researchers are urging financial institutions building on similar cryptographic
+      primitives to audit urgently.
+    slug: ai-tooling-surfaced-a-critical-flaw-in-a-major-crypto-network-with-warnings-the-class-of-vulnerability-extends-to-banks
+- id: on_the_hill
+  title: On the Hill
+  items:
+  - lead_in: Seven crypto tax bills circulated ahead of a House Ways and Means Committee
+      hearing on Tuesday.
+    text: The package covers de minimis reporting exemptions for small transactions,
+      broker definitions, and treatment of staking rewards. It is the first time congressional
+      leadership has formally scheduled crypto tax legislation for deliberation, marking
+      a shift from informal discussion to active drafting.
+    slug: seven-crypto-tax-bills-circulated-ahead-of-a-house-ways-and-means-committee-hearing-on-tuesday
+  - lead_in: Illinois is one signature away from a 0.2% crypto transaction tax becoming
+      state law.
+    text: The levy, embedded in the FY2027 budget passed by Illinois lawmakers, places
+      collection responsibility on registered brokers rather than end users. It is
+      the most concrete state-level crypto tax action in the current cycle and will
+      be watched as a template or cautionary tale by other states.
+    slug: illinois-is-one-signature-away-from-a-02-crypto-transaction-tax-becoming-state-law
 ---
 
 <div class="pour-band" markdown="1">

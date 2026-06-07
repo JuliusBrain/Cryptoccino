@@ -11,6 +11,8 @@ import re
 from datetime import date
 from pathlib import Path
 
+import yaml
+
 from pipeline.prices import render_strip_html
 
 POSTS_DIR = "_posts"
@@ -61,6 +63,47 @@ def _make_slugger():
         return base if seen[base] == 1 else f"{base}-{seen[base]}"
 
     return slug_for
+
+
+def _assign_slugs(beats):
+    """Return a copy of `beats` with a unique per-issue `slug` on each item.
+    One shared slugger across all beats in order, so these ids are identical to
+    the in-body `{: #slug}` anchors — letting front-matter/beat-pages/search
+    deep-link to the same stories."""
+    slugger = _make_slugger()
+    out = []
+    for beat in beats or []:
+        items = [
+            {**item, "slug": slugger(item.get("lead_in", ""))}
+            for item in beat.get("items") or []
+        ]
+        out.append({**beat, "items": items})
+    return out
+
+
+def _beats_front_matter(beats):
+    """Serialize the slugged beats into a `beats:` YAML block for front matter
+    (the structured data beat pages + search read). Empty string when no beats."""
+    if not beats:
+        return ""
+    data = [
+        {
+            "id": beat.get("id", ""),
+            "title": beat.get("title", ""),
+            "items": [
+                {
+                    "lead_in": item.get("lead_in", ""),
+                    "text": item.get("text", ""),
+                    "slug": item["slug"],
+                }
+                for item in beat.get("items") or []
+            ],
+        }
+        for beat in beats
+    ]
+    return yaml.safe_dump(
+        {"beats": data}, allow_unicode=True, sort_keys=False, default_flow_style=False
+    ).rstrip()
 
 
 def _format_price(price):
@@ -183,8 +226,10 @@ def _render_beat(beat, section_card_path=None, slugger=None):
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
         parts.append(f"> **{_esc(item['lead_in'])}** {_esc(item['text'])}{suffix}")
-        # Stable anchor id (from the raw lead-in) so each story is deep-linkable.
-        parts.append(f"{{: #{slugger(item.get('lead_in', ''))}}}")
+        # Stable anchor id so each story is deep-linkable. Use the precomputed
+        # slug when present (so it matches the beats: front matter); else slug now.
+        slug = item.get("slug") or slugger(item.get("lead_in", ""))
+        parts.append(f"{{: #{slug}}}")
         parts.append("")
     return "\n".join(parts).rstrip()
 
@@ -249,7 +294,7 @@ def _render_mood_gauge(prices):
     )
 
 
-def _render_body(issue, prices, section_cards=None, fng=None):
+def _render_body(issue, prices, section_cards=None, fng=None, beats=None):
     section_cards = section_cards or {}
     prices_html = render_strip_html(prices, mode="web") if prices else ""
     blocks = []
@@ -261,11 +306,11 @@ def _render_body(issue, prices, section_cards=None, fng=None):
     if issue.get("lead"):
         blocks.append(_render_lead(issue["lead"], fng=fng))
 
-    slugger = _make_slugger()
-    for beat in issue.get("beats") or []:
-        blocks.append(
-            _render_beat(beat, section_cards.get(beat.get("id")), slugger=slugger)
-        )
+    # Pre-slugged beats (shared with the front matter) so body anchors match.
+    if beats is None:
+        beats = _assign_slugs(issue.get("beats") or [])
+    for beat in beats:
+        blocks.append(_render_beat(beat, section_cards.get(beat.get("id"))))
 
     if issue.get("brewing"):
         blocks.append(_render_brewing(issue["brewing"]))
@@ -312,6 +357,12 @@ def render_post(
         fm.append(f"headline: {_yaml_quote(headline)}")
     if card_path:
         fm.append(f"card: {card_path}")
+    # Structured story data (beat pages + search read this). Slugs computed once
+    # and reused for the body anchors so the two always match.
+    beats = _assign_slugs(issue.get("beats") or [])
+    beats_fm = _beats_front_matter(beats)
+    if beats_fm:
+        fm.append(beats_fm)
     fm.append("---")
     fm.append("")
     fm.append("")
@@ -320,6 +371,6 @@ def render_post(
     out_path = Path(POSTS_DIR) / f"{iso}-cryptoccino.md"
     out_path.write_text(
         front_matter
-        + _render_body(issue, prices, section_cards=section_cards, fng=fng)
+        + _render_body(issue, prices, section_cards=section_cards, fng=fng, beats=beats)
     )
     return str(out_path)

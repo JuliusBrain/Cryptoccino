@@ -105,6 +105,7 @@
   {% feed_meta %}
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <div class="container">
     <header class="site">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
@@ -118,7 +119,7 @@
       </div>
     </header>
 
-    <main>
+    <main id="main" tabindex="-1">
       {{ content }}
     </main>
 

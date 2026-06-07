@@ -106,11 +106,16 @@
 
   {%- comment -%}
     Privacy-first analytics (Plausible) — cookieless, no consent banner. Loads
-    only in production AND only when a domain is configured, so local dev and an
-    unconfigured site stay tracker-free.
+    only in production AND only when a script src is configured, so local dev and
+    an unconfigured site stay tracker-free.
   {%- endcomment -%}
-  {%- if jekyll.environment == "production" and site.analytics.plausible_domain and site.analytics.plausible_domain != "" -%}
-  <script defer data-domain="{{ site.analytics.plausible_domain }}" src="{{ site.analytics.plausible_src }}"></script>
+  {%- if jekyll.environment == "production" and site.analytics.plausible_src and site.analytics.plausible_src != "" -%}
+  <!-- Privacy-friendly analytics by Plausible -->
+  <script async src="{{ site.analytics.plausible_src }}"></script>
+  <script>
+    window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+    plausible.init()
+  </script>
   {%- endif -%}
 </head>
 <body>

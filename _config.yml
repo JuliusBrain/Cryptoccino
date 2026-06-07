@@ -8,14 +8,11 @@ baseurl: ""
 permalink: /:year/:month/:day/
 
 # Privacy-first analytics (Plausible — cookieless, no consent banner). The
-# script loads only in production builds AND only when plausible_domain is set,
-# so local dev and an unconfigured site stay tracker-free. To enable: create a
-# Plausible site for cryptoccino.xyz, then set plausible_domain below.
-# Self-hosters / script variants: change plausible_src (e.g. the
-# script.outbound-links.js variant to track source-link clicks).
+# site-specific script + plausible.init() snippet is emitted in <head> by
+# _layouts/default.html, loaded only in production builds (so local dev stays
+# tracker-free). To disable, blank out plausible_src.
 analytics:
-  plausible_domain: ""
-  plausible_src: "https://plausible.io/js/script.js"
+  plausible_src: "https://plausible.io/js/pa-jojvH7oF2cL05TPhwLcuT.js"
 
 plugins:
   - jekyll-feed

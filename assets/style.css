@@ -1069,3 +1069,28 @@ footer.site .site-nav {
   justify-content: center;
   flex: 1 1 auto;
 }
+
+/* ============================================================
+   Search page.
+   ============================================================ */
+.search-page { margin-top: 0.5rem; }
+.search-form { margin: 0 0 0.9rem; }
+.search-input {
+  width: 100%;
+  font-family: var(--mono);
+  font-size: 1rem;
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.7rem 0.9rem;
+}
+.search-input::placeholder { color: var(--mut); }
+.search-input:focus-visible { outline: 2px solid var(--accent); outline-offset: -1px; }
+.search-status {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  color: var(--mut);
+  margin: 0 0 1rem;
+}

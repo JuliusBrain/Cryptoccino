@@ -43,6 +43,26 @@ def _safe_url(url):
     return url if _HTTP_URL.match(url) else ""
 
 
+def _slugify(text):
+    """A lowercase, hyphenated anchor slug from arbitrary text."""
+    s = re.sub(r"[^\w\s-]", "", str(text or "").lower())
+    s = re.sub(r"[\s_-]+", "-", s).strip("-")
+    return s or "story"
+
+
+def _make_slugger():
+    """Return a callable mapping text -> a slug unique within one issue
+    (kramdown-style -2, -3 suffixes on collision)."""
+    seen = {}
+
+    def slug_for(text):
+        base = _slugify(text)
+        seen[base] = seen.get(base, 0) + 1
+        return base if seen[base] == 1 else f"{base}-{seen[base]}"
+
+    return slug_for
+
+
 def _format_price(price):
     if price is None:
         return "0"
@@ -137,7 +157,8 @@ def _render_lead(lead, fng=None):
     return "\n".join(parts)
 
 
-def _render_beat(beat, section_card_path=None):
+def _render_beat(beat, section_card_path=None, slugger=None):
+    slugger = slugger or _make_slugger()
     parts = []
     if section_card_path:
         title = beat.get("title", "")
@@ -162,6 +183,8 @@ def _render_beat(beat, section_card_path=None):
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
         parts.append(f"> **{_esc(item['lead_in'])}** {_esc(item['text'])}{suffix}")
+        # Stable anchor id (from the raw lead-in) so each story is deep-linkable.
+        parts.append(f"{{: #{slugger(item.get('lead_in', ''))}}}")
         parts.append("")
     return "\n".join(parts).rstrip()
 
@@ -238,8 +261,11 @@ def _render_body(issue, prices, section_cards=None, fng=None):
     if issue.get("lead"):
         blocks.append(_render_lead(issue["lead"], fng=fng))
 
+    slugger = _make_slugger()
     for beat in issue.get("beats") or []:
-        blocks.append(_render_beat(beat, section_cards.get(beat.get("id"))))
+        blocks.append(
+            _render_beat(beat, section_cards.get(beat.get("id")), slugger=slugger)
+        )
 
     if issue.get("brewing"):
         blocks.append(_render_brewing(issue["brewing"]))

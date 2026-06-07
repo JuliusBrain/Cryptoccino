@@ -151,5 +151,36 @@
       });
     })();
   </script>
+
+  <script>
+    /* Per-story deep links: add a copy-link affordance to each story. Pure
+       progressive enhancement in the layout — never in {{ content }}, so it
+       stays out of feed.xml. Story ids are server-rendered, so native
+       hash-scroll already works without this. */
+    (function () {
+      var stories = document.querySelectorAll(
+        'main article.issue blockquote[id], main article.issue section.lead h2[id]'
+      );
+      stories.forEach(function (el) {
+        var a = document.createElement('a');
+        a.className = 'story-link';
+        a.href = '#' + el.id;
+        a.title = 'Copy link to this story';
+        a.setAttribute('aria-label', 'Copy link to this story');
+        a.textContent = '#';
+        a.addEventListener('click', function (e) {
+          if (!(navigator.clipboard && navigator.clipboard.writeText)) return;
+          e.preventDefault();
+          var url = location.origin + location.pathname + '#' + el.id;
+          navigator.clipboard.writeText(url).then(function () {
+            try { history.replaceState(null, '', '#' + el.id); } catch (err) {}
+            a.classList.add('is-copied');
+            setTimeout(function () { a.classList.remove('is-copied'); }, 1200);
+          });
+        });
+        el.insertBefore(a, el.firstChild);
+      });
+    })();
+  </script>
 </body>
 </html>

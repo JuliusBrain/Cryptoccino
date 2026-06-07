@@ -58,38 +58,52 @@ card: /assets/cards/2026-06-07.png
 <img class="section-card" src="{{ "/assets/cards/2026-06-07-the_tape.png" | relative_url }}" alt="Markets" width="1200" height="300" loading="lazy" decoding="async">
 
 > **WLD drops 20% after Hayes reverses his hold position overnight.** Arthur Hayes publicly stated he would hold his Worldcoin position, then sold it the following day, sending WLD down sharply. The episode is a clean reminder of how concentrated influencer positioning interacts with low-liquidity tokens. On-chain watchers flagged the exit before the public announcement landed. [`coindesk`](https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it)
+{: #wld-drops-20-after-hayes-reverses-his-hold-position-overnight}
 
 > **Joseph Lubin moves 110,000 ETH to shore up a $259 million DAI debt position.** A wallet attributed to the Ethereum co-founder shifted the collateral as ETH prices fell, reducing liquidation risk on a large MakerDAO borrow rather than heading for the exit. On-chain analysts characterised the transfer as defensive collateral management. The position size makes it a systemic watch item if ETH continues lower. [`theblock`](https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position)
+{: #joseph-lubin-moves-110000-eth-to-shore-up-a-259-million-dai-debt-position}
 
 > **Satoshi-era bitcoin linked to a $285 billion lawsuit moves on-chain after 14 years dormant.** Coins that have sat untouched since the earliest days of the network transferred as they sit at the centre of a long-running legal dispute. Dormant wallet movements of this vintage reliably spook spot markets, adding noise to an already stressed week. The lawsuit context distinguishes this from a typical old-coin spend. [`coindesk`](https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years)
+{: #satoshi-era-bitcoin-linked-to-a-285-billion-lawsuit-moves-on-chain-after-14-years-dormant}
 
 > **Retail bitcoin selling may be partially explained by SpaceX IPO allocation chasing.** Analysis points to retail outflows from crypto coinciding with heavy demand for SpaceX IPO access, suggesting some participants are liquidating BTC to fund equity allocations. S&amp;P Global separately confirmed it will not bend its index-eligibility rules for mega-cap IPOs, which may cap SpaceX's immediate index-driven demand. The rotation narrative fits with broader AI-and-chips enthusiasm pulling capital away from crypto. [`coindesk`](https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo) [`cryptobriefing`](https://cryptobriefing.com/sp-global-megacap-ipo-rules-spacex/)
+{: #retail-bitcoin-selling-may-be-partially-explained-by-spacex-ipo-allocation-chasing}
 
 <img class="section-card" src="{{ "/assets/cards/2026-06-07-projects_money.png" | relative_url }}" alt="Projects &amp; Money" width="1200" height="300" loading="lazy" decoding="async">
 
 > **America's largest banks are jointly building a digital currency network to halt deposit outflows to crypto and money-market alternatives.** The consortium, which includes several of the top US retail banks, is developing shared infrastructure for tokenised deposits. The explicit motivation is defensive: slowing the drain of balances toward higher-yielding or natively digital alternatives. If it ships, it is the most serious bank-native stablecoin infrastructure yet attempted in the US. [`coindesk`](https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain)
+{: #americas-largest-banks-are-jointly-building-a-digital-currency-network-to-halt-deposit-outflows-to-crypto-and-money-market-alternatives}
 
 > **HTX to delist USD1 after World Liberty Financial froze exchange-linked addresses citing UK sanctions.** HTX said WLF invoked UK sanctions compliance to freeze on-chain addresses connected to the exchange, prompting the delisting of the Trump-affiliated stablecoin. The move puts a political project in direct conflict with a major offshore venue and raises questions about how USD1's compliance controls are configured. It is an early real-world test of whether WLF's stablecoin can operate across jurisdictions without friction. [`theblock`](https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses)
+{: #htx-to-delist-usd1-after-world-liberty-financial-froze-exchange-linked-addresses-citing-uk-sanctions}
 
 > **Meta is paying creators in stablecoins, but the off-ramp problem is squarely the recipient's.** Meta has begun disbursing creator payments via stablecoin rails, framing it as faster and more global than traditional payouts. The practical issue is that most recipients lack straightforward conversion paths to local currency, leaving the last-mile problem entirely unsolved on the user side. It is a useful stress test for stablecoin payment infrastructure, even if the framing elides the friction. [`coindesk`](https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem)
+{: #meta-is-paying-creators-in-stablecoins-but-the-off-ramp-problem-is-squarely-the-recipients}
 
 > **Hyperion DeFi unwinds $29 million in HYPE positions as its USDH stablecoin winds down.** Around 800,000 HYPE tokens will return to the company treasury following the sunset of USDH, with the firm citing a pivot toward more capital-efficient strategies. The unwinding touches both Felix and Native Markets as counterparties. It is a contained but notable example of a DeFi stablecoin experiment ending without a blowup. [`theblock`](https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets)
+{: #hyperion-defi-unwinds-29-million-in-hype-positions-as-its-usdh-stablecoin-winds-down}
 
 <img class="section-card" src="{{ "/assets/cards/2026-06-07-security_desk.png" | relative_url }}" alt="Security Desk" width="1200" height="300" loading="lazy" decoding="async">
 
 > **apxUSD depegs to $0.90 as collateral token STRC collapses.** Apyx Finance's synthetic dollar slipped 10 cents from peg after the backing asset STRC sold off sharply, a textbook volatile-collateral depeg. No exploit is alleged; this is a design-risk realisation. Positions in the vault are effectively underwater until STRC recovers or the protocol recapitalises. [`cryptobriefing`](https://cryptobriefing.com/apxusd-stablecoin-depeg-strc-drop/)
+{: #apxusd-depegs-to-090-as-collateral-token-strc-collapses}
 
 > **AI-assisted researcher who flagged a Zcash vulnerability now turns the same tooling on Monero.** The researcher used frontier AI models to surface a previously unknown Zcash bug and has now queued Monero for the same treatment. Both privacy chains store large amounts of value and have limited formal audit coverage relative to their age. The audit is self-initiated; no vulnerability has been disclosed for Monero yet. [`coindesk`](https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue) [`decrypt`](https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example)
+{: #ai-assisted-researcher-who-flagged-a-zcash-vulnerability-now-turns-the-same-tooling-on-monero}
 
 > **Microsoft researchers flag a prompt-injection flaw in Claude Code that could expose GitHub credentials.** The attack path involves manipulating Anthropic's AI coding agent via injected instructions in the development environment, potentially leaking credentials stored in CI/CD pipelines. Any team using Claude Code against repos with stored secrets should review their pipeline isolation. Anthropic has not yet issued a public patch advisory. [`decrypt`](https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft)
+{: #microsoft-researchers-flag-a-prompt-injection-flaw-in-claude-code-that-could-expose-github-credentials}
 
 <img class="section-card" src="{{ "/assets/cards/2026-06-07-on_the_hill.png" | relative_url }}" alt="On the Hill" width="1200" height="300" loading="lazy" decoding="async">
 
 > **House Ways and Means circulates seven crypto tax bills ahead of a 9 June hearing.** The draft bills would reshape digital asset tax treatment across several areas including wash-sale rules, de minimis thresholds, and reporting obligations. The hearing is the most substantive Congressional engagement with crypto tax policy in the current session. Operators and fund structures should start mapping exposure now; the timeline to markup could be short. [`cryptobriefing`](https://cryptobriefing.com/house-ways-means-digital-asset-tax-bills/)
+{: #house-ways-and-means-circulates-seven-crypto-tax-bills-ahead-of-a-9-june-hearing}
 
 > **Senate blocks FISA extension carrying embedded crypto and CBDC-related surveillance provisions.** The bill that failed to advance included language with downstream implications for financial surveillance and digital currency monitoring, though those clauses were not the primary political flashpoint. The June 12 expiration creates a hard deadline for a revised version to pass, likely with some of the same riders reattached. Worth tracking which crypto-adjacent provisions survive the renegotiation. [`cryptobriefing`](https://cryptobriefing.com/senate-blocks-fisa-extension-crypto-cbdc/)
+{: #senate-blocks-fisa-extension-carrying-embedded-crypto-and-cbdc-related-surveillance-provisions}
 
 > **Crypto Council for Innovation launches a coalition pushing for regulatory clarity on yield-bearing DeFi vaults.** The Vault Coalition will advocate for a clear framework distinguishing yield-generating vault products from securities, a distinction that remains legally ambiguous in the US. Founding members span protocols and asset managers who have been building in the grey zone. The timing, during a week of intense market stress, is either brave or perfectly calculated. [`cryptobriefing`](https://cryptobriefing.com/vault-coalition-crypto-regulatory-clarity/)
+{: #crypto-council-for-innovation-launches-a-coalition-pushing-for-regulatory-clarity-on-yield-bearing-defi-vaults}
 
 ## What else is grinding?
 {: .brewing-label}

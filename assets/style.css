@@ -968,3 +968,60 @@ button:focus-visible,
 }
 /* The skip target is programmatically focusable but shouldn't show a ring. */
 main:focus { outline: none; }
+
+/* ============================================================
+   Per-story deep links — a hover "#" anchor in the left gutter and a
+   :target highlight. The anchor is injected by layout JS (never in the
+   feed body); ids are server-rendered.
+   ============================================================ */
+article.issue blockquote:not(.pour):not(.last-sip),
+article.issue section.lead h2 {
+  position: relative;
+  scroll-margin-top: 1rem;
+}
+.story-link {
+  position: absolute;
+  top: 0.2em;
+  left: -0.95rem;
+  width: 0.8rem;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  line-height: 1;
+  color: var(--mut);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 0.12s ease;
+}
+.story-link:hover { color: var(--accent); }
+article.issue blockquote:hover > .story-link,
+article.issue blockquote:focus-within > .story-link,
+section.lead h2:hover > .story-link,
+section.lead h2:focus-within > .story-link,
+.story-link:focus-visible { opacity: 1; }
+/* Touch devices can't hover — keep the affordance faintly visible. */
+@media (hover: none) { .story-link { opacity: 0.5; } }
+/* Transient "Copied" toast. */
+.story-link.is-copied::after {
+  content: "Copied";
+  position: absolute;
+  left: 1.2rem;
+  top: -0.15rem;
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--card);
+  background: var(--accent);
+  padding: 0.12rem 0.4rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+/* Highlight the linked-to story. */
+article.issue blockquote:not(.pour):not(.last-sip):target {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-radius: 0 4px 4px 0;
+}
+section.lead h2:target {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-radius: 4px;
+}

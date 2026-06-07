@@ -12,8 +12,37 @@ from pipeline.render import (
     _render_mood_gauge,
     _render_pour,
     _render_source_tags,
+    _slugify,
     render_post,
 )
+
+
+class TestStorySlugs:
+    def test_slugify_basic(self):
+        assert _slugify("Bitcoin breaks below $60,000!") == "bitcoin-breaks-below-60000"
+        assert _slugify("  Spaces & symbols -- here ") == "spaces-symbols-here"
+        assert _slugify("") == "story"
+
+    def test_beat_item_gets_anchor_id(self):
+        beat = {"id": "the_tape", "title": "Markets", "items": [
+            {"lead_in": "Bitcoin breaks below $60k", "text": "It fell.", "links": []},
+        ]}
+        out = _render_beat(beat)  # no card -> fallback heading + item
+        assert "{: #bitcoin-breaks-below-60k}" in out
+
+    def test_duplicate_lead_ins_are_deduped(self):
+        beat = {"id": "the_tape", "title": "Markets", "items": [
+            {"lead_in": "Same lead", "text": "a", "links": []},
+            {"lead_in": "Same lead", "text": "b", "links": []},
+        ]}
+        out = _render_beat(beat)
+        assert "{: #same-lead}" in out
+        assert "{: #same-lead-2}" in out
+
+    def test_pour_and_last_sip_have_no_id(self):
+        # The Pour and Last sip keep their .pour/.last-sip IALs, never an id.
+        assert "{: #" not in _render_pour({"pour": "x", "today": []})
+        assert "{: #" not in _render_last_sip({"last_sip": "y"})
 
 
 class TestFormatPrice:

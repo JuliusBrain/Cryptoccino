@@ -50,34 +50,46 @@ card: /assets/cards/2026-06-06.png
 <img class="section-card" src="{{ "/assets/cards/2026-06-06-the_tape.png" | relative_url }}" alt="Markets">
 
 > **Bitcoin breaks below $60,000 for the first time since 2024.** A stronger-than-expected US jobs print pushed risk assets lower across the board, with Bitcoin falling more than 50% from its October peak. Memecoins DOGE and SHIB dropped roughly 9%, amplifying the broader drawdown. The Zcash vulnerability disclosure added a confidence shock on top of the macro pressure. [`decrypt`](https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000)
+{: #bitcoin-breaks-below-60000-for-the-first-time-since-2024}
 
 > **Bitcoin treasury companies collectively shed $62 billion in value this week.** Strategy shares hit a four-month low and its STRC preferred stock came under pressure alongside the BTC slide. Bitmine and other leveraged treasury vehicles saw paper gains evaporate, with Hyperliquid's treasury standing as the lone exception in profit across the cohort. [`cryptobriefing`](https://cryptobriefing.com/bitcoin-treasury-companies-lose-62b/) [`decrypt`](https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k) [`theblock`](https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions)
+{: #bitcoin-treasury-companies-collectively-shed-62-billion-in-value-this-week}
 
 > **BlackRock picked up $47 million in Bitcoin into the dip.** The purchase came against a backdrop of broad market fear, reinforcing the institutional pattern of treating sharp corrections as accumulation windows. ETF flow data for the broader session is still pending, but the directional signal from the world's largest asset manager will be watched closely. [`cryptobriefing`](https://cryptobriefing.com/blackrock-buys-bitcoin-market-fear/)
+{: #blackrock-picked-up-47-million-in-bitcoin-into-the-dip}
 
 > **ADA trades at four-year lows below $0.20 as social activity spikes.** The divergence between rising chatter and falling price is a familiar pattern at local bottoms, though it can equally mark capitulation. Cardano has now given back essentially all gains accumulated during the 2024 bull cycle. [`coindesk`](https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows)
+{: #ada-trades-at-four-year-lows-below-020-as-social-activity-spikes}
 
 <img class="section-card" src="{{ "/assets/cards/2026-06-06-projects_money.png" | relative_url }}" alt="Projects & Money">
 
 > **Securitize clears its SEC registration statement, opening the path to NYSE listing.** The BlackRock-backed tokenisation firm will trade as SECZ following a SPAC merger that requires a shareholder vote expected later this month. The listing would make Securitize the first major real-world asset tokenisation platform to trade on a major US exchange. [`coindesk`](https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse) [`theblock`](https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz)
+{: #securitize-clears-its-sec-registration-statement-opening-the-path-to-nyse-listing}
 
 > **BitMine prices preferred shares with a 9.5% dividend in an upsized offering.** Tom Lee's Ethereum treasury vehicle is lifting the Strategy preferred-share playbook and applying it to ETH accumulation. The offering is designed to fund further ETH purchases, adding another leveraged corporate bet on ether at a notably weak moment for prices. [`decrypt`](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)
+{: #bitmine-prices-preferred-shares-with-a-95-dividend-in-an-upsized-offering}
 
 > **Visa and Brale are exploring private stablecoin settlement via SBC on the Canton Network.** The pair are testing whether Canton's privacy-preserving infrastructure can support institutional stablecoin flows without exposing counterparty data on a public ledger. It is an early signal that enterprise settlement is moving toward purpose-built privacy rails rather than public chains. [`cryptobriefing`](https://cryptobriefing.com/visa-brale-sbc-stablecoin-canton-network/)
+{: #visa-and-brale-are-exploring-private-stablecoin-settlement-via-sbc-on-the-canton-network}
 
 > **Crypto Council for Innovation launches a vault-focused regulatory coalition.** The coalition is targeting DeFi vaults specifically, pushing for a defined regulatory framework around deposit-and-yield mechanisms that have so far operated in a grey zone. With stablecoin and market-structure legislation advancing, vaults are the next contested surface area. [`theblock`](https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults)
+{: #crypto-council-for-innovation-launches-a-vault-focused-regulatory-coalition}
 
 <img class="section-card" src="{{ "/assets/cards/2026-06-06-security_desk.png" | relative_url }}" alt="Security Desk">
 
 > **TrustedVolumes, a 1inch Fusion resolver, lost $6.7 million in an exploit.** 1inch confirmed its core protocols and user funds were untouched; the breach was isolated to TrustedVolumes as an independent resolver operating within the Fusion ecosystem. A bug bounty has been floated. [`cointelegraph_defi`](https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit)
+{: #trustedvolumes-a-1inch-fusion-resolver-lost-67-million-in-an-exploit}
 
 > **AI tooling surfaced a critical flaw in a major crypto network, with warnings the class of vulnerability extends to banks.** The disclosure underlines that AI-assisted code auditing is now a real threat-surface accelerant, capable of finding flaws at a pace human auditors cannot match. Security researchers are urging financial institutions building on similar cryptographic primitives to audit urgently. [`coindesk`](https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next)
+{: #ai-tooling-surfaced-a-critical-flaw-in-a-major-crypto-network-with-warnings-the-class-of-vulnerability-extends-to-banks}
 
 <img class="section-card" src="{{ "/assets/cards/2026-06-06-on_the_hill.png" | relative_url }}" alt="On the Hill">
 
 > **Seven crypto tax bills circulated ahead of a House Ways and Means Committee hearing on Tuesday.** The package covers de minimis reporting exemptions for small transactions, broker definitions, and treatment of staking rewards. It is the first time congressional leadership has formally scheduled crypto tax legislation for deliberation, marking a shift from informal discussion to active drafting. [`decrypt`](https://decrypt.co/370197/congress-7-crypto-tax-bills) [`cointelegraph_regulation`](https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing) [`theblock`](https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week)
+{: #seven-crypto-tax-bills-circulated-ahead-of-a-house-ways-and-means-committee-hearing-on-tuesday}
 
 > **Illinois is one signature away from a 0.2% crypto transaction tax becoming state law.** The levy, embedded in the FY2027 budget passed by Illinois lawmakers, places collection responsibility on registered brokers rather than end users. It is the most concrete state-level crypto tax action in the current cycle and will be watched as a template or cautionary tale by other states. [`cointelegraph_regulation`](https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law)
+{: #illinois-is-one-signature-away-from-a-02-crypto-transaction-tax-becoming-state-law}
 
 ## What else is grinding?
 {: .brewing-label}

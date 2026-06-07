@@ -695,17 +695,17 @@ article.issue hr {
 /* === Site footer === */
 footer.site {
   margin-top: 4rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--line);
+  padding-top: 1.6rem;
+  /* Double rule echoes the masthead / archive / search headers. */
+  border-top: 3px double var(--line);
   font-family: var(--mono);
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   color: var(--mut);
-  letter-spacing: 0.18em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 0.5rem;
+  flex-direction: column;
+  gap: 1.1rem;
 }
 footer.site a { color: var(--mut); text-decoration: none; }
 footer.site a:hover { color: var(--accent); }
@@ -1061,13 +1061,52 @@ section.lead h2:target {
   flex: 0 0 auto;
 }
 
-/* Footer beat/section nav. */
-footer.site .site-nav {
+/* Footer colophon nav — labeled groups with mid-dot separators. */
+.footer-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+.footer-group {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem 0.9rem;
-  justify-content: center;
-  flex: 1 1 auto;
+  align-items: baseline;
+  gap: 0.25rem 0.55rem;
+}
+.footer-group .footer-label {
+  flex: 0 0 4.25rem;
+  color: var(--accent);
+  letter-spacing: 0.2em;
+}
+/* Mid-dot between links within a group (not before the first). */
+.footer-group a:not(:first-of-type)::before {
+  content: "·";
+  color: var(--line);
+  margin-right: 0.55rem;
+}
+footer.site a:hover { text-decoration: none; }
+/* Editorial sign-off — serif italic, sentence case, against the mono caps above. */
+.footer-colophon {
+  margin: 0;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.82rem;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--mut);
+}
+
+/* One-line explainer for the market-mood gauge ("Today's Roast"). */
+.mood-gauge::after {
+  content: "Roast strength = the day's biggest market move — more beans, bigger swing.";
+  flex-basis: 100%;
+  margin: 0.1rem 0 0;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  letter-spacing: 0;
+  color: var(--mut);
 }
 
 /* ============================================================

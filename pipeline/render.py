@@ -327,13 +327,11 @@ def _yaml_quote(value):
     """Return a safe single-line YAML scalar for arbitrary text. Delegates all
     escaping (quotes, backslashes, newlines, control chars) to PyYAML rather
     than hand-rolling it, so model/feed values can't break out of the scalar and
-    inject front-matter keys. `width` is set huge to keep it on one line."""
-    dumped = yaml.safe_dump(
-        {"_": str(value or "")},
-        default_style='"', allow_unicode=True, width=10**9,
-    )
-    # dumped looks like:  "_": "<escaped value>"\n  — keep just the value scalar.
-    return dumped[dumped.index(":") + 1:].strip()
+    inject front-matter keys. default_style forces a quoted scalar (no `...`
+    document marker); width keeps it on one line."""
+    return yaml.safe_dump(
+        str(value or ""), default_style='"', allow_unicode=True, width=10**9,
+    ).strip()
 
 
 def render_post(

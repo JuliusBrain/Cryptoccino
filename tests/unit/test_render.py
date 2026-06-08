@@ -70,6 +70,33 @@ class TestStorySlugs:
         assert "beats:" in content
 
 
+class TestInjectionHardening:
+    def test_body_text_cannot_inject_liquid(self):
+        # Feed/model text with Liquid tags must be neutralised so Jekyll can't
+        # evaluate it at build time (SSTI).
+        beat = {"id": "the_tape", "title": "Markets", "items": [
+            {"lead_in": "{{ site.secret }}",
+             "text": "{% include evil.html %} 100% sure", "links": []},
+        ]}
+        out = _render_beat(_assign_slugs([beat])[0])
+        assert "{{" not in out and "{%" not in out
+        assert "&#123;" in out  # delimiters entity-encoded
+
+    def test_front_matter_cannot_be_injected_via_headline(self, tmp_path, monkeypatch):
+        import yaml
+        monkeypatch.chdir(tmp_path)
+        (tmp_path / "_posts").mkdir()
+        issue = _minimal_issue()
+        # Backslash-quote + newline payload that broke the old hand-rolled quoter.
+        evil = 'x\\"\nlayout: NULLED\npermalink: /evil/\nredirect_to: https://evil'
+        issue["lead"] = {"kicker": "K", "headline": evil, "links": [], "blocks": []}
+        content = Path(render_post(issue, prices=[])).read_text()
+        fm = yaml.safe_load(content.split("---", 2)[1])
+        assert fm["layout"] == "issue"        # not overridden
+        assert "permalink" not in fm and "redirect_to" not in fm
+        assert fm["headline"] == evil          # round-trips intact, no break-out
+
+
 class TestRenderSourceTags:
     def test_empty(self):
         assert _render_source_tags([]) == ""

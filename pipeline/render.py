@@ -29,14 +29,23 @@ TITLE_BASE = "Cryptoccino"
 _HTTP_URL = re.compile(r"(?i)^https?://")
 
 
+def _no_liquid(text):
+    """Neutralise Liquid delimiters so feed/model text can't inject template
+    tags ({{ ... }}, {% ... %}) that Jekyll would execute at build time (SSTI).
+    Breaking the leading brace is enough to disarm both tag forms; browsers
+    render the entities back to literal { } in the page."""
+    return text.replace("{", "&#123;").replace("}", "&#125;")
+
+
 def _esc(value):
-    """Escape a model/feed string for markdown body / HTML text-node context."""
-    return html.escape(str(value or ""), quote=False)
+    """Escape a model/feed string for markdown body / HTML text-node context.
+    NOT safe for HTML attribute values (doesn't escape quotes) — use _esc_attr."""
+    return _no_liquid(html.escape(str(value or ""), quote=False))
 
 
 def _esc_attr(value):
     """Escape a model/feed string for a double-quoted HTML attribute value."""
-    return html.escape(str(value or ""), quote=True)
+    return _no_liquid(html.escape(str(value or ""), quote=True))
 
 
 def _safe_url(url):
@@ -111,9 +120,9 @@ def _render_source_tags(links):
         return ""
     tags = []
     for link in links:
-        # source_id sits in a kramdown code span (which already escapes <>&);
-        # only a backtick could break out, so strip those.
-        sid = str(link.get("source_id", "")).replace("`", "")
+        # source_id sits in a kramdown code span + a markdown link label;
+        # restrict to a safe allowlist so it can't perturb either structure.
+        sid = re.sub(r"[^A-Za-z0-9._-]", "", str(link.get("source_id", "")))
         url = _safe_url(link.get("url"))
         tags.append(f"[`{sid}`]({url})" if url else f"`{sid}`")
     return " ".join(tags)
@@ -315,7 +324,16 @@ def _render_body(issue, prices, section_cards=None, fng=None, beats=None, lead_s
 
 
 def _yaml_quote(value):
-    return '"' + (value or "").replace('"', '\\"') + '"'
+    """Return a safe single-line YAML scalar for arbitrary text. Delegates all
+    escaping (quotes, backslashes, newlines, control chars) to PyYAML rather
+    than hand-rolling it, so model/feed values can't break out of the scalar and
+    inject front-matter keys. `width` is set huge to keep it on one line."""
+    dumped = yaml.safe_dump(
+        {"_": str(value or "")},
+        default_style='"', allow_unicode=True, width=10**9,
+    )
+    # dumped looks like:  "_": "<escaped value>"\n  — keep just the value scalar.
+    return dumped[dumped.index(":") + 1:].strip()
 
 
 def render_post(

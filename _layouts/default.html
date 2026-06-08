@@ -21,6 +21,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- comment -%}
+    Content-Security-Policy via <meta> — classic GitHub Pages can't set response
+    headers. Inline scripts (roast toggle, copy-link, search) require
+    'unsafe-inline', but the policy still blocks unexpected external scripts,
+    plugins, and <base> hijacking, and pins network/image/font origins to self
+    (+ Plausible). Defence-in-depth behind the server-side escaping in render.py.
+  {%- endcomment -%}
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://plausible.io; object-src 'none'; base-uri 'self'; form-action 'self'">
+  {%- comment -%}
     Social/link-preview source. An issue page describes itself from its own
     front matter; the homepage mirrors the LATEST issue so previews on
     Telegram/X/Slack show today's lead; anything else uses the site defaults.

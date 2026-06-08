@@ -1,0 +1,17 @@
+version: 2
+updates:
+  # Keep the SHA-pinned GitHub Actions current (Dependabot bumps the pin + comment).
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+  # Pinned Python pipeline deps.
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+  # Jekyll/preview gems.
+  - package-ecosystem: bundler
+    directory: /
+    schedule:
+      interval: weekly

@@ -1,7 +1,10 @@
-feedparser
-anthropic
-pyyaml
-python-dateutil
-requests
-Pillow
-matplotlib
+# Pinned for supply-chain integrity (a moved/typosquatted release would run on
+# the daily runner, which holds the API key + write access to main). Dependabot
+# (.github/dependabot.yml) proposes updates.
+feedparser==6.0.12
+anthropic==0.105.2
+pyyaml==6.0.3
+python-dateutil==2.9.0.post0
+requests==2.34.2
+Pillow==12.2.0
+matplotlib==3.10.9

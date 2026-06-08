@@ -9,3 +9,7 @@ _site/
 .jekyll-metadata
 vendor/
 .bundle/
+
+# Local-only preview helpers — used to test the site locally, never published.
+scripts/preview_features.py
+_posts/*-cryptoccino-preview.md

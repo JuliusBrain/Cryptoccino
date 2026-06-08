@@ -3,7 +3,7 @@
 from pathlib import Path
 
 from pipeline.render import (
-    _format_price,
+    _assign_slugs,
     _render_beat,
     _render_brewing,
     _render_fng_chip,
@@ -27,7 +27,9 @@ class TestStorySlugs:
         beat = {"id": "the_tape", "title": "Markets", "items": [
             {"lead_in": "Bitcoin breaks below $60k", "text": "It fell.", "links": []},
         ]}
-        out = _render_beat(beat)  # no card -> fallback heading + item
+        # Slugs are assigned once per issue; render the slugged beat (the path
+        # the pipeline ships) rather than relying on a render-time fallback.
+        out = _render_beat(_assign_slugs([beat])[0])
         assert "{: #bitcoin-breaks-below-60k}" in out
 
     def test_duplicate_lead_ins_are_deduped(self):
@@ -35,7 +37,7 @@ class TestStorySlugs:
             {"lead_in": "Same lead", "text": "a", "links": []},
             {"lead_in": "Same lead", "text": "b", "links": []},
         ]}
-        out = _render_beat(beat)
+        out = _render_beat(_assign_slugs([beat])[0])
         assert "{: #same-lead}" in out
         assert "{: #same-lead-2}" in out
 
@@ -66,25 +68,6 @@ class TestStorySlugs:
                             "zcash-counterfeiting-bug"]
         assert set(fm_slugs).issubset(set(body_slugs))
         assert "beats:" in content
-
-
-class TestFormatPrice:
-    def test_above_100_no_decimals_with_separator(self):
-        assert _format_price(62123.45) == "62,123"
-
-    def test_thousands(self):
-        assert _format_price(60000) == "60,000"
-
-    def test_between_1_and_100_two_decimals(self):
-        assert _format_price(58.05) == "58.05"
-        assert _format_price(1.10) == "1.10"
-
-    def test_below_1_four_sig_figs(self):
-        assert _format_price(0.08156) == "0.08156"
-        assert _format_price(0.9998) == "0.9998"
-
-    def test_handles_none(self):
-        assert _format_price(None) == "0"
 
 
 class TestRenderSourceTags:

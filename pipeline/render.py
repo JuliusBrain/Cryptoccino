@@ -65,12 +65,12 @@ def _make_slugger():
     return slug_for
 
 
-def _assign_slugs(beats):
+def _assign_slugs(beats, slugger=None):
     """Return a copy of `beats` with a unique per-issue `slug` on each item.
-    One shared slugger across all beats in order, so these ids are identical to
-    the in-body `{: #slug}` anchors — letting front-matter/beat-pages/search
-    deep-link to the same stories."""
-    slugger = _make_slugger()
+    Pass the issue-wide `slugger` (shared with the lead headline) so all ids are
+    unique and identical to the in-body `{: #slug}` anchors — letting
+    front-matter/beat-pages/search deep-link to the same stories."""
+    slugger = slugger or _make_slugger()
     out = []
     for beat in beats or []:
         items = [
@@ -104,16 +104,6 @@ def _beats_front_matter(beats):
     return yaml.safe_dump(
         {"beats": data}, allow_unicode=True, sort_keys=False, default_flow_style=False
     ).rstrip()
-
-
-def _format_price(price):
-    if price is None:
-        return "0"
-    if price >= 100:
-        return f"{price:,.0f}"
-    if price >= 1:
-        return f"{price:.2f}"
-    return f"{price:.4g}"
 
 
 def _render_source_tags(links):
@@ -177,12 +167,16 @@ def _render_fng_chip(fng):
     )
 
 
-def _render_lead(lead, fng=None):
+def _render_lead(lead, fng=None, slug=None):
     parts = ['<section class="lead" markdown="1">', ""]
-    parts.append(f"**{_esc(lead['kicker'])}**")
+    parts.append(f"**{_esc(lead.get('kicker', ''))}**")
     parts.append("{: .kicker}")
     parts.append("")
-    parts.append(f"## {_esc(lead['headline'])}")
+    parts.append(f"## {_esc(lead.get('headline', ''))}")
+    # Stable anchor (matches lead_slug in front matter) so the lead story is
+    # deep-linkable and searchable, instead of relying on kramdown's auto-id.
+    if slug:
+        parts.append(f"{{: #{slug}}}")
     parts.append("")
     source_tags = _render_source_tags(lead.get("links") or [])
     if source_tags:
@@ -200,8 +194,7 @@ def _render_lead(lead, fng=None):
     return "\n".join(parts)
 
 
-def _render_beat(beat, section_card_path=None, slugger=None):
-    slugger = slugger or _make_slugger()
+def _render_beat(beat, section_card_path=None):
     parts = []
     if section_card_path:
         title = beat.get("title", "")
@@ -220,16 +213,17 @@ def _render_beat(beat, section_card_path=None, slugger=None):
         parts.append("")
     else:
         # Fallback when card generation failed — beat is never unlabelled.
-        parts.append(f"## {_esc(beat['title'])}")
+        parts.append(f"## {_esc(beat.get('title', ''))}")
         parts.append("")
     for item in beat.get("items") or []:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
-        parts.append(f"> **{_esc(item['lead_in'])}** {_esc(item['text'])}{suffix}")
-        # Stable anchor id so each story is deep-linkable. Use the precomputed
-        # slug when present (so it matches the beats: front matter); else slug now.
-        slug = item.get("slug") or slugger(item.get("lead_in", ""))
-        parts.append(f"{{: #{slug}}}")
+        parts.append(f"> **{_esc(item.get('lead_in', ''))}** {_esc(item.get('text', ''))}{suffix}")
+        # Stable anchor id (precomputed in _assign_slugs) so each story is
+        # deep-linkable and matches the beats: front matter.
+        slug = item.get("slug")
+        if slug:
+            parts.append(f"{{: #{slug}}}")
         parts.append("")
     return "\n".join(parts).rstrip()
 
@@ -294,7 +288,7 @@ def _render_mood_gauge(prices):
     )
 
 
-def _render_body(issue, prices, section_cards=None, fng=None, beats=None):
+def _render_body(issue, prices, section_cards=None, fng=None, beats=None, lead_slug=None):
     section_cards = section_cards or {}
     prices_html = render_strip_html(prices, mode="web") if prices else ""
     blocks = []
@@ -304,7 +298,7 @@ def _render_body(issue, prices, section_cards=None, fng=None, beats=None):
     blocks.append(_render_pour(issue, prices_html=prices_html))
 
     if issue.get("lead"):
-        blocks.append(_render_lead(issue["lead"], fng=fng))
+        blocks.append(_render_lead(issue["lead"], fng=fng, slug=lead_slug))
 
     # Pre-slugged beats (shared with the front matter) so body anchors match.
     if beats is None:
@@ -349,17 +343,24 @@ def render_post(
         f"issue_date: {iso}",
         f"description: {_yaml_quote(issue.get('pour'))}",
     ]
+    # One issue-wide slugger covers the lead headline first (document order),
+    # then the beat items, so every anchor is unique and the body matches the
+    # front matter exactly.
+    slugger = _make_slugger()
     # Lead headline as its own field so layouts can use it for og:title /
     # twitter:title (the post `title` is just the dated masthead). Omitted on a
     # quiet day with no lead; layouts then fall back to the dated title.
     headline = (issue.get("lead") or {}).get("headline")
+    lead_slug = slugger(headline) if headline else None
     if headline:
         fm.append(f"headline: {_yaml_quote(headline)}")
+        # Stable anchor for the lead story (search + deep links read this).
+        fm.append(f"lead_slug: {lead_slug}")
     if card_path:
         fm.append(f"card: {card_path}")
     # Structured story data (beat pages + search read this). Slugs computed once
     # and reused for the body anchors so the two always match.
-    beats = _assign_slugs(issue.get("beats") or [])
+    beats = _assign_slugs(issue.get("beats") or [], slugger)
     beats_fm = _beats_front_matter(beats)
     if beats_fm:
         fm.append(beats_fm)
@@ -371,6 +372,9 @@ def render_post(
     out_path = Path(POSTS_DIR) / f"{iso}-cryptoccino.md"
     out_path.write_text(
         front_matter
-        + _render_body(issue, prices, section_cards=section_cards, fng=fng, beats=beats)
+        + _render_body(
+            issue, prices, section_cards=section_cards, fng=fng,
+            beats=beats, lead_slug=lead_slug,
+        )
     )
     return str(out_path)

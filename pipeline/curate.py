@@ -129,7 +129,9 @@ def _strip_fences(text):
 
 
 def _reorder_beats(beats):
-    by_id = {b["id"]: b for b in beats}
+    # Model output is untrusted: skip any beat missing an id rather than
+    # KeyError-aborting an otherwise-publishable (and already-billed) run.
+    by_id = {b["id"]: b for b in beats if isinstance(b, dict) and b.get("id")}
     return [
         by_id[beat_id]
         for beat_id in CANONICAL_BEATS

@@ -5,6 +5,7 @@ date: 2026-06-05
 issue_date: 2026-06-05
 description: "Hot jobs data, a four-year-old privacy bug, and a market that forgot it had a floor."
 headline: "Bitcoin breaks below $60,000 for the first time since October 2024 as stronger-than-expected US jobs data crushes rate-cut hopes."
+lead_slug: bitcoin-breaks-below-60000-for-the-first-time-since-october-2024-as-stronger-than-expected-us-jobs-data-crushes-rate-cut-hopes
 card: /assets/cards/2026-06-05.png
 beats:
 - id: the_tape
@@ -168,6 +169,7 @@ beats:
 {: .kicker}
 
 ## Bitcoin breaks below $60,000 for the first time since October 2024 as stronger-than-expected US jobs data crushes rate-cut hopes.
+{: #bitcoin-breaks-below-60000-for-the-first-time-since-october-2024-as-stronger-than-expected-us-jobs-data-crushes-rate-cut-hopes}
 
 [`coindesk`](https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024) [`coindesk`](https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes) [`cryptobriefing`](https://cryptobriefing.com/jobs-data-crushes-crypto-rate-cut-hopes/) [`decrypt`](https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go) [`theblock`](https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment)
 {: .sources}

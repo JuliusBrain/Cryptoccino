@@ -5,6 +5,7 @@ date: 2026-06-06
 issue_date: 2026-06-06
 description: "Bitcoin under $60k, Zcash had a counterfeiting bug, and the tax bills are queuing up. Espresso warranted."
 headline: "Zcash patches a vulnerability that allowed undetectable coin counterfeiting, triggering an emergency hard fork and a governance crisis."
+lead_slug: zcash-patches-a-vulnerability-that-allowed-undetectable-coin-counterfeiting-triggering-an-emergency-hard-fork-and-a-governance-crisis
 card: /assets/cards/2026-06-06.png
 beats:
 - id: the_tape
@@ -124,6 +125,7 @@ beats:
 {: .kicker}
 
 ## Zcash patches a vulnerability that allowed undetectable coin counterfeiting, triggering an emergency hard fork and a governance crisis.
+{: #zcash-patches-a-vulnerability-that-allowed-undetectable-coin-counterfeiting-triggering-an-emergency-hard-fork-and-a-governance-crisis}
 
 [`cryptobriefing`](https://cryptobriefing.com/zcash-governance-concerns-emergency-hard-fork/) [`decrypt`](https://decrypt.co/370184/zcash-crash-wiped-billions-market-cap-can-zec-recover) [`decrypt`](https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say) [`theblock`](https://www.theblock.co/post/403839/zcash-treasury-cypherpunk-remains-committed-accumulating-5-zec-supply)
 {: .sources}

@@ -10,6 +10,14 @@ _site/
 vendor/
 .bundle/
 
+# Local-only dev tooling. Classic GitHub Pages ignores the repo Gemfile and
+# builds Jekyll with its own gem set, and no CI uses these — they only drive
+# local preview (make serve / bundle). _config.yml is NOT here: it's the site
+# config the production Pages build reads, so it stays tracked.
+Gemfile
+Gemfile.lock
+Makefile
+
 # Local-only preview helpers — used to test the site locally, never published.
 scripts/preview_features.py
 _posts/*-cryptoccino-preview.md

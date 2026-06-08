@@ -52,7 +52,10 @@ def fetch_fng():
     today_entry = raw[0]
     today = int(today_entry["value"])
     today_label = today_entry.get("value_classification", "")
-    week_ago = int(raw[-1]["value"]) if len(raw) >= WINDOW_DAYS else None
+    # Use the oldest available entry as the ~7-day baseline. alternative.me
+    # sometimes returns limit-1 (a missing day); tolerate that instead of
+    # dropping the delta entirely. Give up only if the series is too short.
+    week_ago = int(raw[-1]["value"]) if len(raw) >= WINDOW_DAYS - 1 else None
     delta = today - week_ago if week_ago is not None else None
 
     result = {

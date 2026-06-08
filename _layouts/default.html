@@ -2,9 +2,9 @@
 <html lang="{{ site.lang | default: 'en' }}">
 <head>
   {%- comment -%}
-    Roast toggle — read the persisted choice (or prefers-color-scheme) and
-    set data-roast BEFORE the stylesheet paints so a returning Espresso
-    drinker doesn't get a flash of Cappuccino first.
+    Roast toggle — read the persisted choice and set data-roast BEFORE the
+    stylesheet paints so a returning visitor doesn't flash the default (Latte)
+    before their saved roast applies.
   {%- endcomment -%}
   <script>
     (function () {
@@ -44,7 +44,14 @@
     {%- assign og_image = page.card | default: '/assets/cards/latest.png' -%}
   {%- endif -%}
 
-  <title>{% if page.layout == 'issue' %}{{ og_title }} · {{ site.title }}{% elsif page.url == '/' %}{{ site.title }} — {{ site.description }}{% else %}{{ page.title | default: site.title }}{% endif %}</title>
+  {%- comment -%} Trim a trailing period so the issue <title> doesn't read "…collapse. · Cryptoccino". {%- endcomment -%}
+  {%- assign og_title_t = og_title -%}
+  {%- if og_title and og_title != '' -%}
+    {%- assign _last = og_title | slice: -1 -%}
+    {%- if _last == '.' -%}{%- assign _n = og_title | size | minus: 1 -%}{%- assign og_title_t = og_title | slice: 0, _n -%}{%- endif -%}
+  {%- endif -%}
+
+  <title>{% if page.layout == 'issue' %}{{ og_title_t }} · {{ site.title }}{% elsif page.url == '/' %}{{ site.title }} — {{ site.description }}{% else %}{{ page.title | default: site.title }}{% endif %}</title>
   <meta name="description" content="{{ og_desc }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/cryptoccino-icon.svg' | relative_url }}">
@@ -159,7 +166,7 @@
     (function () {
       var key = 'cryptoccino-roast';
       var html = document.documentElement;
-      var current = html.dataset.roast || 'cappuccino';
+      var current = html.dataset.roast || 'latte';
       var buttons = document.querySelectorAll('.roast-toggle button[data-roast]');
       function sync(active) {
         buttons.forEach(function (b) {

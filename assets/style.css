@@ -1,24 +1,24 @@
 /* ============================================================
    Cryptoccino — theme tokens.
-   Default :root is Cappuccino. Three overrides via the
-   html[data-roast="…"] attribute swap the same tokens for the
-   other roasts. Every theme-able colour reads through a variable;
-   nothing outside this block hardcodes a roast colour.
+   Default :root is Latte (the default roast). Overrides via the
+   html[data-roast="…"] attribute swap the same tokens for the other
+   roasts (Cappuccino / Flat White / Espresso) and the Newsprint style.
+   Every theme-able colour reads through a variable; nothing outside
+   this block hardcodes a roast colour.
    ============================================================ */
 
 :root {
-  /* Cappuccino — sandstorm beige.
-     Darker / sandier than the previous default cream so the four
-     roasts (Latte / Cappuccino / Flat White / Espresso) read as a
-     clear lightest → darkest gradient. */
-  --bg:     #E8D9B6;   /* sand storm                  */
-  --card:   #F2E5C2;   /* lighter sand surface        */
-  --panel:  #D9C58F;   /* deeper sand band            */
-  --ink:    #2E2117;   /* primary body text           */
-  --soft:   #4F4031;   /* secondary body text         */
-  --mut:    #5E4F37;   /* tags, meta, small labels (WCAG AA on every surface) */
-  --line:   #C2A86E;   /* hairline divider + borders  */
-  --accent: #7B440E;   /* links, kickers, decoration  */
+  /* Latte — the default roast: near-white milk. The roasts read as a
+     lightest → darkest gradient (Latte / Cappuccino / Flat White /
+     Espresso), with Newsprint as a separate black-and-white style. */
+  --bg:     #FCFAF5;   /* near-pure white, warm undertone */
+  --card:   #FFFFFF;   /* pure white milk             */
+  --panel:  #F2E9D5;   /* very light cream band        */
+  --ink:    #3A2C1E;   /* primary body text           */
+  --soft:   #5A4A39;   /* secondary body text         */
+  --mut:    #756652;   /* tags, meta, small labels (WCAG AA on every surface) */
+  --line:   #E6D9BD;   /* hairline divider + borders  */
+  --accent: #9A5A1C;   /* links, kickers, decoration  */
 
   /* Price up/down — fixed across all roasts so red/green stays
      legible on the dark Espresso too. 16% alpha pill background
@@ -32,15 +32,15 @@
   --serif: "Iowan Old Style", Georgia, Cambria, "Times New Roman", serif;
 }
 
-html[data-roast="latte"] {
-  --bg:     #FCFAF5;   /* near-pure white with faint warm undertone */
-  --card:   #FFFFFF;   /* pure white milk */
-  --panel:  #F2E9D5;   /* very light cream band */
-  --ink:    #3A2C1E;
-  --soft:   #5A4A39;
-  --mut:    #756652;
-  --line:   #E6D9BD;
-  --accent: #9A5A1C;
+html[data-roast="cappuccino"] {
+  --bg:     #E8D9B6;   /* sand storm */
+  --card:   #F2E5C2;   /* lighter sand surface */
+  --panel:  #D9C58F;   /* deeper sand band */
+  --ink:    #2E2117;
+  --soft:   #4F4031;
+  --mut:    #5E4F37;
+  --line:   #C2A86E;
+  --accent: #7B440E;
 }
 
 html[data-roast="flat-white"] {
@@ -304,7 +304,7 @@ article.issue .section-card {
   width: 100%;
   height: auto;
   margin: 3rem 0 0.5rem;
-  border-radius: 3px;
+  /* border-radius + box-shadow live in the "Depth on the panels" block below. */
 }
 article.issue p:has(> .section-card) { margin: 3rem 0 0.5rem; }
 article.issue p:has(> .section-card) > .section-card { margin: 0; }

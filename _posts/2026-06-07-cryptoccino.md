@@ -5,6 +5,7 @@ date: 2026-06-07
 issue_date: 2026-06-07
 description: "The market handed back everything Trump gave it, and then some."
 headline: "Crypto sheds $390 billion in its worst weekly wipeout since the FTX collapse."
+lead_slug: crypto-sheds-390-billion-in-its-worst-weekly-wipeout-since-the-ftx-collapse
 card: /assets/cards/2026-06-07.png
 beats:
 - id: the_tape
@@ -163,6 +164,7 @@ beats:
 {: .kicker}
 
 ## Crypto sheds $390 billion in its worst weekly wipeout since the FTX collapse.
+{: #crypto-sheds-390-billion-in-its-worst-weekly-wipeout-since-the-ftx-collapse}
 
 [`coindesk`](https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion) [`decrypt`](https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some) [`cryptobriefing`](https://cryptobriefing.com/bitcoin-worst-decade-ai-stocks-rotation/) [`coindesk`](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 {: .sources}

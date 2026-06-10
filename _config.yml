@@ -2,6 +2,12 @@ title: Cryptoccino
 description: Your daily shot of crypto news
 lang: en-GB
 
+# Defaults for the social/link-preview card on the homepage and other non-issue
+# pages. Dated issue posts override these from their own front matter. The image
+# is the static brand card rendered by scripts/generate_og_card.py.
+og_image: /assets/cryptoccino-og.png
+og_description: "Your daily shot of crypto. Markets, projects, security, and policy in a five-minute read — brewed every morning."
+
 url: "https://cryptoccino.xyz"
 baseurl: ""
 

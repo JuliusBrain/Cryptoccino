@@ -30,26 +30,19 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://plausible.io; object-src 'none'; base-uri 'self'; form-action 'self'">
   {%- comment -%}
     Social/link-preview source. An issue page describes itself from its own
-    front matter; the homepage mirrors the LATEST issue so previews on
-    Telegram/X/Slack show today's lead; anything else uses the site defaults.
-    og_title prefers the lead `headline` over the dated post `title`.
+    front matter (lead headline + Pour + dated card). Every other page — the
+    homepage, about, archive, search, beat pages — uses the static brand card
+    and pitch from _config.yml, so sharing the main link sells Cryptoccino
+    rather than mirroring today's lead. og_title prefers the lead `headline`.
   {%- endcomment -%}
   {%- if page.layout == 'issue' -%}
-    {%- assign og_source = page -%}
-  {%- elsif page.url == '/' and site.posts.first -%}
-    {%- assign og_source = site.posts.first -%}
-  {%- endif -%}
-  {%- if og_source -%}
-    {%- assign og_title = og_source.headline | default: og_source.title | default: site.title -%}
-    {%- assign og_desc = og_source.description | default: site.description -%}
-    {%- comment -%} Use the issue's own dated card (always current; the homepage
-      thus mirrors the latest issue's card). latest.png is only a fallback —
-      it can lag behind a same-day re-render. {%- endcomment -%}
-    {%- assign og_image = og_source.card | default: '/assets/cards/latest.png' -%}
+    {%- assign og_title = page.headline | default: page.title | default: site.title -%}
+    {%- assign og_desc = page.description | default: site.description -%}
+    {%- assign og_image = page.card | default: site.og_image -%}
   {%- else -%}
     {%- assign og_title = page.title | default: site.title -%}
-    {%- assign og_desc = page.description | default: site.description -%}
-    {%- assign og_image = page.card | default: '/assets/cards/latest.png' -%}
+    {%- assign og_desc = page.description | default: site.og_description | default: site.description -%}
+    {%- assign og_image = page.card | default: site.og_image -%}
   {%- endif -%}
 
   {%- comment -%} Trim a trailing period so the issue <title> doesn't read "…collapse. · Cryptoccino". {%- endcomment -%}
@@ -107,7 +100,7 @@
     "@type": "WebSite",
     "name": {{ site.title | jsonify }},
     "url": {{ site.url | jsonify }},
-    "description": {{ site.description | jsonify }},
+    "description": {{ og_desc | jsonify }},
     "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }}, "logo": { "@type": "ImageObject", "url": {{ '/assets/cryptoccino-icon.png' | absolute_url | jsonify }} } }
   }
   </script>

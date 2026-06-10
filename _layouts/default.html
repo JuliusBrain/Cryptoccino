@@ -224,5 +224,93 @@
       });
     })();
   </script>
+
+  <script>
+    /* Per-section share rows. Like the copy-link affordance above, this is
+       progressive enhancement injected by the layout (kept out of feed.xml).
+       v1 shares the ISSUE url + #section anchor, so the X/Substack preview
+       unfurls the day's hero card with section-specific prefill text. Handles
+       come from _config.yml (site.social); blanks drop the respective control. */
+    (function () {
+      var SOCIAL = {
+        x: {{ site.social.x_handle | default: "" | jsonify }},
+        notes: {{ site.social.substack_notes_url | default: "" | jsonify }}
+      };
+      var article = document.querySelector('main article.issue');
+      if (!article) return;
+      var cards = article.querySelectorAll('img.section-card[id]');
+      if (!cards.length) return;
+
+      // Map each section to the lead-in of its first story (document order).
+      var leadFor = {}, current = null;
+      article.querySelectorAll('img.section-card[id], blockquote').forEach(function (n) {
+        if (n.tagName === 'IMG') { current = n.id; }
+        else if (current && !(current in leadFor)) {
+          var s = n.querySelector('strong');
+          leadFor[current] = s ? s.textContent.trim().replace(/[.;:,\s]+$/, '') : '';
+        }
+      });
+
+      function shareText(title, lead) {
+        var t = title + ' in today’s Cryptoccino';
+        if (lead) { t += ' — ' + lead; }
+        return t.length > 180 ? t.slice(0, 179) + '…' : t;
+      }
+
+      function copyLink(url, btn) {
+        if (!(navigator.clipboard && navigator.clipboard.writeText)) return Promise.resolve();
+        return navigator.clipboard.writeText(url).then(function () {
+          btn.classList.add('is-copied');
+          setTimeout(function () { btn.classList.remove('is-copied'); }, 1200);
+        }, function () {});
+      }
+
+      cards.forEach(function (img) {
+        var id = img.id;
+        var url = location.origin + location.pathname + '#' + id;
+        var title = (img.getAttribute('alt') || 'this section').trim();
+        var text = shareText(title, leadFor[id] || '');
+
+        var row = document.createElement('div');
+        row.className = 'section-share';
+        row.setAttribute('aria-label', 'Share ' + title);
+
+        var x = document.createElement('a');
+        x.className = 'share-btn';
+        var intent = 'https://x.com/intent/post?text=' + encodeURIComponent(text) +
+                     '&url=' + encodeURIComponent(url);
+        if (SOCIAL.x) { intent += '&via=' + encodeURIComponent(SOCIAL.x); }
+        x.href = intent;
+        x.target = '_blank';
+        x.rel = 'noopener noreferrer';
+        x.textContent = 'Share on X';
+        row.appendChild(x);
+
+        if (SOCIAL.notes) {
+          var sb = document.createElement('button');
+          sb.type = 'button';
+          sb.className = 'share-btn';
+          sb.textContent = 'Substack';
+          sb.title = 'Copies the link, then opens Substack Notes — paste to post';
+          sb.addEventListener('click', function () {
+            copyLink(url, sb).then(function () {
+              window.open(SOCIAL.notes, '_blank', 'noopener');
+            });
+          });
+          row.appendChild(sb);
+        }
+
+        var cp = document.createElement('button');
+        cp.type = 'button';
+        cp.className = 'share-btn';
+        cp.textContent = 'Copy link';
+        cp.addEventListener('click', function () { copyLink(url, cp); });
+        row.appendChild(cp);
+
+        var anchor = img.closest('p') || img;
+        anchor.parentNode.insertBefore(row, anchor.nextSibling);
+      });
+    })();
+  </script>
 </body>
 </html>

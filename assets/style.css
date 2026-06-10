@@ -310,6 +310,40 @@ article.issue p:has(> .section-card) { margin: 3rem 0 0.5rem; }
 article.issue p:has(> .section-card) > .section-card { margin: 0; }
 article.issue p:has(> .section-card) + h2 { margin-top: 1rem; }
 
+/* Per-section share row — injected by the layout directly under each section
+   card. Small mono pills that read across all five roasts via the tokens. */
+.section-share {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.25rem 0 2.4rem;
+}
+.section-share .share-btn {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--mut);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.4rem 0.7rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+.section-share .share-btn:hover,
+.section-share .share-btn:focus-visible {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+}
+.section-share .share-btn.is-copied {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+.section-share .share-btn.is-copied::after { content: " ✓"; }
+
 article.issue h1 {
   font-family: var(--mono);
   font-size: 1.3rem;

@@ -79,7 +79,7 @@ def _stub_externals(
     )
     monkeypatch.setattr(
         run_mod, "generate_section_card",
-        lambda title, note, date, out_path: out_path,
+        lambda title, note, items, date, out_path: out_path,
     )
     # And neutralise the shutil.copyfile call that follows in _generate_card_for.
     import shutil

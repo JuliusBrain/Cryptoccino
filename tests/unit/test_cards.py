@@ -144,35 +144,56 @@ def _font(size):
     return ImageFont.truetype(str(cards.SERIF_BOLD), size)
 
 
+SAMPLE_ITEMS = [
+    {"lead_in": "Bitcoin stuck in distribution, not accumulation."},
+    {"lead_in": "Strategy's $100M BTC buy lands with a thud."},
+    {"lead_in": "Spot bitcoin ETFs bled $1.7 billion last week."},
+]
+
+
 class TestGenerateSectionCard:
-    def test_produces_1200x300_png(self, tmp_path):
+    def test_produces_1200x630_png(self, tmp_path):
         out = tmp_path / "section.png"
         result = generate_section_card(
-            "Markets", "The majors and the macro.", SAMPLE_DATE, str(out)
+            "Markets", "The majors and the macro.", SAMPLE_ITEMS, SAMPLE_DATE, str(out)
         )
         assert result == str(out)
         with Image.open(out) as img:
-            assert img.size == (1200, 300)
+            assert img.size == (1200, 630)
             assert img.mode == "RGB"
 
-    def test_works_without_note(self, tmp_path):
+    def test_renders_with_items(self, tmp_path):
         out = tmp_path / "section.png"
-        result = generate_section_card("Markets", "", SAMPLE_DATE, str(out))
+        result = generate_section_card(
+            "Security Desk", "", SAMPLE_ITEMS, SAMPLE_DATE, str(out)
+        )
+        assert result == str(out)
+        assert out.exists()
+
+    def test_falls_back_to_note_without_items(self, tmp_path):
+        out = tmp_path / "section.png"
+        result = generate_section_card("Markets", "The majors.", [], SAMPLE_DATE, str(out))
         assert result == str(out)
 
     def test_creates_parent_dir(self, tmp_path):
         out = tmp_path / "nested" / "section.png"
-        result = generate_section_card("Markets", "note", SAMPLE_DATE, str(out))
+        result = generate_section_card(
+            "Markets", "note", SAMPLE_ITEMS, SAMPLE_DATE, str(out)
+        )
         assert result == str(out)
         assert out.exists()
 
     def test_missing_font_returns_none(self, tmp_path, monkeypatch):
         monkeypatch.setattr(cards, "SERIF_BOLD", tmp_path / "nope.ttf")
         out = tmp_path / "section.png"
-        result = generate_section_card("Markets", "note", SAMPLE_DATE, str(out))
+        result = generate_section_card(
+            "Markets", "note", SAMPLE_ITEMS, SAMPLE_DATE, str(out)
+        )
         assert result is None
 
     def test_garbage_date_returns_none(self, tmp_path):
         out = tmp_path / "section.png"
-        result = generate_section_card("Markets", "note", "not a date", str(out))
+        result = generate_section_card(
+            "Markets", "note", SAMPLE_ITEMS, "not a date", str(out)
+        )
         assert result is None

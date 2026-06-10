@@ -131,10 +131,10 @@ def _render_source_tags(links):
 def _render_pour(issue, prices_html=""):
     """Render the Pour blockquote, wrapped in a band that also contains
     the price strip when one is supplied."""
-    pour_lines = [f"> **The Pour.** {_esc(issue['pour'])}"]
+    pour_lines = [f"> **The Pour.** {_esc(issue.get('pour'))}"]
     today = issue.get("today") or []
     if today:
-        parts = [f"{_esc(t['teaser'])} _{_esc(t['beat'])}_" for t in today]
+        parts = [f"{_esc(t.get('teaser'))} _{_esc(t.get('beat'))}_" for t in today]
         pour_lines.append(">")
         pour_lines.append(f"> **Today.** {' · '.join(parts)}.")
     pour_lines.append("{: .pour}")
@@ -197,7 +197,7 @@ def _render_lead(lead, fng=None, slug=None):
         parts.append(fng_chip)
         parts.append("")
     for block in lead.get("blocks") or []:
-        parts.append(f"**{_esc(block['label'])}.** {_esc(block['text'])}")
+        parts.append(f"**{_esc(block.get('label'))}.** {_esc(block.get('text'))}")
         parts.append("")
     parts.append("</section>")
     return "\n".join(parts)
@@ -242,14 +242,14 @@ def _render_brewing(brewing):
     for item in brewing:
         sources = _render_source_tags(item.get("links") or [])
         suffix = f" {sources}" if sources else ""
-        parts.append(f"- {_esc(item['text'])}{suffix}")
+        parts.append(f"- {_esc(item.get('text'))}{suffix}")
     return "\n".join(parts)
 
 
 def _render_last_sip(issue):
     return (
         "---\n\n"
-        f"> **Last sip.** {_esc(issue['last_sip'])}\n"
+        f"> **Last sip.** {_esc(issue.get('last_sip'))}\n"
         "{: .last-sip}"
     )
 

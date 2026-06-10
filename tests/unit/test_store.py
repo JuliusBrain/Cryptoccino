@@ -99,6 +99,39 @@ class TestMarkSeen:
             count = conn.execute("SELECT COUNT(*) FROM seen").fetchone()[0]
         assert count == 0
 
+    def test_prunes_rows_older_than_retention(self, db_path):
+        store.init_db()
+        stale = (
+            dt.date.today() - dt.timedelta(days=store.RETENTION_DAYS + 1)
+        ).isoformat()
+        with sqlite3.connect(db_path) as conn:
+            conn.execute(
+                "INSERT INTO seen (url_hash, link, source_id, first_seen) "
+                "VALUES (?, ?, ?, ?)",
+                ("oldhash", "https://e.example/old", "x", stale),
+            )
+        # A fresh mark_seen run triggers the prune.
+        store.mark_seen([{"link": "https://e.example/new", "source_id": "y"}])
+        with sqlite3.connect(db_path) as conn:
+            links = {r[0] for r in conn.execute("SELECT link FROM seen").fetchall()}
+        assert links == {"https://e.example/new"}
+
+    def test_keeps_rows_within_retention(self, db_path):
+        store.init_db()
+        recent = (
+            dt.date.today() - dt.timedelta(days=store.RETENTION_DAYS - 1)
+        ).isoformat()
+        with sqlite3.connect(db_path) as conn:
+            conn.execute(
+                "INSERT INTO seen (url_hash, link, source_id, first_seen) "
+                "VALUES (?, ?, ?, ?)",
+                ("recenthash", "https://e.example/recent", "x", recent),
+            )
+        store.mark_seen([{"link": "https://e.example/new", "source_id": "y"}])
+        with sqlite3.connect(db_path) as conn:
+            count = conn.execute("SELECT COUNT(*) FROM seen").fetchone()[0]
+        assert count == 2
+
 
 class TestRoundTrip:
     def test_mark_then_filter_returns_empty(self, db_path):

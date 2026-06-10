@@ -90,7 +90,7 @@ The curation/writing call is a single shot — selection, clustering, beat assig
 ## Deduplication
 
 - The `seen` table in `data/cryptoccino.db` stores URL hashes with their first-seen date.
-- `store.filter_unseen` drops anything already in the table before curation runs.
+- `store.filter_new` drops anything already in the table before curation runs.
 - Cross-source clustering (multiple feeds reporting the same event today) is **not** done in code. The model handles it during curation because it is a judgement call about which version is best.
 
 ## Resilience

@@ -8,10 +8,15 @@ stories is delegated to Claude during curation, not handled here.
 
 import hashlib
 import sqlite3
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 DB_PATH = "data/cryptoccino.db"
+# How long a URL stays in the seen table. Cross-day dedup only needs a window
+# wide enough to cover how long a story keeps reappearing in feeds (days, not
+# months); beyond that, pruning keeps the DB — which is committed back to main
+# every run — from growing without bound and bloating git history.
+RETENTION_DAYS = 90
 
 
 def _hash(link):
@@ -43,20 +48,23 @@ def filter_new(items):
 
 
 def mark_seen(items):
-    """Insert items into the seen table, stamping today's date for new rows."""
+    """Insert items into the seen table, stamping today's date for new rows,
+    and prune rows older than RETENTION_DAYS to keep the committed DB bounded."""
     if not items:
         return
-    today = date.today().isoformat()
+    today = date.today()
     rows = [
-        (_hash(item["link"]), item["link"], item["source_id"], today)
+        (_hash(item["link"]), item["link"], item["source_id"], today.isoformat())
         for item in items
     ]
+    cutoff = (today - timedelta(days=RETENTION_DAYS)).isoformat()
     with sqlite3.connect(DB_PATH) as conn:
         conn.executemany(
             "INSERT OR IGNORE INTO seen (url_hash, link, source_id, first_seen) "
             "VALUES (?, ?, ?, ?)",
             rows,
         )
+        conn.execute("DELETE FROM seen WHERE first_seen < ?", (cutoff,))
 
 
 if __name__ == "__main__":

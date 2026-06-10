@@ -16,12 +16,13 @@ written via matplotlib to assets/sparklines/<TICKER>.png — for an eventual
 email pipeline, since inline SVG is unreliable across mail clients.
 """
 
-import json
 import logging
 import os
 from pathlib import Path
 
 import requests
+
+from pipeline.cache import read_json, write_json
 
 logger = logging.getLogger(__name__)
 
@@ -80,7 +81,7 @@ def fetch_prices():
             "Price fetch failed: %s: %s. Falling back to cache.",
             exc.__class__.__name__, exc,
         )
-        return _load_cache()
+        return read_json(CACHE_PATH)
 
     by_id = {coin.get("id"): coin for coin in data}
     result = []
@@ -97,9 +98,9 @@ def fetch_prices():
         })
 
     if not result:
-        return _load_cache()
+        return read_json(CACHE_PATH)
 
-    _write_cache(result)
+    write_json(CACHE_PATH, result)
     return result
 
 
@@ -121,22 +122,6 @@ def _downsample(points, target_n):
         return list(points)
     stride = len(points) / target_n
     return [points[int(i * stride)] for i in range(target_n)]
-
-
-def _load_cache():
-    try:
-        return json.loads(CACHE_PATH.read_text())
-    except Exception as exc:
-        logger.warning("No usable price cache: %s", exc)
-        return None
-
-
-def _write_cache(prices):
-    try:
-        CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-        CACHE_PATH.write_text(json.dumps(prices, indent=2))
-    except Exception as exc:
-        logger.warning("Could not write price cache: %s", exc)
 
 
 # --------------------------------------------------------------------------

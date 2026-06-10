@@ -16,6 +16,8 @@ from pathlib import Path
 
 import requests
 
+from pipeline.cache import read_json, write_json
+
 logger = logging.getLogger(__name__)
 
 ENDPOINT = "https://api.alternative.me/fng/"
@@ -41,10 +43,10 @@ def fetch_fng():
             "F&G fetch failed: %s: %s. Falling back to cache.",
             exc.__class__.__name__, exc,
         )
-        return _load_cache()
+        return read_json(CACHE_PATH)
 
     if not raw:
-        return _load_cache()
+        return read_json(CACHE_PATH)
 
     # API returns newest first; reverse to oldest -> today.
     by_age = list(reversed(raw))
@@ -65,24 +67,8 @@ def fetch_fng():
         "delta": delta,
         "series": series,
     }
-    _write_cache(result)
+    write_json(CACHE_PATH, result)
     return result
-
-
-def _load_cache():
-    try:
-        return json.loads(CACHE_PATH.read_text())
-    except Exception as exc:
-        logger.warning("No usable F&G cache: %s", exc)
-        return None
-
-
-def _write_cache(data):
-    try:
-        CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-        CACHE_PATH.write_text(json.dumps(data, indent=2))
-    except Exception as exc:
-        logger.warning("Could not write F&G cache: %s", exc)
 
 
 if __name__ == "__main__":

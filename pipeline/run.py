@@ -11,6 +11,7 @@ Pillow render or asset load fails, the issue still publishes with no hero card.
 
 import logging
 import shutil
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
 
@@ -68,8 +69,14 @@ def main():
     else:
         logger.info("F&G unavailable; continuing without sentiment data.")
 
-    logger.info("Curating issue with Claude.")
-    issue = curate(new, fng=fng)
+    # The price strip is only needed at render time and is independent of
+    # curation, so fetch it concurrently with the (long) Claude call rather
+    # than serially after it. fetch_prices is fail-open (returns cache/None).
+    logger.info("Curating issue with Claude (price strip fetched concurrently).")
+    with ThreadPoolExecutor(max_workers=1) as pool:
+        prices_future = pool.submit(fetch_prices)
+        issue = curate(new, fng=fng)
+        prices = prices_future.result()
     beats = issue.get("beats", [])
     items_total = sum(len(b.get("items", [])) for b in beats)
     logger.info(
@@ -79,9 +86,6 @@ def main():
         items_total,
         len(issue.get("brewing") or []),
     )
-
-    logger.info("Fetching price strip data.")
-    prices = fetch_prices()
     logger.info("Fetched prices for %d coins.", len(prices) if prices else 0)
 
     today = date.today()
@@ -110,8 +114,13 @@ def _generate_card_for(issue, today):
         logger.warning("Card generation returned no path; continuing without a card.")
         return None
     latest = CARDS_DIR / "latest.png"
-    shutil.copyfile(result, latest)
-    logger.info("Card saved and copied to %s.", latest)
+    # The card is decoration; a copy failure must not abort an already-curated
+    # (and already-billed) run. Keep the dated card we just wrote either way.
+    try:
+        shutil.copyfile(result, latest)
+        logger.info("Card saved and copied to %s.", latest)
+    except Exception as exc:
+        logger.warning("Could not copy card to %s: %s", latest, exc)
     return "/" + out_path.as_posix()
 
 

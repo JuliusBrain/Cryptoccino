@@ -8,6 +8,13 @@ lang: en-GB
 og_image: /assets/cryptoccino-og.png
 og_description: "Your daily shot of crypto. Markets, projects, security, and policy in a five-minute read — brewed every morning."
 
+# Social share handles for the per-section share rows (injected by
+# _layouts/default.html). Blank x_handle drops the "via @…"; blank
+# substack_notes_url drops the Substack button.
+social:
+  x_handle: adrianhetman
+  substack_notes_url: https://adrianhetman.substack.com/notes
+
 url: "https://cryptoccino.xyz"
 baseurl: ""
 

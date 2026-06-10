@@ -40,9 +40,10 @@ FAINT = "#9A8A74"
 CREMA = "#A35E1E"
 CREMA_DECO = "#C2823C"
 
-# Section card (per-beat banner) dimensions.
-SECTION_W, SECTION_H = 1200, 300
-SECTION_BORDER_INSET = 20
+# Section card (per-beat summary) dimensions — OG ratio so it doubles as a
+# shareable card.
+SECTION_W, SECTION_H = 1200, 630
+SECTION_MAX_ITEMS = 4
 
 SITE_DOMAIN = "cryptoccino.xyz"
 
@@ -226,15 +227,30 @@ def _wrap(draw, text, font, max_w):
     return lines
 
 
-def generate_section_card(beat_title, beat_note, date, out_path):
-    """Build a 1200x300 PNG section banner. Return out_path or None on failure.
+def _truncate_to_width(draw, text, font, max_w):
+    """Greedy first line of `text` that fits max_w, with a trailing '…' if cut."""
+    words = (text or "").split()
+    if not words:
+        return ""
+    out = ""
+    for word in words:
+        trial = (out + " " + word).strip()
+        if draw.textbbox((0, 0), trial + "…", font=font)[2] > max_w:
+            return (out + "…") if out else (word + "…")
+        out = trial
+    return out
 
-    Used as a per-beat divider inside the issue body. Smaller than the hero
-    card and not used as og:image. Crema rule, beat title in serif bold,
-    beat note in serif regular below, date top-right in mono.
+
+def generate_section_card(beat_title, beat_note, items, date, out_path):
+    """Build a 1200x630 PNG summary card for one beat. Return out_path or None.
+
+    Shows the brand lockup, the beat title as a crema kicker, up to
+    SECTION_MAX_ITEMS story lead-ins as bulleted lines, and the footer — sized at
+    OG ratio so it doubles as the section's shareable card. Falls back to
+    beat_note when the section has no items.
     """
     try:
-        return _generate_section_card(beat_title, beat_note, date, out_path)
+        return _generate_section_card(beat_title, beat_note, items, date, out_path)
     except Exception as exc:
         logger.warning(
             "Section card generation failed: %s: %s", exc.__class__.__name__, exc
@@ -242,47 +258,49 @@ def generate_section_card(beat_title, beat_note, date, out_path):
         return None
 
 
-def _generate_section_card(beat_title, beat_note, date, out_path):
+def _generate_section_card(beat_title, beat_note, items, date, out_path):
     canvas = Image.new("RGB", (SECTION_W, SECTION_H), BG)
     draw = ImageDraw.Draw(canvas)
 
-    # Inner border.
+    # Inner border (matches the hero / brand cards at this size).
     draw.rectangle(
-        (
-            SECTION_BORDER_INSET,
-            SECTION_BORDER_INSET,
-            SECTION_W - SECTION_BORDER_INSET,
-            SECTION_H - SECTION_BORDER_INSET,
-        ),
+        (BORDER_INSET, BORDER_INSET, SECTION_W - BORDER_INSET, SECTION_H - BORDER_INSET),
         outline=LINE,
         width=1,
     )
 
-    # Date top-right.
-    date_font = ImageFont.truetype(str(MONO_REGULAR), 14)
+    _draw_lockup(canvas, draw)
+
+    # Crema rule, then the beat title as a mono kicker with the date right-aligned.
+    rule_y = 270
+    draw.rectangle((PADDING, rule_y, PADDING + 90, rule_y + 6), fill=CREMA_DECO)
+
+    kicker_font = ImageFont.truetype(str(MONO_REGULAR), 20)
+    kicker_y = rule_y + 26
+    draw.text((PADDING, kicker_y), (beat_title or "").upper(), fill=CREMA, font=kicker_font)
     date_str = date.strftime("%d %B %Y").upper()
-    date_bbox = draw.textbbox((0, 0), date_str, font=date_font)
-    draw.text(
-        (SECTION_W - PADDING - (date_bbox[2] - date_bbox[0]), 60),
-        date_str,
-        fill=MUT,
-        font=date_font,
-    )
+    date_w = draw.textbbox((0, 0), date_str, font=kicker_font)[2]
+    draw.text((SECTION_W - PADDING - date_w, kicker_y), date_str, fill=MUT, font=kicker_font)
 
-    # Crema rule.
-    rule_y = 105
-    draw.rectangle((PADDING, rule_y, PADDING + 60, rule_y + 6), fill=CREMA_DECO)
+    # Up to N story lead-ins as bulleted serif lines; else fall back to the note.
+    leads = [it.get("lead_in", "") for it in (items or []) if it.get("lead_in")]
+    body_y = kicker_y + 48
+    if leads:
+        lead_font = ImageFont.truetype(str(SERIF_BOLD), 30)
+        max_w = SECTION_W - 2 * PADDING - 28  # leave room for the bullet
+        for lead in leads[:SECTION_MAX_ITEMS]:
+            draw.ellipse((PADDING, body_y + 13, PADDING + 9, body_y + 22), fill=CREMA)
+            draw.text(
+                (PADDING + 28, body_y),
+                _truncate_to_width(draw, lead, lead_font, max_w),
+                fill=INK, font=lead_font,
+            )
+            body_y += 54
+    elif beat_note:
+        note_font = ImageFont.truetype(str(SERIF_REGULAR), 26)
+        draw.text((PADDING, body_y), beat_note, fill=SOFT, font=note_font)
 
-    # Beat title.
-    title_font = ImageFont.truetype(str(SERIF_BOLD), 56)
-    title_y = rule_y + 22
-    draw.text((PADDING, title_y), beat_title, fill=INK, font=title_font)
-
-    # Beat note (sub-tagline).
-    if beat_note:
-        note_font = ImageFont.truetype(str(SERIF_REGULAR), 22)
-        note_y = title_y + 80
-        draw.text((PADDING, note_y), beat_note, fill=SOFT, font=note_font)
+    _draw_footer(draw)
 
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)

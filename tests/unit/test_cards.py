@@ -11,6 +11,7 @@ from pipeline.cards import (
     _wrap,
     generate_card,
     generate_section_card,
+    generate_share_card,
 )
 
 
@@ -175,4 +176,42 @@ class TestGenerateSectionCard:
     def test_garbage_date_returns_none(self, tmp_path):
         out = tmp_path / "section.png"
         result = generate_section_card("Markets", "note", "not a date", str(out))
+        assert result is None
+
+
+SHARE_ITEMS = [
+    {"lead_in": "Raydium drained $1.34M via a retired AMM program."},
+    {"lead_in": "Krebs profiles 'The Gentlemen', ransomware's second-most-active crew."},
+]
+
+
+class TestGenerateShareCard:
+    def test_produces_1200x630_png(self, tmp_path):
+        out = tmp_path / "share.png"
+        result = generate_share_card("Security Desk", SHARE_ITEMS, SAMPLE_DATE, str(out))
+        assert result == str(out)
+        with Image.open(out) as img:
+            assert img.size == (1200, 630)
+            assert img.mode == "RGB"
+
+    def test_works_without_items(self, tmp_path):
+        out = tmp_path / "share.png"
+        result = generate_share_card("Markets", [], SAMPLE_DATE, str(out))
+        assert result == str(out)
+
+    def test_creates_parent_dir(self, tmp_path):
+        out = tmp_path / "nested" / "share.png"
+        result = generate_share_card("Markets", SHARE_ITEMS, SAMPLE_DATE, str(out))
+        assert result == str(out)
+        assert out.exists()
+
+    def test_missing_font_returns_none(self, tmp_path, monkeypatch):
+        monkeypatch.setattr(cards, "SERIF_BOLD", tmp_path / "nope.ttf")
+        out = tmp_path / "share.png"
+        result = generate_share_card("Markets", SHARE_ITEMS, SAMPLE_DATE, str(out))
+        assert result is None
+
+    def test_garbage_date_returns_none(self, tmp_path):
+        out = tmp_path / "share.png"
+        result = generate_share_card("Markets", SHARE_ITEMS, "not a date", str(out))
         assert result is None

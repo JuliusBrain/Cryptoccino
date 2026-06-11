@@ -228,14 +228,16 @@
   <script>
     /* Per-section share rows. Like the copy-link affordance above, this is
        progressive enhancement injected by the layout (kept out of feed.xml).
-       v1 shares the ISSUE url + #section anchor, so the X/Substack preview
-       unfurls the day's hero card with section-specific prefill text. Handles
-       come from _config.yml (site.social); blanks drop the respective control. */
+       Each control points at the section's /share/<beat>/ page, whose og:image
+       is that beat's summary card — so the X/Substack preview unfurls the
+       section card, not the hero. Handles come from _config.yml (site.social);
+       blanks drop the respective control. */
     (function () {
       var SOCIAL = {
         x: {{ site.social.x_handle | default: "" | jsonify }},
         notes: {{ site.social.substack_notes_url | default: "" | jsonify }}
       };
+      var BASE = {{ site.baseurl | default: "" | jsonify }};
       var article = document.querySelector('main article.issue');
       if (!article) return;
       var cards = article.querySelectorAll('img.section-card[id]');
@@ -267,7 +269,7 @@
 
       cards.forEach(function (img) {
         var id = img.id;
-        var url = location.origin + location.pathname + '#' + id;
+        var url = location.origin + BASE + '/share/' + id + '/';
         var title = (img.getAttribute('alt') || 'this section').trim();
         var text = shareText(title, leadFor[id] || '');
 

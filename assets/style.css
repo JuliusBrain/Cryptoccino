@@ -344,6 +344,23 @@ article.issue p:has(> .section-card) + h2 { margin-top: 1rem; }
 }
 .section-share .share-btn.is-copied::after { content: " ✓"; }
 
+/* Per-beat share landing page (/share/<beat>/) — shows the section's summary
+   card (its og:image) and a link onward to the latest issue. */
+.share-page { margin-top: 0.5rem; }
+.share-page .section-card {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1rem 0 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.share-cta {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+}
+
 article.issue h1 {
   font-family: var(--mono);
   font-size: 1.3rem;

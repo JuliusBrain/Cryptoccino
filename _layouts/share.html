@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- comment -%}
+  Lightweight per-beat share landing page. Its og:image (set from page.card in
+  _layouts/default.html) is the beat's summary card, so sharing /share/<beat>/
+  on X or Substack unfurls that card. The card path is fixed (latest-…-share.png,
+  overwritten by the daily pipeline), so this page always reflects the newest issue.
+{%- endcomment -%}
+{%- assign latest = site.posts.first -%}
+<section class="share-page">
+  <p class="archive-eyebrow">● {{ page.beat_title }}</p>
+  <h1>{{ page.beat_title }} — today in Cryptoccino</h1>
+  <img class="section-card" src="{{ page.card | relative_url }}"
+       alt="{{ page.beat_title }} — Cryptoccino" width="1200" height="630">
+  {%- if latest %}
+  <p class="share-cta">
+    <a href="{{ latest.url | relative_url }}#{{ page.beat_id }}">Read today’s brief →</a>
+  </p>
+  {%- endif %}
+</section>

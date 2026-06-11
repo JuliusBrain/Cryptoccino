@@ -288,3 +288,79 @@ def _generate_section_card(beat_title, beat_note, date, out_path):
     out_path.parent.mkdir(parents=True, exist_ok=True)
     canvas.save(out_path, "PNG", optimize=True)
     return str(out_path)
+
+
+SHARE_MAX_ITEMS = 4
+
+
+def _truncate_to_width(draw, text, font, max_w):
+    """Greedy first line of `text` that fits max_w, with a trailing '…' if cut."""
+    words = (text or "").split()
+    if not words:
+        return ""
+    out = ""
+    for word in words:
+        trial = (out + " " + word).strip()
+        if draw.textbbox((0, 0), trial + "…", font=font)[2] > max_w:
+            return (out + "…") if out else (word + "…")
+        out = trial
+    return out
+
+
+def generate_share_card(beat_title, items, date, out_path):
+    """Build a 1200x630 PNG summary card for one beat. Return out_path or None.
+
+    Unlike the in-body section banner, this is the OG/twitter:image for the beat's
+    /share/<beat>/ page — brand lockup, the beat title as a crema kicker, up to
+    SHARE_MAX_ITEMS story lead-ins as bulleted lines, and the footer.
+    """
+    try:
+        return _generate_share_card(beat_title, items, date, out_path)
+    except Exception as exc:
+        logger.warning("Share card generation failed: %s: %s", exc.__class__.__name__, exc)
+        return None
+
+
+def _generate_share_card(beat_title, items, date, out_path):
+    canvas = Image.new("RGB", (W, H), BG)
+    draw = ImageDraw.Draw(canvas)
+
+    draw.rectangle(
+        (BORDER_INSET, BORDER_INSET, W - BORDER_INSET, H - BORDER_INSET),
+        outline=LINE,
+        width=1,
+    )
+
+    _draw_lockup(canvas, draw)
+
+    # Crema rule, then the beat title as a mono kicker with the date right-aligned.
+    rule_y = 270
+    draw.rectangle((PADDING, rule_y, PADDING + 90, rule_y + 6), fill=CREMA_DECO)
+
+    kicker_font = ImageFont.truetype(str(MONO_REGULAR), 20)
+    kicker_y = rule_y + 26
+    draw.text((PADDING, kicker_y), (beat_title or "").upper(), fill=CREMA, font=kicker_font)
+    date_str = date.strftime("%d %B %Y").upper()
+    date_w = draw.textbbox((0, 0), date_str, font=kicker_font)[2]
+    draw.text((W - PADDING - date_w, kicker_y), date_str, fill=MUT, font=kicker_font)
+
+    # Story lead-ins as bulleted serif lines.
+    leads = [it.get("lead_in", "") for it in (items or []) if it.get("lead_in")]
+    body_y = kicker_y + 48
+    lead_font = ImageFont.truetype(str(SERIF_BOLD), 30)
+    max_w = W - 2 * PADDING - 28  # leave room for the bullet
+    for lead in leads[:SHARE_MAX_ITEMS]:
+        draw.ellipse((PADDING, body_y + 13, PADDING + 9, body_y + 22), fill=CREMA)
+        draw.text(
+            (PADDING + 28, body_y),
+            _truncate_to_width(draw, lead, lead_font, max_w),
+            fill=INK, font=lead_font,
+        )
+        body_y += 54
+
+    _draw_footer(draw)
+
+    out_path = Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    canvas.save(out_path, "PNG", optimize=True)
+    return str(out_path)

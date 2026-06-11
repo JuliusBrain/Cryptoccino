@@ -17,7 +17,7 @@ from pathlib import Path
 
 import yaml
 
-from pipeline.cards import generate_card, generate_section_card
+from pipeline.cards import generate_card, generate_section_card, generate_share_card
 from pipeline.curate import curate
 from pipeline.ingest import fetch_feeds
 from pipeline.prices import fetch_prices
@@ -91,6 +91,7 @@ def main():
     today = date.today()
     card_relative = _generate_card_for(issue, today)
     section_cards = _generate_section_cards_for(issue, today)
+    _generate_share_cards_for(issue, today)
 
     logger.info("Rendering Jekyll post.")
     path = render_post(
@@ -147,6 +148,24 @@ def _generate_section_cards_for(issue, today):
             result[beat_id] = "/" + out_path.as_posix()
     logger.info("Generated %d section cards.", len(result))
     return result
+
+
+def _generate_share_cards_for(issue, today):
+    """Overwrite assets/cards/latest-<beat_id>-share.png for each beat.
+
+    These are the og:image for the static /share/<beat_id>/ pages, so sharing a
+    section unfurls its summary card. Fixed 'latest' paths (not dated) keep the
+    repo bounded; the share pages always reflect the most recent issue.
+    """
+    count = 0
+    for beat in issue.get("beats") or []:
+        beat_id = beat.get("id")
+        if not beat_id:
+            continue
+        out_path = CARDS_DIR / f"latest-{beat_id}-share.png"
+        if generate_share_card(beat.get("title", ""), beat.get("items") or [], today, str(out_path)):
+            count += 1
+    logger.info("Generated %d share cards.", count)
 
 
 if __name__ == "__main__":

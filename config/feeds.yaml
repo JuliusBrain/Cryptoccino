@@ -14,6 +14,7 @@ beats:
 # category is only a hint to Claude. Final beat assignment happens in curation.
 feeds:
   - { id: coindesk,                 category: crypto,     url: "https://www.coindesk.com/arc/outboundfeeds/rss" }
+  - { id: bloomberg_crypto,         category: crypto,     url: "https://feeds.bloomberg.com/crypto/news.rss" }
   - { id: cointelegraph_regulation, category: regulatory, url: "https://cointelegraph.com/rss/tag/regulation" }
   - { id: cointelegraph_defi,       category: crypto,     url: "https://cointelegraph.com/rss/tag/defi" }
   - { id: theblock,                 category: crypto,     url: "https://www.theblock.co/rss.xml" }

@@ -141,7 +141,7 @@ def _generate_section_cards_for(issue, today):
         out_path = CARDS_DIR / f"{today.isoformat()}-{beat_id}.png"
         note = (beat_meta.get(beat_id) or {}).get("note", "")
         success = generate_section_card(
-            beat.get("title", ""), note, beat.get("items") or [], today, str(out_path)
+            beat.get("title", ""), note, today, str(out_path)
         )
         if success:
             result[beat_id] = "/" + out_path.as_posix()

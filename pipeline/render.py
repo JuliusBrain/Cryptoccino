@@ -209,17 +209,17 @@ def _render_beat(beat, section_card_path=None):
         title = beat.get("title", "")
         # Liquid expression so Jekyll prepends site.baseurl at build time
         # (the path stored in section_cards is baseurl-relative).
-        # The card carries the beat name visually, so the H2 is dropped
+        # The banner carries the beat name visually, so the H2 is dropped
         # when a card is present to avoid duplicate labels.
-        # Dimensions (cards are 1200x630) reserve space to avoid layout shift;
-        # lazy/async defer these below-the-fold cards. The beat-id anchor lets
+        # Dimensions (cards are 1200x300) reserve space to avoid layout shift;
+        # lazy/async defer these below-the-fold banners. The beat-id anchor lets
         # the layout's share row and reader deep-links target the section.
         beat_id = beat.get("id", "")
         id_attr = f' id="{_esc_attr(beat_id)}"' if beat_id else ""
         parts.append(
             f'<img class="section-card"{id_attr} '
             f'src="{{{{ "{section_card_path}" | relative_url }}}}" '
-            f'alt="{_esc_attr(title)}" width="1200" height="630" '
+            f'alt="{_esc_attr(title)}" width="1200" height="300" '
             f'loading="lazy" decoding="async">'
         )
         parts.append("")

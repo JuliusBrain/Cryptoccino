@@ -1,108 +1,90 @@
 {
-  "generated": "2026-06-12T19:39:24.109291+00:00",
-  "ts": 1781293164,
+  "generated": "2026-06-12T22:50:06.533960+00:00",
+  "ts": 1781304606,
   "market": [
     {
+      "headline": "SpaceX surpasses $2T valuation after historic stock debut",
+      "take": "SpaceX achieves largest IPO in history, valuation surpasses two trillion dollars",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacex-2-trillion-valuation-ipo-debut/"
+    },
+    {
       "headline": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
-      "take": "Bitcoin stabilized near $59,000 as crypto winter cycle appears to be ending",
+      "take": "Bitcoin stabilizes near fifty-nine thousand marking potential end to crypto downturn",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst"
     },
     {
-      "headline": "US crude oil futures settle at $84.88 as 3% drop sends ripples through risk markets",
-      "take": "US crude oil fell 3% to $84.88, sending shockwaves through risk asset markets",
+      "headline": "BlackRock investors seek to redeem 13% of private-credit fund shares in Q2",
+      "take": "BlackRock private-credit fund faces thirteen percent redemption requests in Q2",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-crude-oil-futures-drop-crypto-impact/"
-    },
-    {
-      "headline": "Litecoin whale wallets grow 7% as LitVM sparks renewed interest",
-      "take": "Litecoin whale holdings grew 7% amid renewed interest in LitVM development",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/litecoin-whale-wallets-litvm-interest/"
-    },
-    {
-      "headline": "Strategy\u2019s Michael Saylor targets $15-30T for Bitcoin-backed credit instruments",
-      "take": "Michael Saylor targets $15-30 trillion in Bitcoin-backed credit instruments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saylor-bitcoin-backed-credit-instruments/"
-    },
-    {
-      "headline": "Circle\u2019s Dante Disparte says the open payments debate is over, and stablecoins won",
-      "take": "Circle executive claims open payments debate resolved with stablecoin adoption victory",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-disparte-open-payments-stablecoins/"
+      "link": "https://cryptobriefing.com/blackrock-private-credit-fund-redemptions-q2/"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX goes public at $1.77 trillion valuation as Dan Niles warns of steep risks ahead",
-      "take": "SpaceX IPO valued company at $1.77 trillion despite analyst warnings of steep risks",
+      "headline": "Artificial Analysis launches coding agent benchmarks with event in San Francisco",
+      "take": "Artificial Analysis launches coding agent benchmarks with San Francisco event",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-ipo-dan-niles-valuation-risks/"
+      "link": "https://cryptobriefing.com/artificial-analysis-coding-agent-benchmarks/"
+    },
+    {
+      "headline": "AA-AgentPerf releases initial results for DeepSeek V4 Pro benchmark, showing NVIDIA Blackwell dominance",
+      "take": "DeepSeek V4 Pro benchmark shows NVIDIA Blackwell dominance in AI performance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aa-agentperf-deepseek-v4-pro-benchmark-results/"
     },
     {
       "headline": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-      "take": "Crypto firms halt tokenized SpaceX share offerings as SPCX token surges post-IPO",
+      "take": "Crypto firms abandon tokenized SpaceX share offerings following IPO surge",
       "source": "decrypt",
       "link": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo"
-    },
-    {
-      "headline": "Arc unveils AMP protocol to enhance trade order fairness for app developers",
-      "take": "Arc introduces AMP protocol to improve trade order fairness for application developers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arc-amp-protocol-trade-order-fairness/"
-    },
-    {
-      "headline": "2026 FIFA World Cup kicks off in Toronto with crypto partnerships front and center",
-      "take": "2026 FIFA World Cup in Toronto highlights crypto partnerships as key promotional element",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-2026-crypto-partnerships/"
-    },
-    {
-      "headline": "Early Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to \u2018every\u2019 portfolio company",
-      "take": "Y Combinator says Clarity Act could enable crypto adoption across portfolio companies",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404643/early-airbnb-doordash-backer-y-combinator-expects-crypto-to-be-used-by-every-one-of-its-portfolio-companies?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Quantstamp links June 8 H token breach to North Korean hackers",
-      "take": "Quantstamp attributes June 8 H token breach to North Korean state-sponsored hackers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantstamp-h-token-breach-north-korean-hackers/"
+      "headline": "Iran-Linked Group That Hacked Kash Patel's Email Threatens World Cup With Hijacked FBI Drones",
+      "take": "Iran-linked hackers breach Kash Patel email, threaten World Cup disruption",
+      "source": "decrypt",
+      "link": "https://decrypt.co/370937/iran-group-hacked-kash-patel-email-threatens-world-cup-hijacked-drones"
     },
     {
       "headline": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
-      "take": "Researchers warn AI agents remain vulnerable to prompt injection attack techniques",
+      "take": "AI agents remain vulnerable to prompt injection attacks despite security advances",
       "source": "decrypt",
       "link": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research"
     },
     {
       "headline": "Tennessee Man Indicted for Alleged Crypto Ponzi Scheme That Stole Millions From Investors",
-      "take": "Tennessee man indicted for running crypto Ponzi scheme that defrauded millions",
+      "take": "Tennessee man indicted for running alleged crypto Ponzi scheme stealing millions",
       "source": "decrypt",
       "link": "https://decrypt.co/370943/tennessee-man-indicted-crypto-ponzi-scheme-stole-millions-investors"
-    },
-    {
-      "headline": "Iran-Linked Group That Hacked Kash Patel's Email Threatens World Cup With Hijacked FBI Drones",
-      "take": "Iran-linked hackers claim World Cup threat using allegedly hijacked FBI drones",
-      "source": "decrypt",
-      "link": "https://decrypt.co/370937/iran-group-hacked-kash-patel-email-threatens-world-cup-hijacked-drones"
     }
   ],
   "policy": [
     {
-      "headline": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
-      "take": "Former SEC Chair Gensler disputes CFTC authority over sports betting prediction markets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss"
+      "headline": "Trump abandons main provisions of Iran nuclear deal, and crypto markets feel the aftershocks",
+      "take": "Trump abandons Iran nuclear deal provisions, crypto markets experience notable volatility",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-iran-nuclear-deal-crypto-sanctions/"
     },
     {
-      "headline": "US government proposes nuclear dismantling agreement with Iran, and crypto markets are paying attention",
-      "take": "US government proposes nuclear dismantling deal with Iran amid crypto market attention",
+      "headline": "Senators add AI restrictions and prediction market bans to $1.1T Pentagon policy bill",
+      "take": "Senate adds AI restrictions and prediction market bans to Pentagon defense bill",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-nuclear-deal-crypto-impact/"
+      "link": "https://cryptobriefing.com/senators-ai-restrictions-pentagon-policy-bill/"
+    },
+    {
+      "headline": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
+      "take": "CFTC sues New Mexico asserting authority over sports betting markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
+      "take": "Former SEC Chair Gensler rejects CFTC authority claim over prediction markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss"
     }
   ]
 }

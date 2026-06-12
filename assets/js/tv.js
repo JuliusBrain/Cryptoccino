@@ -552,6 +552,7 @@
      takes the hourly commits. Titles are untrusted RSS → escaped; links validated. */
   var NEWS_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/news.json";
   function relTime(ts) {
+    if (ts == null || isNaN(ts)) return "—";
     var s = Math.floor(Date.now() / 1000 - ts);
     if (s < 0) s = 0;
     if (s < 60) return s + "s";
@@ -562,8 +563,8 @@
   function loadNews() {
     fetch(NEWS_URL + "?t=" + Math.floor(Date.now() / 300000))   // bust raw's 5-min cache
       .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
-      .then(function (arr) { if (Array.isArray(arr)) { LIVE.news = arr; renderNews(); } })
-      .catch(function (e) { console.warn("TV: news failed", e); });
+      .then(function (arr) { if (Array.isArray(arr)) LIVE.news = arr; renderNews(); })
+      .catch(function (e) { console.warn("TV: news failed", e); renderNews(); });
   }
   function renderNews() {
     var box = $("news-list"); if (!box) return;
@@ -571,12 +572,21 @@
     if (!arr.length) { box.innerHTML = '<li class="tv-news__empty mono">No recent headlines.</li>'; return; }
     box.innerHTML = arr.slice(0, 30).map(function (n) {
       var href = /^https?:\/\//.test(n.link || "") ? n.link : "#";
+      var ts = (n.ts == null || isNaN(n.ts)) ? "" : n.ts;
       return '<li class="tv-news__item"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
-        '<span class="tv-news__time mono">' + relTime(n.ts) + '</span>' +
+        '<span class="tv-news__time mono" data-ts="' + ts + '">' + relTime(n.ts) + '</span>' +
         '<span class="tv-news__src mono">' + escapeHtml(n.source) + '</span>' +
         '<span class="tv-news__title">' + escapeHtml(n.title) + '</span></a></li>';
     }).join("");
     stamp("upd-news");
+  }
+  // Refresh only the relative-time text (no innerHTML rebuild → no scroll reset).
+  function refreshNewsTimes() {
+    var els = document.querySelectorAll("#news-list .tv-news__time[data-ts]");
+    for (var i = 0; i < els.length; i++) {
+      var v = els[i].getAttribute("data-ts");
+      if (v) els[i].textContent = relTime(+v);
+    }
   }
 
   /* ---- render-all dispatcher (spec API; used to paint placeholders on load) ---- */
@@ -607,7 +617,7 @@
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
     setInterval(loadNews, 5 * 60000);
-    setInterval(renderNews, 60000);   // refresh relative timestamps
+    setInterval(refreshNewsTimes, 60000);   // refresh relative timestamps in place
     setInterval(loadFng, 5 * 60000);
     setInterval(loadGlobal, 60000);
     setInterval(loadFunding, 60000);

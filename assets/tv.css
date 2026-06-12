@@ -284,6 +284,4 @@ body.tv ::selection { background: var(--cyan); color: #fff; }
 @media (max-width: 720px) {
   .tv-grid { grid-template-columns: 1fr; grid-template-areas: "top" "center" "unlock" "ticker"; }
   .tv-side { display: none; }
-  .tv-secondary { grid-template-columns: 1fr; }
-  .tv-card { border-right: none; border-bottom: 1px solid var(--line); }
 }

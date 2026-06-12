@@ -34,9 +34,13 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin news-data --depth=1 || true
-          if git show-ref --verify --quiet refs/remotes/origin/news-data; then
-            git worktree add /tmp/nd news-data
+          # `git fetch origin news-data` populates FETCH_HEAD (the single-branch
+          # checkout refspec never creates refs/remotes/origin/news-data), so base
+          # the worktree on FETCH_HEAD when the branch exists — that keeps history
+          # linear so the push fast-forwards. Only create an orphan if it's the
+          # very first run (branch absent → fetch fails).
+          if git fetch origin news-data --depth=1 2>/dev/null; then
+            git worktree add -B news-data /tmp/nd FETCH_HEAD
           else
             git worktree add --orphan -b news-data /tmp/nd
           fi

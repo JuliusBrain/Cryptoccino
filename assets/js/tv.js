@@ -65,8 +65,8 @@
     ul.innerHTML = SYMBOLS.map(function (s) {
       return '<li class="tv-prow" id="prow-' + s.d + '">' +
         '<span class="tv-prow__sym">' + s.d + '</span>' +
-        '<span class="tv-prow__price" data-num id="pp-' + s.d + '">—</span>' +
-        '<span class="tv-prow__chg" data-num id="pc-' + s.d + '">—</span>' +
+        '<span class="tv-prow__price" data-num id="pp-' + s.d + '"><i class="tv-skel"></i></span>' +
+        '<span class="tv-prow__chg" data-num id="pc-' + s.d + '"><i class="tv-skel tv-skel--sm"></i></span>' +
         '</li>';
     }).join("");
   }
@@ -567,18 +567,24 @@
       .then(function (arr) { if (Array.isArray(arr)) LIVE.news = arr; renderNews(); })
       .catch(function (e) { console.warn("TV: news failed", e); renderNews(); });
   }
+  var seenLinks = null;   // null until first render; then a set of links we've shown
   function renderNews() {
     var box = $("news-list"); if (!box) return;
     var arr = LIVE.news || [];
     if (!arr.length) { box.innerHTML = '<li class="tv-news__empty mono">No recent headlines.</li>'; return; }
+    var firstPaint = seenLinks === null;
+    if (firstPaint) seenLinks = {};
     box.innerHTML = arr.slice(0, 30).map(function (n) {
       var href = /^https?:\/\//.test(n.link || "") ? n.link : "#";
       var ts = (n.ts == null || isNaN(n.ts)) ? "" : n.ts;
-      return '<li class="tv-news__item"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
+      // Highlight genuinely new arrivals on a refresh — but not the whole list on first paint.
+      var fresh = (!firstPaint && n.link && !seenLinks[n.link]) ? " is-fresh" : "";
+      return '<li class="tv-news__item' + fresh + '"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
         '<span class="tv-news__time mono" data-ts="' + ts + '">' + relTime(n.ts) + '</span>' +
         '<span class="tv-news__src mono">' + escapeHtml(n.source) + '</span>' +
         '<span class="tv-news__title">' + escapeHtml(n.title) + '</span></a></li>';
     }).join("");
+    arr.forEach(function (n) { if (n.link) seenLinks[n.link] = 1; });
     stamp("upd-news");
   }
   // Refresh only the relative-time text (no innerHTML rebuild → no scroll reset).

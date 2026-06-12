@@ -121,20 +121,6 @@
     l.textContent = label;
   }
 
-  /* ---------------- gainer / loser ---------------- */
-  function refreshMovers() {
-    var best = null, worst = null;
-    SYMBOLS.forEach(function (s) {
-      var c = state[s.d].change;
-      if (c == null) return;
-      if (!best || c > best.c) best = { d: s.d, c: c };
-      if (!worst || c < worst.c) worst = { d: s.d, c: c };
-    });
-    var g = $("m-gain"), l = $("m-lose");
-    if (g && best)  g.textContent = best.d + " " + fmtChg(best.c);
-    if (l && worst) l.textContent = worst.d + " " + fmtChg(worst.c);
-  }
-
   /* ---------------- Binance WS + reconnect ---------------- */
   var ws = null, wsAttempts = 0, WS_MAX = 5, polling = null, gotData = false;
   function wsUrl() {
@@ -160,7 +146,6 @@
         st.change = (open > 0) ? ((close - open) / open) * 100 : st.change;
         renderPrice(sym.d);
         refreshTicker();
-        refreshMovers();
       } catch (e) { /* ignore a single malformed frame */ }
     };
     ws.onerror = function () { setLive("down", "WS ERROR"); };
@@ -189,7 +174,7 @@
           if (row.usd_24h_change != null) st.change = row.usd_24h_change;
           renderPrice(s.d);
         });
-        refreshTicker(); refreshMovers();
+        refreshTicker();
       })
       .catch(function (e) { console.warn("TV: CoinGecko poll failed", e); setLive("down", "PRICES DOWN"); });
   }
@@ -207,10 +192,9 @@
         var d = j && j.data; if (!d) throw new Error("no data");
         var dom = d.market_cap_percentage && d.market_cap_percentage.btc;
         var vol = d.total_volume && d.total_volume.usd;
-        var mcap = d.total_market_cap && d.total_market_cap.usd;
-        if ($("m-dom"))  $("m-dom").textContent  = dom != null ? dom.toFixed(1) + "%" : "—";
-        if ($("m-vol"))  $("m-vol").textContent  = fmtCompact(vol);
-        if ($("m-mcap")) $("m-mcap").textContent = fmtCompact(mcap);
+        if ($("m-dom")) $("m-dom").textContent = dom != null ? dom.toFixed(1) + "%" : "—";
+        if ($("m-vol")) $("m-vol").textContent = fmtCompact(vol);
+        stamp("upd-market");
       })
       .catch(function (e) { console.warn("TV: /global failed", e); });
   }
@@ -226,18 +210,23 @@
   }
   function cacheSet(key, v) { try { localStorage.setItem(key, JSON.stringify({ t: Date.now(), v: v })); } catch (e) {} }
 
-  function renderFng(o) { if ($("m-fng") && o) $("m-fng").textContent = o.value + " · " + o.label.toUpperCase(); }
   function loadFng() {
     var cached = cacheGet("tv-fng", 5 * 60000);
-    if (cached) { renderFng(cached); return; }
+    if (cached) { LIVE.fearGreed = { value: cached.value, label: cached.label, stale: false }; renderFearGreed(); return; }
     fetch("https://api.alternative.me/fng/?limit=1")
       .then(function (r) { return r.json(); })
       .then(function (j) {
         var row = j && j.data && j.data[0]; if (!row) throw new Error("no fng");
         var o = { value: row.value, label: row.value_classification };
-        cacheSet("tv-fng", o); renderFng(o);
+        cacheSet("tv-fng", o);
+        LIVE.fearGreed = { value: o.value, label: o.label, stale: false };
+        renderFearGreed();
       })
-      .catch(function (e) { console.warn("TV: F&G failed", e); });
+      .catch(function (e) {
+        console.warn("TV: F&G failed", e);
+        var last = cacheGet("tv-fng", 7 * 86400000); // last known, up to a week
+        if (last) { LIVE.fearGreed = { value: last.value, label: last.label, stale: true }; renderFearGreed(); }
+      });
   }
 
   /* ---------------- Security (DefiLlama /hacks, cached 30 min) ---------------- */
@@ -280,6 +269,286 @@
       .catch(function (e) { console.warn("TV: security failed", e); renderSecurity(null); });
   }
 
+  /* ============================================================
+     Extended sidebar data sources. Central LIVE state; each loader
+     has independent error handling and renders only its own section,
+     so one failure never affects the others.
+     ============================================================ */
+  var LIVE = {
+    fearGreed: { value: null, label: null, stale: false },
+    funding:   { BTC: null, ETH: null, markBTC: null, markETH: null },
+    oi:        { BTC: null, ETH: null, btcPrev: null, ethPrev: null },
+    mempool:   { txCount: null, vsize: null, fees: null, blocksToDiff: null },
+    defi:      { totalTvl: null, topProtocols: [] },
+    stables:   { usdcPct: null, usdtPct: null },
+    yields:    { pools: [] },
+    unlocks:   { events: [] }
+  };
+
+  /* ---- shared helpers ---- */
+  function fmtUSD(n) {
+    if (n == null || isNaN(n)) return "—";
+    var a = Math.abs(n);
+    if (a >= 1e12) return "$" + (n / 1e12).toFixed(1) + "T";
+    if (a >= 1e9)  return "$" + (n / 1e9).toFixed(2) + "B";
+    if (a >= 1e6)  return "$" + (n / 1e6).toFixed(2) + "M";
+    if (a >= 1e3)  return "$" + (n / 1e3).toFixed(1) + "K";
+    return "$" + Math.round(n);
+  }
+  function fmtPct(x, dec) { return x == null || isNaN(x) ? "—" : (x >= 0 ? "+" : "−") + Math.abs(x).toFixed(dec == null ? 2 : dec) + "%"; }
+  function pctClass(x, band) { band = band == null ? 0.1 : band; return x == null || isNaN(x) ? "" : Math.abs(x) < band ? "tv-amber" : x >= 0 ? "tv-up" : "tv-down"; }
+  function escapeHtml(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  var stampFmt = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Berlin", hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false });
+  function stamp(id) { var e = $(id); if (e) e.textContent = stampFmt.format(new Date()); }
+  function setText(id, t) { var e = $(id); if (e) e.textContent = t; }
+  function setVal(id, t, cls) { var e = $(id); if (!e) return; e.textContent = t; e.className = "tv-row__v mono" + (cls ? " " + cls : ""); }
+
+  /* ---- MARKET: Fear & Greed (loadFng above writes LIVE then calls this) ---- */
+  function renderFearGreed() {
+    var fg = LIVE.fearGreed;
+    setText("m-fng", fg.value == null ? "—" : (fg.value + " · " + (fg.label || "").toUpperCase() + (fg.stale ? " · STALE" : "")));
+    var bar = $("fng-bar");
+    if (bar && fg.value != null) {
+      var v = Math.max(0, Math.min(100, +fg.value));
+      bar.style.width = v + "%";
+      bar.style.background = v <= 25 ? "var(--down)" : v <= 45 ? "var(--amber)" : v <= 55 ? "var(--muted)" : v <= 75 ? "var(--up)" : "var(--cyan)";
+    }
+    stamp("upd-market");
+  }
+
+  /* ---- DERIVATIVES: Binance futures funding + open interest ---- */
+  function loadFunding() {
+    fetch("https://fapi.binance.com/fapi/v1/premiumIndex")
+      .then(function (r) { return r.json(); })
+      .then(function (arr) {
+        if (!Array.isArray(arr)) throw new Error("shape");
+        ["BTC", "ETH"].forEach(function (k) {
+          var row = arr.find(function (x) { return x.symbol === k + "USDT"; });
+          if (!row) return;
+          LIVE.funding[k] = parseFloat(row.lastFundingRate);
+          LIVE.funding["mark" + k] = parseFloat(row.markPrice);
+        });
+        renderDerivs();
+      })
+      .catch(function (e) { console.warn("TV: funding failed", e); renderDerivs(); });
+  }
+  function loadOI() {
+    ["BTC", "ETH"].forEach(function (k) {
+      fetch("https://fapi.binance.com/fapi/v1/openInterest?symbol=" + k + "USDT")
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+          var contracts = parseFloat(j.openInterest), mark = LIVE.funding["mark" + k];
+          if (mark != null && !isNaN(contracts)) { LIVE.oi[k.toLowerCase() + "Prev"] = LIVE.oi[k]; LIVE.oi[k] = contracts * mark; }
+          renderDerivs();
+        })
+        .catch(function (e) { console.warn("TV: OI " + k + " failed", e); });
+    });
+  }
+  function renderDerivs() {
+    ["BTC", "ETH"].forEach(function (k) {
+      var lc = k.toLowerCase(), r = LIVE.funding[k];
+      if (r == null) setVal("fund-" + lc, "N/A", "tv-muted");
+      else {
+        var pct = r * 100, bp = r * 10000;
+        var cls = Math.abs(pct) <= 0.005 ? "tv-amber" : pct > 0 ? "tv-up" : "tv-down";
+        setVal("fund-" + lc, (pct >= 0 ? "+" : "−") + Math.abs(pct).toFixed(4) + "% · " + (bp >= 0 ? "+" : "−") + Math.abs(bp).toFixed(2) + "bp", cls);
+      }
+      var oi = LIVE.oi[k], prev = LIVE.oi[lc + "Prev"];
+      if (oi == null) setVal("oi-" + lc, "—", null);
+      else {
+        var dlt = (prev != null && prev > 0) ? ((oi - prev) / prev) * 100 : null;
+        setVal("oi-" + lc, fmtUSD(oi) + (dlt != null ? "  " + fmtPct(dlt) : ""), dlt != null ? pctClass(dlt) : null);
+      }
+    });
+    var note = "—";
+    if (LIVE.funding.BTC != null) {
+      var p = LIVE.funding.BTC * 100;
+      note = Math.abs(p) <= 0.005 ? "Funding flat — leverage balanced."
+        : p > 0 ? "Positive funding — longs pay, leveraged bullish."
+        : "Negative funding — shorts pay, fear / squeeze risk.";
+    }
+    setText("deriv-note", note);
+    stamp("upd-deriv");
+  }
+
+  /* ---- BITCOIN NETWORK: mempool WS (primary) + REST fallback ---- */
+  var mpWs = null, mpAttempts = 0, MP_MAX = 8, mpPoll = null;
+  function renderNetwork() {
+    var m = LIVE.mempool;
+    setText("mp-tx", m.txCount == null ? "—" : (m.txCount.toLocaleString("en-US") + " tx" + (m.vsize != null ? " · " + (m.vsize / 1e6).toFixed(1) + " vMB" : "")));
+    setText("mp-fees", m.fees ? (m.fees.slow + " / " + m.fees.standard + " / " + m.fees.fast + " s/vB") : "—");
+    setText("mp-diff", m.blocksToDiff == null ? "—" : (m.blocksToDiff.toLocaleString("en-US") + " blocks"));
+    stamp("upd-net");
+  }
+  function connectMempool() {
+    try { mpWs = new WebSocket("wss://mempool.space/api/v1/ws"); }
+    catch (e) { return mpReconnect(); }
+    mpWs.onopen = function () {
+      mpAttempts = 0;
+      try {
+        mpWs.send(JSON.stringify({ action: "init" }));
+        mpWs.send(JSON.stringify({ action: "want", data: ["blocks", "mempool-blocks", "stats"] }));
+      } catch (e) {}
+    };
+    mpWs.onmessage = function (ev) {
+      try {
+        var d = JSON.parse(ev.data);
+        if (d.mempoolInfo) { if (d.mempoolInfo.size != null) LIVE.mempool.txCount = d.mempoolInfo.size; if (d.mempoolInfo.bytes != null) LIVE.mempool.vsize = d.mempoolInfo.bytes; }
+        var mb = d["mempool-blocks"];
+        if (mb && mb[0] && mb[0].feeRange) {
+          var fr = mb[0].feeRange;
+          LIVE.mempool.fees = { slow: Math.round(fr[1] != null ? fr[1] : fr[0]), standard: Math.round(fr[3] != null ? fr[3] : fr[Math.floor(fr.length / 2)]), fast: Math.round(fr[5] != null ? fr[5] : fr[fr.length - 1]) };
+        }
+        if (d.da && d.da.remainingBlocks != null) LIVE.mempool.blocksToDiff = d.da.remainingBlocks;
+        renderNetwork();
+      } catch (e) {}
+    };
+    mpWs.onerror = function () {};
+    mpWs.onclose = function () { mpReconnect(); };
+  }
+  function mpReconnect() {
+    if (mpPoll) return;
+    if (mpAttempts >= MP_MAX) { console.warn("TV: mempool WS gave up; REST polling"); return mpStartPoll(); }
+    var delay = Math.min(32000, 2000 * Math.pow(2, mpAttempts));
+    mpAttempts++;
+    setTimeout(connectMempool, delay);
+  }
+  function mpRestOnce() {
+    fetch("https://mempool.space/api/v1/fees/recommended")
+      .then(function (r) { return r.json(); })
+      .then(function (j) { LIVE.mempool.fees = { slow: j.hourFee, standard: j.halfHourFee, fast: j.fastestFee }; renderNetwork(); })
+      .catch(function (e) { console.warn("TV: mempool fees REST failed", e); });
+    fetch("https://mempool.space/api/v1/difficulty-adjustment")
+      .then(function (r) { return r.json(); })
+      .then(function (j) { if (j.remainingBlocks != null) { LIVE.mempool.blocksToDiff = j.remainingBlocks; renderNetwork(); } })
+      .catch(function () {});
+  }
+  function mpStartPoll() { if (mpPoll) return; mpRestOnce(); mpPoll = setInterval(mpRestOnce, 30000); }
+
+  /* ---- DEFI: total TVL + top protocols ---- */
+  function loadDefi() {
+    fetch("https://api.llama.fi/v2/historicalChainTvl")
+      .then(function (r) { return r.json(); })
+      .then(function (arr) { if (Array.isArray(arr) && arr.length) LIVE.defi.totalTvl = arr[arr.length - 1].tvl; renderDefi(); })
+      .catch(function (e) { console.warn("TV: TVL failed", e); });
+    fetch("https://api.llama.fi/protocols")
+      .then(function (r) { return r.json(); })
+      .then(function (arr) {
+        if (!Array.isArray(arr)) throw new Error("shape");
+        LIVE.defi.topProtocols = arr
+          .filter(function (p) { return p.category !== "CEX" && p.tvl != null && p.tvl > 0; })
+          .sort(function (a, b) { return b.tvl - a.tvl; })
+          .slice(0, 3)
+          .map(function (p) { return { name: p.name, tvl: p.tvl, chg: p.change_1d }; });
+        renderDefi();
+      })
+      .catch(function (e) { console.warn("TV: protocols failed", e); var b = $("defi-prot"); if (b && !LIVE.defi.topProtocols.length) b.innerHTML = '<p class="tv-note mono">DATA UNAVAILABLE</p>'; });
+  }
+  function renderDefi() {
+    setText("defi-tvl", fmtUSD(LIVE.defi.totalTvl));
+    var box = $("defi-prot");
+    if (box && LIVE.defi.topProtocols.length) {
+      box.innerHTML = LIVE.defi.topProtocols.map(function (p) {
+        return '<div class="tv-subrow"><span class="tv-subrow__name">' + escapeHtml(p.name) + '</span>' +
+          '<span class="tv-subrow__v mono">' + fmtUSD(p.tvl) + '</span>' +
+          '<span class="tv-subrow__c mono ' + pctClass(p.chg) + '">' + (p.chg == null ? "" : fmtPct(p.chg)) + '</span></div>';
+      }).join("");
+    }
+    stamp("upd-defi");
+  }
+
+  /* ---- DEFI: stablecoin dominance ---- */
+  function loadStables() {
+    fetch("https://stablecoins.llama.fi/stablecoins?includePrices=true")
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        var assets = j && j.peggedAssets; if (!Array.isArray(assets)) throw new Error("shape");
+        var total = 0, usdc = 0, usdt = 0;
+        assets.forEach(function (a) {
+          if (a.pegType !== "peggedUSD") return;
+          var c = a.circulating && a.circulating.peggedUSD; if (c == null) return;
+          total += c;
+          if (a.symbol === "USDC") usdc += c;
+          if (a.symbol === "USDT") usdt += c;
+        });
+        if (total > 0) { LIVE.stables.usdcPct = usdc / total * 100; LIVE.stables.usdtPct = usdt / total * 100; }
+        renderStables();
+      })
+      .catch(function (e) { console.warn("TV: stables failed", e); var w = $("stb-wrap"); if (w) w.style.display = "none"; });
+  }
+  function renderStables() {
+    var s = LIVE.stables;
+    if (s.usdcPct == null) return;
+    setText("stb-val", "USDC " + s.usdcPct.toFixed(0) + "% · USDT " + s.usdtPct.toFixed(0) + "%");
+    var ub = $("stb-usdc-bar"), tb = $("stb-usdt-bar");
+    if (ub) ub.style.width = s.usdcPct + "%";
+    if (tb) tb.style.width = s.usdtPct + "%";
+  }
+
+  /* ---- YIELDS: top filtered pools ---- */
+  function loadYields() {
+    fetch("https://yields.llama.fi/pools")
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        var data = j && j.data; if (!Array.isArray(data)) throw new Error("shape");
+        LIVE.yields.pools = data
+          .filter(function (p) {
+            if (!(p.tvlUsd > 1e7)) return false;
+            if (!(p.apy > 0 && p.apy < 200)) return false;
+            if (p.stablecoin === true && !(p.apy > 8)) return false;
+            return true;
+          })
+          .sort(function (a, b) { return b.apy - a.apy; })
+          .slice(0, 3)
+          .map(function (p) { return { project: p.project, symbol: p.symbol, apy: p.apy, chain: p.chain }; });
+        renderYields();
+      })
+      .catch(function (e) { console.warn("TV: yields failed", e); var b = $("yields-list"); if (b) b.innerHTML = '<p class="tv-note mono">DATA UNAVAILABLE</p>'; });
+  }
+  function renderYields() {
+    var box = $("yields-list"); if (!box) return;
+    if (!LIVE.yields.pools.length) { box.innerHTML = '<p class="tv-note mono">NO QUALIFYING POOLS</p>'; stamp("upd-yields"); return; }
+    box.innerHTML = LIVE.yields.pools.map(function (p) {
+      return '<div class="tv-subrow"><span class="tv-subrow__name">' + escapeHtml(p.project) + ' · ' + escapeHtml(p.symbol) + '</span>' +
+        '<span class="tv-subrow__v mono tv-up">' + p.apy.toFixed(1) + '%</span>' +
+        '<span class="tv-subrow__c mono">' + escapeHtml(p.chain) + '</span></div>';
+    }).join("");
+    stamp("upd-yields");
+  }
+
+  /* ---- UNLOCKS STRIP (no free aggregate source today; degrades to hidden) ---- */
+  function loadUnlocks() {
+    fetch("https://api.llama.fi/unlocks")
+      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
+      .then(function (arr) {
+        if (!Array.isArray(arr)) throw new Error("shape");
+        var now = Date.now(), wk = now + 7 * 86400000;
+        LIVE.unlocks.events = arr
+          .map(function (u) { return { symbol: u.symbol, value: u.unlockValue, t: u.timestamp > 1e12 ? u.timestamp : u.timestamp * 1000 }; })
+          .filter(function (u) { return u.t >= now && u.t <= wk; })
+          .sort(function (a, b) { return a.t - b.t; });
+        renderUnlocksStrip();
+      })
+      .catch(function (e) { console.info("TV: unlocks source unavailable (free tier) —", e.message); renderUnlocksStrip(); });
+  }
+  function renderUnlocksStrip() {
+    var strip = $("unlocks"), track = $("unlocks-track"), ev = LIVE.unlocks.events;
+    if (!strip || !track || !ev || !ev.length) { if (strip) strip.hidden = true; return; }
+    var now = Date.now();
+    var html = ev.map(function (u) {
+      var ms = u.t - now, d = Math.floor(ms / 86400000), h = Math.floor((ms % 86400000) / 3600000), mm = (u.value || 0) / 1e6;
+      var cls = mm < 10 ? "uk-sm" : mm <= 50 ? "uk-md" : "uk-lg";
+      return '<span class="tv-uk ' + cls + '"><b>' + escapeHtml(u.symbol) + '</b> $' + mm.toFixed(1) + 'M unlock in ' + d + 'd ' + h + 'h</span>';
+    }).join("");
+    track.innerHTML = html + html;
+    track.style.setProperty("--roll", Math.max(40, ev.length * 8) + "s");
+    track.classList.add("is-rolling");
+    strip.hidden = false;
+  }
+
+  /* ---- render-all dispatcher (spec API; used to paint placeholders on load) ---- */
+  function renderRightColumn() { renderFearGreed(); renderDerivs(); renderNetwork(); renderDefi(); renderStables(); renderYields(); }
+
   /* ---------------- fullscreen ---------------- */
   function initFullscreen() {
     var btn = $("fsbtn"); if (!btn) return;
@@ -297,9 +566,22 @@
     tick(); setInterval(tick, 1000);
     initFullscreen();
     connectWS();
-    loadGlobal();   setInterval(loadGlobal, 60000);
-    loadFng();      setInterval(loadFng, 5 * 60000);
-    loadSecurity(); setInterval(loadSecurity, 30 * 60000);
+    connectMempool();
+    renderRightColumn();   // paint section structure with placeholders
+
+    // Stagger the initial burst by 200ms each.
+    var loaders = [loadFng, loadGlobal, loadFunding, loadOI, mpRestOnce, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
+    loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
+
+    setInterval(loadFng, 5 * 60000);
+    setInterval(loadGlobal, 60000);
+    setInterval(loadFunding, 60000);
+    setInterval(loadOI, 120000);
+    setInterval(loadDefi, 10 * 60000);
+    setInterval(loadStables, 15 * 60000);
+    setInterval(loadYields, 15 * 60000);
+    setInterval(loadUnlocks, 30 * 60000);
+    setInterval(loadSecurity, 30 * 60000);
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);

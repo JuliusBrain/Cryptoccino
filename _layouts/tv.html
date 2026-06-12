@@ -14,10 +14,6 @@
   {%- endcomment -%}
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://api.coingecko.com https://api.alternative.me https://api.llama.fi wss://stream.binance.com:9443; object-src 'none'; base-uri 'self'">
 
-  {%- comment -%} Hidden while under construction — kept out of search engines.
-    (The page also sets sitemap:false so jekyll-sitemap skips it.) {%- endcomment -%}
-  <meta name="robots" content="noindex, nofollow">
-
   <title>{{ page.title | default: "Cryptoccino TV" }}</title>
   <meta name="description" content="Cryptoccino TV — a live crypto terminal.">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/cryptoccino-icon.svg' | relative_url }}">

@@ -1,0 +1,90 @@
+---
+layout: tv
+permalink: /tv/
+title: "Cryptoccino TV"
+sitemap: false
+---
+{%- assign lead = site.posts.first -%}
+{%- assign secondary = site.posts | slice: 1, 2 -%}
+<div class="tv-grid" id="tv">
+
+  <!-- ================= TOP BAR ================= -->
+  <header class="tv-top">
+    <div class="tv-top__brand">
+      <span class="tv-logo">☕&#xFE0E; CRYPTOCCINO</span>
+      <span class="tv-badge">TV</span>
+    </div>
+    <div class="tv-top__center">
+      <time class="tv-clock mono" id="clock" aria-live="off">--:--:--</time>
+      <span class="tv-clock__tz mono">CET</span>
+      <span class="tv-top__date mono" id="topdate"></span>
+    </div>
+    <div class="tv-top__right">
+      <span class="tv-live" id="livewrap"><span class="tv-live__dot" id="livedot"></span><span class="tv-live__label mono" id="livelabel">CONNECTING</span></span>
+      <span class="tv-status mono" id="mktstatus">MARKETS 24/7</span>
+      <button type="button" class="tv-fsbtn mono" id="fsbtn" aria-label="Toggle fullscreen" title="Fullscreen">⛶</button>
+    </div>
+  </header>
+
+  <!-- ================= LEFT: PRICES ================= -->
+  <aside class="tv-prices" id="prices" aria-label="Live prices">
+    <p class="tv-colhead mono">MARKETS</p>
+    <ul class="tv-plist" id="plist"></ul>
+  </aside>
+
+  <!-- ================= CENTER: BRIEF ================= -->
+  <main class="tv-center">
+    {%- if lead -%}
+    <section class="tv-lead">
+      <p class="tv-eyebrow mono">▌ TODAY'S BRIEF</p>
+      <h1 class="tv-lead__headline">{{ lead.headline | default: lead.title | escape }}</h1>
+      {%- if lead.description -%}<p class="tv-lead__summary">{{ lead.description | strip_html | truncate: 220 | escape }}</p>{%- endif -%}
+      <p class="tv-lead__meta mono">
+        <span>{{ lead.date | date: "%a %d %b %Y" | upcase }}</span>
+        <span class="tv-dot-sep">·</span>
+        <span>{{ lead.content | number_of_words | divided_by: 200 | plus: 1 }} MIN READ</span>
+      </p>
+    </section>
+    {%- else -%}
+    <section class="tv-lead"><p class="tv-eyebrow mono">▌ TODAY'S BRIEF</p><p class="tv-lead__summary">First issue lands tomorrow morning.</p></section>
+    {%- endif -%}
+
+    <section class="tv-secondary">
+      {%- for post in secondary -%}
+      <article class="tv-card">
+        <p class="tv-card__tag mono">{{ post.beats[0].title | default: "BRIEF" | upcase | escape }}</p>
+        <h2 class="tv-card__headline">{{ post.headline | default: post.title | escape }}</h2>
+        <p class="tv-card__date mono">{{ post.date | date: "%d %b" | upcase }}</p>
+      </article>
+      {%- endfor -%}
+    </section>
+  </main>
+
+  <!-- ================= RIGHT: METRICS + SECURITY ================= -->
+  <aside class="tv-side" aria-label="Market metrics and security">
+    <p class="tv-colhead mono">MARKET</p>
+    <dl class="tv-metrics">
+      <div class="tv-metric"><dt class="mono">FEAR / GREED</dt><dd class="mono" id="m-fng">—</dd></div>
+      <div class="tv-metric"><dt class="mono">BTC DOMINANCE</dt><dd class="mono" id="m-dom">—</dd></div>
+      <div class="tv-metric"><dt class="mono">24H VOLUME</dt><dd class="mono" id="m-vol">—</dd></div>
+      <div class="tv-metric"><dt class="mono">TOTAL MCAP</dt><dd class="mono" id="m-mcap">—</dd></div>
+      <div class="tv-metric"><dt class="mono">24H GAINER</dt><dd class="mono tv-up" id="m-gain">—</dd></div>
+      <div class="tv-metric"><dt class="mono">24H LOSER</dt><dd class="mono tv-down" id="m-lose">—</dd></div>
+    </dl>
+
+    <div class="tv-sec" id="sec">
+      <p class="tv-colhead mono">SECURITY <span class="tv-sec__light" id="sec-light" data-state="idle"></span></p>
+      <p class="tv-sec__status mono" id="sec-status">CHECKING…</p>
+      <dl class="tv-metrics tv-metrics--tight">
+        <div class="tv-metric"><dt class="mono">7D LOSSES</dt><dd class="mono" id="sec-losses">—</dd></div>
+        <div class="tv-metric tv-metric--stack"><dt class="mono">LAST INCIDENT</dt><dd class="mono" id="sec-last">—</dd></div>
+      </dl>
+    </div>
+  </aside>
+
+  <!-- ================= BOTTOM TICKER ================= -->
+  <footer class="tv-ticker" id="ticker" aria-label="Price ticker">
+    <div class="tv-ticker__track" id="track"></div>
+  </footer>
+
+</div>

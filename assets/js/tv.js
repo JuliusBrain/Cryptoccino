@@ -28,8 +28,8 @@
     { d: "OP",   b: "OPUSDT",   cg: "optimism" },
     { d: "POL",  b: "POLUSDT",  cg: "matic-network" }
   ];
-  var BY_BINANCE = {}, BY_CG = {};
-  SYMBOLS.forEach(function (s) { BY_BINANCE[s.b] = s; BY_CG[s.cg] = s; });
+  var BY_BINANCE = {};
+  SYMBOLS.forEach(function (s) { BY_BINANCE[s.b] = s; });
 
   var state = {};   // d -> { price, change, prev }
   SYMBOLS.forEach(function (s) { state[s.d] = { price: null, change: null, prev: null }; });
@@ -171,7 +171,7 @@
         var d = j && j.data; if (!d) throw new Error("no data");
         var dom = d.market_cap_percentage && d.market_cap_percentage.btc;
         var vol = d.total_volume && d.total_volume.usd;
-        if (dom != null) btcDominance = dom;
+        if (dom != null) { btcDominance = dom; if (domPending) drawDomFromCurrent(); }
         setText("m-dom", dom != null ? dom.toFixed(1) + "%" : "—");
         setText("m-vol", fmtCompact(vol));
         stamp("upd-market"); stamp("upd-global");
@@ -217,7 +217,9 @@
     arr.forEach(function (h) {
       var t = h.date; if (t == null) return;
       if (t >= now - 7 * DAY) losses7d += (h.amount || 0);
-      if (!latest || t > latest.date) latest = h;
+      // Only the most recent incident WITHIN 30 days counts as the "last
+      // incident"; older than that reads as "None in 30 days".
+      if (t >= now - 30 * DAY && (!latest || t > latest.date)) latest = h;
     });
     var state = "clear", label = "ALL CLEAR";
     if (latest) {
@@ -268,6 +270,7 @@
   function fmtPct(x, dec) { return x == null || isNaN(x) ? "—" : (x >= 0 ? "+" : "−") + Math.abs(x).toFixed(dec == null ? 2 : dec) + "%"; }
   function pctClass(x, band) { band = band == null ? 0.1 : band; return x == null || isNaN(x) ? "" : Math.abs(x) < band ? "tv-amber" : x >= 0 ? "tv-up" : "tv-down"; }
   function escapeHtml(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function truncate(s, n) { s = String(s == null ? "" : s); return s.length > n ? s.slice(0, n) : s; }
   var stampFmt = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Berlin", hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false });
   function stamp(id) { var e = $(id); if (e) e.textContent = stampFmt.format(new Date()); }
   function setText(id, t) { var e = $(id); if (e) e.textContent = t; }
@@ -388,8 +391,8 @@
     var box = $("defi-prot");
     if (box && LIVE.defi.topProtocols.length) {
       box.innerHTML = LIVE.defi.topProtocols.map(function (p) {
-        var nm = p.name.length > 10 ? p.name.slice(0, 10) : p.name;
-        return '<div class="tv-subrow"><span class="tv-subrow__name">' + escapeHtml(nm) + '</span>' +
+        // .tv-subrow__name already ellipsis-truncates via CSS; keep the full name.
+        return '<div class="tv-subrow"><span class="tv-subrow__name">' + escapeHtml(p.name) + '</span>' +
           '<span class="tv-subrow__v">' + fmtUSD(p.tvl) + '</span>' +
           '<span class="tv-subrow__c ' + pctClass(p.chg) + '">' + (p.chg == null ? "" : fmtPct(p.chg)) + '</span></div>';
       }).join("");
@@ -429,9 +432,8 @@
     var box = $("yields-list"); if (!box) return;
     if (!LIVE.yields.pools.length) { box.innerHTML = '<p class="tv-note">NO QUALIFYING POOLS</p>'; stamp("upd-yields"); return; }
     box.innerHTML = LIVE.yields.pools.map(function (p) {
-      var pool = (p.project + "·" + p.symbol);
-      if (pool.length > 14) pool = pool.slice(0, 14);
-      var chain = p.chain && p.chain.length > 6 ? p.chain.slice(0, 6) : (p.chain || "");
+      var pool = (p.project || "") + "·" + (p.symbol || "");   // __name CSS-ellipsis handles width
+      var chain = truncate(p.chain, 6);                        // __c is fixed-width, no ellipsis
       return '<div class="tv-subrow"><span class="tv-subrow__name">' + escapeHtml(pool) + '</span>' +
         '<span class="tv-subrow__v tv-up">' + p.apy.toFixed(1) + '%</span>' +
         '<span class="tv-subrow__c">' + escapeHtml(chain) + '</span></div>';
@@ -463,11 +465,7 @@
      CENTER CHARTS — Chart.js (BTC 30d price + BTC dominance 30d)
      ============================================================ */
   var monDay = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short" });
-  function chartErr(id, on) {
-    var e = $(id); if (!e) return;
-    if (on) { e.hidden = false; e.classList.add("is-shown"); }
-    else { e.hidden = true; e.classList.remove("is-shown"); }
-  }
+  function chartErr(id, on) { var e = $(id); if (e) e.hidden = !on; }
   var charts = {};
   function drawChart(canvasId, labels, data, color, fill) {
     if (typeof Chart === "undefined") return false;
@@ -502,62 +500,31 @@
     for (var i = n - 1; i >= 0; i--) out.push(monDay.format(new Date(now - i * day)));
     return out;
   }
+  // Flat line at the current dominance — used when the historical endpoint is
+  // unavailable (it is not on CoinGecko's free tier). Reuses btcDominance from
+  // loadGlobal instead of firing a second /global request; if it isn't cached
+  // yet, defers until loadGlobal populates it (see the domPending hook there).
+  var domPending = false;
+  function drawDomFromCurrent() {
+    if (btcDominance == null) { domPending = true; return; }
+    domPending = false;
+    var labels = recentDayLabels(30), data = labels.map(function () { return btcDominance; });
+    if (!drawChart("btc-dom-chart", labels, data, "#5A7A9A", "rgba(90,122,154,0.08)")) chartErr("btc-dom-err", true);
+  }
   function loadDomChart() {
     chartErr("btc-dom-err", false);
-    // Try the historical dominance endpoint; fall back to a flat line at the
-    // current dominance (this endpoint is not always available on the free tier).
     fetch("https://api.coingecko.com/api/v3/global/market_cap_chart?days=30")
       .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
       .then(function (j) {
-        var series = j && (j.market_cap_chart && (j.market_cap_chart.btc_dominance_percentage || j.market_cap_chart.dominance_percentage));
+        var series = j && j.market_cap_chart && (j.market_cap_chart.btc_dominance_percentage || j.market_cap_chart.dominance_percentage);
         if (!Array.isArray(series) || !series.length) throw new Error("no dominance series");
         var labels = series.map(function (p) { return monDay.format(new Date(p[0])); });
         var data = series.map(function (p) { return p[1]; });
         if (!drawChart("btc-dom-chart", labels, data, "#5A7A9A", "rgba(90,122,154,0.08)")) throw new Error("no Chart.js");
       })
-      .catch(function () {
-        // Fallback: flat line at current dominance.
-        var dom = btcDominance;
-        var finish = function (d) {
-          if (d == null) { chartErr("btc-dom-err", true); return; }
-          var labels = recentDayLabels(30), data = labels.map(function () { return d; });
-          if (!drawChart("btc-dom-chart", labels, data, "#5A7A9A", "rgba(90,122,154,0.08)")) chartErr("btc-dom-err", true);
-        };
-        if (dom != null) return finish(dom);
-        fetch("https://api.coingecko.com/api/v3/global")
-          .then(function (r) { return r.json(); })
-          .then(function (j) { finish(j && j.data && j.data.market_cap_percentage && j.data.market_cap_percentage.btc); })
-          .catch(function (e) { console.warn("TV: dom chart fallback failed", e); chartErr("btc-dom-err", true); });
-      });
+      .catch(function () { drawDomFromCurrent(); });
   }
   function renderCenterCharts() { loadPriceChart(); loadDomChart(); }
-
-  /* ============================================================
-     MARKET CONTEXT — /assets/data/market_context.json (or hide)
-     ============================================================ */
-  function renderMarketContext() {
-    var sec = $("market-context"); if (!sec) return;
-    fetch("/assets/data/market_context.json?t=" + Math.floor(Date.now() / 300000))
-      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
-      .then(function (o) {
-        if (!o || !o.summary) throw new Error("empty");
-        setText("context-summary", o.summary);
-        setText("upd-context", o.updatedAtFormatted || "");
-        var snap = o.snapshot || {}, rows = [
-          ["DIRECTION", snap.priceDirection],
-          ["FEAR / GREED", snap.fearGreed],
-          ["BTC FUNDING", snap.funding]
-        ];
-        var side = $("context-side");
-        if (side) {
-          side.innerHTML = rows.filter(function (r) { return r[1]; }).map(function (r) {
-            return '<dl class="tv-context__row"><dt>' + escapeHtml(r[0]) + '</dt><dd>' + escapeHtml(r[1]) + '</dd></dl>';
-          }).join("");
-        }
-        sec.hidden = false;
-      })
-      .catch(function () { sec.hidden = true; });   // not generated yet → hide entirely
-  }
 
   /* ---------------- theme toggle (dark ↔ Latte, persisted) ---------------- */
   function initTheme() {
@@ -606,7 +573,7 @@
     renderMarket(); renderDerivatives(); renderDeFi(); renderYields();
 
     // Stagger the initial burst by 200ms each.
-    var loaders = [loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, loadSecurity, renderCenterCharts, renderMarketContext];
+    var loaders = [loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, loadSecurity, renderCenterCharts];
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
     setInterval(loadFng, 5 * 60000);

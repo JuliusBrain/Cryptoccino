@@ -30,8 +30,6 @@
   --newshead: #C8B8A0;    /* news-item headline */
   --price:  #C8BCAC;      /* ticker price */
   --quote:  #9A8E80;      /* expert pull-quote */
-  --ctx-summary: #8A7E72; /* market-context summary */
-  --ctx-val: #B0A090;     /* market-context data values */
   --note:   #5A4A38;      /* italic interpretation notes */
 
   --serif: "Playfair Display", Georgia, serif;
@@ -64,8 +62,6 @@
   --newshead: #43331F;
   --price:  #43331F;
   --quote:  #5A4A39;
-  --ctx-summary: #5A4A39;
-  --ctx-val: #5A4630;
   --note:   #8A7B64;
 }
 
@@ -209,11 +205,10 @@ body.tv {
 .tv-chart__canvas { position: relative; height: 180px; }
 .tv-chart__canvas canvas { display: block; }
 .tv-chart__err {
-  position: absolute; inset: 0; margin: 0; display: none; align-items: center; justify-content: center;
+  position: absolute; inset: 0; margin: 0; display: flex; align-items: center; justify-content: center;
   font-family: var(--mono); font-size: 10px; letter-spacing: .08em; color: var(--micro);
 }
 .tv-chart__err[hidden] { display: none; }
-.tv-chart__err.is-shown { display: flex; }
 .tv-chart__foot { display: flex; justify-content: space-between; margin-top: 8px; font-family: var(--sans); font-size: 8px; color: var(--micro); }
 
 /* DEEP DIVE ANALYSIS */
@@ -236,16 +231,6 @@ body.tv {
 }
 .tv-expert__quote { grid-area: quote; margin: 0; font-size: 12px; font-style: italic; line-height: 1.6; color: var(--quote); }
 .tv-expert__by { grid-area: by; font-size: 10px; color: var(--text2); }
-
-/* MARKET CONTEXT */
-.tv-context { border-bottom: 1px solid var(--border); }
-.tv-context[hidden] { display: none; }
-.tv-context__cols { display: grid; grid-template-columns: 6fr 4fr; gap: 0; padding: 0; }
-.tv-context__summary { margin: 0; padding: 14px 20px; font-size: 13px; line-height: 1.7; color: var(--ctx-summary); }
-.tv-context__side { padding: 14px 20px; border-left: 1px solid var(--border); }
-.tv-context__row { margin: 0 0 8px; }
-.tv-context__row dt { font-size: 9px; letter-spacing: .08em; text-transform: uppercase; color: var(--text2); }
-.tv-context__row dd { margin: 1px 0 0; font-size: 11px; color: var(--ctx-val); }
 
 /* ===================== RIGHT: DATA SIDEBAR ============================ */
 .tv-side {

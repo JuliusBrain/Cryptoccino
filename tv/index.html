@@ -39,7 +39,7 @@ title: "Cryptoccino TV"
 
   <!-- ====================== LEFT: NEWS DIGEST ======================= -->
   <aside class="tv-digest" id="digest" aria-label="News digest">
-    <p class="tv-colhead">NEWS DIGEST<span class="tv-upd" id="upd-digest">{{ lead.date | date: "%H:%M" }}</span></p>
+    <p class="tv-colhead">NEWS DIGEST<span class="tv-upd" id="upd-digest">{{ lead.date | date: "%d %b" | upcase }}</span></p>
     <ul class="tv-dg__list" id="digest-list">
       {%- assign shown = 0 -%}
       {%- for cid in cat_ids -%}
@@ -107,15 +107,6 @@ title: "Cryptoccino TV"
         <figcaption class="tv-expert__by">{{ lead.expert_name | escape }}{% if lead.expert_title %} · {{ lead.expert_title | escape }}{% endif %}</figcaption>
       </figure>
       {%- endif -%}
-    </section>
-
-    <!-- MARKET CONTEXT (hidden until /assets/data/market_context.json loads) -->
-    <section class="tv-context" id="market-context" hidden>
-      <p class="tv-colhead">MARKET CONTEXT<span class="tv-upd" id="upd-context"></span></p>
-      <div class="tv-context__cols">
-        <p class="tv-context__summary" id="context-summary"></p>
-        <div class="tv-context__side" id="context-side"></div>
-      </div>
     </section>
   </main>
 

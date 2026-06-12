@@ -26,7 +26,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Playfair+Display:wght@600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap">
 
-  <link rel="stylesheet" href="{{ '/assets/tv.css' | relative_url }}">
+  {%- comment -%} ?v=<build time> busts the GitHub Pages 10-min asset cache on
+    every deploy, so a returning visitor never gets new HTML against a stale
+    cached tv.css/tv.js (the class names change between redesigns). {%- endcomment -%}
+  <link rel="stylesheet" href="{{ '/assets/tv.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
   {%- comment -%} Chart.js for the two center charts. Deferred so it executes
     before tv.js (also deferred) — defer preserves document order. {%- endcomment -%}
@@ -36,6 +39,6 @@
 </head>
 <body class="tv">
   {{ content }}
-  <script src="{{ '/assets/js/tv.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/tv.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>

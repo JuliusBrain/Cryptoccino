@@ -1,0 +1,61 @@
+name: News digest
+
+# Builds the /tv/ news digest (recent headlines deduped across sources, sorted
+# into Market / Business / Security / Policy with a one-line take) with Claude
+# every ~3 hours and publishes news_digest.json to the `news-data` branch — NOT
+# main. The terminal fetches it from raw.githubusercontent.com. Best-effort cron.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 */3 * * *"   # every 3h, offset from the context job (:40)
+
+permissions:
+  contents: write
+
+# Serialize with the other news-data publishers (context) so the shared branch
+# never takes two simultaneous pushes (non-fast-forward).
+concurrency:
+  group: news-data-branch
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+
+      - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build digest (to /tmp; only written on success)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline.news_digest /tmp/news_digest.json
+
+      - name: Publish to the news-data branch
+        run: |
+          if [ ! -f /tmp/news_digest.json ]; then
+            echo "No new digest produced (fail-open); keeping the prior one."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin news-data --depth=1 2>/dev/null; then
+            git worktree add -B news-data /tmp/nd FETCH_HEAD
+          else
+            git worktree add --orphan -b news-data /tmp/nd
+          fi
+          cp /tmp/news_digest.json /tmp/nd/news_digest.json
+          cd /tmp/nd
+          git add news_digest.json
+          if git diff --cached --quiet; then
+            echo "No digest change, skipping commit."
+            exit 0
+          fi
+          git commit -m "digest: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push origin news-data

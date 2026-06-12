@@ -25,9 +25,15 @@ title: "Cryptoccino TV"
   </header>
 
   <!-- ================= LEFT: PRICES ================= -->
-  <aside class="tv-prices" id="prices" aria-label="Live prices">
-    <p class="tv-colhead mono">MARKETS</p>
-    <ul class="tv-plist" id="plist"></ul>
+  <aside class="tv-digest" id="digest" aria-label="News digest">
+    <p class="tv-colhead mono">NEWS DIGEST<span class="tv-upd mono" id="upd-digest"></span></p>
+    <ul class="tv-dg__list" id="digest-list">
+      <li class="tv-dg__skel"><i class="tv-skel tv-skel--sm"></i></li>
+      <li class="tv-dg__skel"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></li>
+      <li class="tv-dg__skel"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></li>
+      <li class="tv-dg__skel"><i class="tv-skel tv-skel--sm"></i></li>
+      <li class="tv-dg__skel"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></li>
+    </ul>
   </aside>
 
   <!-- ================= CENTER: BRIEF ================= -->
@@ -50,18 +56,6 @@ title: "Cryptoccino TV"
     <section class="tv-context">
       <p class="tv-colhead mono">MARKET CONTEXT<span class="tv-upd mono" id="upd-context"></span></p>
       <p class="tv-context__body" id="context-body"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></p>
-    </section>
-
-    <section class="tv-news">
-      <p class="tv-colhead mono">NEWS · LAST HOUR<span class="tv-upd mono" id="upd-news"></span></p>
-      <ul class="tv-news__list" id="news-list">
-        <li class="tv-news__skel"><i class="tv-skel tv-skel--line"></i></li>
-        <li class="tv-news__skel"><i class="tv-skel tv-skel--line"></i></li>
-        <li class="tv-news__skel"><i class="tv-skel tv-skel--line"></i></li>
-        <li class="tv-news__skel"><i class="tv-skel tv-skel--line"></i></li>
-        <li class="tv-news__skel"><i class="tv-skel tv-skel--line"></i></li>
-        <li class="tv-news__skel"><i class="tv-skel tv-skel--line"></i></li>
-      </ul>
     </section>
   </main>
 
@@ -87,14 +81,6 @@ title: "Cryptoccino TV"
       <p class="tv-note mono" id="deriv-note">—</p>
       <div class="tv-row"><span class="tv-row__k mono">BTC OI</span><span class="tv-row__v mono" id="oi-btc">—</span></div>
       <div class="tv-row"><span class="tv-row__k mono">ETH OI</span><span class="tv-row__v mono" id="oi-eth">—</span></div>
-    </section>
-
-    <!-- BITCOIN NETWORK -->
-    <section class="tv-sect">
-      <p class="tv-colhead mono">BITCOIN NETWORK<span class="tv-upd mono" id="upd-net"></span></p>
-      <div class="tv-row"><span class="tv-row__k mono">MEMPOOL</span><span class="tv-row__v mono" id="mp-tx">—</span></div>
-      <div class="tv-row"><span class="tv-row__k mono">FEES s/s/f</span><span class="tv-row__v mono" id="mp-fees">—</span></div>
-      <div class="tv-row"><span class="tv-row__k mono">NEXT DIFF</span><span class="tv-row__v mono" id="mp-diff">—</span></div>
     </section>
 
     <!-- DEFI -->

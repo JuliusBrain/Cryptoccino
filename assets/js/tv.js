@@ -59,34 +59,7 @@
     var d = $("topdate"); if (d) d.textContent = dateFmt.format(now).toUpperCase();
   }
 
-  /* ---------------- price list (left column) ---------------- */
-  function buildPriceList() {
-    var ul = $("plist"); if (!ul) return;
-    ul.innerHTML = SYMBOLS.map(function (s) {
-      return '<li class="tv-prow" id="prow-' + s.d + '">' +
-        '<span class="tv-prow__sym">' + s.d + '</span>' +
-        '<span class="tv-prow__price" data-num id="pp-' + s.d + '"><i class="tv-skel"></i></span>' +
-        '<span class="tv-prow__chg" data-num id="pc-' + s.d + '"><i class="tv-skel tv-skel--sm"></i></span>' +
-        '</li>';
-    }).join("");
-  }
-  var flashTimers = {};
-  function renderPrice(d) {
-    var st = state[d], row = $("prow-" + d), pp = $("pp-" + d), pc = $("pc-" + d);
-    if (!row || !pp || !pc) return;
-    pp.textContent = fmtPrice(st.price);
-    pc.textContent = fmtChg(st.change);
-    pc.className = "tv-prow__chg " + dirClass(st.change);
-    if (st.prev != null && st.price != null && st.price !== st.prev) {
-      var up = st.price > st.prev;
-      row.classList.remove("flash-up", "flash-down");
-      // reflow so the class re-triggers even on rapid consecutive ticks
-      void row.offsetWidth;
-      row.classList.add(up ? "flash-up" : "flash-down");
-      clearTimeout(flashTimers[d]);
-      flashTimers[d] = setTimeout(function () { row.classList.remove("flash-up", "flash-down"); }, 420);
-    }
-  }
+  /* Prices feed the bottom ticker only (the left column now holds the digest). */
 
   /* ---------------- ticker (seamless loop) ---------------- */
   function buildTicker() {
@@ -144,7 +117,6 @@
         var st = state[sym.d];
         st.prev = st.price; st.price = close;
         st.change = (open > 0) ? ((close - open) / open) * 100 : st.change;
-        renderPrice(sym.d);
         refreshTicker();
       } catch (e) { /* ignore a single malformed frame */ }
     };
@@ -172,7 +144,6 @@
           var st = state[s.d];
           st.prev = st.price; st.price = row.usd;
           if (row.usd_24h_change != null) st.change = row.usd_24h_change;
-          renderPrice(s.d);
         });
         refreshTicker();
       })
@@ -278,12 +249,11 @@
     fearGreed: { value: null, label: null, stale: false },
     funding:   { BTC: null, ETH: null, markBTC: null, markETH: null },
     oi:        { BTC: null, ETH: null, btcPrev: null, ethPrev: null },
-    mempool:   { txCount: null, vsize: null, fees: null, blocksToDiff: null },
     defi:      { totalTvl: null, topProtocols: [] },
     stables:   { usdcPct: null, usdtPct: null },
     yields:    { pools: [] },
     unlocks:   { events: [] },
-    news:      [],
+    digest:    null,
     context:   null
   };
 
@@ -372,60 +342,6 @@
     setText("deriv-note", note);
     stamp("upd-deriv");
   }
-
-  /* ---- BITCOIN NETWORK: mempool WS (primary) + REST fallback ---- */
-  var mpWs = null, mpAttempts = 0, MP_MAX = 8, mpPoll = null;
-  function renderNetwork() {
-    var m = LIVE.mempool;
-    setText("mp-tx", m.txCount == null ? "—" : (m.txCount.toLocaleString("en-US") + " tx" + (m.vsize != null ? " · " + (m.vsize / 1e6).toFixed(1) + " vMB" : "")));
-    setText("mp-fees", m.fees ? (m.fees.slow + " / " + m.fees.standard + " / " + m.fees.fast + " s/vB") : "—");
-    setText("mp-diff", m.blocksToDiff == null ? "—" : (m.blocksToDiff.toLocaleString("en-US") + " blocks"));
-    stamp("upd-net");
-  }
-  function connectMempool() {
-    try { mpWs = new WebSocket("wss://mempool.space/api/v1/ws"); }
-    catch (e) { return mpReconnect(); }
-    mpWs.onopen = function () {
-      mpAttempts = 0;
-      try {
-        mpWs.send(JSON.stringify({ action: "init" }));
-        mpWs.send(JSON.stringify({ action: "want", data: ["blocks", "mempool-blocks", "stats"] }));
-      } catch (e) {}
-    };
-    mpWs.onmessage = function (ev) {
-      try {
-        var d = JSON.parse(ev.data);
-        if (d.mempoolInfo) { if (d.mempoolInfo.size != null) LIVE.mempool.txCount = d.mempoolInfo.size; if (d.mempoolInfo.bytes != null) LIVE.mempool.vsize = d.mempoolInfo.bytes; }
-        var mb = d["mempool-blocks"];
-        if (mb && mb[0] && mb[0].feeRange) {
-          var fr = mb[0].feeRange;
-          LIVE.mempool.fees = { slow: Math.round(fr[1] != null ? fr[1] : fr[0]), standard: Math.round(fr[3] != null ? fr[3] : fr[Math.floor(fr.length / 2)]), fast: Math.round(fr[5] != null ? fr[5] : fr[fr.length - 1]) };
-        }
-        if (d.da && d.da.remainingBlocks != null) LIVE.mempool.blocksToDiff = d.da.remainingBlocks;
-        renderNetwork();
-      } catch (e) {}
-    };
-    mpWs.onerror = function () {};
-    mpWs.onclose = function () { mpReconnect(); };
-  }
-  function mpReconnect() {
-    if (mpPoll) return;
-    if (mpAttempts >= MP_MAX) { console.warn("TV: mempool WS gave up; REST polling"); return mpStartPoll(); }
-    var delay = Math.min(32000, 2000 * Math.pow(2, mpAttempts));
-    mpAttempts++;
-    setTimeout(connectMempool, delay);
-  }
-  function mpRestOnce() {
-    fetch("https://mempool.space/api/v1/fees/recommended")
-      .then(function (r) { return r.json(); })
-      .then(function (j) { LIVE.mempool.fees = { slow: j.hourFee, standard: j.halfHourFee, fast: j.fastestFee }; renderNetwork(); })
-      .catch(function (e) { console.warn("TV: mempool fees REST failed", e); });
-    fetch("https://mempool.space/api/v1/difficulty-adjustment")
-      .then(function (r) { return r.json(); })
-      .then(function (j) { if (j.remainingBlocks != null) { LIVE.mempool.blocksToDiff = j.remainingBlocks; renderNetwork(); } })
-      .catch(function () {});
-  }
-  function mpStartPoll() { if (mpPoll) return; mpRestOnce(); mpPoll = setInterval(mpRestOnce, 30000); }
 
   /* ---- DEFI: total TVL + top protocols ---- */
   function loadDefi() {
@@ -548,52 +464,37 @@
     strip.hidden = false;
   }
 
-  /* ---- NEWS RAIL: recent curated headlines from the news-data branch ----
-     Fetched off raw.githubusercontent.com (CORS-open, ~5min cache) so main never
-     takes the hourly commits. Titles are untrusted RSS → escaped; links validated. */
-  var NEWS_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/news.json";
-  function relTime(ts) {
-    if (ts == null || isNaN(ts)) return "—";
-    var s = Math.floor(Date.now() / 1000 - ts);
-    if (s < 0) s = 0;
-    if (s < 60) return s + "s";
-    if (s < 3600) return Math.floor(s / 60) + "m";
-    if (s < 86400) return Math.floor(s / 3600) + "h";
-    return Math.floor(s / 86400) + "d";
-  }
-  function loadNews() {
-    fetch(NEWS_URL + "?t=" + Math.floor(Date.now() / 300000))   // bust raw's 5-min cache
+  /* ---- NEWS DIGEST: Claude-curated, deduped, categorized headlines ----
+     Built every ~3h (pipeline/news_digest.py) and published to the news-data
+     branch; fetched off raw.githubusercontent.com (CORS-open, ~5min cache).
+     Headlines/takes/sources are untrusted → all escaped; links validated. */
+  var DIGEST_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/news_digest.json";
+  var DIGEST_CATS = [["market", "MARKET"], ["business", "BUSINESS"], ["security", "SECURITY"], ["policy", "POLICY"]];
+  function loadDigest() {
+    fetch(DIGEST_URL + "?t=" + Math.floor(Date.now() / 300000))   // bust raw's 5-min cache
       .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
-      .then(function (arr) { if (Array.isArray(arr)) LIVE.news = arr; renderNews(); })
-      .catch(function (e) { console.warn("TV: news failed", e); renderNews(); });
+      .then(function (o) { LIVE.digest = o; renderDigest(); })
+      .catch(function (e) { console.warn("TV: digest failed", e); renderDigest(); });
   }
-  var seenLinks = null;   // null until first render; then a set of links we've shown
-  function renderNews() {
-    var box = $("news-list"); if (!box) return;
-    var arr = LIVE.news || [];
-    if (!arr.length) { box.innerHTML = '<li class="tv-news__empty mono">No recent headlines.</li>'; return; }
-    var firstPaint = seenLinks === null;
-    if (firstPaint) seenLinks = {};
-    box.innerHTML = arr.slice(0, 30).map(function (n) {
-      var href = /^https?:\/\//.test(n.link || "") ? n.link : "#";
-      var ts = (n.ts == null || isNaN(n.ts)) ? "" : n.ts;
-      // Highlight genuinely new arrivals on a refresh — but not the whole list on first paint.
-      var fresh = (!firstPaint && n.link && !seenLinks[n.link]) ? " is-fresh" : "";
-      return '<li class="tv-news__item' + fresh + '"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
-        '<span class="tv-news__time mono" data-ts="' + ts + '">' + relTime(n.ts) + '</span>' +
-        '<span class="tv-news__src mono">' + escapeHtml(n.source) + '</span>' +
-        '<span class="tv-news__title">' + escapeHtml(n.title) + '</span></a></li>';
-    }).join("");
-    arr.forEach(function (n) { if (n.link) seenLinks[n.link] = 1; });
-    stamp("upd-news");
-  }
-  // Refresh only the relative-time text (no innerHTML rebuild → no scroll reset).
-  function refreshNewsTimes() {
-    var els = document.querySelectorAll("#news-list .tv-news__time[data-ts]");
-    for (var i = 0; i < els.length; i++) {
-      var v = els[i].getAttribute("data-ts");
-      if (v) els[i].textContent = relTime(+v);
-    }
+  function renderDigest() {
+    var box = $("digest-list"); if (!box) return;
+    var d = LIVE.digest;
+    if (!d) { box.innerHTML = '<li class="tv-dg__empty mono">No digest yet.</li>'; return; }
+    var html = "";
+    DIGEST_CATS.forEach(function (c) {
+      var items = d[c[0]] || [];
+      if (!items.length) return;
+      html += '<li class="tv-dg__cat mono">' + c[1] + '</li>';
+      items.forEach(function (s) {
+        var href = /^https?:\/\//.test(s.link || "") ? s.link : "#";
+        html += '<li class="tv-dg__item"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
+          '<span class="tv-dg__head">' + escapeHtml(s.headline) + '</span>' +
+          (s.take ? '<span class="tv-dg__take">' + escapeHtml(s.take) + '</span>' : '') +
+          '<span class="tv-dg__src mono">' + escapeHtml(s.source) + '</span></a></li>';
+      });
+    });
+    box.innerHTML = html || '<li class="tv-dg__empty mono">No digest yet.</li>';
+    stamp("upd-digest");
   }
 
   /* ---- MARKET CONTEXT: Claude-written blurb off the news-data branch ---- */
@@ -612,7 +513,7 @@
   }
 
   /* ---- render-all dispatcher (spec API; used to paint placeholders on load) ---- */
-  function renderRightColumn() { renderFearGreed(); renderDerivs(); renderNetwork(); renderDefi(); renderStables(); renderYields(); }
+  function renderRightColumn() { renderFearGreed(); renderDerivs(); renderDefi(); renderStables(); renderYields(); }
 
   /* ---------------- fullscreen ---------------- */
   function initFullscreen() {
@@ -626,21 +527,18 @@
 
   /* ---------------- init ---------------- */
   function init() {
-    buildPriceList();
     buildTicker();
     tick(); setInterval(tick, 1000);
     initFullscreen();
     connectWS();
-    connectMempool();
     renderRightColumn();   // paint section structure with placeholders
 
     // Stagger the initial burst by 200ms each.
-    var loaders = [loadNews, loadContext, loadFng, loadGlobal, loadFunding, loadOI, mpRestOnce, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
+    var loaders = [loadDigest, loadContext, loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
-    setInterval(loadNews, 5 * 60000);
+    setInterval(loadDigest, 30 * 60000);
     setInterval(loadContext, 30 * 60000);
-    setInterval(refreshNewsTimes, 60000);   // refresh relative timestamps in place
     setInterval(loadFng, 5 * 60000);
     setInterval(loadGlobal, 60000);
     setInterval(loadFunding, 60000);

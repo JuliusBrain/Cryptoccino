@@ -119,15 +119,17 @@ body.tv ::selection { background: var(--cyan); color: #fff; }
 .tv-logo { font-family: var(--display); font-weight: 700; letter-spacing: 0.04em; color: var(--cyan); font-size: 16px; }
 .tv-badge { font-family: var(--mono); font-weight: 700; font-size: 9px; letter-spacing: 0.1em; color: #fff; background: var(--cyan); padding: 2px 5px; line-height: 1; }
 .tv-top__center { justify-self: center; display: flex; align-items: baseline; gap: 8px; }
-.tv-clock { font-size: 15px; font-weight: 500; color: var(--text); letter-spacing: 0.04em; }
+.tv-clock { font-size: 17px; font-weight: 500; color: var(--text); letter-spacing: 0.04em; }
 .tv-clock__tz { font-size: 9px; color: var(--cyan); letter-spacing: 0.1em; }
 .tv-top__date { font-size: 10px; color: var(--muted); letter-spacing: 0.08em; padding-left: 6px; border-left: 1px solid var(--line2); }
 .tv-top__right { justify-self: end; display: flex; align-items: center; gap: 14px; }
-.tv-live { display: inline-flex; align-items: center; gap: 6px; }
+.tv-live { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line2); border-radius: 2px; padding: 2px 7px; }
 .tv-live__dot { width: 7px; height: 7px; border-radius: 50%; background: var(--faint); flex: 0 0 auto; }
 .tv-live__label { font-family: var(--mono); font-size: 9.5px; letter-spacing: 0.14em; color: var(--muted); }
+.tv-live.is-live { border-color: color-mix(in srgb, var(--up) 45%, var(--line2)); }
 .tv-live.is-live .tv-live__dot { background: var(--up); }
 .tv-live.is-live .tv-live__label { color: var(--up); }
+.tv-live.is-down { border-color: color-mix(in srgb, var(--down) 45%, var(--line2)); }
 .tv-live.is-down .tv-live__dot { background: var(--down); }
 .tv-live.is-down .tv-live__label { color: var(--down); }
 .tv-status { font-family: var(--mono); font-size: 9.5px; letter-spacing: 0.12em; color: var(--muted); }
@@ -167,6 +169,14 @@ body.tv ::selection { background: var(--cyan); color: #fff; }
 /* Market Context — Claude-written plain-English read, between brief and news. */
 .tv-context { flex: 0 0 auto; border-bottom: 1px solid var(--line2); }
 .tv-context__body { margin: 0; padding: 12px 30px 14px; font-family: var(--serif); font-size: 14px; line-height: 1.5; color: var(--soft); max-width: 62ch; }
+
+/* --- Loading skeletons (replaced in place as data streams in) -------------- */
+.tv-skel { display: inline-block; height: 0.78em; width: 64%; border-radius: 2px; background: var(--line); vertical-align: middle; }
+.tv-skel--sm { width: 40%; height: 0.7em; }
+.tv-skel--line { display: block; width: 100%; height: 0.72em; margin: 0 0 8px; }
+.tv-skel--short { width: 46%; margin-bottom: 0; }
+.tv-news__skel { padding: 9px 30px; border-bottom: 1px solid var(--line); }
+.tv-news__skel .tv-skel--line { margin: 0; height: 0.9em; width: 88%; }
 
 /* Live news rail — clickable headlines, newest first, auto-refreshing. */
 .tv-news { flex: 1 1 0; display: flex; flex-direction: column; min-height: 0; }
@@ -267,6 +277,13 @@ body.tv ::selection { background: var(--cyan); color: #fff; }
   @keyframes tv-pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
   @keyframes tv-roll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
+  /* Skeleton shimmer (static block under reduced-motion). */
+  .tv-skel { background: linear-gradient(90deg, var(--line) 25%, var(--panel2) 45%, var(--line) 65%); background-size: 300% 100%; animation: tv-shimmer 1.5s ease-in-out infinite; }
+  @keyframes tv-shimmer { from { background-position: 150% 0; } to { background-position: -50% 0; } }
+  /* New headline arriving on a refresh briefly glows, then settles. */
+  .tv-news__item.is-fresh { animation: tv-fresh 2.4s ease-out; }
+  @keyframes tv-fresh { 0% { background: color-mix(in srgb, var(--cyan) 18%, transparent); } 100% { background: transparent; } }
+
   /* Orchestrated power-on: zones reveal in sequence on load. */
   .tv-top, .tv-prices, .tv-center, .tv-side, .tv-ticker { opacity: 0; animation: tv-in .55s cubic-bezier(.2,.7,.2,1) forwards; }
   .tv-top    { animation-delay: .04s; }
@@ -286,6 +303,25 @@ body.tv ::selection { background: var(--cyan); color: #fff; }
   .tv-prices { display: none; }
 }
 @media (max-width: 720px) {
-  .tv-grid { grid-template-columns: 1fr; grid-template-areas: "top" "center" "unlock" "ticker"; }
-  .tv-side { display: none; }
+  /* A real mobile terminal: the page scrolls, zones stack, and the masthead +
+     price ticker stay pinned. The metrics sidebar moves below the brief/news
+     instead of vanishing. The left price column is dropped (the ticker carries
+     prices). */
+  body.tv { overflow-y: auto; }
+  .tv-grid {
+    height: auto; min-height: 100dvh;
+    grid-template-columns: 1fr;
+    grid-template-rows: var(--top-h) auto auto auto var(--tick-h);
+    grid-template-areas: "top" "center" "right" "unlock" "ticker";
+  }
+  .tv-prices { display: none; }
+  .tv-center { overflow: visible; }
+  .tv-news, .tv-news__list { overflow: visible; min-height: 0; flex: 0 0 auto; }
+  .tv-side { overflow: visible; border-left: none; border-top: 1px solid var(--line2); }
+  .tv-top { position: sticky; top: 0; z-index: 4; padding: 0 8px; }
+  .tv-ticker { position: sticky; bottom: 0; z-index: 4; }
+  .tv-top__date, .tv-status { display: none; }     /* keep the narrow masthead tidy */
+  .tv-logo { font-size: 14px; }
+  .tv-clock { font-size: 15px; }
+  .tv-lead, .tv-context__body, .tv-news__item a, .tv-news__skel { padding-left: 18px; padding-right: 18px; }
 }

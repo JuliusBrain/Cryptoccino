@@ -1,0 +1,87 @@
+/* ============================================================
+   Cryptoccino TV — self-contained terminal styles.
+   Shares NOTHING with assets/style.css (the editorial site).
+   This file owns its own reset, fonts, and design tokens.
+   ============================================================ */
+
+/* --- Global reset (re-added because /tv/ skips style.css) ------------------ */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+/* --- Self-hosted fonts (no third-party requests; CSP font-src 'self') ------ */
+@font-face {
+  font-family: "Space Grotesk"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("/assets/fonts/space-grotesk-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Space Grotesk"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("/assets/fonts/space-grotesk-latin-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Space Grotesk"; font-style: normal; font-weight: 700; font-display: swap;
+  src: url("/assets/fonts/space-grotesk-latin-700-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "JetBrains Mono"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("/assets/fonts/jetbrains-mono-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "JetBrains Mono"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("/assets/fonts/jetbrains-mono-latin-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "JetBrains Mono"; font-style: normal; font-weight: 700; font-display: swap;
+  src: url("/assets/fonts/jetbrains-mono-latin-700-normal.woff2") format("woff2");
+}
+
+/* --- Design tokens --------------------------------------------------------- */
+:root {
+  --bg:     #090C10;  /* near-black terminal ground */
+  --panel:  #0E141B;  /* faintly lifted panel surface */
+  --line:   #1C2530;  /* hairline borders between cells */
+  --text:   #C9D3DE;  /* primary text */
+  --muted:  #6B7B8C;  /* labels, meta, secondary */
+  --cyan:   #00D4FF;  /* live data accent */
+  --amber:  #F59E0B;  /* Cryptoccino brand */
+  --up:     #00E676;  /* price up */
+  --down:   #FF3D57;  /* price down */
+
+  --ui:   "Space Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+/* --- Base ------------------------------------------------------------------ */
+html, body { height: 100%; }
+body.tv {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--ui);
+  font-size: 13px;
+  line-height: 1.3;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+/* Numeric/data values are always mono + tabular so columns never jitter. */
+.mono, [data-num] { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+/* --- Boot screen (Phase 1 placeholder; replaced by the grid in Phase 2) ---- */
+.tv-boot {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  letter-spacing: 0.12em;
+}
+.tv-boot__brand { font-weight: 700; color: var(--amber); font-size: 1.1rem; margin: 0; }
+.tv-boot__badge {
+  font-family: var(--mono);
+  color: var(--bg);
+  background: var(--cyan);
+  padding: 0.05em 0.35em;
+  font-size: 0.7em;
+  vertical-align: middle;
+}
+.tv-boot__msg { color: var(--muted); font-family: var(--mono); font-size: 0.75rem; margin: 0; }

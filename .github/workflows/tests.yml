@@ -26,3 +26,16 @@ jobs:
 
       - name: Run pytest
         run: pytest
+
+  # Build the site with the production Pages toolchain (Jekyll + the official
+  # plugin allowlist) so a broken layout/Liquid/front-matter fails the PR here
+  # instead of silently breaking the live site after merge.
+  jekyll-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+      - name: Build site
+        uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1.0.13
+        with:
+          source: ./
+          destination: ./_site

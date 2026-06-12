@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  {%- comment -%}
+    Cryptoccino TV is fully self-contained — it does NOT inherit default.html. It
+    runs its OWN Content-Security-Policy (classic GitHub Pages can't send headers,
+    so CSP is per-document) that is intentionally looser than the editorial site's
+    policy and scoped to /tv/ ONLY: it allows the live-data sources (Binance WS,
+    CoinGecko, alternative.me, DefiLlama) under connect-src. Scripts, styles, and
+    fonts stay same-origin (self-hosted) — no third-party script ever loads.
+  {%- endcomment -%}
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://api.coingecko.com https://api.alternative.me https://api.llama.fi wss://stream.binance.com:9443; object-src 'none'; base-uri 'self'">
+
+  {%- comment -%} Hidden while under construction — kept out of search engines.
+    (The page also sets sitemap:false so jekyll-sitemap skips it.) {%- endcomment -%}
+  <meta name="robots" content="noindex, nofollow">
+
+  <title>{{ page.title | default: "Cryptoccino TV" }}</title>
+  <meta name="description" content="Cryptoccino TV — a live crypto terminal.">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/cryptoccino-icon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/tv.css' | relative_url }}">
+</head>
+<body class="tv">
+  {{ content }}
+  <script src="{{ '/assets/js/tv.js' | relative_url }}" defer></script>
+</body>
+</html>

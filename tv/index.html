@@ -3,120 +3,172 @@ layout: tv
 permalink: /tv/
 title: "Cryptoccino TV"
 ---
+{%- comment -%}
+  Four-zone terminal: top bar / [news digest · editorial · data sidebar] / ticker.
+
+  The left "News Digest" and the center "Today's Brief" + "Deep Dive" are rendered
+  server-side from the latest issue's `beats[].items[]` (the real categorized-news
+  structure). The right sidebar + charts + ticker are wired live by assets/js/tv.js,
+  which keeps the existing data-fetching layer untouched.
+{%- endcomment -%}
 {%- assign lead = site.posts.first -%}
+{%- comment -%} beat id -> short digest category label {%- endcomment -%}
+{%- assign cat_ids   = "the_tape,projects_money,security_desk,on_the_hill" | split: "," -%}
+{%- assign cat_names = "MARKET,BUSINESS,SECURITY,POLICY" | split: "," -%}
+
 <div class="tv-grid" id="tv">
 
-  <!-- ================= TOP BAR ================= -->
+  <!-- ============================ TOP BAR ============================ -->
   <header class="tv-top">
     <div class="tv-top__brand">
-      <span class="tv-logo">☕&#xFE0E; CRYPTOCCINO</span>
+      <span class="tv-logo">&#10022;&#xFE0E; CRYPTOCCINO</span>
       <span class="tv-badge">TV</span>
     </div>
     <div class="tv-top__center">
-      <time class="tv-clock mono" id="clock" aria-live="off">--:--:--</time>
-      <span class="tv-clock__tz mono">CET</span>
-      <span class="tv-top__date mono" id="topdate"></span>
+      <time class="tv-clock" id="clock" aria-live="off">--:--:--</time>
+      <span class="tv-topdate" id="topdate">CET</span>
     </div>
     <div class="tv-top__right">
-      <span class="tv-live" id="livewrap"><span class="tv-live__dot" id="livedot"></span><span class="tv-live__label mono" id="livelabel">CONNECTING</span></span>
-      <span class="tv-status mono" id="mktstatus">MARKETS 24/7</span>
-      <button type="button" class="tv-fsbtn mono" id="fsbtn" aria-label="Toggle fullscreen" title="Fullscreen">⛶</button>
+      <span class="tv-live" id="livewrap"><span class="tv-live__dot" id="livedot"></span><span class="tv-live__label" id="livelabel">CONNECTING</span></span>
+      <span class="tv-status">MARKETS 24/7</span>
+      <span class="tv-updstamp" id="upd-global">--:--:--</span>
+      <button type="button" class="tv-fsbtn" id="fsbtn" aria-label="Toggle fullscreen" title="Fullscreen">&#9974;</button>
     </div>
   </header>
 
-  <!-- ================= LEFT: PRICES ================= -->
+  <!-- ====================== LEFT: NEWS DIGEST ======================= -->
   <aside class="tv-digest" id="digest" aria-label="News digest">
-    <p class="tv-colhead mono">NEWS DIGEST<span class="tv-upd mono" id="upd-digest"></span></p>
+    <p class="tv-colhead">NEWS DIGEST<span class="tv-upd" id="upd-digest">{{ lead.date | date: "%H:%M" }}</span></p>
     <ul class="tv-dg__list" id="digest-list">
-      <li class="tv-dg__skel"><i class="tv-skel tv-skel--sm"></i></li>
-      <li class="tv-dg__skel"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></li>
-      <li class="tv-dg__skel"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></li>
-      <li class="tv-dg__skel"><i class="tv-skel tv-skel--sm"></i></li>
-      <li class="tv-dg__skel"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></li>
+      {%- assign shown = 0 -%}
+      {%- for cid in cat_ids -%}
+        {%- assign beat = lead.beats | where: "id", cid | first -%}
+        {%- if beat and beat.items.size > 0 and shown < 12 -%}
+          {%- assign label = cat_names[forloop.index0] -%}
+          <li class="tv-dg__cat">{{ label }}</li>
+          {%- for it in beat.items -%}
+            {%- if shown < 12 -%}
+            <li class="tv-dg__item">
+              <p class="tv-dg__head">{{ it.lead_in | strip_html | escape }}</p>
+              <p class="tv-dg__desc">{{ it.text | strip_html | escape }}</p>
+              <p class="tv-dg__src">{{ it.source | default: "CRYPTOCCINO" | escape }}</p>
+            </li>
+            {%- assign shown = shown | plus: 1 -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endfor -%}
     </ul>
   </aside>
 
-  <!-- ================= CENTER: BRIEF ================= -->
-  <main class="tv-center">
-    {%- if lead -%}
-    <section class="tv-lead">
-      <p class="tv-eyebrow mono">▌ TODAY'S BRIEF</p>
-      <h1 class="tv-lead__headline"><a href="{{ lead.url | relative_url }}">{{ lead.headline | default: lead.title | escape }}</a></h1>
-      {%- if lead.description -%}<p class="tv-lead__summary">{{ lead.description | strip_html | truncate: 220 | escape }}</p>{%- endif -%}
-      <p class="tv-lead__meta mono">
-        <span>{{ lead.date | date: "%a %d %b %Y" | upcase }}</span>
-        <span class="tv-dot-sep">·</span>
-        <span>{{ lead.content | number_of_words | divided_by: 200 | plus: 1 }} MIN READ</span>
-      </p>
-    </section>
-    {%- else -%}
-    <section class="tv-lead"><p class="tv-eyebrow mono">▌ TODAY'S BRIEF</p><p class="tv-lead__summary">First issue lands tomorrow morning.</p></section>
-    {%- endif -%}
+  <!-- ====================== CENTER: EDITORIAL ======================= -->
+  <main class="tv-center" id="center">
 
-    <section class="tv-context">
-      <p class="tv-colhead mono">MARKET CONTEXT<span class="tv-upd mono" id="upd-context"></span></p>
-      <p class="tv-context__body" id="context-body"><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line"></i><i class="tv-skel tv-skel--line tv-skel--short"></i></p>
+    <!-- TODAY'S BRIEF -->
+    <section class="tv-sec">
+      <p class="tv-colhead">TODAY'S BRIEF<span class="tv-upd">{{ lead.date | date: "%d %b" | upcase }}</span></p>
+      {%- if lead -%}
+      <h1 class="tv-brief__head">{{ lead.headline | default: lead.title | escape }}</h1>
+      {%- if lead.description -%}<p class="tv-brief__deck">{{ lead.description | strip_html | escape }}</p>{%- endif -%}
+      <p class="tv-brief__meta">{{ lead.date | date: "%a %d %b %Y" | upcase }} &nbsp;·&nbsp; {{ lead.content | strip_html | number_of_words | divided_by: 200 | plus: 1 }} MIN READ</p>
+      {%- else -%}
+      <p class="tv-brief__deck">First issue lands tomorrow morning.</p>
+      {%- endif -%}
+    </section>
+
+    <!-- CHARTS -->
+    <section class="tv-charts">
+      <div class="tv-chart">
+        <p class="tv-chart__title">BTC / USD · 30 Day</p>
+        <div class="tv-chart__canvas"><canvas id="btc-price-chart"></canvas><p class="tv-chart__err" id="btc-price-err" hidden>CHART DATA UNAVAILABLE</p></div>
+        <div class="tv-chart__foot"><span>Source: Cryptoccino.com</span><span>Cryptoccino</span></div>
+      </div>
+      <div class="tv-chart">
+        <p class="tv-chart__title">BTC Dominance · 30 Day</p>
+        <div class="tv-chart__canvas"><canvas id="btc-dom-chart"></canvas><p class="tv-chart__err" id="btc-dom-err" hidden>CHART DATA UNAVAILABLE</p></div>
+        <div class="tv-chart__foot"><span>Source: Cryptoccino.com</span><span>Cryptoccino</span></div>
+      </div>
+    </section>
+
+    <!-- DEEP DIVE ANALYSIS -->
+    <section class="tv-deepdive">
+      <h2 class="tv-deepdive__title">Deep Dive Analysis</h2>
+      <div class="tv-deepdive__body">
+        {%- for cid in cat_ids -%}
+          {%- assign beat = lead.beats | where: "id", cid | first -%}
+          {%- if beat -%}{%- for it in beat.items -%}<p>{{ it.text | strip_html | escape }}</p>{%- endfor -%}{%- endif -%}
+        {%- endfor -%}
+      </div>
+      {%- if lead.expert_quote -%}
+      <figure class="tv-expert">
+        <div class="tv-expert__avatar" aria-hidden="true">{{ lead.expert_name | default: "CC" | slice: 0, 1 | upcase }}</div>
+        <blockquote class="tv-expert__quote">{{ lead.expert_quote | strip_html | escape }}</blockquote>
+        <figcaption class="tv-expert__by">{{ lead.expert_name | escape }}{% if lead.expert_title %} · {{ lead.expert_title | escape }}{% endif %}</figcaption>
+      </figure>
+      {%- endif -%}
+    </section>
+
+    <!-- MARKET CONTEXT (hidden until /assets/data/market_context.json loads) -->
+    <section class="tv-context" id="market-context" hidden>
+      <p class="tv-colhead">MARKET CONTEXT<span class="tv-upd" id="upd-context"></span></p>
+      <div class="tv-context__cols">
+        <p class="tv-context__summary" id="context-summary"></p>
+        <div class="tv-context__side" id="context-side"></div>
+      </div>
     </section>
   </main>
 
-  <!-- ================= RIGHT: METRICS SIDEBAR ================= -->
-  <aside class="tv-side" id="side" aria-label="Market metrics">
+  <!-- ===================== RIGHT: DATA SIDEBAR ====================== -->
+  <aside class="tv-side" id="side" aria-label="Market data">
 
     <!-- MARKET -->
-    <section class="tv-sect">
-      <p class="tv-colhead mono">MARKET<span class="tv-upd mono" id="upd-market"></span></p>
+    <section class="tv-panel">
+      <p class="tv-colhead">MARKET<span class="tv-upd" id="upd-market"></span></p>
       <div class="tv-row tv-row--col">
-        <div class="tv-row__top"><span class="tv-row__k mono">FEAR / GREED</span><span class="tv-row__v mono" id="m-fng">—</span></div>
+        <div class="tv-row__top"><span class="tv-row__k">FEAR / GREED</span><span class="tv-row__v" id="m-fng">—</span></div>
         <div class="tv-bar"><span class="tv-bar__fill" id="fng-bar"></span></div>
       </div>
-      <div class="tv-row"><span class="tv-row__k mono">BTC DOMINANCE</span><span class="tv-row__v mono" id="m-dom">—</span></div>
-      <div class="tv-row"><span class="tv-row__k mono">24H VOLUME</span><span class="tv-row__v mono" id="m-vol">—</span></div>
+      <div class="tv-row"><span class="tv-row__k">BTC DOMINANCE</span><span class="tv-row__v" id="m-dom">—</span></div>
+      <div class="tv-row"><span class="tv-row__k">24H VOLUME</span><span class="tv-row__v" id="m-vol">—</span></div>
     </section>
 
     <!-- DERIVATIVES -->
-    <section class="tv-sect">
-      <p class="tv-colhead mono">DERIVATIVES<span class="tv-upd mono" id="upd-deriv"></span></p>
-      <div class="tv-row"><span class="tv-row__k mono">BTC FUNDING</span><span class="tv-row__v mono" id="fund-btc">—</span></div>
-      <div class="tv-row"><span class="tv-row__k mono">ETH FUNDING</span><span class="tv-row__v mono" id="fund-eth">—</span></div>
-      <p class="tv-note mono" id="deriv-note">—</p>
-      <div class="tv-row"><span class="tv-row__k mono">BTC OI</span><span class="tv-row__v mono" id="oi-btc">—</span></div>
-      <div class="tv-row"><span class="tv-row__k mono">ETH OI</span><span class="tv-row__v mono" id="oi-eth">—</span></div>
+    <section class="tv-panel">
+      <p class="tv-colhead">DERIVATIVES<span class="tv-upd" id="upd-deriv"></span></p>
+      <div class="tv-row"><span class="tv-row__k">BTC FUNDING</span><span class="tv-row__v" id="fund-btc">—</span></div>
+      <div class="tv-row"><span class="tv-row__k">ETH FUNDING</span><span class="tv-row__v" id="fund-eth">—</span></div>
+      <p class="tv-note" id="deriv-note">—</p>
+      <div class="tv-row"><span class="tv-row__k">BTC OI</span><span class="tv-row__v" id="oi-btc">—</span></div>
+      <div class="tv-row"><span class="tv-row__k">ETH OI</span><span class="tv-row__v" id="oi-eth">—</span></div>
     </section>
 
     <!-- DEFI -->
-    <section class="tv-sect">
-      <p class="tv-colhead mono">DEFI<span class="tv-upd mono" id="upd-defi"></span></p>
-      <div class="tv-row"><span class="tv-row__k mono">TOTAL TVL</span><span class="tv-row__v mono" id="defi-tvl">—</span></div>
+    <section class="tv-panel">
+      <p class="tv-colhead">DEFI<span class="tv-upd" id="upd-defi"></span></p>
+      <div class="tv-row"><span class="tv-row__k">TOTAL TVL</span><span class="tv-row__v" id="defi-tvl">—</span></div>
       <div class="tv-sub" id="defi-prot"></div>
       <div class="tv-row tv-row--col" id="stb-wrap">
-        <div class="tv-row__top"><span class="tv-row__k mono">STABLES</span><span class="tv-row__v mono" id="stb-val">—</span></div>
-        <div class="tv-bar tv-bar--split"><span class="tv-bar__usdc" id="stb-usdc-bar"></span><span class="tv-bar__usdt" id="stb-usdt-bar"></span></div>
+        <div class="tv-row__top"><span class="tv-row__k">STABLES</span><span class="tv-row__v" id="stb-val">—</span></div>
+        <div class="tv-splitbar"><span class="tv-splitbar__usdc" id="stb-usdc-bar"></span><span class="tv-splitbar__usdt" id="stb-usdt-bar"></span></div>
       </div>
     </section>
 
     <!-- YIELDS -->
-    <section class="tv-sect">
-      <p class="tv-colhead mono">YIELDS<span class="tv-upd mono" id="upd-yields"></span></p>
-      <div class="tv-sub" id="yields-list"><p class="tv-note mono">LOADING…</p></div>
+    <section class="tv-panel">
+      <p class="tv-colhead">YIELDS<span class="tv-upd" id="upd-yields"></span></p>
+      <div class="tv-sub" id="yields-list"><p class="tv-note">LOADING…</p></div>
     </section>
 
-    <!-- SECURITY (unchanged) -->
-    <div class="tv-sec" id="sec">
-      <p class="tv-colhead mono">SECURITY <span class="tv-sec__light" id="sec-light" data-state="idle"></span></p>
-      <p class="tv-sec__status mono" id="sec-status">CHECKING…</p>
-      <dl class="tv-metrics tv-metrics--tight">
-        <div class="tv-metric"><dt class="mono">7D LOSSES</dt><dd class="mono" id="sec-losses">—</dd></div>
-        <div class="tv-metric tv-metric--stack"><dt class="mono">LAST INCIDENT</dt><dd class="mono" id="sec-last">—</dd></div>
-      </dl>
-    </div>
+    <!-- SECURITY -->
+    <section class="tv-panel">
+      <p class="tv-colhead">SECURITY<span class="tv-upd" id="upd-sec"></span></p>
+      <p class="tv-secstatus" id="sec-status"><span class="tv-secdot" id="sec-light" data-state="idle"></span><span id="sec-statuslabel">CHECKING…</span></p>
+      <div class="tv-row"><span class="tv-row__k">7D LOSSES</span><span class="tv-row__v" id="sec-losses">—</span></div>
+      <div class="tv-row"><span class="tv-row__k">LAST INCIDENT</span><span class="tv-row__v" id="sec-last">—</span></div>
+    </section>
   </aside>
 
-  <!-- ================= UPCOMING UNLOCKS STRIP ================= -->
-  <div class="tv-unlocks" id="unlocks" hidden aria-label="Upcoming token unlocks">
-    <div class="tv-unlocks__track is-rolling" id="unlocks-track"></div>
-  </div>
-
-  <!-- ================= BOTTOM TICKER ================= -->
+  <!-- ========================= BOTTOM TICKER ======================== -->
   <footer class="tv-ticker" id="ticker" aria-label="Price ticker">
     <div class="tv-ticker__track" id="track"></div>
   </footer>

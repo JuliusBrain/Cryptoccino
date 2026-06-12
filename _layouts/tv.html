@@ -7,17 +7,29 @@
   {%- comment -%}
     Cryptoccino TV is fully self-contained — it does NOT inherit default.html. It
     runs its OWN Content-Security-Policy (classic GitHub Pages can't send headers,
-    so CSP is per-document) that is intentionally looser than the editorial site's
-    policy and scoped to /tv/ ONLY: it allows the live-data sources (Binance WS,
-    CoinGecko, alternative.me, DefiLlama) under connect-src. Scripts, styles, and
-    fonts stay same-origin (self-hosted) — no third-party script ever loads.
+    so CSP is per-document) scoped to /tv/ ONLY. It allows the live-data sources
+    under connect-src (Binance WS + REST, CoinGecko, alternative.me, DefiLlama),
+    Google Fonts (Playfair Display / Space Grotesk / JetBrains Mono) under
+    style-src/font-src, and Chart.js from cdnjs under script-src.
   {%- endcomment -%}
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://api.coingecko.com https://api.alternative.me https://api.llama.fi https://stablecoins.llama.fi https://yields.llama.fi https://fapi.binance.com https://raw.githubusercontent.com wss://stream.binance.com:9443; object-src 'none'; base-uri 'self'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://api.binance.com https://api.coingecko.com https://api.alternative.me https://api.llama.fi https://stablecoins.llama.fi https://yields.llama.fi https://fapi.binance.com wss://stream.binance.com:9443; object-src 'none'; base-uri 'self'">
 
   <title>{{ page.title | default: "Cryptoccino TV" }}</title>
   <meta name="description" content="Cryptoccino TV — a live crypto terminal.">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/cryptoccino-icon.svg' | relative_url }}">
+
+  {%- comment -%} Display: Playfair Display · UI: Space Grotesk · Data: JetBrains Mono {%- endcomment -%}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Playfair+Display:wght@600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+
   <link rel="stylesheet" href="{{ '/assets/tv.css' | relative_url }}">
+
+  {%- comment -%} Chart.js for the two center charts. Deferred so it executes
+    before tv.js (also deferred) — defer preserves document order. {%- endcomment -%}
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"
+    integrity="sha512-SIMGYRUjwY8+gKg7nn9EItdD8LCADSDfJNutF9TPrvEo86sQmFMh6MyralfIyhADlajSxqc7G0gs7+MwWF/ogQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
 <body class="tv">
   {{ content }}

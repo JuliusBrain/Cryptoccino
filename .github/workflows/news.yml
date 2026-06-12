@@ -13,6 +13,12 @@ on:
 permissions:
   contents: write
 
+# Serialize with the market-context job: both push to news-data, so never run
+# at the same time (avoids a non-fast-forward collision on the shared branch).
+concurrency:
+  group: news-data-branch
+  cancel-in-progress: false
+
 jobs:
   news:
     runs-on: ubuntu-latest

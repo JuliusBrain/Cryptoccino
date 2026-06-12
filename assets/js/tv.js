@@ -283,7 +283,8 @@
     stables:   { usdcPct: null, usdtPct: null },
     yields:    { pools: [] },
     unlocks:   { events: [] },
-    news:      []
+    news:      [],
+    context:   null
   };
 
   /* ---- shared helpers ---- */
@@ -589,6 +590,21 @@
     }
   }
 
+  /* ---- MARKET CONTEXT: Claude-written blurb off the news-data branch ---- */
+  var CONTEXT_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/context.json";
+  function loadContext() {
+    fetch(CONTEXT_URL + "?t=" + Math.floor(Date.now() / 300000))   // bust raw's 5-min cache
+      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
+      .then(function (o) { LIVE.context = o; renderContext(); })
+      .catch(function (e) { console.warn("TV: context failed", e); renderContext(); });
+  }
+  function renderContext() {
+    var box = $("context-body"); if (!box) return;
+    var t = LIVE.context && LIVE.context.text;
+    box.textContent = t ? t : "No market context.";   // textContent escapes — no innerHTML
+    if (t) stamp("upd-context");
+  }
+
   /* ---- render-all dispatcher (spec API; used to paint placeholders on load) ---- */
   function renderRightColumn() { renderFearGreed(); renderDerivs(); renderNetwork(); renderDefi(); renderStables(); renderYields(); }
 
@@ -613,10 +629,11 @@
     renderRightColumn();   // paint section structure with placeholders
 
     // Stagger the initial burst by 200ms each.
-    var loaders = [loadNews, loadFng, loadGlobal, loadFunding, loadOI, mpRestOnce, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
+    var loaders = [loadNews, loadContext, loadFng, loadGlobal, loadFunding, loadOI, mpRestOnce, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
     setInterval(loadNews, 5 * 60000);
+    setInterval(loadContext, 30 * 60000);
     setInterval(refreshNewsTimes, 60000);   // refresh relative timestamps in place
     setInterval(loadFng, 5 * 60000);
     setInterval(loadGlobal, 60000);

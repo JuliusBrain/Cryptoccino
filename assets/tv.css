@@ -164,6 +164,10 @@ body.tv ::selection { background: var(--cyan); color: #fff; }
 .tv-lead__meta { margin: 18px 0 0; display: flex; gap: 10px; align-items: center; font-family: var(--mono); font-size: 10px; letter-spacing: 0.08em; color: var(--muted); }
 .tv-dot-sep { color: var(--line2); }
 
+/* Market Context — Claude-written plain-English read, between brief and news. */
+.tv-context { flex: 0 0 auto; border-bottom: 1px solid var(--line2); }
+.tv-context__body { margin: 0; padding: 12px 30px 14px; font-family: var(--serif); font-size: 14px; line-height: 1.5; color: var(--soft); max-width: 62ch; }
+
 /* Live news rail — clickable headlines, newest first, auto-refreshing. */
 .tv-news { flex: 1 1 0; display: flex; flex-direction: column; min-height: 0; }
 .tv-news__list { flex: 1 1 0; overflow-y: auto; min-height: 0; list-style: none; margin: 0; padding: 0; scrollbar-width: none; -ms-overflow-style: none; }

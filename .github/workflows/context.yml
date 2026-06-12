@@ -1,0 +1,62 @@
+name: Market context
+
+# Generates the /tv/ "Market Context" blurb with Claude (cheapest model, tiny
+# output) every 6 hours and publishes context.json to the `news-data` branch —
+# NOT main. The terminal fetches it from raw.githubusercontent.com. Best-effort
+# cron; a missed window just leaves the prior blurb.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 */6 * * *"   # every 6h, offset from the hourly news job (:05)
+
+permissions:
+  contents: write
+
+# Serialize with the news rail job: both push to news-data, so never run at the
+# same time (avoids a non-fast-forward collision on the shared branch).
+concurrency:
+  group: news-data-branch
+  cancel-in-progress: false
+
+jobs:
+  context:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+
+      - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate market context (to /tmp; only written on success)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COINGECKO_KEY: ${{ secrets.COINGECKO_KEY }}
+        run: python -m pipeline.market_context /tmp/context.json
+
+      - name: Publish to the news-data branch
+        run: |
+          if [ ! -f /tmp/context.json ]; then
+            echo "No new context produced (fail-open); keeping the prior blurb."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin news-data --depth=1 2>/dev/null; then
+            git worktree add -B news-data /tmp/nd FETCH_HEAD
+          else
+            git worktree add --orphan -b news-data /tmp/nd
+          fi
+          cp /tmp/context.json /tmp/nd/context.json
+          cd /tmp/nd
+          git add context.json
+          if git diff --cached --quiet; then
+            echo "No context change, skipping commit."
+            exit 0
+          fi
+          git commit -m "context: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push origin news-data

@@ -4,7 +4,6 @@ permalink: /tv/
 title: "Cryptoccino TV"
 ---
 {%- assign lead = site.posts.first -%}
-{%- assign secondary = site.posts | slice: 1, 2 -%}
 <div class="tv-grid" id="tv">
 
   <!-- ================= TOP BAR ================= -->
@@ -36,7 +35,7 @@ title: "Cryptoccino TV"
     {%- if lead -%}
     <section class="tv-lead">
       <p class="tv-eyebrow mono">▌ TODAY'S BRIEF</p>
-      <h1 class="tv-lead__headline">{{ lead.headline | default: lead.title | escape }}</h1>
+      <h1 class="tv-lead__headline"><a href="{{ lead.url | relative_url }}">{{ lead.headline | default: lead.title | escape }}</a></h1>
       {%- if lead.description -%}<p class="tv-lead__summary">{{ lead.description | strip_html | truncate: 220 | escape }}</p>{%- endif -%}
       <p class="tv-lead__meta mono">
         <span>{{ lead.date | date: "%a %d %b %Y" | upcase }}</span>
@@ -48,14 +47,9 @@ title: "Cryptoccino TV"
     <section class="tv-lead"><p class="tv-eyebrow mono">▌ TODAY'S BRIEF</p><p class="tv-lead__summary">First issue lands tomorrow morning.</p></section>
     {%- endif -%}
 
-    <section class="tv-secondary">
-      {%- for post in secondary -%}
-      <article class="tv-card">
-        <p class="tv-card__tag mono">{{ post.beats[0].title | default: "BRIEF" | upcase | escape }}</p>
-        <h2 class="tv-card__headline">{{ post.headline | default: post.title | escape }}</h2>
-        <p class="tv-card__date mono">{{ post.date | date: "%d %b" | upcase }}</p>
-      </article>
-      {%- endfor -%}
+    <section class="tv-news">
+      <p class="tv-colhead mono">NEWS · LAST HOUR<span class="tv-upd mono" id="upd-news"></span></p>
+      <ul class="tv-news__list" id="news-list"><li class="tv-news__empty mono">Loading headlines…</li></ul>
     </section>
   </main>
 

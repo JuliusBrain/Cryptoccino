@@ -282,7 +282,8 @@
     defi:      { totalTvl: null, topProtocols: [] },
     stables:   { usdcPct: null, usdtPct: null },
     yields:    { pools: [] },
-    unlocks:   { events: [] }
+    unlocks:   { events: [] },
+    news:      []
   };
 
   /* ---- shared helpers ---- */
@@ -546,6 +547,38 @@
     strip.hidden = false;
   }
 
+  /* ---- NEWS RAIL: recent curated headlines from the news-data branch ----
+     Fetched off raw.githubusercontent.com (CORS-open, ~5min cache) so main never
+     takes the hourly commits. Titles are untrusted RSS → escaped; links validated. */
+  var NEWS_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/news.json";
+  function relTime(ts) {
+    var s = Math.floor(Date.now() / 1000 - ts);
+    if (s < 0) s = 0;
+    if (s < 60) return s + "s";
+    if (s < 3600) return Math.floor(s / 60) + "m";
+    if (s < 86400) return Math.floor(s / 3600) + "h";
+    return Math.floor(s / 86400) + "d";
+  }
+  function loadNews() {
+    fetch(NEWS_URL + "?t=" + Math.floor(Date.now() / 300000))   // bust raw's 5-min cache
+      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
+      .then(function (arr) { if (Array.isArray(arr)) { LIVE.news = arr; renderNews(); } })
+      .catch(function (e) { console.warn("TV: news failed", e); });
+  }
+  function renderNews() {
+    var box = $("news-list"); if (!box) return;
+    var arr = LIVE.news || [];
+    if (!arr.length) { box.innerHTML = '<li class="tv-news__empty mono">No recent headlines.</li>'; return; }
+    box.innerHTML = arr.slice(0, 30).map(function (n) {
+      var href = /^https?:\/\//.test(n.link || "") ? n.link : "#";
+      return '<li class="tv-news__item"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
+        '<span class="tv-news__time mono">' + relTime(n.ts) + '</span>' +
+        '<span class="tv-news__src mono">' + escapeHtml(n.source) + '</span>' +
+        '<span class="tv-news__title">' + escapeHtml(n.title) + '</span></a></li>';
+    }).join("");
+    stamp("upd-news");
+  }
+
   /* ---- render-all dispatcher (spec API; used to paint placeholders on load) ---- */
   function renderRightColumn() { renderFearGreed(); renderDerivs(); renderNetwork(); renderDefi(); renderStables(); renderYields(); }
 
@@ -570,9 +603,11 @@
     renderRightColumn();   // paint section structure with placeholders
 
     // Stagger the initial burst by 200ms each.
-    var loaders = [loadFng, loadGlobal, loadFunding, loadOI, mpRestOnce, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
+    var loaders = [loadNews, loadFng, loadGlobal, loadFunding, loadOI, mpRestOnce, loadDefi, loadStables, loadYields, loadUnlocks, loadSecurity];
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
+    setInterval(loadNews, 5 * 60000);
+    setInterval(renderNews, 60000);   // refresh relative timestamps
     setInterval(loadFng, 5 * 60000);
     setInterval(loadGlobal, 60000);
     setInterval(loadFunding, 60000);

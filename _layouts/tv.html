@@ -12,7 +12,7 @@
     CoinGecko, alternative.me, DefiLlama) under connect-src. Scripts, styles, and
     fonts stay same-origin (self-hosted) — no third-party script ever loads.
   {%- endcomment -%}
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://api.coingecko.com https://api.alternative.me https://api.llama.fi wss://stream.binance.com:9443; object-src 'none'; base-uri 'self'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://api.coingecko.com https://api.alternative.me https://api.llama.fi https://stablecoins.llama.fi https://yields.llama.fi https://fapi.binance.com https://mempool.space https://raw.githubusercontent.com wss://stream.binance.com:9443 wss://mempool.space; object-src 'none'; base-uri 'self'">
 
   <title>{{ page.title | default: "Cryptoccino TV" }}</title>
   <meta name="description" content="Cryptoccino TV — a live crypto terminal.">

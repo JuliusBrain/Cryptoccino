@@ -7,7 +7,7 @@ name: Market context
 on:
   workflow_dispatch:
   schedule:
-    - cron: "40 */6 * * *"   # every 6h, offset from the hourly news job (:05)
+    - cron: "40 */6 * * *"   # every 6h, offset from the digest job (:20)
 
 permissions:
   contents: write

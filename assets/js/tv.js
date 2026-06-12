@@ -559,6 +559,24 @@
       .catch(function () { sec.hidden = true; });   // not generated yet → hide entirely
   }
 
+  /* ---------------- theme toggle (dark ↔ Latte, persisted) ---------------- */
+  function initTheme() {
+    var btn = $("themebtn"); if (!btn) return;
+    var root = document.documentElement;
+    function syncLabel() {
+      // Label names the theme you'll switch TO.
+      btn.textContent = root.getAttribute("data-theme") === "latte" ? "DARK" : "LATTE";
+    }
+    syncLabel();   // the layout head already applied any saved theme pre-paint
+    btn.addEventListener("click", function () {
+      var toLatte = root.getAttribute("data-theme") !== "latte";
+      if (toLatte) root.setAttribute("data-theme", "latte");
+      else root.removeAttribute("data-theme");
+      try { localStorage.setItem("tv-theme", toLatte ? "latte" : "dark"); } catch (e) {}
+      syncLabel();
+    });
+  }
+
   /* ---------------- fullscreen ---------------- */
   function initFullscreen() {
     var btn = $("fsbtn"); if (!btn) return;
@@ -581,6 +599,7 @@
 
     buildTicker();
     tick(); setInterval(tick, 1000);
+    initTheme();
     initFullscreen();
     connectWS();
     // paint section structure with placeholders

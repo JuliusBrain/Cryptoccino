@@ -18,6 +18,9 @@
   <meta name="description" content="Cryptoccino TV — a live crypto terminal.">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/cryptoccino-icon.svg' | relative_url }}">
 
+  {%- comment -%} Apply the saved theme before first paint (no flash of dark when Latte is chosen). {%- endcomment -%}
+  <script>try{if(localStorage.getItem("tv-theme")==="latte")document.documentElement.setAttribute("data-theme","latte");}catch(e){}</script>
+
   {%- comment -%} Display: Playfair Display · UI: Space Grotesk · Data: JetBrains Mono {%- endcomment -%}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

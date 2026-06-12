@@ -1,0 +1,55 @@
+name: News rail
+
+# Refreshes the /tv/ news rail hourly. Publishes news.json to the dedicated
+# `news-data` branch ONLY — main never receives these commits, so its history
+# and the Pages build stay clean. The terminal fetches the file straight off
+# that branch via raw.githubusercontent.com (CORS-open). GitHub's scheduled cron
+# is best-effort on free public repos; a missed hour is harmless.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 * * * *"   # hourly, a few minutes past the hour
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+
+      - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build news.json (to /tmp, never into the main checkout)
+        run: python -m pipeline.news /tmp/news.json
+
+      - name: Publish to the news-data branch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # `git fetch origin news-data` populates FETCH_HEAD (the single-branch
+          # checkout refspec never creates refs/remotes/origin/news-data), so base
+          # the worktree on FETCH_HEAD when the branch exists — that keeps history
+          # linear so the push fast-forwards. Only create an orphan if it's the
+          # very first run (branch absent → fetch fails).
+          if git fetch origin news-data --depth=1 2>/dev/null; then
+            git worktree add -B news-data /tmp/nd FETCH_HEAD
+          else
+            git worktree add --orphan -b news-data /tmp/nd
+          fi
+          cp /tmp/news.json /tmp/nd/news.json
+          cd /tmp/nd
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No news change, skipping commit."
+            exit 0
+          fi
+          git commit -m "news: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push origin news-data

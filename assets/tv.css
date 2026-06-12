@@ -37,7 +37,7 @@ html { -webkit-text-size-adjust: 100%; }
   --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
   --top-h: 38px;
-  --tick-h: 30px;
+  --tick-h: 48px;
   --unlock-h: 26px;
 }
 
@@ -193,7 +193,7 @@ body.tv::before {
 /* ====================== BOTTOM TICKER ====================== */
 .tv-ticker { grid-area: ticker; background: var(--panel); border-top: 1px solid var(--line2); overflow: hidden; display: flex; align-items: center; }
 .tv-ticker__track { display: inline-flex; align-items: center; white-space: nowrap; will-change: transform; }
-.tv-titem { display: inline-flex; align-items: baseline; gap: 6px; padding: 0 16px; border-right: 1px solid var(--line); font-family: var(--mono); font-size: 11px; }
+.tv-titem { display: inline-flex; align-items: baseline; gap: 8px; padding: 0 22px; border-right: 1px solid var(--line); font-family: var(--mono); font-size: 14px; }
 .tv-titem__sym { color: var(--text); font-weight: 700; }
 .tv-titem__price { color: var(--cyan); }
 .tv-titem__chg.tv-up { color: var(--up); }

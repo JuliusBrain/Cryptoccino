@@ -60,18 +60,56 @@ sitemap: false
     </section>
   </main>
 
-  <!-- ================= RIGHT: METRICS + SECURITY ================= -->
-  <aside class="tv-side" aria-label="Market metrics and security">
-    <p class="tv-colhead mono">MARKET</p>
-    <dl class="tv-metrics">
-      <div class="tv-metric"><dt class="mono">FEAR / GREED</dt><dd class="mono" id="m-fng">—</dd></div>
-      <div class="tv-metric"><dt class="mono">BTC DOMINANCE</dt><dd class="mono" id="m-dom">—</dd></div>
-      <div class="tv-metric"><dt class="mono">24H VOLUME</dt><dd class="mono" id="m-vol">—</dd></div>
-      <div class="tv-metric"><dt class="mono">TOTAL MCAP</dt><dd class="mono" id="m-mcap">—</dd></div>
-      <div class="tv-metric"><dt class="mono">24H GAINER</dt><dd class="mono tv-up" id="m-gain">—</dd></div>
-      <div class="tv-metric"><dt class="mono">24H LOSER</dt><dd class="mono tv-down" id="m-lose">—</dd></div>
-    </dl>
+  <!-- ================= RIGHT: METRICS SIDEBAR ================= -->
+  <aside class="tv-side" id="side" aria-label="Market metrics">
 
+    <!-- MARKET -->
+    <section class="tv-sect">
+      <p class="tv-colhead mono">MARKET<span class="tv-upd mono" id="upd-market"></span></p>
+      <div class="tv-row tv-row--col">
+        <div class="tv-row__top"><span class="tv-row__k mono">FEAR / GREED</span><span class="tv-row__v mono" id="m-fng">—</span></div>
+        <div class="tv-bar"><span class="tv-bar__fill" id="fng-bar"></span></div>
+      </div>
+      <div class="tv-row"><span class="tv-row__k mono">BTC DOMINANCE</span><span class="tv-row__v mono" id="m-dom">—</span></div>
+      <div class="tv-row"><span class="tv-row__k mono">24H VOLUME</span><span class="tv-row__v mono" id="m-vol">—</span></div>
+    </section>
+
+    <!-- DERIVATIVES -->
+    <section class="tv-sect">
+      <p class="tv-colhead mono">DERIVATIVES<span class="tv-upd mono" id="upd-deriv"></span></p>
+      <div class="tv-row"><span class="tv-row__k mono">BTC FUNDING</span><span class="tv-row__v mono" id="fund-btc">—</span></div>
+      <div class="tv-row"><span class="tv-row__k mono">ETH FUNDING</span><span class="tv-row__v mono" id="fund-eth">—</span></div>
+      <p class="tv-note mono" id="deriv-note">—</p>
+      <div class="tv-row"><span class="tv-row__k mono">BTC OI</span><span class="tv-row__v mono" id="oi-btc">—</span></div>
+      <div class="tv-row"><span class="tv-row__k mono">ETH OI</span><span class="tv-row__v mono" id="oi-eth">—</span></div>
+    </section>
+
+    <!-- BITCOIN NETWORK -->
+    <section class="tv-sect">
+      <p class="tv-colhead mono">BITCOIN NETWORK<span class="tv-upd mono" id="upd-net"></span></p>
+      <div class="tv-row"><span class="tv-row__k mono">MEMPOOL</span><span class="tv-row__v mono" id="mp-tx">—</span></div>
+      <div class="tv-row"><span class="tv-row__k mono">FEES s/s/f</span><span class="tv-row__v mono" id="mp-fees">—</span></div>
+      <div class="tv-row"><span class="tv-row__k mono">NEXT DIFF</span><span class="tv-row__v mono" id="mp-diff">—</span></div>
+    </section>
+
+    <!-- DEFI -->
+    <section class="tv-sect">
+      <p class="tv-colhead mono">DEFI<span class="tv-upd mono" id="upd-defi"></span></p>
+      <div class="tv-row"><span class="tv-row__k mono">TOTAL TVL</span><span class="tv-row__v mono" id="defi-tvl">—</span></div>
+      <div class="tv-sub" id="defi-prot"></div>
+      <div class="tv-row tv-row--col" id="stb-wrap">
+        <div class="tv-row__top"><span class="tv-row__k mono">STABLES</span><span class="tv-row__v mono" id="stb-val">—</span></div>
+        <div class="tv-bar tv-bar--split"><span class="tv-bar__usdc" id="stb-usdc-bar"></span><span class="tv-bar__usdt" id="stb-usdt-bar"></span></div>
+      </div>
+    </section>
+
+    <!-- YIELDS -->
+    <section class="tv-sect">
+      <p class="tv-colhead mono">YIELDS<span class="tv-upd mono" id="upd-yields"></span></p>
+      <div class="tv-sub" id="yields-list"><p class="tv-note mono">LOADING…</p></div>
+    </section>
+
+    <!-- SECURITY (unchanged) -->
     <div class="tv-sec" id="sec">
       <p class="tv-colhead mono">SECURITY <span class="tv-sec__light" id="sec-light" data-state="idle"></span></p>
       <p class="tv-sec__status mono" id="sec-status">CHECKING…</p>
@@ -81,6 +119,11 @@ sitemap: false
       </dl>
     </div>
   </aside>
+
+  <!-- ================= UPCOMING UNLOCKS STRIP ================= -->
+  <div class="tv-unlocks" id="unlocks" hidden aria-label="Upcoming token unlocks">
+    <div class="tv-unlocks__track is-rolling" id="unlocks-track"></div>
+  </div>
 
   <!-- ================= BOTTOM TICKER ================= -->
   <footer class="tv-ticker" id="ticker" aria-label="Price ticker">

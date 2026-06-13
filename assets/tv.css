@@ -33,7 +33,7 @@
   --mono:  "JetBrains Mono", ui-monospace, Menlo, monospace;
 
   --top-h: 46px;
-  --tick-h: 34px;
+  --tick-h: 48px;
 }
 
 /* Latte — the warm light cappuccino skin. */
@@ -238,10 +238,10 @@ body.tv {
 .tv-ticker { grid-area: ticker; background: var(--bar); border-top: 1px solid var(--border); overflow: hidden; display: flex; align-items: center; }
 .tv-ticker__track { display: inline-flex; white-space: nowrap; will-change: transform; }
 .tv-ticker__track.is-rolling { animation: tv-roll var(--roll, 60s) linear infinite; }
-.tv-titem { display: inline-flex; align-items: baseline; gap: 8px; padding: 0 18px; border-right: 1px solid var(--border); font-family: var(--mono); font-size: 12px; }
-.tv-titem__sym { color: var(--text3); font-weight: 500; }
+.tv-titem { display: inline-flex; align-items: baseline; gap: 10px; padding: 0 24px; border-right: 1px solid var(--border); font-family: var(--mono); font-size: 15px; }
+.tv-titem__sym { color: var(--text3); font-weight: 600; }
 .tv-titem__price { color: var(--price); }
-.tv-titem__lead { padding: 0 16px 0 18px; font-family: var(--mono); font-size: 13px; font-weight: 700; }
+.tv-titem__lead { padding: 0 18px 0 24px; font-family: var(--mono); font-size: 17px; font-weight: 700; }
 @keyframes tv-roll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
 /* ========================== RESPONSIVE ================================ */

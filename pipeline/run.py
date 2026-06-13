@@ -86,6 +86,15 @@ def main():
         items_total,
         len(issue.get("brewing") or []),
     )
+    # Fail loudly rather than publish an empty issue: we had new items to work
+    # with, so zero curated beat items means the model/curation dropped
+    # everything (e.g. all beat ids non-canonical). Raise before rendering or
+    # marking seen so the items retry on the next run instead of being lost.
+    if items_total == 0:
+        raise RuntimeError(
+            f"Curation returned zero beat items from {len(new)} new items; "
+            "refusing to publish an empty issue."
+        )
     logger.info("Fetched prices for %d coins.", len(prices) if prices else 0)
 
     today = date.today()

@@ -72,7 +72,7 @@ def _fetch_one_safe(feed_cfg):
     Per-feed isolation lives here so each concurrent worker swallows its own
     failure — one dead source never aborts the run or another worker.
     """
-    feed_id = feed_cfg["id"]
+    feed_id = feed_cfg.get("id", "?")   # .get so a malformed config row can't escape the per-feed guard
     try:
         items = _fetch_one(feed_cfg)
     except Exception as exc:

@@ -52,8 +52,8 @@
     {%- if _last == '.' -%}{%- assign _n = og_title | size | minus: 1 -%}{%- assign og_title_t = og_title | slice: 0, _n -%}{%- endif -%}
   {%- endif -%}
 
-  <title>{% if page.layout == 'issue' %}{{ og_title_t }} · {{ site.title }}{% elsif page.url == '/' %}{{ site.title }} — {{ site.description }}{% else %}{{ page.title | default: site.title }}{% endif %}</title>
-  <meta name="description" content="{{ og_desc }}">
+  <title>{% if page.layout == 'issue' %}{{ og_title_t | escape }} · {{ site.title }}{% elsif page.url == '/' %}{{ site.title }} — {{ site.description }}{% else %}{{ page.title | default: site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ og_desc | escape }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   {%- comment -%} SVG for modern browsers; .ico + PNG raster fallbacks for those
     (e.g. older Safari) that ignore SVG favicons and would otherwise show the
@@ -67,12 +67,12 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/fraunces-latin-var.woff2' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-  <meta property="og:title" content="{{ og_title }}">
-  <meta property="og:description" content="{{ og_desc }}">
+  <meta property="og:title" content="{{ og_title | escape }}">
+  <meta property="og:description" content="{{ og_desc | escape }}">
   <meta property="og:image" content="{{ og_image | absolute_url }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="{{ og_title }}">
+  <meta property="og:image:alt" content="{{ og_title | escape }}">
   <meta property="og:type" content="{% if page.layout == 'issue' %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="{{ site.title }}">
@@ -80,8 +80,8 @@
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
   {%- endif %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ og_title }}">
-  <meta name="twitter:description" content="{{ og_desc }}">
+  <meta name="twitter:title" content="{{ og_title | escape }}">
+  <meta name="twitter:description" content="{{ og_desc | escape }}">
   <meta name="twitter:image" content="{{ og_image | absolute_url }}">
 
   {%- comment -%} Structured data: NewsArticle per issue, WebSite on the homepage. {%- endcomment -%}

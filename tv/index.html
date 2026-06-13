@@ -98,20 +98,12 @@ title: "Cryptoccino TV"
       <p class="tv-context__body" id="context-summary"></p>
     </section>
 
-    <!-- DEEP DIVE ANALYSIS (from the latest issue's beats) -->
-    <section class="tv-deepdive">
-      <h2 class="tv-deepdive__title">Deep Dive Analysis</h2>
-      <p class="tv-deepdive__note">The full write-ups from today&rsquo;s Cryptoccino brief &mdash; every story across markets, funding, security and policy, in a few sentences each. Curated every morning from ~15 crypto, security and policy news sources.</p>
-      <div class="tv-deepdive__body">
-        {%- for beat in lead.beats -%}{%- for it in beat.items -%}<p>{{ it.text | strip_html | escape }}</p>{%- endfor -%}{%- endfor -%}
-      </div>
-      {%- if lead.expert_quote -%}
-      <figure class="tv-expert">
-        <div class="tv-expert__avatar" aria-hidden="true">{{ lead.expert_name | default: "CC" | slice: 0, 1 | upcase }}</div>
-        <blockquote class="tv-expert__quote">{{ lead.expert_quote | strip_html | escape }}</blockquote>
-        <figcaption class="tv-expert__by">{{ lead.expert_name | escape }}{% if lead.expert_title %} &middot; {{ lead.expert_title | escape }}{% endif %}</figcaption>
-      </figure>
-      {%- endif -%}
+    <!-- READ MORE -> Cryptoccino main site -->
+    <section class="tv-more">
+      <a class="tv-more__link" href="{{ '/' | relative_url }}">
+        <span class="tv-more__text">Today&rsquo;s brief in full &mdash; every story and the deep-dive analysis, plus the complete archive &mdash; lives on the Cryptoccino main site.</span>
+        <span class="tv-more__cue">Go to Cryptoccino &rarr;</span>
+      </a>
     </section>
   </main>
 

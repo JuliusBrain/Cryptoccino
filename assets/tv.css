@@ -195,16 +195,12 @@ body.tv {
 .tv-context[hidden] { display: none; }
 .tv-context__body { margin: 0; padding: 16px 30px 20px; font-family: var(--sans); font-size: 17px; line-height: 1.7; color: var(--text2); max-width: 64ch; }
 
-/* DEEP DIVE ANALYSIS */
-.tv-deepdive { border-bottom: 1px solid var(--border); }
-.tv-deepdive__title { margin: 0; padding: 24px 30px 6px; font-family: var(--serif); font-weight: 600; font-size: 30px; color: var(--head); }
-.tv-deepdive__note { margin: 0; padding: 0 30px 14px; font-family: var(--sans); font-size: 14px; line-height: 1.55; color: var(--text2); max-width: 70ch; }
-.tv-deepdive__body { padding: 0 30px 22px; font-family: var(--sans); font-size: 16.5px; line-height: 1.7; color: var(--text2); column-count: 2; column-gap: 30px; }
-.tv-deepdive__body p { margin: 0 0 13px; break-inside: avoid; }
-.tv-expert { margin: 0; padding: 20px 30px 24px; border-top: 1px solid var(--border); display: grid; grid-template-columns: 48px 1fr; grid-template-areas: "avatar quote" "avatar by"; gap: 4px 18px; align-items: start; }
-.tv-expert__avatar { grid-area: avatar; width: 48px; height: 48px; border-radius: 50%; background: var(--border); display: flex; align-items: center; justify-content: center; font-family: var(--sans); font-size: 17px; font-weight: 700; color: var(--text2); }
-.tv-expert__quote { grid-area: quote; margin: 0; font-size: 15.5px; font-style: italic; line-height: 1.6; color: var(--quote); }
-.tv-expert__by { grid-area: by; font-size: 12.5px; color: var(--text2); }
+/* READ MORE — pointer to the Cryptoccino main site */
+.tv-more { padding: 22px 30px 26px; }
+.tv-more__link { display: block; padding: 18px 22px; border: 1px solid var(--border); border-left: 3px solid var(--amber); border-radius: 4px; background: linear-gradient(180deg, rgba(212,154,26,0.06), transparent); text-decoration: none; color: inherit; }
+.tv-more__link:hover { border-color: var(--amber); background: rgba(212,154,26,0.10); }
+.tv-more__text { display: block; font-family: var(--serif); font-size: 19px; line-height: 1.4; color: var(--head); }
+.tv-more__cue { display: block; margin-top: 11px; font-family: var(--mono); font-size: 13px; font-weight: 600; letter-spacing: .06em; color: var(--amber); }
 
 /* ===================== RIGHT: DATA SIDEBAR ============================ */
 .tv-side { grid-area: side; background: var(--bg-col); border-left: 1px solid var(--border); overflow-y: auto; min-height: 0; display: flex; flex-direction: column; }

@@ -1,96 +1,96 @@
 {
-  "generated": "2026-06-13T16:51:10.235387+00:00",
-  "ts": 1781369470,
+  "generated": "2026-06-13T19:56:24.613167+00:00",
+  "ts": 1781380584,
   "market": [
     {
-      "headline": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-      "take": "Bitcoin rises above $64,000 after peace deal expectations shift",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near"
-    },
-    {
       "headline": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
-      "take": "Spot bitcoin ETFs see inflow return after five-day outflow streak",
+      "take": "Spot Bitcoin ETFs post inflows while Ethereum funds continue outflows",
       "source": "theblock",
       "link": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "SpaceX sees rapid ETF adoption as holders surge from 4 to 40 on first trading day",
-      "take": "SpaceX ETF sees rapid adoption with holder surge on first day",
+      "headline": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
+      "take": "Bitcoin rises above $64,000 following Iran peace deal optimism",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near"
+    },
+    {
+      "headline": "Bitcoin treasury stock volume collapses 49% to $17B daily average",
+      "take": "Bitcoin treasury stock volume drops 49% to $17 billion daily",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-etf-adoption-blackrock-ipo/"
+      "link": "https://cryptobriefing.com/bitcoin-treasury-stock-volume-collapses/"
+    },
+    {
+      "headline": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+      "take": "Stablecoins remain idle cash rather than disrupting traditional finance",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash"
     },
     {
       "headline": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-      "take": "Tokenization mirrors twenty-trillion-dollar ETF boom as blockchain converges with AI",
+      "take": "Tokenization growth mirrors $20 trillion ETF boom as blockchain matures",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says"
-    },
-    {
-      "headline": "Perpetual futures could become crypto's next ETF moment",
-      "take": "Perpetual futures positioned as crypto's next major ETF-like institutional moment",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment"
     }
   ],
   "business": [
     {
-      "headline": "dYdX enables fiat deposits via Apple Pay, Google Pay, and cards",
-      "take": "dYdX enables fiat deposits via Apple Pay, Google Pay, and cards",
+      "headline": "Kraken becomes FIFA\u2019s first crypto exchange partner as 2026 World Cup kicks off",
+      "take": "Kraken becomes FIFA's official crypto exchange partner for World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dydx-fiat-deposits-apple-pay-google-pay/"
-    },
-    {
-      "headline": "Solana Foundation partners with Alatau City to boost Kazakhstan\u2019s blockchain innovation ecosystem",
-      "take": "Solana Foundation partners with Alatau City to boost Kazakhstan blockchain ecosystem",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-foundation-alatau-city-partnership/"
-    },
-    {
-      "headline": "Orderly lists SK Hynix token for trading with 10x leverage",
-      "take": "Orderly lists SK Hynix token for trading with ten-times leverage",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/orderly-sk-hynix-token-10x-leverage/"
+      "link": "https://cryptobriefing.com/kraken-fifa-crypto-world-cup-2026/"
     },
     {
       "headline": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "take": "Wall Street moves past crypto pilots into deeper Ethereum integration",
+      "take": "Wall Street institutions moving beyond pilots deeper into Ethereum adoption",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder"
+    },
+    {
+      "headline": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
+      "take": "SpaceX IPO at $2T valuation impacts company's $1.3 billion Bitcoin reserve",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve"
     }
   ],
   "security": [
     {
+      "headline": "Coinbase report flags Bitcoin cold wallets exposed to quantum risks",
+      "take": "Bitcoin cold wallets exposed to quantum computing risks via address reuse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-bitcoin-quantum-risk-cold-wallets/"
+    },
+    {
       "headline": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
-      "take": "Google sues Chinese crime group for using Gemini AI in phishing",
+      "take": "Google sues Chinese crime group for using Gemini AI in phishing scams",
       "source": "decrypt",
       "link": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams"
     },
     {
-      "headline": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-      "take": "AI agent exploits dev via bogus scan, developer left seeking crypto donations",
-      "source": "decrypt",
-      "link": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations"
-    },
-    {
-      "headline": "Polymarket\u2019s fine print leads to student\u2019s $35K bet going to zero",
-      "take": "Polymarket's fine print leads to student's thirty-five-thousand-dollar bet loss",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-fine-print-student-bet-zero/"
+      "headline": "Crypto\u2019s next billion-dollar hacker may move at superhuman speed",
+      "take": "Cryptocurrency hacks may accelerate as attackers employ superhuman computational speed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed"
     }
   ],
   "policy": [
     {
-      "headline": "Ethereum Foundation\u2019s Kohaku proposes post-quantum account protection for $0.07",
-      "take": "Ethereum Foundation proposes post-quantum account protection for minimal cost",
+      "headline": "Italy raises crypto capital gains tax to 33% effective January 1, 2026",
+      "take": "Italy raises crypto capital gains tax to 33% effective January 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-kohaku-post-quantum-account-protection/"
+      "link": "https://cryptobriefing.com/italy-crypto-capital-gains-tax-33-percent/"
     },
     {
-      "headline": "Anthropic shuts down access to AI models after US government ban on foreign nationals",
-      "take": "Anthropic shuts down AI model access after US government bans foreign nationals",
+      "headline": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+      "take": "US government orders Anthropic to pull Claude Fable and Mythos models",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models"
+    },
+    {
+      "headline": "US restrictions on Anthropic models could trigger global AI arms race",
+      "take": "US restrictions on Anthropic models could spark global artificial intelligence arms race",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-shuts-down-ai-models-us-ban/"
+      "link": "https://cryptobriefing.com/us-anthropic-restrictions-global-ai-arms-race/"
     }
   ]
 }

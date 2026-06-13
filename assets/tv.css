@@ -136,8 +136,14 @@ body.tv {
 .tv-updstamp { font-family: var(--mono); font-size: 11px; color: var(--text2); }
 .tv-fsbtn { background: none; border: none; color: var(--text2); font-size: 18px; cursor: pointer; padding: 0 2px; line-height: 1; }
 .tv-fsbtn:hover { color: var(--amber); }
-.tv-themebtn { background: none; border: 1px solid var(--border); border-radius: 2px; color: var(--text2); cursor: pointer; font-family: var(--sans); font-size: 11.5px; font-weight: 600; letter-spacing: .1em; padding: 4px 9px; line-height: 1.2; }
-.tv-themebtn:hover { color: var(--amber); border-color: var(--amber); }
+/* espresso ↔ latte theme switch: both coffee icons shown, the active theme lit */
+.tv-themebtn { display: inline-flex; align-items: center; gap: 6px; background: none; border: 1px solid var(--border); border-radius: 999px; cursor: pointer; padding: 3px 9px; line-height: 0; }
+.tv-themebtn:hover { border-color: var(--amber); }
+.tv-themebtn__ico { display: inline-flex; color: var(--text2); opacity: .4; transition: opacity .15s ease, color .15s ease; }
+.tv-themebtn__ico svg { width: 17px; height: 17px; display: block; }
+.tv-themebtn__ico--espresso { color: var(--amber); opacity: 1; }                       /* dark = espresso (active) */
+:root[data-theme="latte"] .tv-themebtn__ico--espresso { color: var(--text2); opacity: .4; }
+:root[data-theme="latte"] .tv-themebtn__ico--latte    { color: var(--amber); opacity: 1; }
 @keyframes tv-pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
 
 /* ====================== LEFT: NEWS DIGEST ============================== */
@@ -194,17 +200,6 @@ body.tv {
 .tv-context { border-bottom: 1px solid var(--border); }
 .tv-context[hidden] { display: none; }
 .tv-context__body { margin: 0; padding: 16px 30px 20px; font-family: var(--sans); font-size: 17px; line-height: 1.7; color: var(--text2); max-width: 64ch; }
-
-/* DEEP DIVE ANALYSIS */
-.tv-deepdive { border-bottom: 1px solid var(--border); }
-.tv-deepdive__title { margin: 0; padding: 24px 30px 6px; font-family: var(--serif); font-weight: 600; font-size: 30px; color: var(--head); }
-.tv-deepdive__note { margin: 0; padding: 0 30px 14px; font-family: var(--sans); font-size: 14px; line-height: 1.55; color: var(--text2); max-width: 70ch; }
-.tv-deepdive__body { padding: 0 30px 22px; font-family: var(--sans); font-size: 16.5px; line-height: 1.7; color: var(--text2); column-count: 2; column-gap: 30px; }
-.tv-deepdive__body p { margin: 0 0 13px; break-inside: avoid; }
-.tv-expert { margin: 0; padding: 20px 30px 24px; border-top: 1px solid var(--border); display: grid; grid-template-columns: 48px 1fr; grid-template-areas: "avatar quote" "avatar by"; gap: 4px 18px; align-items: start; }
-.tv-expert__avatar { grid-area: avatar; width: 48px; height: 48px; border-radius: 50%; background: var(--border); display: flex; align-items: center; justify-content: center; font-family: var(--sans); font-size: 17px; font-weight: 700; color: var(--text2); }
-.tv-expert__quote { grid-area: quote; margin: 0; font-size: 15.5px; font-style: italic; line-height: 1.6; color: var(--quote); }
-.tv-expert__by { grid-area: by; font-size: 12.5px; color: var(--text2); }
 
 /* ===================== RIGHT: DATA SIDEBAR ============================ */
 .tv-side { grid-area: side; background: var(--bg-col); border-left: 1px solid var(--border); overflow-y: auto; min-height: 0; display: flex; flex-direction: column; }

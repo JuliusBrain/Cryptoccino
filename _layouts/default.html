@@ -138,6 +138,7 @@
         {% include cryptoccino-logo.svg %}
       </a>
       <div class="header-actions">
+        <div class="header-buttons">
       <a class="tv-link" href="{{ '/tv/' | relative_url }}" aria-label="Cryptoccino TV — live crypto terminal">
         <svg class="tv-link__ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M8.5 3 11.5 7M15.5 3 12.5 7"/>
@@ -150,13 +151,20 @@
       <a class="bmc-btn" href="https://www.buymeacoffee.com/adrianhetman" target="_blank" rel="noopener" aria-label="Buy me a coffee">
         <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&#9749;&slug=adrianhetman&button_colour=F2E9D5&font_colour=3A2C1E&font_family=Cookie&outline_colour=9A5A1C&coffee_colour=9A5A1C" alt="Buy me a coffee" />
       </a>
-      <div class="roast-toggle" role="group" aria-label="Theme">
+        </div>
+        <div class="theme-picker">
+          <span class="theme-picker__label">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/></svg>
+            Roast
+          </span>
+      <div class="roast-toggle" role="group" aria-label="Roast — colour theme">
         <button type="button" data-roast="latte" aria-pressed="true">Latte</button>
         <button type="button" data-roast="cappuccino" aria-pressed="false">Cappuccino</button>
         <button type="button" data-roast="flat-white" aria-pressed="false">Flat White</button>
         <button type="button" data-roast="espresso" aria-pressed="false">Espresso</button>
         <button type="button" data-roast="newsprint" aria-pressed="false">Newsprint</button>
       </div>
+        </div>
       </div>
     </header>
 

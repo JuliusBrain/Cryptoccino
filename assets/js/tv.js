@@ -598,6 +598,33 @@
     });
   }
 
+  /* ---------------- help tooltips (custom, viewport-positioned) ---------------- */
+  var tipEl = null;
+  function showTip(el) {
+    var text = el.getAttribute("data-tip"); if (!text) return;
+    if (!tipEl) { tipEl = document.createElement("div"); tipEl.className = "tv-tip"; tipEl.setAttribute("role", "tooltip"); document.body.appendChild(tipEl); }
+    tipEl.textContent = text;
+    tipEl.style.display = "block";
+    var r = el.getBoundingClientRect(), tw = tipEl.offsetWidth, th = tipEl.offsetHeight;
+    var vw = window.innerWidth, vh = window.innerHeight, pad = 8;
+    var left = r.right - tw;                       // right-align to the badge (sidebar sits at the right edge)
+    if (left < pad) left = pad;
+    if (left + tw > vw - pad) left = vw - pad - tw;
+    var top = r.bottom + 8;                         // below the badge by default
+    if (top + th > vh - pad) top = r.top - th - 8;  // flip above if no room below
+    if (top < pad) top = pad;
+    tipEl.style.left = left + "px";
+    tipEl.style.top = top + "px";
+  }
+  function hideTip() { if (tipEl) tipEl.style.display = "none"; }
+  function initTips() {
+    function find(e) { return e.target && e.target.closest ? e.target.closest("[data-tip]") : null; }
+    document.addEventListener("mouseover", function (e) { var el = find(e); if (el) showTip(el); });
+    document.addEventListener("mouseout",  function (e) { if (find(e)) hideTip(); });
+    document.addEventListener("focusin",   function (e) { var el = find(e); if (el) showTip(el); });
+    document.addEventListener("focusout",  hideTip);
+  }
+
   /* ---------------- init ---------------- */
   function init() {
     // Chart.js global defaults (once).
@@ -613,6 +640,7 @@
     initTheme();
     initFullscreen();
     initChartPickers();
+    initTips();
     connectWS();
     // paint section structure with placeholders
     renderMarket(); renderDerivatives(); renderDeFi(); renderYields();

@@ -220,9 +220,18 @@ body.tv {
 .tv-panel > .tv-colhead::before { color: var(--accent, var(--amber)); }
 
 /* "?" help badge — native title tooltip (no JS, not clipped by overflow) */
-.tv-help { display: inline-flex; align-items: center; justify-content: center; width: 15px; height: 15px; margin-left: 6px; border: 1px solid var(--border); border-radius: 50%; font-family: var(--sans); font-size: 9.5px; font-weight: 700; line-height: 1; color: var(--text2); cursor: help; flex: 0 0 auto; }
+.tv-help { display: inline-flex; align-items: center; justify-content: center; width: 15px; height: 15px; margin-left: 6px; border: 1px solid var(--border); border-radius: 50%; font-family: var(--sans); font-size: 9.5px; font-weight: 700; line-height: 1; color: var(--text2); cursor: default; flex: 0 0 auto; }
 .tv-help:hover { color: var(--amber); border-color: var(--amber); }
 .tv-row__k { display: inline-flex; align-items: center; }
+
+/* custom tooltip — positioned at the viewport level by tv.js (never clipped) */
+.tv-tip {
+  position: fixed; z-index: 60; display: none; max-width: 280px;
+  padding: 9px 12px; background: var(--bar); color: var(--text);
+  border: 1px solid var(--border); border-left: 3px solid var(--amber); border-radius: 4px;
+  font-family: var(--sans); font-size: 13px; line-height: 1.5; font-weight: 400; letter-spacing: 0; text-transform: none;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.35); pointer-events: none;
+}
 .tv-panel > .tv-row, .tv-panel > .tv-note, .tv-panel > .tv-sub, .tv-panel > .tv-secstatus { padding-left: 16px; padding-right: 16px; }
 
 .tv-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 9px 16px; }

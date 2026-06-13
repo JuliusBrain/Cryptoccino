@@ -1,18 +1,18 @@
 {
-  "generated": "2026-06-13T08:23:02.561722+00:00",
-  "ts": 1781338982,
+  "generated": "2026-06-13T09:39:05.217442+00:00",
+  "ts": 1781343545,
   "market": [
     {
-      "headline": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "take": "Bitcoin steadies above $63,000 after its worst week in months",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue"
-    },
-    {
       "headline": "Bitcoin ETFs see $86M inflow as BlackRock\u2019s IBIT leads with $58M",
-      "take": "Bitcoin ETFs see $86M inflow as BlackRock's IBIT leads",
+      "take": "Bitcoin ETFs attract $86M inflow, BlackRock's IBIT leads with $58M",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-etfs-86m-inflow-blackrock-ibit/"
+    },
+    {
+      "headline": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
+      "take": "Bitcoin steadies above $63K after worst week in months, macro rescue late",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue"
     },
     {
       "headline": "Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12",
@@ -21,51 +21,51 @@
       "link": "https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/"
     },
     {
-      "headline": "United States borrowing costs rise amid global bond sell-off, squeezing crypto and traditional markets alike",
-      "take": "US borrowing costs rise amid global bond sell-off, squeezing crypto markets",
+      "headline": "US forces shoot down Iranian attack drones near Strait of Hormuz, Bitcoin drops below $73K",
+      "take": "Iran drone attack near Strait of Hormuz sends Bitcoin below $73K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-borrowing-costs-rise-global-bond-sell-off/"
+      "link": "https://cryptobriefing.com/us-shoots-down-iran-drones-bitcoin-drops/"
     }
   ],
   "business": [
     {
       "headline": "NEURA Robotics raises $1.4B to build global data collection facilities, with Tether leading the charge",
-      "take": "NEURA Robotics raises $1.4B for global data collection with Tether leading",
+      "take": "NEURA Robotics raises $1.4B for global data collection, Tether leads round",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/neura-robotics-raises-1b-data-facilities/"
     },
     {
+      "headline": "Crypto\u2019s World Cup moment grows as Kraken, Algorand, and Chiliz deepen FIFA ties",
+      "take": "Kraken, Algorand, and Chiliz deepen FIFA partnership ties for World Cup",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-world-cup-kraken-algorand-chiliz-fifa/"
+    },
+    {
       "headline": "AMP PBC wants to turn GPUs into a utility, and it has $1.3 billion to try",
-      "take": "AMP PBC wants to turn GPUs into a utility with $1.3B",
+      "take": "AMP PBC secures $1.3B to transform GPUs into decentralized utility infrastructure",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/amp-pbc-gpus-utility-compute-grid/"
     },
     {
-      "headline": "Kraken\u2019s FIFA World Cup deal and rising fan tokens signal crypto\u2019s deepening sports play",
-      "take": "Kraken's FIFA World Cup deal signals crypto's deepening sports engagement",
+      "headline": "FIFA\u2019s attendance controversy highlights why blockchain ticketing advocates say the sport needs an upgrade",
+      "take": "FIFA ticketing issues spur blockchain advocates to push decentralized upgrade proposal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-fan-tokens-2/"
-    },
-    {
-      "headline": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
-      "take": "SpaceX IPO scramble reveals differences between tokenizing and traditional stock offerings",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one"
+      "link": "https://cryptobriefing.com/fifa-attendance-blockchain-ticketing-world-cup/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
-      "take": "CFTC sues New Mexico to assert authority over sports betting markets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss"
-    },
-    {
       "headline": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "take": "Top cryptographers disagree on Bitcoin's biggest quantum computing risk",
+      "take": "Top cryptographers remain divided on Bitcoin's quantum computing vulnerability risks",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question"
+    },
+    {
+      "headline": "Trump expects Iran deal finalization within days after call with Netanyahu",
+      "take": "Trump expects Iran nuclear deal finalization within days after Netanyahu call",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-iran-deal-bitcoin-impact-2/"
     }
   ]
 }

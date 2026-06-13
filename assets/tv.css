@@ -191,7 +191,8 @@ body.tv {
 
 /* DEEP DIVE ANALYSIS */
 .tv-deepdive { border-bottom: 1px solid var(--border); }
-.tv-deepdive__title { margin: 0; padding: 22px 28px 12px; font-family: var(--serif); font-weight: 600; font-size: 26px; color: var(--head); }
+.tv-deepdive__title { margin: 0; padding: 22px 28px 6px; font-family: var(--serif); font-weight: 600; font-size: 26px; color: var(--head); }
+.tv-deepdive__note { margin: 0; padding: 0 28px 14px; font-family: var(--sans); font-size: 12px; line-height: 1.55; color: var(--text2); max-width: 70ch; }
 .tv-deepdive__body { padding: 0 28px 20px; font-family: var(--sans); font-size: 14px; line-height: 1.75; color: var(--text2); column-count: 2; column-gap: 28px; }
 .tv-deepdive__body p { margin: 0 0 12px; break-inside: avoid; }
 .tv-expert { margin: 0; padding: 18px 28px 22px; border-top: 1px solid var(--border); display: grid; grid-template-columns: 44px 1fr; grid-template-areas: "avatar quote" "avatar by"; gap: 3px 16px; align-items: start; }

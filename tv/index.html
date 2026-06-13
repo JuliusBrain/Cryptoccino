@@ -101,6 +101,7 @@ title: "Cryptoccino TV"
     <!-- DEEP DIVE ANALYSIS (from the latest issue's beats) -->
     <section class="tv-deepdive">
       <h2 class="tv-deepdive__title">Deep Dive Analysis</h2>
+      <p class="tv-deepdive__note">The full write-ups from today&rsquo;s Cryptoccino brief &mdash; every story across markets, funding, security and policy, in a few sentences each. Curated every morning from ~15 crypto, security and policy news sources.</p>
       <div class="tv-deepdive__body">
         {%- for beat in lead.beats -%}{%- for it in beat.items -%}<p>{{ it.text | strip_html | escape }}</p>{%- endfor -%}{%- endfor -%}
       </div>

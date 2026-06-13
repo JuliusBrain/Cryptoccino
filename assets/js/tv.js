@@ -7,7 +7,6 @@
  *   sentiment     : alternative.me /fng
  *   derivatives   : Binance futures (funding + open interest)
  *   defi/yields   : DefiLlama
- *   security      : DefiLlama /hacks
  * Every call is wrapped; the static grid renders with "—" placeholders so the
  * page is useful even if a source fails. The data-fetching layer is unchanged
  * from the prior build — only the render layer + layout were rewritten.
@@ -206,39 +205,6 @@
         var last = cacheGet("tv-fng", 7 * 86400000); // last known, up to a week
         if (last) { LIVE.fearGreed = { value: last.value, label: last.label, stale: true }; renderMarket(); }
       });
-  }
-
-  /* ---------------- Security (DefiLlama /hacks, cached 30 min) ---------------- */
-  function computeSecurity(arr) {
-    var now = Date.now() / 1000, DAY = 86400;
-    var losses7d = 0, latest = null;
-    arr.forEach(function (h) {
-      var t = h.date; if (t == null) return;
-      if (t >= now - 7 * DAY) losses7d += (h.amount || 0);
-      // Only the most recent incident WITHIN 30 days counts as the "last
-      // incident"; older than that reads as "None in 30 days".
-      if (t >= now - 30 * DAY && (!latest || t > latest.date)) latest = h;
-    });
-    var state = "clear", label = "ALL CLEAR";
-    if (latest) {
-      var age = now - latest.date;
-      if (age <= DAY)          { state = "active"; label = "ACTIVE INCIDENT"; }
-      else if (age <= 7 * DAY) { state = "recent"; label = "RECENT INCIDENT"; }
-    }
-    var dateStr = latest ? new Date(latest.date * 1000).toLocaleDateString("en-GB", { day: "2-digit", month: "short" }).toUpperCase() : "";
-    return { state: state, statusLabel: label, losses7d: losses7d, lastName: latest && latest.name, lastDate: dateStr };
-  }
-  function loadSecurity() {
-    var cached = cacheGet("tv-sec", 30 * 60000);
-    if (cached) { renderSecurity(cached); return; }
-    fetch("https://api.llama.fi/hacks")
-      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
-      .then(function (arr) {
-        if (!Array.isArray(arr)) throw new Error("unexpected shape");
-        var o = computeSecurity(arr);
-        cacheSet("tv-sec", o); renderSecurity(o);
-      })
-      .catch(function (e) { console.warn("TV: security failed", e); renderSecurity(null); });
   }
 
   /* ============================================================
@@ -441,26 +407,6 @@
     stamp("upd-yields");
   }
 
-  /* ---- SECURITY ---- */
-  function renderSecurity(o) {
-    var light = $("sec-light"), wrap = $("sec-status"), label = $("sec-statuslabel"), losses = $("sec-losses"), last = $("sec-last");
-    if (!o) {
-      if (label) label.textContent = "DATA UNAVAILABLE";
-      if (light) light.setAttribute("data-state", "idle");
-      if (wrap) wrap.removeAttribute("data-state");
-      stamp("upd-sec"); return;
-    }
-    if (light) light.setAttribute("data-state", o.state);
-    if (wrap)  wrap.setAttribute("data-state", o.state);
-    if (label) label.textContent = o.statusLabel;
-    if (losses) { losses.textContent = o.losses7d > 0 ? fmtUSD(o.losses7d) : "$0"; losses.className = "tv-row__v" + (o.losses7d > 0 ? " tv-down" : " tv-muted"); }
-    if (last) {
-      if (o.lastName) { last.textContent = o.lastName + " · " + o.lastDate; last.className = "tv-row__v"; }
-      else { last.textContent = "None in 30 days"; last.className = "tv-row__v tv-up"; }
-    }
-    stamp("upd-sec");
-  }
-
   /* ============================================================
      CENTER CHARTS — two token-selectable 30-day price charts (Binance klines)
      ============================================================ */
@@ -646,7 +592,7 @@
     renderMarket(); renderDerivatives(); renderDeFi(); renderYields();
 
     // Stagger the initial burst by 200ms each.
-    var loaders = [loadDigest, loadContext, loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, loadSecurity, renderCenterCharts];
+    var loaders = [loadDigest, loadContext, loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, renderCenterCharts];
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
     setInterval(loadDigest, 30 * 60000);
@@ -658,7 +604,6 @@
     setInterval(loadDefi, 10 * 60000);
     setInterval(loadStables, 15 * 60000);
     setInterval(loadYields, 15 * 60000);
-    setInterval(loadSecurity, 30 * 60000);
     setInterval(renderCenterCharts, 30 * 60000);
   }
 

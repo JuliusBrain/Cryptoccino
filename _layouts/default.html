@@ -65,7 +65,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon-16x16.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
   <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/fraunces-latin-var.woff2' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
   <meta property="og:title" content="{{ og_title | escape }}">
   <meta property="og:description" content="{{ og_desc | escape }}">

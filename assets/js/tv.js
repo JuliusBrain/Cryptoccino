@@ -217,7 +217,7 @@
     funding:   { BTC: null, ETH: null, markBTC: null, markETH: null },
     oi:        { BTC: null, ETH: null, btcPrev: null, ethPrev: null },
     defi:      { totalTvl: null, topProtocols: [] },
-    stables:   { usdcPct: null, usdtPct: null },
+    stables:   { total: null, items: [] },
     yields:    { pools: [] },
     digest:    null,
     context:   null
@@ -334,20 +334,33 @@
       })
       .catch(function (e) { console.warn("TV: protocols failed", e); var b = $("defi-prot"); if (b && !LIVE.defi.topProtocols.length) b.innerHTML = '<p class="tv-note">DATA UNAVAILABLE</p>'; });
   }
+  // Segment colours for the stablecoin bar (top N), plus a muted "Other" bucket,
+  // so the breakdown always sums to 100% of total USD-pegged supply.
+  var STB_COLORS = ["#C09A4A", "#5A9A7A", "#6E92B4", "#B06AC8"];
+  var STB_OTHER = "#6A6258";
+  var STB_TOPN = 4;
   function loadStables() {
     fetch("https://stablecoins.llama.fi/stablecoins?includePrices=true")
       .then(function (r) { return r.json(); })
       .then(function (j) {
         var assets = j && j.peggedAssets; if (!Array.isArray(assets)) throw new Error("shape");
-        var total = 0, usdc = 0, usdt = 0;
+        var total = 0, rows = [];
         assets.forEach(function (a) {
           if (a.pegType !== "peggedUSD") return;
           var c = a.circulating && a.circulating.peggedUSD; if (c == null) return;
           total += c;
-          if (a.symbol === "USDC") usdc += c;
-          if (a.symbol === "USDT") usdt += c;
+          rows.push({ sym: a.symbol, value: c });
         });
-        if (total > 0) { LIVE.stables.usdcPct = usdc / total * 100; LIVE.stables.usdtPct = usdt / total * 100; }
+        if (total <= 0) throw new Error("no total");
+        rows.sort(function (x, y) { return y.value - x.value; });
+        var top = rows.slice(0, STB_TOPN), topSum = 0;
+        var items = top.map(function (r, i) {
+          topSum += r.value;
+          return { sym: r.sym, pct: r.value / total * 100, color: STB_COLORS[i] || STB_OTHER };
+        });
+        var otherPct = (total - topSum) / total * 100;
+        if (otherPct > 0.4) items.push({ sym: "OTHER", pct: otherPct, color: STB_OTHER });
+        LIVE.stables = { total: total, items: items };
         renderStables();
       })
       .catch(function (e) { console.warn("TV: stables failed", e); var w = $("stb-wrap"); if (w) w.style.display = "none"; });
@@ -367,11 +380,17 @@
   }
   function renderStables() {
     var s = LIVE.stables;
-    if (s.usdcPct == null) return;
-    setText("stb-val", "USDC " + s.usdcPct.toFixed(0) + "% · USDT " + s.usdtPct.toFixed(0) + "%");
-    var ub = $("stb-usdc-bar"), tb = $("stb-usdt-bar");
-    if (ub) ub.style.width = s.usdcPct + "%";
-    if (tb) tb.style.width = s.usdtPct + "%";
+    if (!s.items || !s.items.length) return;
+    setText("stb-val", fmtUSD(s.total));   // total USD-pegged stablecoin supply
+    var bar = $("stb-bar");
+    if (bar) bar.innerHTML = s.items.map(function (it) {
+      return '<span style="width:' + it.pct.toFixed(2) + '%;background:' + it.color + '"></span>';
+    }).join("");
+    var legend = $("stb-legend");
+    if (legend) legend.innerHTML = s.items.map(function (it) {
+      return '<span class="tv-stb__item"><i style="background:' + it.color + '"></i>' +
+        escapeHtml(it.sym) + ' ' + it.pct.toFixed(it.pct < 10 ? 1 : 0) + '%</span>';
+    }).join("");
   }
 
   /* ---- YIELDS: top filtered pools ---- */

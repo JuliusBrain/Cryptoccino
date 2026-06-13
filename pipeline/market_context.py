@@ -15,13 +15,12 @@ Usage: python -m pipeline.market_context [OUTPUT_PATH]
 import logging
 import os
 import sys
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import anthropic
 import requests
 
+from pipeline import llm
 from pipeline.cache import read_json, write_json
 from pipeline.prices import fetch_prices
 from pipeline.sentiment import fetch_fng
@@ -32,9 +31,7 @@ CACHE_PATH = Path("assets/data/market_context.json")
 GLOBAL_ENDPOINT = "https://api.coingecko.com/api/v3/global"
 REQUEST_TIMEOUT_S = 20
 
-MODEL = "claude-haiku-4-5-20251001"   # cheapest model the project uses; no fallback
-MAX_ATTEMPTS = 3
-BACKOFF_BASE_S = 2
+MODEL = llm.HAIKU   # cheapest model the project uses; no fallback
 MAX_OUTPUT_TOKENS = 256
 
 SYSTEM_PROMPT = (
@@ -82,39 +79,9 @@ def _build_prompt(prices, fng, glob):
 
 
 def _ask_claude(user_message):
-    """One-shot Haiku call with the same retry/backoff idiom as curate(); returns
-    the blurb text, or raises after exhausting attempts."""
-    client = anthropic.Anthropic(max_retries=0)
-    last_exc = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            response = client.messages.create(
-                model=MODEL,
-                max_tokens=MAX_OUTPUT_TOKENS,
-                system=SYSTEM_PROMPT,
-                messages=[{"role": "user", "content": user_message}],
-            )
-            text = response.content[0].text.strip()
-            usage = getattr(response, "usage", None)
-            if usage is not None:
-                logger.info(
-                    "market_context: ok (in=%s, out=%s tokens).",
-                    getattr(usage, "input_tokens", "?"), getattr(usage, "output_tokens", "?"),
-                )
-            return text
-        except anthropic.APIStatusError as exc:
-            code = getattr(exc, "status_code", None)
-            if code is not None and code < 500 and code != 529:
-                raise   # auth/config error — fail fast, don't burn retries
-            last_exc = exc
-        except (anthropic.RateLimitError, anthropic.APIConnectionError,
-                anthropic.InternalServerError) as exc:
-            last_exc = exc
-        logger.warning("market_context: attempt %d/%d failed: %s",
-                       attempt, MAX_ATTEMPTS, last_exc)
-        if attempt < MAX_ATTEMPTS:
-            time.sleep(BACKOFF_BASE_S * 2 ** (attempt - 1))
-    raise last_exc
+    """One-shot Haiku call returning the blurb text (plain text, no JSON parse),
+    or raising after attempts. build_context() catches that and keeps the cache."""
+    return llm.call([MODEL], SYSTEM_PROMPT, user_message, MAX_OUTPUT_TOKENS)
 
 
 def build_context():

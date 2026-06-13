@@ -17,12 +17,10 @@ Usage: python -m pipeline.news_digest [OUTPUT_PATH]
 import json
 import logging
 import sys
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import anthropic
-
+from pipeline import llm
 from pipeline.cache import read_json, write_json
 from pipeline.news import build_news
 
@@ -33,9 +31,7 @@ CATEGORIES = ["market", "business", "security", "policy"]
 MAX_CANDIDATES = 40
 MAX_PER_CATEGORY = 5
 
-MODEL = "claude-haiku-4-5-20251001"   # cheapest model; no fallback
-MAX_ATTEMPTS = 3
-BACKOFF_BASE_S = 2
+MODEL = llm.HAIKU   # cheapest model; no fallback
 MAX_OUTPUT_TOKENS = 1024
 
 SYSTEM_PROMPT = (
@@ -55,45 +51,18 @@ SYSTEM_PROMPT = (
 )
 
 
-def _strip_fences(text):
-    text = text.strip()
-    if text.startswith("```"):
-        text = text.split("\n", 1)[1] if "\n" in text else text[3:]
-        if text.rstrip().endswith("```"):
-            text = text.rstrip()[:-3]
-    return text.strip()
-
-
 def _prompt(items):
     lines = [f"{i}. [{it['source']}] {it['title']}" for i, it in enumerate(items, 1)]
     return "Headlines:\n" + "\n".join(lines)
 
 
 def _ask_claude(user_message):
-    """One-shot Haiku call returning the parsed JSON, or raising after attempts."""
-    client = anthropic.Anthropic(max_retries=0)
-    last_exc = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            resp = client.messages.create(
-                model=MODEL,
-                max_tokens=MAX_OUTPUT_TOKENS,
-                system=SYSTEM_PROMPT,
-                messages=[{"role": "user", "content": user_message}],
-            )
-            return json.loads(_strip_fences(resp.content[0].text))
-        except anthropic.APIStatusError as exc:
-            code = getattr(exc, "status_code", None)
-            if code is not None and code < 500 and code != 529:
-                raise  # auth/config error — fail fast
-            last_exc = exc
-        except (anthropic.RateLimitError, anthropic.APIConnectionError,
-                anthropic.InternalServerError, json.JSONDecodeError) as exc:
-            last_exc = exc
-        logger.warning("digest: attempt %d/%d failed: %s", attempt, MAX_ATTEMPTS, last_exc)
-        if attempt < MAX_ATTEMPTS:
-            time.sleep(BACKOFF_BASE_S * 2 ** (attempt - 1))
-    raise last_exc
+    """One-shot Haiku call returning the parsed JSON, or raising after attempts.
+    build_digest() catches that and falls open to the cached digest."""
+    return llm.call(
+        [MODEL], SYSTEM_PROMPT, user_message, MAX_OUTPUT_TOKENS,
+        parse=lambda raw: json.loads(llm.strip_fences(raw)),
+    )
 
 
 def build_digest():

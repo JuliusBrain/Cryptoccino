@@ -169,7 +169,7 @@ body.tv {
 
 /* WHAT IS THIS — one-line orientation for first-time viewers */
 .tv-intro { padding: 16px 30px; border-bottom: 1px solid var(--border); background: linear-gradient(180deg, rgba(212,154,26,0.05), transparent); }
-.tv-intro__text { margin: 0; font-family: var(--sans); font-size: 15.5px; line-height: 1.6; color: var(--text2); max-width: 70ch; }
+.tv-intro__text { margin: 0; font-family: var(--sans); font-size: 15.5px; line-height: 1.6; color: var(--text2); }
 .tv-intro__text strong { color: var(--amber); font-weight: 700; }
 
 .tv-sec { border-bottom: 1px solid var(--border); }

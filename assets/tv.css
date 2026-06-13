@@ -249,8 +249,10 @@ body.tv {
 .tv-subrow__c { font-family: var(--mono); font-size: 11.5px; min-width: 48px; text-align: right; }
 
 .tv-splitbar { display: flex; height: 10px; width: 100%; background: var(--bar); overflow: hidden; border-radius: 1px; }
-.tv-splitbar__usdc { background: #5A9A7A; }
-.tv-splitbar__usdt { background: #C09A4A; }
+.tv-splitbar > span { display: block; height: 100%; flex: 0 0 auto; }
+.tv-stb__legend { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 8px; }
+.tv-stb__item { display: inline-flex; align-items: center; gap: 5px; font-family: var(--mono); font-size: 11.5px; color: var(--text2); }
+.tv-stb__item i { width: 9px; height: 9px; border-radius: 2px; flex: 0 0 auto; }
 
 .tv-note { margin: 6px 0; font-family: var(--sans); font-size: 12px; font-style: italic; color: var(--note); }
 

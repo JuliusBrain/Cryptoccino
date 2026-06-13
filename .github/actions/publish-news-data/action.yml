@@ -1,0 +1,50 @@
+name: Publish to news-data branch
+description: >
+  Copy a generated JSON file onto the dedicated `news-data` branch via a
+  worktree, fast-forwarding from the current tip so coexisting files are
+  preserved. Fail-open: if the source file is absent (the generator chose not to
+  overwrite), skip without error. Inputs are read via env (not interpolated into
+  the script) so they can't inject shell.
+inputs:
+  file:
+    description: Path to the generated file (e.g. /tmp/news_digest.json). Skipped if absent.
+    required: true
+  name:
+    description: Filename to write on the news-data branch (e.g. news_digest.json).
+    required: true
+  message-prefix:
+    description: Commit message prefix (e.g. "digest" or "context").
+    required: true
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        SRC: ${{ inputs.file }}
+        DEST: ${{ inputs.name }}
+        PREFIX: ${{ inputs.message-prefix }}
+      run: |
+        if [ ! -f "$SRC" ]; then
+          echo "No file at $SRC (fail-open); keeping the prior one."
+          exit 0
+        fi
+        git config user.name  "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        # `git fetch origin news-data` only populates FETCH_HEAD under the
+        # single-branch checkout refspec, so base the worktree on FETCH_HEAD when
+        # the branch exists (keeps history linear → the push fast-forwards). Only
+        # create an orphan on the very first run, when the branch is absent.
+        if git fetch origin news-data --depth=1 2>/dev/null; then
+          git worktree add -B news-data /tmp/nd FETCH_HEAD
+        else
+          git worktree add --orphan -b news-data /tmp/nd
+        fi
+        cp "$SRC" "/tmp/nd/$DEST"
+        cd /tmp/nd
+        git add "$DEST"
+        if git diff --cached --quiet; then
+          echo "No change to $DEST, skipping commit."
+          exit 0
+        fi
+        git commit -m "$PREFIX: $(date -u +'%Y-%m-%d %H:%M') UTC"
+        git push origin news-data

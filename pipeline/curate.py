@@ -13,20 +13,20 @@ Cheaper fallback: claude-haiku-4-5-20251001.
 
 import json
 import logging
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import anthropic
 import yaml
+
+from pipeline import llm
 
 logger = logging.getLogger(__name__)
 
-# Primary first, cheaper fallback second. curate() retries each model with
-# backoff, then falls through to the next before giving up.
-MODELS = ["claude-sonnet-4-6", "claude-haiku-4-5-20251001"]
-MAX_ATTEMPTS_PER_MODEL = 3
-BACKOFF_BASE_S = 2
+# Primary first, cheaper fallback second; llm.call() retries each with backoff
+# then falls through. Names kept here for callers/tests that import them.
+MODELS = [llm.SONNET, llm.HAIKU]
+MAX_ATTEMPTS_PER_MODEL = llm.MAX_ATTEMPTS
+_strip_fences = llm.strip_fences   # re-export so existing imports keep working
 SYSTEM_PROMPT_PATH = "prompts/brief_system.md"
 CONFIG_PATH = "config/feeds.yaml"
 CANONICAL_BEATS = ["the_tape", "projects_money", "security_desk", "on_the_hill"]
@@ -119,15 +119,6 @@ def _build_user_message(items, max_per_beat, max_age_hours, fng=None):
     return "\n".join(lines)
 
 
-def _strip_fences(text):
-    text = text.strip()
-    if text.startswith("```"):
-        text = text.split("\n", 1)[1] if "\n" in text else text[3:]
-        if text.rstrip().endswith("```"):
-            text = text.rstrip()[:-3]
-    return text.strip()
-
-
 def _reorder_beats(beats):
     # Model output is untrusted: skip any beat missing an id rather than
     # KeyError-aborting an otherwise-publishable (and already-billed) run.
@@ -137,38 +128,6 @@ def _reorder_beats(beats):
         for beat_id in CANONICAL_BEATS
         if by_id.get(beat_id) and by_id[beat_id].get("items")
     ]
-
-
-def _is_retryable(exc):
-    """True for transient model failures worth retrying / falling back on.
-
-    A malformed-JSON response counts: the model may produce valid JSON on a
-    fresh attempt. Auth/config errors (400/401/403) are NOT retryable — they
-    fail fast so a broken key surfaces immediately instead of after backoff.
-    """
-    if isinstance(exc, json.JSONDecodeError):
-        return True
-    if isinstance(exc, (
-        anthropic.RateLimitError,
-        anthropic.APIConnectionError,   # includes APITimeoutError
-        anthropic.InternalServerError,
-    )):
-        return True
-    if isinstance(exc, anthropic.APIStatusError):
-        code = getattr(exc, "status_code", None)
-        return code is not None and (code >= 500 or code == 529)
-    return False
-
-
-def _log_usage(response, model):
-    usage = getattr(response, "usage", None)
-    if usage is not None:
-        logger.info(
-            "curate: ok on %s (in=%s, out=%s tokens).",
-            model,
-            getattr(usage, "input_tokens", "?"),
-            getattr(usage, "output_tokens", "?"),
-        )
 
 
 def curate(items, fng=None):
@@ -185,50 +144,16 @@ def curate(items, fng=None):
 
     user_message = _build_user_message(items, max_per_beat, max_age_hours, fng=fng)
 
-    # max_retries=0: our loop is the sole retry layer (no hidden SDK retries).
-    client = anthropic.Anthropic(max_retries=0)
-    request = dict(
-        max_tokens=MAX_OUTPUT_TOKENS,
-        system=system_prompt,
-        messages=[{"role": "user", "content": user_message}],
+    # Sonnet first, Haiku fallback; the shared helper retries each model with
+    # backoff. A malformed-JSON response is retryable (parse runs inside the
+    # loop); auth/config errors fail fast. Raises if every model is exhausted —
+    # curate has no fail-open, so the run fails rather than publish nothing.
+    result = llm.call(
+        MODELS, system_prompt, user_message, MAX_OUTPUT_TOKENS,
+        parse=lambda raw: json.loads(_strip_fences(raw)),
     )
-
-    last_exc = None
-    for model in MODELS:
-        for attempt in range(1, MAX_ATTEMPTS_PER_MODEL + 1):
-            raw = None
-            try:
-                response = client.messages.create(model=model, **request)
-                # Concatenate text blocks rather than indexing content[0]: an
-                # empty content list or a non-text first block would otherwise
-                # raise a non-retryable IndexError/AttributeError and abort the
-                # run. With "" the json.loads below raises JSONDecodeError, which
-                # IS retryable (a fresh attempt may return valid text).
-                raw = "".join(getattr(b, "text", "") for b in (response.content or []))
-                result = json.loads(_strip_fences(raw))
-                _log_usage(response, model)
-                result["beats"] = _reorder_beats(result.get("beats") or [])
-                return result
-            except Exception as exc:
-                if not _is_retryable(exc):
-                    raise
-                last_exc = exc
-                detail = (
-                    f" raw[:300]={raw[:300]!r}"
-                    if isinstance(exc, json.JSONDecodeError) and raw is not None
-                    else ""
-                )
-                logger.warning(
-                    "curate: %s attempt %d/%d failed: %s: %s%s",
-                    model, attempt, MAX_ATTEMPTS_PER_MODEL,
-                    exc.__class__.__name__, exc, detail,
-                )
-                if attempt < MAX_ATTEMPTS_PER_MODEL:
-                    time.sleep(BACKOFF_BASE_S * 2 ** (attempt - 1))
-        logger.warning("curate: %s exhausted; trying next model.", model)
-
-    logger.error("curate: all models exhausted.")
-    raise last_exc
+    result["beats"] = _reorder_beats(result.get("beats") or [])
+    return result
 
 
 if __name__ == "__main__":

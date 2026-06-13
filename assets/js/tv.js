@@ -30,8 +30,8 @@
   var BY_BINANCE = {}, BY_BINANCE_BY_LABEL = {};
   SYMBOLS.forEach(function (s) { BY_BINANCE[s.b] = s; BY_BINANCE_BY_LABEL[s.d] = s; });
 
-  var state = {};   // d -> { price, change, prev }
-  SYMBOLS.forEach(function (s) { state[s.d] = { price: null, change: null, prev: null }; });
+  var state = {};   // d -> { price, change }
+  SYMBOLS.forEach(function (s) { state[s.d] = { price: null, change: null }; });
 
   /* ---------------- formatting ---------------- */
   function fmtPrice(p) {
@@ -121,7 +121,7 @@
         if (isNaN(close)) return;
         if (!gotData) { gotData = true; console.info("TV: first WS tick", dta.s, dta.c); }
         var st = state[sym.d];
-        st.prev = st.price; st.price = close;
+        st.price = close;
         st.change = (open > 0) ? ((close - open) / open) * 100 : st.change;
         refreshTicker();
       } catch (e) { /* ignore a single malformed frame */ }
@@ -148,7 +148,7 @@
         SYMBOLS.forEach(function (s) {
           var row = j[s.cg]; if (!row) return;
           var st = state[s.d];
-          st.prev = st.price; st.price = row.usd;
+          st.price = row.usd;
           if (row.usd_24h_change != null) st.change = row.usd_24h_change;
         });
         refreshTicker();
@@ -237,8 +237,7 @@
   function pctClass(x, band) { band = band == null ? 0.1 : band; return x == null || isNaN(x) ? "" : Math.abs(x) < band ? "tv-amber" : x >= 0 ? "tv-up" : "tv-down"; }
   function escapeHtml(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function truncate(s, n) { s = String(s == null ? "" : s); return s.length > n ? s.slice(0, n) : s; }
-  var stampFmt = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Berlin", hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false });
-  function stamp(id) { var e = $(id); if (e) e.textContent = stampFmt.format(new Date()); }
+  function stamp(id) { var e = $(id); if (e) e.textContent = timeFmt.format(new Date()); }   // reuse the clock's HH:MM:SS formatter
   function setText(id, t) { var e = $(id); if (e) e.textContent = t; }
   function setVal(id, t, cls) { var e = $(id); if (!e) return; e.textContent = t; e.className = "tv-row__v" + (cls ? " " + cls : ""); }
 

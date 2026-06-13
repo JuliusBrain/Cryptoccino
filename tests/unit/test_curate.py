@@ -20,7 +20,7 @@ from pipeline.curate import (
 @pytest.fixture(autouse=True)
 def _no_sleep():
     """Skip real backoff sleeps so the retry tests stay instant."""
-    with patch("pipeline.curate.time.sleep"):
+    with patch("pipeline.llm.time.sleep"):
         yield
 
 
@@ -131,7 +131,7 @@ def _auth_error():
 class TestCurate:
     def test_returns_parsed_dict(self):
         with patch(
-            "pipeline.curate.anthropic.Anthropic",
+            "pipeline.llm.anthropic.Anthropic",
             _patched_anthropic(json.dumps(FAKE_ISSUE)),
         ):
             result = curate([SAMPLE_ITEM])
@@ -140,20 +140,20 @@ class TestCurate:
 
     def test_strips_fences_before_parsing(self):
         fenced = "```json\n" + json.dumps(FAKE_ISSUE) + "\n```"
-        with patch("pipeline.curate.anthropic.Anthropic", _patched_anthropic(fenced)):
+        with patch("pipeline.llm.anthropic.Anthropic", _patched_anthropic(fenced)):
             result = curate([SAMPLE_ITEM])
         assert result["last_sip"] == "quiet line"
 
     def test_retries_then_succeeds_on_bad_json(self):
         create = MagicMock(side_effect=[_resp("not json"), _resp(json.dumps(FAKE_ISSUE))])
-        with patch("pipeline.curate.anthropic.Anthropic", _factory(create)):
+        with patch("pipeline.llm.anthropic.Anthropic", _factory(create)):
             result = curate([SAMPLE_ITEM])
         assert result["pour"] == "one dry line"
         assert create.call_count == 2
 
     def test_retries_transient_api_error(self):
         create = MagicMock(side_effect=[_conn_error(), _resp(json.dumps(FAKE_ISSUE))])
-        with patch("pipeline.curate.anthropic.Anthropic", _factory(create)):
+        with patch("pipeline.llm.anthropic.Anthropic", _factory(create)):
             result = curate([SAMPLE_ITEM])
         assert result["last_sip"] == "quiet line"
         assert create.call_count == 2
@@ -164,7 +164,7 @@ class TestCurate:
                 return _resp("not json")          # primary never parses
             return _resp(json.dumps(FAKE_ISSUE))  # fallback succeeds
         create = MagicMock(side_effect=_create)
-        with patch("pipeline.curate.anthropic.Anthropic", _factory(create)):
+        with patch("pipeline.llm.anthropic.Anthropic", _factory(create)):
             result = curate([SAMPLE_ITEM])
         assert result["beats"][0]["id"] == "the_tape"
         models = {c.kwargs["model"] for c in create.call_args_list}
@@ -174,21 +174,21 @@ class TestCurate:
 
     def test_raises_after_exhausting_all_models(self):
         create = MagicMock(return_value=_resp("not json at all"))
-        with patch("pipeline.curate.anthropic.Anthropic", _factory(create)):
+        with patch("pipeline.llm.anthropic.Anthropic", _factory(create)):
             with pytest.raises(json.JSONDecodeError):
                 curate([SAMPLE_ITEM])
         assert create.call_count == MAX_ATTEMPTS_PER_MODEL * len(MODELS)
 
     def test_auth_error_fails_fast_without_fallback(self):
         create = MagicMock(side_effect=_auth_error())
-        with patch("pipeline.curate.anthropic.Anthropic", _factory(create)):
+        with patch("pipeline.llm.anthropic.Anthropic", _factory(create)):
             with pytest.raises(anthropic.AuthenticationError):
                 curate([SAMPLE_ITEM])
         assert create.call_count == 1
 
     def test_uses_sonnet_model(self):
         with patch(
-            "pipeline.curate.anthropic.Anthropic",
+            "pipeline.llm.anthropic.Anthropic",
             _patched_anthropic(json.dumps(FAKE_ISSUE)),
         ) as Anthropic:
             curate([SAMPLE_ITEM])
@@ -200,7 +200,7 @@ class TestCurate:
         # The real prompts/brief_system.md is read on each call. Verify it
         # ends up as the system parameter to messages.create.
         with patch(
-            "pipeline.curate.anthropic.Anthropic",
+            "pipeline.llm.anthropic.Anthropic",
             _patched_anthropic(json.dumps(FAKE_ISSUE)),
         ) as Anthropic:
             curate([SAMPLE_ITEM])
@@ -218,7 +218,7 @@ class TestCurate:
             ],
         }
         with patch(
-            "pipeline.curate.anthropic.Anthropic",
+            "pipeline.llm.anthropic.Anthropic",
             _patched_anthropic(json.dumps(unordered)),
         ):
             result = curate([SAMPLE_ITEM])

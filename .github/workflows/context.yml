@@ -39,24 +39,8 @@ jobs:
         run: python -m pipeline.market_context /tmp/context.json
 
       - name: Publish to the news-data branch
-        run: |
-          if [ ! -f /tmp/context.json ]; then
-            echo "No new context produced (fail-open); keeping the prior blurb."
-            exit 0
-          fi
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git fetch origin news-data --depth=1 2>/dev/null; then
-            git worktree add -B news-data /tmp/nd FETCH_HEAD
-          else
-            git worktree add --orphan -b news-data /tmp/nd
-          fi
-          cp /tmp/context.json /tmp/nd/context.json
-          cd /tmp/nd
-          git add context.json
-          if git diff --cached --quiet; then
-            echo "No context change, skipping commit."
-            exit 0
-          fi
-          git commit -m "context: $(date -u +'%Y-%m-%d %H:%M') UTC"
-          git push origin news-data
+        uses: ./.github/actions/publish-news-data
+        with:
+          file: /tmp/context.json
+          name: context.json
+          message-prefix: context

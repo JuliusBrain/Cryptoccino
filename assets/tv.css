@@ -25,7 +25,6 @@
   --head:   #ECE2D2;
   --newshead: #D2C2AA;
   --price:  #CFC3B2;
-  --quote:  #A89A88;
   --note:   #6E5E48;
 
   --serif: "Playfair Display", Georgia, serif;
@@ -57,7 +56,6 @@
   --head:   #2A1E12;
   --newshead: #43331F;
   --price:  #43331F;
-  --quote:  #5A4A39;
   --note:   #8A7B64;
 }
 
@@ -213,7 +211,7 @@ body.tv {
 .tv-panel > .tv-colhead { border-left: 3px solid var(--accent, var(--amber)); padding-left: 13px; }
 .tv-panel > .tv-colhead::before { color: var(--accent, var(--amber)); }
 
-/* "?" help badge — native title tooltip (no JS, not clipped by overflow) */
+/* "?" help badge — pairs with the JS-driven .tv-tip tooltip (see initTips/showTip) */
 .tv-help { display: inline-flex; align-items: center; justify-content: center; width: 15px; height: 15px; margin-left: 6px; border: 1px solid var(--border); border-radius: 50%; font-family: var(--sans); font-size: 9.5px; font-weight: 700; line-height: 1; color: var(--text2); cursor: default; flex: 0 0 auto; }
 .tv-help:hover { color: var(--amber); border-color: var(--amber); }
 .tv-row__k { display: inline-flex; align-items: center; }

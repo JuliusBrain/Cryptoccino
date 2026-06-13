@@ -215,7 +215,6 @@ body.tv {
 .tv-panel--deriv    { --accent: #B06AC8; }
 .tv-panel--defi     { --accent: var(--green); }
 .tv-panel--yields   { --accent: #3FA89A; }
-.tv-panel--security { --accent: var(--red); }
 .tv-panel > .tv-colhead { border-left: 3px solid var(--accent, var(--amber)); padding-left: 13px; }
 .tv-panel > .tv-colhead::before { color: var(--accent, var(--amber)); }
 
@@ -232,7 +231,7 @@ body.tv {
   font-family: var(--sans); font-size: 13px; line-height: 1.5; font-weight: 400; letter-spacing: 0; text-transform: none;
   box-shadow: 0 8px 24px rgba(0,0,0,0.35); pointer-events: none;
 }
-.tv-panel > .tv-row, .tv-panel > .tv-note, .tv-panel > .tv-sub, .tv-panel > .tv-secstatus { padding-left: 16px; padding-right: 16px; }
+.tv-panel > .tv-row, .tv-panel > .tv-note, .tv-panel > .tv-sub { padding-left: 16px; padding-right: 16px; }
 
 .tv-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 9px 16px; }
 .tv-row--col { flex-direction: column; align-items: stretch; gap: 7px; }
@@ -254,15 +253,6 @@ body.tv {
 .tv-splitbar__usdt { background: #C09A4A; }
 
 .tv-note { margin: 6px 0; font-family: var(--sans); font-size: 12px; font-style: italic; color: var(--note); }
-
-.tv-secstatus { margin: 0; padding: 11px 16px; display: flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; letter-spacing: .08em; color: var(--text2); }
-.tv-secdot { width: 9px; height: 9px; border-radius: 50%; background: var(--text2); flex: 0 0 auto; }
-.tv-secstatus[data-state="clear"]  .tv-secdot, .tv-secdot[data-state="clear"]  { background: var(--green); }
-.tv-secstatus[data-state="recent"] .tv-secdot, .tv-secdot[data-state="recent"] { background: var(--amber); }
-.tv-secstatus[data-state="active"] .tv-secdot, .tv-secdot[data-state="active"] { background: var(--red); animation: tv-pulse 1.2s ease-in-out infinite; }
-.tv-secstatus[data-state="clear"]  { color: var(--green); }
-.tv-secstatus[data-state="recent"] { color: var(--amber); }
-.tv-secstatus[data-state="active"] { color: var(--red); }
 
 /* ========================= BOTTOM TICKER ============================== */
 .tv-ticker { grid-area: ticker; background: var(--bar); border-top: 1px solid var(--border); overflow: hidden; display: flex; align-items: center; }
@@ -303,5 +293,5 @@ body.tv {
 
 @media (prefers-reduced-motion: reduce) {
   .tv-ticker__track.is-rolling { animation: none; }
-  .tv-live.is-live .tv-live__dot, .tv-secstatus[data-state="active"] .tv-secdot { animation: none; }
+  .tv-live.is-live .tv-live__dot { animation: none; }
 }

@@ -28,8 +28,8 @@
     { d: "OP",   b: "OPUSDT",   cg: "optimism" },
     { d: "POL",  b: "POLUSDT",  cg: "matic-network" }
   ];
-  var BY_BINANCE = {};
-  SYMBOLS.forEach(function (s) { BY_BINANCE[s.b] = s; });
+  var BY_BINANCE = {}, BY_BINANCE_BY_LABEL = {};
+  SYMBOLS.forEach(function (s) { BY_BINANCE[s.b] = s; BY_BINANCE_BY_LABEL[s.d] = s; });
 
   var state = {};   // d -> { price, change, prev }
   SYMBOLS.forEach(function (s) { state[s.d] = { price: null, change: null, prev: null }; });
@@ -163,7 +163,6 @@
   }
 
   /* ---------------- market metrics (CoinGecko /global) ---------------- */
-  var btcDominance = null;   // cached for the dominance chart fallback
   function loadGlobal() {
     fetch("https://api.coingecko.com/api/v3/global")
       .then(function (r) { return r.json(); })
@@ -171,7 +170,6 @@
         var d = j && j.data; if (!d) throw new Error("no data");
         var dom = d.market_cap_percentage && d.market_cap_percentage.btc;
         var vol = d.total_volume && d.total_volume.usd;
-        if (dom != null) { btcDominance = dom; if (domPending) drawDomFromCurrent(); }
         setText("m-dom", dom != null ? dom.toFixed(1) + "%" : "—");
         setText("m-vol", fmtCompact(vol));
         stamp("upd-market"); stamp("upd-global");
@@ -254,7 +252,9 @@
     oi:        { BTC: null, ETH: null, btcPrev: null, ethPrev: null },
     defi:      { totalTvl: null, topProtocols: [] },
     stables:   { usdcPct: null, usdtPct: null },
-    yields:    { pools: [] }
+    yields:    { pools: [] },
+    digest:    null,
+    context:   null
   };
 
   /* ---- shared helpers ---- */
@@ -462,7 +462,7 @@
   }
 
   /* ============================================================
-     CENTER CHARTS — Chart.js (BTC 30d price + BTC dominance 30d)
+     CENTER CHARTS — two token-selectable 30-day price charts (Binance klines)
      ============================================================ */
   var monDay = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short" });
   function chartErr(id, on) { var e = $(id); if (e) e.hidden = !on; }
@@ -483,48 +483,92 @@
     });
     return true;
   }
-  function loadPriceChart() {
-    chartErr("btc-price-err", false);
-    fetch("https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=30")
+  // Two chart slots; each shows the selected token's 30-day price. Slot A defaults
+  // to BTC (amber), slot B to ETH (blue); the picker persists per slot.
+  var chartSel = { a: "BTC", b: "ETH" };
+  var CHART_COLOR = { a: ["#C8900A", "rgba(200,144,10,0.08)"], b: ["#5A7A9A", "rgba(90,122,154,0.08)"] };
+  function binanceSymbol(d) { var s = BY_BINANCE_BY_LABEL[d]; return s ? s.b : (d + "USDT"); }
+  function loadChart(slot) {
+    var sym = chartSel[slot], canvasId = "chart-" + slot, errId = "chart-" + slot + "-err";
+    setText("chart-" + slot + "-title", sym + " / USD · 30 Day");
+    chartErr(errId, false);
+    fetch("https://api.binance.com/api/v3/klines?symbol=" + binanceSymbol(sym) + "&interval=1d&limit=30")
       .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
       .then(function (rows) {
         if (!Array.isArray(rows) || !rows.length) throw new Error("shape");
         var labels = rows.map(function (k) { return monDay.format(new Date(k[0])); });
         var data = rows.map(function (k) { return parseFloat(k[4]); });
-        if (!drawChart("btc-price-chart", labels, data, "#C8900A", "rgba(200,144,10,0.08)")) throw new Error("no Chart.js");
+        if (!drawChart(canvasId, labels, data, CHART_COLOR[slot][0], CHART_COLOR[slot][1])) throw new Error("no Chart.js");
       })
-      .catch(function (e) { console.warn("TV: price chart failed", e); chartErr("btc-price-err", true); });
+      .catch(function (e) { console.warn("TV: chart " + slot + " (" + sym + ") failed", e); chartErr(errId, true); });
   }
-  function recentDayLabels(n) {
-    var out = [], day = 86400000, now = Date.now();
-    for (var i = n - 1; i >= 0; i--) out.push(monDay.format(new Date(now - i * day)));
-    return out;
+  function renderCenterCharts() { loadChart("a"); loadChart("b"); }
+  function initChartPickers() {
+    ["a", "b"].forEach(function (slot) {
+      var saved = null; try { saved = localStorage.getItem("tv-chart-" + slot); } catch (e) {}
+      if (saved && BY_BINANCE_BY_LABEL[saved]) chartSel[slot] = saved;
+      var sel = $("chart-" + slot + "-sym"); if (!sel) return;
+      sel.value = chartSel[slot];
+      sel.addEventListener("change", function () {
+        if (!BY_BINANCE_BY_LABEL[sel.value]) return;
+        chartSel[slot] = sel.value;
+        try { localStorage.setItem("tv-chart-" + slot, sel.value); } catch (e) {}
+        loadChart(slot);
+      });
+    });
   }
-  // Flat line at the current dominance — used when the historical endpoint is
-  // unavailable (it is not on CoinGecko's free tier). Reuses btcDominance from
-  // loadGlobal instead of firing a second /global request; if it isn't cached
-  // yet, defers until loadGlobal populates it (see the domPending hook there).
-  var domPending = false;
-  function drawDomFromCurrent() {
-    if (btcDominance == null) { domPending = true; return; }
-    domPending = false;
-    var labels = recentDayLabels(30), data = labels.map(function () { return btcDominance; });
-    if (!drawChart("btc-dom-chart", labels, data, "#5A7A9A", "rgba(90,122,154,0.08)")) chartErr("btc-dom-err", true);
-  }
-  function loadDomChart() {
-    chartErr("btc-dom-err", false);
-    fetch("https://api.coingecko.com/api/v3/global/market_cap_chart?days=30")
+
+  /* ============================================================
+     NEWS DIGEST — Haiku-deduped headlines (news_digest.json, news-data branch).
+     Headlines/takes/sources are untrusted → escaped; links validated to http(s).
+     ============================================================ */
+  var DIGEST_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/news_digest.json";
+  var DIGEST_CATS = [["market", "MARKET"], ["business", "BUSINESS"], ["security", "SECURITY"], ["policy", "POLICY"]];
+  function loadDigest() {
+    fetch(DIGEST_URL + "?t=" + Math.floor(Date.now() / 300000))   // bust raw's ~5-min cache
       .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
-      .then(function (j) {
-        var series = j && j.market_cap_chart && (j.market_cap_chart.btc_dominance_percentage || j.market_cap_chart.dominance_percentage);
-        if (!Array.isArray(series) || !series.length) throw new Error("no dominance series");
-        var labels = series.map(function (p) { return monDay.format(new Date(p[0])); });
-        var data = series.map(function (p) { return p[1]; });
-        if (!drawChart("btc-dom-chart", labels, data, "#5A7A9A", "rgba(90,122,154,0.08)")) throw new Error("no Chart.js");
-      })
-      .catch(function () { drawDomFromCurrent(); });
+      .then(function (o) { LIVE.digest = o; renderDigest(); })
+      .catch(function (e) { console.warn("TV: digest failed", e); renderDigest(); });
   }
-  function renderCenterCharts() { loadPriceChart(); loadDomChart(); }
+  function renderDigest() {
+    var box = $("digest-list"); if (!box) return;
+    var d = LIVE.digest;
+    if (!d) { box.innerHTML = '<li class="tv-dg__empty">No digest yet.</li>'; return; }
+    var html = "";
+    DIGEST_CATS.forEach(function (c) {
+      var items = d[c[0]] || [];
+      if (!items.length) return;
+      html += '<li class="tv-dg__cat">' + c[1] + '</li>';
+      items.forEach(function (s) {
+        var href = /^https?:\/\//.test(s.link || "") ? s.link : "#";
+        html += '<li class="tv-dg__item"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +
+          '<span class="tv-dg__head">' + escapeHtml(s.headline) + '</span>' +
+          (s.take ? '<span class="tv-dg__take">' + escapeHtml(s.take) + '</span>' : '') +
+          '<span class="tv-dg__src">' + escapeHtml(s.source) + '</span></a></li>';
+      });
+    });
+    box.innerHTML = html || '<li class="tv-dg__empty">No digest yet.</li>';
+    stamp("upd-digest");
+  }
+
+  /* ============================================================
+     MARKET CONTEXT — Claude blurb (context.json, news-data branch); hide if none.
+     ============================================================ */
+  var CONTEXT_URL = "https://raw.githubusercontent.com/JuliusBrain/Cryptoccino/news-data/context.json";
+  function loadContext() {
+    fetch(CONTEXT_URL + "?t=" + Math.floor(Date.now() / 300000))
+      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
+      .then(function (o) { LIVE.context = o; renderContext(); })
+      .catch(function (e) { console.warn("TV: context failed", e); renderContext(); });
+  }
+  function renderContext() {
+    var sec = $("market-context"); if (!sec) return;
+    var t = LIVE.context && LIVE.context.text;
+    if (!t) { sec.hidden = true; return; }            // not generated yet → hide
+    setText("context-summary", t);                    // textContent — no innerHTML
+    sec.hidden = false;
+    stamp("upd-context");
+  }
 
   /* ---------------- theme toggle (dark ↔ Latte, persisted) ---------------- */
   function initTheme() {
@@ -568,14 +612,17 @@
     tick(); setInterval(tick, 1000);
     initTheme();
     initFullscreen();
+    initChartPickers();
     connectWS();
     // paint section structure with placeholders
     renderMarket(); renderDerivatives(); renderDeFi(); renderYields();
 
     // Stagger the initial burst by 200ms each.
-    var loaders = [loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, loadSecurity, renderCenterCharts];
+    var loaders = [loadDigest, loadContext, loadFng, loadGlobal, loadFunding, loadOI, loadDefi, loadStables, loadYields, loadSecurity, renderCenterCharts];
     loaders.forEach(function (fn, i) { setTimeout(fn, i * 200); });
 
+    setInterval(loadDigest, 30 * 60000);
+    setInterval(loadContext, 30 * 60000);
     setInterval(loadFng, 5 * 60000);
     setInterval(loadGlobal, 60000);
     setInterval(loadFunding, 60000);

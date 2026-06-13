@@ -538,7 +538,7 @@
     DIGEST_CATS.forEach(function (c) {
       var items = d[c[0]] || [];
       if (!items.length) return;
-      html += '<li class="tv-dg__cat">' + c[1] + '</li>';
+      html += '<li class="tv-dg__cat tv-dg__cat--' + c[0] + '">' + c[1] + '</li>';
       items.forEach(function (s) {
         var href = /^https?:\/\//.test(s.link || "") ? s.link : "#";
         html += '<li class="tv-dg__item"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener noreferrer">' +

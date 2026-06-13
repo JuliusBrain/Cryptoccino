@@ -101,6 +101,7 @@ title: "Cryptoccino TV"
     <!-- DEEP DIVE ANALYSIS (from the latest issue's beats) -->
     <section class="tv-deepdive">
       <h2 class="tv-deepdive__title">Deep Dive Analysis</h2>
+      <p class="tv-deepdive__note">The full write-ups from today&rsquo;s Cryptoccino brief &mdash; every story across markets, funding, security and policy, in a few sentences each. Curated every morning from ~15 crypto, security and policy news sources.</p>
       <div class="tv-deepdive__body">
         {%- for beat in lead.beats -%}{%- for it in beat.items -%}<p>{{ it.text | strip_html | escape }}</p>{%- endfor -%}{%- endfor -%}
       </div>
@@ -118,49 +119,49 @@ title: "Cryptoccino TV"
   <aside class="tv-side" id="side" aria-label="Market data">
 
     <!-- MARKET -->
-    <section class="tv-panel">
-      <p class="tv-colhead">MARKET<span class="tv-upd" id="upd-market"></span></p>
+    <section class="tv-panel tv-panel--market">
+      <p class="tv-colhead">MARKET<span class="tv-help" title="Overall market mood and size: sentiment, Bitcoin's share of total market cap, and 24-hour trading volume.">?</span><span class="tv-upd" id="upd-market"></span></p>
       <div class="tv-row tv-row--col">
-        <div class="tv-row__top"><span class="tv-row__k">FEAR / GREED</span><span class="tv-row__v" id="m-fng">&mdash;</span></div>
+        <div class="tv-row__top"><span class="tv-row__k">FEAR / GREED<span class="tv-help" title="Crypto Fear &amp; Greed Index (0-100): 0 = extreme fear, 100 = extreme greed. A contrarian sentiment gauge.">?</span></span><span class="tv-row__v" id="m-fng">&mdash;</span></div>
         <div class="tv-bar"><span class="tv-bar__fill" id="fng-bar"></span></div>
       </div>
-      <div class="tv-row"><span class="tv-row__k">BTC DOMINANCE</span><span class="tv-row__v" id="m-dom">&mdash;</span></div>
-      <div class="tv-row"><span class="tv-row__k">24H VOLUME</span><span class="tv-row__v" id="m-vol">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">BTC DOMINANCE<span class="tv-help" title="Bitcoin's share of total crypto market cap. Rising = money rotating into BTC; falling = into altcoins.">?</span></span><span class="tv-row__v" id="m-dom">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">24H VOLUME<span class="tv-help" title="Total value of all crypto traded across markets in the last 24 hours.">?</span></span><span class="tv-row__v" id="m-vol">&mdash;</span></div>
     </section>
 
     <!-- DERIVATIVES -->
-    <section class="tv-panel">
-      <p class="tv-colhead">DERIVATIVES<span class="tv-upd" id="upd-deriv"></span></p>
-      <div class="tv-row"><span class="tv-row__k">BTC FUNDING</span><span class="tv-row__v" id="fund-btc">&mdash;</span></div>
-      <div class="tv-row"><span class="tv-row__k">ETH FUNDING</span><span class="tv-row__v" id="fund-eth">&mdash;</span></div>
+    <section class="tv-panel tv-panel--deriv">
+      <p class="tv-colhead">DERIVATIVES<span class="tv-help" title="Futures-market signals: funding rates and open interest show how leveraged traders are and which way they're positioned.">?</span><span class="tv-upd" id="upd-deriv"></span></p>
+      <div class="tv-row"><span class="tv-row__k">BTC FUNDING<span class="tv-help" title="Perpetual-futures funding rate. Positive = longs pay shorts (leveraged bullish); negative = shorts pay longs.">?</span></span><span class="tv-row__v" id="fund-btc">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">ETH FUNDING<span class="tv-help" title="Perpetual-futures funding rate. Positive = longs pay shorts (leveraged bullish); negative = shorts pay longs.">?</span></span><span class="tv-row__v" id="fund-eth">&mdash;</span></div>
       <p class="tv-note" id="deriv-note">&mdash;</p>
-      <div class="tv-row"><span class="tv-row__k">BTC OI</span><span class="tv-row__v" id="oi-btc">&mdash;</span></div>
-      <div class="tv-row"><span class="tv-row__k">ETH OI</span><span class="tv-row__v" id="oi-eth">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">BTC OI<span class="tv-help" title="Open interest: total value of outstanding BTC futures contracts. Rising = new leverage entering.">?</span></span><span class="tv-row__v" id="oi-btc">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">ETH OI<span class="tv-help" title="Open interest: total value of outstanding ETH futures contracts. Rising = new leverage entering.">?</span></span><span class="tv-row__v" id="oi-eth">&mdash;</span></div>
     </section>
 
     <!-- DEFI -->
-    <section class="tv-panel">
-      <p class="tv-colhead">DEFI<span class="tv-upd" id="upd-defi"></span></p>
-      <div class="tv-row"><span class="tv-row__k">TOTAL TVL</span><span class="tv-row__v" id="defi-tvl">&mdash;</span></div>
+    <section class="tv-panel tv-panel--defi">
+      <p class="tv-colhead">DEFI<span class="tv-help" title="Decentralized-finance activity: total value locked, the largest protocols, and the USDC/USDT stablecoin split.">?</span><span class="tv-upd" id="upd-defi"></span></p>
+      <div class="tv-row"><span class="tv-row__k">TOTAL TVL<span class="tv-help" title="Total value locked: assets deposited across all DeFi protocols.">?</span></span><span class="tv-row__v" id="defi-tvl">&mdash;</span></div>
       <div class="tv-sub" id="defi-prot"></div>
       <div class="tv-row tv-row--col" id="stb-wrap">
-        <div class="tv-row__top"><span class="tv-row__k">STABLES</span><span class="tv-row__v" id="stb-val">&mdash;</span></div>
+        <div class="tv-row__top"><span class="tv-row__k">STABLES<span class="tv-help" title="Share of the stablecoin supply in USDC vs USDT - a proxy for where 'cash' sits in crypto.">?</span></span><span class="tv-row__v" id="stb-val">&mdash;</span></div>
         <div class="tv-splitbar"><span class="tv-splitbar__usdc" id="stb-usdc-bar"></span><span class="tv-splitbar__usdt" id="stb-usdt-bar"></span></div>
       </div>
     </section>
 
     <!-- YIELDS -->
-    <section class="tv-panel">
-      <p class="tv-colhead">YIELDS<span class="tv-upd" id="upd-yields"></span></p>
+    <section class="tv-panel tv-panel--yields">
+      <p class="tv-colhead">YIELDS<span class="tv-help" title="Top DeFi lending / liquidity-pool yields (APY), filtered for size and plausibility.">?</span><span class="tv-upd" id="upd-yields"></span></p>
       <div class="tv-sub" id="yields-list"><p class="tv-note">LOADING&hellip;</p></div>
     </section>
 
     <!-- SECURITY -->
-    <section class="tv-panel">
-      <p class="tv-colhead">SECURITY<span class="tv-upd" id="upd-sec"></span></p>
+    <section class="tv-panel tv-panel--security">
+      <p class="tv-colhead">SECURITY<span class="tv-help" title="On-chain exploits and hacks: recent incident status and 7-day losses, from DefiLlama's hack tracker.">?</span><span class="tv-upd" id="upd-sec"></span></p>
       <p class="tv-secstatus" id="sec-status"><span class="tv-secdot" id="sec-light" data-state="idle"></span><span id="sec-statuslabel">CHECKING&hellip;</span></p>
-      <div class="tv-row"><span class="tv-row__k">7D LOSSES</span><span class="tv-row__v" id="sec-losses">&mdash;</span></div>
-      <div class="tv-row"><span class="tv-row__k">LAST INCIDENT</span><span class="tv-row__v" id="sec-last">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">7D LOSSES<span class="tv-help" title="Total value lost to hacks and exploits in the last 7 days.">?</span></span><span class="tv-row__v" id="sec-losses">&mdash;</span></div>
+      <div class="tv-row"><span class="tv-row__k">LAST INCIDENT<span class="tv-help" title="The most recent on-chain exploit within 30 days (protocol and date), or None.">?</span></span><span class="tv-row__v" id="sec-last">&mdash;</span></div>
     </section>
   </aside>
 

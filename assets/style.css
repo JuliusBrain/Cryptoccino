@@ -219,6 +219,38 @@ header.site .brand .lockup {
   height: auto;
 }
 
+/* === Header actions (Cryptoccino TV button + roast toggle) === */
+.header-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+/* The TV button mirrors the site's primary filled-accent control (the pressed
+   roast pill): crema fill, cream text, a coffee-in-a-TV mark. */
+.tv-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  text-decoration: none;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--card);
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+}
+.tv-link:hover { background: var(--ink); border-color: var(--ink); }
+.tv-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.tv-link__ico { width: 1.05rem; height: 1.05rem; flex: 0 0 auto; display: block; }
+
 /* === Roast toggle (segmented control) === */
 .roast-toggle {
   display: inline-flex;

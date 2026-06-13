@@ -30,7 +30,7 @@ BACKOFF_BASE_S = 2
 SYSTEM_PROMPT_PATH = "prompts/brief_system.md"
 CONFIG_PATH = "config/feeds.yaml"
 CANONICAL_BEATS = ["the_tape", "projects_money", "security_desk", "on_the_hill"]
-MAX_OUTPUT_TOKENS = 8192
+MAX_OUTPUT_TOKENS = 16384   # headroom so a busy day's issue doesn't truncate mid-JSON
 
 JSON_SHAPE_EXAMPLE = {
     "pour": "one dry line on the mood of the day",
@@ -199,7 +199,12 @@ def curate(items, fng=None):
             raw = None
             try:
                 response = client.messages.create(model=model, **request)
-                raw = response.content[0].text
+                # Concatenate text blocks rather than indexing content[0]: an
+                # empty content list or a non-text first block would otherwise
+                # raise a non-retryable IndexError/AttributeError and abort the
+                # run. With "" the json.loads below raises JSONDecodeError, which
+                # IS retryable (a fresh attempt may return valid text).
+                raw = "".join(getattr(b, "text", "") for b in (response.content or []))
                 result = json.loads(_strip_fences(raw))
                 _log_usage(response, model)
                 result["beats"] = _reorder_beats(result.get("beats") or [])

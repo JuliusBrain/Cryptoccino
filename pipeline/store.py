@@ -23,6 +23,17 @@ def _hash(link):
     return hashlib.sha1(link.encode("utf-8")).hexdigest()
 
 
+def _item_key(item):
+    """Dedup key for an item. Normally its link; when a feed entry has no link,
+    fall back to title+source so blank-link items dedupe by content instead of
+    all collapsing onto sha1("") — which would drop every blank-link story after
+    the first was ever marked seen."""
+    link = (item.get("link") or "").strip()
+    if link:
+        return link
+    return "no-link:" + (item.get("title") or "").strip() + "|" + (item.get("source_id") or "")
+
+
 def init_db():
     """Create the SQLite database and seen table if they don't already exist."""
     Path(DB_PATH).parent.mkdir(parents=True, exist_ok=True)
@@ -44,7 +55,7 @@ def filter_new(items):
     with sqlite3.connect(DB_PATH) as conn:
         rows = conn.execute("SELECT url_hash FROM seen").fetchall()
     known = {row[0] for row in rows}
-    return [item for item in items if _hash(item["link"]) not in known]
+    return [item for item in items if _hash(_item_key(item)) not in known]
 
 
 def mark_seen(items):
@@ -54,7 +65,7 @@ def mark_seen(items):
         return
     today = date.today()
     rows = [
-        (_hash(item["link"]), item["link"], item["source_id"], today.isoformat())
+        (_hash(_item_key(item)), item.get("link", ""), item.get("source_id", ""), today.isoformat())
         for item in items
     ]
     cutoff = (today - timedelta(days=RETENTION_DAYS)).isoformat()

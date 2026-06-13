@@ -27,7 +27,7 @@
     plugins, and <base> hijacking, and pins network/image/font origins to self
     (+ Plausible). Defence-in-depth behind the server-side escaping in render.py.
   {%- endcomment -%}
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io https://cdnjs.buymeacoffee.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://cdn.buymeacoffee.com; font-src 'self' https://cdn.buymeacoffee.com; connect-src 'self' https://plausible.io https://www.buymeacoffee.com; frame-src https://www.buymeacoffee.com https://buymeacoffee.com; object-src 'none'; base-uri 'self'; form-action 'self'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io https://cdnjs.buymeacoffee.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://cdn.buymeacoffee.com https://img.buymeacoffee.com; font-src 'self' https://cdn.buymeacoffee.com; connect-src 'self' https://plausible.io https://www.buymeacoffee.com; frame-src https://www.buymeacoffee.com https://buymeacoffee.com; object-src 'none'; base-uri 'self'; form-action 'self'">
   {%- comment -%}
     Social/link-preview source. An issue page describes itself from its own
     front matter (lead headline + Pour + dated card). Every other page — the
@@ -146,6 +146,9 @@
           <path d="M13.5 11.6h1.1a1.2 1.2 0 0 1 0 2.4h-1.1"/>
         </svg>
         <span class="tv-link__text">Cryptoccino TV</span>
+      </a>
+      <a class="bmc-btn" href="https://www.buymeacoffee.com/adrianhetman" target="_blank" rel="noopener" aria-label="Buy me a coffee">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&#9749;&slug=adrianhetman&button_colour=ffe4a8&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" />
       </a>
       <div class="roast-toggle" role="group" aria-label="Theme">
         <button type="button" data-roast="latte" aria-pressed="true">Latte</button>

@@ -2,7 +2,7 @@
    Cryptoccino — theme tokens.
    Default :root is Latte (the default roast). Overrides via the
    html[data-roast="…"] attribute swap the same tokens for the other
-   roasts (Cappuccino / Flat White / Espresso) and the Newsprint style.
+   roasts (Cappuccino / Flat White / Espresso).
    Every theme-able colour reads through a variable; nothing outside
    this block hardcodes a roast colour.
    ============================================================ */
@@ -10,7 +10,7 @@
 :root {
   /* Latte — the default roast: near-white milk. The roasts read as a
      lightest → darkest gradient (Latte / Cappuccino / Flat White /
-     Espresso), with Newsprint as a separate black-and-white style. */
+     Espresso). */
   --bg:     #FCFAF5;   /* near-pure white, warm undertone */
   --card:   #FFFFFF;   /* pure white milk             */
   --panel:  #F2E9D5;   /* very light cream band        */
@@ -64,98 +64,6 @@ html[data-roast="espresso"] {
   --line:   #473628;
   --accent: #D9963C;
 }
-
-/* Blackletter for the Newsprint masthead nameplate (only downloaded when that
-   theme is active). Classic textura — UnifrakturCook 700, SIL OFL. */
-@font-face {
-  font-family: "Unifraktur Cook";
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url("fonts/unifrakturcook-700.woff2") format("woff2");
-}
-
-/* Newsprint — not a roast but a whole-style switch: a black-and-white broadsheet,
-   the kind of prop newspaper you'd see on 70s–90s TV. Cool grey newsprint, black
-   ink and rules, monochrome (no spot colour), a blackletter nameplate, and Times
-   headlines/body. Overrides fonts + grain so the page reads as a newspaper. */
-html[data-roast="newsprint"] {
-  --bg:     #EFEFEC;   /* light grey newsprint        */
-  --card:   #F8F8F6;   /* fresh sheet                 */
-  --panel:  #E3E3DF;   /* boxed column / panel grey   */
-  --ink:    #16171A;   /* black ink                   */
-  --soft:   #2F3033;   /* secondary ink               */
-  --mut:    #5C5D61;   /* caption grey (AA on paper)  */
-  --line:   #2B2C2F;   /* near-black rules            */
-  --accent: #1B1C1F;   /* monochrome — emphasis via weight/caps, not colour */
-  /* Newspaper type: Times headlines/body, typewriter labels. */
-  --display: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
-  --serif:   "Times New Roman", Times, "Liberation Serif", Georgia, serif;
-  --mono:    "Courier New", Courier, ui-monospace, monospace;
-  --grain-opacity: 0.06;
-  /* Flat: newspapers have no drop shadows. */
-  --shadow: none;
-  --shadow-sm: none;
-  /* Monochrome price moves — direction reads from the +/− sign, not colour. */
-  --price-up:        var(--ink);
-  --price-down:      var(--ink);
-  --price-up-tint:   transparent;
-  --price-down-tint: transparent;
-}
-/* Newspapers are flat with square corners — strip rounding + shadows site-wide
-   for this theme so every box reads as a ruled newspaper block. */
-html[data-roast="newsprint"] *,
-html[data-roast="newsprint"] *::before,
-html[data-roast="newsprint"] *::after {
-  border-radius: 0 !important;
-  box-shadow: none !important;
-}
-/* Coffee-toned beat banners → black-and-white to sit on the newsprint. */
-html[data-roast="newsprint"] .section-card {
-  filter: grayscale(1) contrast(1.06);
-}
-/* Justified, hyphenated body — the broadsheet column feel. */
-html[data-roast="newsprint"] article.issue blockquote,
-html[data-roast="newsprint"] section.lead p {
-  text-align: justify;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-}
-
-/* --- Front-page nameplate: centred blackletter under a folio rule. --- */
-html[data-roast="newsprint"] article.issue header {
-  text-align: center;
-  border-top: 2px solid var(--line);
-  border-bottom: 4px double var(--line);
-  padding: 0.9rem 0 1rem;
-  margin-bottom: 2.25rem;
-}
-html[data-roast="newsprint"] article.issue header::before {
-  content: "Late Edition · Cryptoccino.xyz · Price: One Espresso";
-  color: var(--ink);
-  letter-spacing: 0.16em;
-  border-bottom: 1px solid var(--line);
-  padding-bottom: 0.6rem;
-  margin-bottom: 0.85rem;
-}
-html[data-roast="newsprint"] article.issue header h1 {
-  font-family: "Unifraktur Cook", "Times New Roman", serif;
-  font-weight: 700;
-  text-transform: none;
-  letter-spacing: 0.01em;
-  font-size: clamp(2.1rem, 8vw, 3.4rem);
-  line-height: 1.02;
-}
-html[data-roast="newsprint"] article.issue .reading-time {
-  border-top: 1px solid var(--line);
-  margin-top: 0.9rem;
-  padding-top: 0.6rem;
-  text-transform: uppercase;
-  letter-spacing: 0.16em;
-}
-html[data-roast="newsprint"] section.lead h2 { font-weight: 700; }
-/* Keep links legible in a monochrome layout — underline on hover. */
-html[data-roast="newsprint"] a:hover { text-decoration: underline; }
 
 /* ============================================================
    Resets + transition (the "pour" between roasts).
@@ -219,15 +127,10 @@ header.site .brand .lockup {
   height: auto;
 }
 
-/* === Header actions: two right-aligned tiers — action buttons over a labelled
-   theme picker, so the toggle reads as its own control at a distinct height. === */
-.header-actions {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.7rem;
-}
-/* Row 1: the two CTAs, vertically centred and equal height. */
+/* === Header: the two CTAs sit inline with the brand on the top row (right-
+   aligned via the header's space-between); the labelled theme picker wraps to
+   its own row below. === */
+/* The two CTAs, vertically centred with the brand logo and equal height. */
 .header-buttons {
   display: inline-flex;
   align-items: center;
@@ -267,10 +170,13 @@ header.site .brand .lockup {
 .bmc-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .bmc-btn:hover { opacity: 0.9; }
 
-/* Row 2: the theme picker — a "Roast" label + the segmented toggle, so it's
-   unmistakably an appearance control rather than loose pills. */
+/* Row 2: the theme picker — a "Theme" label + the segmented toggle, so it's
+   unmistakably an appearance control rather than loose pills. flex-basis:100%
+   forces it onto its own line below the brand+buttons row; right-aligned. */
 .theme-picker {
-  display: inline-flex;
+  display: flex;
+  flex-basis: 100%;
+  justify-content: flex-end;
   align-items: center;
   gap: 0.5rem;
 }
@@ -914,14 +820,12 @@ footer.site a:hover { color: var(--accent); }
   .container { padding: 1.75rem 1rem 3rem; }
   header.site { gap: 0.75rem; }
   header.site .brand img { max-width: 260px; }
-  /* Full-width action column on phones: buttons left, the theme picker stacks
-     its label above the full-width roast grid. */
-  .header-actions { width: 100%; align-items: stretch; gap: 0.8rem; }
+  /* On phones the buttons sit left; the theme picker stacks its label above the
+     full-width roast grid. */
   .header-buttons { justify-content: flex-start; }
   .theme-picker { flex-direction: column; align-items: stretch; gap: 0.4rem; }
-  /* 5-way theme toggle as a full-width 2-col grid — two rows of two plus a
-     full-width fifth (Newsprint) — fits the narrowest phones with no overflow
-     and gives larger touch targets. */
+  /* 4-way theme toggle as a full-width 2x2 grid — fits the narrowest phones with
+     no overflow and gives larger touch targets. */
   .roast-toggle {
     font-size: 0.58rem;
     display: grid;
@@ -935,8 +839,8 @@ footer.site a:hover { color: var(--accent); }
     border-bottom: 1px solid var(--line);
   }
   .roast-toggle button:nth-child(2n) { border-right: none; }
-  .roast-toggle button:nth-child(5) { grid-column: 1 / -1; border-right: none; }
-  .roast-toggle button:last-child { border-bottom: none; }
+  /* Last row (the bottom two of the 2x2) has no rule beneath it. */
+  .roast-toggle button:nth-last-child(-n+2) { border-bottom: none; }
   article.issue h1 { font-size: 1.1rem; }
   section.lead h2 { font-size: 1.3rem; }
   section.lead p { margin: 0 0 1.4rem; }

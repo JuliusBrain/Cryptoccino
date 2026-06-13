@@ -1,90 +1,96 @@
 {
-  "generated": "2026-06-13T14:30:31.853156+00:00",
-  "ts": 1781361031,
+  "generated": "2026-06-13T16:51:10.235387+00:00",
+  "ts": 1781369470,
   "market": [
     {
-      "headline": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "take": "Bitcoin holds above $63k after worst week in months finds late support",
+      "headline": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
+      "take": "Bitcoin rises above $64,000 after peace deal expectations shift",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue"
+      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near"
+    },
+    {
+      "headline": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
+      "take": "Spot bitcoin ETFs see inflow return after five-day outflow streak",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "SpaceX sees rapid ETF adoption as holders surge from 4 to 40 on first trading day",
+      "take": "SpaceX ETF sees rapid adoption with holder surge on first day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacex-etf-adoption-blackrock-ipo/"
+    },
+    {
+      "headline": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
+      "take": "Tokenization mirrors twenty-trillion-dollar ETF boom as blockchain converges with AI",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says"
     },
     {
       "headline": "Perpetual futures could become crypto's next ETF moment",
-      "take": "Perpetual futures could emerge as crypto's next major ETF-scale moment",
+      "take": "Perpetual futures positioned as crypto's next major ETF-like institutional moment",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment"
-    },
-    {
-      "headline": "TradeXYZ SPCX perp trading volume exceeds $1.3B as SpaceX goes public",
-      "take": "TradeXYZ SPCX perpetual volume hits $1.3B following SpaceX public offering",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradexyz-spcx-perp-volume-billion/"
-    },
-    {
-      "headline": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
-      "take": "Twenty-five percent of Magnificent Eight firms now hold bitcoin strategically",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin"
-    },
-    {
-      "headline": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "take": "Leading cryptographers remain divided on Bitcoin's quantum computing risks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question"
     }
   ],
   "business": [
     {
-      "headline": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "take": "Morpho's $175M fundraise signals where crypto venture capital flows today",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "EDG faces FUT in first match at Masters London Playoffs as Coinbase partnership puts crypto in front of millions",
-      "take": "Coinbase partnership brings esports to millions during Masters London Playoffs",
+      "headline": "dYdX enables fiat deposits via Apple Pay, Google Pay, and cards",
+      "take": "dYdX enables fiat deposits via Apple Pay, Google Pay, and cards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/edg-fut-masters-london-coinbase-crypto/"
+      "link": "https://cryptobriefing.com/dydx-fiat-deposits-apple-pay-google-pay/"
     },
     {
-      "headline": "Kraken, Chainlink, and Chiliz ride crypto\u2019s biggest mainstream stage as FIFA World Cup kicks off",
-      "take": "Kraken, Chainlink, Chiliz gain mainstream exposure during FIFA World Cup",
+      "headline": "Solana Foundation partners with Alatau City to boost Kazakhstan\u2019s blockchain innovation ecosystem",
+      "take": "Solana Foundation partners with Alatau City to boost Kazakhstan blockchain ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-crypto-partnerships-kraken-chainlink/"
+      "link": "https://cryptobriefing.com/solana-foundation-alatau-city-partnership/"
     },
     {
-      "headline": "Crypto.com brings OG prediction markets to New York amid Knicks Finals run",
-      "take": "Crypto.com launches prediction markets in New York during Knicks Finals",
+      "headline": "Orderly lists SK Hynix token for trading with 10x leverage",
+      "take": "Orderly lists SK Hynix token for trading with ten-times leverage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-com-brings-og-prediction-markets-to-new-york-amid-knicks-finals-run/"
+      "link": "https://cryptobriefing.com/orderly-sk-hynix-token-10x-leverage/"
     },
     {
-      "headline": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
-      "take": "Ripple pushes AI agents toward XRP and RLUSD but USDC still dominates",
+      "headline": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
+      "take": "Wall Street moves past crypto pilots into deeper Ethereum integration",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc"
+      "link": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder"
     }
   ],
   "security": [
     {
+      "headline": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+      "take": "Google sues Chinese crime group for using Gemini AI in phishing",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams"
+    },
+    {
       "headline": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-      "take": "AI agent exploits bogus scan, leaves developer begging for crypto donations",
+      "take": "AI agent exploits dev via bogus scan, developer left seeking crypto donations",
       "source": "decrypt",
       "link": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations"
+    },
+    {
+      "headline": "Polymarket\u2019s fine print leads to student\u2019s $35K bet going to zero",
+      "take": "Polymarket's fine print leads to student's thirty-five-thousand-dollar bet loss",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-fine-print-student-bet-zero/"
     }
   ],
   "policy": [
     {
-      "headline": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
-      "take": "US government shuts Anthropic's most powerful AI model, pre-IPO shares fall",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model"
+      "headline": "Ethereum Foundation\u2019s Kohaku proposes post-quantum account protection for $0.07",
+      "take": "Ethereum Foundation proposes post-quantum account protection for minimal cost",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-kohaku-post-quantum-account-protection/"
     },
     {
-      "headline": "US Justice Department drops $1.8B anti-weaponization fund after bipartisan backlash",
-      "take": "Justice Department drops $1.8B anti-weaponization fund after bipartisan pushback",
+      "headline": "Anthropic shuts down access to AI models after US government ban on foreign nationals",
+      "take": "Anthropic shuts down AI model access after US government bans foreign nationals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doj-drops-anti-weaponization-fund/"
+      "link": "https://cryptobriefing.com/anthropic-shuts-down-ai-models-us-ban/"
     }
   ]
 }

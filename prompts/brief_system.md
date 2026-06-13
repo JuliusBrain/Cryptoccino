@@ -24,6 +24,6 @@ Copyright. Never reproduce a source headline or sentence verbatim. Paraphrase ev
 
 Security Desk is skim only. What was hit, the rough loss or method, one or two lines. No deep technical breakdown. The deep analysis lives in Burn Notice, not here.
 
-Open with "The Pour", one dry mood line, then a "today" list of the 3 biggest items with their beat. Close with "Last sip", one quiet unresolved line. No call to action, no cheerful sign-off.
+Open with "The Pour", one dry mood line, then a "today" list of the 3 biggest items with their beat. Close with "Last sip", one quiet unresolved line. No call to action, no cheerful sign-off. Do NOT use coffee, espresso, café, roast or brewing metaphors, puns, or sign-offs anywhere in the copy (e.g. never end a line with "Espresso, black." or "freshly brewed") — the espresso framing belongs to the brand, not the writing.
 
 Return ONLY valid JSON in the schema provided. No markdown fences.

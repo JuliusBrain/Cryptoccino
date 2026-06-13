@@ -535,21 +535,20 @@
     stamp("upd-context");
   }
 
-  /* ---------------- theme toggle (dark ↔ Latte, persisted) ---------------- */
+  /* ---------------- theme switch (espresso ↔ latte, persisted) ---------------- */
+  /* The active icon is driven purely by [data-theme] in CSS; JS just flips the
+     attribute, persists the choice, and reflects state via aria-pressed. */
   function initTheme() {
     var btn = $("themebtn"); if (!btn) return;
     var root = document.documentElement;
-    function syncLabel() {
-      // Label names the theme you'll switch TO.
-      btn.textContent = root.getAttribute("data-theme") === "latte" ? "DARK" : "LATTE";
-    }
-    syncLabel();   // the layout head already applied any saved theme pre-paint
+    function syncAria() { btn.setAttribute("aria-pressed", root.getAttribute("data-theme") === "latte" ? "true" : "false"); }
+    syncAria();   // the layout head already applied any saved theme pre-paint
     btn.addEventListener("click", function () {
       var toLatte = root.getAttribute("data-theme") !== "latte";
       if (toLatte) root.setAttribute("data-theme", "latte");
       else root.removeAttribute("data-theme");
       try { localStorage.setItem("tv-theme", toLatte ? "latte" : "dark"); } catch (e) {}
-      syncLabel();
+      syncAria();
     });
   }
 

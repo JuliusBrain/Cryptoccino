@@ -9,9 +9,8 @@ title: "Cryptoccino TV"
   - Left "News Digest" is the Haiku-deduped news_digest.json (fetched live by
     tv.js from the news-data branch).
   - Center: a one-line explainer, the clickable lead brief (links to the latest
-    issue), two token-selectable 30-day price charts, the Claude market-context
-    blurb (context.json, fetched by tv.js), and a Deep Dive built from the latest
-    issue's beats.
+    issue on the main site), two token-selectable 30-day price charts, and the
+    Claude market-context blurb (context.json, fetched by tv.js).
   - Right sidebar + charts + ticker are wired live by tv.js.
 {%- endcomment -%}
 {%- assign lead = site.posts.first -%}
@@ -33,7 +32,10 @@ title: "Cryptoccino TV"
       <span class="tv-live" id="livewrap"><span class="tv-live__dot" id="livedot"></span><span class="tv-live__label" id="livelabel">CONNECTING</span></span>
       <span class="tv-status">MARKETS 24/7</span>
       <span class="tv-updstamp" id="upd-global">--:--:--</span>
-      <button type="button" class="tv-themebtn" id="themebtn" aria-label="Toggle dark / Latte theme" title="Toggle dark / Latte theme">LATTE</button>
+      <button type="button" class="tv-themebtn" id="themebtn" aria-label="Switch theme: espresso (dark) or latte (light)" title="Switch theme: espresso / latte">
+        <span class="tv-themebtn__ico tv-themebtn__ico--espresso" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8.5h11v3.5a5 5 0 0 1-5 5h-1a5 5 0 0 1-5-5V8.5z"/><path d="M16 9.5h1.8a2.4 2.4 0 0 1 0 4.8H16"/><line x1="4" y1="20.5" x2="17" y2="20.5"/></svg></span>
+        <span class="tv-themebtn__ico tv-themebtn__ico--latte" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3.5h8l-1.1 15.6a2 2 0 0 1-2 1.9h-1.8a2 2 0 0 1-2-1.9L8 3.5z"/><line x1="8.3" y1="9.6" x2="15.7" y2="9.6"/></svg></span>
+      </button>
       <button type="button" class="tv-fsbtn" id="fsbtn" aria-label="Toggle fullscreen" title="Fullscreen">&#9974;</button>
     </div>
   </header>
@@ -98,21 +100,6 @@ title: "Cryptoccino TV"
       <p class="tv-context__body" id="context-summary"></p>
     </section>
 
-    <!-- DEEP DIVE ANALYSIS (from the latest issue's beats) -->
-    <section class="tv-deepdive">
-      <h2 class="tv-deepdive__title">Deep Dive Analysis</h2>
-      <p class="tv-deepdive__note">The full write-ups from today&rsquo;s Cryptoccino brief &mdash; every story across markets, funding, security and policy, in a few sentences each. Curated every morning from ~15 crypto, security and policy news sources.</p>
-      <div class="tv-deepdive__body">
-        {%- for beat in lead.beats -%}{%- for it in beat.items -%}<p>{{ it.text | strip_html | escape }}</p>{%- endfor -%}{%- endfor -%}
-      </div>
-      {%- if lead.expert_quote -%}
-      <figure class="tv-expert">
-        <div class="tv-expert__avatar" aria-hidden="true">{{ lead.expert_name | default: "CC" | slice: 0, 1 | upcase }}</div>
-        <blockquote class="tv-expert__quote">{{ lead.expert_quote | strip_html | escape }}</blockquote>
-        <figcaption class="tv-expert__by">{{ lead.expert_name | escape }}{% if lead.expert_title %} &middot; {{ lead.expert_title | escape }}{% endif %}</figcaption>
-      </figure>
-      {%- endif -%}
-    </section>
   </main>
 
   <!-- ===================== RIGHT: DATA SIDEBAR ====================== -->

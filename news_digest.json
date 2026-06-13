@@ -1,71 +1,90 @@
 {
-  "generated": "2026-06-13T09:39:05.217442+00:00",
-  "ts": 1781343545,
+  "generated": "2026-06-13T14:30:31.853156+00:00",
+  "ts": 1781361031,
   "market": [
     {
-      "headline": "Bitcoin ETFs see $86M inflow as BlackRock\u2019s IBIT leads with $58M",
-      "take": "Bitcoin ETFs attract $86M inflow, BlackRock's IBIT leads with $58M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-86m-inflow-blackrock-ibit/"
-    },
-    {
       "headline": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "take": "Bitcoin steadies above $63K after worst week in months, macro rescue late",
+      "take": "Bitcoin holds above $63k after worst week in months finds late support",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue"
     },
     {
-      "headline": "Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12",
-      "take": "Bitcoin and XRP spot ETFs see inflows while Ethereum records outflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/"
+      "headline": "Perpetual futures could become crypto's next ETF moment",
+      "take": "Perpetual futures could emerge as crypto's next major ETF-scale moment",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment"
     },
     {
-      "headline": "US forces shoot down Iranian attack drones near Strait of Hormuz, Bitcoin drops below $73K",
-      "take": "Iran drone attack near Strait of Hormuz sends Bitcoin below $73K",
+      "headline": "TradeXYZ SPCX perp trading volume exceeds $1.3B as SpaceX goes public",
+      "take": "TradeXYZ SPCX perpetual volume hits $1.3B following SpaceX public offering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-shoots-down-iran-drones-bitcoin-drops/"
+      "link": "https://cryptobriefing.com/tradexyz-spcx-perp-volume-billion/"
+    },
+    {
+      "headline": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
+      "take": "Twenty-five percent of Magnificent Eight firms now hold bitcoin strategically",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin"
+    },
+    {
+      "headline": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
+      "take": "Leading cryptographers remain divided on Bitcoin's quantum computing risks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question"
     }
   ],
   "business": [
     {
-      "headline": "NEURA Robotics raises $1.4B to build global data collection facilities, with Tether leading the charge",
-      "take": "NEURA Robotics raises $1.4B for global data collection, Tether leads round",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/neura-robotics-raises-1b-data-facilities/"
+      "headline": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "take": "Morpho's $175M fundraise signals where crypto venture capital flows today",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Crypto\u2019s World Cup moment grows as Kraken, Algorand, and Chiliz deepen FIFA ties",
-      "take": "Kraken, Algorand, and Chiliz deepen FIFA partnership ties for World Cup",
+      "headline": "EDG faces FUT in first match at Masters London Playoffs as Coinbase partnership puts crypto in front of millions",
+      "take": "Coinbase partnership brings esports to millions during Masters London Playoffs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-world-cup-kraken-algorand-chiliz-fifa/"
+      "link": "https://cryptobriefing.com/edg-fut-masters-london-coinbase-crypto/"
     },
     {
-      "headline": "AMP PBC wants to turn GPUs into a utility, and it has $1.3 billion to try",
-      "take": "AMP PBC secures $1.3B to transform GPUs into decentralized utility infrastructure",
+      "headline": "Kraken, Chainlink, and Chiliz ride crypto\u2019s biggest mainstream stage as FIFA World Cup kicks off",
+      "take": "Kraken, Chainlink, Chiliz gain mainstream exposure during FIFA World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amp-pbc-gpus-utility-compute-grid/"
+      "link": "https://cryptobriefing.com/fifa-world-cup-crypto-partnerships-kraken-chainlink/"
     },
     {
-      "headline": "FIFA\u2019s attendance controversy highlights why blockchain ticketing advocates say the sport needs an upgrade",
-      "take": "FIFA ticketing issues spur blockchain advocates to push decentralized upgrade proposal",
+      "headline": "Crypto.com brings OG prediction markets to New York amid Knicks Finals run",
+      "take": "Crypto.com launches prediction markets in New York during Knicks Finals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-attendance-blockchain-ticketing-world-cup/"
+      "link": "https://cryptobriefing.com/crypto-com-brings-og-prediction-markets-to-new-york-amid-knicks-finals-run/"
+    },
+    {
+      "headline": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+      "take": "Ripple pushes AI agents toward XRP and RLUSD but USDC still dominates",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
+      "take": "AI agent exploits bogus scan, leaves developer begging for crypto donations",
+      "source": "decrypt",
+      "link": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations"
+    }
+  ],
   "policy": [
     {
-      "headline": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "take": "Top cryptographers remain divided on Bitcoin's quantum computing vulnerability risks",
+      "headline": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
+      "take": "US government shuts Anthropic's most powerful AI model, pre-IPO shares fall",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question"
+      "link": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model"
     },
     {
-      "headline": "Trump expects Iran deal finalization within days after call with Netanyahu",
-      "take": "Trump expects Iran nuclear deal finalization within days after Netanyahu call",
+      "headline": "US Justice Department drops $1.8B anti-weaponization fund after bipartisan backlash",
+      "take": "Justice Department drops $1.8B anti-weaponization fund after bipartisan pushback",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-deal-bitcoin-impact-2/"
+      "link": "https://cryptobriefing.com/doj-drops-anti-weaponization-fund/"
     }
   ]
 }

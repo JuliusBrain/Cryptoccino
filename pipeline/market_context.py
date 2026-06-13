@@ -37,8 +37,10 @@ MAX_OUTPUT_TOKENS = 256
 SYSTEM_PROMPT = (
     "You write the 'Market Context' line for a crypto terminal. Given a few market "
     "figures, write 2-3 plain-English sentences explaining what they imply about the "
-    "current market mood. Be concrete and calm — no hype, no emojis, no financial "
-    "advice, no preamble. Output only the sentences."
+    "current market mood. Cover both Bitcoin and Ethereum (the two majors) — not BTC "
+    "alone — plus the broader signal (sentiment, dominance, volume) where it adds. "
+    "Be concrete and calm — no hype, no emojis, no financial advice, no preamble. "
+    "Output only the sentences."
 )
 
 

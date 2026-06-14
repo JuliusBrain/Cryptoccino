@@ -1,90 +1,90 @@
 {
-  "generated": "2026-06-13T22:32:36.948600+00:00",
-  "ts": 1781389956,
+  "generated": "2026-06-14T05:11:48.572960+00:00",
+  "ts": 1781413908,
   "market": [
     {
-      "headline": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-      "take": "Bitcoin rises above $64,000 after Iran peace deal signals improvement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near"
-    },
-    {
-      "headline": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-      "take": "Stablecoins intended for disruption have instead become idle cash reserves",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash"
-    },
-    {
-      "headline": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-      "take": "Tokenization market mirrors $20 trillion ETF boom as blockchain and AI converge",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says"
-    },
-    {
-      "headline": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "take": "Wall Street moves past crypto pilots into deeper Ethereum adoption",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder"
-    },
-    {
-      "headline": "Michael Saylor says investor confidence in Ethereum has collapsed",
-      "take": "Michael Saylor reports investor confidence in Ethereum has collapsed significantly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saylor-ethereum-confidence-collapsed/"
-    }
-  ],
-  "business": [
-    {
-      "headline": "SpaceX becomes eighth-largest public Bitcoin holder after IPO reveals 18,712 BTC stash",
-      "take": "SpaceX becomes eighth-largest public Bitcoin holder with 18,712 BTC after IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-eighth-largest-public-bitcoin-holder/"
-    },
-    {
       "headline": "Venice and Morpheus tokens climb as US ban on Anthropic\u2019s Fable 5 fuels \u2018permissionless AI\u2019 pitch",
-      "take": "Venice and Morpheus tokens climb as US ban fuels permissionless AI narrative",
+      "take": "Venice and Morpheus tokens rise on permissionless AI narrative after US ban",
       "source": "theblock",
       "link": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Over 60 crypto CEOs rally behind BRCA in push to protect non-custodial developers",
-      "take": "Over 60 crypto CEOs rally behind BRCA to protect non-custodial developers",
+      "headline": "China develops digital payments system to challenge US dollar dominance",
+      "take": "China develops digital payments system to challenge US dollar dominance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-ceos-support-brca-legislation/"
+      "link": "https://cryptobriefing.com/china-digital-yuan-challenge-us-dollar/"
+    },
+    {
+      "headline": "Trulieve becomes first major US cannabis operator to list on NYSE",
+      "take": "Trulieve becomes first major US cannabis operator to list on NYSE",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trulieve-first-cannabis-company-nyse-listing/"
+    },
+    {
+      "headline": "Wall Street digests record fundraising haul as AI race intensifies",
+      "take": "Wall Street digests record fundraising haul as AI race intensifies",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wall-street-record-ai-fundraising/"
+    },
+    {
+      "headline": "Three IPOs set to generate record wealth amid historic tech boom",
+      "take": "Three IPOs set to generate record wealth amid historic tech boom",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacex-openai-anthropic-record-ipos/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "UK and Japan finalize $24B investment and technology partnership",
+      "take": "UK and Japan finalize twenty-four billion dollar investment and technology partnership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-japan-24b-investment-tech-partnership-2/"
+    },
+    {
+      "headline": "FIFA World Cup 2026 kicks off with Germany vs Cura\u00e7ao as crypto partnerships reshape fan engagement",
+      "take": "FIFA World Cup 2026 kicks off with crypto partnerships reshaping fan engagement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-partnerships-kraken-chainlink/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto\u2019s next billion-dollar hacker may move at superhuman speed",
-      "take": "Crypto's next billion-dollar hacker may operate at superhuman speed",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed"
-    },
-    {
       "headline": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
-      "take": "Coinbase quantum report flags exchange cold wallets exposed by address reuse",
+      "take": "Coinbase report flags exchange cold wallets exposed by address reuse vulnerability",
       "source": "theblock",
       "link": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
-      "take": "Google sues Chinese crime group allegedly using Gemini AI for mass phishing",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams"
+      "headline": "India\u2019s income tax department issues 44,000 VDA tax notices, identifies $104M in undisclosed income",
+      "take": "India's tax department issues forty-four thousand VDA notices on undisclosed crypto income",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-vda-tax-notices-undisclosed-income/"
+    },
+    {
+      "headline": "Crypto\u2019s next billion-dollar hacker may move at superhuman speed",
+      "take": "Crypto's next billion-dollar hacker may operate at superhuman quantum speed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed"
     }
   ],
   "policy": [
     {
       "headline": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
-      "take": "US Government orders Anthropic to pull Claude Fable and Mythos AI models",
+      "take": "US government orders Anthropic to pull Claude Fable and Mythos AI models",
       "source": "decrypt",
       "link": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models"
     },
     {
-      "headline": "James McDonald nominated to replace Jay Clayton as US Attorney for SDNY",
-      "take": "James McDonald nominated to replace Jay Clayton as US Attorney for SDNY",
+      "headline": "CLARITY Act unlikely to pass by July 4 due to logistical issues",
+      "take": "CLARITY Act unlikely to pass by July fourth due to logistical issues",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/james-mcdonald-nominated-sdny-us-attorney/"
+      "link": "https://cryptobriefing.com/clarity-act-july-4-deadline-unlikely/"
+    },
+    {
+      "headline": "India debates AI future as Anthropic suspends access to new models",
+      "take": "India debates AI future as Anthropic suspends access to new models",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-ai-anthropic-suspension-sovereign-debate/"
     }
   ]
 }

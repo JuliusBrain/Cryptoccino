@@ -1,7 +1,13 @@
 {
-  "generated": "2026-06-14T16:48:36.319695+00:00",
-  "ts": 1781455716,
+  "generated": "2026-06-14T20:00:55.318805+00:00",
+  "ts": 1781467255,
   "market": [
+    {
+      "headline": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
+      "take": "Bitcoin could drop to $48,000 if historical chart pattern triggers",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered"
+    },
     {
       "headline": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
       "take": "Tokenized treasury markets reach $14.6 billion as Wall Street enters crypto",
@@ -9,52 +15,45 @@
       "link": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion"
     },
     {
-      "headline": "Michael Saylor teases another Strategy Bitcoin purchase for Monday",
-      "take": "Michael Saylor signals another major Bitcoin purchase planned for Monday",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saylor-teases-strategy-bitcoin-purchase/"
-    },
-    {
       "headline": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
-      "take": "Aerodrome upgrades liquidity protocol into prediction market platform",
+      "take": "Aerodrome launches prediction market upgrade to monetize liquidity",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet"
     }
   ],
   "business": [
     {
-      "headline": "Kraken becomes FIFA\u2019s first crypto exchange partner as 2026 World Cup kicks off",
-      "take": "Kraken becomes FIFA's first crypto exchange partner for 2026 World Cup",
+      "headline": "FIFA World Cup 2026 kicks off with crypto partnerships from Kraken, Chainlink, and Avalanche",
+      "take": "FIFA World Cup 2026 partners with Kraken, Chainlink, Avalanche for crypto integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-crypto-world-cup-2026-2/"
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-partnerships-2/"
     },
     {
-      "headline": "World Liberty Financial funds UFC fighter bonuses in USD1 stablecoin at White House event",
-      "take": "World Liberty Financial funds UFC fighter bonuses using USD1 stablecoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financial-usd1-ufc-white-house/"
+      "headline": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
+      "take": "Trump-backed World Liberty Financial sponsors UFC fighter bonuses in stablecoin",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Fetch.ai launches world\u2019s first agent marketplace with 3 million agents",
-      "take": "Fetch.ai launches world's first agent marketplace with three million agents",
+      "headline": "Cardano\u2019s Charles Hoskinson clarifies disputed 1,096 BTC payment from project\u2019s early days",
+      "take": "Cardano's Charles Hoskinson addresses disputed 1,096 BTC payment from early days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fetch-ai-agent-marketplace-3-million-agents/"
+      "link": "https://cryptobriefing.com/cardano-hoskinson-1096-btc-payment-clarification/"
     }
   ],
-  "security": [
-    {
-      "headline": "Chamath Palihapitiya warns Anthropic\u2019s prompt screening poses \u2018idiotic risk\u2019 for enterprises",
-      "take": "Chamath warns Anthropic's prompt screening creates significant enterprise risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chamath-anthropic-prompt-evaluation-enterprise-risk/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
       "headline": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-      "take": "SEC tokenization rule clarity unlikely despite regulatory push forward",
+      "take": "SEC's tokenization rule swing unlikely to achieve full regulatory resilience",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule"
+    },
+    {
+      "headline": "US Central Command redirects 142 ships, disables nine under Iran blockade as crypto becomes sanctions battleground",
+      "take": "US Central Command disables ships under Iran blockade as crypto becomes sanctions tool",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-central-command-iran-blockade-crypto-seizures/"
     }
   ]
 }

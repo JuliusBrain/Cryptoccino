@@ -1,60 +1,78 @@
 {
-  "generated": "2026-06-14T09:58:06.821730+00:00",
-  "ts": 1781431086,
+  "generated": "2026-06-14T14:33:18.900757+00:00",
+  "ts": 1781447598,
   "market": [
     {
-      "headline": "Backpack\u2019s BP token surges 27% after SpaceX stock debut on Solana",
-      "take": "Backpack's BP token surges 27% following SpaceX stock debut on Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-bp-token-surges-spacex-stock/"
+      "headline": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+      "take": "Tokenized treasury markets hit $14.6B as Wall Street and crypto converge",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion"
     },
     {
-      "headline": "Spain\u2019s World Cup ambitions are bullish for fan tokens, but the trade isn\u2019t what you think",
-      "take": "Spain's World Cup prospects create bullish narrative around fan tokens despite mixed trader interest",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spain-world-cup-fan-tokens-crypto/"
+      "headline": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+      "take": "SEC's tokenization path unlikely to achieve full regulatory resilience needed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule"
     },
     {
-      "headline": "Brazil\u2019s World Cup draw with Morocco sends fan tokens into focus",
-      "take": "Brazil's World Cup draw with Morocco draws renewed attention to fan token markets",
+      "headline": "Tim Scott predicts $30T crypto market cap with regulatory clarity",
+      "take": "Senator Scott forecasts $30T crypto market cap if regulatory clarity improves",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-world-cup-draw-fan-tokens/"
+      "link": "https://cryptobriefing.com/tim-scott-30t-crypto-market-cap-prediction/"
     }
   ],
   "business": [
     {
-      "headline": "FIFA World Cup kicks off June 14 with crypto partnerships from Kraken, Avalanche, and Chiliz in tow",
-      "take": "FIFA World Cup launches with major crypto partnerships including Kraken, Avalanche, Chiliz",
+      "headline": "FIFA World Cup 2026 crypto partnerships get massive visibility boost as tournament enters group stage",
+      "take": "FIFA World Cup 2026 crypto partnerships gain major visibility in group stage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-partnerships-3/"
+      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-partnerships-4/"
     },
     {
-      "headline": "FIFA taps Kraken as first-ever World Cup crypto sponsor as Ecuador opens against Ivory Coast",
-      "take": "Kraken becomes first-ever official World Cup crypto sponsor as tournament begins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-kraken-crypto-world-cup-2026/"
+      "headline": "Pok\u00e9mon Card Sales Are Surging on Crypto Platforms\u2014Just Don't Call It Gambling",
+      "take": "Pok\u00e9mon card sales surge on crypto platforms amid trading activity",
+      "source": "decrypt",
+      "link": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling"
     },
     {
-      "headline": "Abu Dhabi airports to accept Bitcoin and crypto payments through new fintech partnership",
-      "take": "Abu Dhabi airports integrate Bitcoin and crypto payments via new fintech partnership",
+      "headline": "Anthropic plans to control its own servers, discusses lease support with Google",
+      "take": "Anthropic plans independent server control, discusses lease with Google",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/abu-dhabi-airports-bitcoin-crypto-payments/"
+      "link": "https://cryptobriefing.com/anthropic-own-servers-google-lease-support/"
     }
   ],
   "security": [
     {
-      "headline": "UK armed forces intercept Russian shadow fleet in Channel, exposing crypto-powered sanctions evasion",
-      "take": "UK forces intercept Russian shadow fleet vessel, exposing crypto-powered sanctions evasion scheme",
+      "headline": "Humanity Protocol\u2019s $36M hack linked to suspected North Korean hackers, Quantstamp reports",
+      "take": "Humanity Protocol loses $36M in hack attributed to North Korean actors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-intercepts-russian-shadow-fleet-crypto/"
+      "link": "https://cryptobriefing.com/humanity-protocol-36m-hack-north-korean-hackers/"
+    },
+    {
+      "headline": "Machine intelligence exposes flaw in Zcash protocol, says creator Eli Ben-Sasson",
+      "take": "Machine intelligence uncovers vulnerability in Zcash protocol design",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zcash-flaw-ai-discovery-ben-sasson/"
     }
   ],
   "policy": [
     {
-      "headline": "Bangko Sentral ng Pilipinas bars VASPs from listing privacy tokens",
-      "take": "Philippines central bank prohibits VASPs from listing privacy coins on their platforms",
+      "headline": "Iran says US agreed to uranium dilution plan as crypto becomes key sanctions workaround",
+      "take": "Crypto becomes key sanctions workaround as Iran-US uranium talks progress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bsp-bans-vasps-privacy-tokens/"
+      "link": "https://cryptobriefing.com/iran-us-uranium-deal-crypto-sanctions/"
+    },
+    {
+      "headline": "British Armed Forces intercept sanctioned Russian oil tanker in Channel, exposing crypto\u2019s role in sanctions evasion",
+      "take": "Russian oil tanker interception exposes crypto's role in sanctions evasion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-intercepts-russian-tanker-usdt-sanctions/"
+    },
+    {
+      "headline": "Cura\u00e7ao makes World Cup debut as tiny island builds parallel ambitions in crypto regulation",
+      "take": "Cura\u00e7ao builds parallel crypto regulatory framework amid World Cup debut",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/curacao-world-cup-debut-crypto-regulation/"
     }
   ]
 }

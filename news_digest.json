@@ -1,78 +1,60 @@
 {
-  "generated": "2026-06-14T14:33:18.900757+00:00",
-  "ts": 1781447598,
+  "generated": "2026-06-14T16:48:36.319695+00:00",
+  "ts": 1781455716,
   "market": [
     {
       "headline": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
-      "take": "Tokenized treasury markets hit $14.6B as Wall Street and crypto converge",
+      "take": "Tokenized treasury markets reach $14.6 billion as Wall Street enters crypto",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion"
     },
     {
-      "headline": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-      "take": "SEC's tokenization path unlikely to achieve full regulatory resilience needed",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule"
+      "headline": "Michael Saylor teases another Strategy Bitcoin purchase for Monday",
+      "take": "Michael Saylor signals another major Bitcoin purchase planned for Monday",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/saylor-teases-strategy-bitcoin-purchase/"
     },
     {
-      "headline": "Tim Scott predicts $30T crypto market cap with regulatory clarity",
-      "take": "Senator Scott forecasts $30T crypto market cap if regulatory clarity improves",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tim-scott-30t-crypto-market-cap-prediction/"
+      "headline": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "take": "Aerodrome upgrades liquidity protocol into prediction market platform",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet"
     }
   ],
   "business": [
     {
-      "headline": "FIFA World Cup 2026 crypto partnerships get massive visibility boost as tournament enters group stage",
-      "take": "FIFA World Cup 2026 crypto partnerships gain major visibility in group stage",
+      "headline": "Kraken becomes FIFA\u2019s first crypto exchange partner as 2026 World Cup kicks off",
+      "take": "Kraken becomes FIFA's first crypto exchange partner for 2026 World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-partnerships-4/"
+      "link": "https://cryptobriefing.com/kraken-fifa-crypto-world-cup-2026-2/"
     },
     {
-      "headline": "Pok\u00e9mon Card Sales Are Surging on Crypto Platforms\u2014Just Don't Call It Gambling",
-      "take": "Pok\u00e9mon card sales surge on crypto platforms amid trading activity",
-      "source": "decrypt",
-      "link": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling"
+      "headline": "World Liberty Financial funds UFC fighter bonuses in USD1 stablecoin at White House event",
+      "take": "World Liberty Financial funds UFC fighter bonuses using USD1 stablecoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-liberty-financial-usd1-ufc-white-house/"
     },
     {
-      "headline": "Anthropic plans to control its own servers, discusses lease support with Google",
-      "take": "Anthropic plans independent server control, discusses lease with Google",
+      "headline": "Fetch.ai launches world\u2019s first agent marketplace with 3 million agents",
+      "take": "Fetch.ai launches world's first agent marketplace with three million agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-own-servers-google-lease-support/"
+      "link": "https://cryptobriefing.com/fetch-ai-agent-marketplace-3-million-agents/"
     }
   ],
   "security": [
     {
-      "headline": "Humanity Protocol\u2019s $36M hack linked to suspected North Korean hackers, Quantstamp reports",
-      "take": "Humanity Protocol loses $36M in hack attributed to North Korean actors",
+      "headline": "Chamath Palihapitiya warns Anthropic\u2019s prompt screening poses \u2018idiotic risk\u2019 for enterprises",
+      "take": "Chamath warns Anthropic's prompt screening creates significant enterprise risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/humanity-protocol-36m-hack-north-korean-hackers/"
-    },
-    {
-      "headline": "Machine intelligence exposes flaw in Zcash protocol, says creator Eli Ben-Sasson",
-      "take": "Machine intelligence uncovers vulnerability in Zcash protocol design",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-flaw-ai-discovery-ben-sasson/"
+      "link": "https://cryptobriefing.com/chamath-anthropic-prompt-evaluation-enterprise-risk/"
     }
   ],
   "policy": [
     {
-      "headline": "Iran says US agreed to uranium dilution plan as crypto becomes key sanctions workaround",
-      "take": "Crypto becomes key sanctions workaround as Iran-US uranium talks progress",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-us-uranium-deal-crypto-sanctions/"
-    },
-    {
-      "headline": "British Armed Forces intercept sanctioned Russian oil tanker in Channel, exposing crypto\u2019s role in sanctions evasion",
-      "take": "Russian oil tanker interception exposes crypto's role in sanctions evasion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-intercepts-russian-tanker-usdt-sanctions/"
-    },
-    {
-      "headline": "Cura\u00e7ao makes World Cup debut as tiny island builds parallel ambitions in crypto regulation",
-      "take": "Cura\u00e7ao builds parallel crypto regulatory framework amid World Cup debut",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/curacao-world-cup-debut-crypto-regulation/"
+      "headline": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+      "take": "SEC tokenization rule clarity unlikely despite regulatory push forward",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule"
     }
   ]
 }

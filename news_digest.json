@@ -1,84 +1,96 @@
 {
-  "generated": "2026-06-15T19:09:54.075382+00:00",
-  "ts": 1781550594,
+  "generated": "2026-06-15T23:11:39.646776+00:00",
+  "ts": 1781565099,
   "market": [
     {
-      "headline": "Total RWA market cap surpasses $43B as Ethereum leads with 58% share",
-      "take": "Real-world asset market cap exceeds $43B with Ethereum holding 58% share",
+      "headline": "US-Iran deal to reopen Strait of Hormuz set for signature on Friday, triggering $60B crypto rally",
+      "take": "US-Iran deal reopening Strait of Hormuz triggers oil drop, easing crypto market pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwa-market-cap-43b-ethereum-leads/"
+      "link": "https://cryptobriefing.com/us-iran-strait-hormuz-deal-crypto-rally/"
     },
     {
-      "headline": "Asian stocks surge on tentative US-Iran agreement, easing energy fears and lifting Bitcoin",
-      "take": "Asian stocks and Bitcoin surge on tentative US-Iran agreement easing energy concerns",
+      "headline": "Standard Chartered forecasts UNI to hit $100 by 2030 as RWAs move on-chain",
+      "take": "Standard Chartered forecasts UNI to $100 by 2030 as real-world assets move on-chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asian-stocks-surge-us-iran-agreement-bitcoin/"
+      "link": "https://cryptobriefing.com/standard-chartered-uni-100-forecast-rwa/"
     },
     {
-      "headline": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
-      "take": "Standard Chartered predicts Wall Street could boost Uniswap token nearly 40x by 2030",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered"
-    },
-    {
-      "headline": "Strategy supporters rebut \u2018death spiral\u2019 fears as bitcoin price wobbles",
-      "take": "Bitcoin price wobbles as strategy supporters counter death spiral concerns",
+      "headline": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
+      "take": "Spot HYPE ETFs near $900M volume signal growing institutional crypto demand",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3\u2019s biggest market",
+      "take": "SpaceX IPO fuels $1.4B trading frenzy on Hyperliquid, SPCX becomes largest market",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404804/spacex-ipo-1-4-billion-trading-frenzy-hyperliquid-spcx-perp-hip-3s-biggest-market?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "US consumers\u2019 inflation concerns rise to highest level since March 2025",
+      "take": "US consumer inflation concerns hit highest level since March 2025",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-consumer-inflation-concerns-highest-since-march-2025/"
     }
   ],
   "business": [
     {
-      "headline": "Hyperliquid evolves into a full-stack financial platform, and traditional exchanges should be paying attention",
-      "take": "Hyperliquid evolves into full-stack financial platform challenging traditional exchanges",
+      "headline": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+      "take": "Trump crypto company backs UFC event bonuses with USD1 stablecoins",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "South Korea prioritizes Bitcoin and cryptocurrency as national focus",
+      "take": "South Korea prioritizes Bitcoin and cryptocurrency as national economic focus",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-full-stack-defi-platform/"
+      "link": "https://cryptobriefing.com/south-korea-bitcoin-crypto-national-priority/"
     },
     {
-      "headline": "Linea and Bermuda Bay zk enable private, atomic cross-chain settlement",
-      "take": "Linea and Bermuda Bay zk enable private atomic cross-chain settlement",
+      "headline": "TetherIA launches $314 open-source Aero Hand Open for AI research",
+      "take": "TetherIA launches open-source Aero Hand platform for AI research",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/linea-bermuda-private-cross-chain-settlement/"
+      "link": "https://cryptobriefing.com/tetheria-aero-hand-open-source-robotics/"
     },
     {
-      "headline": "IREN enters Europe with acquisition of Spanish AI data center developer Nostrum",
-      "take": "IREN enters European market acquiring Spanish AI data center developer Nostrum",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "\u2018There\u2019s room for win-win outcomes\u2019: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
-      "take": "Forward Industries seeks to acquire smaller Solana DAO treasury firms despite past rejections",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss"
+      "headline": "Kraken\u2019s FIFA World Cup debut meets Lamine Yamal meme tokens as crypto circles the pitch",
+      "take": "Kraken debuts at FIFA World Cup as Lamine Yamal meme tokens circulate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-yamal-tokens/"
     }
   ],
   "security": [
     {
-      "headline": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
-      "take": "Anthropic faces lawsuit alleging misleading Claude AI pricing practices",
+      "headline": "UK sanctions hit crypto exchange Huobi over alleged Russian war financing network",
+      "take": "UK sanctions crypto exchange Huobi over alleged Russian war financing network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-sanctions-huobi-russia-crypto-network/"
+    },
+    {
+      "headline": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
+      "take": "Pudgy Penguins NFT game Pudgy Party shuts down less than one year after launch",
       "source": "decrypt",
-      "link": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing"
+      "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down"
+    },
+    {
+      "headline": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+      "take": "Judge dismisses Elon Musk's xAI trade secret lawsuit against OpenAI",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit"
     }
   ],
   "policy": [
     {
-      "headline": "Benchmark says SEC\u2019s NMS proposal is the \u2018most consequential\u2019 US crypto rule this year",
-      "take": "SEC's NMS proposal described as most consequential US crypto regulation this year",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss"
+      "headline": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
+      "take": "CFTC hires SEC crypto task force adviser with blockchain forensics expertise",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
-      "take": "Canadian PM urges AI diversification after US blocks Anthropic as decentralized tokens rally",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally"
-    },
-    {
-      "headline": "United States removes Oman from Iran negotiation role over duplicitous conduct",
-      "take": "US removes Oman from Iran negotiations citing duplicitous conduct in talks",
+      "headline": "Bolivia nears agreement on IMF financing after dollar peg shift",
+      "take": "Bolivia nears IMF financing agreement after shifting to dollar peg",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-removes-oman-iran-negotiation-role/"
+      "link": "https://cryptobriefing.com/bolivia-imf-financing-dollar-peg/"
     }
   ]
 }

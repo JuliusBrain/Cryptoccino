@@ -1,71 +1,101 @@
 {
-  "generated": "2026-06-15T05:30:48.682304+00:00",
-  "ts": 1781501448,
+  "generated": "2026-06-15T12:46:22.980063+00:00",
+  "ts": 1781527582,
   "market": [
     {
-      "headline": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
-      "take": "Bitcoin hits two-week high above $65,500 as US-Iran deal sends oil sliding",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding"
+      "headline": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
+      "take": "Bitcoin tops $65K on US-Iran deal, traders remain skeptical",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical"
     },
     {
-      "headline": "XRP climbs 4% above $1.18 as traders test next resistance zone",
-      "take": "XRP climbs 4% above $1.18 as traders test next resistance zone",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone"
+      "headline": "\u2018Still adding dots\u2019: Michael Saylor\u2019s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
+      "take": "Michael Saylor's Strategy adds 1,587 bitcoin for $100 million",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitcoin spot ETFs see $316M outflows, marking fifth week of decline",
-      "take": "Bitcoin spot ETFs see $316M outflows, marking fifth consecutive week of decline",
+      "headline": "Brent crude falls to $80 as markets react to Iran-US peace deal",
+      "take": "Brent crude falls to $80 as markets react to Iran-US peace deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-fifth-week-decline/"
+      "link": "https://cryptobriefing.com/brent-crude-falls-iran-us-peace-deal/"
     },
     {
-      "headline": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
-      "take": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss"
+      "headline": "Leverage Shares launches 2x long and short SpaceX ETFs as retail traders rush to play the IPO",
+      "take": "Leverage Shares launches 2x long and short SpaceX ETFs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/leverage-shares-spacex-leveraged-etfs/"
     },
     {
-      "headline": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in",
-      "take": "Crypto funds debate whether bitcoin bottom is in after recent volatility",
+      "headline": "Bernstein says Robinhood could see \u2018strong tailwinds\u2019 as World Cup drives record prediction market volumes",
+      "take": "Robinhood could see strong tailwinds as World Cup drives prediction market volumes",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/404731/bernstein-robinhood-strong-tailwinds-world-cup-record-prediction-market-volumes?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia",
-      "take": "ByteDance in talks to acquire AI chips from Iluvatar CoreX, moving away from Nvidia",
+      "headline": "SpaceX shares debut in largest IPO ever, triggering a crypto crossover nobody expected",
+      "take": "SpaceX shares debut in largest IPO ever, triggering crypto crossover",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bytedance-iluvatar-corex-ai-chips/"
+      "link": "https://cryptobriefing.com/spacex-ipo-crypto-tokenized-shares/"
     },
     {
-      "headline": "Schneider Electric and Foxconn form alliance to accelerate AI data center deployment",
-      "take": "Schneider Electric and Foxconn form alliance to accelerate AI data center deployment",
+      "headline": "Fox acquires Roku in $22B deal, reshaping the streaming and digital advertising landscape",
+      "take": "Fox acquires Roku in $22B deal, reshaping streaming landscape",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/schneider-foxconn-ai-data-center-alliance/"
+      "link": "https://cryptobriefing.com/fox-acquires-roku-22b-deal/"
+    },
+    {
+      "headline": "Salesforce reportedly in talks to acquire Fin for $3.6 billion in AI customer service push",
+      "take": "Salesforce reportedly in talks to acquire Fin for $3.6 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/salesforce-acquire-fin-ai-customer-service/"
+    },
+    {
+      "headline": "Avista pauses 500MW data center project amid community backlash in Spokane",
+      "take": "Avista pauses 500MW data center project amid community backlash",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/avista-pauses-500mw-data-center-spokane/"
+    },
+    {
+      "headline": "Nvidia plans to raise at least $20B from bond sale as AI chip demand surges",
+      "take": "Nvidia plans to raise at least $20B from bond sale",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-20-billion-bond-sale/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "United States and Iran reach peace agreement under Trump, ending months of military conflict",
-      "take": "United States and Iran reach peace agreement, ending months of military conflict",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-peace-agreement-trump-crypto-impact/"
+      "headline": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
+      "take": "Philippines issues stricter crypto listing rules, bans privacy coins",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins"
     },
     {
-      "headline": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal",
-      "take": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/europe-iran-sanctions-lift-us-deal/"
+      "headline": "Japan\u2019s Bitbank cracks down on Polymarket-linked transfers",
+      "take": "Japan's Bitbank cracks down on Polymarket-linked transfers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters",
-      "take": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters?utm_source=rss&utm_medium=rss"
+      "headline": "Macron stands firm on digital tax amid Trump tariff threats",
+      "take": "Macron stands firm on digital tax amid Trump tariff threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/macron-digital-tax-trump-tariff-threats/"
+    },
+    {
+      "headline": "G7 leaders to discuss AI opportunities and risks in finance at \u00c9vian summit",
+      "take": "G7 leaders to discuss AI opportunities and risks in finance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/g7-ai-finance-risks-opportunities/"
+    },
+    {
+      "headline": "Iran demands release of $12B in frozen funds before US talks",
+      "take": "Iran demands release of $12B in frozen funds before US talks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-demands-12b-frozen-funds-us-talks/"
     }
   ]
 }

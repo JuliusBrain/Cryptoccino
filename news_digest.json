@@ -1,101 +1,84 @@
 {
-  "generated": "2026-06-15T12:46:22.980063+00:00",
-  "ts": 1781527582,
+  "generated": "2026-06-15T19:09:54.075382+00:00",
+  "ts": 1781550594,
   "market": [
     {
-      "headline": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
-      "take": "Bitcoin tops $65K on US-Iran deal, traders remain skeptical",
+      "headline": "Total RWA market cap surpasses $43B as Ethereum leads with 58% share",
+      "take": "Real-world asset market cap exceeds $43B with Ethereum holding 58% share",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rwa-market-cap-43b-ethereum-leads/"
+    },
+    {
+      "headline": "Asian stocks surge on tentative US-Iran agreement, easing energy fears and lifting Bitcoin",
+      "take": "Asian stocks and Bitcoin surge on tentative US-Iran agreement easing energy concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/asian-stocks-surge-us-iran-agreement-bitcoin/"
+    },
+    {
+      "headline": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
+      "take": "Standard Chartered predicts Wall Street could boost Uniswap token nearly 40x by 2030",
       "source": "decrypt",
-      "link": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical"
+      "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered"
     },
     {
-      "headline": "\u2018Still adding dots\u2019: Michael Saylor\u2019s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
-      "take": "Michael Saylor's Strategy adds 1,587 bitcoin for $100 million",
+      "headline": "Strategy supporters rebut \u2018death spiral\u2019 fears as bitcoin price wobbles",
+      "take": "Bitcoin price wobbles as strategy supporters counter death spiral concerns",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Brent crude falls to $80 as markets react to Iran-US peace deal",
-      "take": "Brent crude falls to $80 as markets react to Iran-US peace deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-falls-iran-us-peace-deal/"
-    },
-    {
-      "headline": "Leverage Shares launches 2x long and short SpaceX ETFs as retail traders rush to play the IPO",
-      "take": "Leverage Shares launches 2x long and short SpaceX ETFs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/leverage-shares-spacex-leveraged-etfs/"
-    },
-    {
-      "headline": "Bernstein says Robinhood could see \u2018strong tailwinds\u2019 as World Cup drives record prediction market volumes",
-      "take": "Robinhood could see strong tailwinds as World Cup drives prediction market volumes",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404731/bernstein-robinhood-strong-tailwinds-world-cup-record-prediction-market-volumes?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX shares debut in largest IPO ever, triggering a crypto crossover nobody expected",
-      "take": "SpaceX shares debut in largest IPO ever, triggering crypto crossover",
+      "headline": "Hyperliquid evolves into a full-stack financial platform, and traditional exchanges should be paying attention",
+      "take": "Hyperliquid evolves into full-stack financial platform challenging traditional exchanges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-ipo-crypto-tokenized-shares/"
+      "link": "https://cryptobriefing.com/hyperliquid-full-stack-defi-platform/"
     },
     {
-      "headline": "Fox acquires Roku in $22B deal, reshaping the streaming and digital advertising landscape",
-      "take": "Fox acquires Roku in $22B deal, reshaping streaming landscape",
+      "headline": "Linea and Bermuda Bay zk enable private, atomic cross-chain settlement",
+      "take": "Linea and Bermuda Bay zk enable private atomic cross-chain settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fox-acquires-roku-22b-deal/"
+      "link": "https://cryptobriefing.com/linea-bermuda-private-cross-chain-settlement/"
     },
     {
-      "headline": "Salesforce reportedly in talks to acquire Fin for $3.6 billion in AI customer service push",
-      "take": "Salesforce reportedly in talks to acquire Fin for $3.6 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/salesforce-acquire-fin-ai-customer-service/"
+      "headline": "IREN enters Europe with acquisition of Spanish AI data center developer Nostrum",
+      "take": "IREN enters European market acquiring Spanish AI data center developer Nostrum",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Avista pauses 500MW data center project amid community backlash in Spokane",
-      "take": "Avista pauses 500MW data center project amid community backlash",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avista-pauses-500mw-data-center-spokane/"
-    },
-    {
-      "headline": "Nvidia plans to raise at least $20B from bond sale as AI chip demand surges",
-      "take": "Nvidia plans to raise at least $20B from bond sale",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-20-billion-bond-sale/"
+      "headline": "\u2018There\u2019s room for win-win outcomes\u2019: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
+      "take": "Forward Industries seeks to acquire smaller Solana DAO treasury firms despite past rejections",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+      "take": "Anthropic faces lawsuit alleging misleading Claude AI pricing practices",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing"
+    }
+  ],
   "policy": [
     {
-      "headline": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
-      "take": "Philippines issues stricter crypto listing rules, bans privacy coins",
+      "headline": "Benchmark says SEC\u2019s NMS proposal is the \u2018most consequential\u2019 US crypto rule this year",
+      "take": "SEC's NMS proposal described as most consequential US crypto regulation this year",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
+      "take": "Canadian PM urges AI diversification after US blocks Anthropic as decentralized tokens rally",
       "source": "decrypt",
-      "link": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins"
+      "link": "https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally"
     },
     {
-      "headline": "Japan\u2019s Bitbank cracks down on Polymarket-linked transfers",
-      "take": "Japan's Bitbank cracks down on Polymarket-linked transfers",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Macron stands firm on digital tax amid Trump tariff threats",
-      "take": "Macron stands firm on digital tax amid Trump tariff threats",
+      "headline": "United States removes Oman from Iran negotiation role over duplicitous conduct",
+      "take": "US removes Oman from Iran negotiations citing duplicitous conduct in talks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/macron-digital-tax-trump-tariff-threats/"
-    },
-    {
-      "headline": "G7 leaders to discuss AI opportunities and risks in finance at \u00c9vian summit",
-      "take": "G7 leaders to discuss AI opportunities and risks in finance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/g7-ai-finance-risks-opportunities/"
-    },
-    {
-      "headline": "Iran demands release of $12B in frozen funds before US talks",
-      "take": "Iran demands release of $12B in frozen funds before US talks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-demands-12b-frozen-funds-us-talks/"
+      "link": "https://cryptobriefing.com/us-removes-oman-iran-negotiation-role/"
     }
   ]
 }

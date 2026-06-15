@@ -1,65 +1,71 @@
 {
-  "generated": "2026-06-14T22:36:27.470545+00:00",
-  "ts": 1781476587,
+  "generated": "2026-06-15T05:30:48.682304+00:00",
+  "ts": 1781501448,
   "market": [
     {
-      "headline": "Bitcoin triggers $21M in liquidations during a single 5-minute candle",
-      "take": "Bitcoin liquidations spike to $21M during single five-minute candle",
+      "headline": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
+      "take": "Bitcoin hits two-week high above $65,500 as US-Iran deal sends oil sliding",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding"
+    },
+    {
+      "headline": "XRP climbs 4% above $1.18 as traders test next resistance zone",
+      "take": "XRP climbs 4% above $1.18 as traders test next resistance zone",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone"
+    },
+    {
+      "headline": "Bitcoin spot ETFs see $316M outflows, marking fifth week of decline",
+      "take": "Bitcoin spot ETFs see $316M outflows, marking fifth consecutive week of decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-21m-liquidations-five-minute-candle/"
+      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-fifth-week-decline/"
     },
     {
       "headline": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
-      "take": "Bitcoin mining difficulty drops 10% in second-largest adjustment of 2026",
+      "take": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
       "source": "theblock",
       "link": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
-      "take": "Tokenized treasury markets reach $14.6 billion as Wall Street enters crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion"
-    },
-    {
-      "headline": "Australia holds key interest rate steady for first time in 2026",
-      "take": "Australia holds interest rate steady for first time in 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-rba-interest-rate-hold-2026/"
+      "headline": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in",
+      "take": "Crypto funds debate whether bitcoin bottom is in after recent volatility",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX completes largest-ever IPO at $75B, reveals massive Bitcoin treasury",
-      "take": "SpaceX completes $75B IPO, reveals substantial Bitcoin treasury holdings",
+      "headline": "ByteDance in talks to acquire AI chips from Iluvatar CoreX in push away from Nvidia",
+      "take": "ByteDance in talks to acquire AI chips from Iluvatar CoreX, moving away from Nvidia",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-ipo-bitcoin-treasury/"
+      "link": "https://cryptobriefing.com/bytedance-iluvatar-corex-ai-chips/"
     },
     {
-      "headline": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
-      "take": "Aerodrome launches major upgrade converting liquidity into prediction markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet"
-    },
-    {
-      "headline": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
-      "take": "Trump-backed World Liberty Financial funds UFC bonuses in USD stablecoin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss"
+      "headline": "Schneider Electric and Foxconn form alliance to accelerate AI data center deployment",
+      "take": "Schneider Electric and Foxconn form alliance to accelerate AI data center deployment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/schneider-foxconn-ai-data-center-alliance/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Zimbabwe mandates crypto firms to register with central bank",
-      "take": "Zimbabwe mandates crypto firms to register with central bank",
+      "headline": "United States and Iran reach peace agreement under Trump, ending months of military conflict",
+      "take": "United States and Iran reach peace agreement, ending months of military conflict",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zimbabwe-crypto-registration-central-bank/"
+      "link": "https://cryptobriefing.com/us-iran-peace-agreement-trump-crypto-impact/"
     },
     {
-      "headline": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-      "take": "SEC's tokenization rule swing unlikely to achieve full regulatory resilience",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule"
+      "headline": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal",
+      "take": "UK, France, Germany and Italy ready to lift Iran sanctions after US-Iran deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/europe-iran-sanctions-lift-us-deal/"
+    },
+    {
+      "headline": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters",
+      "take": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters?utm_source=rss&utm_medium=rss"
     }
   ]
 }

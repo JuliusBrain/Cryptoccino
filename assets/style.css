@@ -163,6 +163,10 @@ header.site .brand .lockup {
 .tv-link:hover { background: var(--ink); border-color: var(--ink); }
 .tv-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .tv-link__ico { width: 1.05rem; height: 1.05rem; flex: 0 0 auto; display: block; }
+/* Ghost (secondary) variant — outline only, so three header pills don't all read
+   as filled. Fills to the accent on hover. Used by the Weekly Recap button. */
+.tv-link--ghost { background: transparent; color: var(--accent); }
+.tv-link--ghost:hover { background: var(--accent); border-color: var(--accent); color: var(--card); }
 
 /* Buy Me a Coffee button (vendor image), matched to the TV button's height. */
 .bmc-btn { display: inline-flex; align-items: center; line-height: 0; border-radius: 6px; }
@@ -773,6 +777,53 @@ article.issue hr {
 }
 .archive-cta .arr { display: inline-block; transition: transform 0.18s ease; }
 .archive-card a:hover .archive-cta .arr { transform: translateX(4px); }
+
+/* === Weekly recap page body (a single recap's ranked story list) === */
+.weekly-intro {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--soft);
+  margin: 0 0 1.75rem;
+  max-width: 62ch;
+}
+.weekly-list { list-style: none; margin: 0; padding: 0; counter-reset: wk; }
+.weekly-item {
+  counter-increment: wk;
+  position: relative;
+  padding: 1.1rem 0 1.1rem 2.6rem;
+  border-top: 1px solid var(--line);
+}
+.weekly-item:last-child { border-bottom: 1px solid var(--line); }
+/* Rank numeral in the gutter — the "biggest of the week", ordered. */
+.weekly-item::before {
+  content: counter(wk);
+  position: absolute;
+  left: 0;
+  top: 1.1rem;
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.weekly-link { text-decoration: none; color: var(--ink); }
+.weekly-item__head {
+  display: block;
+  font-family: var(--display);
+  font-size: 1.2rem;
+  line-height: 1.3;
+  font-weight: 600;
+}
+.weekly-link:hover .weekly-item__head { color: var(--accent); }
+.weekly-why { display: block; margin-top: 0.35rem; color: var(--soft); line-height: 1.55; }
+.weekly-date {
+  display: block;
+  margin-top: 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--mut);
+}
 
 /* Cards rise in as they scroll into view (progressive enhancement: only
    where scroll-driven timelines exist; otherwise they render normally). */

@@ -34,12 +34,25 @@ plugins:
 feed:
   path: feed.xml
 
+# Weekly recaps are their own collection (not posts), so they stay out of
+# feed.xml (jekyll-feed is posts-only) and out of the issue archive / beat pages
+# (which loop site.posts). Output at /weekly/<week-end-date>/.
+collections:
+  weekly:
+    output: true
+    permalink: /weekly/:name/
+
 defaults:
   - scope:
       path: ""
       type: posts
     values:
       layout: issue
+  - scope:
+      path: ""
+      type: weekly
+    values:
+      layout: default
 
 exclude:
   - pipeline/

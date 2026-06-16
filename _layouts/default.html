@@ -139,6 +139,14 @@
         {% include cryptoccino-logo.svg %}
       </a>
         <div class="header-buttons">
+      <a class="tv-link tv-link--ghost" href="{{ '/weekly/' | relative_url }}" aria-label="Weekly Recap — the week's biggest stories">
+        <svg class="tv-link__ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="3.5" y="5" width="17" height="15.5" rx="2"/>
+          <path d="M3.5 9.5h17M8 3v4M16 3v4"/>
+          <path d="M7 13h6M7 16.5h9"/>
+        </svg>
+        <span class="tv-link__text">Weekly Recap</span>
+      </a>
       <a class="tv-link" href="{{ '/tv/' | relative_url }}" aria-label="Cryptoccino TV — live crypto terminal">
         <svg class="tv-link__ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M8.5 3 11.5 7M15.5 3 12.5 7"/>
@@ -182,6 +190,7 @@
         <div class="footer-group">
           <span class="footer-label">Browse</span>
           <a href="{{ '/tv/' | relative_url }}">TV</a>
+          <a href="{{ '/weekly/' | relative_url }}">Weekly</a>
           <a href="{{ '/archive/' | relative_url }}">Archive</a>
           <a href="{{ '/search/' | relative_url }}">Search</a>
           <a href="{{ '/about/' | relative_url }}">About</a>

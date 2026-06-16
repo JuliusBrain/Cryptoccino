@@ -1,96 +1,90 @@
 {
-  "generated": "2026-06-15T23:11:39.646776+00:00",
-  "ts": 1781565099,
+  "generated": "2026-06-16T05:37:46.636966+00:00",
+  "ts": 1781588266,
   "market": [
     {
-      "headline": "US-Iran deal to reopen Strait of Hormuz set for signature on Friday, triggering $60B crypto rally",
-      "take": "US-Iran deal reopening Strait of Hormuz triggers oil drop, easing crypto market pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-strait-hormuz-deal-crypto-rally/"
+      "headline": "XRP gives back gains after 10% rally as traders take profit near $1.25",
+      "take": "XRP rallies to $1.25 then retreats as traders lock in profits",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25"
     },
     {
-      "headline": "Standard Chartered forecasts UNI to hit $100 by 2030 as RWAs move on-chain",
-      "take": "Standard Chartered forecasts UNI to $100 by 2030 as real-world assets move on-chain",
+      "headline": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
+      "take": "Bitcoin rises following Bank of Japan's rate hike to 31-year high",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high"
+    },
+    {
+      "headline": "Ethereum\u2019s staking ratio reaches all-time high of 33%",
+      "take": "Ethereum staking ratio hits all-time high of 33 percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-uni-100-forecast-rwa/"
+      "link": "https://cryptobriefing.com/ethereum-staking-ratio-all-time-high/"
+    },
+    {
+      "headline": "Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia",
+      "take": "Corgi launches MANGOS ETF targeting AI leaders Meta Google Nvidia",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/corgi-mangos-etf-ai-leaders/"
     },
     {
       "headline": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
-      "take": "Spot HYPE ETFs near $900M volume signal growing institutional crypto demand",
+      "take": "Spot HYPE ETFs near $900 million in volume with early institutional demand",
       "source": "theblock",
       "link": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3\u2019s biggest market",
-      "take": "SpaceX IPO fuels $1.4B trading frenzy on Hyperliquid, SPCX becomes largest market",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404804/spacex-ipo-1-4-billion-trading-frenzy-hyperliquid-spcx-perp-hip-3s-biggest-market?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US consumers\u2019 inflation concerns rise to highest level since March 2025",
-      "take": "US consumer inflation concerns hit highest level since March 2025",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-consumer-inflation-concerns-highest-since-march-2025/"
     }
   ],
   "business": [
     {
+      "headline": "Marathon Digital Holdings buys $66M worth of Bitcoin in latest treasury play",
+      "take": "Marathon Digital buys $66 million Bitcoin in treasury acquisition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/marathon-digital-buys-66m-bitcoin/"
+    },
+    {
+      "headline": "Grok integrates natively into Warp terminal for AI coding",
+      "take": "Grok integrates natively into Warp terminal for AI coding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grok-warp-terminal-ai-coding/"
+    },
+    {
+      "headline": "Coinbase explores trading real estate like stocks amid legal hurdles",
+      "take": "Coinbase explores tokenized real estate trading amid legal challenges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-tokenize-real-estate-trading/"
+    },
+    {
       "headline": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
-      "take": "Trump crypto company backs UFC event bonuses with USD1 stablecoins",
+      "take": "Trump crypto company backs UFC event bonuses with USD stablecoins",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "South Korea prioritizes Bitcoin and cryptocurrency as national focus",
-      "take": "South Korea prioritizes Bitcoin and cryptocurrency as national economic focus",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-bitcoin-crypto-national-priority/"
-    },
-    {
-      "headline": "TetherIA launches $314 open-source Aero Hand Open for AI research",
-      "take": "TetherIA launches open-source Aero Hand platform for AI research",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tetheria-aero-hand-open-source-robotics/"
-    },
-    {
-      "headline": "Kraken\u2019s FIFA World Cup debut meets Lamine Yamal meme tokens as crypto circles the pitch",
-      "take": "Kraken debuts at FIFA World Cup as Lamine Yamal meme tokens circulate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-yamal-tokens/"
     }
   ],
   "security": [
     {
-      "headline": "UK sanctions hit crypto exchange Huobi over alleged Russian war financing network",
-      "take": "UK sanctions crypto exchange Huobi over alleged Russian war financing network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-sanctions-huobi-russia-crypto-network/"
+      "headline": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+      "take": "Judge dismisses xAI trade secret lawsuit against OpenAI",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit"
     },
     {
       "headline": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
-      "take": "Pudgy Penguins NFT game Pudgy Party shuts down less than one year after launch",
+      "take": "Pudgy Penguins NFT game shuts down less than a year after launch",
       "source": "decrypt",
       "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down"
-    },
-    {
-      "headline": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
-      "take": "Judge dismisses Elon Musk's xAI trade secret lawsuit against OpenAI",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
-      "take": "CFTC hires SEC crypto task force adviser with blockchain forensics expertise",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Iran agrees to destroy nuclear material as US sanctions relief talks rattle crypto markets",
+      "take": "Iran agrees to destroy nuclear material as US sanctions relief talks advance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-nuclear-deal-crypto-market-impact-2/"
     },
     {
-      "headline": "Bolivia nears agreement on IMF financing after dollar peg shift",
-      "take": "Bolivia nears IMF financing agreement after shifting to dollar peg",
+      "headline": "Trump administration weighs sanctions on Anthropic amid AI model dispute",
+      "take": "Trump administration weighs sanctions on Anthropic over AI model dispute",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bolivia-imf-financing-dollar-peg/"
+      "link": "https://cryptobriefing.com/trump-sanctions-anthropic-ai-model-dispute/"
     }
   ]
 }

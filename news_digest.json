@@ -1,114 +1,96 @@
 {
-  "generated": "2026-06-16T11:37:56.767070+00:00",
-  "ts": 1781609876,
+  "generated": "2026-06-16T17:24:34.830364+00:00",
+  "ts": 1781630674,
   "market": [
     {
-      "headline": "Bitcoin buyers add over 250,000 BTC between $59,000 and $67,000 as accumulation returns",
-      "take": "Bitcoin accumulation resumes between $59k-$67k as buyers add 250k BTC",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-buyers-add-over-250-000-btc-between-usd59-000-and-usd67-000-as-accumulation-returns"
-    },
-    {
-      "headline": "Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing",
-      "take": "Bitcoin rallies following Japan's largest rate hike in decades",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing"
-    },
-    {
-      "headline": "BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.",
-      "take": "BlackRock's bitcoin ETF enables institutional volatility exposure with caveats",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/06/16/blackrock-s-new-bitcoin-etf-lets-institutions-earn-from-volatility-there-s-a-catch"
-    },
-    {
-      "headline": "Standard Chartered projects Uniswap\u2019s UNI could surge 40x by 2030",
-      "take": "Analyst projects Uniswap token could surge 40x by 2030",
+      "headline": "Citi\u2019s Hollenhorst predicts dovish Fed stance amid falling oil prices",
+      "take": "Fed expected to adopt dovish stance as oil prices fall sharply",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-uniswap-uni-40x-2030/"
+      "link": "https://cryptobriefing.com/citi-hollenhorst-dovish-fed-oil-prices/"
     },
     {
-      "headline": "Bitwise CIO reframes bitcoin bottom debate, sees bull cycle ahead",
-      "take": "Bitwise reframes bitcoin bottom debate, signals bull cycle ahead",
+      "headline": "Bitcoin DeFi demand concentrated in small-but-deep pockets, Rootstock exec says",
+      "take": "Bitcoin DeFi activity concentrated in select deep-liquidity pools",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404980/bitcoin-defi-demand-concentrated-small-pockets-rootstock-exec-says?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids",
+      "take": "Forward Solana treasury stock rises eight percent on acquisition rejection",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Global oil prices fall below $80 for first time since Iran war began",
+      "take": "Global oil prices drop below eighty dollars amid geopolitical shifts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-cio-bitcoin-bottom-bull-cycle/"
+      "link": "https://cryptobriefing.com/oil-prices-fall-below-80-iran-war/"
+    },
+    {
+      "headline": "Wall Street Stares Down Crypto-Style Trading All Day, Every Day",
+      "take": "Wall Street explores round-the-clock crypto-style continuous trading models",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/features/2026-06-16/wall-street-stares-down-crypto-style-trading-all-day-every-day"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX to acquire Cursor developer Anysphere for $60 billion in all-stock deal",
-      "take": "SpaceX to acquire Cursor developer Anysphere in $60 billion stock deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-acquire-cursor-developer-anysphere-60-billion-all-stock-deal/"
-    },
-    {
-      "headline": "French BTC treasury firm Capital B developing STRC-style bitcoin credit instrument",
-      "take": "French firm Capital B developing bitcoin credit instrument similar to STRC",
+      "headline": "Coinbase launching tokenized US stocks, backed 1:1, with holders able to receive dividends",
+      "take": "Coinbase launches tokenized US stocks backed one-to-one with dividends",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/404854/french-btc-treasury-firm-capital-b-developing-strc-style-bitcoin-credit-instrument?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Robinhood cuts 10% of workforce and closes remaining open roles",
-      "take": "Robinhood cuts 10% workforce and closes remaining open positions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-cuts-workforce-freezes-hiring/"
+      "headline": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
+      "take": "Ripple invests in Flutterwave, expanding stablecoin payments across Africa",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa"
     },
     {
-      "headline": "Meta reports Threads surpasses 500 million monthly active users",
-      "take": "Meta's Threads reaches 500 million monthly active users milestone",
+      "headline": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
+      "take": "Inveniam acquires MANTRA blockchain platform after prior investment",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Huma Finance vault on Morpho surpasses $16M in deposits days after launch",
+      "take": "Huma Finance vault on Morpho exceeds sixteen million deposits at launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-threads-500-million-users/"
+      "link": "https://cryptobriefing.com/huma-finance-morpho-vault-16m-deposits/"
+    },
+    {
+      "headline": "Renzo warns users to bridge assets from Zircuit before June 20th deadline",
+      "take": "Renzo sets June twentieth deadline for users to bridge Zircuit assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/renzo-bridge-zircuit-deadline-june-20/"
     }
   ],
   "security": [
     {
-      "headline": "India charges Chirag Tomar and 7 others in $20M Coinbase spoofing scam",
-      "take": "India charges eight defendants in alleged $20 million Coinbase spoofing scam",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-charges-chirag-tomar-coinbase-spoofing-scam/"
-    },
-    {
-      "headline": "Microsoft patches critical vulnerability in M365 Copilot that allowed silent data theft",
-      "take": "Microsoft patches critical M365 Copilot flaw that enabled silent data theft",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-patches-critical-m365-copilot-vulnerability/"
-    },
-    {
-      "headline": "A college student lost $35,000 on Polymarket because of one missed deadline",
-      "take": "College student loses $35,000 on Polymarket due to missed deadline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-student-loses-35k-fine-print/"
-    },
-    {
-      "headline": "How Ghana\u2019s EOCO and the UK NCA are Using Blockchain Analysis to Return $15 Million to Fraud Victims",
-      "take": "Ghana and UK recover $15 million in fraud through blockchain analysis",
+      "headline": "OFAC and Crypto Crime: Every OFAC Specially Designated National with Identified Cryptocurrency Addresses",
+      "take": "Chainalysis documents OFAC designated nationals with identified cryptocurrency addresses",
       "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ghana-eoco-uk-nca-blockchain-analysis-case/"
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions/"
     }
   ],
   "policy": [
     {
-      "headline": "Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspension",
-      "take": "Commerce Department orders global AI model suspension, Anthropic navigates White House pressure",
+      "headline": "US to allow Iran oil sales, waive sanctions under Trump peace deal: WSJ",
+      "take": "US grants sanctions waiver allowing Iran to resume oil sales",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-white-house-export-controls-ai-models/"
+      "link": "https://cryptobriefing.com/us-to-allow-iran-oil-sales-waive-sanctions-under-trump-peace-deal-wsj/"
     },
     {
-      "headline": "IMF says Nigeria\u2019s stablecoin adoption is \u2018testing the limits\u2019 of monetary and regulatory frameworks",
-      "take": "IMF warns Nigeria stablecoin adoption tests limits of regulatory frameworks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404862/imf-nigeria-stablecoin-adoption-testing-limits-monetary-regulatory-frameworks?utm_source=rss&utm_medium=rss"
+      "headline": "France stops certifying products lacking quantum-safe encryption",
+      "take": "France mandates quantum-safe encryption for all certified products",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/france-quantum-safe-encryption-certification/"
     },
     {
-      "headline": "Kevin Warsh navigates Fed autonomy amid Trump\u2019s rate demands",
-      "take": "Kevin Warsh balances Federal Reserve autonomy amid Trump rate reduction demands",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kevin-warsh-fed-autonomy-trump-rate-demands/"
-    },
-    {
-      "headline": "Coinbase CEO Brian Armstrong criticizes US investor laws as regressive tax",
-      "take": "Coinbase CEO criticizes US investor laws as regressive tax on citizens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/armstrong-criticizes-accredited-investor-rules-regressive-tax/"
+      "headline": "Binance says it considers EU license compliant amid reports of potential rejection",
+      "take": "Binance claims EU license compliance amid potential rejection reports",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }

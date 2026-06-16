@@ -1,96 +1,108 @@
 {
-  "generated": "2026-06-16T17:24:34.830364+00:00",
-  "ts": 1781630674,
+  "generated": "2026-06-16T21:22:27.476041+00:00",
+  "ts": 1781644947,
   "market": [
     {
-      "headline": "Citi\u2019s Hollenhorst predicts dovish Fed stance amid falling oil prices",
-      "take": "Fed expected to adopt dovish stance as oil prices fall sharply",
+      "headline": "Trump\u2019s G7 diplomacy on Ukraine and Iran sends Bitcoin past $65K as risk appetite surges",
+      "take": "Bitcoin surges past $65K on Trump diplomacy signals regarding Ukraine and Iran",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citi-hollenhorst-dovish-fed-oil-prices/"
+      "link": "https://cryptobriefing.com/trump-g7-iran-ukraine-bitcoin-rally/"
     },
     {
-      "headline": "Bitcoin DeFi demand concentrated in small-but-deep pockets, Rootstock exec says",
-      "take": "Bitcoin DeFi activity concentrated in select deep-liquidity pools",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404980/bitcoin-defi-demand-concentrated-small-pockets-rootstock-exec-says?utm_source=rss&utm_medium=rss"
+      "headline": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
+      "take": "Bitcoin miners' AI expansion faces significant profitability headwinds, says VanEck analysis",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck"
     },
     {
-      "headline": "Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids",
-      "take": "Forward Solana treasury stock rises eight percent on acquisition rejection",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids?utm_source=rss&utm_medium=rss"
+      "headline": "Hyperliquid, Uniswap and Worldcoin buck crypto slump as traders chase AI, DeFi trends",
+      "take": "Hyperliquid, Uniswap, Worldcoin outperform as traders favor AI and DeFi exposure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/16/hyperliquid-uniswap-and-worldcoin-buck-crypto-slump-as-traders-chase-ai-defi-trends"
     },
     {
-      "headline": "Global oil prices fall below $80 for first time since Iran war began",
-      "take": "Global oil prices drop below eighty dollars amid geopolitical shifts",
+      "headline": "Coinbase offers crypto-backed loans on staked ETH and SOL, hitting $2.3 billion in originations",
+      "take": "Coinbase crypto-backed loans on staked assets reach $2.3 billion in originations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-fall-below-80-iran-war/"
+      "link": "https://cryptobriefing.com/coinbase-crypto-loans-staked-eth-sol/"
     },
     {
-      "headline": "Wall Street Stares Down Crypto-Style Trading All Day, Every Day",
-      "take": "Wall Street explores round-the-clock crypto-style continuous trading models",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/features/2026-06-16/wall-street-stares-down-crypto-style-trading-all-day-every-day"
+      "headline": "Options traders divided on Federal Reserve\u2019s near-term rate path",
+      "take": "Options traders divided on Federal Reserve's trajectory for near-term rate decisions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/options-traders-divided-fed-rate-path/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase launching tokenized US stocks, backed 1:1, with holders able to receive dividends",
-      "take": "Coinbase launches tokenized US stocks backed one-to-one with dividends",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
-      "take": "Ripple invests in Flutterwave, expanding stablecoin payments across Africa",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa"
-    },
-    {
-      "headline": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
-      "take": "Inveniam acquires MANTRA blockchain platform after prior investment",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Huma Finance vault on Morpho surpasses $16M in deposits days after launch",
-      "take": "Huma Finance vault on Morpho exceeds sixteen million deposits at launch",
+      "headline": "Coinbase launches new Developer Platform giving AI agents unified access to wallets, trading, and payments",
+      "take": "Coinbase Developer Platform gives AI agents unified access to wallets and trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/huma-finance-morpho-vault-16m-deposits/"
+      "link": "https://cryptobriefing.com/coinbase-developer-platform-ai-agents/"
     },
     {
-      "headline": "Renzo warns users to bridge assets from Zircuit before June 20th deadline",
-      "take": "Renzo sets June twentieth deadline for users to bridge Zircuit assets",
+      "headline": "Circle\u2019s USDC enables AI agents to bypass paywalls with micropayments",
+      "take": "Circle's USDC enables AI agents to bypass paywalls using micropayments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/renzo-bridge-zircuit-deadline-june-20/"
+      "link": "https://cryptobriefing.com/circle-usdc-ai-agents-micropayments/"
+    },
+    {
+      "headline": "World Cup 2026 becomes crypto\u2019s biggest stage as Kraken partnership fuels prediction market frenzy",
+      "take": "World Cup 2026 becomes crypto's biggest stage through Kraken prediction market partnership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-kraken-prediction-markets-2/"
+    },
+    {
+      "headline": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
+      "take": "Coinbase prepares to launch tokenized stock trading alongside crypto and options",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options"
+    },
+    {
+      "headline": "Coinbase launches travel portal for One Card holders, offers 5% back in Bitcoin",
+      "take": "Coinbase One Card travel portal offers five percent Bitcoin cashback rewards",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-travel-portal-bitcoin-rewards/"
     }
   ],
   "security": [
     {
-      "headline": "OFAC and Crypto Crime: Every OFAC Specially Designated National with Identified Cryptocurrency Addresses",
-      "take": "Chainalysis documents OFAC designated nationals with identified cryptocurrency addresses",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions/"
+      "headline": "Coinbase launches Transfer Protections for enhanced account security",
+      "take": "Coinbase launches Transfer Protections feature to enhance customer account security",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-transfer-protections-account-security/"
     }
   ],
   "policy": [
     {
-      "headline": "US to allow Iran oil sales, waive sanctions under Trump peace deal: WSJ",
-      "take": "US grants sanctions waiver allowing Iran to resume oil sales",
+      "headline": "Binance set to lose permission to operate in EU as Greece expected to reject MiCA license",
+      "take": "Binance expected to lose EU operating permission as Greece rejects MiCA license",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-to-allow-iran-oil-sales-waive-sanctions-under-trump-peace-deal-wsj/"
+      "link": "https://cryptobriefing.com/binance-eu-mica-license-rejection/"
     },
     {
-      "headline": "France stops certifying products lacking quantum-safe encryption",
-      "take": "France mandates quantum-safe encryption for all certified products",
+      "headline": "US House and Senate reach agreement on sweeping housing bill that includes CBDC ban until 2030",
+      "take": "US Congress agrees on housing bill including ban on CBDCs until 2030",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/france-quantum-safe-encryption-certification/"
+      "link": "https://cryptobriefing.com/us-housing-bill-cbdc-ban-2030/"
     },
     {
-      "headline": "Binance says it considers EU license compliant amid reports of potential rejection",
-      "take": "Binance claims EU license compliance amid potential rejection reports",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Trump picks Kevin Warsh to lead Federal Reserve, signaling major changes for crypto and monetary policy",
+      "take": "Trump nominates Kevin Warsh to lead Federal Reserve, signaling major policy shifts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-picks-kevin-warsh-federal-reserve-chair/"
+    },
+    {
+      "headline": "U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process",
+      "take": "US senators urge Treasury to include states in GENIUS Act stablecoin regulatory process",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process"
+    },
+    {
+      "headline": "EU lawmakers approve trade deal with US to prevent tariff conflict",
+      "take": "EU lawmakers approve trade deal with US to prevent tariff escalation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-lawmakers-approve-us-trade-deal/"
     }
   ]
 }

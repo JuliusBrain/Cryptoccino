@@ -1,90 +1,114 @@
 {
-  "generated": "2026-06-16T05:37:46.636966+00:00",
-  "ts": 1781588266,
+  "generated": "2026-06-16T11:37:56.767070+00:00",
+  "ts": 1781609876,
   "market": [
     {
-      "headline": "XRP gives back gains after 10% rally as traders take profit near $1.25",
-      "take": "XRP rallies to $1.25 then retreats as traders lock in profits",
+      "headline": "Bitcoin buyers add over 250,000 BTC between $59,000 and $67,000 as accumulation returns",
+      "take": "Bitcoin accumulation resumes between $59k-$67k as buyers add 250k BTC",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25"
+      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-buyers-add-over-250-000-btc-between-usd59-000-and-usd67-000-as-accumulation-returns"
     },
     {
-      "headline": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
-      "take": "Bitcoin rises following Bank of Japan's rate hike to 31-year high",
+      "headline": "Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing",
+      "take": "Bitcoin rallies following Japan's largest rate hike in decades",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high"
+      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing"
     },
     {
-      "headline": "Ethereum\u2019s staking ratio reaches all-time high of 33%",
-      "take": "Ethereum staking ratio hits all-time high of 33 percent",
+      "headline": "BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.",
+      "take": "BlackRock's bitcoin ETF enables institutional volatility exposure with caveats",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/16/blackrock-s-new-bitcoin-etf-lets-institutions-earn-from-volatility-there-s-a-catch"
+    },
+    {
+      "headline": "Standard Chartered projects Uniswap\u2019s UNI could surge 40x by 2030",
+      "take": "Analyst projects Uniswap token could surge 40x by 2030",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-staking-ratio-all-time-high/"
+      "link": "https://cryptobriefing.com/standard-chartered-uniswap-uni-40x-2030/"
     },
     {
-      "headline": "Corgi files for MANGOS ETF targeting AI leaders Meta, Google, Nvidia",
-      "take": "Corgi launches MANGOS ETF targeting AI leaders Meta Google Nvidia",
+      "headline": "Bitwise CIO reframes bitcoin bottom debate, sees bull cycle ahead",
+      "take": "Bitwise reframes bitcoin bottom debate, signals bull cycle ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/corgi-mangos-etf-ai-leaders/"
-    },
-    {
-      "headline": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
-      "take": "Spot HYPE ETFs near $900 million in volume with early institutional demand",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/bitwise-cio-bitcoin-bottom-bull-cycle/"
     }
   ],
   "business": [
     {
-      "headline": "Marathon Digital Holdings buys $66M worth of Bitcoin in latest treasury play",
-      "take": "Marathon Digital buys $66 million Bitcoin in treasury acquisition",
+      "headline": "SpaceX to acquire Cursor developer Anysphere for $60 billion in all-stock deal",
+      "take": "SpaceX to acquire Cursor developer Anysphere in $60 billion stock deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/marathon-digital-buys-66m-bitcoin/"
+      "link": "https://cryptobriefing.com/spacex-acquire-cursor-developer-anysphere-60-billion-all-stock-deal/"
     },
     {
-      "headline": "Grok integrates natively into Warp terminal for AI coding",
-      "take": "Grok integrates natively into Warp terminal for AI coding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-warp-terminal-ai-coding/"
+      "headline": "French BTC treasury firm Capital B developing STRC-style bitcoin credit instrument",
+      "take": "French firm Capital B developing bitcoin credit instrument similar to STRC",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404854/french-btc-treasury-firm-capital-b-developing-strc-style-bitcoin-credit-instrument?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Coinbase explores trading real estate like stocks amid legal hurdles",
-      "take": "Coinbase explores tokenized real estate trading amid legal challenges",
+      "headline": "Robinhood cuts 10% of workforce and closes remaining open roles",
+      "take": "Robinhood cuts 10% workforce and closes remaining open positions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-tokenize-real-estate-trading/"
+      "link": "https://cryptobriefing.com/robinhood-cuts-workforce-freezes-hiring/"
     },
     {
-      "headline": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
-      "take": "Trump crypto company backs UFC event bonuses with USD stablecoins",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Meta reports Threads surpasses 500 million monthly active users",
+      "take": "Meta's Threads reaches 500 million monthly active users milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-threads-500-million-users/"
     }
   ],
   "security": [
     {
-      "headline": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
-      "take": "Judge dismisses xAI trade secret lawsuit against OpenAI",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit"
+      "headline": "India charges Chirag Tomar and 7 others in $20M Coinbase spoofing scam",
+      "take": "India charges eight defendants in alleged $20 million Coinbase spoofing scam",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-charges-chirag-tomar-coinbase-spoofing-scam/"
     },
     {
-      "headline": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
-      "take": "Pudgy Penguins NFT game shuts down less than a year after launch",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down"
+      "headline": "Microsoft patches critical vulnerability in M365 Copilot that allowed silent data theft",
+      "take": "Microsoft patches critical M365 Copilot flaw that enabled silent data theft",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/microsoft-patches-critical-m365-copilot-vulnerability/"
+    },
+    {
+      "headline": "A college student lost $35,000 on Polymarket because of one missed deadline",
+      "take": "College student loses $35,000 on Polymarket due to missed deadline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-student-loses-35k-fine-print/"
+    },
+    {
+      "headline": "How Ghana\u2019s EOCO and the UK NCA are Using Blockchain Analysis to Return $15 Million to Fraud Victims",
+      "take": "Ghana and UK recover $15 million in fraud through blockchain analysis",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ghana-eoco-uk-nca-blockchain-analysis-case/"
     }
   ],
   "policy": [
     {
-      "headline": "Iran agrees to destroy nuclear material as US sanctions relief talks rattle crypto markets",
-      "take": "Iran agrees to destroy nuclear material as US sanctions relief talks advance",
+      "headline": "Anthropic navigates unprecedented White House request as Commerce Department orders global AI model suspension",
+      "take": "Commerce Department orders global AI model suspension, Anthropic navigates White House pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-nuclear-deal-crypto-market-impact-2/"
+      "link": "https://cryptobriefing.com/anthropic-white-house-export-controls-ai-models/"
     },
     {
-      "headline": "Trump administration weighs sanctions on Anthropic amid AI model dispute",
-      "take": "Trump administration weighs sanctions on Anthropic over AI model dispute",
+      "headline": "IMF says Nigeria\u2019s stablecoin adoption is \u2018testing the limits\u2019 of monetary and regulatory frameworks",
+      "take": "IMF warns Nigeria stablecoin adoption tests limits of regulatory frameworks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/404862/imf-nigeria-stablecoin-adoption-testing-limits-monetary-regulatory-frameworks?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Kevin Warsh navigates Fed autonomy amid Trump\u2019s rate demands",
+      "take": "Kevin Warsh balances Federal Reserve autonomy amid Trump rate reduction demands",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-sanctions-anthropic-ai-model-dispute/"
+      "link": "https://cryptobriefing.com/kevin-warsh-fed-autonomy-trump-rate-demands/"
+    },
+    {
+      "headline": "Coinbase CEO Brian Armstrong criticizes US investor laws as regressive tax",
+      "take": "Coinbase CEO criticizes US investor laws as regressive tax on citizens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/armstrong-criticizes-accredited-investor-rules-regressive-tax/"
     }
   ]
 }

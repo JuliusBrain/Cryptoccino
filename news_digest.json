@@ -1,96 +1,95 @@
 {
-  "generated": "2026-06-17T20:32:15.896914+00:00",
-  "ts": 1781728335,
+  "generated": "2026-06-17T22:54:15.034214+00:00",
+  "ts": 1781736855,
   "market": [
     {
       "headline": "Crypto markets wobble after hawkish Fed outlook in Kevin Warsh\u2019s first FOMC meeting",
-      "take": "Crypto markets decline after Fed signals hawkish stance under new chair Warsh",
+      "take": "Crypto markets decline following hawkish Fed signals on inflation control",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405152/crypto-markets-wobble-hawkish-fed-outlook-kevin-warsh-first-fomc-meeting?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Dollar surges most in three months after Federal Reserve signals rate hikes",
-      "take": "Dollar surges most in three months as Federal Reserve signals possible rate hikes",
+      "headline": "Brazil central bank cuts key interest rate by 25 basis points for third straight meeting",
+      "take": "Brazil central bank cuts rates 25bp for third consecutive meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-surges-fed-rate-hike-signals/"
+      "link": "https://cryptobriefing.com/brazil-central-bank-cuts-selic-rate-third-meeting/"
     },
     {
-      "headline": "Yen falls to weakest level against US dollar since July 2024, raising crypto contagion risk",
-      "take": "Yen falls to weakest level since July 2024, raising potential crypto contagion risk",
+      "headline": "Bank of Japan expected to hike rates again by December, say economists",
+      "take": "Bank of Japan expected to raise rates again by December",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-weakest-dollar-since-july-2024/"
+      "link": "https://cryptobriefing.com/boj-rate-hike-december-crypto-impact/"
     },
     {
-      "headline": "Turkey brokers US-Iran ceasefire as Bitcoin surges past $72K on easing geopolitical fears",
-      "take": "Bitcoin surges past $72K as US-Iran tensions ease on ceasefire broker",
+      "headline": "Canary Capital\u2019s LTCC Litecoin ETF sits at $5.4M in assets as demand gets a reality check",
+      "take": "Litecoin ETF demand remains muted at five million dollars in assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/turkey-us-iran-ceasefire-bitcoin-surge/"
+      "link": "https://cryptobriefing.com/canary-litecoin-etf-ltcc-demand-tested/"
     },
     {
-      "headline": "Bitcoin layer-2s face a bear-market reality check",
-      "take": "Bitcoin layer-2 networks face challenging conditions in prolonged bear market",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check"
+      "headline": "Apple raises prices as AI boom sends memory chip costs soaring",
+      "take": "Apple raises prices as AI chip demand drives memory costs higher",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-raises-prices-ai-memory-costs/"
     }
   ],
   "business": [
     {
+      "headline": "FTX creditors may benefit from SpaceX surge worth billions",
+      "take": "FTX creditors may recover billions from SpaceX valuation surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ftx-creditors-spacex-surge-billions/"
+    },
+    {
       "headline": "Fidelity joins Wall Street's race to manage stablecoin reserves",
-      "take": "Fidelity enters Wall Street's competitive race to manage stablecoin reserves",
+      "take": "Fidelity enters stablecoin reserve management competition with Wall Street",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves"
     },
     {
-      "headline": "Hylo targets leveraged equities as Solana\u2019s next breakout market with V2 launch",
-      "take": "Hylo launches V2 targeting leveraged equities trading on Solana blockchain",
+      "headline": "DSC Holdings sets terms for $51M US IPO under ticker $DSC",
+      "take": "DSC Holdings plans fifty-one million dollar US IPO debut",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hylo-v2-leveraged-equities-solana/"
+      "link": "https://cryptobriefing.com/dsc-holdings-51m-ipo-nasdaq/"
     },
     {
-      "headline": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
-      "take": "Trace Finance raises $32M for stablecoin payments platform backed by Coinbase, CoinFund",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million"
-    },
-    {
-      "headline": "Here is how Coinbase plan to survive the crypto downturn by ditching its reliance on trading fees",
-      "take": "Coinbase plans business model shift away from trading fees reliance",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/17/here-is-how-coinbase-plan-to-survive-the-crypto-downturn-by-ditching-its-reliance-on-trading-fees"
-    },
-    {
-      "headline": "Manako introduces vision AI agent for real-time detection using Bittensor subnets",
-      "take": "Manako introduces vision AI agent using Bittensor subnets for real-time detection",
+      "headline": "CME Group plans to sue CFTC over perpetual futures approval",
+      "take": "CME Group sues CFTC over perpetual futures market approval decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/manako-vision-ai-agent-bittensor-subnets/"
+      "link": "https://cryptobriefing.com/cme-sue-cftc-perpetual-futures/"
     }
   ],
-  "security": [
-    {
-      "headline": "Bybit lands on Singapore MAS Investor Alert List",
-      "take": "Bybit lands on Singapore's MAS Investor Alert List for regulatory concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "\u2018One of the most anti-crypto laws in the US\u2019: Illinois Gov. Pritzker signs 0.2% crypto tax",
-      "take": "Illinois Governor signs 0.2% cryptocurrency tax, called one of most anti-crypto US laws",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405146/one-most-anti-crypto-laws-in-us-illinois-gov-pritzker-signs-0-2-crypto-tax?utm_source=rss&utm_medium=rss"
+      "headline": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
+      "take": "Michigan judge rules sports prediction markets outside CFTC jurisdiction",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview"
     },
     {
-      "headline": "Federal Reserve forms task force to review $6.7T balance sheet under new Chair Warsh",
-      "take": "Federal Reserve Chair Warsh forms task force to review $6.7 trillion balance sheet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-task-force-balance-sheet-warsh/"
+      "headline": "Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act",
+      "take": "Gaming groups push Congress to ban sports betting prediction markets",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/gaming-organizations-congress-prediction-markets-ban-clarity-act?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "G7 establishes critical minerals alliance to reduce reliance on China",
-      "take": "G7 establishes critical minerals alliance to reduce China reliance for strategic materials",
+      "headline": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
+      "take": "Kentucky targets prediction markets, potentially conflicting with Trump administration",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team"
+    },
+    {
+      "headline": "Bybit lands on Singapore MAS Investor Alert List",
+      "take": "Bybit lands on Singapore MAS investor alert list for compliance concerns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "White House export ban on Anthropic models overshadows G-7 summit AI talks",
+      "take": "White House restricts Anthropic AI model exports during G-7 summit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/g7-critical-minerals-alliance-china/"
+      "link": "https://cryptobriefing.com/white-house-anthropic-export-ban-g7/"
     }
   ]
 }

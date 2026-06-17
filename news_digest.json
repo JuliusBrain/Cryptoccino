@@ -1,108 +1,95 @@
 {
-  "generated": "2026-06-16T21:22:27.476041+00:00",
-  "ts": 1781644947,
+  "generated": "2026-06-17T05:19:40.046992+00:00",
+  "ts": 1781673580,
   "market": [
     {
-      "headline": "Trump\u2019s G7 diplomacy on Ukraine and Iran sends Bitcoin past $65K as risk appetite surges",
-      "take": "Bitcoin surges past $65K on Trump diplomacy signals regarding Ukraine and Iran",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-g7-iran-ukraine-bitcoin-rally/"
-    },
-    {
-      "headline": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
-      "take": "Bitcoin miners' AI expansion faces significant profitability headwinds, says VanEck analysis",
+      "headline": "Live markets: A bitcoin bottom signal flashed as holders absorbed 125,000 BTC in June",
+      "take": "Bitcoin holders absorbed 125,000 BTC in June, signaling potential bottom",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck"
+      "link": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june"
     },
     {
-      "headline": "Hyperliquid, Uniswap and Worldcoin buck crypto slump as traders chase AI, DeFi trends",
-      "take": "Hyperliquid, Uniswap, Worldcoin outperform as traders favor AI and DeFi exposure",
+      "headline": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
+      "take": "Uniswap jumps 22% and altcoins rise while bitcoin stalls before Fed",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/16/hyperliquid-uniswap-and-worldcoin-buck-crypto-slump-as-traders-chase-ai-defi-trends"
+      "link": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed"
     },
     {
-      "headline": "Coinbase offers crypto-backed loans on staked ETH and SOL, hitting $2.3 billion in originations",
-      "take": "Coinbase crypto-backed loans on staked assets reach $2.3 billion in originations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-crypto-loans-staked-eth-sol/"
+      "headline": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
+      "take": "XRP breaks below $1.23 on heavy selling after recent gains",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling"
     },
     {
-      "headline": "Options traders divided on Federal Reserve\u2019s near-term rate path",
-      "take": "Options traders divided on Federal Reserve's trajectory for near-term rate decisions",
+      "headline": "Gold consolidates above $4,300 as traders await Fed rate decision",
+      "take": "Gold consolidates above $4,300 as traders await Fed rate decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/options-traders-divided-fed-rate-path/"
+      "link": "https://cryptobriefing.com/gold-consolidates-above-4300-fed-rate-decision/"
+    },
+    {
+      "headline": "Investors pile into bullish dollar bets as US exceptionalism trade returns",
+      "take": "Investors pile into bullish dollar bets as US exceptionalism trade returns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bullish-dollar-bets-us-exceptionalism-trade/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase launches new Developer Platform giving AI agents unified access to wallets, trading, and payments",
-      "take": "Coinbase Developer Platform gives AI agents unified access to wallets and trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-developer-platform-ai-agents/"
+      "headline": "Trump-backed World Liberty Financial nears OCC approval for federal trust charter: report",
+      "take": "Trump-backed World Liberty Financial nears OCC approval for federal trust charter",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405022/world-liberty-financial-nears-occ-approval?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Circle\u2019s USDC enables AI agents to bypass paywalls with micropayments",
-      "take": "Circle's USDC enables AI agents to bypass paywalls using micropayments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-usdc-ai-agents-micropayments/"
-    },
-    {
-      "headline": "World Cup 2026 becomes crypto\u2019s biggest stage as Kraken partnership fuels prediction market frenzy",
-      "take": "World Cup 2026 becomes crypto's biggest stage through Kraken prediction market partnership",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-2026-crypto-kraken-prediction-markets-2/"
-    },
-    {
-      "headline": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
-      "take": "Coinbase prepares to launch tokenized stock trading alongside crypto and options",
+      "headline": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
+      "take": "Alibaba builds Qwen-Robot, an operating system for robot economy",
       "source": "decrypt",
-      "link": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options"
+      "link": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy"
     },
     {
-      "headline": "Coinbase launches travel portal for One Card holders, offers 5% back in Bitcoin",
-      "take": "Coinbase One Card travel portal offers five percent Bitcoin cashback rewards",
+      "headline": "Amazon backs AI startup developing models to simulate the physical world",
+      "take": "Amazon backs AI startup developing models to simulate physical world",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-travel-portal-bitcoin-rewards/"
-    }
-  ],
-  "security": [
+      "link": "https://cryptobriefing.com/amazon-backs-physical-ai-startup/"
+    },
     {
-      "headline": "Coinbase launches Transfer Protections for enhanced account security",
-      "take": "Coinbase launches Transfer Protections feature to enhance customer account security",
+      "headline": "Xiaohongshu aims for Hong Kong IPO by year-end, seeks $70B valuation",
+      "take": "Xiaohongshu aims for Hong Kong IPO by year-end at $70B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-transfer-protections-account-security/"
+      "link": "https://cryptobriefing.com/xiaohongshu-hong-kong-ipo-70b-valuation/"
+    },
+    {
+      "headline": "China\u2019s FX regulator opens $5.3 billion in new QDII quotas, the largest expansion since 2021",
+      "take": "China's FX regulator opens $5.3B in QDII quotas, largest expansion since 2021",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-qdii-quota-expansion-2026/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "Binance set to lose permission to operate in EU as Greece expected to reject MiCA license",
-      "take": "Binance expected to lose EU operating permission as Greece rejects MiCA license",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-eu-mica-license-rejection/"
+      "headline": "Illinois governor approves crypto transaction tax despite industry uproar",
+      "take": "Illinois governor approves crypto transaction tax despite industry opposition",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "US House and Senate reach agreement on sweeping housing bill that includes CBDC ban until 2030",
-      "take": "US Congress agrees on housing bill including ban on CBDCs until 2030",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-housing-bill-cbdc-ban-2030/"
+      "headline": "US gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report",
+      "take": "US gaming industry urges Senate to ban sports prediction markets in crypto bill",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Trump picks Kevin Warsh to lead Federal Reserve, signaling major changes for crypto and monetary policy",
-      "take": "Trump nominates Kevin Warsh to lead Federal Reserve, signaling major policy shifts",
+      "headline": "G7 leaders discuss access for trusted partners to US AI models after sweeping restrictions",
+      "take": "G7 leaders discuss trusted partner access to US AI models after restrictions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-picks-kevin-warsh-federal-reserve-chair/"
+      "link": "https://cryptobriefing.com/g7-trusted-partners-us-ai-models/"
     },
     {
-      "headline": "U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process",
-      "take": "US senators urge Treasury to include states in GENIUS Act stablecoin regulatory process",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process"
-    },
-    {
-      "headline": "EU lawmakers approve trade deal with US to prevent tariff conflict",
-      "take": "EU lawmakers approve trade deal with US to prevent tariff escalation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-lawmakers-approve-us-trade-deal/"
+      "headline": "Senators urge Treasury ensure state authority in GENIUS application",
+      "take": "Senators urge Treasury to ensure state authority in GENIUS application",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }

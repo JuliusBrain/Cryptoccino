@@ -1,90 +1,102 @@
 {
-  "generated": "2026-06-18T15:55:32.173967+00:00",
-  "ts": 1781798132,
+  "generated": "2026-06-18T20:41:13.268223+00:00",
+  "ts": 1781815273,
   "market": [
     {
-      "headline": "Binance processes $5.7B in SpaceX pre-IPO futures volume on a single day",
-      "take": "Binance processes $5.7B in SpaceX pre-IPO futures in single day",
+      "headline": "Iran and US sign ceasefire deal, triggering Bitcoin surge past $82K as geopolitical risk fades",
+      "take": "Bitcoin surges past $82K as US-Iran ceasefire reduces geopolitical risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-spacex-pre-ipo-futures-volume/"
+      "link": "https://cryptobriefing.com/iran-us-ceasefire-deal-bitcoin-surge/"
     },
     {
-      "headline": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models",
-      "take": "Bitcoin miners report mixed May output as AI buildouts impact hashrate",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "JPMorgan estimates $165B in equity selling and bond buying from June rebalancing",
-      "take": "JPMorgan estimates $165B equity selling, bond buying from June rebalancing",
+      "headline": "Nasdaq, S&P 500 close sharply higher on US-Iran peace deal",
+      "take": "Nasdaq and S&P 500 rally sharply following US-Iran peace deal announcement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-165b-equity-selling-june-rebalancing/"
+      "link": "https://cryptobriefing.com/nasdaq-sp500-rally-us-iran-peace-deal/"
     },
     {
-      "headline": "Everyday Savers Bet Big on Bitcoin Giant Strategy's STRC\u2014Now It's Falling",
-      "take": "Retail bitcoin strategy fund STRC falls after initial investor surge",
+      "headline": "Federal Reserve balance sheet edges up to $6.725 trillion as Warsh era begins",
+      "take": "Federal Reserve balance sheet rises to $6.725 trillion under new leadership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-balance-sheet-warsh-era-begins/"
+    },
+    {
+      "headline": "Oaktree Capital sees private credit fund redemptions drop below 5% as investor exodus slows",
+      "take": "Oaktree Capital private credit redemptions drop below 5% as exodus slows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oaktree-private-credit-redemptions-drop/"
+    },
+    {
+      "headline": "HIVE Stock Spikes as Bitcoin Miner Lands $220M AI Infra Deal",
+      "take": "HIVE stock spikes on $220M AI infrastructure partnership deal",
       "source": "decrypt",
-      "link": "https://decrypt.co/371529/everyday-savers-bet-big-bitcoin-giant-strategy-strc-falling"
+      "link": "https://decrypt.co/371570/hives-220m-ai-deal-bitcoin-mining"
     }
   ],
   "business": [
     {
-      "headline": "FIFA World Cup 2026 becomes crypto\u2019s biggest stage as prediction markets top $2 billion",
-      "take": "FIFA World Cup 2026 prediction markets exceed $2 billion in volume",
+      "headline": "Y Combinator unveils standout startups from Spring 2026 Demo Day, with stablecoin funding taking center stage",
+      "take": "Y Combinator Spring 2026 Demo Day features stablecoin funding as key focus",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-2026-crypto-prediction-markets-4/"
+      "link": "https://cryptobriefing.com/y-combinator-s26-demo-day-usdc-stablecoin-funding/"
     },
     {
-      "headline": "The DAO relaunches as a $130M Ethereum security fund a decade after its infamous hack",
-      "take": "The DAO relaunches as $130M Ethereum security fund decade after hack",
+      "headline": "SpaceX receives Baa1 investment grade rating from Moody\u2019s as company goes public with $1.29B Bitcoin treasury",
+      "take": "SpaceX receives Baa1 rating and goes public with $1.29B Bitcoin treasury",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/the-dao-relaunches-ethereum-security-fund/"
+      "link": "https://cryptobriefing.com/spacex-moodys-baa1-rating-bitcoin-treasury/"
     },
     {
-      "headline": "Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin",
-      "take": "Lite Strategy leads $1M investment in LitVM smart contracts platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lite-strategy-leads-1m-investment-in-litvm-to-bring-smart-contracts-to-litecoin/"
+      "headline": "Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs",
+      "take": "Ethereum Foundation loses Co-Director Hsiao-Wei Wang in ongoing exodus",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
     },
     {
-      "headline": "Injective enables native INJ deposits on Coinbase with MultiVM technology",
-      "take": "Injective enables native INJ deposits on Coinbase via MultiVM tech",
+      "headline": "Intel appoints former SK Hynix CEO Seok-Hee Lee as EVP of foundry",
+      "take": "Intel appoints former SK Hynix CEO as EVP of foundry division",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-native-inj-coinbase-multivm/"
-    },
-    {
-      "headline": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
-      "take": "Kraken integrates Solana DEX trading into app with multi-network support",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/intel-appoints-sk-hynix-ceo-lee-foundry-evp/"
     }
   ],
   "security": [
     {
-      "headline": "Bybit lands on Singapore MAS Investor Alert List",
-      "take": "Bybit lands on Singapore MAS Investor Alert List for compliance concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
+      "take": "CFTC settles with former Celsius CEO Mashinsky, imposes permanent trading ban",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Federal Reserve proposes new stablecoin rules requiring customer screening under GENIUS Act",
-      "take": "Federal Reserve proposes stablecoin rules requiring customer screening under GENIUS Act",
+      "headline": "European Union\u2019s MiCA transition period ends July 1, tightening regulations for crypto firms",
+      "take": "EU MiCA transition period ends July 1, tightening crypto firm regulations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-proposes-stablecoin-customer-screening-rules/"
+      "link": "https://cryptobriefing.com/mica-transition-period-ends-july-crypto/"
     },
     {
-      "headline": "US government to fast-track grid connections for AI data centers",
-      "take": "US government fast-tracks grid connections for AI data centers",
+      "headline": "Illinois passes law to tax crypto transfers starting 2027",
+      "take": "Illinois passes law to tax crypto transfers beginning in 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-fast-track-grid-ai-data-centers/"
+      "link": "https://cryptobriefing.com/illinois-crypto-tax-law-2027/"
     },
     {
-      "headline": "Anti-deepfake bill advances to Senate floor, creating new rules for AI-generated content",
-      "take": "Anti-deepfake bill advances to Senate creating rules for AI-generated content",
+      "headline": "Ireland mulls crypto safeguards in response to financial risks",
+      "take": "Ireland assesses financial risks of digital assets and considers safeguards",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "Rep. Bryan Steil introduces legislation to ban lawmakers from betting on prediction markets",
+      "take": "Rep. Steil introduces bill banning lawmakers from prediction market betting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anti-deepfake-bill-senate-take-it-down-act/"
+      "link": "https://cryptobriefing.com/steil-legislation-ban-lawmakers-prediction-markets/"
+    },
+    {
+      "headline": "SEC and CFTC seek public comment to streamline swap data reporting",
+      "take": "SEC and CFTC seek comment on streamlining swap data reporting rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-cftc-swap-data-reporting-harmonization/"
     }
   ]
 }

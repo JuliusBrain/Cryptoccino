@@ -1,102 +1,90 @@
 {
-  "generated": "2026-06-18T10:50:02.378923+00:00",
-  "ts": 1781779802,
+  "generated": "2026-06-18T15:55:32.173967+00:00",
+  "ts": 1781798132,
   "market": [
     {
-      "headline": "Live markets: Bitcoin, ether ETFs lose $111 million combined as rate-cut hopes die",
-      "take": "Bitcoin and ether ETFs shed $111M as rate-cut expectations fade",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died"
+      "headline": "Binance processes $5.7B in SpaceX pre-IPO futures volume on a single day",
+      "take": "Binance processes $5.7B in SpaceX pre-IPO futures in single day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-spacex-pre-ipo-futures-volume/"
     },
     {
-      "headline": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed",
-      "take": "Bitcoin steadies near $64K as Fed hawkishness caps upside",
+      "headline": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models",
+      "take": "Bitcoin miners report mixed May output as AI buildouts impact hashrate",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "JPMorgan estimates $165B in equity selling and bond buying from June rebalancing",
+      "take": "JPMorgan estimates $165B equity selling, bond buying from June rebalancing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-165b-equity-selling-june-rebalancing/"
+    },
+    {
+      "headline": "Everyday Savers Bet Big on Bitcoin Giant Strategy's STRC\u2014Now It's Falling",
+      "take": "Retail bitcoin strategy fund STRC falls after initial investor surge",
       "source": "decrypt",
-      "link": "https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed"
-    },
-    {
-      "headline": "Oil falls to lowest since start of Iran war after ceasefire deal, and crypto markets are paying attention",
-      "take": "Oil falls to lowest since Iran war began, crypto markets react",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-falls-lowest-iran-war-ceasefire/"
-    },
-    {
-      "headline": "Warsh says central bank won\u2019t tolerate high inflation in first press conference as Fed chair",
-      "take": "New Fed chair signals central bank won't tolerate high inflation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warsh-fed-chair-inflation-rate-policy/"
-    },
-    {
-      "headline": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
-      "take": "Bond market signals shift in interest rate expectations for Bitcoin",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note"
+      "link": "https://decrypt.co/371529/everyday-savers-bet-big-bitcoin-giant-strategy-strc-falling"
     }
   ],
   "business": [
     {
-      "headline": "Tether Wallet 1.4 introduces Lightning Network support with BOLT11 invoices and LNURL",
-      "take": "Tether Wallet adds Lightning Network support with BOLT11 invoices",
+      "headline": "FIFA World Cup 2026 becomes crypto\u2019s biggest stage as prediction markets top $2 billion",
+      "take": "FIFA World Cup 2026 prediction markets exceed $2 billion in volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-wallet-lightning-network-support/"
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-prediction-markets-4/"
     },
     {
-      "headline": "Binance lists RE token with Seed Tag applied, signaling higher risk for traders",
-      "take": "Binance lists RE token with Seed Tag applied, higher risk",
+      "headline": "The DAO relaunches as a $130M Ethereum security fund a decade after its infamous hack",
+      "take": "The DAO relaunches as $130M Ethereum security fund decade after hack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-lists-re-token-seed-tag/"
+      "link": "https://cryptobriefing.com/the-dao-relaunches-ethereum-security-fund/"
     },
     {
-      "headline": "Oman launches state-backed Bitcoin mining pool, requiring all licensed miners to participate",
-      "take": "Oman launches state-backed Bitcoin mining pool for all miners",
+      "headline": "Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin",
+      "take": "Lite Strategy leads $1M investment in LitVM smart contracts platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oman-state-backed-bitcoin-mining-pool/"
+      "link": "https://cryptobriefing.com/lite-strategy-leads-1m-investment-in-litvm-to-bring-smart-contracts-to-litecoin/"
     },
     {
-      "headline": "Moca Network lets stakers burn Staking Power for LLM tokens to fuel AI agents",
-      "take": "Moca Network enables stakers to burn power for LLM tokens",
+      "headline": "Injective enables native INJ deposits on Coinbase with MultiVM technology",
+      "take": "Injective enables native INJ deposits on Coinbase via MultiVM tech",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moca-network-staking-power-llm-tokens-ai-agents/"
+      "link": "https://cryptobriefing.com/injective-native-inj-coinbase-multivm/"
     },
     {
-      "headline": "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
-      "take": "Malta's regulator explores bringing parts of DeFi under MiCA",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit"
+      "headline": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+      "take": "Kraken integrates Solana DEX trading into app with multi-network support",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Aztec hit by second $2.1M exploit in less than a week: SlowMist",
-      "take": "Aztec protocol exploited twice in one week for $2.1M each",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "\u2018Bitcoin Rodney\u2019 pleads guilty in $1.8 billion crypto fraud case",
-      "take": "'Bitcoin Rodney' pleads guilty in $1.8 billion crypto fraud",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss"
+      "headline": "Bybit lands on Singapore MAS Investor Alert List",
+      "take": "Bybit lands on Singapore MAS Investor Alert List for compliance concerns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Monetary Authority of Singapore adds Bybit Fintech to investor alert list",
-      "take": "Singapore adds Bybit Fintech to investor alert list",
+      "headline": "Federal Reserve proposes new stablecoin rules requiring customer screening under GENIUS Act",
+      "take": "Federal Reserve proposes stablecoin rules requiring customer screening under GENIUS Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/singapore-mas-bybit-investor-alert-list/"
+      "link": "https://cryptobriefing.com/fed-proposes-stablecoin-customer-screening-rules/"
     },
     {
-      "headline": "Kentucky files lawsuits against prediction market platforms Kalshi and Polymarket",
-      "take": "Kentucky sues prediction market platforms Kalshi and Polymarket",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405185/kentucky-lawsuit-kalshi-polymarket?utm_source=rss&utm_medium=rss"
+      "headline": "US government to fast-track grid connections for AI data centers",
+      "take": "US government fast-tracks grid connections for AI data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-fast-track-grid-ai-data-centers/"
     },
     {
-      "headline": "US Justice Department probes Mojtaba Khamenei\u2019s global investment portfolio",
-      "take": "US Justice Department probes Iranian Supreme Leader's investment portfolio",
+      "headline": "Anti-deepfake bill advances to Senate floor, creating new rules for AI-generated content",
+      "take": "Anti-deepfake bill advances to Senate creating rules for AI-generated content",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doj-probes-khamenei-investment-portfolio/"
+      "link": "https://cryptobriefing.com/anti-deepfake-bill-senate-take-it-down-act/"
     }
   ]
 }

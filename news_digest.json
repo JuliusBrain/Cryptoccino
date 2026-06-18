@@ -1,96 +1,102 @@
 {
-  "generated": "2026-06-18T05:08:06.459429+00:00",
-  "ts": 1781759286,
+  "generated": "2026-06-18T10:50:02.378923+00:00",
+  "ts": 1781779802,
   "market": [
     {
-      "headline": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
-      "take": "Bitcoin and ether decline after hawkish Fed signals, offsetting geopolitical relief",
+      "headline": "Live markets: Bitcoin, ether ETFs lose $111 million combined as rate-cut hopes die",
+      "take": "Bitcoin and ether ETFs shed $111M as rate-cut expectations fade",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks"
+      "link": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died"
     },
     {
-      "headline": "Bitcoin spot ETFs see $82M in outflows as Fidelity\u2019s FBTC bucks the trend",
-      "take": "Bitcoin spot ETFs see $82M outflows despite Fidelity's FBTC holding steady",
+      "headline": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed",
+      "take": "Bitcoin steadies near $64K as Fed hawkishness caps upside",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed"
+    },
+    {
+      "headline": "Oil falls to lowest since start of Iran war after ceasefire deal, and crypto markets are paying attention",
+      "take": "Oil falls to lowest since Iran war began, crypto markets react",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-spot-etf-outflows-fidelity-fbtc-inflows/"
+      "link": "https://cryptobriefing.com/oil-falls-lowest-iran-war-ceasefire/"
     },
     {
-      "headline": "Polymarket\u2019s geopolitics category surges past $5 billion as insider trading fears mount",
-      "take": "Polymarket geopolitics category exceeds $5 billion amid insider trading concerns",
+      "headline": "Warsh says central bank won\u2019t tolerate high inflation in first press conference as Fed chair",
+      "take": "New Fed chair signals central bank won't tolerate high inflation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-geopolitics-insider-trading-fears/"
+      "link": "https://cryptobriefing.com/warsh-fed-chair-inflation-rate-policy/"
     },
     {
-      "headline": "Uniswap network activity surges as whale transactions hit 7-month high",
-      "take": "Uniswap activity spikes as whale transactions reach seven-month high levels",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-whale-transactions-seven-month-high/"
-    },
-    {
-      "headline": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
-      "take": "Next crypto bull run expected slower and less volatile than previous cycles",
+      "headline": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
+      "take": "Bond market signals shift in interest rate expectations for Bitcoin",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says"
+      "link": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note"
     }
   ],
   "business": [
     {
-      "headline": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
-      "take": "CME Group plans lawsuit against CFTC over perpetual futures product approval",
+      "headline": "Tether Wallet 1.4 introduces Lightning Network support with BOLT11 invoices and LNURL",
+      "take": "Tether Wallet adds Lightning Network support with BOLT11 invoices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-wallet-lightning-network-support/"
+    },
+    {
+      "headline": "Binance lists RE token with Seed Tag applied, signaling higher risk for traders",
+      "take": "Binance lists RE token with Seed Tag applied, higher risk",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-lists-re-token-seed-tag/"
+    },
+    {
+      "headline": "Oman launches state-backed Bitcoin mining pool, requiring all licensed miners to participate",
+      "take": "Oman launches state-backed Bitcoin mining pool for all miners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oman-state-backed-bitcoin-mining-pool/"
+    },
+    {
+      "headline": "Moca Network lets stakers burn Staking Power for LLM tokens to fuel AI agents",
+      "take": "Moca Network enables stakers to burn power for LLM tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moca-network-staking-power-llm-tokens-ai-agents/"
+    },
+    {
+      "headline": "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
+      "take": "Malta's regulator explores bringing parts of DeFi under MiCA",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval"
-    },
-    {
-      "headline": "Tether ends support for Alloy and gold-backed aUSDT",
-      "take": "Tether discontinues support for Alloy and gold-backed aUSDT token",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-winds-down-ausd-stablecoin/"
-    },
-    {
-      "headline": "Uzum plans additional funding round to support expansion ahead of IPO",
-      "take": "Uzum raises additional capital ahead of planned IPO and market expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uzum-funding-round-ipo-expansion/"
-    },
-    {
-      "headline": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
-      "take": "Ark Invest buys $18M Coinbase shares, sells $29M Robinhood position",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss"
+      "link": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit"
     }
   ],
   "security": [
     {
-      "headline": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
-      "take": "France phases out non-quantum encryption as Bitcoin security concerns mount",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow"
+      "headline": "Aztec hit by second $2.1M exploit in less than a week: SlowMist",
+      "take": "Aztec protocol exploited twice in one week for $2.1M each",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "\u2018Bitcoin Rodney\u2019 pleads guilty in $1.8 billion crypto fraud case",
+      "take": "'Bitcoin Rodney' pleads guilty in $1.8 billion crypto fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "US and Iran sign Islamabad memorandum, lifting naval blockade and reopening Strait of Hormuz",
-      "take": "US and Iran sign memorandum lifting naval blockade, reopening Strait of Hormuz",
+      "headline": "Monetary Authority of Singapore adds Bybit Fintech to investor alert list",
+      "take": "Singapore adds Bybit Fintech to investor alert list",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-memorandum-strait-of-hormuz-crypto/"
+      "link": "https://cryptobriefing.com/singapore-mas-bybit-investor-alert-list/"
     },
     {
-      "headline": "Group of Seven pledges to diversify trade away from China with rare earth import caps",
-      "take": "Group of Seven pledges to diversify trade from China with rare earth caps",
+      "headline": "Kentucky files lawsuits against prediction market platforms Kalshi and Polymarket",
+      "take": "Kentucky sues prediction market platforms Kalshi and Polymarket",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405185/kentucky-lawsuit-kalshi-polymarket?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "US Justice Department probes Mojtaba Khamenei\u2019s global investment portfolio",
+      "take": "US Justice Department probes Iranian Supreme Leader's investment portfolio",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/g7-pledges-diversify-trade-china/"
-    },
-    {
-      "headline": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
-      "take": "Kentucky targets prediction markets, creating potential conflict with Trump administration",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team"
-    },
-    {
-      "headline": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
-      "take": "Michigan federal judge rules sports prediction markets fall outside CFTC jurisdiction",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview"
+      "link": "https://cryptobriefing.com/doj-probes-khamenei-investment-portfolio/"
     }
   ]
 }

@@ -1,102 +1,90 @@
 {
-  "generated": "2026-06-18T20:41:13.268223+00:00",
-  "ts": 1781815273,
+  "generated": "2026-06-18T23:12:30.545042+00:00",
+  "ts": 1781824350,
   "market": [
     {
-      "headline": "Iran and US sign ceasefire deal, triggering Bitcoin surge past $82K as geopolitical risk fades",
-      "take": "Bitcoin surges past $82K as US-Iran ceasefire reduces geopolitical risk",
+      "headline": "White House briefs Congress on initial US-Iran peace deal as Bitcoin pushes past $65K",
+      "take": "White House briefs Congress on US-Iran peace deal as Bitcoin pushes past $65K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-us-ceasefire-deal-bitcoin-surge/"
+      "link": "https://cryptobriefing.com/white-house-congress-us-iran-peace-deal/"
     },
     {
-      "headline": "Nasdaq, S&P 500 close sharply higher on US-Iran peace deal",
-      "take": "Nasdaq and S&P 500 rally sharply following US-Iran peace deal announcement",
+      "headline": "Federal Reserve signals openness to rate hikes amid inflation concerns, Bitcoin dips",
+      "take": "Federal Reserve signals openness to rate hikes amid inflation concerns, Bitcoin dips",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-sp500-rally-us-iran-peace-deal/"
+      "link": "https://cryptobriefing.com/fed-signals-rate-hikes-inflation-bitcoin/"
     },
     {
-      "headline": "Federal Reserve balance sheet edges up to $6.725 trillion as Warsh era begins",
-      "take": "Federal Reserve balance sheet rises to $6.725 trillion under new leadership",
+      "headline": "Kevin Warsh surprises markets with hawkish inflation stance in Fed debut",
+      "take": "Kevin Warsh surprises markets with hawkish inflation stance in Fed debut",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-balance-sheet-warsh-era-begins/"
+      "link": "https://cryptobriefing.com/warsh-hawkish-inflation-stance-fed-crypto/"
     },
     {
-      "headline": "Oaktree Capital sees private credit fund redemptions drop below 5% as investor exodus slows",
-      "take": "Oaktree Capital private credit redemptions drop below 5% as exodus slows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oaktree-private-credit-redemptions-drop/"
-    },
-    {
-      "headline": "HIVE Stock Spikes as Bitcoin Miner Lands $220M AI Infra Deal",
-      "take": "HIVE stock spikes on $220M AI infrastructure partnership deal",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371570/hives-220m-ai-deal-bitcoin-mining"
+      "headline": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
+      "take": "CryptoQuant reports bitcoin microtransactions now comprise eighty percent of daily volume",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Y Combinator unveils standout startups from Spring 2026 Demo Day, with stablecoin funding taking center stage",
-      "take": "Y Combinator Spring 2026 Demo Day features stablecoin funding as key focus",
+      "headline": "SpaceX plans $20B bond deal following record $75B IPO, reveals 18,712 Bitcoin on balance sheet",
+      "take": "SpaceX plans $20B bond deal following record $75B IPO, holds eighteen thousand Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/y-combinator-s26-demo-day-usdc-stablecoin-funding/"
+      "link": "https://cryptobriefing.com/spacex-20b-bond-deal-bitcoin-holdings/"
     },
     {
-      "headline": "SpaceX receives Baa1 investment grade rating from Moody\u2019s as company goes public with $1.29B Bitcoin treasury",
-      "take": "SpaceX receives Baa1 rating and goes public with $1.29B Bitcoin treasury",
+      "headline": "Apple partners with Intel for $600B domestic semiconductor initiative",
+      "take": "Apple partners with Intel for $600B domestic semiconductor manufacturing initiative",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-moodys-baa1-rating-bitcoin-treasury/"
+      "link": "https://cryptobriefing.com/apple-intel-600b-semiconductor-initiative/"
     },
     {
-      "headline": "Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs",
-      "take": "Ethereum Foundation loses Co-Director Hsiao-Wei Wang in ongoing exodus",
+      "headline": "OpenAI introduces Record & Replay plugin for Codex to automate workflows",
+      "take": "OpenAI introduces Record & Replay plugin for Codex to automate workflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-record-replay-codex-automation/"
+    },
+    {
+      "headline": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips",
+      "take": "China's Z.AI releases GLM-5.2 model rivaling Claude Opus without Nvidia chips",
       "source": "decrypt",
-      "link": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
-    },
-    {
-      "headline": "Intel appoints former SK Hynix CEO Seok-Hee Lee as EVP of foundry",
-      "take": "Intel appoints former SK Hynix CEO as EVP of foundry division",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/intel-appoints-sk-hynix-ceo-lee-foundry-evp/"
+      "link": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus"
     }
   ],
   "security": [
     {
-      "headline": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
-      "take": "CFTC settles with former Celsius CEO Mashinsky, imposes permanent trading ban",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss"
+      "headline": "CFTC Hits Celsius Crypto Fraudster Alex Mashinsky With Permanent Trading Ban",
+      "take": "CFTC imposes permanent trading ban on Celsius fraudster Alex Mashinsky",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371608/cftc-celsius-crypto-fraudster-alex-mashinsky-permanent-trading-ban"
     }
   ],
   "policy": [
     {
-      "headline": "European Union\u2019s MiCA transition period ends July 1, tightening regulations for crypto firms",
-      "take": "EU MiCA transition period ends July 1, tightening crypto firm regulations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mica-transition-period-ends-july-crypto/"
+      "headline": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+      "take": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Illinois passes law to tax crypto transfers starting 2027",
-      "take": "Illinois passes law to tax crypto transfers beginning in 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/illinois-crypto-tax-law-2027/"
+      "headline": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
+      "take": "US regulators push user ID requirements for stablecoin issuers like regulated banks",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
       "headline": "Ireland mulls crypto safeguards in response to financial risks",
-      "take": "Ireland assesses financial risks of digital assets and considers safeguards",
+      "take": "Ireland mulls crypto safeguards in response to emerging financial risks",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Rep. Bryan Steil introduces legislation to ban lawmakers from betting on prediction markets",
-      "take": "Rep. Steil introduces bill banning lawmakers from prediction market betting",
+      "headline": "Texas regulators approve framework for managing data centers\u2019 power demands",
+      "take": "Texas regulators approve framework for managing data centers' power demands",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/steil-legislation-ban-lawmakers-prediction-markets/"
-    },
-    {
-      "headline": "SEC and CFTC seek public comment to streamline swap data reporting",
-      "take": "SEC and CFTC seek comment on streamlining swap data reporting rules",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-cftc-swap-data-reporting-harmonization/"
+      "link": "https://cryptobriefing.com/texas-data-center-power-framework/"
     }
   ]
 }

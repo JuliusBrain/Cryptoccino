@@ -1,95 +1,96 @@
 {
-  "generated": "2026-06-17T22:54:15.034214+00:00",
-  "ts": 1781736855,
+  "generated": "2026-06-18T05:08:06.459429+00:00",
+  "ts": 1781759286,
   "market": [
     {
-      "headline": "Crypto markets wobble after hawkish Fed outlook in Kevin Warsh\u2019s first FOMC meeting",
-      "take": "Crypto markets decline following hawkish Fed signals on inflation control",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405152/crypto-markets-wobble-hawkish-fed-outlook-kevin-warsh-first-fomc-meeting?utm_source=rss&utm_medium=rss"
+      "headline": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
+      "take": "Bitcoin and ether decline after hawkish Fed signals, offsetting geopolitical relief",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks"
     },
     {
-      "headline": "Brazil central bank cuts key interest rate by 25 basis points for third straight meeting",
-      "take": "Brazil central bank cuts rates 25bp for third consecutive meeting",
+      "headline": "Bitcoin spot ETFs see $82M in outflows as Fidelity\u2019s FBTC bucks the trend",
+      "take": "Bitcoin spot ETFs see $82M outflows despite Fidelity's FBTC holding steady",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-central-bank-cuts-selic-rate-third-meeting/"
+      "link": "https://cryptobriefing.com/bitcoin-spot-etf-outflows-fidelity-fbtc-inflows/"
     },
     {
-      "headline": "Bank of Japan expected to hike rates again by December, say economists",
-      "take": "Bank of Japan expected to raise rates again by December",
+      "headline": "Polymarket\u2019s geopolitics category surges past $5 billion as insider trading fears mount",
+      "take": "Polymarket geopolitics category exceeds $5 billion amid insider trading concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boj-rate-hike-december-crypto-impact/"
+      "link": "https://cryptobriefing.com/polymarket-geopolitics-insider-trading-fears/"
     },
     {
-      "headline": "Canary Capital\u2019s LTCC Litecoin ETF sits at $5.4M in assets as demand gets a reality check",
-      "take": "Litecoin ETF demand remains muted at five million dollars in assets",
+      "headline": "Uniswap network activity surges as whale transactions hit 7-month high",
+      "take": "Uniswap activity spikes as whale transactions reach seven-month high levels",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canary-litecoin-etf-ltcc-demand-tested/"
+      "link": "https://cryptobriefing.com/uniswap-whale-transactions-seven-month-high/"
     },
     {
-      "headline": "Apple raises prices as AI boom sends memory chip costs soaring",
-      "take": "Apple raises prices as AI chip demand drives memory costs higher",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-raises-prices-ai-memory-costs/"
+      "headline": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
+      "take": "Next crypto bull run expected slower and less volatile than previous cycles",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says"
     }
   ],
   "business": [
     {
-      "headline": "FTX creditors may benefit from SpaceX surge worth billions",
-      "take": "FTX creditors may recover billions from SpaceX valuation surge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ftx-creditors-spacex-surge-billions/"
-    },
-    {
-      "headline": "Fidelity joins Wall Street's race to manage stablecoin reserves",
-      "take": "Fidelity enters stablecoin reserve management competition with Wall Street",
+      "headline": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
+      "take": "CME Group plans lawsuit against CFTC over perpetual futures product approval",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves"
+      "link": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval"
     },
     {
-      "headline": "DSC Holdings sets terms for $51M US IPO under ticker $DSC",
-      "take": "DSC Holdings plans fifty-one million dollar US IPO debut",
+      "headline": "Tether ends support for Alloy and gold-backed aUSDT",
+      "take": "Tether discontinues support for Alloy and gold-backed aUSDT token",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dsc-holdings-51m-ipo-nasdaq/"
+      "link": "https://cryptobriefing.com/tether-winds-down-ausd-stablecoin/"
     },
     {
-      "headline": "CME Group plans to sue CFTC over perpetual futures approval",
-      "take": "CME Group sues CFTC over perpetual futures market approval decision",
+      "headline": "Uzum plans additional funding round to support expansion ahead of IPO",
+      "take": "Uzum raises additional capital ahead of planned IPO and market expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-sue-cftc-perpetual-futures/"
+      "link": "https://cryptobriefing.com/uzum-funding-round-ipo-expansion/"
+    },
+    {
+      "headline": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
+      "take": "Ark Invest buys $18M Coinbase shares, sells $29M Robinhood position",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
+      "take": "France phases out non-quantum encryption as Bitcoin security concerns mount",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow"
+    }
+  ],
   "policy": [
     {
-      "headline": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
-      "take": "Michigan judge rules sports prediction markets outside CFTC jurisdiction",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview"
+      "headline": "US and Iran sign Islamabad memorandum, lifting naval blockade and reopening Strait of Hormuz",
+      "take": "US and Iran sign memorandum lifting naval blockade, reopening Strait of Hormuz",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-iran-memorandum-strait-of-hormuz-crypto/"
     },
     {
-      "headline": "Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act",
-      "take": "Gaming groups push Congress to ban sports betting prediction markets",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/gaming-organizations-congress-prediction-markets-ban-clarity-act?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Group of Seven pledges to diversify trade away from China with rare earth import caps",
+      "take": "Group of Seven pledges to diversify trade from China with rare earth caps",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/g7-pledges-diversify-trade-china/"
     },
     {
       "headline": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
-      "take": "Kentucky targets prediction markets, potentially conflicting with Trump administration",
+      "take": "Kentucky targets prediction markets, creating potential conflict with Trump administration",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team"
     },
     {
-      "headline": "Bybit lands on Singapore MAS Investor Alert List",
-      "take": "Bybit lands on Singapore MAS investor alert list for compliance concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "White House export ban on Anthropic models overshadows G-7 summit AI talks",
-      "take": "White House restricts Anthropic AI model exports during G-7 summit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-anthropic-export-ban-g7/"
+      "headline": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
+      "take": "Michigan federal judge rules sports prediction markets fall outside CFTC jurisdiction",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview"
     }
   ]
 }

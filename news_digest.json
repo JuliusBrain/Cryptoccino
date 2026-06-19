@@ -1,84 +1,65 @@
 {
-  "generated": "2026-06-19T15:44:52.964866+00:00",
-  "ts": 1781883892,
+  "generated": "2026-06-19T20:06:20.627036+00:00",
+  "ts": 1781899580,
   "market": [
     {
-      "headline": "Franklin Templeton files two Bitcoin DRIP ETFs that funnel stock dividends into BTC",
-      "take": "Franklin Templeton files Bitcoin DRIP ETFs converting stock dividends into BTC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-bitcoin-drip-etfs-dividends-2/"
+      "headline": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
+      "take": "Schwab enters prediction markets with S&P 500 event-based options via Cboe",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe"
     },
     {
-      "headline": "Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees",
-      "take": "Morgan Stanley files spot Ethereum and Solana ETF applications with minimal fees",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/"
-    },
-    {
-      "headline": "Over $340M in longs wiped out in 24 hours as crypto leverage gets a reality check",
-      "take": "Over $340M in crypto longs liquidated in 24 hours amid leverage unwinding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-long-liquidations-361-million/"
+      "headline": "Strive Blames Leverage Liquidations After SATA and Bitcoin Giant Strategy's STRC Plunge",
+      "take": "Strive fund sees STRC plunge after leverage liquidations in Bitcoin strategy",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371686/strive-blames-leverage-liqidations-sata-bitcoin-giant-strategy-strc-plunge"
     },
     {
       "headline": "Aave survived $8.45B in withdrawals, but risk questions remain",
-      "take": "Aave handled $8.45B withdrawals successfully despite lingering risk questions",
+      "take": "Aave processes $8.45B withdrawals; underlying protocol risks remain unclear",
       "source": "cointelegraph_defi",
       "link": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "business": [
     {
-      "headline": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding",
-      "take": "BioProtocol launches OpenLabs platform merging AI with decentralized research funding",
+      "headline": "Ripple\u2019s Swell conference returns to New York this fall with its biggest event yet",
+      "take": "Ripple's Swell conference returns to New York with expanded scale planned",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bioprotocol-openlabs-desci-berlin/"
+      "link": "https://cryptobriefing.com/ripple-swell-conference-new-york-2026/"
     },
     {
-      "headline": "GoMining opens Bitcoin payment network to merchants and wallets",
-      "take": "GoMining opens Bitcoin payment network to merchants and wallet providers",
+      "headline": "Google DeepMind vice president John Jumper joins Anthropic after Nobel win",
+      "take": "Anthropic hires Google DeepMind VP John Jumper after Nobel Prize win",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gomining-opens-bitcoin-payment-network-to-merchants-and-wallets/"
+      "link": "https://cryptobriefing.com/john-jumper-leaves-google-deepmind-joins-anthropic/"
     },
     {
-      "headline": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
-      "take": "Base targets June mainnet launch for Beryl upgrade and B20 token standard",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss"
+      "headline": "Jio Platforms prepares for India\u2019s largest IPO with backing from Meta, Alphabet, and KKR",
+      "take": "Jio Platforms targets record $4B India IPO backed by Meta and Alphabet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jio-platforms-india-largest-ipo/"
+    },
+    {
+      "headline": "Trump Accounts launch July 4, aiming to build wealth for millions of US children",
+      "take": "Trump Accounts launches July 4 product targeting US children's wealth building",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-accounts-launch-july-4-wealth-children/"
     }
   ],
-  "security": [
-    {
-      "headline": "Axelar says $4.7 million stolen in Secret Network bridge hack",
-      "take": "Axelar loses $4.7M in Secret Network bridge hack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/axelar-says-4-7-million-stolen-in-secret-network-bridge-hack/"
-    },
-    {
-      "headline": "Anime Girls Could Steal Your Crypto as Wallpaper Malware Targets Steam Gamers",
-      "take": "Anime-themed wallpaper malware targets Steam gamers to steal crypto",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371632/anime-girls-steal-crypto-wallpaper-malware-targets-steam-gamers"
-    },
-    {
-      "headline": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
-      "take": "Two Texas brothers admit $8M armed crypto robbery, face up to 20 years",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Binance\u2019s MiCA fight raises questions over ECB influence",
-      "take": "Binance challenges MiCA regulations, raising questions about ECB influence",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
+      "take": "House Republican proposes insider trading ban for lawmaker prediction market bets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market"
     },
     {
-      "headline": "Binance can serve Philippine traders under SEC framework, BlockShoals says",
-      "take": "Binance can serve Philippine traders under SEC regulatory framework",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "US and Iran sign peace deal amid ongoing 2026 war, reopen Strait of Hormuz",
+      "take": "US and Iran sign peace deal amid 2026 war, reopen Strait of Hormuz",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-and-iran-sign-peace-deal-amid-ongoing-2026-war-reopen-strait-of-hormuz/"
     }
   ]
 }

@@ -1,65 +1,84 @@
 {
-  "generated": "2026-06-19T20:06:20.627036+00:00",
-  "ts": 1781899580,
+  "generated": "2026-06-19T22:15:17.076287+00:00",
+  "ts": 1781907317,
   "market": [
     {
-      "headline": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
-      "take": "Schwab enters prediction markets with S&P 500 event-based options via Cboe",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe"
+      "headline": "Trump signs deal to reopen Strait of Hormuz as oil drops and Bitcoin surges past $66K",
+      "take": "Trump brokers Strait of Hormuz reopening; oil drops, Bitcoin surges past $66K",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-hormuz-deal-bitcoin-oil/"
     },
     {
-      "headline": "Strive Blames Leverage Liquidations After SATA and Bitcoin Giant Strategy's STRC Plunge",
-      "take": "Strive fund sees STRC plunge after leverage liquidations in Bitcoin strategy",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371686/strive-blames-leverage-liqidations-sata-bitcoin-giant-strategy-strc-plunge"
+      "headline": "24X National Exchange files SEC rule change for tokenized Russell 1000 stocks and ETFs",
+      "take": "24X National Exchange files SEC rule change for tokenized Russell 1000 ETFs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/24x-exchange-sec-tokenized-russell-1000/"
     },
     {
-      "headline": "Aave survived $8.45B in withdrawals, but risk questions remain",
-      "take": "Aave processes $8.45B withdrawals; underlying protocol risks remain unclear",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Charles Schwab plans S&P 500 prediction markets with Cboe",
+      "take": "Charles Schwab plans S&P 500 prediction markets with Cboe",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/charles-schwab-plans-sp-500-prediction-markets-with-cboe/"
+    },
+    {
+      "headline": "Strive CEO Matt Cole says STRC and SATA sell-off was a leverage liquidation, not a credit problem",
+      "take": "Strive CEO attributes STRC and SATA selloff to leverage liquidation, not credit issue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-strc-sata-leverage-liquidation/"
+    },
+    {
+      "headline": "SUI unveils Seal MPC prototype for secure AI agent payments on testnet",
+      "take": "SUI unveils Seal MPC prototype for secure AI agent payments on testnet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sui-seal-mpc-ai-agent-payments/"
     }
   ],
   "business": [
     {
       "headline": "Ripple\u2019s Swell conference returns to New York this fall with its biggest event yet",
-      "take": "Ripple's Swell conference returns to New York with expanded scale planned",
+      "take": "Ripple's Swell conference returns to New York this fall with expanded scope",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ripple-swell-conference-new-york-2026/"
     },
     {
-      "headline": "Google DeepMind vice president John Jumper joins Anthropic after Nobel win",
-      "take": "Anthropic hires Google DeepMind VP John Jumper after Nobel Prize win",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/john-jumper-leaves-google-deepmind-joins-anthropic/"
-    },
-    {
-      "headline": "Jio Platforms prepares for India\u2019s largest IPO with backing from Meta, Alphabet, and KKR",
-      "take": "Jio Platforms targets record $4B India IPO backed by Meta and Alphabet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jio-platforms-india-largest-ipo/"
-    },
-    {
       "headline": "Trump Accounts launch July 4, aiming to build wealth for millions of US children",
-      "take": "Trump Accounts launches July 4 product targeting US children's wealth building",
+      "take": "Trump Accounts launch July 4 targeting wealth building for US children",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-accounts-launch-july-4-wealth-children/"
-    }
-  ],
-  "security": [],
-  "policy": [
-    {
-      "headline": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
-      "take": "House Republican proposes insider trading ban for lawmaker prediction market bets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market"
     },
     {
-      "headline": "US and Iran sign peace deal amid ongoing 2026 war, reopen Strait of Hormuz",
-      "take": "US and Iran sign peace deal amid 2026 war, reopen Strait of Hormuz",
+      "headline": "Go plans robotaxis and acquisitions after \u00a588.6B IPO in Japan",
+      "take": "Go plans robotaxis and acquisitions following \u00a588.6B IPO in Japan",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-and-iran-sign-peace-deal-amid-ongoing-2026-war-reopen-strait-of-hormuz/"
+      "link": "https://cryptobriefing.com/go-robotaxis-ipo-japan/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "Langflow servers under attack as critical vulnerabilities spread across LangChain framework",
+      "take": "Langflow servers attacked; critical vulnerabilities spread across LangChain framework",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/langflow-servers-attack-langchain-vulnerabilities/"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Cynthia Lummis calls CLARITY Act a commitment, not a concession",
+      "take": "Cynthia Lummis calls CLARITY Act a commitment, not a concession",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lummis-clarity-act-commitment-not-concession/"
+    },
+    {
+      "headline": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+      "take": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
+      "take": "House Republican introduces insider trading bill to ban lawmaker prediction market bets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market"
     }
   ]
 }

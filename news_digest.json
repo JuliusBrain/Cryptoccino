@@ -1,72 +1,66 @@
 {
-  "generated": "2026-06-19T05:28:32.682301+00:00",
-  "ts": 1781846912,
+  "generated": "2026-06-19T10:59:05.356919+00:00",
+  "ts": 1781866745,
   "market": [
     {
-      "headline": "Bitcoin falls below $63,000 amid global risk asset sell-off",
-      "take": "Bitcoin falls below $63,000 amid global risk asset sell-off",
+      "headline": "Bitcoin, Ethereum ETFs see over $103M in net outflows on June 18",
+      "take": "Bitcoin and Ethereum ETFs saw over $103 million in net outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-falls-below-63000-amid-global-risk-asset-sell-off/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-june-18/"
     },
     {
-      "headline": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
-      "take": "Bitcoin traded below mining cost for five months, squeezing miners",
+      "headline": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
+      "take": "Smart contract and DeFi coins led losses as Bitcoin declined four consecutive days",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners"
+      "link": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day"
     },
     {
-      "headline": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
-      "take": "Morgan Stanley files for ETH and SOL ETFs with lowest fees",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Fed\u2019s hawkish shift pressures global currencies, reduces 2026 rate cut odds",
-      "take": "Fed's hawkish shift pressures global currencies, reduces rate cuts odds",
+      "headline": "Uniswap whale activity reaches 7-month high after Standard Chartered\u2019s $100 price target",
+      "take": "Uniswap whale activity hits seven-month high after $100 price target from Standard Chartered",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-hawkish-shift-pressures-global-currencies-reduces-2026-rate-cut-odds/"
+      "link": "https://cryptobriefing.com/uniswap-whale-activity-standard-chartered-price-target/"
+    },
+    {
+      "headline": "Franklin Templeton Files for ETFs That Funnel Stock Dividends Into Bitcoin",
+      "take": "Franklin Templeton files ETFs that reinvest stock dividends into Bitcoin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371656/franklin-templeton-files-for-etfs-that-funnel-stock-dividends-into-bitcoin"
     }
   ],
   "business": [
     {
-      "headline": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
-      "take": "Fidelity launches money market fund for stablecoin issuers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Algorand unveils roadmap for quantum resilience by 2027",
-      "take": "Algorand unveils roadmap for quantum resilience by 2027",
+      "headline": "Base to launch Beryl upgrade with B20 token standard on June 25",
+      "take": "Base launches Beryl upgrade with B20 token standard on June 25",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/algorand-quantum-resilience-roadmap-2027/"
+      "link": "https://cryptobriefing.com/base-to-launch-beryl-upgrade-with-b20-token-standard-on-june-25/"
     },
     {
-      "headline": "Kalshi making early IPO talks with investment banks: report",
-      "take": "Kalshi making early IPO talks with investment banks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405369/kalshi-early-ipo-talks?utm_source=rss&utm_medium=rss"
+      "headline": "Upbit lists 9 new tokens including PEAQ, LIT, and AMP on BTC and USDT markets",
+      "take": "Upbit lists nine new tokens including PEAQ, LIT, and AMP",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-lists-nine-new-tokens/"
     }
   ],
   "security": [
     {
-      "headline": "Celsius\u2019 Mashinsky gets permanent trading ban in CFTC settlement",
-      "take": "Celsius' Mashinsky receives permanent trading ban in CFTC settlement",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
+      "take": "Microsoft discovered malware hijacking crypto wallets via USB stick distribution",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC, SEC request public comment to clarify definition of \u2018swaps\u2019 amid CME lawsuit",
-      "take": "CFTC, SEC request comment to clarify 'swaps' definition after CME lawsuit",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss"
+      "headline": "China charges Bitcoin miners with illegal business operations for waste heat use",
+      "take": "China charges Bitcoin miners with illegal operations for waste heat use",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-charges-bitcoin-miners-waste-heat/"
     },
     {
-      "headline": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
-      "take": "Malta proposes DeFi rulebook covering DAOs under MiCA framework",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "What Is the CLARITY Act? The Crypto Market Structure Bill Explained",
+      "take": "CLARITY Act proposed as new crypto market structure legislation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/learn/404536/what-is-the-clarity-act?utm_source=rss&utm_medium=rss"
     }
   ]
 }

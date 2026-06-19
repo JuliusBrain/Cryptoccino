@@ -1,66 +1,84 @@
 {
-  "generated": "2026-06-19T10:59:05.356919+00:00",
-  "ts": 1781866745,
+  "generated": "2026-06-19T15:44:52.964866+00:00",
+  "ts": 1781883892,
   "market": [
     {
-      "headline": "Bitcoin, Ethereum ETFs see over $103M in net outflows on June 18",
-      "take": "Bitcoin and Ethereum ETFs saw over $103 million in net outflows",
+      "headline": "Franklin Templeton files two Bitcoin DRIP ETFs that funnel stock dividends into BTC",
+      "take": "Franklin Templeton files Bitcoin DRIP ETFs converting stock dividends into BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-june-18/"
+      "link": "https://cryptobriefing.com/franklin-bitcoin-drip-etfs-dividends-2/"
     },
     {
-      "headline": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
-      "take": "Smart contract and DeFi coins led losses as Bitcoin declined four consecutive days",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day"
-    },
-    {
-      "headline": "Uniswap whale activity reaches 7-month high after Standard Chartered\u2019s $100 price target",
-      "take": "Uniswap whale activity hits seven-month high after $100 price target from Standard Chartered",
+      "headline": "Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees",
+      "take": "Morgan Stanley files spot Ethereum and Solana ETF applications with minimal fees",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-whale-activity-standard-chartered-price-target/"
+      "link": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/"
     },
     {
-      "headline": "Franklin Templeton Files for ETFs That Funnel Stock Dividends Into Bitcoin",
-      "take": "Franklin Templeton files ETFs that reinvest stock dividends into Bitcoin",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371656/franklin-templeton-files-for-etfs-that-funnel-stock-dividends-into-bitcoin"
+      "headline": "Over $340M in longs wiped out in 24 hours as crypto leverage gets a reality check",
+      "take": "Over $340M in crypto longs liquidated in 24 hours amid leverage unwinding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-long-liquidations-361-million/"
+    },
+    {
+      "headline": "Aave survived $8.45B in withdrawals, but risk questions remain",
+      "take": "Aave handled $8.45B withdrawals successfully despite lingering risk questions",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "business": [
     {
-      "headline": "Base to launch Beryl upgrade with B20 token standard on June 25",
-      "take": "Base launches Beryl upgrade with B20 token standard on June 25",
+      "headline": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding",
+      "take": "BioProtocol launches OpenLabs platform merging AI with decentralized research funding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-to-launch-beryl-upgrade-with-b20-token-standard-on-june-25/"
+      "link": "https://cryptobriefing.com/bioprotocol-openlabs-desci-berlin/"
     },
     {
-      "headline": "Upbit lists 9 new tokens including PEAQ, LIT, and AMP on BTC and USDT markets",
-      "take": "Upbit lists nine new tokens including PEAQ, LIT, and AMP",
+      "headline": "GoMining opens Bitcoin payment network to merchants and wallets",
+      "take": "GoMining opens Bitcoin payment network to merchants and wallet providers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-nine-new-tokens/"
+      "link": "https://cryptobriefing.com/gomining-opens-bitcoin-payment-network-to-merchants-and-wallets/"
+    },
+    {
+      "headline": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
+      "take": "Base targets June mainnet launch for Beryl upgrade and B20 token standard",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
-      "take": "Microsoft discovered malware hijacking crypto wallets via USB stick distribution",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks"
+      "headline": "Axelar says $4.7 million stolen in Secret Network bridge hack",
+      "take": "Axelar loses $4.7M in Secret Network bridge hack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/axelar-says-4-7-million-stolen-in-secret-network-bridge-hack/"
+    },
+    {
+      "headline": "Anime Girls Could Steal Your Crypto as Wallpaper Malware Targets Steam Gamers",
+      "take": "Anime-themed wallpaper malware targets Steam gamers to steal crypto",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371632/anime-girls-steal-crypto-wallpaper-malware-targets-steam-gamers"
+    },
+    {
+      "headline": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
+      "take": "Two Texas brothers admit $8M armed crypto robbery, face up to 20 years",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "China charges Bitcoin miners with illegal business operations for waste heat use",
-      "take": "China charges Bitcoin miners with illegal operations for waste heat use",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-charges-bitcoin-miners-waste-heat/"
+      "headline": "Binance\u2019s MiCA fight raises questions over ECB influence",
+      "take": "Binance challenges MiCA regulations, raising questions about ECB influence",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "What Is the CLARITY Act? The Crypto Market Structure Bill Explained",
-      "take": "CLARITY Act proposed as new crypto market structure legislation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/learn/404536/what-is-the-clarity-act?utm_source=rss&utm_medium=rss"
+      "headline": "Binance can serve Philippine traders under SEC framework, BlockShoals says",
+      "take": "Binance can serve Philippine traders under SEC regulatory framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }

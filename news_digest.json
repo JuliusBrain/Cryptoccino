@@ -1,90 +1,72 @@
 {
-  "generated": "2026-06-18T23:12:30.545042+00:00",
-  "ts": 1781824350,
+  "generated": "2026-06-19T05:28:32.682301+00:00",
+  "ts": 1781846912,
   "market": [
     {
-      "headline": "White House briefs Congress on initial US-Iran peace deal as Bitcoin pushes past $65K",
-      "take": "White House briefs Congress on US-Iran peace deal as Bitcoin pushes past $65K",
+      "headline": "Bitcoin falls below $63,000 amid global risk asset sell-off",
+      "take": "Bitcoin falls below $63,000 amid global risk asset sell-off",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-congress-us-iran-peace-deal/"
+      "link": "https://cryptobriefing.com/bitcoin-falls-below-63000-amid-global-risk-asset-sell-off/"
     },
     {
-      "headline": "Federal Reserve signals openness to rate hikes amid inflation concerns, Bitcoin dips",
-      "take": "Federal Reserve signals openness to rate hikes amid inflation concerns, Bitcoin dips",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-signals-rate-hikes-inflation-bitcoin/"
+      "headline": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
+      "take": "Bitcoin traded below mining cost for five months, squeezing miners",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners"
     },
     {
-      "headline": "Kevin Warsh surprises markets with hawkish inflation stance in Fed debut",
-      "take": "Kevin Warsh surprises markets with hawkish inflation stance in Fed debut",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warsh-hawkish-inflation-stance-fed-crypto/"
-    },
-    {
-      "headline": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
-      "take": "CryptoQuant reports bitcoin microtransactions now comprise eighty percent of daily volume",
+      "headline": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
+      "take": "Morgan Stanley files for ETH and SOL ETFs with lowest fees",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Fed\u2019s hawkish shift pressures global currencies, reduces 2026 rate cut odds",
+      "take": "Fed's hawkish shift pressures global currencies, reduces rate cuts odds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/feds-hawkish-shift-pressures-global-currencies-reduces-2026-rate-cut-odds/"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX plans $20B bond deal following record $75B IPO, reveals 18,712 Bitcoin on balance sheet",
-      "take": "SpaceX plans $20B bond deal following record $75B IPO, holds eighteen thousand Bitcoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-20b-bond-deal-bitcoin-holdings/"
+      "headline": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
+      "take": "Fidelity launches money market fund for stablecoin issuers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Apple partners with Intel for $600B domestic semiconductor initiative",
-      "take": "Apple partners with Intel for $600B domestic semiconductor manufacturing initiative",
+      "headline": "Algorand unveils roadmap for quantum resilience by 2027",
+      "take": "Algorand unveils roadmap for quantum resilience by 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-intel-600b-semiconductor-initiative/"
+      "link": "https://cryptobriefing.com/algorand-quantum-resilience-roadmap-2027/"
     },
     {
-      "headline": "OpenAI introduces Record & Replay plugin for Codex to automate workflows",
-      "take": "OpenAI introduces Record & Replay plugin for Codex to automate workflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-record-replay-codex-automation/"
-    },
-    {
-      "headline": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips",
-      "take": "China's Z.AI releases GLM-5.2 model rivaling Claude Opus without Nvidia chips",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus"
+      "headline": "Kalshi making early IPO talks with investment banks: report",
+      "take": "Kalshi making early IPO talks with investment banks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405369/kalshi-early-ipo-talks?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "CFTC Hits Celsius Crypto Fraudster Alex Mashinsky With Permanent Trading Ban",
-      "take": "CFTC imposes permanent trading ban on Celsius fraudster Alex Mashinsky",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371608/cftc-celsius-crypto-fraudster-alex-mashinsky-permanent-trading-ban"
+      "headline": "Celsius\u2019 Mashinsky gets permanent trading ban in CFTC settlement",
+      "take": "Celsius' Mashinsky receives permanent trading ban in CFTC settlement",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "policy": [
     {
+      "headline": "CFTC, SEC request public comment to clarify definition of \u2018swaps\u2019 amid CME lawsuit",
+      "take": "CFTC, SEC request comment to clarify 'swaps' definition after CME lawsuit",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
-      "take": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+      "take": "Malta proposes DeFi rulebook covering DAOs under MiCA framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
-      "take": "US regulators push user ID requirements for stablecoin issuers like regulated banks",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Ireland mulls crypto safeguards in response to financial risks",
-      "take": "Ireland mulls crypto safeguards in response to emerging financial risks",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Texas regulators approve framework for managing data centers\u2019 power demands",
-      "take": "Texas regulators approve framework for managing data centers' power demands",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-data-center-power-framework/"
     }
   ]
 }

@@ -1,59 +1,72 @@
 {
-  "generated": "2026-06-20T09:45:15.724204+00:00",
-  "ts": 1781948715,
+  "generated": "2026-06-20T14:34:21.327061+00:00",
+  "ts": 1781966061,
   "market": [
     {
-      "headline": "Strategy\u2019s debt structure raises concerns amid Bitcoin price drops",
-      "take": "Strategy's debt structure raises concerns amid Bitcoin price drops",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-debt-structure-bitcoin-concerns/"
+      "headline": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+      "take": "Strategy's preferred stock collapsed, losing par value amid market turmoil",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown"
     },
     {
-      "headline": "BSTR launches with $2B war chest to challenge Strategy in the Bitcoin treasury race",
-      "take": "BSTR launches with $2B to challenge Strategy in Bitcoin treasury race",
+      "headline": "JPMorgan posts record $16.5B Q1 profit as Dimon warns the next credit crisis will be worse than anyone expects",
+      "take": "JPMorgan posts record profit; Dimon warns next credit crisis will worsen",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bstr-launches-bitcoin-treasury-challenge-strategy/"
+      "link": "https://cryptobriefing.com/jpmorgan-record-profit-credit-cycle-warning/"
     },
     {
-      "headline": "Stoxx Europe 600 index rises 2% as peace prospects boost growth outlook",
-      "take": "Stoxx Europe 600 index rises 2% as peace prospects boost outlook",
+      "headline": "Iran closes Strait of Hormuz again amid Israeli attacks in Lebanon, oil prices spike",
+      "take": "Iran closes Strait of Hormuz amid regional conflict, oil prices spike",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stoxx-europe-600-rises-peace-prospects/"
+      "link": "https://cryptobriefing.com/iran-closes-strait-hormuz-israeli-attacks-lebanon/"
     }
   ],
   "business": [
     {
-      "headline": "FIFA World Cup 2026 goes crypto-native as Tunisia faces Japan in historic 1,000th match",
-      "take": "FIFA World Cup 2026 goes crypto-native with historic 1,000th match",
+      "headline": "Meta Platforms posts $56B Q1 revenue, raises capex to $145B for superintelligence initiative",
+      "take": "Meta posts $56B Q1 revenue, increases capex to $145B for AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-tunisia-japan/"
+      "link": "https://cryptobriefing.com/meta-q1-revenue-capex-superintelligence/"
     },
     {
-      "headline": "Brazil\u2019s World Cup win sparks fan token trading frenzy as crypto meets football fever",
-      "take": "Brazil's World Cup win sparks fan token trading surge in crypto",
+      "headline": "Google, Microsoft, and Salesforce back new AI software standard to counter OpenAI and Anthropic",
+      "take": "Google, Microsoft, Salesforce back new AI standard to counter competitors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-world-cup-fan-token-crypto/"
+      "link": "https://cryptobriefing.com/ard-ai-standard-google-microsoft-salesforce/"
     },
     {
-      "headline": "Ismael Saibari earns back-to-back MOTM awards at World Cup, and fan token traders are paying attention",
-      "take": "Player fan token traders pay attention to MOTM award performance",
+      "headline": "FIFA World Cup 2026 is crypto\u2019s biggest real-world stress test yet",
+      "take": "FIFA World Cup 2026 tests cryptocurrency in real-world payments at scale",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saibari-world-cup-motm-fan-tokens/"
+      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-integration-3/"
     }
   ],
   "security": [
     {
-      "headline": "Elliptic and Thai police uncover $520M in suspicious crypto transactions spanning 32 blockchains",
-      "take": "Elliptic and Thai police uncover $520M suspicious crypto transactions",
+      "headline": "FBI warns of fake FIFA websites stealing personal information during World Cup",
+      "take": "FBI warns of fake FIFA websites stealing personal data during World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/elliptic-thai-police-520m-suspicious-crypto/"
+      "link": "https://cryptobriefing.com/fbi-warns-fake-fifa-websites-world-cup/"
     },
     {
       "headline": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
-      "take": "Crypto kidnappers who robbed Minnesota family of $8M plead guilty",
+      "take": "Crypto kidnappers who stole $8M from Minnesota family plead guilty",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
-  "policy": []
+  "policy": [
+    {
+      "headline": "Iran\u2019s World Cup travel restrictions expose deeper US sanctions crackdown on crypto",
+      "take": "US sanctions crackdown on crypto deepens, Iran travel restrictions tightened",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-world-cup-sanctions-crypto-crackdown/"
+    },
+    {
+      "headline": "US-Iran talks begin in Switzerland, focus on sanctions and uranium stockpiles",
+      "take": "US-Iran talks in Switzerland focus on sanctions and uranium stockpiles",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-iran-talks-begin-in-switzerland-focus-on-sanctions-and-uranium-stockpiles/"
+    }
+  ]
 }

@@ -1,62 +1,68 @@
 {
-  "generated": "2026-06-20T16:54:30.600711+00:00",
-  "ts": 1781974470,
+  "generated": "2026-06-20T19:58:48.155930+00:00",
+  "ts": 1781985528,
   "market": [
     {
       "headline": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
-      "take": "Bitcoin network activity rising despite price down nearly fifty percent",
+      "take": "Bitcoin network activity rising despite price down nearly fifty percent from peak",
       "source": "decrypt",
       "link": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price"
     },
     {
       "headline": "Bitdeer sells all mined Bitcoin since February, totaling over $205M",
-      "take": "Bitdeer sold all mined Bitcoin since February, totaling over two hundred million",
+      "take": "Bitdeer sold all mined Bitcoin since February totaling over two hundred five million",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitdeer-sells-bitcoin-205m-ai-pivot/"
     },
     {
       "headline": "Ledn research reveals \u2018collateral gap\u2019 in Bitcoin lending as 88% express interest but only 14% borrow",
-      "take": "Bitcoin lending shows collateral gap; eighty-eight percent interested but fourteen percent borrow",
+      "take": "Bitcoin lending shows collateral gap with eighty-eight percent interested but fourteen percent borrowing",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ledn-collateral-gap-bitcoin-lending/"
     },
     {
-      "headline": "Iran closes Strait of Hormuz over Israel\u2019s attacks on Lebanon, rattling energy and crypto markets",
-      "take": "Iran closes Strait of Hormuz over Israel attacks, rattling energy markets",
+      "headline": "SpaceX frenzy cools as new cash wave awaits after IPO",
+      "take": "SpaceX funding momentum cools as new capital wave expected after planned IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-crypto-impact-2/"
+      "link": "https://cryptobriefing.com/spacex-ipo-frenzy-cools-bond-sale/"
     }
   ],
   "business": [
     {
+      "headline": "Charles Schwab is working with Cboe to launch S&P 500 \u2018yes-or-no\u2019 binary options contracts: WSJ",
+      "take": "Charles Schwab partnering with Cboe to launch binary options on S&P five hundred",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Shift4 Payments enhances Pay with Crypto solution, accepts Tether payments",
-      "take": "Shift4 Payments enhances crypto solution, now accepts Tether payments",
+      "take": "Shift4 Payments expands crypto payments accepting Tether alongside existing solutions",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/shift4-payments-tether-usdt-crypto/"
     },
     {
-      "headline": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
-      "take": "Andre Cronje resigns from Sonic Labs board as S token trades ninety-seven percent below peak",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss"
+      "headline": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap\u2014Right as Fable 5 Goes Dark",
+      "take": "OpenRouter Fusion offers Claude-level AI inference at lower cost as Sonnet five launches",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap"
     },
     {
-      "headline": "World Cup 2026 prediction markets are dwarfing fan token trading as Netherlands faces Sweden",
-      "take": "World Cup prediction markets dwarf fan token trading during Netherlands-Sweden match",
+      "headline": "Jack Dorsey calls for elimination of middle managers at Block Inc, replacing them with AI",
+      "take": "Jack Dorsey pushes Block to replace middle managers with AI-driven decision systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-prediction-markets-crypto-netherlands-sweden/"
+      "link": "https://cryptobriefing.com/dorsey-block-eliminate-middle-managers-ai/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
-      "take": "Crypto kidnappers who robbed Minnesota family of eight million dollars plead guilty",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
+      "take": "Andre Cronje and two others resign from Sonic Labs board as S token crashes ninety-seven percent",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "AI is making crypto security cheaper, faster and harder to ignore",
-      "take": "Artificial intelligence making crypto security cheaper, faster and harder to ignore",
+      "take": "AI is making crypto security cheaper faster and harder to ignore",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore"
     }
@@ -64,27 +70,9 @@
   "policy": [
     {
       "headline": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-      "take": "Crypto industry seeks stablecoins and DeFi revisions in MiCA two-point-zero",
+      "take": "Crypto industry pushing stablecoins and DeFi revisions into MiCA two point zero framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Robinhood backs effort to eliminate SEC Rule 611 on best prices",
-      "take": "Robinhood backs effort to eliminate SEC Rule six-eleven on best prices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-eliminate-sec-rule-611/"
-    },
-    {
-      "headline": "Nigel Farage urges Bank of England to abandon digital pound plans",
-      "take": "Nigel Farage urges Bank of England to abandon digital pound plans",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/farage-bank-of-england-digital-pound-cbdc/"
-    },
-    {
-      "headline": "Enforcement Directorate raids Bengaluru firms over $260M crypto transfers",
-      "take": "Enforcement Directorate raids Bengaluru firms over two hundred sixty million crypto transfers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-ed-raids-bengaluru-crypto-firms/"
     }
   ]
 }

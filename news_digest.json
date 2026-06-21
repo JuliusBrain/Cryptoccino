@@ -1,60 +1,72 @@
 {
-  "generated": "2026-06-21T10:07:29.568936+00:00",
-  "ts": 1782036449,
+  "generated": "2026-06-21T14:35:17.709329+00:00",
+  "ts": 1782052517,
   "market": [
     {
       "headline": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
-      "take": "Bitcoin holds near $64,000 amid renewed Hormuz threat and US-Iran tensions",
+      "take": "Bitcoin holds near $64,000 amid US-Iran tensions and ceasefire uncertainty",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks"
+    },
+    {
+      "headline": "Collector Crypt hits new weekly revenue ATH on Solana with $4.75M haul",
+      "take": "Collector Crypt hits weekly revenue peak of $4.75M on Solana",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/collector-crypt-weekly-revenue-ath-solana/"
+    },
+    {
+      "headline": "Bellingham\u2019s World Cup masterclass sparks $JUDE meme token chaos, then a 98% crash",
+      "take": "Meme token JUDE crashed 98% after World Cup player hype cycle",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bellingham-jude-meme-token-crash/"
     }
   ],
   "business": [
     {
-      "headline": "Brila introduces mechanism to convert community demand into treasury reserves",
-      "take": "Brila introduces mechanism to convert community demand into treasury reserves",
+      "headline": "Humble Robotics raises $24M to develop driverless freight trucks",
+      "take": "Humble Robotics raises $24M for autonomous freight truck development",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brila-treasury-reserves-mechanism/"
+      "link": "https://cryptobriefing.com/humble-robotics-raises-24m-driverless-freight-trucks/"
     },
     {
-      "headline": "Fetch.ai publishes tutorial for building a Google Gemini image generation agent",
-      "take": "Fetch.ai publishes tutorial for building Google Gemini image generation agent",
+      "headline": "World Cup 2026 brings elite managers and crypto partnerships to the biggest stage in football",
+      "take": "World Cup 2026 attracts elite football managers and crypto partnerships",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fetch-ai-gemini-image-generation-agent/"
-    },
-    {
-      "headline": "ClickUp\u2019s Brain AI autonomously creates dedicated agents for tasks",
-      "take": "ClickUp's Brain AI autonomously creates dedicated agents for tasks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clickup-brain-ai-autonomous-agents/"
+      "link": "https://cryptobriefing.com/world-cup-2026-elite-managers-crypto-partnerships/"
     }
   ],
   "security": [
     {
       "headline": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "take": "Ethereum sandwich bot Jaredfromsubway.eth exploited for $7.5 million",
+      "take": "Ethereum sandwich bot exploited and drained of $7.5 million",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit"
+    },
+    {
+      "headline": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+      "take": "AI amplification spiral may cause delusions and misinformation among users",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study"
     }
   ],
   "policy": [
     {
-      "headline": "Hungary\u2019s Tisza P\u00e1rt pushes asset recovery office bill that could reshape the country\u2019s financial oversight",
-      "take": "Hungary's Tisza P\u00e1rt pushes asset recovery office bill reshaping financial oversight",
+      "headline": "US and Iran begin high-stakes talks in Switzerland with Qatar and Pakistan mediating",
+      "take": "US and Iran begin high-stakes talks in Switzerland with mediators",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hungary-tisza-part-asset-recovery-office-bill/"
+      "link": "https://cryptobriefing.com/us-iran-switzerland-talks-qatar-mediation/"
     },
     {
-      "headline": "UK government plans social media ban for under-16s, sparking debate over enforcement and privacy",
-      "take": "UK government plans social media ban for under-16s sparking enforcement debate",
+      "headline": "Colombia votes in polarized presidential runoff with crypto policy, US relations, and drug war at stake",
+      "take": "Colombia's presidential runoff addresses crypto policy and US relations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-social-media-ban-under-16/"
+      "link": "https://cryptobriefing.com/colombia-presidential-election-crypto-implications/"
     },
     {
-      "headline": "Central Bank of Iran adds billions to foreign currency reserves amid sanctions and currency crisis",
-      "take": "Central Bank of Iran adds billions to foreign currency reserves amid sanctions",
+      "headline": "Republicans outpace Democrats in crypto adoption, Pew data shows",
+      "take": "Republicans increasingly adopt crypto over Democrats according to Pew data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-central-bank-foreign-currency-reserves-sanctions/"
+      "link": "https://cryptobriefing.com/republicans-outpace-democrats-crypto-adoption-pew/"
     }
   ]
 }

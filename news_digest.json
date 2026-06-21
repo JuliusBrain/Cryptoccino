@@ -1,72 +1,60 @@
 {
-  "generated": "2026-06-21T14:35:17.709329+00:00",
-  "ts": 1782052517,
+  "generated": "2026-06-21T16:56:12.173248+00:00",
+  "ts": 1782060972,
   "market": [
     {
       "headline": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
-      "take": "Bitcoin holds near $64,000 amid US-Iran tensions and ceasefire uncertainty",
+      "take": "Bitcoin holds near $64,000 amid geopolitical tensions over Iran nuclear talks",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks"
     },
     {
-      "headline": "Collector Crypt hits new weekly revenue ATH on Solana with $4.75M haul",
-      "take": "Collector Crypt hits weekly revenue peak of $4.75M on Solana",
+      "headline": "Germany and Mexico lock in knockout stage spots as crypto prediction markets surge on World Cup day 10",
+      "take": "Crypto prediction markets surge as Germany and Mexico advance in World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/collector-crypt-weekly-revenue-ath-solana/"
-    },
-    {
-      "headline": "Bellingham\u2019s World Cup masterclass sparks $JUDE meme token chaos, then a 98% crash",
-      "take": "Meme token JUDE crashed 98% after World Cup player hype cycle",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bellingham-jude-meme-token-crash/"
+      "link": "https://cryptobriefing.com/germany-mexico-world-cup-crypto-prediction-markets/"
     }
   ],
   "business": [
     {
-      "headline": "Humble Robotics raises $24M to develop driverless freight trucks",
-      "take": "Humble Robotics raises $24M for autonomous freight truck development",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/humble-robotics-raises-24m-driverless-freight-trucks/"
+      "headline": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+      "take": "Inception Labs' Mercury 2 AI outperforms Google's DiffusionGemma in benchmark comparison",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma"
     },
     {
-      "headline": "World Cup 2026 brings elite managers and crypto partnerships to the biggest stage in football",
-      "take": "World Cup 2026 attracts elite football managers and crypto partnerships",
+      "headline": "Absci Corporation progresses ABS-201 into human trials, bolstering AI-driven drug discovery",
+      "take": "Absci Corporation progresses ABS-201 into human trials for AI-driven drug discovery",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-2026-elite-managers-crypto-partnerships/"
+      "link": "https://cryptobriefing.com/absci-abs-201-ai-drug-discovery-human-trials/"
+    },
+    {
+      "headline": "Jane Street\u2019s private company portfolio reaches $20B as trading firm outearns major banks",
+      "take": "Jane Street's private portfolio reaches $20B, outearning several major banks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jane-street-private-portfolio-20-billion/"
     }
   ],
   "security": [
     {
       "headline": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "take": "Ethereum sandwich bot exploited and drained of $7.5 million",
+      "take": "Ethereum's largest MEV sandwich bot drained of $7.5 million in counter-exploit",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit"
-    },
-    {
-      "headline": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
-      "take": "AI amplification spiral may cause delusions and misinformation among users",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study"
     }
   ],
   "policy": [
     {
-      "headline": "US and Iran begin high-stakes talks in Switzerland with Qatar and Pakistan mediating",
-      "take": "US and Iran begin high-stakes talks in Switzerland with mediators",
+      "headline": "Peru\u2019s Fuerza Popular pushes security laws that could reshape crypto regulation under a Fujimori presidency",
+      "take": "Peru's Fuerza Popular proposes security laws that may reshape crypto regulation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-switzerland-talks-qatar-mediation/"
+      "link": "https://cryptobriefing.com/peru-fuerza-popular-security-laws-crypto-regulation/"
     },
     {
-      "headline": "Colombia votes in polarized presidential runoff with crypto policy, US relations, and drug war at stake",
-      "take": "Colombia's presidential runoff addresses crypto policy and US relations",
+      "headline": "Crypto\u2019s esports divorce is complete: IEM Cologne Major 2026 runs without a single blockchain sponsor",
+      "take": "IEM Cologne Major 2026 runs without blockchain sponsors, signaling crypto's esports exit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/colombia-presidential-election-crypto-implications/"
-    },
-    {
-      "headline": "Republicans outpace Democrats in crypto adoption, Pew data shows",
-      "take": "Republicans increasingly adopt crypto over Democrats according to Pew data",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/republicans-outpace-democrats-crypto-adoption-pew/"
+      "link": "https://cryptobriefing.com/crypto-esports-sponsorship-iem-cologne-2026/"
     }
   ]
 }

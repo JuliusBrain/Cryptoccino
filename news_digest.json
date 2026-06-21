@@ -1,47 +1,66 @@
 {
-  "generated": "2026-06-21T20:06:51.867480+00:00",
-  "ts": 1782072411,
+  "generated": "2026-06-21T22:37:19.664265+00:00",
+  "ts": 1782081439,
   "market": [
     {
-      "headline": "Notorious \u2018jaredfromsubway\u2019 MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
-      "take": "MEV bot lost $7.5M in counter-MEV honeypot trap",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss"
+      "headline": "Russell 2000 unprofitable stocks surge 60%, outpacing profitable firms in speculative rally",
+      "take": "Russell 2000 unprofitable stocks surge 60%, outpacing profitable firms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russell-2000-unprofitable-stocks-surge/"
     },
     {
-      "headline": "Spain crushes Saudi Arabia 4-0 in World Cup opener as crypto fan tokens and prediction markets surge",
-      "take": "Crypto fan tokens and prediction markets surge on World Cup results",
+      "headline": "Marvell Technology replaces Campbell\u2019s in S&P 500 as index tilts further toward tech",
+      "take": "Marvell Technology replaces Campbell's in S&P 500 index",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spain-world-cup-crypto-fan-tokens/"
+      "link": "https://cryptobriefing.com/marvell-replaces-campbells-sp500-index/"
+    },
+    {
+      "headline": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+      "take": "CME perpetual swaps lawsuit raises questions about derivative classification",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto"
     }
   ],
   "business": [
     {
-      "headline": "Leviat\u00e1n Esports wins VALORANT Masters London 2026 championship",
-      "take": "Leviat\u00e1n Esports wins VALORANT Masters London championship",
+      "headline": "VALORANT Masters London grand finals features Paper Rex vs Leviat\u00e1n, with Coinbase as crypto partner",
+      "take": "Coinbase partners with VALORANT Masters London as esports sponsor",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/leviatn-esports-wins-valorant-masters-london-2026-championship/"
+      "link": "https://cryptobriefing.com/valorant-masters-london-grand-finals-paper-rex-leviatan/"
     },
     {
       "headline": "Team Falcons triumph at IEM Cologne Major, securing $1.2M prize",
-      "take": "Team Falcons triumphs at IEM Cologne Major, secures $1.2M",
+      "take": "Team Falcons wins IEM Cologne Major championship, claims $1.2M",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/team-falcons-triumph-at-iem-cologne-major-securing-12m-prize/"
     },
     {
-      "headline": "VALORANT Masters London grand finals features Paper Rex vs Leviat\u00e1n, with Coinbase as crypto partner",
-      "take": "Coinbase partners as crypto sponsor for VALORANT esports event",
+      "headline": "Anthropic and OpenAI gear up for dueling AI model releases as mid-tier race heats up",
+      "take": "Anthropic and OpenAI prepare competing AI model releases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/valorant-masters-london-grand-finals-paper-rex-leviatan/"
+      "link": "https://cryptobriefing.com/anthropic-sonnet-5-openai-gpt-56-launch/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake \u2018Zksync.jp\u2019 token: Nikkei",
+      "take": "Chinese fentanyl network linked to fake ZKSync token fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Notorious \u2018jaredfromsubway\u2019 MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+      "take": "MEV bot 'jaredfromsubway' drained of $7.5M in honeypot",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss"
+    }
+  ],
   "policy": [
     {
-      "headline": "Are perps swaps? A quick look at that CME suit: State of Crypto",
-      "take": "CME perpetual swaps questioned in ongoing regulatory scrutiny",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto"
+      "headline": "Trump plans to seize Strait of Hormuz if negotiations fail: Senator Graham",
+      "take": "Trump considers seizing Strait of Hormuz if negotiations fail",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-plans-to-seize-strait-of-hormuz-if-negotiations-fail-senator-graham/"
     }
   ]
 }

@@ -1,102 +1,72 @@
 {
-  "generated": "2026-06-20T22:37:04.142525+00:00",
-  "ts": 1781995024,
+  "generated": "2026-06-21T05:21:03.732693+00:00",
+  "ts": 1782019263,
   "market": [
     {
-      "headline": "Solana chain transactions more than double since January 1st",
-      "take": "Solana chain transactions more than doubled since January first",
+      "headline": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
+      "take": "Bitcoin ETFs saw record $6.4B outflow in thirty days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-transactions-double-since-january/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-shed-record-64b-in-30-days-amid-crypto-winter-chill/"
     },
     {
-      "headline": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
-      "take": "Bitcoin network activity rising despite price falling nearly fifty percent",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price"
-    },
-    {
-      "headline": "US Federal Reserve sees faster inflation in latest gauge update",
-      "take": "US Federal Reserve sees faster inflation in latest gauge update",
+      "headline": "VanEck Bitcoin ETF charges lower fees than BlackRock\u2019s iShares Bitcoin Trust, but there\u2019s a catch",
+      "take": "VanEck Bitcoin ETF undercuts BlackRock on fees with trade-offs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-pce-inflation-gauge-april-2026/"
-    },
-    {
-      "headline": "Cathie Wood invests $52M in surging tech stock amid ETF volatility",
-      "take": "Cathie Wood invests fifty-two million in surging tech stock",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cathie-wood-52m-snowflake-etf-volatility/"
+      "link": "https://cryptobriefing.com/vaneck-bitcoin-etf-fees-vs-ishares/"
     },
     {
       "headline": "Charles Schwab is working with Cboe to launch S&P 500 \u2018yes-or-no\u2019 binary options contracts: WSJ",
-      "take": "Charles Schwab launching S&P 500 binary options with Cboe",
+      "take": "Charles Schwab and Cboe launching S&P 500 binary options",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI partners with Open Network Lab for Kyoto startup pitch contest offering $1M in API credits",
-      "take": "OpenAI partners with Open Network Lab offering one million in credits",
+      "headline": "Eric Trump details family\u2019s $1B crypto ventures, including Trump Coin and American Bitcoin",
+      "take": "Eric Trump details Trump family's one billion dollar crypto ventures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-onlab-kyoto-startup-pitch-contest/"
-    },
-    {
-      "headline": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
-      "take": "Andre Cronje and two others resign from Sonic Labs board",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Jack Dorsey calls for elimination of middle managers at Block Inc, replacing them with AI",
-      "take": "Jack Dorsey calls for eliminating middle managers at Block Inc",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dorsey-block-eliminate-middle-managers-ai/"
-    },
-    {
-      "headline": "Manus investors plan to buy back AI startup from Meta for $2B",
-      "take": "Manus investors plan two billion buyback of AI startup from Meta",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/manus-investors-buyback-meta-2-billion/"
+      "link": "https://cryptobriefing.com/eric-trump-billion-dollar-crypto-ventures/"
     },
     {
       "headline": "Pump.fun launches bounty platform where users climb Everest and get face tattoos for crypto",
-      "take": "Pump.fun launches bounty platform with extreme physical challenges",
+      "take": "Pump.fun launches bounty platform with unconventional reward mechanics",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/pump-fun-bounty-platform-extreme-crypto-challenges/"
+    },
+    {
+      "headline": "FIFA World Cup 2026 brings crypto front and center as Ecuador faces Curacao in Group E",
+      "take": "FIFA World Cup 2026 integrating cryptocurrency prominently into tournament",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-kraken-avalanche-3/"
     }
   ],
   "security": [
     {
       "headline": "Secret Network\u2019s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
-      "take": "Secret Network's Axelar bridge drained four point six seven million",
+      "take": "Axelar bridge drained for $4.67M via infinite-mint exploit undetected",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "JaredFromSubway MEV bot exploited for over $15M",
-      "take": "JaredFromSubway MEV bot exploited for over fifteen million dollars",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jaredfromsubway-mev-bot-exploited-15m/"
+      "headline": "Notorious \u2018sandwich attack\u2019 bot Jaredfromsubway.eth exploited for $7.5M",
+      "take": "Sandwich attack bot Jaredfromsubway.eth exploited for $7.5 million",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Morpho Blue\u2019s AlphaUSDC Delta V2 vault faces $18M loss as msY token collapses",
-      "take": "Morpho Blue's AlphaUSDC vault faces eighteen million loss from collapse",
+      "headline": "Thailand busts illegal Bitcoin mining operation, seizes 315 rigs across five provinces",
+      "take": "Thailand busts illegal Bitcoin mining operation, seizes three hundred fifteen rigs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-blue-vault-msy-collapse-loss/"
-    },
-    {
-      "headline": "AI is making crypto security cheaper, faster and harder to ignore",
-      "take": "AI making crypto security cheaper, faster and harder to ignore",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore"
+      "link": "https://cryptobriefing.com/thailand-busts-illegal-bitcoin-mining-315-rigs/"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-      "take": "Crypto industry pursuing stablecoins and DeFi revisions in MiCA 2.0",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Vice President JD Vance heads to Switzerland for Iran talks amid Strait of Hormuz tensions",
+      "take": "Vice President Vance heads to Switzerland for Iran nuclear talks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vance-switzerland-iran-talks-hormuz/"
     }
   ]
 }

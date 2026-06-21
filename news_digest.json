@@ -1,60 +1,47 @@
 {
-  "generated": "2026-06-21T16:56:12.173248+00:00",
-  "ts": 1782060972,
+  "generated": "2026-06-21T20:06:51.867480+00:00",
+  "ts": 1782072411,
   "market": [
     {
-      "headline": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
-      "take": "Bitcoin holds near $64,000 amid geopolitical tensions over Iran nuclear talks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks"
+      "headline": "Notorious \u2018jaredfromsubway\u2019 MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+      "take": "MEV bot lost $7.5M in counter-MEV honeypot trap",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Germany and Mexico lock in knockout stage spots as crypto prediction markets surge on World Cup day 10",
-      "take": "Crypto prediction markets surge as Germany and Mexico advance in World Cup",
+      "headline": "Spain crushes Saudi Arabia 4-0 in World Cup opener as crypto fan tokens and prediction markets surge",
+      "take": "Crypto fan tokens and prediction markets surge on World Cup results",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/germany-mexico-world-cup-crypto-prediction-markets/"
+      "link": "https://cryptobriefing.com/spain-world-cup-crypto-fan-tokens/"
     }
   ],
   "business": [
     {
-      "headline": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
-      "take": "Inception Labs' Mercury 2 AI outperforms Google's DiffusionGemma in benchmark comparison",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma"
+      "headline": "Leviat\u00e1n Esports wins VALORANT Masters London 2026 championship",
+      "take": "Leviat\u00e1n Esports wins VALORANT Masters London championship",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/leviatn-esports-wins-valorant-masters-london-2026-championship/"
     },
     {
-      "headline": "Absci Corporation progresses ABS-201 into human trials, bolstering AI-driven drug discovery",
-      "take": "Absci Corporation progresses ABS-201 into human trials for AI-driven drug discovery",
+      "headline": "Team Falcons triumph at IEM Cologne Major, securing $1.2M prize",
+      "take": "Team Falcons triumphs at IEM Cologne Major, secures $1.2M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/absci-abs-201-ai-drug-discovery-human-trials/"
+      "link": "https://cryptobriefing.com/team-falcons-triumph-at-iem-cologne-major-securing-12m-prize/"
     },
     {
-      "headline": "Jane Street\u2019s private company portfolio reaches $20B as trading firm outearns major banks",
-      "take": "Jane Street's private portfolio reaches $20B, outearning several major banks",
+      "headline": "VALORANT Masters London grand finals features Paper Rex vs Leviat\u00e1n, with Coinbase as crypto partner",
+      "take": "Coinbase partners as crypto sponsor for VALORANT esports event",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jane-street-private-portfolio-20-billion/"
+      "link": "https://cryptobriefing.com/valorant-masters-london-grand-finals-paper-rex-leviatan/"
     }
   ],
-  "security": [
-    {
-      "headline": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "take": "Ethereum's largest MEV sandwich bot drained of $7.5 million in counter-exploit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Peru\u2019s Fuerza Popular pushes security laws that could reshape crypto regulation under a Fujimori presidency",
-      "take": "Peru's Fuerza Popular proposes security laws that may reshape crypto regulation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/peru-fuerza-popular-security-laws-crypto-regulation/"
-    },
-    {
-      "headline": "Crypto\u2019s esports divorce is complete: IEM Cologne Major 2026 runs without a single blockchain sponsor",
-      "take": "IEM Cologne Major 2026 runs without blockchain sponsors, signaling crypto's esports exit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-esports-sponsorship-iem-cologne-2026/"
+      "headline": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+      "take": "CME perpetual swaps questioned in ongoing regulatory scrutiny",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto"
     }
   ]
 }

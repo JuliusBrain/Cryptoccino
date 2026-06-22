@@ -1,84 +1,84 @@
 {
-  "generated": "2026-06-22T05:34:32.878695+00:00",
-  "ts": 1782106472,
+  "generated": "2026-06-22T12:28:25.932423+00:00",
+  "ts": 1782131305,
   "market": [
     {
-      "headline": "US and Iran agree to end 110-day conflict, reopen Strait of Hormuz",
-      "take": "US and Iran agree to end conflict, reopen Strait of Hormuz shipping",
+      "headline": "Strategy buys 520 Bitcoin at average price of $67,068, expanding treasury to 847,363 BTC",
+      "take": "MicroStrategy bought 520 Bitcoin, expanding holdings to 847,363 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-and-iran-agree-to-end-110-day-conflict-reopen-strait-of-hormuz/"
+      "link": "https://cryptobriefing.com/strategy-buys-520-bitcoin-847363-btc-treasury/"
     },
     {
-      "headline": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
-      "take": "Bitcoin holds near $64,000 as geopolitical tensions ease but rally stalls",
+      "headline": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
+      "take": "Bitcoin holds steady after hawkish Fed remarks, demand remains subdued",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts"
+    },
+    {
+      "headline": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
+      "take": "Baillie Gifford launches tokenized Solana and Ethereum fund with BNY",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally"
+      "link": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny"
     },
     {
-      "headline": "CSOP lifts options cap for its $12.8B SK Hynix leveraged ETF, the world\u2019s largest",
-      "take": "CSOP lifts options cap for world's largest leveraged ETF at $12.8B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/csop-options-cap-sk-hynix-leveraged-etf/"
+      "headline": "Bitcoin ETF outflow pain eases just as another headwind gathers strength",
+      "take": "Bitcoin ETF outflows ease as new headwinds emerge for market",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens"
     },
     {
-      "headline": "Japan\u2019s National Business Corporate Pension Fund plans 1% crypto allocation by fiscal 2026",
-      "take": "Japan's pension fund plans 1% crypto allocation by fiscal 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-pension-fund-crypto-allocation-2026/"
+      "headline": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
+      "take": "Derivatives traders express skepticism about sustained Bitcoin and altcoin rally",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally"
     }
   ],
   "business": [
     {
-      "headline": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
-      "take": "Ethereum Layer 2 Taiko halts production after exploit, urges fund withdrawals",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss"
+      "headline": "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B",
+      "take": "Index Ventures and USV back FOMO at $550M valuation in Series B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fomo-series-b-550m-valuation/"
     },
     {
-      "headline": "Altura winds down stablecoin vault after $9M in withdrawals",
-      "take": "Altura winds down stablecoin vault following $9M in withdrawal requests",
+      "headline": "Cardano Foundation supports BloxBean\u2019s launch of Analytics Store for easy data access",
+      "take": "Cardano Foundation supports BloxBean's Analytics Store launch for data access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/altura-stablecoin-vault-wind-down/"
+      "link": "https://cryptobriefing.com/cardano-bloxbean-analytics-store-launch/"
     },
     {
-      "headline": "Lime plans to name Uber as anchor investor in IPO targeting $200M",
-      "take": "Lime targets $200M IPO with Uber as planned anchor investor",
+      "headline": "Arcium launches $ARX token with $400M FDV and $95M market cap",
+      "take": "Arcium launches ARX token with $400M fully diluted valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lime-uber-anchor-investor-ipo/"
+      "link": "https://cryptobriefing.com/arcium-arx-token-launch-400m-fdv/"
     }
   ],
   "security": [
     {
-      "headline": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake \u2018Zksync.jp\u2019 token: Nikkei",
-      "take": "Chinese fentanyl network tied to crypto fraud using fake Zksync token",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss"
+      "headline": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
+      "take": "Q2 2026 becomes record quarter for hacks with 83 incidents reported",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
-      "take": "Polymarket paid creators to stage fake winning bets on dummy sites",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss"
+      "headline": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ",
+      "take": "1.9M in fake bets drove Polymarket hype, Wall Street Journal reports",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj"
     }
   ],
   "policy": [
     {
-      "headline": "China targets US rare earth firms with new export controls in latest trade war escalation",
-      "take": "China targets US rare earth firms with new export controls in trade war",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-us-rare-earth-export-controls/"
+      "headline": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+      "take": "Bank of England eases stablecoin rules, introduces 40 billion pound cap",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Trump rolls out new tariff tools after Supreme Court ruling strikes down IEEPA trade powers",
-      "take": "Trump deploys new tariff tools after Supreme Court strikes IEEPA trade powers",
+      "headline": "Andrew Cuomo\u2019s crypto ties with OKX draw scrutiny amid NYC mayoral bid",
+      "take": "Andrew Cuomo's OKX ties draw scrutiny during NYC mayoral campaign",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-new-tariff-tools-supreme-court-ruling/"
-    },
-    {
-      "headline": "China warns of supply chain fragmentation amid rising protectionism",
-      "take": "China warns of supply chain fragmentation amid rising protectionism concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-rare-earth-supply-chain-fragmentation/"
+      "link": "https://cryptobriefing.com/cuomo-okx-crypto-advisory-mayoral-race/"
     }
   ]
 }

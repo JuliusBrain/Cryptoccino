@@ -1,84 +1,78 @@
 {
-  "generated": "2026-06-22T12:28:25.932423+00:00",
-  "ts": 1782131305,
+  "generated": "2026-06-22T18:54:00.125182+00:00",
+  "ts": 1782154440,
   "market": [
     {
-      "headline": "Strategy buys 520 Bitcoin at average price of $67,068, expanding treasury to 847,363 BTC",
-      "take": "MicroStrategy bought 520 Bitcoin, expanding holdings to 847,363 BTC",
+      "headline": "Bullish climbs to number two globally for BTC options by open interest, eyes massive growth ahead",
+      "take": "Bullish climbs to number two globally for BTC options by open interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-buys-520-bitcoin-847363-btc-treasury/"
+      "link": "https://cryptobriefing.com/bullish-second-btc-options-open-interest/"
     },
     {
-      "headline": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
-      "take": "Bitcoin holds steady after hawkish Fed remarks, demand remains subdued",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts"
+      "headline": "Aptos records 83.7M transactions in strongest week of 2026",
+      "take": "Aptos records 83.7M transactions in strongest week of 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aptos-83-million-transactions-strongest-week/"
     },
     {
-      "headline": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
-      "take": "Baillie Gifford launches tokenized Solana and Ethereum fund with BNY",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny"
-    },
-    {
-      "headline": "Bitcoin ETF outflow pain eases just as another headwind gathers strength",
-      "take": "Bitcoin ETF outflows ease as new headwinds emerge for market",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens"
-    },
-    {
-      "headline": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
-      "take": "Derivatives traders express skepticism about sustained Bitcoin and altcoin rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally"
+      "headline": "Oil supply surge expected to ease market tightness, impact prices",
+      "take": "Oil supply surge expected to ease market tightness, impact prices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-supply-surge-expected-to-ease-market-tightness-impact-prices/"
     }
   ],
   "business": [
     {
-      "headline": "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B",
-      "take": "Index Ventures and USV back FOMO at $550M valuation in Series B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomo-series-b-550m-valuation/"
+      "headline": "ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street",
+      "take": "ICE and OKX team up to bring tokenized securities to Wall Street",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities"
     },
     {
-      "headline": "Cardano Foundation supports BloxBean\u2019s launch of Analytics Store for easy data access",
-      "take": "Cardano Foundation supports BloxBean's Analytics Store launch for data access",
+      "headline": "Bitmine, Sharplink and Joe Lubin launch Ethereum research nonprofit",
+      "take": "Bitmine, Sharplink and Joe Lubin launch Ethereum research nonprofit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-bloxbean-analytics-store-launch/"
+      "link": "https://cryptobriefing.com/bitmine-sharplink-and-joe-lubin-launch-ethereum-research-nonprofit/"
     },
     {
-      "headline": "Arcium launches $ARX token with $400M FDV and $95M market cap",
-      "take": "Arcium launches ARX token with $400M fully diluted valuation",
+      "headline": "OpenAI launches new cyber model to find and patch software vulnerabilities",
+      "take": "OpenAI launches new cyber model to find and patch software vulnerabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arcium-arx-token-launch-400m-fdv/"
+      "link": "https://cryptobriefing.com/openai-patch-planet-open-source-security/"
+    },
+    {
+      "headline": "Stripe launches Directory tool letting AI agents search for businesses on its network",
+      "take": "Stripe launches Directory tool letting AI agents search for businesses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stripe-directory-ai-agent-business-search/"
     }
   ],
   "security": [
     {
-      "headline": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
-      "take": "Q2 2026 becomes record quarter for hacks with 83 incidents reported",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
+      "take": "Ethereum MEV Bot JaredFromSubway threatens legal action after $7.5M loss",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack"
     },
     {
-      "headline": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ",
-      "take": "1.9M in fake bets drove Polymarket hype, Wall Street Journal reports",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj"
+      "headline": "Five Eyes warns AI-powered cyber threats may succeed within months",
+      "take": "Five Eyes warns AI-powered cyber threats may succeed within months",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/five-eyes-ai-cyber-threat-warning/"
     }
   ],
   "policy": [
     {
-      "headline": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
-      "take": "Bank of England eases stablecoin rules, introduces 40 billion pound cap",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Bank of England Eases Stablecoin Rules, Swaps Holding Caps for \u00a340B \u2018Guardrail\u2019",
+      "take": "Bank of England eases stablecoin rules, swaps holding caps for guardrail",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail"
     },
     {
-      "headline": "Andrew Cuomo\u2019s crypto ties with OKX draw scrutiny amid NYC mayoral bid",
-      "take": "Andrew Cuomo's OKX ties draw scrutiny during NYC mayoral campaign",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cuomo-okx-crypto-advisory-mayoral-race/"
+      "headline": "Congress must understand: Block rewards are newly created property, not income.",
+      "take": "Congress must understand block rewards are newly created property, not income",
+      "source": "coincenter",
+      "link": "https://coincenter.org/congress-must-understand-block-rewards-are-newly-created-property-not-income/"
     }
   ]
 }

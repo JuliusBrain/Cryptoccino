@@ -1,66 +1,84 @@
 {
-  "generated": "2026-06-21T22:37:19.664265+00:00",
-  "ts": 1782081439,
+  "generated": "2026-06-22T05:34:32.878695+00:00",
+  "ts": 1782106472,
   "market": [
     {
-      "headline": "Russell 2000 unprofitable stocks surge 60%, outpacing profitable firms in speculative rally",
-      "take": "Russell 2000 unprofitable stocks surge 60%, outpacing profitable firms",
+      "headline": "US and Iran agree to end 110-day conflict, reopen Strait of Hormuz",
+      "take": "US and Iran agree to end conflict, reopen Strait of Hormuz shipping",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russell-2000-unprofitable-stocks-surge/"
+      "link": "https://cryptobriefing.com/us-and-iran-agree-to-end-110-day-conflict-reopen-strait-of-hormuz/"
     },
     {
-      "headline": "Marvell Technology replaces Campbell\u2019s in S&P 500 as index tilts further toward tech",
-      "take": "Marvell Technology replaces Campbell's in S&P 500 index",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/marvell-replaces-campbells-sp500-index/"
-    },
-    {
-      "headline": "Are perps swaps? A quick look at that CME suit: State of Crypto",
-      "take": "CME perpetual swaps lawsuit raises questions about derivative classification",
+      "headline": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
+      "take": "Bitcoin holds near $64,000 as geopolitical tensions ease but rally stalls",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto"
+      "link": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally"
+    },
+    {
+      "headline": "CSOP lifts options cap for its $12.8B SK Hynix leveraged ETF, the world\u2019s largest",
+      "take": "CSOP lifts options cap for world's largest leveraged ETF at $12.8B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/csop-options-cap-sk-hynix-leveraged-etf/"
+    },
+    {
+      "headline": "Japan\u2019s National Business Corporate Pension Fund plans 1% crypto allocation by fiscal 2026",
+      "take": "Japan's pension fund plans 1% crypto allocation by fiscal 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-pension-fund-crypto-allocation-2026/"
     }
   ],
   "business": [
     {
-      "headline": "VALORANT Masters London grand finals features Paper Rex vs Leviat\u00e1n, with Coinbase as crypto partner",
-      "take": "Coinbase partners with VALORANT Masters London as esports sponsor",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/valorant-masters-london-grand-finals-paper-rex-leviatan/"
+      "headline": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
+      "take": "Ethereum Layer 2 Taiko halts production after exploit, urges fund withdrawals",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Team Falcons triumph at IEM Cologne Major, securing $1.2M prize",
-      "take": "Team Falcons wins IEM Cologne Major championship, claims $1.2M",
+      "headline": "Altura winds down stablecoin vault after $9M in withdrawals",
+      "take": "Altura winds down stablecoin vault following $9M in withdrawal requests",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/team-falcons-triumph-at-iem-cologne-major-securing-12m-prize/"
+      "link": "https://cryptobriefing.com/altura-stablecoin-vault-wind-down/"
     },
     {
-      "headline": "Anthropic and OpenAI gear up for dueling AI model releases as mid-tier race heats up",
-      "take": "Anthropic and OpenAI prepare competing AI model releases",
+      "headline": "Lime plans to name Uber as anchor investor in IPO targeting $200M",
+      "take": "Lime targets $200M IPO with Uber as planned anchor investor",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-sonnet-5-openai-gpt-56-launch/"
+      "link": "https://cryptobriefing.com/lime-uber-anchor-investor-ipo/"
     }
   ],
   "security": [
     {
       "headline": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake \u2018Zksync.jp\u2019 token: Nikkei",
-      "take": "Chinese fentanyl network linked to fake ZKSync token fraud",
+      "take": "Chinese fentanyl network tied to crypto fraud using fake Zksync token",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Notorious \u2018jaredfromsubway\u2019 MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
-      "take": "MEV bot 'jaredfromsubway' drained of $7.5M in honeypot",
+      "headline": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
+      "take": "Polymarket paid creators to stage fake winning bets on dummy sites",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Trump plans to seize Strait of Hormuz if negotiations fail: Senator Graham",
-      "take": "Trump considers seizing Strait of Hormuz if negotiations fail",
+      "headline": "China targets US rare earth firms with new export controls in latest trade war escalation",
+      "take": "China targets US rare earth firms with new export controls in trade war",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-plans-to-seize-strait-of-hormuz-if-negotiations-fail-senator-graham/"
+      "link": "https://cryptobriefing.com/china-us-rare-earth-export-controls/"
+    },
+    {
+      "headline": "Trump rolls out new tariff tools after Supreme Court ruling strikes down IEEPA trade powers",
+      "take": "Trump deploys new tariff tools after Supreme Court strikes IEEPA trade powers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-new-tariff-tools-supreme-court-ruling/"
+    },
+    {
+      "headline": "China warns of supply chain fragmentation amid rising protectionism",
+      "take": "China warns of supply chain fragmentation amid rising protectionism concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-rare-earth-supply-chain-fragmentation/"
     }
   ]
 }

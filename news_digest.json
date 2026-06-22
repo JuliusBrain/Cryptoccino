@@ -1,78 +1,96 @@
 {
-  "generated": "2026-06-22T18:54:00.125182+00:00",
-  "ts": 1782154440,
+  "generated": "2026-06-22T22:57:27.173163+00:00",
+  "ts": 1782169047,
   "market": [
     {
-      "headline": "Bullish climbs to number two globally for BTC options by open interest, eyes massive growth ahead",
-      "take": "Bullish climbs to number two globally for BTC options by open interest",
+      "headline": "21Shares adds monthly and weekly options to Hyperliquid ETF",
+      "take": "21Shares adds monthly and weekly options to Hyperliquid ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bullish-second-btc-options-open-interest/"
+      "link": "https://cryptobriefing.com/21shares-hyperliquid-etf-options-trading/"
     },
     {
-      "headline": "Aptos records 83.7M transactions in strongest week of 2026",
-      "take": "Aptos records 83.7M transactions in strongest week of 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-83-million-transactions-strongest-week/"
+      "headline": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
+      "take": "Solana captures 95% of tokenized equity trading volume",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Oil supply surge expected to ease market tightness, impact prices",
-      "take": "Oil supply surge expected to ease market tightness, impact prices",
+      "headline": "Truflation reports inflation below 2%, Cathie Wood highlights downside surprise in June commentary",
+      "take": "Truflation reports inflation below 2% amid deflationary signals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-supply-surge-expected-to-ease-market-tightness-impact-prices/"
+      "link": "https://cryptobriefing.com/truflation-inflation-below-2-cathie-wood/"
+    },
+    {
+      "headline": "Coinbase increases quote increment for VARA-USD trading pair on June 24",
+      "take": "Coinbase adjusts quote increment for VARA-USD pair",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-vara-usd-quote-increment-change/"
+    },
+    {
+      "headline": "Ric Edelman says crypto\u2019s biggest growth story is happening off the price chart",
+      "take": "Crypto industry growth accelerating beyond price movement metrics",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart"
     }
   ],
   "business": [
     {
-      "headline": "ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street",
-      "take": "ICE and OKX team up to bring tokenized securities to Wall Street",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities"
+      "headline": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum\u2019s \u2018next phase\u2019 of growth",
+      "take": "BitMine, SharpLink, Joe Lubin back Ethlabs nonprofit for Ethereum",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitmine, Sharplink and Joe Lubin launch Ethereum research nonprofit",
-      "take": "Bitmine, Sharplink and Joe Lubin launch Ethereum research nonprofit",
+      "headline": "MoonPay acquires Entendre to bring AI accounting agents to stablecoin operations",
+      "take": "MoonPay acquires Entendre for AI accounting in stablecoin ops",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmine-sharplink-and-joe-lubin-launch-ethereum-research-nonprofit/"
+      "link": "https://cryptobriefing.com/moonpay-acquires-entendre-to-bring-ai-accounting-agents-to-stablecoin-operations/"
     },
     {
-      "headline": "OpenAI launches new cyber model to find and patch software vulnerabilities",
-      "take": "OpenAI launches new cyber model to find and patch software vulnerabilities",
+      "headline": "Renaiss raises $1.5M in first funding round led by YZi Labs to bring trading cards on-chain",
+      "take": "Renaiss raises $1.5M to tokenize trading cards on-chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-patch-planet-open-source-security/"
+      "link": "https://cryptobriefing.com/renaiss-funding-round-yzi-labs/"
     },
     {
-      "headline": "Stripe launches Directory tool letting AI agents search for businesses on its network",
-      "take": "Stripe launches Directory tool letting AI agents search for businesses",
+      "headline": "Nakamoto Inc. closes legacy healthcare clinics, shifts focus entirely to Bitcoin operations",
+      "take": "Nakamoto Inc shifts from healthcare to Bitcoin operations focus",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stripe-directory-ai-agent-business-search/"
+      "link": "https://cryptobriefing.com/nakamoto-closes-healthcare-bitcoin-pivot/"
     }
   ],
   "security": [
     {
-      "headline": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
-      "take": "Ethereum MEV Bot JaredFromSubway threatens legal action after $7.5M loss",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack"
+      "headline": "Solana treasury firm Solmate\u2019s largest stakeholder sues board for self-dealing, fiduciary breaches",
+      "take": "Solmate's largest shareholder sues board for fiduciary breaches",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Five Eyes warns AI-powered cyber threats may succeed within months",
-      "take": "Five Eyes warns AI-powered cyber threats may succeed within months",
+      "headline": "CZ questions Hyperliquid\u2019s decentralization amid control concerns",
+      "take": "CZ questions Hyperliquid's true decentralization amid control concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/five-eyes-ai-cyber-threat-warning/"
+      "link": "https://cryptobriefing.com/cz-questions-hyperliquid-decentralization/"
     }
   ],
   "policy": [
     {
-      "headline": "Bank of England Eases Stablecoin Rules, Swaps Holding Caps for \u00a340B \u2018Guardrail\u2019",
-      "take": "Bank of England eases stablecoin rules, swaps holding caps for guardrail",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail"
+      "headline": "Ethereum Foundation\u2019s strategy chief lays out plan to kill MEV and make privacy a protocol default",
+      "take": "Ethereum Foundation plans to eliminate MEV and default privacy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-foundation-mev-elimination-privacy-plan/"
     },
     {
-      "headline": "Congress must understand: Block rewards are newly created property, not income.",
-      "take": "Congress must understand block rewards are newly created property, not income",
-      "source": "coincenter",
-      "link": "https://coincenter.org/congress-must-understand-block-rewards-are-newly-created-property-not-income/"
+      "headline": "Crypto Industry Urges Congress to Pass Tax Bill\u2014But Will It Happen This Year?",
+      "take": "Crypto industry pushes Congress to pass cryptocurrency tax bill",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill"
+    },
+    {
+      "headline": "New York, Maryland and Utah to hold primaries with crypto PAC money hanging over voters",
+      "take": "New York, Maryland, Utah primaries overshadowed by crypto PAC spending",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-state-primaries-crypto-pac-money-candidates?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }

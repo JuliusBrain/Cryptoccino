@@ -1,84 +1,102 @@
 {
-  "generated": "2026-06-23T20:25:40.877406+00:00",
-  "ts": 1782246340,
+  "generated": "2026-06-23T22:40:41.034997+00:00",
+  "ts": 1782254441,
   "market": [
     {
-      "headline": "Fed rate hike odds for December jump amid strong payroll data",
-      "take": "Fed rate hike odds for December rise on strong payroll employment data",
+      "headline": "NASDAQ 100 falls 3%, South Korea\u2019s KOSPI plunges 10% amid AI bubble concerns",
+      "take": "Nasdaq 100 falls 3%, South Korea's KOSPI plunges 10% amid AI bubble concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-odds-for-december-jump-amid-strong-payroll-data/"
+      "link": "https://cryptobriefing.com/nasdaq-kospi-plunge-ai-bubble-concerns/"
+    },
+    {
+      "headline": "Gold-backed ETFs see $1.1B in inflows, largest weekly haul since April",
+      "take": "Gold-backed ETFs see $1.1B inflows, largest weekly haul since April",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-backed-etfs-billion-inflows-largest-since-april/"
+    },
+    {
+      "headline": "Cboe enters prediction markets with Mini S&P 500 contracts",
+      "take": "Cboe enters prediction markets with Mini S&P 500 contracts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cboe-launches-prediction-markets-suite/"
+    },
+    {
+      "headline": "Cerebras delivers first earnings report as public company, stock slides despite 92% revenue growth",
+      "take": "Cerebras delivers first earnings report as public company, stock slides despite 92% revenue growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cerebras-first-earnings-report-stock-flat/"
     },
     {
       "headline": "CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves",
-      "take": "Analyst suggests pausing bitcoin purchases to rebuild cash reserves now",
+      "take": "CryptoQuant says strategy should pause bitcoin purchases and rebuild cash reserves",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Together AI\u2019s token volume surges to 400 trillion as demand for cheaper AI alternatives accelerates",
-      "take": "Together AI token volume surges to 400 trillion on cheaper AI demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/together-ai-token-volume-400-trillion/"
-    },
-    {
-      "headline": "JPMorgan wins SEC approval for monthly redemptions on credit fund",
-      "take": "JPMorgan wins SEC approval for monthly credit fund redemptions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-sec-monthly-redemptions-credit-fund/"
-    },
-    {
-      "headline": "Ether-Linked Nonprofit Cuts Budget 40% In \u2018Challenging Era\u2019",
-      "take": "Ether-linked nonprofit cuts budget 40 percent amid challenging conditions",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-23/ether-linked-nonprofit-cuts-budget-40-during-challenging-era"
     }
   ],
   "business": [
     {
-      "headline": "Chainlink joins 47 banks to enable T+0 cross-border settlements between Europe and South Korea",
-      "take": "Chainlink joins 47 banks enabling T+0 cross-border settlement Europe-Korea",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-project-pangea-cross-border-settlements/"
-    },
-    {
       "headline": "Barry Silbert\u2019s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",
-      "take": "Zcash miner proposes merger, Barry Silbert stock surges despite weak ZEC",
+      "take": "Barry Silbert's Zcash miner proposes merger, sends Nasdaq stock soaring",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Meta is developing a prediction market app called \u2018Arena\u2019 as sector booms: NYT",
-      "take": "Meta developing prediction market app Arena as sector experiences growth",
+      "headline": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
+      "take": "Crypto critic Roubini joins tokenization boom with onchain Technodollar",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt"
+      "link": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar"
+    },
+    {
+      "headline": "FIFA World Cup crypto sponsorships leave USMNT on the sidelines as Kraken partners with tournament",
+      "take": "Kraken partners with FIFA World Cup as USMNT left without crypto sponsor",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usmnt-world-cup-crypto-sponsorship-gap-2/"
+    },
+    {
+      "headline": "Cerebras CEO confirms OpenAI GPT 5.4 runs on Cerebras, plans GPT 5.5 rollout",
+      "take": "Cerebras CEO confirms OpenAI GPT 5.4 runs on Cerebras infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cerebras-openai-gpt-5-4-inference/"
+    },
+    {
+      "headline": "Superhuman acquires AI detection startup GPTZero for integration into its platform",
+      "take": "Superhuman acquires AI detection startup GPTZero for platform integration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/superhuman-acquires-gptzero-ai-detection/"
     }
   ],
   "security": [
     {
-      "headline": "US sanctions Cambodian Prince Group in largest Bitcoin seizure in DOJ history",
-      "take": "US sanctions Cambodian Prince Group in largest DOJ Bitcoin seizure ever",
+      "headline": "Legion sues US over export controls restricting access to Anthropic AI models",
+      "take": "Legion sues US over export controls restricting Anthropic AI model access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-sanctions-prince-group-bitcoin-seizure/"
+      "link": "https://cryptobriefing.com/legion-sues-us-anthropic-export-controls/"
     }
   ],
   "policy": [
     {
-      "headline": "Kentucky becomes latest state sued by CFTC over prediction markets",
-      "take": "Kentucky becomes latest state sued by CFTC over prediction markets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405879/kentucky-becomes-latest-state-sued-by-cftc-over-prediction-markets?utm_source=rss&utm_medium=rss"
+      "headline": "US Senate to release crypto tax legislation by fall 2026",
+      "take": "US Senate to release crypto tax legislation by fall 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-crypto-tax-legislation-fall-2026/"
     },
     {
-      "headline": "Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
-      "take": "Nearly 100 Catholic leaders oppose Clarity Act over trafficking safeguard concerns",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405868/clarity-act-new-opposition-catholic-leaders-weakened-safeguards-against-illicit-finance?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Crypto isn't the problem with the US economy, says senator",
-      "take": "Senator argues crypto is not the problem with US economy",
+      "headline": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+      "take": "Andy Burnham's leadership signals potential shift in UK crypto policy direction",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "link": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "Crypto\u2019s Clarity Act Has a New Enemy: Catholic Leaders",
+      "take": "Catholic leaders oppose crypto's Clarity Act in regulatory debate",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders"
+    },
+    {
+      "headline": "Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty",
+      "take": "Senate Democrats urge hearings on Trump family crypto ties to Abu Dhabi",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss"
     }
   ]
 }

@@ -1,96 +1,84 @@
 {
-  "generated": "2026-06-22T22:57:27.173163+00:00",
-  "ts": 1782169047,
+  "generated": "2026-06-23T04:32:39.964992+00:00",
+  "ts": 1782189159,
   "market": [
     {
-      "headline": "21Shares adds monthly and weekly options to Hyperliquid ETF",
-      "take": "21Shares adds monthly and weekly options to Hyperliquid ETF",
+      "headline": "Goldman Sachs cuts China Q2 GDP growth forecast to 4.5% as domestic demand sputters",
+      "take": "Goldman Sachs cuts China Q2 GDP growth forecast to 4.5%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/21shares-hyperliquid-etf-options-trading/"
+      "link": "https://cryptobriefing.com/goldman-sachs-cuts-china-gdp-forecast/"
     },
     {
-      "headline": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
-      "take": "Solana captures 95% of tokenized equity trading volume",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Truflation reports inflation below 2%, Cathie Wood highlights downside surprise in June commentary",
-      "take": "Truflation reports inflation below 2% amid deflationary signals",
+      "headline": "KOSPI index falls as investors sell off chip stocks after stretched rally",
+      "take": "KOSPI index falls as investors sell off chip stocks after rally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/truflation-inflation-below-2-cathie-wood/"
+      "link": "https://cryptobriefing.com/kospi-index-falls-chip-stocks-selloff/"
     },
     {
-      "headline": "Coinbase increases quote increment for VARA-USD trading pair on June 24",
-      "take": "Coinbase adjusts quote increment for VARA-USD pair",
+      "headline": "CME Group restores CME Direct after four-hour outage rattles futures traders",
+      "take": "CME Group restores CME Direct after four-hour outage affecting futures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-vara-usd-quote-increment-change/"
+      "link": "https://cryptobriefing.com/cme-direct-restored-after-outage/"
     },
     {
-      "headline": "Ric Edelman says crypto\u2019s biggest growth story is happening off the price chart",
-      "take": "Crypto industry growth accelerating beyond price movement metrics",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart"
+      "headline": "China narrows fiscal deficit for first time in two years, and crypto markets should pay attention",
+      "take": "China narrows fiscal deficit for first time in two years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-narrows-fiscal-deficit-crypto-implications/"
     }
   ],
   "business": [
     {
-      "headline": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum\u2019s \u2018next phase\u2019 of growth",
-      "take": "BitMine, SharpLink, Joe Lubin back Ethlabs nonprofit for Ethereum",
+      "headline": "Injective unveils Vulcan upgrade, enhancing EVM access for developers",
+      "take": "Injective unveils Vulcan upgrade, enhancing EVM access for developers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-vulcan-upgrade-evm-oracle-access/"
+    },
+    {
+      "headline": "Upbit to list Arcium token in KRW, BTC, and USDT markets on June 23",
+      "take": "Upbit to list Arcium token in KRW, BTC, and USDT markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-lists-arcium-arx-token/"
+    },
+    {
+      "headline": "TurboFlow, aiming to be the \u2018Kalshi of APAC,\u2019 raises $6 million seed led by Pantera Capital",
+      "take": "TurboFlow raises $6 million seed led by Pantera Capital for APAC",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "MoonPay acquires Entendre to bring AI accounting agents to stablecoin operations",
-      "take": "MoonPay acquires Entendre for AI accounting in stablecoin ops",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonpay-acquires-entendre-to-bring-ai-accounting-agents-to-stablecoin-operations/"
-    },
-    {
-      "headline": "Renaiss raises $1.5M in first funding round led by YZi Labs to bring trading cards on-chain",
-      "take": "Renaiss raises $1.5M to tokenize trading cards on-chain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/renaiss-funding-round-yzi-labs/"
-    },
-    {
-      "headline": "Nakamoto Inc. closes legacy healthcare clinics, shifts focus entirely to Bitcoin operations",
-      "take": "Nakamoto Inc shifts from healthcare to Bitcoin operations focus",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nakamoto-closes-healthcare-bitcoin-pivot/"
+      "headline": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
+      "take": "Securitize and tZERO clash over patents in tokenization race",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up"
     }
   ],
   "security": [
     {
-      "headline": "Solana treasury firm Solmate\u2019s largest stakeholder sues board for self-dealing, fiduciary breaches",
-      "take": "Solmate's largest shareholder sues board for fiduciary breaches",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss"
+      "headline": "OFAC Sanctions ISIS Operators for Financing Terror Group with Crypto",
+      "take": "OFAC sanctions ISIS operators for financing terror group with crypto",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions-isis-financial-facilitators-june-2026/"
     },
     {
-      "headline": "CZ questions Hyperliquid\u2019s decentralization amid control concerns",
-      "take": "CZ questions Hyperliquid's true decentralization amid control concerns",
+      "headline": "North Korea reaffirms nuclear state position as its crypto theft machine funds the arsenal",
+      "take": "North Korea's crypto theft machine funds nuclear arsenal operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-questions-hyperliquid-decentralization/"
+      "link": "https://cryptobriefing.com/north-korea-nuclear-crypto-theft-funding/"
     }
   ],
   "policy": [
     {
-      "headline": "Ethereum Foundation\u2019s strategy chief lays out plan to kill MEV and make privacy a protocol default",
-      "take": "Ethereum Foundation plans to eliminate MEV and default privacy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-foundation-mev-elimination-privacy-plan/"
+      "headline": "Trump signs executive orders setting 2031 deadline for post-quantum migration",
+      "take": "Trump signs executive orders setting 2031 deadline for post-quantum migration",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405737/trump-executive-orders-quantum-computing?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Crypto Industry Urges Congress to Pass Tax Bill\u2014But Will It Happen This Year?",
-      "take": "Crypto industry pushes Congress to pass cryptocurrency tax bill",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill"
-    },
-    {
-      "headline": "New York, Maryland and Utah to hold primaries with crypto PAC money hanging over voters",
-      "take": "New York, Maryland, Utah primaries overshadowed by crypto PAC spending",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-state-primaries-crypto-pac-money-candidates?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
+      "take": "U.S. Senate passes housing bill carrying four-year ban on Fed CBDC",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
     }
   ]
 }

@@ -1,84 +1,96 @@
 {
-  "generated": "2026-06-23T04:32:39.964992+00:00",
-  "ts": 1782189159,
+  "generated": "2026-06-23T10:06:01.331838+00:00",
+  "ts": 1782209161,
   "market": [
     {
-      "headline": "Goldman Sachs cuts China Q2 GDP growth forecast to 4.5% as domestic demand sputters",
-      "take": "Goldman Sachs cuts China Q2 GDP growth forecast to 4.5%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-cuts-china-gdp-forecast/"
+      "headline": "Bitcoin Hits Two-Week Low as Tech Selloff Sparks Risk-Off Mood",
+      "take": "Bitcoin hits two-week low as tech selloff triggers broad risk-off sentiment",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/bitcoin-hits-two-week-low-as-tech-selloff-sparks-risk-off-mood"
     },
     {
-      "headline": "KOSPI index falls as investors sell off chip stocks after stretched rally",
-      "take": "KOSPI index falls as investors sell off chip stocks after rally",
+      "headline": "Asia shares, oil slip as markets adjust to Fed rate hike expectations",
+      "take": "Asia shares and oil slip as markets adjust to Fed rate hike expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kospi-index-falls-chip-stocks-selloff/"
+      "link": "https://cryptobriefing.com/asia-shares-oil-slip-fed-rate-hike-expectations/"
     },
     {
-      "headline": "CME Group restores CME Direct after four-hour outage rattles futures traders",
-      "take": "CME Group restores CME Direct after four-hour outage affecting futures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-direct-restored-after-outage/"
+      "headline": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
+      "take": "Bitcoin price has limited downside, likely near bottom by contrarian indicator",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests"
     },
     {
-      "headline": "China narrows fiscal deficit for first time in two years, and crypto markets should pay attention",
-      "take": "China narrows fiscal deficit for first time in two years",
+      "headline": "PancakeSwap crosses $50M in total volume for tokenized assets",
+      "take": "PancakeSwap crosses fifty million in volume for tokenized assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-narrows-fiscal-deficit-crypto-implications/"
+      "link": "https://cryptobriefing.com/pancakeswap-50m-tokenized-assets-volume/"
+    },
+    {
+      "headline": "XRP drifts toward $1.10 support as traders await break from three-week range",
+      "take": "XRP drifts toward 1.10 support as traders await break from range",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/23/xrp-drifts-toward-usd1-10-support-as-traders-await-break-from-three-week-range"
     }
   ],
   "business": [
     {
-      "headline": "Injective unveils Vulcan upgrade, enhancing EVM access for developers",
-      "take": "Injective unveils Vulcan upgrade, enhancing EVM access for developers",
+      "headline": "JAN3 CEO Samson Mow reveals Bitcoin Standard Treasury plans to buy 23,500 BTC",
+      "take": "JAN3 CEO reveals Bitcoin Standard Treasury plans to buy 23,500 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-vulcan-upgrade-evm-oracle-access/"
+      "link": "https://cryptobriefing.com/bstr-bitcoin-treasury-23500-btc-purchase/"
     },
     {
-      "headline": "Upbit to list Arcium token in KRW, BTC, and USDT markets on June 23",
-      "take": "Upbit to list Arcium token in KRW, BTC, and USDT markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-arcium-arx-token/"
-    },
-    {
-      "headline": "TurboFlow, aiming to be the \u2018Kalshi of APAC,\u2019 raises $6 million seed led by Pantera Capital",
-      "take": "TurboFlow raises $6 million seed led by Pantera Capital for APAC",
+      "headline": "David Bailey\u2019s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion",
+      "take": "Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
-      "take": "Securitize and tZERO clash over patents in tokenization race",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up"
+      "headline": "Starknet outlines steps to access private DeFi with wallets",
+      "take": "Starknet outlines steps to access private DeFi with wallets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/starknet-private-defi-wallets-strk20/"
     }
   ],
   "security": [
     {
-      "headline": "OFAC Sanctions ISIS Operators for Financing Terror Group with Crypto",
-      "take": "OFAC sanctions ISIS operators for financing terror group with crypto",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-isis-financial-facilitators-june-2026/"
+      "headline": "Jaredfromsubway.eth exploiter launders 2,000 ETH through Tornado Cash as stolen funds keep moving",
+      "take": "Jaredfromsubway.eth exploiter launders 2,000 ETH through Tornado Cash",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jaredfromsubway-exploiter-tornado-cash-eth/"
     },
     {
-      "headline": "North Korea reaffirms nuclear state position as its crypto theft machine funds the arsenal",
-      "take": "North Korea's crypto theft machine funds nuclear arsenal operations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korea-nuclear-crypto-theft-funding/"
+      "headline": "THORChain resumes trading more than a month after $10M exploit",
+      "take": "THORChain resumes trading over a month after ten million dollar exploit",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Trump signs executive orders setting 2031 deadline for post-quantum migration",
-      "take": "Trump signs executive orders setting 2031 deadline for post-quantum migration",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405737/trump-executive-orders-quantum-computing?utm_source=rss&utm_medium=rss"
+      "headline": "US Senate passes housing bill with CBDC ban until 2030",
+      "take": "US Senate passes housing bill with CBDC ban until 2030",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
-      "take": "U.S. Senate passes housing bill carrying four-year ban on Fed CBDC",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
+      "headline": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
+      "take": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "US government accelerates post-quantum cryptography migration by 2030 under Trump executive order",
+      "take": "US government accelerates post-quantum cryptography migration by 2030 under executive order",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-post-quantum-cryptography-2030-executive-order/"
+    },
+    {
+      "headline": "Patrick Witt negotiates crypto bill amid Trump scrutiny",
+      "take": "Patrick Witt negotiates crypto bill amid Trump scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/patrick-witt-crypto-clarity-act-trump/"
     }
   ]
 }

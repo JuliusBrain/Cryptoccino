@@ -1,90 +1,84 @@
 {
-  "generated": "2026-06-23T15:26:51.764498+00:00",
-  "ts": 1782228411,
+  "generated": "2026-06-23T20:25:40.877406+00:00",
+  "ts": 1782246340,
   "market": [
     {
-      "headline": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
-      "take": "Bitcoin dropped below $60K amid Fed, ETF and AI sector pressures",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank"
-    },
-    {
-      "headline": "Bitcoin forecasted to dip to $58,000 in June 2026: Kalshi traders",
-      "take": "Kalshi traders forecast Bitcoin may dip to $58K by June 2026",
+      "headline": "Fed rate hike odds for December jump amid strong payroll data",
+      "take": "Fed rate hike odds for December rise on strong payroll employment data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-forecasted-to-dip-to-58000-in-june-2026-kalshi-traders/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-odds-for-december-jump-amid-strong-payroll-data/"
     },
     {
-      "headline": "Yen nears 40-year low as dollar strength overpowers Bank of Japan moves",
-      "take": "Japanese yen nears 40-year low as dollar strength intensifies",
+      "headline": "CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves",
+      "take": "Analyst suggests pausing bitcoin purchases to rebuild cash reserves now",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Together AI\u2019s token volume surges to 400 trillion as demand for cheaper AI alternatives accelerates",
+      "take": "Together AI token volume surges to 400 trillion on cheaper AI demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-40-year-low-dollar-strength-boj/"
+      "link": "https://cryptobriefing.com/together-ai-token-volume-400-trillion/"
     },
     {
-      "headline": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
-      "take": "Bitcoin may need 15% further decline to establish a bottom",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator"
+      "headline": "JPMorgan wins SEC approval for monthly redemptions on credit fund",
+      "take": "JPMorgan wins SEC approval for monthly credit fund redemptions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-sec-monthly-redemptions-credit-fund/"
+    },
+    {
+      "headline": "Ether-Linked Nonprofit Cuts Budget 40% In \u2018Challenging Era\u2019",
+      "take": "Ether-linked nonprofit cuts budget 40 percent amid challenging conditions",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/ether-linked-nonprofit-cuts-budget-40-during-challenging-era"
     }
   ],
   "business": [
     {
-      "headline": "H100 Group shareholders approve acquisition of two firms holding 2,449 Bitcoin",
-      "take": "H100 Group shareholders approve acquisition of firms holding 2,449 Bitcoin",
+      "headline": "Chainlink joins 47 banks to enable T+0 cross-border settlements between Europe and South Korea",
+      "take": "Chainlink joins 47 banks enabling T+0 cross-border settlement Europe-Korea",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/h100-group-acquires-2449-bitcoin-firms/"
+      "link": "https://cryptobriefing.com/chainlink-project-pangea-cross-border-settlements/"
     },
     {
-      "headline": "Crypto critic Nouriel Roubini partners with Securitize to launch tokenized Atlas America Fund",
-      "take": "Crypto critic Roubini partners with Securitize on tokenized fund launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/roubini-usafi-token-atlas-america-fund/"
+      "headline": "Barry Silbert\u2019s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",
+      "take": "Zcash miner proposes merger, Barry Silbert stock surges despite weak ZEC",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "GMX DAO moves long-term incentive program to governance vote",
-      "take": "GMX DAO moves long-term incentive program to governance vote",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gmx-dao-long-term-incentive-governance-vote/"
-    },
-    {
-      "headline": "Midas launches mGLOBAL token on Aave Horizon for USDC borrowing",
-      "take": "Midas launches mGLOBAL token on Aave Horizon for USDC borrowing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/midas-mglobal-aave-horizon-usdc-borrowing/"
+      "headline": "Meta is developing a prediction market app called \u2018Arena\u2019 as sector booms: NYT",
+      "take": "Meta developing prediction market app Arena as sector experiences growth",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt"
     }
   ],
   "security": [
     {
-      "headline": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
-      "take": "Thailand expands crypto mining probe into $300M Chinese laundering network",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network"
-    },
-    {
-      "headline": "Defi education fund\u2019s OPSeC coalition takes on blockchain security threats",
-      "take": "DeFi education fund coalition tackles blockchain security threats",
+      "headline": "US sanctions Cambodian Prince Group in largest Bitcoin seizure in DOJ history",
+      "take": "US sanctions Cambodian Prince Group in largest DOJ Bitcoin seizure ever",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defi-education-fund-opsec-cybersecurity/"
+      "link": "https://cryptobriefing.com/us-sanctions-prince-group-bitcoin-seizure/"
     }
   ],
   "policy": [
     {
-      "headline": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
-      "take": "Ethereum Foundation cuts 20% staff as leadership restructures operations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus/"
-    },
-    {
-      "headline": "OKX Europe chief says 80% of crypto exchanges won\u2019t survive MiCA as deadline nears",
-      "take": "OKX Europe chief warns 80% of exchanges may not survive MiCA",
+      "headline": "Kentucky becomes latest state sued by CFTC over prediction markets",
+      "take": "Kentucky becomes latest state sued by CFTC over prediction markets",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/405879/kentucky-becomes-latest-state-sued-by-cftc-over-prediction-markets?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "US government backs Westinghouse nuclear reactors with $17.5B loan package",
-      "take": "US government backs Westinghouse nuclear reactors with $17.5B loan",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-westinghouse-nuclear-loans/"
+      "headline": "Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
+      "take": "Nearly 100 Catholic leaders oppose Clarity Act over trafficking safeguard concerns",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405868/clarity-act-new-opposition-catholic-leaders-weakened-safeguards-against-illicit-finance?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Crypto isn't the problem with the US economy, says senator",
+      "take": "Senator argues crypto is not the problem with US economy",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }

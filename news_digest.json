@@ -1,96 +1,90 @@
 {
-  "generated": "2026-06-23T10:06:01.331838+00:00",
-  "ts": 1782209161,
+  "generated": "2026-06-23T15:26:51.764498+00:00",
+  "ts": 1782228411,
   "market": [
     {
-      "headline": "Bitcoin Hits Two-Week Low as Tech Selloff Sparks Risk-Off Mood",
-      "take": "Bitcoin hits two-week low as tech selloff triggers broad risk-off sentiment",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-23/bitcoin-hits-two-week-low-as-tech-selloff-sparks-risk-off-mood"
-    },
-    {
-      "headline": "Asia shares, oil slip as markets adjust to Fed rate hike expectations",
-      "take": "Asia shares and oil slip as markets adjust to Fed rate hike expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asia-shares-oil-slip-fed-rate-hike-expectations/"
-    },
-    {
-      "headline": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
-      "take": "Bitcoin price has limited downside, likely near bottom by contrarian indicator",
+      "headline": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
+      "take": "Bitcoin dropped below $60K amid Fed, ETF and AI sector pressures",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests"
+      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank"
     },
     {
-      "headline": "PancakeSwap crosses $50M in total volume for tokenized assets",
-      "take": "PancakeSwap crosses fifty million in volume for tokenized assets",
+      "headline": "Bitcoin forecasted to dip to $58,000 in June 2026: Kalshi traders",
+      "take": "Kalshi traders forecast Bitcoin may dip to $58K by June 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pancakeswap-50m-tokenized-assets-volume/"
+      "link": "https://cryptobriefing.com/bitcoin-forecasted-to-dip-to-58000-in-june-2026-kalshi-traders/"
     },
     {
-      "headline": "XRP drifts toward $1.10 support as traders await break from three-week range",
-      "take": "XRP drifts toward 1.10 support as traders await break from range",
+      "headline": "Yen nears 40-year low as dollar strength overpowers Bank of Japan moves",
+      "take": "Japanese yen nears 40-year low as dollar strength intensifies",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/yen-40-year-low-dollar-strength-boj/"
+    },
+    {
+      "headline": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
+      "take": "Bitcoin may need 15% further decline to establish a bottom",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/23/xrp-drifts-toward-usd1-10-support-as-traders-await-break-from-three-week-range"
+      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator"
     }
   ],
   "business": [
     {
-      "headline": "JAN3 CEO Samson Mow reveals Bitcoin Standard Treasury plans to buy 23,500 BTC",
-      "take": "JAN3 CEO reveals Bitcoin Standard Treasury plans to buy 23,500 BTC",
+      "headline": "H100 Group shareholders approve acquisition of two firms holding 2,449 Bitcoin",
+      "take": "H100 Group shareholders approve acquisition of firms holding 2,449 Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bstr-bitcoin-treasury-23500-btc-purchase/"
+      "link": "https://cryptobriefing.com/h100-group-acquires-2449-bitcoin-firms/"
     },
     {
-      "headline": "David Bailey\u2019s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion",
-      "take": "Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion?utm_source=rss&utm_medium=rss"
+      "headline": "Crypto critic Nouriel Roubini partners with Securitize to launch tokenized Atlas America Fund",
+      "take": "Crypto critic Roubini partners with Securitize on tokenized fund launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/roubini-usafi-token-atlas-america-fund/"
     },
     {
-      "headline": "Starknet outlines steps to access private DeFi with wallets",
-      "take": "Starknet outlines steps to access private DeFi with wallets",
+      "headline": "GMX DAO moves long-term incentive program to governance vote",
+      "take": "GMX DAO moves long-term incentive program to governance vote",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-private-defi-wallets-strk20/"
+      "link": "https://cryptobriefing.com/gmx-dao-long-term-incentive-governance-vote/"
+    },
+    {
+      "headline": "Midas launches mGLOBAL token on Aave Horizon for USDC borrowing",
+      "take": "Midas launches mGLOBAL token on Aave Horizon for USDC borrowing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/midas-mglobal-aave-horizon-usdc-borrowing/"
     }
   ],
   "security": [
     {
-      "headline": "Jaredfromsubway.eth exploiter launders 2,000 ETH through Tornado Cash as stolen funds keep moving",
-      "take": "Jaredfromsubway.eth exploiter launders 2,000 ETH through Tornado Cash",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jaredfromsubway-exploiter-tornado-cash-eth/"
+      "headline": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
+      "take": "Thailand expands crypto mining probe into $300M Chinese laundering network",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network"
     },
     {
-      "headline": "THORChain resumes trading more than a month after $10M exploit",
-      "take": "THORChain resumes trading over a month after ten million dollar exploit",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Defi education fund\u2019s OPSeC coalition takes on blockchain security threats",
+      "take": "DeFi education fund coalition tackles blockchain security threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/defi-education-fund-opsec-cybersecurity/"
     }
   ],
   "policy": [
     {
-      "headline": "US Senate passes housing bill with CBDC ban until 2030",
-      "take": "US Senate passes housing bill with CBDC ban until 2030",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
-      "take": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "US government accelerates post-quantum cryptography migration by 2030 under Trump executive order",
-      "take": "US government accelerates post-quantum cryptography migration by 2030 under executive order",
+      "headline": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
+      "take": "Ethereum Foundation cuts 20% staff as leadership restructures operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-post-quantum-cryptography-2030-executive-order/"
+      "link": "https://cryptobriefing.com/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus/"
     },
     {
-      "headline": "Patrick Witt negotiates crypto bill amid Trump scrutiny",
-      "take": "Patrick Witt negotiates crypto bill amid Trump scrutiny",
+      "headline": "OKX Europe chief says 80% of crypto exchanges won\u2019t survive MiCA as deadline nears",
+      "take": "OKX Europe chief warns 80% of exchanges may not survive MiCA",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "US government backs Westinghouse nuclear reactors with $17.5B loan package",
+      "take": "US government backs Westinghouse nuclear reactors with $17.5B loan",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/patrick-witt-crypto-clarity-act-trump/"
+      "link": "https://cryptobriefing.com/us-government-westinghouse-nuclear-loans/"
     }
   ]
 }

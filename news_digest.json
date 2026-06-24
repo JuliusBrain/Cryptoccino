@@ -1,84 +1,102 @@
 {
-  "generated": "2026-06-24T15:11:29.283098+00:00",
-  "ts": 1782313889,
+  "generated": "2026-06-24T17:21:23.545855+00:00",
+  "ts": 1782321683,
   "market": [
     {
-      "headline": "Bitcoin just broke below the floor of its famous Rainbow Chart into the \u2018BTC is dead\u2019 zone",
-      "take": "Bitcoin broke below Rainbow Chart floor into 'dead' zone territory",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-just-broke-below-the-floor-of-its-famous-rainbow-chart-into-the-btc-is-dead-zone"
-    },
-    {
-      "headline": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
-      "take": "Strategy Shares crash below $100 as Bitcoin sinks toward $60K",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k"
-    },
-    {
-      "headline": "Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33",
-      "take": "Bitcoin ETP outflows push rolling one-year flows negative first time since 2023",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405989/bitcoin-etp-outflows-push-rolling-one-year-flows-negative-first-time-since-2023-k33?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Gold, silver and bitcoin tumble as debasement trade unwinds",
-      "take": "Gold, silver and bitcoin tumble as debasement trade unwinds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds"
-    },
-    {
-      "headline": "BlackRock recommends 1-2% Bitcoin allocation for portfolios",
-      "take": "BlackRock recommends one to two percent Bitcoin allocation for portfolios",
+      "headline": "Bitcoin falls below $60,000 as crypto liquidations top $650M",
+      "take": "Bitcoin falls below $60K as crypto liquidations exceed $650 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-allocation-recommendation/"
+      "link": "https://cryptobriefing.com/bitcoin-falls-below-60000-as-crypto-liquidations-top-650m/"
+    },
+    {
+      "headline": "Binance sees $479M in Bitcoin inflows as panic selling rises",
+      "take": "Binance records $479M Bitcoin inflows amid rising panic selling pressure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-bitcoin-inflows-panic-selling/"
+    },
+    {
+      "headline": "Investors seek downside protection as VIX call options surge to 2026 highs",
+      "take": "Investors hedge downside risk as VIX call options reach 2026 highs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vix-call-options-surge-downside-protection/"
+    },
+    {
+      "headline": "Uniswap generates nearly $23M in protocol revenue this year after fee switch activation",
+      "take": "Uniswap generates nearly $23M protocol revenue after fee switch activation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-23m-revenue-fee-switch/"
+    },
+    {
+      "headline": "AAVE v4 deposits on Ethereum reach $200M, doubling in a month",
+      "take": "AAVE v4 Ethereum deposits double to $200M in one month",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aave-v4-deposits-200m-ethereum/"
     }
   ],
   "business": [
     {
-      "headline": "Daya raises $2.4M to build stablecoin payment stack for African businesses",
-      "take": "Daya raises $2.4M to build stablecoin payment stack for African businesses",
+      "headline": "Virtuals Protocol integrates Wake as intelligence terminal for Base",
+      "take": "Virtuals Protocol integrates Wake intelligence terminal for Base blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/daya-raises-2m-stablecoin-payments-africa/"
+      "link": "https://cryptobriefing.com/virtuals-protocol-wake-intelligence-base/"
     },
     {
-      "headline": "Sunrise launches tokenized SanDisk stock $SNDK on Solana",
-      "take": "Sunrise launches tokenized SanDisk stock on Solana blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sunrise-tokenized-sandisk-sndk-solana/"
+      "headline": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+      "take": "a16z-backed Cambrian raises $6M seed for blockchain data oracle network",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Ink upgrades to Optimism\u2019s OP Enterprise Fully Managed in multi-year deal",
-      "take": "Ink upgrades to Optimism's OP Enterprise in multi-year deal",
+      "headline": "Sam Altman-backed World scales AgentKit as businesses seek trusted human-controlled AI agents",
+      "take": "Sam Altman-backed World scales AgentKit for human-controlled AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ink-optimism-op-enterprise-managed-deal/"
+      "link": "https://cryptobriefing.com/sam-altman-world-expands-agentkit-businesses-seek-trusted-human-controlled-ai-agents/"
+    },
+    {
+      "headline": "Uniswap enables teams to launch token auctions directly from its web app",
+      "take": "Uniswap enables direct token auction launches from web app interface",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-token-auctions-web-app/"
+    },
+    {
+      "headline": "Stablecore launches pilot program for US credit unions to test stablecoin services",
+      "take": "Stablecore pilots stablecoin services program with US credit unions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stablecore-pilot-credit-unions-stablecoin-services/"
     }
   ],
   "security": [
     {
-      "headline": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
-      "take": "DeFi TVL drops 39% amid market downturn and record hack activity",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud",
+      "take": "Fake crypto influencer sentenced 15 months for $1.4M Telegram fraud",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud"
     }
   ],
   "policy": [
     {
-      "headline": "Binance withdraws Greece-filed MiCA application.",
-      "take": "Binance withdraws Greece-filed MiCA application amid regulatory pressures",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Binance withdraws Greek MiCA bid, seeks alternative EU license",
+      "take": "Binance withdraws Greece MiCA bid, pursues alternative European license",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-seeks-alternative-eu-license"
     },
     {
-      "headline": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
-      "take": "Kalshi sues Illinois and Pritzker over prediction markets regulatory bill",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss"
+      "headline": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
+      "take": "South Korea meets US SEC, explores unified crypto rules after local scandals",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals"
     },
     {
-      "headline": "Cipollone: Digital euro\u2019s impact on banks is minimal",
-      "take": "Cipollone says digital euro's impact on banks is minimal",
+      "headline": "Federal Reserve\u2019s Kevin Warsh signals hawkish stance, boosts US assets and rattles crypto markets",
+      "take": "Federal Reserve signals hawkish stance, pressures crypto markets downward",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cipollone-digital-euro-banks-minimal-impact/"
+      "link": "https://cryptobriefing.com/fed-warsh-hawkish-stance-crypto-impact/"
+    },
+    {
+      "headline": "Prediction market polls find US voters prefer federal rules over state patchwork",
+      "take": "Prediction markets show US voters prefer federal crypto rules over patchwork",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss"
     }
   ]
 }

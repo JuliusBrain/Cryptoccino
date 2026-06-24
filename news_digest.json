@@ -1,108 +1,84 @@
 {
-  "generated": "2026-06-24T09:53:03.837099+00:00",
-  "ts": 1782294783,
+  "generated": "2026-06-24T15:11:29.283098+00:00",
+  "ts": 1782313889,
   "market": [
     {
-      "headline": "US Dollar Index set for first weekly close above 100-week average, may pressure Bitcoin",
-      "take": "Dollar index rises above 100-week average, likely pressuring Bitcoin price",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-index-100-week-average-bitcoin-pressure/"
-    },
-    {
-      "headline": "Bitcoin\u2019s \u2018OG\u2019 investors have slowed selling in a bullish sign for the market",
-      "take": "Bitcoin's early investors slowing sales, suggesting bullish market sentiment ahead",
+      "headline": "Bitcoin just broke below the floor of its famous Rainbow Chart into the \u2018BTC is dead\u2019 zone",
+      "take": "Bitcoin broke below Rainbow Chart floor into 'dead' zone territory",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market"
+      "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-just-broke-below-the-floor-of-its-famous-rainbow-chart-into-the-btc-is-dead-zone"
     },
     {
-      "headline": "Leveraged ETFs dump $6 billion in Samsung and SK Hynix shares in single-day rebalancing event",
-      "take": "Leveraged ETFs rebalanced $6B in Samsung and SK Hynix shares in one day",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/leveraged-etfs-sell-samsung-sk-hynix-shares/"
+      "headline": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
+      "take": "Strategy Shares crash below $100 as Bitcoin sinks toward $60K",
+      "source": "decrypt",
+      "link": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k"
     },
     {
-      "headline": "Euro falls to one-year low as oil prices decline, easing ECB pressure",
-      "take": "Euro falls to one-year low as oil prices decline, easing ECB pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/euro-falls-one-year-low-oil-prices-ecb/"
+      "headline": "Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33",
+      "take": "Bitcoin ETP outflows push rolling one-year flows negative first time since 2023",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405989/bitcoin-etp-outflows-push-rolling-one-year-flows-negative-first-time-since-2023-k33?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "TRON records 3.93M active addresses in a single day, surpassing BNB Chain, Solana, and Ethereum",
-      "take": "TRON hits 3.93M daily active addresses, surpassing Ethereum, Solana, BNB Chain",
+      "headline": "Gold, silver and bitcoin tumble as debasement trade unwinds",
+      "take": "Gold, silver and bitcoin tumble as debasement trade unwinds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds"
+    },
+    {
+      "headline": "BlackRock recommends 1-2% Bitcoin allocation for portfolios",
+      "take": "BlackRock recommends one to two percent Bitcoin allocation for portfolios",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-3-93m-active-addresses-record/"
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-allocation-recommendation/"
     }
   ],
   "business": [
     {
-      "headline": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
-      "take": "OpenPayd secures MiCA license, advancing stablecoin adoption across Europe",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Agility Robotics to go public in $2.5B SPAC deal with Churchill Capital",
-      "take": "Agility Robotics goes public via $2.5B SPAC deal with Churchill Capital",
+      "headline": "Daya raises $2.4M to build stablecoin payment stack for African businesses",
+      "take": "Daya raises $2.4M to build stablecoin payment stack for African businesses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/agility-robotics-spac-deal-churchill-capital/"
+      "link": "https://cryptobriefing.com/daya-raises-2m-stablecoin-payments-africa/"
     },
     {
-      "headline": "STMicroelectronics unveils world\u2019s first post-quantum crypto mobile chip",
-      "take": "STMicroelectronics unveils world's first post-quantum cryptography mobile chip",
+      "headline": "Sunrise launches tokenized SanDisk stock $SNDK on Solana",
+      "take": "Sunrise launches tokenized SanDisk stock on Solana blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stmicroelectronics-post-quantum-mobile-chip/"
+      "link": "https://cryptobriefing.com/sunrise-tokenized-sandisk-sndk-solana/"
     },
     {
-      "headline": "Cboe launches prediction market suite with binary option contracts on S&P 500",
-      "take": "Cboe launches prediction market suite with binary options on S&P 500",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss"
+      "headline": "Ink upgrades to Optimism\u2019s OP Enterprise Fully Managed in multi-year deal",
+      "take": "Ink upgrades to Optimism's OP Enterprise in multi-year deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ink-optimism-op-enterprise-managed-deal/"
     }
   ],
   "security": [
     {
-      "headline": "FBI\u2019s $152 Bitcoin blunder may have scared off kidnappers in Arizona disappearance case",
-      "take": "FBI's Bitcoin handling error may have discouraged kidnappers in Arizona case",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fbi-bitcoin-blunder-kidnapping-case/"
-    },
-    {
-      "headline": "Unauthorized $JUDE meme token crashes 98% as Bellingham hypes Mourinho\u2019s Real Madrid return",
-      "take": "Unauthorized meme token $JUDE crashes 98% following celebrity hype",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jude-token-crashes-mourinho-real-madrid/"
+      "headline": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+      "take": "DeFi TVL drops 39% amid market downturn and record hack activity",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "policy": [
     {
-      "headline": "US nears ban on CBDCs until 2030 as housing bill goes to Trump",
-      "take": "US nears ban on CBDCs until 2030 as housing bill advances to Trump",
+      "headline": "Binance withdraws Greece-filed MiCA application.",
+      "take": "Binance withdraws Greece-filed MiCA application amid regulatory pressures",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-nears-ban-on-cbdcs-until-2030-as-housing-bill-goes-to-trump?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "link": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "headline": "Supreme Court ruling could expand Trump\u2019s control over regulators, and crypto might feel the ripple effects",
-      "take": "Supreme Court ruling on regulatory control could ripple into crypto oversight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/supreme-court-trump-ftc-regulator-control/"
-    },
-    {
-      "headline": "South Korea adds token securities to capital market overhaul",
-      "take": "South Korea adds token securities to capital market regulatory overhaul plans",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-token-securities-capital-market-overhaul?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Indonesia requires financial influencers to disclose promotions and obtain licenses",
-      "take": "Indonesia requires financial influencers to disclose promotions and obtain licenses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/indonesia-finfluencer-regulation-crypto-licenses/"
-    },
-    {
-      "headline": "Law enforcement groups warn Clarity Act could hinder crypto crime investigations",
-      "take": "Law enforcement groups warn Clarity Act could hamper crypto crime investigations",
+      "headline": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
+      "take": "Kalshi sues Illinois and Pritzker over prediction markets regulatory bill",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Cipollone: Digital euro\u2019s impact on banks is minimal",
+      "take": "Cipollone says digital euro's impact on banks is minimal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cipollone-digital-euro-banks-minimal-impact/"
     }
   ]
 }

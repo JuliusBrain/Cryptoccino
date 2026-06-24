@@ -1,83 +1,77 @@
 {
-  "generated": "2026-06-24T20:13:23.481854+00:00",
-  "ts": 1782332003,
+  "generated": "2026-06-24T22:41:22.021296+00:00",
+  "ts": 1782340882,
   "market": [
     {
-      "headline": "Bitcoin hits 20-month low as market sentiment sours and investors chase AI instead",
-      "take": "Bitcoin falls to twenty-month low as investors shift focus toward AI assets",
+      "headline": "24-hour crypto liquidations reach $967M as leveraged longs get wiped out",
+      "take": "Crypto liquidations hit $967M as leveraged longs unwound sharply",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-20-month-low-market-sentiment/"
+      "link": "https://cryptobriefing.com/crypto-liquidations-967-million-24-hours/"
     },
     {
-      "headline": "Strategy stock falls below $100 for first time since March 2024 as Bitcoin holdings face scrutiny",
-      "take": "Microstrategy stock drops below one hundred dollars amid Bitcoin holdings questions",
+      "headline": "Kevin Warsh\u2019s first Fed meeting sends gold, silver, and Bitcoin tumbling",
+      "take": "Gold, silver, Bitcoin fall after Warsh's first Fed meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-stock-falls-below-100-bitcoin-scrutiny/"
+      "link": "https://cryptobriefing.com/warsh-fed-remarks-pressure-bitcoin-gold-silver/"
     },
     {
-      "headline": "YieldMax semiconductor ETF offers 45% dividend yield amid AI boom, but the fine print matters",
-      "take": "YieldMax semiconductor ETF offers forty-five percent dividend yield with significant caveats",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yieldmax-semiconductor-etf-45-percent-yield/"
+      "headline": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+      "take": "Bitcoin miners squeezed as revenue drops below production costs",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "S&P 500 and Nasdaq hit session lows as tech selloff erases morning gains",
-      "take": "S&P five hundred and Nasdaq retreat as technology sector selloff erases gains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-nasdaq-session-lows-tech-selloff/"
+      "headline": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says\u2014Here's Why",
+      "take": "Standard Chartered forecasts AAVE could climb fifty times by 2030",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered"
     }
   ],
   "business": [
     {
       "headline": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-      "take": "Kalshi valued at forty billion dollars, expanding lead over prediction market competitors",
+      "take": "Kalshi targets $40B valuation, doubling in two months amid fundraise",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket"
     },
     {
-      "headline": "Meta plans AI-powered prediction market app Arena to rival Kalshi and Polymarket",
-      "take": "Meta launches AI-powered prediction market app Arena to challenge Kalshi and Polymarket",
+      "headline": "Runpod raises $100M at $1B valuation, rejects $500M buyout offers",
+      "take": "Runpod raises $100M at $1B valuation, rejects $500M buyout",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-arena-prediction-market-app-3/"
+      "link": "https://cryptobriefing.com/runpod-raises-100m-billion-valuation-rejects-buyout/"
     },
     {
-      "headline": "LayerZero and Centrifuge unveil report on tokenized fund composability across 165 blockchains",
-      "take": "LayerZero and Centrifuge report on tokenized fund composability across blockchains",
+      "headline": "Binance vows to remain in Europe despite licensing setback in Greece",
+      "take": "Binance commits to remaining in Europe despite Greece licensing setback",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/layerzero-centrifuge-tokenized-fund-composability/"
+      "link": "https://cryptobriefing.com/binance-europe-mica-license-setback/"
     },
     {
-      "headline": "Ground raises $3.6M pre-seed to help fintechs access onchain yield",
-      "take": "Ground raises three point six million pre-seed funding for fintech onchain yield access",
+      "headline": "360 Security Technology unveils AI tools to rival Anthropic\u2019s Mythos",
+      "take": "360 Security unveils AI tools competing with Anthropic's Mythos",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ground-raises-preseed-fintech-onchain-yield/"
+      "link": "https://cryptobriefing.com/360-security-ai-tools-rival-anthropic-mythos/"
     },
     {
-      "headline": "Pump.fun offers up to $5M salary for chief legal officer role",
-      "take": "Pump dot fun seeks chief legal officer for up to five million dollar salary",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-chief-legal-officer-salary/"
+      "headline": "Crypto Deal Between Cantor SPAC and Adam Back DAT Gets Delayed",
+      "take": "Cantor SPAC deal with Adam Back's DAT delayed",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/crypto-deal-between-cantor-spac-and-adam-back-dat-gets-delayed"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Sen. Lummis to drop final CLARITY Act text over July 4th weekend, Senate vote expected in July",
-      "take": "Senator Lummis to release final CLARITY Act text July fourth weekend, Senate vote expected July",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lummis-clarity-act-final-text-july-senate-vote/"
+      "headline": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
+      "take": "Kalshi sues Illinois over new tax on sports prediction markets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets"
     },
     {
-      "headline": "Kalshi sues Illinois officials over prediction markets restrictions",
-      "take": "Kalshi sues Illinois officials challenging state prediction markets restrictions",
+      "headline": "FTX exec\u2019s wife scheduled for November trial on campaign finance charges",
+      "take": "FTX executive's wife scheduled for November trial on campaign finance charges",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
-      "take": "Congress examines risks of direct Federal Reserve access for crypto and fintech firms",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss"
+      "link": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }

@@ -1,102 +1,83 @@
 {
-  "generated": "2026-06-24T17:21:23.545855+00:00",
-  "ts": 1782321683,
+  "generated": "2026-06-24T20:13:23.481854+00:00",
+  "ts": 1782332003,
   "market": [
     {
-      "headline": "Bitcoin falls below $60,000 as crypto liquidations top $650M",
-      "take": "Bitcoin falls below $60K as crypto liquidations exceed $650 million",
+      "headline": "Bitcoin hits 20-month low as market sentiment sours and investors chase AI instead",
+      "take": "Bitcoin falls to twenty-month low as investors shift focus toward AI assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-falls-below-60000-as-crypto-liquidations-top-650m/"
+      "link": "https://cryptobriefing.com/bitcoin-20-month-low-market-sentiment/"
     },
     {
-      "headline": "Binance sees $479M in Bitcoin inflows as panic selling rises",
-      "take": "Binance records $479M Bitcoin inflows amid rising panic selling pressure",
+      "headline": "Strategy stock falls below $100 for first time since March 2024 as Bitcoin holdings face scrutiny",
+      "take": "Microstrategy stock drops below one hundred dollars amid Bitcoin holdings questions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-bitcoin-inflows-panic-selling/"
+      "link": "https://cryptobriefing.com/strategy-stock-falls-below-100-bitcoin-scrutiny/"
     },
     {
-      "headline": "Investors seek downside protection as VIX call options surge to 2026 highs",
-      "take": "Investors hedge downside risk as VIX call options reach 2026 highs",
+      "headline": "YieldMax semiconductor ETF offers 45% dividend yield amid AI boom, but the fine print matters",
+      "take": "YieldMax semiconductor ETF offers forty-five percent dividend yield with significant caveats",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vix-call-options-surge-downside-protection/"
+      "link": "https://cryptobriefing.com/yieldmax-semiconductor-etf-45-percent-yield/"
     },
     {
-      "headline": "Uniswap generates nearly $23M in protocol revenue this year after fee switch activation",
-      "take": "Uniswap generates nearly $23M protocol revenue after fee switch activation",
+      "headline": "S&P 500 and Nasdaq hit session lows as tech selloff erases morning gains",
+      "take": "S&P five hundred and Nasdaq retreat as technology sector selloff erases gains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-23m-revenue-fee-switch/"
-    },
-    {
-      "headline": "AAVE v4 deposits on Ethereum reach $200M, doubling in a month",
-      "take": "AAVE v4 Ethereum deposits double to $200M in one month",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-v4-deposits-200m-ethereum/"
+      "link": "https://cryptobriefing.com/sp500-nasdaq-session-lows-tech-selloff/"
     }
   ],
   "business": [
     {
-      "headline": "Virtuals Protocol integrates Wake as intelligence terminal for Base",
-      "take": "Virtuals Protocol integrates Wake intelligence terminal for Base blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/virtuals-protocol-wake-intelligence-base/"
+      "headline": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+      "take": "Kalshi valued at forty billion dollars, expanding lead over prediction market competitors",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket"
     },
     {
-      "headline": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
-      "take": "a16z-backed Cambrian raises $6M seed for blockchain data oracle network",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss"
+      "headline": "Meta plans AI-powered prediction market app Arena to rival Kalshi and Polymarket",
+      "take": "Meta launches AI-powered prediction market app Arena to challenge Kalshi and Polymarket",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-arena-prediction-market-app-3/"
     },
     {
-      "headline": "Sam Altman-backed World scales AgentKit as businesses seek trusted human-controlled AI agents",
-      "take": "Sam Altman-backed World scales AgentKit for human-controlled AI agents",
+      "headline": "LayerZero and Centrifuge unveil report on tokenized fund composability across 165 blockchains",
+      "take": "LayerZero and Centrifuge report on tokenized fund composability across blockchains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sam-altman-world-expands-agentkit-businesses-seek-trusted-human-controlled-ai-agents/"
+      "link": "https://cryptobriefing.com/layerzero-centrifuge-tokenized-fund-composability/"
     },
     {
-      "headline": "Uniswap enables teams to launch token auctions directly from its web app",
-      "take": "Uniswap enables direct token auction launches from web app interface",
+      "headline": "Ground raises $3.6M pre-seed to help fintechs access onchain yield",
+      "take": "Ground raises three point six million pre-seed funding for fintech onchain yield access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-token-auctions-web-app/"
+      "link": "https://cryptobriefing.com/ground-raises-preseed-fintech-onchain-yield/"
     },
     {
-      "headline": "Stablecore launches pilot program for US credit unions to test stablecoin services",
-      "take": "Stablecore pilots stablecoin services program with US credit unions",
+      "headline": "Pump.fun offers up to $5M salary for chief legal officer role",
+      "take": "Pump dot fun seeks chief legal officer for up to five million dollar salary",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecore-pilot-credit-unions-stablecoin-services/"
+      "link": "https://cryptobriefing.com/pump-fun-chief-legal-officer-salary/"
     }
   ],
-  "security": [
-    {
-      "headline": "Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud",
-      "take": "Fake crypto influencer sentenced 15 months for $1.4M Telegram fraud",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Binance withdraws Greek MiCA bid, seeks alternative EU license",
-      "take": "Binance withdraws Greece MiCA bid, pursues alternative European license",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-seeks-alternative-eu-license"
-    },
-    {
-      "headline": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
-      "take": "South Korea meets US SEC, explores unified crypto rules after local scandals",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals"
-    },
-    {
-      "headline": "Federal Reserve\u2019s Kevin Warsh signals hawkish stance, boosts US assets and rattles crypto markets",
-      "take": "Federal Reserve signals hawkish stance, pressures crypto markets downward",
+      "headline": "Sen. Lummis to drop final CLARITY Act text over July 4th weekend, Senate vote expected in July",
+      "take": "Senator Lummis to release final CLARITY Act text July fourth weekend, Senate vote expected July",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-warsh-hawkish-stance-crypto-impact/"
+      "link": "https://cryptobriefing.com/lummis-clarity-act-final-text-july-senate-vote/"
     },
     {
-      "headline": "Prediction market polls find US voters prefer federal rules over state patchwork",
-      "take": "Prediction markets show US voters prefer federal crypto rules over patchwork",
+      "headline": "Kalshi sues Illinois officials over prediction markets restrictions",
+      "take": "Kalshi sues Illinois officials challenging state prediction markets restrictions",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
+      "take": "Congress examines risks of direct Federal Reserve access for crypto and fintech firms",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss"
     }
   ]
 }

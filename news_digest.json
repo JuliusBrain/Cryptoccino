@@ -1,90 +1,90 @@
 {
-  "generated": "2026-06-25T15:19:28.942609+00:00",
-  "ts": 1782400768,
+  "generated": "2026-06-25T17:26:40.620792+00:00",
+  "ts": 1782408400,
   "market": [
     {
-      "headline": "Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges",
-      "take": "Bitcoin falls to $58K as $450M in leveraged longs liquidate",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges"
+      "headline": "Bitcoin rout leads Strategy\u2019s STRC to slide 26% below par as MSTR shares hits 16-month low",
+      "take": "Bitcoin decline pulls MSTR shares down to 16-month lows amid broader volatility",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says",
-      "take": "Prominent Bitcoin miner predicts further 30% decline to $44K by year-end",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says"
+      "headline": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
+      "take": "Bitcoin and Ethereum traders anticipate further downside after monthly drops exceed twenty percent",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum"
     },
     {
       "headline": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
-      "take": "Tether stablecoin USDT0 crosses $100 billion transaction volume milestone",
+      "take": "Tether stablecoin reaches milestone of one hundred billion dollars in transaction volume",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "\u2018Stablecoin\u2019 Google searches down 54% as supply growth stalls after 2025 boom",
-      "take": "Stablecoin Google searches down 54% as supply growth stalls",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises",
-      "take": "AAVE gains 10.1% as CoinDesk 20 index rises overall",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises"
     }
   ],
   "business": [
     {
-      "headline": "Jupiter integrates PAX Gold on Solana via Sunrise DeFi, bringing regulated gold token to new chain",
-      "take": "Jupiter integrates PAX Gold on Solana via Sunrise DeFi protocol",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-pax-gold-solana-sunrise-defi/"
-    },
-    {
-      "headline": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
-      "take": "Uniswap and Spark build stablecoin FX market for institutional participants",
+      "headline": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
+      "take": "Kraken negotiates fifteen percent stake in Aave DeFi platform at three hundred eighty-five million valuation",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry"
+      "link": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation"
     },
     {
-      "headline": "Arc unveils privacy model for mainstream onchain finance",
-      "take": "Arc unveils privacy model for mainstream onchain finance applications",
+      "headline": "General Intuition raises $320M at $2B valuation to scale AI training with gameplay data",
+      "take": "General Intuition raises three hundred twenty million dollars to scale AI training infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arc-privacy-model-onchain-finance/"
+      "link": "https://cryptobriefing.com/general-intuition-raises-320m-ai-gameplay/"
     },
     {
-      "headline": "Payward sues PowerTrade over $7M misappropriation claim",
-      "take": "Payward sues PowerTrade over $7M misappropriation claim in dispute",
+      "headline": "Netris secures $15M Series A from a16z to automate AI data center networking",
+      "take": "Netris secures fifteen million Series A funding for AI data center networking automation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/payward-sues-powertrade-7m-misappropriation/"
+      "link": "https://cryptobriefing.com/netris-a16z-series-a-ai-networking/"
+    },
+    {
+      "headline": "Coinbase adds support for Cap token, enabling deposit address generation",
+      "take": "Coinbase adds Cap token support enabling new deposit address generation for users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-adds-cap-token-support/"
+    },
+    {
+      "headline": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
+      "take": "Sophon Layer Two blockchain sunsets operations and migrates to Base for consumer applications",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Europol freezes $47M in crypto during global infostealer takedown",
-      "take": "Europol freezes $47M crypto during global infostealer operation takedown",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/europol-freezes-47m-crypto-infostealer-takedown/"
+      "headline": "Coinbase-incubated Base blockchain suffers \u2018Unsafe Head Stall\u2019 interrupting block production",
+      "take": "Base blockchain experiences block production interruption from unsafe head stall issue",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links \u2018Merry\u2019 to case",
-      "take": "Four arrested in Poland for crypto SIM-swap attacks linked to 'Merry'",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&utm_medium=rss"
+      "headline": "South Korean authorities fine Bithumb $136K over sharing user information overseas",
+      "take": "South Korean authorities fine Bithumb exchange for unauthorized overseas user data sharing",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Iran plans to generate $40B annually from fees in Strait of Hormuz, accepts Bitcoin and USDT",
-      "take": "Iran plans $40B annual Strait fees, accepts Bitcoin and USDT payments",
+      "headline": "OKX confirms compliance readiness for EU MiCA rules by July 1",
+      "take": "OKX confirms full compliance readiness with EU MiCA cryptocurrency regulation by July first",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-strait-hormuz-crypto-toll-fees/"
+      "link": "https://cryptobriefing.com/okx-mica-compliance-eu-deadline/"
     },
     {
-      "headline": "US DFC and World Bank\u2019s MIGA launch political risk insurance to unlock Ukraine reconstruction investment",
-      "take": "US DFC and World Bank MIGA launch political risk insurance for Ukraine",
+      "headline": "Ocasio-Cortez and Sanders introduce AI Data Center Moratorium Act to freeze new construction",
+      "take": "US lawmakers introduce bill to freeze new AI data center construction pending environmental review",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dfc-miga-political-risk-insurance-ukraine-fund/"
+      "link": "https://cryptobriefing.com/ai-data-center-moratorium-act-sanders-ocasio-cortez/"
+    },
+    {
+      "headline": "US lawmaker introduces bill mandating AI companies report critical incidents within seven days",
+      "take": "US lawmaker proposes legislation requiring AI companies report critical incidents within seven days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-incident-reporting-act-moran/"
     }
   ]
 }

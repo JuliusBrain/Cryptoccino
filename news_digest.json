@@ -1,90 +1,96 @@
 {
-  "generated": "2026-06-25T17:26:40.620792+00:00",
-  "ts": 1782408400,
+  "generated": "2026-06-25T20:24:05.386686+00:00",
+  "ts": 1782419045,
   "market": [
     {
-      "headline": "Bitcoin rout leads Strategy\u2019s STRC to slide 26% below par as MSTR shares hits 16-month low",
-      "take": "Bitcoin decline pulls MSTR shares down to 16-month lows amid broader volatility",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss"
+      "headline": "Over $1B in crypto positions liquidated in 24 hours as leverage wipes out 138,000 traders",
+      "take": "Over $1B in crypto positions liquidated as leverage wipes out 138,000 traders",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-liquidations-billion-24-hours/"
     },
     {
-      "headline": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
-      "take": "Bitcoin and Ethereum traders anticipate further downside after monthly drops exceed twenty percent",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum"
+      "headline": "Solana\u2019s onchain trading card game category surpasses $1B in volume",
+      "take": "Solana's onchain trading card game category surpasses $1 billion in volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-onchain-trading-card-games-1b/"
     },
     {
-      "headline": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
-      "take": "Tether stablecoin reaches milestone of one hundred billion dollars in transaction volume",
+      "headline": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an \u2018everything exchange\u2019",
+      "take": "Multicoin predicts HYPE reaches $319 by 2028 amid exchange expansion",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
+      "take": "Strategy's yield stock shows stronger correlation with Bitcoin than historically",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever"
+    },
+    {
+      "headline": "Federal Reserve Bank of Chicago\u2019s Goolsbee sees hope in inflation data, but crypto markets may not share the optimism",
+      "take": "Fed Chicago official sees inflation hope, but crypto markets remain skeptical",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goolsbee-inflation-data-crypto-impact/"
     }
   ],
   "business": [
     {
+      "headline": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+      "take": "Invesco enters tokenized stablecoin reserve sector with flag plant",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
-      "take": "Kraken negotiates fifteen percent stake in Aave DeFi platform at three hundred eighty-five million valuation",
+      "take": "Kraken in talks to acquire 15% stake in DeFi lender Aave",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation"
     },
     {
-      "headline": "General Intuition raises $320M at $2B valuation to scale AI training with gameplay data",
-      "take": "General Intuition raises three hundred twenty million dollars to scale AI training infrastructure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/general-intuition-raises-320m-ai-gameplay/"
+      "headline": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
+      "take": "SBI Holdings $289M Bitbank deal will create Japan's largest crypto exchange",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange"
     },
     {
-      "headline": "Netris secures $15M Series A from a16z to automate AI data center networking",
-      "take": "Netris secures fifteen million Series A funding for AI data center networking automation",
+      "headline": "Loyal files B-2 Token Transparency Filing and launches $2M buyback program",
+      "take": "Loyal files token transparency filing and launches $2M buyback program",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/netris-a16z-series-a-ai-networking/"
+      "link": "https://cryptobriefing.com/loyal-b2-token-transparency-filing-buyback/"
     },
     {
-      "headline": "Coinbase adds support for Cap token, enabling deposit address generation",
-      "take": "Coinbase adds Cap token support enabling new deposit address generation for users",
+      "headline": "ONDO Finance\u2019s SPCXon surpasses $10M in tokenized market cap",
+      "take": "ONDO Finance's SPCXon tokenized market cap surpasses $10 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-adds-cap-token-support/"
-    },
-    {
-      "headline": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
-      "take": "Sophon Layer Two blockchain sunsets operations and migrates to Base for consumer applications",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/ondo-spcxon-tokenized-spacex-market-cap/"
     }
   ],
   "security": [
     {
-      "headline": "Coinbase-incubated Base blockchain suffers \u2018Unsafe Head Stall\u2019 interrupting block production",
-      "take": "Base blockchain experiences block production interruption from unsafe head stall issue",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss"
+      "headline": "CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect",
+      "take": "CoinEx denies knowledge of aiding sanctioned Iran crypto market operations",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market"
     },
     {
-      "headline": "South Korean authorities fine Bithumb $136K over sharing user information overseas",
-      "take": "South Korean authorities fine Bithumb exchange for unauthorized overseas user data sharing",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-investigation-bithumb-user-information?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "headline": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
+      "take": "Base blockchain recovers after block production issue disrupts network briefly",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue"
     }
   ],
   "policy": [
     {
-      "headline": "OKX confirms compliance readiness for EU MiCA rules by July 1",
-      "take": "OKX confirms full compliance readiness with EU MiCA cryptocurrency regulation by July first",
+      "headline": "Jorge Jraissati testifies on Bitcoin\u2019s role in Venezuela\u2019s economy",
+      "take": "Jorge Jraissati testifies on Bitcoin's role in Venezuela's economy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okx-mica-compliance-eu-deadline/"
+      "link": "https://cryptobriefing.com/jraissati-bitcoin-venezuela-testimony/"
     },
     {
-      "headline": "Ocasio-Cortez and Sanders introduce AI Data Center Moratorium Act to freeze new construction",
-      "take": "US lawmakers introduce bill to freeze new AI data center construction pending environmental review",
+      "headline": "FCC tightens submarine cable rules, fast-tracks approvals for US firms",
+      "take": "FCC tightens submarine cable rules and fast-tracks approvals for US firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-data-center-moratorium-act-sanders-ocasio-cortez/"
-    },
-    {
-      "headline": "US lawmaker introduces bill mandating AI companies report critical incidents within seven days",
-      "take": "US lawmaker proposes legislation requiring AI companies report critical incidents within seven days",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-incident-reporting-act-moran/"
+      "link": "https://cryptobriefing.com/fcc-submarine-cable-rules-chinese-equipment/"
     }
   ]
 }

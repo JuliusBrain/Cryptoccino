@@ -1,120 +1,90 @@
 {
-  "generated": "2026-06-25T09:46:37.409877+00:00",
-  "ts": 1782380797,
+  "generated": "2026-06-25T15:19:28.942609+00:00",
+  "ts": 1782400768,
   "market": [
     {
-      "headline": "Over $1B in crypto liquidated as Bitcoin falls to $59K amid geopolitical tensions",
-      "take": "Over $1B in crypto liquidated as Bitcoin falls to $59K amid tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/over-1b-in-crypto-liquidated-as-bitcoin-falls-to-59k-amid-geopolitical-tensions/"
+      "headline": "Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges",
+      "take": "Bitcoin falls to $58K as $450M in leveraged longs liquidate",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges"
     },
     {
-      "headline": "Fed\u2019s June forecast: Persistent inflation, rate hikes likely by year\u2019s end",
-      "take": "Fed forecasts persistent inflation, rate hikes likely by year's end",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-june-forecast-persistent-inflation-rate-hikes-likely-by-years-end/"
+      "headline": "Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says",
+      "take": "Prominent Bitcoin miner predicts further 30% decline to $44K by year-end",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says"
     },
     {
-      "headline": "Polymarket\u2019s pUSD surpasses $500M in market value as platform overhaul gains traction",
-      "take": "Polymarket's pUSD surpasses $500M in market value",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-pusd-500m-market-value/"
+      "headline": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
+      "take": "Tether stablecoin USDT0 crosses $100 billion transaction volume milestone",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Ethereum leads blockchain user retention at 26% in Q1 2026 study",
-      "take": "Ethereum leads blockchain user retention at 26% in Q1 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-leads-blockchain-user-retention-q1-2026/"
+      "headline": "\u2018Stablecoin\u2019 Google searches down 54% as supply growth stalls after 2025 boom",
+      "take": "Stablecoin Google searches down 54% as supply growth stalls",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Micron\u2019s profit surge fuels rebound in global tech stocks",
-      "take": "Micron's profit surge fuels rebound in global tech stocks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/micron-profit-surge-tech-stocks-rebound/"
+      "headline": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises",
+      "take": "AAVE gains 10.1% as CoinDesk 20 index rises overall",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises"
     }
   ],
   "business": [
     {
-      "headline": "Circle deepens Japan push as USDC becomes first global dollar stablecoin approved by regulators",
-      "take": "Circle deepens Japan push; USDC first global stablecoin approved there",
+      "headline": "Jupiter integrates PAX Gold on Solana via Sunrise DeFi, bringing regulated gold token to new chain",
+      "take": "Jupiter integrates PAX Gold on Solana via Sunrise DeFi protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-japan-usdc-corporate-settlement/"
+      "link": "https://cryptobriefing.com/jupiter-pax-gold-solana-sunrise-defi/"
     },
     {
-      "headline": "SK Hynix\u2019s $29.6B Nasdaq listing could reshape the memory chip investment landscape",
-      "take": "SK Hynix's $29.6B Nasdaq listing reshapes memory chip investment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-nasdaq-listing-micron-valuation-gap/"
+      "headline": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
+      "take": "Uniswap and Spark build stablecoin FX market for institutional participants",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry"
     },
     {
-      "headline": "American Bitcoin Corp board approves 1-for-15 reverse stock split",
-      "take": "American Bitcoin Corp board approves 1-for-15 reverse stock split",
+      "headline": "Arc unveils privacy model for mainstream onchain finance",
+      "take": "Arc unveils privacy model for mainstream onchain finance applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/american-bitcoin-reverse-stock-split/"
+      "link": "https://cryptobriefing.com/arc-privacy-model-onchain-finance/"
     },
     {
-      "headline": "Amazon plans $48 billion investment in India, focusing on AI and jobs through 2030",
-      "take": "Amazon plans $48B India investment focusing on AI and jobs",
+      "headline": "Payward sues PowerTrade over $7M misappropriation claim",
+      "take": "Payward sues PowerTrade over $7M misappropriation claim in dispute",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-48-billion-india-ai-investment/"
-    },
-    {
-      "headline": "Polish crypto exchange Kanga secures MiCA license in Latvia",
-      "take": "Polish crypto exchange Kanga secures MiCA license in Latvia",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "link": "https://cryptobriefing.com/payward-sues-powertrade-7m-misappropriation/"
     }
   ],
   "security": [
     {
-      "headline": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
-      "take": "CoinEx processed $3.8B in Iran-linked funds as crypto gateway",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss"
+      "headline": "Europol freezes $47M in crypto during global infostealer takedown",
+      "take": "Europol freezes $47M crypto during global infostealer operation takedown",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/europol-freezes-47m-crypto-infostealer-takedown/"
     },
     {
-      "headline": "Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report",
-      "take": "Thailand issues arrest warrant for Chinese businessman in $28M crypto mining probe",
+      "headline": "Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links \u2018Merry\u2019 to case",
+      "take": "Four arrested in Poland for crypto SIM-swap attacks linked to 'Merry'",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406090/thailand-issues-arrest-warrant-chinese-businessman-mining-power-theft?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "South Korea fines Bithumb for sharing user data overseas without consent",
-      "take": "South Korea fines Bithumb for sharing user data overseas without consent",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406082/south-korea-bithumb-information-penalty?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "MemeCore's M token suddenly crashes 80% with no clear trigger",
-      "take": "MemeCore's M token crashes 80% with no clear trigger",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger"
+      "link": "https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Indonesia sets certification rules for influencers recommending crypto",
-      "take": "Indonesia sets certification rules for influencers recommending crypto",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/indonesia-certification-rules-influencers-recommending-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "House Democrats seek SEC answers on AI investment advisers",
-      "take": "House Democrats seek SEC answers on AI investment advisers",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-    },
-    {
-      "headline": "European Union approves US trade deal ahead of Trump\u2019s July 4 deadline",
-      "take": "European Union approves US trade deal ahead of Trump's deadline",
+      "headline": "Iran plans to generate $40B annually from fees in Strait of Hormuz, accepts Bitcoin and USDT",
+      "take": "Iran plans $40B annual Strait fees, accepts Bitcoin and USDT payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-approves-us-trade-deal-trump-deadline/"
+      "link": "https://cryptobriefing.com/iran-strait-hormuz-crypto-toll-fees/"
     },
     {
-      "headline": "Why Hong Kong\u2019s crypto regulation is drawing institutional capital",
-      "take": "Hong Kong's crypto regulation drawing institutional capital",
-      "source": "elliptic",
-      "link": "https://www.elliptic.co/blog/why-hong-kongs-crypto-regulation-is-drawing-institutional-capital"
+      "headline": "US DFC and World Bank\u2019s MIGA launch political risk insurance to unlock Ukraine reconstruction investment",
+      "take": "US DFC and World Bank MIGA launch political risk insurance for Ukraine",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dfc-miga-political-risk-insurance-ukraine-fund/"
     }
   ]
 }

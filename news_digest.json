@@ -1,77 +1,90 @@
 {
-  "generated": "2026-06-24T22:41:22.021296+00:00",
-  "ts": 1782340882,
+  "generated": "2026-06-25T04:36:41.834708+00:00",
+  "ts": 1782362201,
   "market": [
     {
-      "headline": "24-hour crypto liquidations reach $967M as leveraged longs get wiped out",
-      "take": "Crypto liquidations hit $967M as leveraged longs unwound sharply",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-liquidations-967-million-24-hours/"
-    },
-    {
-      "headline": "Kevin Warsh\u2019s first Fed meeting sends gold, silver, and Bitcoin tumbling",
-      "take": "Gold, silver, Bitcoin fall after Warsh's first Fed meeting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warsh-fed-remarks-pressure-bitcoin-gold-silver/"
+      "headline": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
+      "take": "Bitcoin rebounds above $60k as ETH, SOL recover alongside AI stock rally",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound"
     },
     {
       "headline": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
-      "take": "Bitcoin miners squeezed as revenue drops below production costs",
+      "take": "Bitcoin miners squeezed as revenue drops below production costs amid difficulty",
       "source": "theblock",
       "link": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss"
     },
     {
+      "headline": "XRP slides 2.8% as weak bounce keeps $1 support in focus",
+      "take": "XRP slides 2.8% as support level at $1 faces pressure from weak bounce",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/25/xrp-slides-2-8-as-weak-bounce-keeps-usd1-support-in-focus"
+    },
+    {
       "headline": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says\u2014Here's Why",
-      "take": "Standard Chartered forecasts AAVE could climb fifty times by 2030",
+      "take": "Standard Chartered forecasts Aave token could appreciate 50x by 2030",
       "source": "decrypt",
       "link": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered"
+    },
+    {
+      "headline": "Hong Kong dollar nears weak end of peg as volatility drops and borrowing costs crater",
+      "take": "Hong Kong dollar approaches weak peg end as volatility drops, costs crater",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-dollar-weak-end-peg-volatility/"
     }
   ],
   "business": [
     {
-      "headline": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-      "take": "Kalshi targets $40B valuation, doubling in two months amid fundraise",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket"
+      "headline": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+      "take": "Ripple launches RLUSD stablecoin in Japan following regulatory clearance",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Runpod raises $100M at $1B valuation, rejects $500M buyout offers",
-      "take": "Runpod raises $100M at $1B valuation, rejects $500M buyout",
+      "headline": "Animoca Brands invests in AllScale to enhance stablecoin payment infrastructure",
+      "take": "Animoca Brands invests in AllScale to strengthen stablecoin payment infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/runpod-raises-100m-billion-valuation-rejects-buyout/"
+      "link": "https://cryptobriefing.com/animoca-brands-allscale-stablecoin-payments/"
     },
     {
-      "headline": "Binance vows to remain in Europe despite licensing setback in Greece",
-      "take": "Binance commits to remaining in Europe despite Greece licensing setback",
+      "headline": "Coinbase connects Solana validator to DoubleZero Edge for faster trading",
+      "take": "Coinbase connects Solana validator to DoubleZero Edge for faster trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-europe-mica-license-setback/"
+      "link": "https://cryptobriefing.com/coinbase-solana-doublezero-edge-integration/"
     },
     {
-      "headline": "360 Security Technology unveils AI tools to rival Anthropic\u2019s Mythos",
-      "take": "360 Security unveils AI tools competing with Anthropic's Mythos",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/360-security-ai-tools-rival-anthropic-mythos/"
+      "headline": "Kalshi in talks to raise funds at $40 billion valuation: FT",
+      "take": "Kalshi in talks to raise funds at $40 billion valuation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Crypto Deal Between Cantor SPAC and Adam Back DAT Gets Delayed",
-      "take": "Cantor SPAC deal with Adam Back's DAT delayed",
+      "take": "Cantor SPAC-Adam Back DAT crypto deal faces delay",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/articles/2026-06-24/crypto-deal-between-cantor-spac-and-adam-back-dat-gets-delayed"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Abracadabra raises interest rates as MIM stablecoin depeg worsens",
+      "take": "Abracadabra raises MIM stablecoin interest rates as depeg situation worsens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/abracadabra-mim-stablecoin-depeg-interest-rates/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
-      "take": "Kalshi sues Illinois over new tax on sports prediction markets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets"
-    },
-    {
       "headline": "FTX exec\u2019s wife scheduled for November trial on campaign finance charges",
-      "take": "FTX executive's wife scheduled for November trial on campaign finance charges",
+      "take": "FTX executive's wife faces November trial on campaign finance charges",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
+      "take": "Kalshi sues Illinois over new state tax on sports prediction markets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets"
     }
   ]
 }

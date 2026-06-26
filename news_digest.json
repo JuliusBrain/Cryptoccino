@@ -1,102 +1,84 @@
 {
-  "generated": "2026-06-26T17:11:31.351839+00:00",
-  "ts": 1782493891,
+  "generated": "2026-06-26T20:13:29.060484+00:00",
+  "ts": 1782504809,
   "market": [
     {
-      "headline": "Bitcoin Tests $59K as ETFs Shed $692M, Options Expiry Looms",
-      "take": "Bitcoin drops toward $59K amid ETF outflows and options expiry pressure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372180/bitcoin-tests-59k-as-etfs-shed-692m-options-expiry-looms"
-    },
-    {
-      "headline": "Crypto\u2019s ETF Boom Gets $4.5 Billion Reality Check in Brutal Week",
-      "take": "Crypto ETF markets face $4.5 billion outflows in brutal trading week",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-26/crypto-s-etf-boom-gets-4-5-billion-reality-check-in-brutal-week"
-    },
-    {
-      "headline": "S&P 500 and Nasdaq set for weekly losses as chip stocks slide",
-      "take": "S&P 500 and Nasdaq set for weekly losses as chip stocks decline",
+      "headline": "US crude oil futures plunge 3.7% to $69.23 as Iran peace deal reshapes energy markets",
+      "take": "US crude oil futures drop 3.7% to $69.23 on Iran peace deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-nasdaq-weekly-losses-chip-stocks-slide/"
+      "link": "https://cryptobriefing.com/us-crude-oil-futures-drop-iran-peace-deal/"
     },
     {
-      "headline": "Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness",
-      "take": "MicroStrategy stock hits new low on Bitcoin weakness and volatility",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness"
+      "headline": "South Korea raises concerns over leveraged ETF trading boom that tripled assets to $9.1 billion",
+      "take": "South Korea raises concerns as leveraged ETF assets triple to $9.1 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-leveraged-etf-trading-boom-concerns/"
     },
     {
-      "headline": "Cantor Bitcoin SPAC Lets Investors Pledge Less as Crypto Slides",
-      "take": "Cantor Bitcoin SPAC reduces investor pledge requirements during crypto slide",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-26/cantor-bitcoin-spac-lets-investors-commit-less-as-crypto-slides"
+      "headline": "Solana DAT stocks surge as SOL rises 9%, led by SOL Strategies\u2019 22% jump",
+      "take": "Solana DAT stocks surge as SOL rises 9% in market rally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-dat-stocks-surge-sol-strategies/"
+    },
+    {
+      "headline": "Dow, S&P 500 and Nasdaq decline in final hour of trading as tech weakness drags markets lower",
+      "take": "Dow, S&P 500, Nasdaq decline as tech weakness drags markets lower",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-decline-final-hour/"
     }
   ],
   "business": [
     {
-      "headline": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
-      "take": "DraftKings launches prediction markets exchange with $3 billion consumer volume",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss"
+      "headline": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+      "take": "Linux Foundation and tech giants launch Akrites to defend open source code",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks"
     },
     {
-      "headline": "Securitize aims to raise $400 million as tokenization firm nears public debut",
-      "take": "Securitize targets $400 million raise ahead of tokenization firm IPO",
+      "headline": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+      "take": "AI agents evolving into autonomous economic actors, says Virtuals founder",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut"
+      "link": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors"
     },
     {
-      "headline": "SharpLink resumes Ethereum purchases after eight-month pause, adding 5,000 ETH",
-      "take": "SharpLink resumes Ethereum buying, adding 5,000 ETH after eight-month pause",
+      "headline": "Amazon Web Services raises GPU cloud pricing to $14.04 per hour starting July 1",
+      "take": "AWS raises GPU cloud pricing to $14.04 per hour starting July",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sharplink-resumes-ethereum-purchases/"
-    },
-    {
-      "headline": "Binance donates $3 million to support Venezuela earthquake victims",
-      "take": "Binance donates $3 million to support Venezuela earthquake relief efforts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-charity-venezuela-earthquake-usdt-donation/"
-    },
-    {
-      "headline": "Proof launches x401, an open protocol for verifying who\u2019s actually behind AI agents",
-      "take": "Proof launches x401 protocol for verifying identity behind AI agents",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/proof-x401-ai-agent-identity-protocol/"
+      "link": "https://cryptobriefing.com/aws-gpu-cloud-pricing-increase-july/"
     }
   ],
   "security": [
     {
-      "headline": "Inside a Sandwich Attack: Lessons From the $7.5 Million Heist Against JaredfromSubway.eth",
-      "take": "Sandwich attack steals $7.5 million from trader, reveals DEX vulnerability lessons",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/sandwich-attack-jaredfromsubway-hack/"
-    },
-    {
-      "headline": "DHS demonstrates how jailbroken AI can generate attack plans in minutes",
-      "take": "DHS shows jailbroken AI can generate attack plans within minutes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dhs-ai-vulnerabilities-congress-demonstration/"
+      "headline": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
+      "take": "Senators demand CFTC answers over alleged Polymarket deceptive advertising",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising"
     }
   ],
   "policy": [
     {
-      "headline": "Spain says \u2018no exceptions or extensions\u2019 for Binance, other crypto firms ahead of MiCA deadline",
-      "take": "Spain enforces strict MiCA deadline with no exceptions for Binance, others",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US senators push to end CFTC \u2018assault\u2019 on state oversight of prediction markets",
-      "take": "US senators push to limit CFTC oversight of state prediction markets",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Senators call for federal investigation into Polymarket\u2019s deceptive advertising",
-      "take": "Senators call federal investigation into Polymarket's deceptive advertising practices",
+      "headline": "Donald Trump warns of 100% tariff on countries with digital services tax",
+      "take": "Trump warns of 100% tariff on countries with digital services tax",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senators-cftc-polymarket-deceptive-advertising-investigation/"
+      "link": "https://cryptobriefing.com/trump-100-percent-tariff-digital-services-tax/"
+    },
+    {
+      "headline": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "take": "House Democrat condemns crypto in 401(k) retirement accounts ahead of committee",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s"
+    },
+    {
+      "headline": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+      "take": "Spain regulator rules out extension for non-MiCA compliant crypto firms",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
+      "take": "Anti-trafficking group says Clarity Act Section 604 could weaken accountability",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability"
     }
   ]
 }

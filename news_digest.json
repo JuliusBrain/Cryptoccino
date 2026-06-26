@@ -1,84 +1,102 @@
 {
-  "generated": "2026-06-26T14:49:24.741301+00:00",
-  "ts": 1782485364,
+  "generated": "2026-06-26T17:11:31.351839+00:00",
+  "ts": 1782493891,
   "market": [
     {
-      "headline": "Tech selloff drags crypto to its lowest levels of the year",
-      "take": "Tech selloff drags crypto to lowest levels this year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-selloff-drags-crypto-lowest-levels/"
-    },
-    {
       "headline": "Bitcoin Tests $59K as ETFs Shed $692M, Options Expiry Looms",
-      "take": "Bitcoin tests $59K as ETF outflows accelerate ahead of options expiry",
+      "take": "Bitcoin drops toward $59K amid ETF outflows and options expiry pressure",
       "source": "decrypt",
       "link": "https://decrypt.co/372180/bitcoin-tests-59k-as-etfs-shed-692m-options-expiry-looms"
     },
     {
-      "headline": "Strive\u2019s SATA hits all-time low of $80 amid Bitcoin treasury price shock",
-      "take": "Strive's SATA bitcoin treasury fund hits all-time low of $80",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-sata-all-time-low-bitcoin-treasury/"
+      "headline": "Crypto\u2019s ETF Boom Gets $4.5 Billion Reality Check in Brutal Week",
+      "take": "Crypto ETF markets face $4.5 billion outflows in brutal trading week",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-26/crypto-s-etf-boom-gets-4-5-billion-reality-check-in-brutal-week"
     },
     {
-      "headline": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
-      "take": "AAVE leads CoinDesk 20 index higher with 8.9% single-day gain",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher"
+      "headline": "S&P 500 and Nasdaq set for weekly losses as chip stocks slide",
+      "take": "S&P 500 and Nasdaq set for weekly losses as chip stocks decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-nasdaq-weekly-losses-chip-stocks-slide/"
     },
     {
-      "headline": "US Secretary of Commerce says he buys Bitcoin on every price dip",
-      "take": "US Commerce Secretary states he purchases Bitcoin on every price dip",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-commerce-secretary-buy-bitcoin-dips/"
+      "headline": "Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness",
+      "take": "MicroStrategy stock hits new low on Bitcoin weakness and volatility",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness"
+    },
+    {
+      "headline": "Cantor Bitcoin SPAC Lets Investors Pledge Less as Crypto Slides",
+      "take": "Cantor Bitcoin SPAC reduces investor pledge requirements during crypto slide",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-26/cantor-bitcoin-spac-lets-investors-commit-less-as-crypto-slides"
     }
   ],
   "business": [
     {
-      "headline": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
-      "take": "Framework Ventures closes $400M fourth fund for crypto, AI, robotics",
+      "headline": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
+      "take": "DraftKings launches prediction markets exchange with $3 billion consumer volume",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Sunrise DeFi lists $DRAM tokenized ETF on Solana, bringing memory chip exposure to DeFi",
-      "take": "Sunrise DeFi launches tokenized memory chip ETF on Solana blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sunrise-defi-dram-tokenized-etf-solana/"
+      "headline": "Securitize aims to raise $400 million as tokenization firm nears public debut",
+      "take": "Securitize targets $400 million raise ahead of tokenization firm IPO",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut"
     },
     {
-      "headline": "Binance stops services to EU clients after failing to obtain MiCA licence",
-      "take": "Binance halts EU services after failing to obtain required MiCA licence",
+      "headline": "SharpLink resumes Ethereum purchases after eight-month pause, adding 5,000 ETH",
+      "take": "SharpLink resumes Ethereum buying, adding 5,000 ETH after eight-month pause",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-stops-eu-services-mica-licence-2/"
+      "link": "https://cryptobriefing.com/sharplink-resumes-ethereum-purchases/"
+    },
+    {
+      "headline": "Binance donates $3 million to support Venezuela earthquake victims",
+      "take": "Binance donates $3 million to support Venezuela earthquake relief efforts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-charity-venezuela-earthquake-usdt-donation/"
+    },
+    {
+      "headline": "Proof launches x401, an open protocol for verifying who\u2019s actually behind AI agents",
+      "take": "Proof launches x401 protocol for verifying identity behind AI agents",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/proof-x401-ai-agent-identity-protocol/"
     }
   ],
   "security": [
     {
       "headline": "Inside a Sandwich Attack: Lessons From the $7.5 Million Heist Against JaredfromSubway.eth",
-      "take": "Sandwich attack steals $7.5M from JaredfromSubway.eth via MEV exploitation",
+      "take": "Sandwich attack steals $7.5 million from trader, reveals DEX vulnerability lessons",
       "source": "chainalysis",
       "link": "https://www.chainalysis.com/blog/sandwich-attack-jaredfromsubway-hack/"
+    },
+    {
+      "headline": "DHS demonstrates how jailbroken AI can generate attack plans in minutes",
+      "take": "DHS shows jailbroken AI can generate attack plans within minutes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dhs-ai-vulnerabilities-congress-demonstration/"
     }
   ],
   "policy": [
     {
-      "headline": "French Navy seizes fifth Russian shadow fleet tanker as EU sanctions target crypto-funded evasion networks",
-      "take": "French Navy seizes Russian shadow fleet tanker; EU targets crypto-funded evasion networks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/french-navy-shadow-fleet-tanker-crypto-sanctions/"
+      "headline": "Spain says \u2018no exceptions or extensions\u2019 for Binance, other crypto firms ahead of MiCA deadline",
+      "take": "Spain enforces strict MiCA deadline with no exceptions for Binance, others",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
-      "take": "SEC and CFTC seek public input on harmonizing portfolio margining frameworks",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks"
-    },
-    {
-      "headline": "Hyperliquid added to Singapore's Investor Alert List",
-      "take": "Singapore adds Hyperliquid to investor alert list for regulatory concerns",
+      "headline": "US senators push to end CFTC \u2018assault\u2019 on state oversight of prediction markets",
+      "take": "US senators push to limit CFTC oversight of state prediction markets",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Senators call for federal investigation into Polymarket\u2019s deceptive advertising",
+      "take": "Senators call federal investigation into Polymarket's deceptive advertising practices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senators-cftc-polymarket-deceptive-advertising-investigation/"
     }
   ]
 }

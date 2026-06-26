@@ -1,33 +1,45 @@
 {
-  "generated": "2026-06-26T20:13:29.060484+00:00",
-  "ts": 1782504809,
+  "generated": "2026-06-26T22:38:52.928361+00:00",
+  "ts": 1782513532,
   "market": [
     {
-      "headline": "US crude oil futures plunge 3.7% to $69.23 as Iran peace deal reshapes energy markets",
-      "take": "US crude oil futures drop 3.7% to $69.23 on Iran peace deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-crude-oil-futures-drop-iran-peace-deal/"
+      "headline": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+      "take": "Aave and Solana tokens lead crypto rebound as bitcoin steadies near sixty thousand",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000"
     },
     {
-      "headline": "South Korea raises concerns over leveraged ETF trading boom that tripled assets to $9.1 billion",
-      "take": "South Korea raises concerns as leveraged ETF assets triple to $9.1 billion",
+      "headline": "NASDAQ Composite falls over 4%, S&P 500 drops 2.6% amid tech selloff as AI skepticism grows",
+      "take": "NASDAQ drops over four percent, S&P falls two point six amid tech selloff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-leveraged-etf-trading-boom-concerns/"
+      "link": "https://cryptobriefing.com/nasdaq-sp500-tech-selloff-ai-skepticism/"
     },
     {
-      "headline": "Solana DAT stocks surge as SOL rises 9%, led by SOL Strategies\u2019 22% jump",
-      "take": "Solana DAT stocks surge as SOL rises 9% in market rally",
+      "headline": "Strategy enterprise mNAV falls below 1 as STRC hits record low",
+      "take": "Strategy enterprise mNAV falls below one as STRC hits record low",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-dat-stocks-surge-sol-strategies/"
+      "link": "https://cryptobriefing.com/strategy-enterprise-mnav-falls-below-1-as-strc-hits-record-low/"
     },
     {
-      "headline": "Dow, S&P 500 and Nasdaq decline in final hour of trading as tech weakness drags markets lower",
-      "take": "Dow, S&P 500, Nasdaq decline as tech weakness drags markets lower",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-decline-final-hour/"
+      "headline": "Solana DAT stocks climb double digits as SOL jumps 9%",
+      "take": "Solana DAT stocks climb double digits as SOL jumps nine percent",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
+    {
+      "headline": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
+      "take": "BlackRock-backed Securitize debuts Wall Street tokenization test for assets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo"
+    },
+    {
+      "headline": "FIFA World Cup 2026 kicks off crypto\u2019s biggest sports experiment yet",
+      "take": "FIFA World Cup 2026 integrates crypto infrastructure into tournament playbook",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-kraken-fan-tokens/"
+    },
     {
       "headline": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
       "take": "Linux Foundation and tech giants launch Akrites to defend open source code",
@@ -35,50 +47,37 @@
       "link": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks"
     },
     {
-      "headline": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
-      "take": "AI agents evolving into autonomous economic actors, says Virtuals founder",
+      "headline": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+      "take": "Former Ethereum Foundation leader warns of governance funding gap ahead",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors"
-    },
-    {
-      "headline": "Amazon Web Services raises GPU cloud pricing to $14.04 per hour starting July 1",
-      "take": "AWS raises GPU cloud pricing to $14.04 per hour starting July",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aws-gpu-cloud-pricing-increase-july/"
+      "link": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts"
     }
   ],
-  "security": [
+  "security": [],
+  "policy": [
+    {
+      "headline": "US government is building an AI licensing regime without actually writing the rules",
+      "take": "US government builds AI licensing regime without formally writing regulatory rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-government-ai-licensing-oversight-challenges/"
+    },
+    {
+      "headline": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "take": "House Democrat condemns cryptocurrency in employer retirement savings plans",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s"
+    },
     {
       "headline": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
       "take": "Senators demand CFTC answers over alleged Polymarket deceptive advertising",
       "source": "decrypt",
       "link": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising"
-    }
-  ],
-  "policy": [
+    },
     {
-      "headline": "Donald Trump warns of 100% tariff on countries with digital services tax",
-      "take": "Trump warns of 100% tariff on countries with digital services tax",
+      "headline": "Financial regulators scramble to counter AI rise with new supervisory tools",
+      "take": "Financial regulators develop new supervisory tools to counter AI rise",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-100-percent-tariff-digital-services-tax/"
-    },
-    {
-      "headline": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "take": "House Democrat condemns crypto in 401(k) retirement accounts ahead of committee",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s"
-    },
-    {
-      "headline": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-      "take": "Spain regulator rules out extension for non-MiCA compliant crypto firms",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
-      "take": "Anti-trafficking group says Clarity Act Section 604 could weaken accountability",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability"
+      "link": "https://cryptobriefing.com/financial-regulators-ai-suptech-tools/"
     }
   ]
 }

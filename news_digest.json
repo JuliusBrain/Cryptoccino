@@ -1,90 +1,78 @@
 {
-  "generated": "2026-06-26T04:43:08.978675+00:00",
-  "ts": 1782448988,
+  "generated": "2026-06-26T09:53:56.587597+00:00",
+  "ts": 1782467636,
   "market": [
     {
-      "headline": "Tether surpasses Ethereum in market cap, reaching $186B",
-      "take": "Tether surpasses Ethereum in market cap, reaching $186B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-surpasses-ethereum-market-cap/"
+      "headline": "Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble",
+      "take": "Ether, XRP, and dogecoin lead crypto selloff amid tech stock decline",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble"
     },
     {
-      "headline": "Global markets fall amid AI demand concerns, OpenAI IPO delays",
-      "take": "Global markets fall amid AI demand concerns, OpenAI IPO delays",
+      "headline": "Traders cut ECB rate hike expectations to below 25 basis points in 2026",
+      "take": "Traders cut ECB rate hike expectations to below twenty-five basis points",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-markets-fall-amid-ai-demand-concerns-openai-ipo-delays/"
+      "link": "https://cryptobriefing.com/ecb-rate-hike-expectations-cut-2026/"
     },
     {
-      "headline": "Taiwan retail margin debt surges to record NT$600B, surpassing dot-com era",
-      "take": "Taiwan retail margin debt surges to record, surpassing dot-com era",
+      "headline": "Michael Saylor reaffirms Strategy\u2019s commitment to Bitcoin after rare sale spooks investors",
+      "take": "Michael Saylor reaffirms MicroStrategy's Bitcoin commitment after rare sale",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taiwan-margin-debt-record-dot-com/"
+      "link": "https://cryptobriefing.com/strategy-reaffirms-bitcoin-commitment/"
     },
     {
-      "headline": "KOSPI plunges as Samsung and SK Hynix lead chipmaker rout amid AI sentiment shift",
-      "take": "KOSPI plunges as chipmakers lead rout amid AI sentiment shift",
+      "headline": "Bank of America reports $9B outflow from US equity funds as tech trade cools",
+      "take": "Bank of America reports nine billion dollar outflow from US equity funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kospi-falls-chipmakers-ai-sentiment-shift/"
+      "link": "https://cryptobriefing.com/bank-of-america-us-equity-outflow-tech/"
     },
     {
-      "headline": "Retail buying in US semiconductor ETFs hits record $12B",
-      "take": "Retail buying in US semiconductor ETFs hits record $12B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/retail-semiconductor-etf-buying-record-12-billion/"
+      "headline": "Ethereum treasury firm Sharplink takes in ether for the first time in eight months",
+      "take": "Sharplink ethereum treasury firm receives ether for first time in months",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months"
     }
   ],
   "business": [
     {
-      "headline": "Airwallex reaches $11B valuation with $320M funding round",
-      "take": "Airwallex reaches $11B valuation with $320M funding round",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/airwallex-11b-valuation-320m-funding/"
-    },
-    {
-      "headline": "StablecoinX debuts on Nasdaq, betting big on Ethena\u2019s ecosystem with $890M war chest",
-      "take": "StablecoinX debuts on Nasdaq with $890M backing Ethena ecosystem",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoinx-nasdaq-debut-ethena-ecosystem/"
-    },
-    {
-      "headline": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines",
-      "take": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406258/ark-invest-coinbase-circle-bullish-robinhood?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "take": "Invesco files for tokenized fund targeting stablecoin reserve market",
+      "headline": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
+      "take": "SBI Holdings to acquire Bitbank cryptocurrency exchange for two-hundred-eighty-nine million",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market"
+      "link": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million"
     },
     {
-      "headline": "Solana Mobile dApp Store sees 96 new apps launched in a single week",
-      "take": "Solana Mobile dApp Store sees 96 new apps launched weekly",
+      "headline": "Binance to delist ALCX, ARDR, NFP, and POND on July 10, 2026",
+      "take": "Binance delisting four tokens including ALCX and ARDR on July tenth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-mobile-dapp-store-96-apps-week/"
+      "link": "https://cryptobriefing.com/binance-delist-alcx-ardr-nfp-pond/"
+    },
+    {
+      "headline": "Oasis founder Dawn Song joins Meta Superintelligence Labs as VP of AI Research",
+      "take": "Oasis founder Dawn Song joins Meta as VP of AI Research",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dawn-song-meta-superintelligence-labs-vp/"
     }
   ],
   "security": [
     {
-      "headline": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-      "take": "Polymarket to refund users after scammers swipe millions in exploit",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit"
+      "headline": "Polymarket hit by $2.9M theft, users to be refunded",
+      "take": "Polymarket suffers two point nine million dollar theft; users to be refunded",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "headline": "Hyperliquid added to Monetary Authority of Singapore\u2019s Investor Alert List",
+      "take": "Hyperliquid added to Singapore's Monetary Authority Investor Alert List",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-singapore-mas-investor-alert-list/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-      "take": "Senate races to advance crypto legislation in July amid timeline pressure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-      "take": "Anthropic urges Congress to crack down on AI distillation by rivals",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals"
+      "headline": "Gottheimer and Moolenaar introduce bill directing NSA to build AI security playbook",
+      "take": "US lawmakers introduce bill directing NSA to build AI security playbook",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-cloud-security-bill-nsa-playbook/"
     }
   ]
 }

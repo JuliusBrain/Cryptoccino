@@ -1,32 +1,56 @@
 {
-  "generated": "2026-06-25T22:50:03.152208+00:00",
-  "ts": 1782427803,
+  "generated": "2026-06-26T04:43:08.978675+00:00",
+  "ts": 1782448988,
   "market": [
     {
-      "headline": "Weekly crypto card transaction volumes surpass $200M as stablecoins fuel everyday spending",
-      "take": "Weekly crypto card transaction volumes exceed $200M, stablecoins driving everyday spending",
+      "headline": "Tether surpasses Ethereum in market cap, reaching $186B",
+      "take": "Tether surpasses Ethereum in market cap, reaching $186B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/weekly-crypto-card-volumes-surpass-200m/"
+      "link": "https://cryptobriefing.com/tether-surpasses-ethereum-market-cap/"
     },
     {
-      "headline": "A Bright Spot for Embattled Bitcoin Miners as AI Power Demand Soars",
-      "take": "Bitcoin miners find bright spot as AI power demand surges significantly",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/bitcoin-btc-miners-help-electric-grid-as-ai-data-centers-boom"
+      "headline": "Global markets fall amid AI demand concerns, OpenAI IPO delays",
+      "take": "Global markets fall amid AI demand concerns, OpenAI IPO delays",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/global-markets-fall-amid-ai-demand-concerns-openai-ipo-delays/"
     },
     {
-      "headline": "Wall Street banks express renewed confidence in US dollar as Fed\u2019s Warsh commits to price stability",
-      "take": "Wall Street banks express renewed confidence in US dollar amid Fed price stability commitment",
+      "headline": "Taiwan retail margin debt surges to record NT$600B, surpassing dot-com era",
+      "take": "Taiwan retail margin debt surges to record, surpassing dot-com era",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wall-street-dollar-confidence-fed-warsh/"
+      "link": "https://cryptobriefing.com/taiwan-margin-debt-record-dot-com/"
+    },
+    {
+      "headline": "KOSPI plunges as Samsung and SK Hynix lead chipmaker rout amid AI sentiment shift",
+      "take": "KOSPI plunges as chipmakers lead rout amid AI sentiment shift",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kospi-falls-chipmakers-ai-sentiment-shift/"
+    },
+    {
+      "headline": "Retail buying in US semiconductor ETFs hits record $12B",
+      "take": "Retail buying in US semiconductor ETFs hits record $12B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/retail-semiconductor-etf-buying-record-12-billion/"
     }
   ],
   "business": [
     {
-      "headline": "ChainOn Group files for $31M US IPO on NASDAQ under ticker CHON",
-      "take": "ChainOn Group files for $31M NASDAQ IPO under ticker CHON",
+      "headline": "Airwallex reaches $11B valuation with $320M funding round",
+      "take": "Airwallex reaches $11B valuation with $320M funding round",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainon-group-31m-ipo-nasdaq-chon/"
+      "link": "https://cryptobriefing.com/airwallex-11b-valuation-320m-funding/"
+    },
+    {
+      "headline": "StablecoinX debuts on Nasdaq, betting big on Ethena\u2019s ecosystem with $890M war chest",
+      "take": "StablecoinX debuts on Nasdaq with $890M backing Ethena ecosystem",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stablecoinx-nasdaq-debut-ethena-ecosystem/"
+    },
+    {
+      "headline": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines",
+      "take": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406258/ark-invest-coinbase-circle-bullish-robinhood?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
@@ -35,62 +59,32 @@
       "link": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market"
     },
     {
-      "headline": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
-      "take": "SBI Holdings acquires Bitbank for $289M, creating Japan's largest crypto exchange",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange"
-    },
-    {
-      "headline": "Anthropic hires Orange\u2019s AI chief Steve Jarrett to expand in Europe",
-      "take": "Anthropic hires Orange's AI chief Steve Jarrett to expand European operations",
+      "headline": "Solana Mobile dApp Store sees 96 new apps launched in a single week",
+      "take": "Solana Mobile dApp Store sees 96 new apps launched weekly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-hires-orange-ai-chief-europe-2/"
-    },
-    {
-      "headline": "X expands access to X Money for premium users as Musk pushes \u2018everything app\u2019 vision",
-      "take": "X expands Money access to premium users as Musk pursues everything app vision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/x-money-premium-users-expansion/"
+      "link": "https://cryptobriefing.com/solana-mobile-dapp-store-96-apps-week/"
     }
   ],
   "security": [
     {
-      "headline": "Polymarket faces scrutiny over deceptive promotional videos featuring fake trades and fabricated winnings",
-      "take": "Polymarket faces scrutiny over deceptive promotional videos with fabricated trades",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-deceptive-promotional-videos-fake-trades/"
-    },
-    {
       "headline": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-      "take": "Polymarket to refund users after website exploit allows scammers to steal millions",
+      "take": "Polymarket to refund users after scammers swipe millions in exploit",
       "source": "decrypt",
       "link": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit"
-    },
-    {
-      "headline": "Anthropic urges Congress to strengthen AI export controls, accuses Alibaba of massive distillation attack",
-      "take": "Anthropic accuses Alibaba of massive distillation attack, urges stricter AI export controls",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-congress-ai-export-controls-alibaba/"
     }
   ],
   "policy": [
     {
       "headline": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-      "take": "Senate races to advance crypto legislation in July amid housing bill turmoil",
+      "take": "Senate races to advance crypto legislation in July amid timeline pressure",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Trump administration asks OpenAI to stagger release of GPT 5.6 over cybersecurity concerns",
-      "take": "Trump administration asks OpenAI to stagger GPT release over cybersecurity concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-openai-stagger-ai-model-release/"
-    },
-    {
-      "headline": "Qualcomm designs China-specific data center chip to comply with US export curbs",
-      "take": "Qualcomm designs China-specific data center chip to comply with US export restrictions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/qualcomm-china-data-center-chip-dragonfly/"
+      "headline": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
+      "take": "Anthropic urges Congress to crack down on AI distillation by rivals",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals"
     }
   ]
 }

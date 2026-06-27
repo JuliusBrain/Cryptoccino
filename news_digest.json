@@ -1,90 +1,54 @@
 {
-  "generated": "2026-06-27T04:28:17.911261+00:00",
-  "ts": 1782534497,
+  "generated": "2026-06-27T09:07:25.828174+00:00",
+  "ts": 1782551245,
   "market": [
     {
-      "headline": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-      "take": "Aave and Solana tokens lead rebound as bitcoin holds near sixty thousand",
+      "headline": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+      "take": "Dogecoin and HYPE tokens fell as AI stocks attracted crypto investors",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000"
+      "link": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers"
     },
     {
-      "headline": "Solana\u2019s SOL rebounds to $72 amid declining onchain metrics",
-      "take": "Solana SOL rebounds to seventy-two dollars amid declining onchain metrics",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-sol-rebounds-declining-onchain-metrics/"
+      "headline": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+      "take": "Ripple CEO remains bullish on Bitcoin despite criticism of Saylor's strategy",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto"
     },
     {
       "headline": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
-      "take": "Strategy loses bitcoin premium as enterprise market nav drops below one",
+      "take": "Bitcoin premium strategy loses enterprise appeal as mNAV falls below parity",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "FIFA\u2019s crypto push meets USMNT\u2019s World Cup breakout as prediction markets surge past $5B",
-      "take": "Prediction markets surge past five billion as crypto sponsorships reshape tournament",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-crypto-world-cup-prediction-markets/"
     }
   ],
   "business": [
     {
-      "headline": "FIFA taps Kraken as official crypto partner for 2026 World Cup as Argentina prepares to face Cape Verde",
-      "take": "FIFA names Kraken as official crypto partner for two thousand twenty-six World Cup",
+      "headline": "Chainlink\u2019s CRE selected by DTCC for collateral management and Pangea for FX settlement",
+      "take": "Chainlink selected by DTCC and Pangea for collateral and FX settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-kraken-crypto-world-cup-2026-2/"
-    },
-    {
-      "headline": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
-      "take": "BlackRock-backed Securitize tests tokenization market with Wall Street debut",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo"
-    },
-    {
-      "headline": "SpaceX completes largest IPO ever, raises $86B, boosts Robinhood activity",
-      "take": "SpaceX completes largest IPO ever, raises eighty-six billion dollars",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-completes-largest-ipo-ever-raises-86b-boosts-robinhood-activity/"
-    },
-    {
-      "headline": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
-      "take": "Linux Foundation and tech giants launch Akrites to defend open source",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks"
+      "link": "https://cryptobriefing.com/chainlink-cre-dtcc-collateral-pangea-fx-settlement/"
     }
   ],
   "security": [
     {
-      "headline": "US senators urge CFTC probe Polymarket over \u2018deceptive marketing\u2019",
-      "take": "US senators urge CFTC probe Polymarket over alleged deceptive marketing",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Amazon Q Developer flaw allows cloud credential theft via malicious repositories",
+      "take": "Amazon Q Developer flaw allows credential theft through malicious repositories",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/amazon-q-developer-credential-theft-flaw/"
     }
   ],
   "policy": [
     {
-      "headline": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-      "take": "Spain regulator rules out extension for non-MiCA compliant crypto firms",
+      "headline": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+      "take": "EU lawmakers push for regulatory framework on DeFi, staking, and NFTs",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US expands ban on Chinese technology imports, targeting Huawei, ZTE, and surveillance equipment makers",
-      "take": "US expands ban on Chinese technology imports targeting Huawei and ZTE",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-expands-ban-chinese-tech-imports/"
-    },
-    {
-      "headline": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "take": "House Democrat condemns crypto in four-oh-one-k retirement accounts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s"
-    },
-    {
-      "headline": "Bolivia shifts to flexible exchange-rate system after 15 years, reshaping crypto landscape",
-      "take": "Bolivia shifts to flexible exchange-rate system after fifteen years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bolivia-flexible-exchange-rate-crypto/"
+      "headline": "US senators urge CFTC probe Polymarket over \u2018deceptive marketing\u2019",
+      "take": "US senators demand CFTC investigation into Polymarket deceptive marketing claims",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

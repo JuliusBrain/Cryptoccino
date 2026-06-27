@@ -1,63 +1,76 @@
 {
-  "generated": "2026-06-27T11:06:30.820156+00:00",
-  "ts": 1782558390,
+  "generated": "2026-06-27T14:09:25.207612+00:00",
+  "ts": 1782569365,
   "market": [
     {
+      "headline": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+      "take": "CZ attributes crypto's 2026 downturn to AI hype, geopolitical stress, market cycles",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle"
+    },
+    {
+      "headline": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+      "take": "Strategy's valuation drops below its bitcoin holdings, signaling asset liquidation pressure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings"
+    },
+    {
       "headline": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-      "take": "Dogecoin and Hyperliquid HYPE led weekly losses as AI stocks attract capital",
+      "take": "Dogecoin and Hyperliquid HYPE fall sharply as AI stocks attract institutional capital",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers"
-    },
-    {
-      "headline": "Bahrain accuses Iran of drone attack as crypto markets take a $700M hit",
-      "take": "Bahrain accuses Iran of drone attack; crypto markets down $700M in response",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bahrain-iran-drone-attack-crypto-liquidations/"
-    },
-    {
-      "headline": "Manchester City\u2019s record \u00a3116M signing highlights growing intersection of football transfers and fan tokens",
-      "take": "Manchester City's \u00a3116M signing highlights growing link between transfers and fan tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/man-city-anderson-transfer-fan-tokens/"
     }
   ],
   "business": [
     {
-      "headline": "US approves Anthropic\u2019s Mythos AI release to trusted organizations",
-      "take": "US approves Anthropic's Mythos AI release to trusted organizations",
+      "headline": "Fervo Energy soars 35% on IPO amid AI energy crunch",
+      "take": "Fervo Energy surges 35% on IPO debut amid soaring AI data center power demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-mythos-ai-approval-trusted-organizations/"
+      "link": "https://cryptobriefing.com/fervo-energy-ipo-ai-energy-crunch/"
     },
     {
-      "headline": "Microsoft promotes Jacob Andreou to lead Copilot AI strategy amid competitive challenges",
-      "take": "Microsoft promotes Jacob Andreou to lead Copilot AI strategy amid competition",
+      "headline": "GE Vernova\u2019s gas turbines power AI data center boom, orders full through 2031",
+      "take": "GE Vernova gas turbines power AI data centers with order backlog through 2031",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-andreou-copilot-ai-leadership/"
+      "link": "https://cryptobriefing.com/ge-vernova-gas-turbines-ai-data-centers/"
     },
     {
-      "headline": "Kraken\u2019s FIFA World Cup deal gets a spotlight as England\u2019s defensive woes dominate headlines",
-      "take": "Kraken secures FIFA World Cup sponsorship as sports betting gains prominence",
+      "headline": "OpenAI declares it\u2019s \u2018clearly in the advertising business now\u2019 as AI reshapes marketing",
+      "take": "OpenAI officially enters advertising business as AI reshapes digital marketing landscape",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-partnership-5/"
+      "link": "https://cryptobriefing.com/openai-advertising-business-cannes-lions/"
+    },
+    {
+      "headline": "Meta leads smart glasses market with 84% share amid AI push",
+      "take": "Meta dominates smart glasses with 84% market share while pushing AI integration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-smart-glasses-market-share-ai/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "SecondFi targets two-week recovery after Cardano wallet exploit drained $2.4M in ADA",
+      "take": "SecondFi lost $2.4M ADA in Cardano wallet exploit, targeting two-week recovery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/secondfi-cardano-wallet-exploit-recovery/"
+    }
+  ],
   "policy": [
     {
+      "headline": "California\u2019s $351.7B budget includes new software tax, but explicitly excludes crypto",
+      "take": "California's budget adds software tax but explicitly exempts cryptocurrency transactions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/california-budget-software-tax-crypto-exempt/"
+    },
+    {
       "headline": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "take": "EU lawmakers urge assessment of DeFi, staking, and NFT regulatory frameworks",
+      "take": "EU lawmakers call for regulatory assessment of DeFi, staking, and NFT sectors",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Trump threatens 100% tariff on EU countries imposing digital tax",
-      "take": "Trump threatens 100% tariff on EU countries imposing digital tax",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-100-percent-tariff-eu-digital-tax/"
-    },
-    {
       "headline": "US senators urge CFTC probe Polymarket over \u2018deceptive marketing\u2019",
-      "take": "US senators urge CFTC probe Polymarket over alleged deceptive marketing",
+      "take": "US senators push CFTC to probe Polymarket over alleged deceptive marketing practices",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

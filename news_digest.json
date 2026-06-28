@@ -1,72 +1,83 @@
 {
-  "generated": "2026-06-28T19:48:48.681335+00:00",
-  "ts": 1782676128,
+  "generated": "2026-06-28T22:17:18.284834+00:00",
+  "ts": 1782685038,
   "market": [
     {
-      "headline": "Iran launches missile and drone strikes on US bases in Kuwait and Bahrain, Bitcoin dips then rebounds past $102K",
-      "take": "Iran strikes US bases; Bitcoin dips then rebounds past $102K",
+      "headline": "Polygon processes $80B in stablecoin volume, leads all blockchains in transactions",
+      "take": "Polygon leads blockchains with eighty billion stablecoin transaction volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-strikes-us-bases-bitcoin-reaction/"
+      "link": "https://cryptobriefing.com/polygon-80b-stablecoin-volume-transaction-leader/"
     },
     {
-      "headline": "TSMC posts 30% revenue surge as AI chip demand shows no signs of slowing",
-      "take": "TSMC posts 30% revenue surge as AI chip demand accelerates",
+      "headline": "US dollar hits highest value in over a year as AI investment boom reshapes capital flows",
+      "take": "US dollar hits highest value in over a year as AI investment surges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-revenue-surge-ai-chip-demand/"
+      "link": "https://cryptobriefing.com/us-dollar-highest-value-ai-boom/"
     },
     {
       "headline": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
-      "take": "Michael Saylor signals another bitcoin buy despite $13B underwater",
+      "take": "Michael Saylor signals additional bitcoin purchases despite Strategy stock losses",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Hyperliquid surpasses S.A.N.T.A in 24-hour revenue as memecoin infrastructure war heats up",
-      "take": "Hyperliquid surpasses S.A.N.T.A in 24-hour revenue; memecoin war heats",
+      "headline": "HIP-4 open interest hits all-time high of $25M as World Cup fever grips Hyperliquid",
+      "take": "Hyperliquid HIP-4 open interest reaches twenty-five million all-time high",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-surpasses-santa-24-hour-revenue/"
-    },
-    {
-      "headline": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
-      "take": "Crypto's next frontier is financing AI and robotics, not crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"
+      "link": "https://cryptobriefing.com/hip-4-open-interest-ath-world-cup/"
     }
   ],
   "business": [
     {
+      "headline": "Figure files for 10th ABS deal in 2026, surpassing major banks in securitization volume",
+      "take": "Figure files tenth ABS deal in 2026, outpaces major banks in securitization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/figure-10th-abs-deal-2026-surpassing-banks/"
+    },
+    {
       "headline": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
-      "take": "SBI's $289M Bitbank deal signals Japan's crypto market consolidation",
+      "take": "SBI acquires Bitbank for two hundred eighty-nine million amid Japan consolidation",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners"
     },
     {
-      "headline": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
-      "take": "CZ aims to make US the capital of crypto at State of Crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto"
-    }
-  ],
-  "security": [
-    {
-      "headline": "CrowdStrike reports 90 organizations targeted by prompt injection attacks in 2025",
-      "take": "CrowdStrike reports 90 organizations hit by prompt injection attacks",
+      "headline": "xAI unveils Grok 4.5, a significant upgrade powered by 1.5 trillion parameter V9 model",
+      "take": "xAI releases Grok 4.5 with one point five trillion parameter V9 model",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crowdstrike-prompt-injection-attacks-crypto/"
+      "link": "https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/"
+    },
+    {
+      "headline": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+      "take": "Crypto's next wave targets AI and robotics financing beyond digital assets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "BIS warns stablecoins risk fragmenting global financial system",
-      "take": "BIS warns stablecoins risk fragmenting global financial system",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "John Thune prepares to advance crypto legislation for Senate vote",
+      "take": "Senator Thune prepares to advance crypto legislation for Senate floor vote",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/thune-crypto-clarity-act-senate-vote/"
+    },
+    {
+      "headline": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report",
+      "take": "BIS warns stablecoins fall short as money, pose emerging-market risks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "EU watchdog EBA details big crypto fines as landmark laws bite",
-      "take": "EU watchdog EBA details major crypto fines under landmark laws",
+      "take": "EU watchdog EBA issues major crypto fines under landmark regulatory framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Senator Lummis fires back at Jamie Dimon over crypto Clarity Act criticism",
+      "take": "Senator Lummis responds to Jamie Dimon's criticism of Crypto Clarity Act",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lummis-rebuts-dimon-clarity-act-criticism/"
     }
   ]
 }

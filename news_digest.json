@@ -1,96 +1,54 @@
 {
-  "generated": "2026-06-27T22:18:50.974775+00:00",
-  "ts": 1782598730,
+  "generated": "2026-06-28T04:55:09.208719+00:00",
+  "ts": 1782622509,
   "market": [
     {
+      "headline": "The 2026 World Cup final is set, and Polymarket has already generated over $2 billion in bets",
+      "take": "Polymarket generates over $2 billion in bets on 2026 World Cup final",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-cup-polymarket-prediction-market-volume/"
+    },
+    {
+      "headline": "Grayscale research head says Strategy could restore market confidence by selling $3B in BTC",
+      "take": "Grayscale research suggests $3B Bitcoin sale could restore market confidence",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-btc-sale-market-confidence/"
+    },
+    {
       "headline": "Why a selloff in gold and silver is dragging bitcoin down",
-      "take": "Gold and silver selloff is weighing on bitcoin prices downward",
+      "take": "Gold and silver selloff is dragging bitcoin prices lower",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down"
-    },
-    {
-      "headline": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
-      "take": "Spot bitcoin ETF investors down 40% after second-worst week recorded",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "take": "Tether deploying $23 billion gold reserves for bullion-backed lending operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans"
-    },
-    {
-      "headline": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-      "take": "Strategy's market value dropped below its bitcoin holdings value",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings"
-    },
-    {
-      "headline": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "take": "CZ attributes 2026 crypto downturn to AI hype, geopolitics, four-year cycle",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase and OKX try to lure in Binance\u2019s EU users after it failed to secure a MiCA license",
-      "take": "Coinbase and OKX recruit Binance EU users after its MiCA license failure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license"
-    },
-    {
-      "headline": "OpenAI and Anthropic may file IPO prospectuses soon after SpaceX\u2019s historic filing",
-      "take": "OpenAI and Anthropic may file IPO prospectuses following SpaceX's public filing",
+      "headline": "Argentina reaches 50 FIFA World Cup wins, and $ARG fan token holders are paying attention",
+      "take": "Argentina's World Cup milestone draws attention from $ARG fan token holders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-ipo-filings-spacex/"
+      "link": "https://cryptobriefing.com/argentina-50-world-cup-wins-arg-fan-token/"
     },
     {
-      "headline": "SpaceX trademarks SpaceXAI for satellite-based AI services",
-      "take": "SpaceX trademarked SpaceXAI for satellite-based artificial intelligence services",
+      "headline": "Argentina\u2019s World Cup win spotlights growing crypto ties between FIFA, fan tokens, and the beautiful game",
+      "take": "Argentina's World Cup win highlights growing crypto ties with FIFA and fan tokens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-trademarks-spacexai-satellite-ai/"
-    },
-    {
-      "headline": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
-      "take": "Stablecoin founder distribution doesn't align with actual stablecoin volume patterns",
-      "source": "decrypt",
-      "link": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map"
-    },
-    {
-      "headline": "What Robinhood\u2019s recent layoffs say about the current state of crypto investments",
-      "take": "Robinhood layoffs reflect shifting investor sentiment toward crypto investments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments"
+      "link": "https://cryptobriefing.com/argentina-world-cup-crypto-fan-tokens-3/"
     }
   ],
   "security": [
     {
-      "headline": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
-      "take": "Polymarket hack losses climbed to $3.1 million despite refund promises",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds"
+      "headline": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
+      "take": "SecondFi hit by $2.4 million Cardano wallet exploit, plans two-week recovery",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "US military strikes Iranian sites near Strait of Hormuz after cargo ship attack",
-      "take": "US military struck Iranian sites near Strait after cargo ship attack",
+      "headline": "Kevin Warsh takes the Fed\u2019s wheel with a crypto portfolio and a grudge against forward guidance",
+      "take": "Kevin Warsh becomes Federal Reserve chair with crypto portfolio and anti-guidance stance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-military-strikes-strait-of-hormuz-iran/"
-    },
-    {
-      "headline": "Israel to withdraw from southern Lebanon under US-brokered agreement",
-      "take": "Israel to withdraw southern Lebanon forces under US-brokered ceasefire agreement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israel-to-withdraw-from-southern-lebanon-under-us-brokered-agreement/"
-    },
-    {
-      "headline": "OpenAI delays GPT-5.6 release at government\u2019s request, impacting timeline",
-      "take": "OpenAI delayed GPT-5.6 release at government request, impacting product timeline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-delays-gpt-56-release-at-governments-request-impacting-timeline/"
+      "link": "https://cryptobriefing.com/kevin-warsh-fed-chair-crypto-regime-change/"
     }
   ]
 }

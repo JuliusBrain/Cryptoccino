@@ -1,77 +1,90 @@
 {
-  "generated": "2026-06-28T14:18:39.101047+00:00",
-  "ts": 1782656319,
+  "generated": "2026-06-28T16:38:51.603120+00:00",
+  "ts": 1782664731,
   "market": [
     {
       "headline": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
-      "take": "Bitcoin falls below $60,000, tracking rare back-to-back quarterly loss",
+      "take": "Bitcoin falls below $60,000, tracking toward consecutive quarterly losses",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss"
     },
     {
-      "headline": "Grayscale strategy team to sell $3B in Bitcoin to meet cash obligations",
-      "take": "Grayscale strategy team to sell $3B in Bitcoin to meet obligations",
+      "headline": "NASDAQ 100 volatility index gap with VIX hits highest level in 23 years",
+      "take": "NASDAQ-100 volatility index gap with VIX reaches highest in 23 years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-strategy-team-to-sell-3b-in-bitcoin-to-meet-cash-obligations/"
+      "link": "https://cryptobriefing.com/nasdaq-100-vxn-vix-gap-23-year-high/"
     },
     {
-      "headline": "Binance posts $400M in weekly net outflows as MiCA deadline approaches",
-      "take": "Binance posts $400M weekly net outflows as MiCA deadline approaches",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-outflows-mica-deadline/"
+      "headline": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
+      "take": "Michael Saylor signals more bitcoin purchases as MicroStrategy sits deep underwater",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Binance founder CZ surpasses Bill Gates in net worth, then questions the math",
-      "take": "Binance founder CZ briefly surpasses Bill Gates in net worth estimate",
+      "headline": "Galaxy Digital CEO warns Bitcoin selloff driven by MicroStrategy confidence crisis",
+      "take": "Galaxy Digital CEO warns bitcoin selloff driven by MicroStrategy confidence crisis",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-surpasses-bill-gates-net-worth/"
+      "link": "https://cryptobriefing.com/galaxy-digital-bitcoin-selloff-microstrategy-confidence/"
     },
     {
-      "headline": "Leverage driving US stock rally sparks growing unease among market watchers",
-      "take": "Leverage driving US stock rally sparks growing unease among watchers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/leverage-driving-us-stock-rally-unease/"
+      "headline": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+      "take": "Crypto's frontier shifting toward financing AI and robotics, not cryptocurrency itself",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"
     }
   ],
   "business": [
     {
-      "headline": "Stacks ranks 40th in Coinbase\u2019s COIN50 Index, putting Bitcoin\u2019s top Layer 2 on institutional radar",
-      "take": "Stacks ranks 40th in Coinbase COIN50, putting Bitcoin Layer 2 on radar",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-coinbase-coin50-index-ranking/"
+      "headline": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
+      "take": "SBI's $289 million Bitbank deal signals Japan's ongoing crypto industry consolidation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners"
     },
     {
-      "headline": "Framework Ventures co-founder highlights AI and robotics funding shift with $400M new fund",
-      "take": "Framework Ventures launches $400M fund, shifting focus to AI and robotics",
+      "headline": "Hyper Foundation allocates $10M in grants to ease USDH stablecoin shutdown",
+      "take": "Hyper Foundation allocates $10M grants to ease USDH stablecoin shutdown transition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/framework-ventures-ai-robotics-fund/"
+      "link": "https://cryptobriefing.com/hyper-foundation-10m-grants-usdh-migration/"
     },
     {
-      "headline": "FIFA World Cup 2026 kicks off knockout stage with crypto firmly in the starting lineup",
-      "take": "Crypto firmly in starting lineup for FIFA World Cup 2026 knockout stage",
+      "headline": "Firmus Technologies strikes AI access deal with Nvidia, building on Bitcoin mining roots",
+      "take": "Firmus Technologies partners with Nvidia for Indonesia data center, expanding AI access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-2026-crypto-knockout-stage/"
+      "link": "https://cryptobriefing.com/firmus-technologies-nvidia-ai-deal/"
     },
     {
-      "headline": "T1 vs Team Liquid draws 1.39M peak viewers at MSI 2026 Play-Ins as crypto betting volume surges",
-      "take": "T1 vs Team Liquid esports match draws 1.39M viewers, crypto betting surges",
+      "headline": "Anthropic could become the most valuable software company in history, and these stocks have exposure",
+      "take": "Anthropic could become most valuable software company; select stocks offer exposure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/t1-team-liquid-msi-2026-viewership-crypto/"
+      "link": "https://cryptobriefing.com/anthropic-most-valuable-software-company-stocks-exposure/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Jude Bellingham\u2019s World Cup dominance spawns $JUDE meme token that crashes 98%",
+      "take": "Jude Bellingham meme token crashes 98% as cryptocurrency speculation spirals downward",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jude-bellingham-meme-token-crashes/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Federal Reserve Chairman Kevin Warsh disrupts emerging-market bond recovery",
-      "take": "Federal Reserve Chairman Kevin Warsh disrupts emerging-market bond recovery",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warsh-fed-disrupts-emerging-market-bonds/"
+      "headline": "EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite",
+      "take": "EU watchdog EBA details significant crypto fines as landmark regulatory laws take effect",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Israel and Lebanon declare intent to end 78-year state of war",
-      "take": "Israel and Lebanon declare intent to end 78-year state of war",
+      "headline": "US FHFA orders Fannie Mae, Freddie Mac to prepare crypto mortgage proposals",
+      "take": "US FHFA orders Fannie Mae and Freddie Mac to prepare crypto mortgage proposals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israel-and-lebanon-declare-intent-to-end-78-year-state-of-war/"
+      "link": "https://cryptobriefing.com/fhfa-fannie-freddie-crypto-mortgage-proposals/"
+    },
+    {
+      "headline": "Kevin Warsh holds interest rates steady in first policy meeting as Fed chair",
+      "take": "Kevin Warsh holds interest rates steady in first policy meeting as Fed chair",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/warsh-fed-holds-rates-steady-crypto-impact/"
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "generated": "2026-06-28T16:38:51.603120+00:00",
-  "ts": 1782664731,
+  "generated": "2026-06-28T19:48:48.681335+00:00",
+  "ts": 1782676128,
   "market": [
     {
-      "headline": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
-      "take": "Bitcoin falls below $60,000, tracking toward consecutive quarterly losses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss"
+      "headline": "Iran launches missile and drone strikes on US bases in Kuwait and Bahrain, Bitcoin dips then rebounds past $102K",
+      "take": "Iran strikes US bases; Bitcoin dips then rebounds past $102K",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-strikes-us-bases-bitcoin-reaction/"
     },
     {
-      "headline": "NASDAQ 100 volatility index gap with VIX hits highest level in 23 years",
-      "take": "NASDAQ-100 volatility index gap with VIX reaches highest in 23 years",
+      "headline": "TSMC posts 30% revenue surge as AI chip demand shows no signs of slowing",
+      "take": "TSMC posts 30% revenue surge as AI chip demand accelerates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-vxn-vix-gap-23-year-high/"
+      "link": "https://cryptobriefing.com/tsmc-revenue-surge-ai-chip-demand/"
     },
     {
       "headline": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
-      "take": "Michael Saylor signals more bitcoin purchases as MicroStrategy sits deep underwater",
+      "take": "Michael Saylor signals another bitcoin buy despite $13B underwater",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Galaxy Digital CEO warns Bitcoin selloff driven by MicroStrategy confidence crisis",
-      "take": "Galaxy Digital CEO warns bitcoin selloff driven by MicroStrategy confidence crisis",
+      "headline": "Hyperliquid surpasses S.A.N.T.A in 24-hour revenue as memecoin infrastructure war heats up",
+      "take": "Hyperliquid surpasses S.A.N.T.A in 24-hour revenue; memecoin war heats",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-digital-bitcoin-selloff-microstrategy-confidence/"
+      "link": "https://cryptobriefing.com/hyperliquid-surpasses-santa-24-hour-revenue/"
     },
     {
       "headline": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
-      "take": "Crypto's frontier shifting toward financing AI and robotics, not cryptocurrency itself",
+      "take": "Crypto's next frontier is financing AI and robotics, not crypto",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"
     }
@@ -36,55 +36,37 @@
   "business": [
     {
       "headline": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
-      "take": "SBI's $289 million Bitbank deal signals Japan's ongoing crypto industry consolidation",
+      "take": "SBI's $289M Bitbank deal signals Japan's crypto market consolidation",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners"
     },
     {
-      "headline": "Hyper Foundation allocates $10M in grants to ease USDH stablecoin shutdown",
-      "take": "Hyper Foundation allocates $10M grants to ease USDH stablecoin shutdown transition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyper-foundation-10m-grants-usdh-migration/"
-    },
-    {
-      "headline": "Firmus Technologies strikes AI access deal with Nvidia, building on Bitcoin mining roots",
-      "take": "Firmus Technologies partners with Nvidia for Indonesia data center, expanding AI access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/firmus-technologies-nvidia-ai-deal/"
-    },
-    {
-      "headline": "Anthropic could become the most valuable software company in history, and these stocks have exposure",
-      "take": "Anthropic could become most valuable software company; select stocks offer exposure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-most-valuable-software-company-stocks-exposure/"
+      "headline": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
+      "take": "CZ aims to make US the capital of crypto at State of Crypto",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto"
     }
   ],
   "security": [
     {
-      "headline": "Jude Bellingham\u2019s World Cup dominance spawns $JUDE meme token that crashes 98%",
-      "take": "Jude Bellingham meme token crashes 98% as cryptocurrency speculation spirals downward",
+      "headline": "CrowdStrike reports 90 organizations targeted by prompt injection attacks in 2025",
+      "take": "CrowdStrike reports 90 organizations hit by prompt injection attacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jude-bellingham-meme-token-crashes/"
+      "link": "https://cryptobriefing.com/crowdstrike-prompt-injection-attacks-crypto/"
     }
   ],
   "policy": [
     {
-      "headline": "EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite",
-      "take": "EU watchdog EBA details significant crypto fines as landmark regulatory laws take effect",
+      "headline": "BIS warns stablecoins risk fragmenting global financial system",
+      "take": "BIS warns stablecoins risk fragmenting global financial system",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "EU watchdog EBA details big crypto fines as landmark laws bite",
+      "take": "EU watchdog EBA details major crypto fines under landmark laws",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US FHFA orders Fannie Mae, Freddie Mac to prepare crypto mortgage proposals",
-      "take": "US FHFA orders Fannie Mae and Freddie Mac to prepare crypto mortgage proposals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fhfa-fannie-freddie-crypto-mortgage-proposals/"
-    },
-    {
-      "headline": "Kevin Warsh holds interest rates steady in first policy meeting as Fed chair",
-      "take": "Kevin Warsh holds interest rates steady in first policy meeting as Fed chair",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warsh-fed-holds-rates-steady-crypto-impact/"
     }
   ]
 }

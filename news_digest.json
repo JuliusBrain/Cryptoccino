@@ -1,54 +1,72 @@
 {
-  "generated": "2026-06-28T04:55:09.208719+00:00",
-  "ts": 1782622509,
+  "generated": "2026-06-28T09:35:18.387037+00:00",
+  "ts": 1782639318,
   "market": [
     {
-      "headline": "The 2026 World Cup final is set, and Polymarket has already generated over $2 billion in bets",
-      "take": "Polymarket generates over $2 billion in bets on 2026 World Cup final",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-polymarket-prediction-market-volume/"
-    },
-    {
-      "headline": "Grayscale research head says Strategy could restore market confidence by selling $3B in BTC",
-      "take": "Grayscale research suggests $3B Bitcoin sale could restore market confidence",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-btc-sale-market-confidence/"
-    },
-    {
-      "headline": "Why a selloff in gold and silver is dragging bitcoin down",
-      "take": "Gold and silver selloff is dragging bitcoin prices lower",
+      "headline": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+      "take": "Bitcoin falls below $60,000, tracking rare back-to-back quarterly loss",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down"
+      "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss"
+    },
+    {
+      "headline": "Bahrain intercepts Iranian attacks as crypto markets take $700M hit from escalating Gulf tensions",
+      "take": "Crypto markets take $700 million hit from escalating Gulf tensions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bahrain-intercepts-iranian-attacks-crypto-impact/"
+    },
+    {
+      "headline": "World Cup 2026 becomes crypto\u2019s biggest mainstream stage as Kraken sponsors FIFA\u2019s knockout rounds",
+      "take": "World Cup 2026 becomes crypto's biggest mainstream stage with Kraken sponsorship",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-kraken-fifa-sponsorship-2/"
     }
   ],
   "business": [
     {
-      "headline": "Argentina reaches 50 FIFA World Cup wins, and $ARG fan token holders are paying attention",
-      "take": "Argentina's World Cup milestone draws attention from $ARG fan token holders",
+      "headline": "World Cup 2026 becomes crypto\u2019s biggest mainstream stage as Kraken sponsors FIFA\u2019s knockout rounds",
+      "take": "Kraken sponsors FIFA's World Cup 2026 knockout rounds expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-50-world-cup-wins-arg-fan-token/"
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-kraken-fifa-sponsorship-2/"
     },
     {
-      "headline": "Argentina\u2019s World Cup win spotlights growing crypto ties between FIFA, fan tokens, and the beautiful game",
-      "take": "Argentina's World Cup win highlights growing crypto ties with FIFA and fan tokens",
+      "headline": "Coinbase CEO defends betting promotions amid criticism from Zcash founder",
+      "take": "Coinbase CEO defends betting promotions amid criticism from Zcash founder",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-world-cup-crypto-fan-tokens-3/"
+      "link": "https://cryptobriefing.com/coinbase-ceo-defends-betting-promotions-zcash/"
+    },
+    {
+      "headline": "OpenAI hires former Uber executive Prabhjeet Singh to lead India operations",
+      "take": "OpenAI hires former Uber executive to lead India operations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-hires-prabhjeet-singh-india/"
+    },
+    {
+      "headline": "OpenRouter\u2019s Owl Alpha model hits 10.1T monthly tokens, ranks first globally",
+      "take": "OpenRouter's Owl Alpha model hits 10.1T monthly tokens globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openrouter-owl-alpha-model-global-ranking/"
     }
   ],
   "security": [
     {
       "headline": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
-      "take": "SecondFi hit by $2.4 million Cardano wallet exploit, plans two-week recovery",
+      "take": "SecondFi maps recovery after $2.4 million Cardano wallet exploit",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Kevin Warsh takes the Fed\u2019s wheel with a crypto portfolio and a grudge against forward guidance",
-      "take": "Kevin Warsh becomes Federal Reserve chair with crypto portfolio and anti-guidance stance",
+      "headline": "Iran claims sole authority over Strait of Hormuz reopening, eyes Bitcoin for transit payments",
+      "take": "Iran eyes Bitcoin for Strait of Hormuz transit payments system",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kevin-warsh-fed-chair-crypto-regime-change/"
+      "link": "https://cryptobriefing.com/iran-strait-hormuz-bitcoin-payments/"
+    },
+    {
+      "headline": "Iran mandates designated routes for foreign vessels in Strait of Hormuz, raising oil supply fears",
+      "take": "Iran mandates designated routes for foreign vessels, raising oil supply fears",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-strait-hormuz-vessel-routes-mandate/"
     }
   ]
 }

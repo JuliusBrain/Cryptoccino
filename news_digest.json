@@ -1,83 +1,78 @@
 {
-  "generated": "2026-06-29T11:25:54.175399+00:00",
-  "ts": 1782732354,
+  "generated": "2026-06-29T16:13:45.274345+00:00",
+  "ts": 1782749625,
   "market": [
     {
-      "headline": "Bitcoin hovers below $60,000 as crypto braces for a pivotal week",
-      "take": "Bitcoin hovers below $60,000 as crypto faces a pivotal week ahead",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week"
-    },
-    {
-      "headline": "BlackRock deposits 7,432 Bitcoin and 8,150 Ethereum into Coinbase",
-      "take": "BlackRock deposits significant Bitcoin and Ethereum into Coinbase custody",
+      "headline": "Bitcoin tests $59K as ETF exodus deepens",
+      "take": "Bitcoin tests $59K as ETF outflows accelerate pressure downward",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-deposits-bitcoin-ethereum-coinbase/"
+      "link": "https://cryptobriefing.com/bitcoin-tests-59k-etf-outflows-record/"
     },
     {
-      "headline": "India\u2019s USDT supply tightens as local stablecoin premium surges past 8.5% amid regulatory crackdown",
-      "take": "India's USDT premium surges past 8.5% amid regulatory crackdown on remittances",
+      "headline": "Borrowed money fueling the US stock rally is getting more expensive, and that matters for crypto",
+      "take": "Rising cost of borrowed money fueling stock rally pressures crypto valuations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-usdt-premium-surges-regulatory-crackdown/"
+      "link": "https://cryptobriefing.com/margin-debt-record-equity-financing-costs-rise/"
     },
     {
-      "headline": "Strategy\u2019s valuation dips below Bitcoin holdings as sentiment sours",
-      "take": "Strategy's valuation drops below its Bitcoin holdings as sentiment weakens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-valuation-dips-below-bitcoin-holdings/"
-    },
-    {
-      "headline": "BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk",
-      "take": "BIS warns stablecoins resemble ETFs more than money, creating forex risks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk"
+      "headline": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+      "take": "Strategy positioned as Bitcoin treasury company amid market volatility",
+      "source": "decrypt",
+      "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company"
     }
   ],
   "business": [
     {
-      "headline": "Bank of Thailand advances 1:1 baht-backed stablecoin plan",
-      "take": "Bank of Thailand advances plan for 1:1 baht-backed stablecoin issuance",
+      "headline": "Privy evolves into financial infrastructure for fintechs with Morpho-powered yield",
+      "take": "Privy launches yield-bearing financial infrastructure for fintech platforms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-thailand-baht-stablecoin-plan/"
+      "link": "https://cryptobriefing.com/privy-morpho-fintech-yield-infrastructure/"
     },
     {
-      "headline": "FIFA World Cup Round of 32 kicks off as Kraken\u2019s crypto sponsorship puts digital assets on the global stage",
-      "take": "Kraken's crypto sponsorship puts digital assets on global World Cup stage",
+      "headline": "Centrifuge\u2019s JAAA becomes first tokenized AAA CLO fund in Kraken Custody",
+      "take": "Centrifuge tokenizes first AAA-rated CLO fund on Kraken Custody",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-round-32-kraken-crypto/"
+      "link": "https://cryptobriefing.com/centrifuge-jaaa-tokenized-clo-kraken-custody/"
     },
     {
-      "headline": "Google partners with SandboxAQ to offer specialist AI models via cloud",
-      "take": "Google partners with SandboxAQ to offer specialist AI models via cloud",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-sandboxaq-cloud-ai-partnership/"
+      "headline": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
+      "take": "JPMorgan expands blockchain settlement network for cross-border bank payments",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
+      "take": "Private key mismanagement caused 40% of crypto's $16 billion hack losses",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done"
+    }
+  ],
   "policy": [
     {
-      "headline": "Germany leads MiCA crypto authorization race as Europe\u2019s deadline looms",
-      "take": "Germany leads MiCA crypto authorization race as Europe's deadline looms",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Europe\u2019s unlicensed crypto firms face \u2018wipeout\u2019 as MiCA deadline hits",
-      "take": "Europe's unlicensed crypto firms face wipeout as MiCA deadline approaches",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls"
-    },
-    {
-      "headline": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
-      "take": "Galaxy Research cuts Clarity Act 2026 passage odds to fifty percent",
+      "headline": "Binance founder CZ says MiCA application was \u2018fully compliant\u2019 and near approval before political forces intervened",
+      "take": "CZ claims Binance MiCA application was compliant before political intervention blocked approval",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Google warns EU competition rules could compromise search data security",
-      "take": "Google warns EU competition rules could compromise search data security",
+      "headline": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
+      "take": "MiCA deadline threatens to cut off 10 million EU crypto users from platforms",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu"
+    },
+    {
+      "headline": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
+      "take": "White House engages law enforcement to advance Crypto Clarity Act passage",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act"
+    },
+    {
+      "headline": "Bybit tightens EEA access ahead of MiCA deadline",
+      "take": "Bybit restricts EEA access ahead of approaching MiCA regulatory deadline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-eu-competition-search-data-security/"
+      "link": "https://cryptobriefing.com/bybit-tightens-eea-access-ahead-of-mica-deadline/"
     }
   ]
 }

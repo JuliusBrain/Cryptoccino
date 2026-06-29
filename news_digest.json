@@ -1,65 +1,83 @@
 {
-  "generated": "2026-06-29T05:02:20.755067+00:00",
-  "ts": 1782709340,
+  "generated": "2026-06-29T11:25:54.175399+00:00",
+  "ts": 1782732354,
   "market": [
     {
-      "headline": "$4 billion gone. Spot bitcoin ETFs are on track for their worst month on record",
-      "take": "Spot bitcoin ETFs tracking worst month on record with $4 billion outflows",
+      "headline": "Bitcoin hovers below $60,000 as crypto braces for a pivotal week",
+      "take": "Bitcoin hovers below $60,000 as crypto faces a pivotal week ahead",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/29/usd4-billion-gone-spot-bitcoin-etfs-are-on-track-for-their-worst-month-on-record"
+      "link": "https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week"
     },
     {
-      "headline": "China\u2019s M2 money supply reaches record 240% of GDP",
-      "take": "China's M2 money supply reaches record 240 percent of GDP, signaling monetary expansion",
+      "headline": "BlackRock deposits 7,432 Bitcoin and 8,150 Ethereum into Coinbase",
+      "take": "BlackRock deposits significant Bitcoin and Ethereum into Coinbase custody",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-m2-money-supply-record-240-percent-gdp/"
+      "link": "https://cryptobriefing.com/blackrock-deposits-bitcoin-ethereum-coinbase/"
     },
     {
-      "headline": "Copper falls as Federal Reserve\u2019s hawkish stance pressures prices",
-      "take": "Copper prices fall as Federal Reserve maintains hawkish monetary policy stance",
+      "headline": "India\u2019s USDT supply tightens as local stablecoin premium surges past 8.5% amid regulatory crackdown",
+      "take": "India's USDT premium surges past 8.5% amid regulatory crackdown on remittances",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/copper-falls-fed-hawkish-stance-pressures-prices/"
+      "link": "https://cryptobriefing.com/india-usdt-premium-surges-regulatory-crackdown/"
     },
     {
-      "headline": "Tech stocks surpass 50% of S&P 500 index for first time",
-      "take": "Tech stocks exceed fifty percent of S&P 500 index weighting for first time",
+      "headline": "Strategy\u2019s valuation dips below Bitcoin holdings as sentiment sours",
+      "take": "Strategy's valuation drops below its Bitcoin holdings as sentiment weakens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-stocks-surpass-50-percent-sp500/"
+      "link": "https://cryptobriefing.com/strategy-valuation-dips-below-bitcoin-holdings/"
+    },
+    {
+      "headline": "BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk",
+      "take": "BIS warns stablecoins resemble ETFs more than money, creating forex risks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk"
     }
   ],
   "business": [
     {
-      "headline": "SharpLink buys $62M worth of Ethereum after eight-month pause",
-      "take": "SharpLink purchases $62 million worth of Ethereum after eight-month hiatus",
+      "headline": "Bank of Thailand advances 1:1 baht-backed stablecoin plan",
+      "take": "Bank of Thailand advances plan for 1:1 baht-backed stablecoin issuance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sharplink-buys-62m-ethereum-pause/"
+      "link": "https://cryptobriefing.com/bank-of-thailand-baht-stablecoin-plan/"
     },
     {
-      "headline": "Dubai\u2019s VARA licenses 50th crypto firm as market expands",
-      "take": "Dubai's VARA licenses fiftieth cryptocurrency firm as regional market expands",
+      "headline": "FIFA World Cup Round of 32 kicks off as Kraken\u2019s crypto sponsorship puts digital assets on the global stage",
+      "take": "Kraken's crypto sponsorship puts digital assets on global World Cup stage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dubai-vara-licenses-50th-crypto-firm/"
+      "link": "https://cryptobriefing.com/world-cup-round-32-kraken-crypto/"
     },
     {
-      "headline": "South Korea\u2019s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report",
-      "take": "South Korea's Kiwoom Securities to acquire stake in Bithumb crypto exchange",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "American Express hires VP of stablecoin and blockchain partnerships",
-      "take": "American Express hires VP of stablecoin and blockchain partnerships",
+      "headline": "Google partners with SandboxAQ to offer specialist AI models via cloud",
+      "take": "Google partners with SandboxAQ to offer specialist AI models via cloud",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/american-express-stablecoin-blockchain-vp/"
+      "link": "https://cryptobriefing.com/google-sandboxaq-cloud-ai-partnership/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "BIS warns stablecoins risk fragmenting global financial system",
-      "take": "BIS warns stablecoins risk fragmenting global financial system in annual report",
+      "headline": "Germany leads MiCA crypto authorization race as Europe\u2019s deadline looms",
+      "take": "Germany leads MiCA crypto authorization race as Europe's deadline looms",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Europe\u2019s unlicensed crypto firms face \u2018wipeout\u2019 as MiCA deadline hits",
+      "take": "Europe's unlicensed crypto firms face wipeout as MiCA deadline approaches",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls"
+    },
+    {
+      "headline": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
+      "take": "Galaxy Research cuts Clarity Act 2026 passage odds to fifty percent",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Google warns EU competition rules could compromise search data security",
+      "take": "Google warns EU competition rules could compromise search data security",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-eu-competition-search-data-security/"
     }
   ]
 }

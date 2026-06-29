@@ -1,101 +1,77 @@
 {
-  "generated": "2026-06-29T20:17:45.421314+00:00",
-  "ts": 1782764265,
+  "generated": "2026-06-29T22:33:28.042006+00:00",
+  "ts": 1782772408,
   "market": [
     {
-      "headline": "Bitcoin Is in a Fight at $60K\u2014Here's What the Charts Say",
-      "take": "Bitcoin consolidates around $60K with technical chart signals emerging",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372321/bitcoin-price-fight-60k-what-the-charts-say"
-    },
-    {
-      "headline": "Dow set to finish above 52,000 for first time as S&P 500 and Nasdaq climb",
-      "take": "US stock indices climb to record highs, Dow above 52,000 for first time",
+      "headline": "Strategy ends 9-day losing streak as Bitcoin capital framework adopted",
+      "take": "Strategy ends losing streak as Bitcoin adopts robust capital framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-above-52000-first-time-sp500-nasdaq-climb/"
+      "link": "https://cryptobriefing.com/strategy-bitcoin-capital-framework-losing-streak/"
     },
     {
-      "headline": "Reserve Bank of New Zealand cuts rates by 50 basis points as easing cycle deepens",
-      "take": "New Zealand central bank cuts rates 50bps, easing cycle deepens",
+      "headline": "JPMorgan expands Kinexys blockchain to 8 currencies, has now processed $4T in transactions",
+      "take": "JPMorgan expands Kinexys blockchain to eight currencies, processes four trillion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rbnz-cuts-rates-50-basis-points-crypto-implications/"
+      "link": "https://cryptobriefing.com/jpmorgan-kinexys-blockchain-eight-currencies/"
     },
     {
-      "headline": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
-      "take": "Bitcoin lending sector shifts toward institutional participation and scale",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank"
-    },
-    {
-      "headline": "Crude oil rises as US-Iran peace talks resume, Hormuz risks linger",
-      "take": "Crude oil rises on US-Iran peace talks, geopolitical risks persist",
+      "headline": "Arkham launches Elo ratings for prediction market traders",
+      "take": "Arkham launches Elo ratings system for prediction market traders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crude-oil-rises-us-iran-talks-hormuz/"
+      "link": "https://cryptobriefing.com/arkham-launches-elo-ratings-for-prediction-market-traders/"
     }
   ],
   "business": [
     {
-      "headline": "OranjeBTC buys 74 Bitcoin, increasing total to 3,896 BTC worth $231 million",
-      "take": "OranjeBTC accumulates 3,896 BTC worth $231M in portfolio growth",
+      "headline": "Phantom taps World to replace Kalshi for prediction markets",
+      "take": "Phantom replaces Kalshi with World for tokenized prediction market contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oranjebtc-buys-74-bitcoin-3896-total/"
+      "link": "https://cryptobriefing.com/phantom-taps-world-to-replace-kalshi-for-prediction-markets/"
     },
     {
-      "headline": "Arkham launches ranking system for prediction market traders",
-      "take": "Arkham launches ranking system for prediction market traders",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406604/arkham-launches-ranking-system-for-prediction-market-traders?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
-      "take": "XRP Ledger adds lending and credit layer, developers advance protocol",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple"
-    },
-    {
-      "headline": "Tidal labels AI-generated music and cuts royalties for those tracks",
-      "take": "Tidal labels AI-generated music and reduces royalty payouts for tracks",
+      "headline": "Ionic Digital files for direct listing on NASDAQ under IOND",
+      "take": "Ionic Digital files for direct listing on NASDAQ under ticker IOND",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tidal-labels-ai-music-stops-royalties/"
+      "link": "https://cryptobriefing.com/ionic-digital-nasdaq-direct-listing-iond/"
     },
     {
-      "headline": "Kraken\u2019s FIFA deal gets its biggest stage yet as England face DR Congo in World Cup knockout round",
-      "take": "Kraken's FIFA sponsorship reaches World Cup knockout stage visibility",
+      "headline": "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090",
+      "take": "Chamath Palihapitiya raises one hundred thirty-five million Series A for AI startup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-sponsorship-6/"
+      "link": "https://cryptobriefing.com/chamath-palihapitiya-135m-series-a-8090-ai/"
+    },
+    {
+      "headline": "Ethlabs emphasizes accountability to ETH holders and builders with novel governance model",
+      "take": "Ethlabs introduces novel governance model emphasizing accountability to ETH community",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethlabs-accountability-eth-holders-builders/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
-      "take": "Supreme Court grants Trump power to fire SEC and CFTC commissioners",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto"
+      "headline": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
+      "take": "Trump has ten days to decide on housing bill containing CBDC ban",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC orders two foreign firms to pay $2.5M for illegal transactions with US customers",
+      "take": "CFTC orders two foreign firms to pay two point five million for illegal US transactions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-orders-foreign-firms-pay-illegal-transactions/"
     },
     {
       "headline": "Senate leaders push for July passage of CLARITY Act",
-      "take": "Senate leaders push for July passage of crypto clarity regulatory bill",
+      "take": "Senate leaders push for July passage of CLARITY Act cryptocurrency legislation",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/senate-leaders-july-passage-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
-      "take": "Galaxy downgrades Clarity Act odds to 50% due to Senate time constraints",
+      "headline": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
+      "take": "Supreme Court rules Trump can fire SEC and CFTC commissioners at will",
       "source": "decrypt",
-      "link": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short"
-    },
-    {
-      "headline": "US Treasury launches online portal for sanctions relief requests",
-      "take": "US Treasury launches online portal for sanctions relief request processing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-sanctions-relief-portal/"
-    },
-    {
-      "headline": "Mark Warner proposes AI agents bill to enforce duty of loyalty",
-      "take": "Mark Warner proposes AI agents bill to enforce duty of loyalty",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warner-ai-agents-duty-of-loyalty-bill/"
+      "link": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto"
     }
   ]
 }

@@ -1,78 +1,101 @@
 {
-  "generated": "2026-06-29T16:13:45.274345+00:00",
-  "ts": 1782749625,
+  "generated": "2026-06-29T20:17:45.421314+00:00",
+  "ts": 1782764265,
   "market": [
     {
-      "headline": "Bitcoin tests $59K as ETF exodus deepens",
-      "take": "Bitcoin tests $59K as ETF outflows accelerate pressure downward",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-tests-59k-etf-outflows-record/"
-    },
-    {
-      "headline": "Borrowed money fueling the US stock rally is getting more expensive, and that matters for crypto",
-      "take": "Rising cost of borrowed money fueling stock rally pressures crypto valuations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/margin-debt-record-equity-financing-costs-rise/"
-    },
-    {
-      "headline": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "take": "Strategy positioned as Bitcoin treasury company amid market volatility",
+      "headline": "Bitcoin Is in a Fight at $60K\u2014Here's What the Charts Say",
+      "take": "Bitcoin consolidates around $60K with technical chart signals emerging",
       "source": "decrypt",
-      "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company"
+      "link": "https://decrypt.co/372321/bitcoin-price-fight-60k-what-the-charts-say"
+    },
+    {
+      "headline": "Dow set to finish above 52,000 for first time as S&P 500 and Nasdaq climb",
+      "take": "US stock indices climb to record highs, Dow above 52,000 for first time",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dow-above-52000-first-time-sp500-nasdaq-climb/"
+    },
+    {
+      "headline": "Reserve Bank of New Zealand cuts rates by 50 basis points as easing cycle deepens",
+      "take": "New Zealand central bank cuts rates 50bps, easing cycle deepens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rbnz-cuts-rates-50-basis-points-crypto-implications/"
+    },
+    {
+      "headline": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
+      "take": "Bitcoin lending sector shifts toward institutional participation and scale",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank"
+    },
+    {
+      "headline": "Crude oil rises as US-Iran peace talks resume, Hormuz risks linger",
+      "take": "Crude oil rises on US-Iran peace talks, geopolitical risks persist",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crude-oil-rises-us-iran-talks-hormuz/"
     }
   ],
   "business": [
     {
-      "headline": "Privy evolves into financial infrastructure for fintechs with Morpho-powered yield",
-      "take": "Privy launches yield-bearing financial infrastructure for fintech platforms",
+      "headline": "OranjeBTC buys 74 Bitcoin, increasing total to 3,896 BTC worth $231 million",
+      "take": "OranjeBTC accumulates 3,896 BTC worth $231M in portfolio growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/privy-morpho-fintech-yield-infrastructure/"
+      "link": "https://cryptobriefing.com/oranjebtc-buys-74-bitcoin-3896-total/"
     },
     {
-      "headline": "Centrifuge\u2019s JAAA becomes first tokenized AAA CLO fund in Kraken Custody",
-      "take": "Centrifuge tokenizes first AAA-rated CLO fund on Kraken Custody",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-jaaa-tokenized-clo-kraken-custody/"
+      "headline": "Arkham launches ranking system for prediction market traders",
+      "take": "Arkham launches ranking system for prediction market traders",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406604/arkham-launches-ranking-system-for-prediction-market-traders?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
-      "take": "JPMorgan expands blockchain settlement network for cross-border bank payments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments"
-    }
-  ],
-  "security": [
+      "headline": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
+      "take": "XRP Ledger adds lending and credit layer, developers advance protocol",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple"
+    },
     {
-      "headline": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
-      "take": "Private key mismanagement caused 40% of crypto's $16 billion hack losses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done"
+      "headline": "Tidal labels AI-generated music and cuts royalties for those tracks",
+      "take": "Tidal labels AI-generated music and reduces royalty payouts for tracks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tidal-labels-ai-music-stops-royalties/"
+    },
+    {
+      "headline": "Kraken\u2019s FIFA deal gets its biggest stage yet as England face DR Congo in World Cup knockout round",
+      "take": "Kraken's FIFA sponsorship reaches World Cup knockout stage visibility",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-sponsorship-6/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "Binance founder CZ says MiCA application was \u2018fully compliant\u2019 and near approval before political forces intervened",
-      "take": "CZ claims Binance MiCA application was compliant before political intervention blocked approval",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss"
+      "headline": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
+      "take": "Supreme Court grants Trump power to fire SEC and CFTC commissioners",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto"
     },
     {
-      "headline": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
-      "take": "MiCA deadline threatens to cut off 10 million EU crypto users from platforms",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu"
+      "headline": "Senate leaders push for July passage of CLARITY Act",
+      "take": "Senate leaders push for July passage of crypto clarity regulatory bill",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senate-leaders-july-passage-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
-      "take": "White House engages law enforcement to advance Crypto Clarity Act passage",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act"
+      "headline": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
+      "take": "Galaxy downgrades Clarity Act odds to 50% due to Senate time constraints",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short"
     },
     {
-      "headline": "Bybit tightens EEA access ahead of MiCA deadline",
-      "take": "Bybit restricts EEA access ahead of approaching MiCA regulatory deadline",
+      "headline": "US Treasury launches online portal for sanctions relief requests",
+      "take": "US Treasury launches online portal for sanctions relief request processing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bybit-tightens-eea-access-ahead-of-mica-deadline/"
+      "link": "https://cryptobriefing.com/us-treasury-sanctions-relief-portal/"
+    },
+    {
+      "headline": "Mark Warner proposes AI agents bill to enforce duty of loyalty",
+      "take": "Mark Warner proposes AI agents bill to enforce duty of loyalty",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/warner-ai-agents-duty-of-loyalty-bill/"
     }
   ]
 }

@@ -1,114 +1,96 @@
 {
-  "generated": "2026-06-30T17:17:47.080287+00:00",
-  "ts": 1782839867,
+  "generated": "2026-06-30T20:22:03.914472+00:00",
+  "ts": 1782850923,
   "market": [
     {
-      "headline": "Solana hits 1,200 TPS and 100M daily transactions as network revenue surges",
-      "take": "Solana network hits 1,200 transactions per second with 100M daily transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-1200-tps-100m-daily-transactions-fees/"
+      "headline": "Bitcoin Slides Below $60,000 as Strategy Selloff Refuels Anxiety",
+      "take": "Bitcoin slides below $60,000 amid strategy selloff and renewed market anxiety",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/bitcoin-slides-below-60-000-as-strategy-selloff-refuels-anxiety"
     },
     {
-      "headline": "Bank of Japan\u2019s dovish revamp raises doubts over rate-hike plans",
-      "take": "Bank of Japan's dovish stance raises questions about planned interest rate increases",
+      "headline": "Micron\u2019s net income surges 15x to $28B as AI chip demand reshapes tech investing",
+      "take": "Micron's net income surges 15x to $28B driven by AI chip demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boj-dovish-revamp-rate-hike-doubts/"
+      "link": "https://cryptobriefing.com/micron-net-income-surges-15x-ai-chips/"
     },
     {
-      "headline": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
-      "take": "TD Cowen cuts price target citing ongoing Bitcoin weakness in markets",
+      "headline": "Circle shares sink 16% after Open USD reveal, analysts say fears are \u2018overblown\u2019",
+      "take": "Circle shares sink 16% after OpenUSD reveal; analysts call fears overblown",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
+      "take": "Sharplink buys Ethereum for first time this year despite 68% decline from peak",
       "source": "decrypt",
-      "link": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness"
+      "link": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down"
     },
     {
-      "headline": "US-Iran ceasefire prompts reassessment of energy supply chains, and crypto markets are paying attention",
-      "take": "US-Iran ceasefire shifts energy supply expectations; crypto markets respond accordingly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-ceasefire-energy-supply-chains/"
-    },
-    {
-      "headline": "China\u2019s June factory activity rises to 50.3, beating expectations on AI-driven export strength",
-      "take": "China's factory activity rises to 50.3 on AI-driven export strength gains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-june-factory-pmi-rises/"
+      "headline": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
+      "take": "SEC opens comment period on overhauling U.S. ETF rules following crypto surge",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules"
     }
   ],
   "business": [
     {
-      "headline": "BitGo Holdings unveils DeFi vault solutions for institutional clients",
-      "take": "BitGo launches DeFi vault solutions targeting institutional cryptocurrency clients",
+      "headline": "Etched raises $800M, signs $1B in sales contracts to challenge Nvidia",
+      "take": "Etched raises $800M and secures $1B in sales contracts to challenge Nvidia",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-defi-vault-institutional-clients/"
+      "link": "https://cryptobriefing.com/etched-raises-800m-challenge-nvidia/"
     },
     {
-      "headline": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
-      "take": "Visa, Stripe, Coinbase and others launch Open USD stablecoin with shared revenue",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Zerohash launches portfolio strategies for crypto wealth platforms",
-      "take": "Zerohash introduces portfolio strategies for crypto wealth management platforms",
+      "headline": "Bloom Energy expands AI infrastructure partnership with Brookfield to $25B",
+      "take": "Bloom Energy expands AI infrastructure partnership with Brookfield to $25B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zerohash-portfolio-strategies-crypto-wealth/"
+      "link": "https://cryptobriefing.com/bloom-energy-brookfield-ai-infrastructure-25-billion/"
     },
     {
-      "headline": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
-      "take": "OKX AI marketplace enables agents to find work and receive stablecoin payments",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss"
+      "headline": "Anthropic launches AI drug discovery program, joining tech giants in healthcare",
+      "take": "Anthropic launches AI drug discovery program, joining tech giants in healthcare",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ai-drug-discovery-program/"
     },
     {
-      "headline": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
-      "take": "Sovright nonprofit releases Zcash wallet recovery tool for users",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss"
+      "headline": "Metaplanet reports 250,000 shareholders, boosting Bitcoin adoption in Japan",
+      "take": "Metaplanet reports 250,000 shareholders, boosting Bitcoin adoption in Japan",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/metaplanet-250000-shareholders-bitcoin-japan/"
     }
   ],
   "security": [
     {
-      "headline": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
-      "take": "Chinese exile linked to Trump strategist sentenced to 30 years for $1B fraud",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud"
+      "headline": "Binance and Changpeng Zhao face claim from 1,700 UK investors over risky derivatives",
+      "take": "Binance and Changpeng Zhao face claim from 1,700 UK investors over risky derivatives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-cz-uk-investors-derivatives-lawsuit/"
     },
     {
       "headline": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
       "take": "Dutch prosecutors seek to bankrupt crypto platform Knaken after funds frozen",
       "source": "decrypt",
       "link": "https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen"
-    },
-    {
-      "headline": "Why deepfake detection is the future of identity verification",
-      "take": "Deepfake detection emerging as critical future component of identity verification systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/why-deepfake-detection-is-the-future-of-identity-verification/"
     }
   ],
   "policy": [
     {
-      "headline": "Supreme Court to hear Apple\u2019s appeal in Epic Games antitrust case",
-      "take": "Supreme Court to hear Apple's appeal in Epic Games antitrust case proceedings",
+      "headline": "Supreme Court upholds Federal Reserve\u2019s independence from Trump control",
+      "take": "Supreme Court upholds Federal Reserve's independence from Trump control",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/supreme-court-apple-epic-games-antitrust/"
+      "link": "https://cryptobriefing.com/supreme-court-upholds-federal-reserves-independence-from-trump-control/"
     },
     {
-      "headline": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-      "take": "Jefferies warns of crypto volatility as Clarity Act faces Senate test vote",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test"
+      "headline": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
+      "take": "Crypto companies spent $189M on 2026 US election cycle so far",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "SEC Seeks Public Comment on Novel Exchange-Traded Funds",
-      "take": "SEC seeks public comment on novel exchange-traded fund regulatory framework",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds"
-    },
-    {
-      "headline": "US government urged to expand IMF capacity by $650B amid Iran war",
-      "take": "US government urged to expand IMF capacity by $650B amid Iran tensions",
+      "headline": "US Treasury sanctions Mexican nationals and companies tied to cartel fuel-smuggling network",
+      "take": "US Treasury sanctions Mexican nationals and companies tied to cartel fuel-smuggling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-imf-expansion-650b-iran-war/"
+      "link": "https://cryptobriefing.com/treasury-sanctions-mexico-cartel-fuel-smuggling/"
     }
   ]
 }

@@ -1,102 +1,90 @@
 {
-  "generated": "2026-06-30T04:36:39.804660+00:00",
-  "ts": 1782794199,
+  "generated": "2026-06-30T10:03:49.079869+00:00",
+  "ts": 1782813829,
   "market": [
     {
-      "headline": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
-      "take": "Bitcoin pressured below $60k as Japanese yen hits forty-year lows",
+      "headline": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
+      "take": "Bitcoin correlation with dollar-yen hits negative 0.90, challenging carry trade narrative",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar"
+      "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory"
     },
     {
-      "headline": "Quant funds face sharp drawdown after worst five-day stretch since 2023",
-      "take": "Quant funds post worst five-day performance since 2023",
+      "headline": "Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles",
+      "take": "BlackRock's IBIT bitcoin ETF sheds $300 million as investor demand softens",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles"
+    },
+    {
+      "headline": "Quant funds suffer their worst trading rout of the year as momentum bets unwind",
+      "take": "Quant funds post worst trading losses of year as momentum strategies unwind",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quant-funds-worst-drawdown-since-2023/"
+      "link": "https://cryptobriefing.com/quant-funds-worst-trading-rout-january-2026/"
     },
     {
-      "headline": "Strategy to buy over $14B in Bitcoin, boosting crypto holdings",
-      "take": "Over $14 billion Bitcoin purchase strategy announced, boosting crypto holdings",
+      "headline": "Rand trading jumps 20% in Q1 amid Iran war volatility",
+      "take": "South African rand trading volume jumps 20% in Q1 amid geopolitical volatility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-to-buy-over-14b-in-bitcoin-boosting-crypto-holdings/"
-    },
-    {
-      "headline": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
-      "take": "Ark Invest increases positions in Coinbase, Circle, Robinhood during rally",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "G10 excess liquidity leading indicator turns negative, signals risk for US stocks",
-      "take": "G10 excess liquidity indicator turns negative, signals US stock risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/g10-excess-liquidity-indicator-negative-stocks-risk/"
+      "link": "https://cryptobriefing.com/rand-trading-jumps-q1-iran-war-volatility/"
     }
   ],
   "business": [
     {
-      "headline": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
-      "take": "Securitize debuts on NYSE after final merger approval obtained",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&utm_medium=rss"
+      "headline": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
+      "take": "Dubai attracting crypto firms fleeing Europe ahead of MiCA regulatory deadline",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe"
     },
     {
-      "headline": "Moca Network signs MoU with InveoKripto and Ichain to build regulated Web3 infrastructure in T\u00fcrkiye",
-      "take": "Moca Network partnership aims to build regulated Web3 infrastructure in Turkey",
+      "headline": "Class action lawsuit filed against Magic Eden over $ME token claims",
+      "take": "Class action lawsuit filed against Magic Eden over token offering claims",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moca-network-web3-turkiye-partnership/"
+      "link": "https://cryptobriefing.com/magic-eden-me-token-class-action-lawsuit/"
     },
     {
-      "headline": "Upbit lists Gensyn with KRW, BTC, and USDT pairs as trading starts June 30",
-      "take": "Upbit lists Gensyn trading with KRW, BTC, USDT pairs June 30",
+      "headline": "ECB\u2019s Philip Lane puts tokenization and AI at the center of central banking\u2019s future",
+      "take": "ECB's Philip Lane positions tokenization and AI as central banking's future priorities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-gensyn-ai-krw-btc-usdt-june-30/"
-    },
-    {
-      "headline": "Base44 launches proprietary AI model to enhance coding platform",
-      "take": "Base44 launches proprietary AI model to enhance coding platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base44-launches-proprietary-ai-model/"
-    },
-    {
-      "headline": "Digital Realty sets $27M/MW benchmark for AI data centers",
-      "take": "Digital Realty sets $27M per megawatt benchmark for AI data centers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/digital-realty-27m-mw-ai-data-center-benchmark/"
+      "link": "https://cryptobriefing.com/ecb-lane-tokenization-ai-monetary-policy/"
     }
   ],
   "security": [
     {
-      "headline": "New attack exploits Claude Code to hijack developer machines through poisoned repositories",
-      "take": "New attack exploits Claude Code to hijack developers via poisoned repos",
+      "headline": "Carl Rinsch sentenced to 30 months for misusing Netflix funds on Dogecoin",
+      "take": "Film director Carl Rinsch sentenced 30 months for misusing Netflix funds on Dogecoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-code-attack-hijacks-developer-machines/"
+      "link": "https://cryptobriefing.com/carl-rinsch-netflix-dogecoin-fraud-sentencing/"
+    },
+    {
+      "headline": "Mythos signals new phase in cyber arms race, experts say",
+      "take": "Mythos signals escalating cyber arms race, experts warn of new threat phase",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mythos-ai-cyber-arms-race/"
     }
   ],
   "policy": [
     {
-      "headline": "EU issues 244 MiCA crypto licenses, led by Germany and France",
-      "take": "EU issues 244 MiCA crypto licenses led by Germany and France",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-mica-crypto-licenses-germany-france/"
+      "headline": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
+      "take": "SEC wins $5.5 million default judgment against alleged fraudulent crypto platform NanoBit",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit"
     },
     {
-      "headline": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
-      "take": "UK sets final crypto rules with 2027 FCA authorization deadline",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
-      "take": "Trump has ten days to decide on housing bill containing CBDC ban",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
-      "take": "TD Cowen says crypto market structure bill unlikely before midterm election",
+      "headline": "Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state",
+      "take": "Michigan judge blocks prediction market platform Kalshi from serving state residents",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406652/kalshi-restraining-order-michigan?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Australia\u2019s crypto travel rule is coming into effect: Here\u2019s what's changing",
+      "take": "Australia's crypto travel rule takes effect, requiring new reporting and compliance measures",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Global central banks plan long-term reduction in US dollar exposure",
+      "take": "Global central banks plan long-term reduction in US dollar reserve holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/central-banks-reduce-us-dollar-exposure/"
     }
   ]
 }

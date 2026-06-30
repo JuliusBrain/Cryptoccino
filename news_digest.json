@@ -1,90 +1,114 @@
 {
-  "generated": "2026-06-30T14:45:33.778108+00:00",
-  "ts": 1782830733,
+  "generated": "2026-06-30T17:17:47.080287+00:00",
+  "ts": 1782839867,
   "market": [
     {
-      "headline": "Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network",
-      "take": "Circle slides as Stripe, Coinbase, BlackRock back rival stablecoin network",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network"
-    },
-    {
-      "headline": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-      "take": "Jefferies warns of crypto volatility as Clarity Act faces Senate test",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test"
-    },
-    {
-      "headline": "US job openings hold steady at 7.6 million in May as payrolls blow past expectations",
-      "take": "US job openings hold steady at 7.6M as payrolls exceed expectations",
+      "headline": "Solana hits 1,200 TPS and 100M daily transactions as network revenue surges",
+      "take": "Solana network hits 1,200 transactions per second with 100M daily transactions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-job-openings-may-payroll-growth/"
+      "link": "https://cryptobriefing.com/solana-1200-tps-100m-daily-transactions-fees/"
     },
     {
-      "headline": "Japan may intervene in currency markets as yen hits 40-year low",
-      "take": "Japan may intervene in currency markets as yen hits 40-year low",
+      "headline": "Bank of Japan\u2019s dovish revamp raises doubts over rate-hike plans",
+      "take": "Bank of Japan's dovish stance raises questions about planned interest rate increases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-yen-intervention-40-year-low/"
+      "link": "https://cryptobriefing.com/boj-dovish-revamp-rate-hike-doubts/"
+    },
+    {
+      "headline": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
+      "take": "TD Cowen cuts price target citing ongoing Bitcoin weakness in markets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness"
+    },
+    {
+      "headline": "US-Iran ceasefire prompts reassessment of energy supply chains, and crypto markets are paying attention",
+      "take": "US-Iran ceasefire shifts energy supply expectations; crypto markets respond accordingly",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-iran-ceasefire-energy-supply-chains/"
+    },
+    {
+      "headline": "China\u2019s June factory activity rises to 50.3, beating expectations on AI-driven export strength",
+      "take": "China's factory activity rises to 50.3 on AI-driven export strength gains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-june-factory-pmi-rises/"
     }
   ],
   "business": [
     {
-      "headline": "MetaMask unveils Money Account offering up to 4% APY on mUSD holdings",
-      "take": "MetaMask launches Money Account offering up to four percent APY on stablecoins",
+      "headline": "BitGo Holdings unveils DeFi vault solutions for institutional clients",
+      "take": "BitGo launches DeFi vault solutions targeting institutional cryptocurrency clients",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metamask-money-account-musd-4-percent-apy/"
+      "link": "https://cryptobriefing.com/bitgo-defi-vault-institutional-clients/"
     },
     {
-      "headline": "Kalshi launches first US-regulated perpetuals for ZEC trading",
-      "take": "Kalshi launches first US-regulated perpetuals for Zcash trading",
+      "headline": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
+      "take": "Visa, Stripe, Coinbase and others launch Open USD stablecoin with shared revenue",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Zerohash launches portfolio strategies for crypto wealth platforms",
+      "take": "Zerohash introduces portfolio strategies for crypto wealth management platforms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-zec-perpetuals-us-regulated/"
+      "link": "https://cryptobriefing.com/zerohash-portfolio-strategies-crypto-wealth/"
+    },
+    {
+      "headline": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
+      "take": "OKX AI marketplace enables agents to find work and receive stablecoin payments",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
-      "take": "Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+      "take": "Sovright nonprofit releases Zcash wallet recovery tool for users",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Etched raises $800M and locks in $1B in sales contracts for its transformer chip",
-      "take": "Etched raises eight hundred million, locks one billion in AI chip sales",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etched-raises-800m-secures-1b-sales-contracts/"
-    },
-    {
-      "headline": "OKX launches AI marketplace for autonomous agent economy",
-      "take": "OKX launches AI marketplace for autonomous agent economy",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
-      "headline": "Check Point integrates OpenAI frontier models into security suite, with implications for crypto defense",
-      "take": "Check Point integrates OpenAI models into security suite for crypto defense",
+      "headline": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
+      "take": "Chinese exile linked to Trump strategist sentenced to 30 years for $1B fraud",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud"
+    },
+    {
+      "headline": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
+      "take": "Dutch prosecutors seek to bankrupt crypto platform Knaken after funds frozen",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen"
+    },
+    {
+      "headline": "Why deepfake detection is the future of identity verification",
+      "take": "Deepfake detection emerging as critical future component of identity verification systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/check-point-openai-security-crypto/"
+      "link": "https://cryptobriefing.com/why-deepfake-detection-is-the-future-of-identity-verification/"
     }
   ],
   "policy": [
     {
-      "headline": "Over 40 countries commit to acquiring Bitcoin for national balance sheets",
-      "take": "Over forty countries commit to acquiring Bitcoin for national balance sheets",
+      "headline": "Supreme Court to hear Apple\u2019s appeal in Epic Games antitrust case",
+      "take": "Supreme Court to hear Apple's appeal in Epic Games antitrust case proceedings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/over-40-countries-commit-to-acquiring-bitcoin-for-national-balance-sheets/"
+      "link": "https://cryptobriefing.com/supreme-court-apple-epic-games-antitrust/"
     },
     {
-      "headline": "US SEC signals potential rethink of ETF oversight amid new filings",
-      "take": "US SEC signals potential rethink of ETF oversight amid new filings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-rethink-etf-oversight-event-contract-filings/"
+      "headline": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
+      "take": "Jefferies warns of crypto volatility as Clarity Act faces Senate test vote",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test"
     },
     {
-      "headline": "Kevin Warsh vows to combat inflation amid investor scrutiny",
-      "take": "Kevin Warsh vows to combat inflation amid investor scrutiny",
+      "headline": "SEC Seeks Public Comment on Novel Exchange-Traded Funds",
+      "take": "SEC seeks public comment on novel exchange-traded fund regulatory framework",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds"
+    },
+    {
+      "headline": "US government urged to expand IMF capacity by $650B amid Iran war",
+      "take": "US government urged to expand IMF capacity by $650B amid Iran tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kevin-warsh-fed-chair-inflation-vow/"
+      "link": "https://cryptobriefing.com/us-imf-expansion-650b-iran-war/"
     }
   ]
 }

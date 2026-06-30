@@ -1,54 +1,91 @@
 {
-  "generated": "2026-06-29T22:33:28.042006+00:00",
-  "ts": 1782772408,
+  "generated": "2026-06-30T04:36:39.804660+00:00",
+  "ts": 1782794199,
   "market": [
     {
-      "headline": "Strategy ends 9-day losing streak as Bitcoin capital framework adopted",
-      "take": "Strategy ends losing streak as Bitcoin adopts robust capital framework",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-bitcoin-capital-framework-losing-streak/"
+      "headline": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
+      "take": "Bitcoin pressured below $60k as Japanese yen hits forty-year lows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar"
     },
     {
-      "headline": "JPMorgan expands Kinexys blockchain to 8 currencies, has now processed $4T in transactions",
-      "take": "JPMorgan expands Kinexys blockchain to eight currencies, processes four trillion",
+      "headline": "Quant funds face sharp drawdown after worst five-day stretch since 2023",
+      "take": "Quant funds post worst five-day performance since 2023",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-kinexys-blockchain-eight-currencies/"
+      "link": "https://cryptobriefing.com/quant-funds-worst-drawdown-since-2023/"
     },
     {
-      "headline": "Arkham launches Elo ratings for prediction market traders",
-      "take": "Arkham launches Elo ratings system for prediction market traders",
+      "headline": "Strategy to buy over $14B in Bitcoin, boosting crypto holdings",
+      "take": "Over $14 billion Bitcoin purchase strategy announced, boosting crypto holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arkham-launches-elo-ratings-for-prediction-market-traders/"
+      "link": "https://cryptobriefing.com/strategy-to-buy-over-14b-in-bitcoin-boosting-crypto-holdings/"
+    },
+    {
+      "headline": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
+      "take": "Ark Invest increases positions in Coinbase, Circle, Robinhood during rally",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "G10 excess liquidity leading indicator turns negative, signals risk for US stocks",
+      "take": "G10 excess liquidity indicator turns negative, signals US stock risk",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/g10-excess-liquidity-indicator-negative-stocks-risk/"
     }
   ],
   "business": [
     {
-      "headline": "Phantom taps World to replace Kalshi for prediction markets",
-      "take": "Phantom replaces Kalshi with World for tokenized prediction market contracts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/phantom-taps-world-to-replace-kalshi-for-prediction-markets/"
+      "headline": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
+      "take": "Securitize debuts on NYSE after final merger approval obtained",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Ionic Digital files for direct listing on NASDAQ under IOND",
-      "take": "Ionic Digital files for direct listing on NASDAQ under ticker IOND",
+      "headline": "Moca Network signs MoU with InveoKripto and Ichain to build regulated Web3 infrastructure in T\u00fcrkiye",
+      "take": "Moca Network partnership aims to build regulated Web3 infrastructure in Turkey",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ionic-digital-nasdaq-direct-listing-iond/"
+      "link": "https://cryptobriefing.com/moca-network-web3-turkiye-partnership/"
     },
     {
-      "headline": "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090",
-      "take": "Chamath Palihapitiya raises one hundred thirty-five million Series A for AI startup",
+      "headline": "Upbit lists Gensyn with KRW, BTC, and USDT pairs as trading starts June 30",
+      "take": "Upbit lists Gensyn trading with KRW, BTC, USDT pairs June 30",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chamath-palihapitiya-135m-series-a-8090-ai/"
+      "link": "https://cryptobriefing.com/upbit-lists-gensyn-ai-krw-btc-usdt-june-30/"
     },
     {
-      "headline": "Ethlabs emphasizes accountability to ETH holders and builders with novel governance model",
-      "take": "Ethlabs introduces novel governance model emphasizing accountability to ETH community",
+      "headline": "Base44 launches proprietary AI model to enhance coding platform",
+      "take": "Base44 launches proprietary AI model to enhance coding platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethlabs-accountability-eth-holders-builders/"
+      "link": "https://cryptobriefing.com/base44-launches-proprietary-ai-model/"
+    },
+    {
+      "headline": "Digital Realty sets $27M/MW benchmark for AI data centers",
+      "take": "Digital Realty sets $27M per megawatt benchmark for AI data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/digital-realty-27m-mw-ai-data-center-benchmark/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "New attack exploits Claude Code to hijack developer machines through poisoned repositories",
+      "take": "New attack exploits Claude Code to hijack developers via poisoned repos",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/claude-code-attack-hijacks-developer-machines/"
+    }
+  ],
   "policy": [
+    {
+      "headline": "EU issues 244 MiCA crypto licenses, led by Germany and France",
+      "take": "EU issues 244 MiCA crypto licenses led by Germany and France",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-mica-crypto-licenses-germany-france/"
+    },
+    {
+      "headline": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
+      "take": "UK sets final crypto rules with 2027 FCA authorization deadline",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
     {
       "headline": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
       "take": "Trump has ten days to decide on housing bill containing CBDC ban",
@@ -56,22 +93,10 @@
       "link": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC orders two foreign firms to pay $2.5M for illegal transactions with US customers",
-      "take": "CFTC orders two foreign firms to pay two point five million for illegal US transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-orders-foreign-firms-pay-illegal-transactions/"
-    },
-    {
-      "headline": "Senate leaders push for July passage of CLARITY Act",
-      "take": "Senate leaders push for July passage of CLARITY Act cryptocurrency legislation",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senate-leaders-july-passage-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
-      "take": "Supreme Court rules Trump can fire SEC and CFTC commissioners at will",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto"
+      "headline": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
+      "take": "TD Cowen says crypto market structure bill unlikely before midterm election",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss"
     }
   ]
 }

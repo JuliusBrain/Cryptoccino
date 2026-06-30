@@ -1,90 +1,90 @@
 {
-  "generated": "2026-06-30T10:03:49.079869+00:00",
-  "ts": 1782813829,
+  "generated": "2026-06-30T14:45:33.778108+00:00",
+  "ts": 1782830733,
   "market": [
     {
-      "headline": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
-      "take": "Bitcoin correlation with dollar-yen hits negative 0.90, challenging carry trade narrative",
+      "headline": "Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+      "take": "Circle slides as Stripe, Coinbase, BlackRock back rival stablecoin network",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory"
+      "link": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network"
     },
     {
-      "headline": "Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles",
-      "take": "BlackRock's IBIT bitcoin ETF sheds $300 million as investor demand softens",
+      "headline": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
+      "take": "Jefferies warns of crypto volatility as Clarity Act faces Senate test",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles"
+      "link": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test"
     },
     {
-      "headline": "Quant funds suffer their worst trading rout of the year as momentum bets unwind",
-      "take": "Quant funds post worst trading losses of year as momentum strategies unwind",
+      "headline": "US job openings hold steady at 7.6 million in May as payrolls blow past expectations",
+      "take": "US job openings hold steady at 7.6M as payrolls exceed expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quant-funds-worst-trading-rout-january-2026/"
+      "link": "https://cryptobriefing.com/us-job-openings-may-payroll-growth/"
     },
     {
-      "headline": "Rand trading jumps 20% in Q1 amid Iran war volatility",
-      "take": "South African rand trading volume jumps 20% in Q1 amid geopolitical volatility",
+      "headline": "Japan may intervene in currency markets as yen hits 40-year low",
+      "take": "Japan may intervene in currency markets as yen hits 40-year low",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rand-trading-jumps-q1-iran-war-volatility/"
+      "link": "https://cryptobriefing.com/japan-yen-intervention-40-year-low/"
     }
   ],
   "business": [
     {
-      "headline": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
-      "take": "Dubai attracting crypto firms fleeing Europe ahead of MiCA regulatory deadline",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe"
+      "headline": "MetaMask unveils Money Account offering up to 4% APY on mUSD holdings",
+      "take": "MetaMask launches Money Account offering up to four percent APY on stablecoins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/metamask-money-account-musd-4-percent-apy/"
     },
     {
-      "headline": "Class action lawsuit filed against Magic Eden over $ME token claims",
-      "take": "Class action lawsuit filed against Magic Eden over token offering claims",
+      "headline": "Kalshi launches first US-regulated perpetuals for ZEC trading",
+      "take": "Kalshi launches first US-regulated perpetuals for Zcash trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/magic-eden-me-token-class-action-lawsuit/"
+      "link": "https://cryptobriefing.com/kalshi-zec-perpetuals-us-regulated/"
     },
     {
-      "headline": "ECB\u2019s Philip Lane puts tokenization and AI at the center of central banking\u2019s future",
-      "take": "ECB's Philip Lane positions tokenization and AI as central banking's future priorities",
+      "headline": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+      "take": "Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Etched raises $800M and locks in $1B in sales contracts for its transformer chip",
+      "take": "Etched raises eight hundred million, locks one billion in AI chip sales",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-lane-tokenization-ai-monetary-policy/"
+      "link": "https://cryptobriefing.com/etched-raises-800m-secures-1b-sales-contracts/"
+    },
+    {
+      "headline": "OKX launches AI marketplace for autonomous agent economy",
+      "take": "OKX launches AI marketplace for autonomous agent economy",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
-      "headline": "Carl Rinsch sentenced to 30 months for misusing Netflix funds on Dogecoin",
-      "take": "Film director Carl Rinsch sentenced 30 months for misusing Netflix funds on Dogecoin",
+      "headline": "Check Point integrates OpenAI frontier models into security suite, with implications for crypto defense",
+      "take": "Check Point integrates OpenAI models into security suite for crypto defense",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/carl-rinsch-netflix-dogecoin-fraud-sentencing/"
-    },
-    {
-      "headline": "Mythos signals new phase in cyber arms race, experts say",
-      "take": "Mythos signals escalating cyber arms race, experts warn of new threat phase",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mythos-ai-cyber-arms-race/"
+      "link": "https://cryptobriefing.com/check-point-openai-security-crypto/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
-      "take": "SEC wins $5.5 million default judgment against alleged fraudulent crypto platform NanoBit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit"
-    },
-    {
-      "headline": "Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state",
-      "take": "Michigan judge blocks prediction market platform Kalshi from serving state residents",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406652/kalshi-restraining-order-michigan?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Australia\u2019s crypto travel rule is coming into effect: Here\u2019s what's changing",
-      "take": "Australia's crypto travel rule takes effect, requiring new reporting and compliance measures",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Global central banks plan long-term reduction in US dollar exposure",
-      "take": "Global central banks plan long-term reduction in US dollar reserve holdings",
+      "headline": "Over 40 countries commit to acquiring Bitcoin for national balance sheets",
+      "take": "Over forty countries commit to acquiring Bitcoin for national balance sheets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-banks-reduce-us-dollar-exposure/"
+      "link": "https://cryptobriefing.com/over-40-countries-commit-to-acquiring-bitcoin-for-national-balance-sheets/"
+    },
+    {
+      "headline": "US SEC signals potential rethink of ETF oversight amid new filings",
+      "take": "US SEC signals potential rethink of ETF oversight amid new filings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-rethink-etf-oversight-event-contract-filings/"
+    },
+    {
+      "headline": "Kevin Warsh vows to combat inflation amid investor scrutiny",
+      "take": "Kevin Warsh vows to combat inflation amid investor scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kevin-warsh-fed-chair-inflation-vow/"
     }
   ]
 }

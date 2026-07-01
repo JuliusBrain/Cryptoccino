@@ -1,102 +1,90 @@
 {
-  "generated": "2026-07-01T15:14:49.994863+00:00",
-  "ts": 1782918889,
+  "generated": "2026-07-01T17:24:45.245178+00:00",
+  "ts": 1782926685,
   "market": [
     {
-      "headline": "Bitcoin climbs toward $60,000 after Fed Chair Warsh said inflation risks has come down",
-      "take": "Bitcoin climbs toward $60,000 after inflation risks ease",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down"
+      "headline": "Bitcoin ETFs see record $11B drawdown as 160,000 BTC exit reserves since October 2025",
+      "take": "Bitcoin ETFs see record $11B drawdown as 160k BTC exit reserves",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-record-drawdown-160000-btc/"
     },
     {
-      "headline": "Morpho surges as Standard Chartered sees 33x return by 2030",
-      "take": "Morpho surges on Standard Chartered's optimistic long-term valuation",
+      "headline": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
+      "take": "Bitcoin rises to 21-month high near $60K amid easing rate-hike concerns",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears"
+    },
+    {
+      "headline": "Strategy surges 12% following Michael Saylor\u2019s Digital Credit Capital Framework",
+      "take": "Strategy token surges 12% following Saylor's Digital Credit Capital Framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-surges-as-standard-chartered-sees-33x-return-by-2030/"
+      "link": "https://cryptobriefing.com/strategy-surges-saylor-digital-credit-capital-framework/"
     },
     {
       "headline": "Cantor says bitcoin bear market may be entering final stretch",
-      "take": "Cantor sees bitcoin bear market potentially entering final stage",
+      "take": "Analyst signals bitcoin bear market may be nearing its final phase",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch"
-    },
-    {
-      "headline": "Brent crude futures fall 2% after EIA reports smaller US oil stock draw",
-      "take": "Brent crude falls 2% following smaller-than-expected US oil draw",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-futures-fall-2-after-eia-reports-smaller-us-oil-stock-draw/"
-    },
-    {
-      "headline": "Ten stocks drove nearly all of the Nasdaq-100\u2019s gains in the first half of 2026",
-      "take": "Ten mega-cap stocks drove nearly all Nasdaq-100 gains this half",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-first-half-2026-ten-stocks/"
     }
   ],
   "business": [
     {
-      "headline": "New York Life, Centrifuge launch tokenized US corporate bond fund in USDC",
-      "take": "New York Life and Centrifuge launch tokenized US bond fund",
+      "headline": "Kraken scores FIFA World Cup sponsorship as crypto meets football\u2019s biggest stage",
+      "take": "Kraken secures FIFA World Cup sponsorship, expanding crypto's sports presence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-york-life-centrifuge-launch-tokenized-us-corporate-bond-fund-in-usdc/"
+      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-sponsorship-8/"
     },
     {
-      "headline": "Square integrates ChatGPT and Claude for direct restaurant orders without marketplace fees",
-      "take": "Square adds ChatGPT and Claude for direct restaurant orders",
+      "headline": "Venice raises $65M Series A at $1B valuation to build privacy-first AI empire",
+      "take": "Venice raises $65M Series A to build privacy-focused AI platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/square-chatgpt-claude-restaurant-orders/"
+      "link": "https://cryptobriefing.com/venice-65m-series-a-billion-valuation/"
     },
     {
-      "headline": "Circle launches stablecoin payouts through Circle Mint France",
-      "take": "Circle launches stablecoin payouts through Circle Mint France",
+      "headline": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+      "take": "Securitize executive claims DeFi can disrupt Wall Street stock lending",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending"
+    },
+    {
+      "headline": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+      "take": "Forward Industries expands Solana treasury to 7.55 million SOL tokens",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "World launches Solana prediction market inside Phantom",
+      "take": "Phantom wallet launches World prediction market for Solana ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-stablecoin-payouts-france/"
-    },
-    {
-      "headline": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
-      "take": "EthLabs launches amid Ethereum's biggest leadership transition",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years"
-    },
-    {
-      "headline": "French banking giant Cr\u00e9dit Agricole rolls out euro stablecoin, EURXT",
-      "take": "Cr\u00e9dit Agricole rolls out euro stablecoin EURXT to market",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt"
+      "link": "https://cryptobriefing.com/world-launches-solana-prediction-market-inside-phantom/"
     }
   ],
   "security": [
     {
-      "headline": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
-      "take": "Goliath Ventures CEO pleads guilty in $400 million Ponzi case",
+      "headline": "CertiK debuts invite-only bug bounty platform for web3 researchers",
+      "take": "CertiK debuts invite-only bug bounty platform for web3 researchers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/certik-debuts-invite-only-bug-bounty-platform-for-web3-researchers/"
+    },
+    {
+      "headline": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "take": "Jefferies warns against buying Circle dip amid Open USD competition",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case"
+      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears"
     }
   ],
   "policy": [
     {
-      "headline": "Binance fails to obtain EU operating license amid regulator concerns",
-      "take": "Binance fails to obtain EU operating license amid regulator concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-eu-mica-license-rejection-2/"
+      "headline": "Crypto ATM bans, restrictions now in effect in Tennessee and Georgia",
+      "take": "Tennessee and Georgia enforce crypto ATM bans and new restrictions",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-atm-bans-restrictions-tennessee-georgia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
-      "take": "Europe's MiCA rollout sparks debate over regulatory winners",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules"
-    },
-    {
-      "headline": "Europe is closing the door on offshore crypto, but it\u2019s leaving the riskiest window open",
-      "take": "Europe closes door on offshore crypto but leaves risky gap",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open"
-    },
-    {
-      "headline": "Fed Chair Warsh signals potential rate hikes as inflation stays high",
-      "take": "Fed Chair Warsh signals potential rate hikes amid persistent inflation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chair-warsh-signals-potential-rate-hikes-as-inflation-stays-high/"
+      "headline": "Trump\u2019s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker",
+      "take": "Trump's crypto holdings total $1.4B, making him biggest US moneymaker",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-s-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker"
     }
   ]
 }

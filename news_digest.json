@@ -1,102 +1,114 @@
 {
-  "generated": "2026-07-01T04:56:27.808403+00:00",
-  "ts": 1782881787,
+  "generated": "2026-07-01T10:17:46.390247+00:00",
+  "ts": 1782901066,
   "market": [
     {
-      "headline": "Spot bitcoin ETFs record worst month since debut, shedding $4.5 billion in June",
-      "take": "Spot bitcoin ETFs recorded worst month since launch, lost $4.5 billion in June",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&utm_medium=rss"
+      "headline": "Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion",
+      "take": "US spot bitcoin ETFs suffered worst month ever in June, shedding $4.5 billion",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion"
     },
     {
-      "headline": "Bitcoin Falls to 21-Month Low on Strategy, Rate-Hike Fears",
-      "take": "Bitcoin fell to 21-month low amid strategy shift and rate-hike concerns",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-01/bitcoin-falls-to-21-month-low-on-strategy-rate-hike-fears"
-    },
-    {
-      "headline": "Circle mints 1B USDC on Solana as 2026 total reaches $64.25B",
-      "take": "Circle minted 1 billion USDC on Solana, 2026 total reached $64.25 billion",
+      "headline": "Public token sales hit four-year low in Q2 2026, fundraising drops 95%",
+      "take": "Public token sales hit four-year low in Q2 2026, fundraising drops 95%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-1b-usdc-solana-2026/"
+      "link": "https://cryptobriefing.com/public-token-sales-hit-four-year-low-in-q2-2026-fundraising-drops-95/"
     },
     {
-      "headline": "Reserve Bank of India\u2019s short dollar book hits record $107B in May",
-      "take": "Reserve Bank of India's short dollar book hit record $107 billion in May",
+      "headline": "Gold prices hit 13-year low after steepest quarterly fall since 2013",
+      "take": "Gold prices hit 13-year low after steepest quarterly fall since 2013",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rbi-short-dollar-book-record-107b/"
+      "link": "https://cryptobriefing.com/gold-prices-hit-13-year-low-after-steepest-quarterly-fall-since-2013/"
     },
     {
-      "headline": "South Korea exports surge 70.9% on AI chip boom, strongest growth since 1978",
-      "take": "South Korea exports surged 70.9% on AI chip demand, strongest since 1978",
+      "headline": "XRP holds above $1 after leverage flush as network activity improves",
+      "take": "XRP holds above $1 after leverage flush as network activity improves",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves"
+    },
+    {
+      "headline": "Bank of England warns AI agents could trigger market meltdowns",
+      "take": "Bank of England warns AI agents could trigger market meltdowns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-exports-ai-chip-boom-1978/"
+      "link": "https://cryptobriefing.com/bank-of-england-ai-agents-market-meltdowns/"
     }
   ],
   "business": [
     {
-      "headline": "Vantage plans $25B AI data center in Texas with OpenAI, Oracle collaboration",
-      "take": "Vantage plans $25 billion AI data center in Texas with OpenAI, Oracle",
+      "headline": "Etched unveils Sohu chip and first inference system, plans summer shipments",
+      "take": "Etched unveils Sohu chip and first inference system, plans summer shipments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vantage-plans-25b-ai-data-center-in-texas-with-openai-oracle-collaboration/"
+      "link": "https://cryptobriefing.com/etched-sohu-chip-inference-system/"
     },
     {
-      "headline": "Vertiv opens new Malaysia factory to power Asia Pacific\u2019s AI infrastructure push",
-      "take": "Vertiv opened new Malaysia factory to power Asia Pacific AI infrastructure expansion",
+      "headline": "Binance suspends European services as MiCA deadline arrives",
+      "take": "Binance suspends European services as MiCA deadline arrives",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vertiv-malaysia-factory-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/binance-suspends-european-services-as-mica-deadline-arrives/"
     },
     {
-      "headline": "Blockearner launches Australia\u2019s first crypto-backed lending product using Fireblocks",
-      "take": "Blockearner launched Australia's first crypto-backed lending product using Fireblocks",
+      "headline": "Anthropic gains US approval for foreign access to AI models before IPO",
+      "take": "Anthropic gains US approval for foreign access to AI models before IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockearner-australia-crypto-backed-lending-fireblocks/"
+      "link": "https://cryptobriefing.com/anthropic-gains-us-approval-for-foreign-access-to-ai-models-before-ipo/"
     },
     {
-      "headline": "US fossil fuel spending to surpass China\u2019s amid AI-driven demand: FT",
-      "take": "US fossil fuel spending expected to surpass China's amid AI-driven energy demand",
+      "headline": "Eli Lilly invests $40M in Absci for AI-designed injectable antibody ABS-201",
+      "take": "Eli Lilly invests $40M in Absci for AI-designed injectable antibody ABS-201",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-fossil-fuel-spending-to-surpass-chinas-amid-ai-driven-demand-ft/"
+      "link": "https://cryptobriefing.com/eli-lilly-absci-ai-antibody-investment/"
     }
   ],
   "security": [
     {
-      "headline": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
-      "take": "Florida man pleaded guilty in crypto fraud scheme involving luxury purchases",
+      "headline": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
+      "take": "Goliath Ventures CEO pleads guilty to $250M crypto Ponzi scheme",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme"
+    },
+    {
+      "headline": "Researcher exploits Anthropic\u2019s Claude Opus 4.7 to break into major US festival ticketing system",
+      "take": "Researcher exploits Anthropic Claude Opus 4.7 to break into festival ticketing system",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/claude-opus-exploits-festival-tickets-zcash/"
+    },
+    {
+      "headline": "South Korea prosecutes crypto whale for alleged pump-and-dump scheme",
+      "take": "South Korea prosecutes crypto whale for alleged pump-and-dump scheme",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-prosecutes-crypto-whale-pump-dump/"
+    },
+    {
+      "headline": "Nearly 1,700 UK investors sue Binance and CZ for $200M over unauthorized derivatives",
+      "take": "Nearly 1,700 UK investors sue Binance and CZ for $200M over unauthorized derivatives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-investors-sue-binance-cz-200m-derivatives/"
+    },
+    {
+      "headline": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
+      "take": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406827/china-sentences-five-prison-crypto-foreign-exchange?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Taiwan passes crypto law, requires licenses for platforms",
-      "take": "Taiwan passed crypto law requiring licenses for platforms, clearing legal uncertainty",
+      "headline": "Israel sanctions $8M in crypto wallets linked to Iran\u2019s IRGC",
+      "take": "Israel sanctions $8M in crypto wallets linked to Iran's IRGC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taiwan-crypto-licensing-law/"
+      "link": "https://cryptobriefing.com/israel-sanctions-crypto-wallets-irgc-iran/"
     },
     {
-      "headline": "ESMA urges unauthorized crypto firms to wind down operations by MiCA deadline",
-      "take": "ESMA urged unauthorized crypto firms to wind down by MiCA deadline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/esma-unauthorized-crypto-firms-mica-deadline/"
-    },
-    {
-      "headline": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
-      "take": "UK crypto investors sued Binance and Changpeng Zhao for $200 million",
+      "headline": "Taiwan\u2019s legislature passes crypto, stablecoin regulations",
+      "take": "Taiwan's legislature passes crypto and stablecoin regulations",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Lisa Cook remains on Fed board after Supreme Court ruling",
-      "take": "Lisa Cook remained on Federal Reserve board after Supreme Court ruling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lisa-cook-fed-supreme-court-ruling/"
-    },
-    {
-      "headline": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
-      "take": "US senators seek to block foreign adversaries from accessing AI technology",
+      "headline": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
+      "take": "Poland only EU country where crypto firms cannot get MiCA license",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill"
+      "link": "https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license"
     }
   ]
 }

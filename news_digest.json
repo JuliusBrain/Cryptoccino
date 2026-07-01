@@ -1,114 +1,102 @@
 {
-  "generated": "2026-07-01T10:17:46.390247+00:00",
-  "ts": 1782901066,
+  "generated": "2026-07-01T15:14:49.994863+00:00",
+  "ts": 1782918889,
   "market": [
     {
-      "headline": "Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion",
-      "take": "US spot bitcoin ETFs suffered worst month ever in June, shedding $4.5 billion",
+      "headline": "Bitcoin climbs toward $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "take": "Bitcoin climbs toward $60,000 after inflation risks ease",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion"
+      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down"
     },
     {
-      "headline": "Public token sales hit four-year low in Q2 2026, fundraising drops 95%",
-      "take": "Public token sales hit four-year low in Q2 2026, fundraising drops 95%",
+      "headline": "Morpho surges as Standard Chartered sees 33x return by 2030",
+      "take": "Morpho surges on Standard Chartered's optimistic long-term valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/public-token-sales-hit-four-year-low-in-q2-2026-fundraising-drops-95/"
+      "link": "https://cryptobriefing.com/morpho-surges-as-standard-chartered-sees-33x-return-by-2030/"
     },
     {
-      "headline": "Gold prices hit 13-year low after steepest quarterly fall since 2013",
-      "take": "Gold prices hit 13-year low after steepest quarterly fall since 2013",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-hit-13-year-low-after-steepest-quarterly-fall-since-2013/"
-    },
-    {
-      "headline": "XRP holds above $1 after leverage flush as network activity improves",
-      "take": "XRP holds above $1 after leverage flush as network activity improves",
+      "headline": "Cantor says bitcoin bear market may be entering final stretch",
+      "take": "Cantor sees bitcoin bear market potentially entering final stage",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves"
+      "link": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch"
     },
     {
-      "headline": "Bank of England warns AI agents could trigger market meltdowns",
-      "take": "Bank of England warns AI agents could trigger market meltdowns",
+      "headline": "Brent crude futures fall 2% after EIA reports smaller US oil stock draw",
+      "take": "Brent crude falls 2% following smaller-than-expected US oil draw",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-england-ai-agents-market-meltdowns/"
+      "link": "https://cryptobriefing.com/brent-crude-futures-fall-2-after-eia-reports-smaller-us-oil-stock-draw/"
+    },
+    {
+      "headline": "Ten stocks drove nearly all of the Nasdaq-100\u2019s gains in the first half of 2026",
+      "take": "Ten mega-cap stocks drove nearly all Nasdaq-100 gains this half",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nasdaq-100-first-half-2026-ten-stocks/"
     }
   ],
   "business": [
     {
-      "headline": "Etched unveils Sohu chip and first inference system, plans summer shipments",
-      "take": "Etched unveils Sohu chip and first inference system, plans summer shipments",
+      "headline": "New York Life, Centrifuge launch tokenized US corporate bond fund in USDC",
+      "take": "New York Life and Centrifuge launch tokenized US bond fund",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etched-sohu-chip-inference-system/"
+      "link": "https://cryptobriefing.com/new-york-life-centrifuge-launch-tokenized-us-corporate-bond-fund-in-usdc/"
     },
     {
-      "headline": "Binance suspends European services as MiCA deadline arrives",
-      "take": "Binance suspends European services as MiCA deadline arrives",
+      "headline": "Square integrates ChatGPT and Claude for direct restaurant orders without marketplace fees",
+      "take": "Square adds ChatGPT and Claude for direct restaurant orders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-suspends-european-services-as-mica-deadline-arrives/"
+      "link": "https://cryptobriefing.com/square-chatgpt-claude-restaurant-orders/"
     },
     {
-      "headline": "Anthropic gains US approval for foreign access to AI models before IPO",
-      "take": "Anthropic gains US approval for foreign access to AI models before IPO",
+      "headline": "Circle launches stablecoin payouts through Circle Mint France",
+      "take": "Circle launches stablecoin payouts through Circle Mint France",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-gains-us-approval-for-foreign-access-to-ai-models-before-ipo/"
+      "link": "https://cryptobriefing.com/circle-stablecoin-payouts-france/"
     },
     {
-      "headline": "Eli Lilly invests $40M in Absci for AI-designed injectable antibody ABS-201",
-      "take": "Eli Lilly invests $40M in Absci for AI-designed injectable antibody ABS-201",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eli-lilly-absci-ai-antibody-investment/"
+      "headline": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
+      "take": "EthLabs launches amid Ethereum's biggest leadership transition",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years"
+    },
+    {
+      "headline": "French banking giant Cr\u00e9dit Agricole rolls out euro stablecoin, EURXT",
+      "take": "Cr\u00e9dit Agricole rolls out euro stablecoin EURXT to market",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt"
     }
   ],
   "security": [
     {
-      "headline": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
-      "take": "Goliath Ventures CEO pleads guilty to $250M crypto Ponzi scheme",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme"
-    },
-    {
-      "headline": "Researcher exploits Anthropic\u2019s Claude Opus 4.7 to break into major US festival ticketing system",
-      "take": "Researcher exploits Anthropic Claude Opus 4.7 to break into festival ticketing system",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-opus-exploits-festival-tickets-zcash/"
-    },
-    {
-      "headline": "South Korea prosecutes crypto whale for alleged pump-and-dump scheme",
-      "take": "South Korea prosecutes crypto whale for alleged pump-and-dump scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-prosecutes-crypto-whale-pump-dump/"
-    },
-    {
-      "headline": "Nearly 1,700 UK investors sue Binance and CZ for $200M over unauthorized derivatives",
-      "take": "Nearly 1,700 UK investors sue Binance and CZ for $200M over unauthorized derivatives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-investors-sue-binance-cz-200m-derivatives/"
-    },
-    {
-      "headline": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
-      "take": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406827/china-sentences-five-prison-crypto-foreign-exchange?utm_source=rss&utm_medium=rss"
+      "headline": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "take": "Goliath Ventures CEO pleads guilty in $400 million Ponzi case",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case"
     }
   ],
   "policy": [
     {
-      "headline": "Israel sanctions $8M in crypto wallets linked to Iran\u2019s IRGC",
-      "take": "Israel sanctions $8M in crypto wallets linked to Iran's IRGC",
+      "headline": "Binance fails to obtain EU operating license amid regulator concerns",
+      "take": "Binance fails to obtain EU operating license amid regulator concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israel-sanctions-crypto-wallets-irgc-iran/"
+      "link": "https://cryptobriefing.com/binance-eu-mica-license-rejection-2/"
     },
     {
-      "headline": "Taiwan\u2019s legislature passes crypto, stablecoin regulations",
-      "take": "Taiwan's legislature passes crypto and stablecoin regulations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
-      "take": "Poland only EU country where crypto firms cannot get MiCA license",
+      "headline": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
+      "take": "Europe's MiCA rollout sparks debate over regulatory winners",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license"
+      "link": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules"
+    },
+    {
+      "headline": "Europe is closing the door on offshore crypto, but it\u2019s leaving the riskiest window open",
+      "take": "Europe closes door on offshore crypto but leaves risky gap",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open"
+    },
+    {
+      "headline": "Fed Chair Warsh signals potential rate hikes as inflation stays high",
+      "take": "Fed Chair Warsh signals potential rate hikes amid persistent inflation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-signals-potential-rate-hikes-as-inflation-stays-high/"
     }
   ]
 }

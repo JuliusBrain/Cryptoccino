@@ -1,72 +1,102 @@
 {
-  "generated": "2026-06-30T22:43:20.300855+00:00",
-  "ts": 1782859400,
+  "generated": "2026-07-01T04:56:27.808403+00:00",
+  "ts": 1782881787,
   "market": [
     {
-      "headline": "Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?",
-      "take": "Ether ETF outflows of $345M suggest possible sub-$1.5K test ahead",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Spot bitcoin ETFs record worst month since debut, shedding $4.5 billion in June",
+      "take": "Spot bitcoin ETFs recorded worst month since launch, lost $4.5 billion in June",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Asian stocks set to rise as US posts best quarter in six years",
-      "take": "Asian stocks poised to rise as US posts best quarter in six years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asian-stocks-rise-us-best-quarter-six-years/"
-    },
-    {
-      "headline": "Michael Saylor\u2019s Bitcoin Promise Meets Reality During Downturn",
-      "take": "Michael Saylor's bitcoin strategy faces reality check during market downturn",
+      "headline": "Bitcoin Falls to 21-Month Low on Strategy, Rate-Hike Fears",
+      "take": "Bitcoin fell to 21-month low amid strategy shift and rate-hike concerns",
       "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/michael-saylor-s-bitcoin-promise-meets-reality-during-downturn"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/bitcoin-falls-to-21-month-low-on-strategy-rate-hike-fears"
+    },
+    {
+      "headline": "Circle mints 1B USDC on Solana as 2026 total reaches $64.25B",
+      "take": "Circle minted 1 billion USDC on Solana, 2026 total reached $64.25 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-mints-1b-usdc-solana-2026/"
+    },
+    {
+      "headline": "Reserve Bank of India\u2019s short dollar book hits record $107B in May",
+      "take": "Reserve Bank of India's short dollar book hit record $107 billion in May",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rbi-short-dollar-book-record-107b/"
+    },
+    {
+      "headline": "South Korea exports surge 70.9% on AI chip boom, strongest growth since 1978",
+      "take": "South Korea exports surged 70.9% on AI chip demand, strongest since 1978",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-exports-ai-chip-boom-1978/"
     }
   ],
   "business": [
     {
-      "headline": "Cosmos Labs acquires Mintscan, forms Seoul-based subsidiary to consolidate ecosystem infrastructure",
-      "take": "Cosmos Labs acquires Mintscan, forms Seoul-based subsidiary for ecosystem consolidation",
+      "headline": "Vantage plans $25B AI data center in Texas with OpenAI, Oracle collaboration",
+      "take": "Vantage plans $25 billion AI data center in Texas with OpenAI, Oracle",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cosmos-labs-acquires-mintscan-seoul-subsidiary/"
+      "link": "https://cryptobriefing.com/vantage-plans-25b-ai-data-center-in-texas-with-openai-oracle-collaboration/"
     },
     {
-      "headline": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-      "take": "Phantom expands perpetual futures offering, hires Hyperliquid market builders",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders"
+      "headline": "Vertiv opens new Malaysia factory to power Asia Pacific\u2019s AI infrastructure push",
+      "take": "Vertiv opened new Malaysia factory to power Asia Pacific AI infrastructure expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vertiv-malaysia-factory-ai-infrastructure/"
+    },
+    {
+      "headline": "Blockearner launches Australia\u2019s first crypto-backed lending product using Fireblocks",
+      "take": "Blockearner launched Australia's first crypto-backed lending product using Fireblocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockearner-australia-crypto-backed-lending-fireblocks/"
+    },
+    {
+      "headline": "US fossil fuel spending to surpass China\u2019s amid AI-driven demand: FT",
+      "take": "US fossil fuel spending expected to surpass China's amid AI-driven energy demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-fossil-fuel-spending-to-surpass-chinas-amid-ai-driven-demand-ft/"
     }
   ],
   "security": [
     {
-      "headline": "70% of Israel\u2019s public services now online amid rising cyber threats",
-      "take": "Seventy percent of Israel's public services now online amid rising cyber threats",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/70-of-israels-public-services-now-online-amid-rising-cyber-threats/"
-    },
-    {
-      "headline": "Binance and Changpeng Zhao sued by 1,700 UK investors for \u00a3150M over unapproved crypto derivatives",
-      "take": "Binance and CZ sued by 1,700 UK investors for \u00a3150M over unapproved derivatives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-cz-sued-uk-investors-150m/"
+      "headline": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
+      "take": "Florida man pleaded guilty in crypto fraud scheme involving luxury purchases",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings",
-      "take": "Trump discloses over $1.2B in crypto earnings and $50M Bitcoin holdings",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372484/trump-disclosure-filing-crypto-earnings-bitcoin-holdings"
-    },
-    {
-      "headline": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
-      "take": "Massachusetts AG files amended lawsuit against Kalshi over sports betting rules",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "FCC to vote on banning device sales containing blacklisted Chinese components",
-      "take": "FCC to vote on banning device sales containing blacklisted Chinese components",
+      "headline": "Taiwan passes crypto law, requires licenses for platforms",
+      "take": "Taiwan passed crypto law requiring licenses for platforms, clearing legal uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fcc-vote-ban-blacklisted-components/"
+      "link": "https://cryptobriefing.com/taiwan-crypto-licensing-law/"
+    },
+    {
+      "headline": "ESMA urges unauthorized crypto firms to wind down operations by MiCA deadline",
+      "take": "ESMA urged unauthorized crypto firms to wind down by MiCA deadline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/esma-unauthorized-crypto-firms-mica-deadline/"
+    },
+    {
+      "headline": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+      "take": "UK crypto investors sued Binance and Changpeng Zhao for $200 million",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Lisa Cook remains on Fed board after Supreme Court ruling",
+      "take": "Lisa Cook remained on Federal Reserve board after Supreme Court ruling",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lisa-cook-fed-supreme-court-ruling/"
+    },
+    {
+      "headline": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
+      "take": "US senators seek to block foreign adversaries from accessing AI technology",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill"
     }
   ]
 }

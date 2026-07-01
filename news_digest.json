@@ -1,90 +1,102 @@
 {
-  "generated": "2026-07-01T17:24:45.245178+00:00",
-  "ts": 1782926685,
+  "generated": "2026-07-01T20:17:11.476383+00:00",
+  "ts": 1782937031,
   "market": [
     {
-      "headline": "Bitcoin ETFs see record $11B drawdown as 160,000 BTC exit reserves since October 2025",
-      "take": "Bitcoin ETFs see record $11B drawdown as 160k BTC exit reserves",
+      "headline": "Federal Reserve\u2019s 2025 payments study shows cards and ACH dominate while crypto remains invisible",
+      "take": "Federal Reserve study finds cards and ACH dominate payments, crypto remains insignificant",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-record-drawdown-160000-btc/"
+      "link": "https://cryptobriefing.com/fed-2025-payments-study-crypto-absent/"
     },
     {
-      "headline": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
-      "take": "Bitcoin rises to 21-month high near $60K amid easing rate-hike concerns",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears"
-    },
-    {
-      "headline": "Strategy surges 12% following Michael Saylor\u2019s Digital Credit Capital Framework",
-      "take": "Strategy token surges 12% following Saylor's Digital Credit Capital Framework",
+      "headline": "American Bitcoin slashes share count from 1.09B to 73M with aggressive reverse stock split",
+      "take": "American Bitcoin executes aggressive reverse split, cutting shares from 1.09B to 73M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-surges-saylor-digital-credit-capital-framework/"
+      "link": "https://cryptobriefing.com/american-bitcoin-reverse-stock-split-2/"
     },
     {
-      "headline": "Cantor says bitcoin bear market may be entering final stretch",
-      "take": "Analyst signals bitcoin bear market may be nearing its final phase",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch"
+      "headline": "Wells Fargo raises AMD stock price target to $615 on surging server CPU revenue outlook",
+      "take": "Wells Fargo raises AMD price target to $615 on strong server CPU revenue outlook",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wells-fargo-amd-price-target-server-cpu/"
+    },
+    {
+      "headline": "Caterpillar stock retreats from record after Michael Burry discloses short position",
+      "take": "Caterpillar stock retreats after Michael Burry discloses short position",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/caterpillar-stock-burry-short-position/"
+    },
+    {
+      "headline": "Venice AI raises $65 million Series A at $1 billion equity valuation led by Dragonfly",
+      "take": "Venice AI raises $65 million Series A, reaches $1 billion valuation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406934/venice-ai-funding-equity-valuation-dragonfly?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Kraken scores FIFA World Cup sponsorship as crypto meets football\u2019s biggest stage",
-      "take": "Kraken secures FIFA World Cup sponsorship, expanding crypto's sports presence",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-sponsorship-8/"
-    },
-    {
-      "headline": "Venice raises $65M Series A at $1B valuation to build privacy-first AI empire",
-      "take": "Venice raises $65M Series A to build privacy-focused AI platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/venice-65m-series-a-billion-valuation/"
-    },
-    {
-      "headline": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
-      "take": "Securitize executive claims DeFi can disrupt Wall Street stock lending",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending"
-    },
-    {
-      "headline": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
-      "take": "Forward Industries expands Solana treasury to 7.55 million SOL tokens",
+      "headline": "Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks, Lighter perps and planned crypto agentic trading",
+      "take": "Robinhood Chain launches mainnet with tokenized stocks and crypto trading features",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/406918/robinhood-chain-goes-live-mainnet-alongside-24-7-tokenized-stocks-lighter-perps-planned-crypto-agentic-trading?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "World launches Solana prediction market inside Phantom",
-      "take": "Phantom wallet launches World prediction market for Solana ecosystem",
+      "headline": "Robinhood expands into Canada and Singapore as international push accelerates",
+      "take": "Robinhood expands into Canada and Singapore, accelerating international presence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-launches-solana-prediction-market-inside-phantom/"
+      "link": "https://cryptobriefing.com/robinhood-expands-canada-singapore/"
+    },
+    {
+      "headline": "Tradeweb executes onchain US Treasury transaction on Canton Network",
+      "take": "Tradeweb executes onchain US Treasury transaction, advancing institutional blockchain adoption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tradeweb-onchain-treasury-canton-network/"
+    },
+    {
+      "headline": "Anthropic engineers ship 8X more code than last year, with 80% authored by Claude",
+      "take": "Anthropic engineers ship 8X more code, with 80 percent authored by Claude",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-engineers-8x-code-claude/"
+    },
+    {
+      "headline": "BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch",
+      "take": "BitMine, Sharplink and Joe Lubin launch nonprofit to push Ethereum on Wall Street",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372540/bitmine-sharplink-joe-lubin-wall-street-ethereum-push-nonprofit"
     }
   ],
   "security": [
     {
-      "headline": "CertiK debuts invite-only bug bounty platform for web3 researchers",
-      "take": "CertiK debuts invite-only bug bounty platform for web3 researchers",
+      "headline": "DOJ recovers $19.5M from pump-and-dump schemes that exploited compromised advisor credentials",
+      "take": "DOJ recovers $19.5M from pump-and-dump schemes exploiting compromised advisor credentials",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/certik-debuts-invite-only-bug-bounty-platform-for-web3-researchers/"
-    },
-    {
-      "headline": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
-      "take": "Jefferies warns against buying Circle dip amid Open USD competition",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears"
+      "link": "https://cryptobriefing.com/doj-pump-dump-compromised-advisor-credentials/"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto ATM bans, restrictions now in effect in Tennessee and Georgia",
-      "take": "Tennessee and Georgia enforce crypto ATM bans and new restrictions",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-atm-bans-restrictions-tennessee-georgia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Ethereum Foundation publishes primer for governments on blockchain",
+      "take": "Ethereum Foundation publishes primer for governments on blockchain technology",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-foundation-government-blockchain-primer/"
     },
     {
-      "headline": "Trump\u2019s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker",
-      "take": "Trump's crypto holdings total $1.4B, making him biggest US moneymaker",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-s-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker"
+      "headline": "\u2018We desperately need legislation that includes an agreement on ethics:\u2019 Trump financial filing adds urgency to crypto bill negotiations",
+      "take": "Trump financial filing signals urgency for crypto bill negotiations including ethics agreement",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406953/desperately-need-legislation-on-ethics-trump-financial-filing-adds-urgency-to-crypto-bill-negotiations?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Democrat backed by Ripple co-founder\u2019s PAC wins Colorado primary",
+      "take": "Democrat backed by Ripple co-founder's PAC wins Colorado primary election",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/democrat-ripple-co-founders-pac-wins-colorado?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Vance warns US may resume military action if Iran ceasefire fails",
+      "take": "Vance warns US may resume military action if Iran ceasefire fails",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vance-warns-us-may-resume-military-action-if-iran-ceasefire-fails/"
     }
   ]
 }

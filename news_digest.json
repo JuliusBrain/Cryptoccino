@@ -1,102 +1,95 @@
 {
-  "generated": "2026-07-02T09:36:00.224575+00:00",
-  "ts": 1782984960,
+  "generated": "2026-07-02T14:31:53.036617+00:00",
+  "ts": 1783002713,
   "market": [
     {
-      "headline": "Solana achieves record $147B in perps trading volume in Q2 2026",
-      "take": "Solana perps volume hit record $147B in Q2, showing strong derivatives interest",
+      "headline": "Dow, S&P 500, and Nasdaq open higher as weak jobs data eases rate worries",
+      "take": "Stock indices open higher as weak jobs data eases Fed rate concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-record-perps-trading-volume-q2-2026/"
+      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-jobs-data-rate-worries/"
     },
     {
-      "headline": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
-      "take": "Bitcoin rallied above $60K on Warsh comments; altcoins followed higher",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000"
-    },
-    {
-      "headline": "Bitcoin's long-term holders have returned to accumulation",
-      "take": "Long-term bitcoin holders have resumed accumulating after recent weakness",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation"
-    },
-    {
-      "headline": "XRP edges higher as whale activity rises while retail traders stay cautious",
-      "take": "XRP rose on whale activity while retail traders remained cautious",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious"
-    },
-    {
-      "headline": "US dollar\u2019s share of global FX reserves hits lowest level this century",
-      "take": "US dollar's global FX reserve share fell to lowest level this century",
+      "headline": "JPMorgan warns Strategy\u2019s new Bitcoin sales policy introduces two-way risk",
+      "take": "JPMorgan warns Strategy's Bitcoin sales policy creates two-way market risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-fx-reserves-lowest-century/"
+      "link": "https://cryptobriefing.com/jpmorgan-strategy-bitcoin-sales-two-way-risk/"
+    },
+    {
+      "headline": "OKX inflows reach $1.2B as exchanges exit Europe under MiCA crackdown",
+      "take": "OKX receives $1.2B in inflows as exchanges exit Europe under MiCA rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/okx-inflows-billion-exchanges-exit-europe/"
+    },
+    {
+      "headline": "Metaplanet Adds 2,823 Bitcoin in Q2 as Buying Pace Cools",
+      "take": "Metaplanet accumulated 2,823 Bitcoin in Q2 despite slower buying pace",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372670/metaplanet-adds-2823-bitcoin-in-q2-as-buying-pace-cools"
+    },
+    {
+      "headline": "US durable goods orders fall 4.5% in May as transportation sector leads decline",
+      "take": "US durable goods orders fell 4.5% in May, led by transportation decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-durable-goods-orders-fall-may-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC",
-      "take": "Metaplanet expanded bitcoin holdings to 43,000 BTC via Q2 purchases",
+      "headline": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
+      "take": "Ondo Finance launches SEC-aligned tokenized stocks with BlackRock and Micron",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares"
+    },
+    {
+      "headline": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
+      "take": "Standard Chartered becomes first global bank offering direct USDC institutional access",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access"
+    },
+    {
+      "headline": "French bank CACEIS enters exclusive talks to acquire crypto platform Meria",
+      "take": "French bank CACEIS in exclusive talks to acquire crypto platform Meria",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/caceis-acquire-crypto-platform-meria/"
+    },
+    {
+      "headline": "Fetch.AI launches Agentic Token platform, 8 tokens listed on PancakeSwap",
+      "take": "Fetch.AI launches Agentic Token platform with eight tokens on PancakeSwap",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fetch-ai-agentic-token-platform-pancakeswap/"
+    },
+    {
+      "headline": "Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg",
+      "take": "Peter Thiel-backed Erebor Bank targets $8B valuation as deposits quadruple",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/406999/metaplanet-bitcoin-acquisition-q2?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
-      "take": "Solana launched onchain governance with 100,000 SOL entry fee requirement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals"
-    },
-    {
-      "headline": "SBI Crypto to discontinue mining pool service by July 30",
-      "take": "SBI Crypto discontinuing mining pool service effective July 30",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sbi-crypto-mining-pool-shutdown/"
-    },
-    {
-      "headline": "SBI Funds Management plans $1.2B IPO launching week of July 13",
-      "take": "SBI Funds Management planning $1.2B IPO launch week of July 13",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sbi-funds-management-billion-dollar-ipo/"
-    },
-    {
-      "headline": "Dubai crypto market hits 50 licensed firms after new VARA approval",
-      "take": "Dubai crypto market reached 50 licensed firms following new VARA approval",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/dubai-crypto-market-50-licensed-firms-vara?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [
-    {
-      "headline": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
-      "take": "Taiko restored cross-chain bridge ten days after $1.7M hack",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136"
-    },
-    {
-      "headline": "Russian drone campaign exposes NATO air defense vulnerabilities",
-      "take": "Russian drone campaign exposed vulnerabilities in NATO air defenses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russian-drone-campaign-exposes-nato-air-defense-vulnerabilities/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Supreme Court ruling expands presidential authority over FTC, threatens crypto regulator independence",
-      "take": "Supreme Court ruling expands presidential authority over FTC independence",
+      "headline": "ECB\u2019s Piero Cipollone pitches digital euro as Europe\u2019s answer to payment sovereignty",
+      "take": "ECB pitches digital euro as solution for European payment sovereignty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/supreme-court-ftc-presidential-authority-crypto/"
+      "link": "https://cryptobriefing.com/ecb-cipollone-digital-euro-interview/"
     },
     {
-      "headline": "Lithuania to lift nuclear weapons ban, aligning with NATO strategy",
-      "take": "Lithuania lifted constitutional ban on nuclear weapons aligning with NATO",
+      "headline": "Ratepayer Protection Act would force AI companies to fund their own energy upgrades, and crypto miners should pay attention",
+      "take": "Ratepayer Protection Act would require AI and crypto miners to fund energy upgrades",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lithuania-to-lift-nuclear-weapons-ban-aligning-with-nato-strategy/"
+      "link": "https://cryptobriefing.com/ratepayer-protection-act-ai-energy-crypto/"
     },
     {
-      "headline": "Germany charges suspect in Nord Stream sabotage with war crime complicity",
-      "take": "Germany charged suspect in Nord Stream sabotage with war crime complicity",
+      "headline": "UK payments blueprint outlines tokenized payments for \u2018multi-money ecosystem\u2019",
+      "take": "UK payments blueprint outlines tokenized payments framework for multi-money ecosystem",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "EU plans new sanctions on Russian military producers after Kyiv assault",
+      "take": "EU plans new sanctions on Russian military producers following Kyiv assault",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/germany-charges-nord-stream-sabotage-suspect/"
+      "link": "https://cryptobriefing.com/eu-plans-new-sanctions-on-russian-military-producers-after-kyiv-assault/"
     }
   ]
 }

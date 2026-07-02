@@ -1,102 +1,108 @@
 {
-  "generated": "2026-07-02T17:02:23.418834+00:00",
-  "ts": 1783011743,
+  "generated": "2026-07-02T19:55:34.402759+00:00",
+  "ts": 1783022134,
   "market": [
     {
-      "headline": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy\u2019s breaking point",
-      "take": "Bitwise interprets STRC selloff as cycle bottom signal, not structural failure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point"
+      "headline": "Bitcoin price reaches new July high above $62K on weak US jobs data",
+      "take": "Bitcoin reaches new July high above $62K on weak US jobs data",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-new-july-high-weak-jobs-data/"
     },
     {
-      "headline": "Robinhood CEO says future of crypto is in real-world assets, not memecoins",
-      "take": "Robinhood CEO sees real-world assets, not memecoins, as crypto's future",
+      "headline": "Tesla deliveries hit record 480,126 as shares fall 8%",
+      "take": "Tesla deliveries hit record 480,126 units as shares fall 8%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tesla-ev-stagnation-ai-spending-surges/"
+    },
+    {
+      "headline": "Dow heads for new record as S&P 500 and Nasdaq fall on tech rotation",
+      "take": "Dow heads for new record as S&P 500 and Nasdaq fall on tech rotation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dow-record-tech-rotation-crypto-impact/"
+    },
+    {
+      "headline": "Hyperscale Data buys 67 Bitcoin, increasing total treasury to 849 BTC",
+      "take": "Hyperscale Data buys 67 Bitcoin, increasing treasury to 849 BTC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperscale-data-buys-67-bitcoin-849-btc/"
+    },
+    {
+      "headline": "JPMorgan says Strategy\u2019s bitcoin sale policy introduced \u2018avoidable\u2019 risk into crypto markets",
+      "take": "JPMorgan says Strategy's bitcoin sale policy introduced avoidable market risk",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407047/robinhood-ceo-says-future-of-crypto-is-in-real-world-assets-not-memecoins?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Delphi Digital launches free options dashboard covering BTC, ETH, SOL, and HYPE",
-      "take": "Delphi Digital launches free options dashboard for BTC, ETH, SOL, HYPE",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/delphi-options-dashboard-crypto-launch/"
-    },
-    {
-      "headline": "BitGo\u2019s Angela Ang on bitcoin\u2019s slide and why institutions are driving the APAC playbook",
-      "take": "BitGo executive discusses bitcoin slide and institutional APAC adoption drivers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-angela-ang-bitcoin-apac-strategy/"
-    },
-    {
-      "headline": "US Treasury plans $290B in note and bond auctions in July",
-      "take": "US Treasury plans $290B in note and bond auctions for July",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-290b-july-bond-auctions/"
+      "link": "https://www.theblock.co/post/407071/jpmorgan-strategy-mstr-bitcoin-sale-policy-risk-crypto-markets?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
-      "take": "eToro invests in Extended onchain derivatives platform as brokers enter DeFi",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi"
-    },
-    {
-      "headline": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
-      "take": "Ondo Finance debuts SEC-compliant tokenized stocks with BlackRock ETF and Micron",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares"
-    },
-    {
-      "headline": "Anchorage Digital integrates Lido for institutional ETH staking",
-      "take": "Anchorage Digital integrates Lido for institutional ethereum staking solutions",
+      "headline": "eToro leads $12.5M funding round for onchain derivatives exchange Extended",
+      "take": "eToro leads $12.5M funding round for onchain derivatives exchange Extended",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anchorage-digital-integrates-lido-for-institutional-eth-staking/"
+      "link": "https://cryptobriefing.com/etoro-leads-funding-round-extended-crypto-exchange/"
     },
     {
-      "headline": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
-      "take": "Standard Chartered becomes first global bank offering direct USDC to institutions",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access"
+      "headline": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "take": "Securitize tokenizes $295M of stock on Solana and Avalanche, debuts on NYSE",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut"
     },
     {
-      "headline": "Lighter integrates Robinhood Chain collateral for perpetual futures trading",
-      "take": "Lighter integrates Robinhood Chain collateral for perpetual futures trading",
+      "headline": "ElevenLabs in talks for tender offer at $22B valuation, doubling its price tag in weeks",
+      "take": "ElevenLabs in talks for tender offer at $22B valuation, doubling in weeks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lighter-robinhood-chain-perpetual-trading/"
+      "link": "https://cryptobriefing.com/elevenlabs-tender-offer-22b-valuation/"
+    },
+    {
+      "headline": "Centrifuge\u2019s JAAA token settles instantly in Kraken\u2019s custody 24/7",
+      "take": "Centrifuge's JAAA token settles instantly in Kraken custody twenty-four seven",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/centrifuge-jaaa-kraken-custody-settlement/"
+    },
+    {
+      "headline": "ENS DAO sunsets Public Goods Working Group after 4.5 years of funding Ethereum infrastructure",
+      "take": "ENS DAO sunsets Public Goods Working Group after 4.5 years of funding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ens-dao-sunsets-public-goods-working-group/"
     }
   ],
   "security": [
     {
-      "headline": "Humanity Protocol pivots to enterprise AI after $36M hack",
-      "take": "Humanity Protocol pivots to enterprise AI after suffering $36 million hack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/humanity-protocol-pivots-enterprise-ai-36m-hack/"
-    },
-    {
-      "headline": "Trust Wallet integrates Intercepta\u2019s security technology for 220M users",
-      "take": "Trust Wallet integrates Intercepta security tech protecting 220 million users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trust-wallet-intercepta-security-integration/"
-    },
-    {
-      "headline": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-      "take": "US Treasury sanctions over 100 ISIS-K addresses moving $1.4 million in crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action"
+      "headline": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "take": "FBI seizes NetNut proxy platform and Popa botnet in coordinated operation",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
     }
   ],
   "policy": [
     {
-      "headline": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
-      "take": "SBI Crypto to shut down mining pool controlling roughly 2% of Bitcoin hashrate",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate"
+      "headline": "Central Bank of Russia confirms digital ruble rollout on Sept. 1",
+      "take": "Central Bank of Russia confirms digital ruble rollout on September 1",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russia-digital-ruble-rollout-september/"
     },
     {
-      "headline": "Arbitrum Foundation requests $43M for 2027 operations amid revenue challenges",
-      "take": "Arbitrum Foundation requests $43M for 2027 operations amid revenue pressure",
+      "headline": "CFTC Chair Selig criticizes Illinois\u2019 0.2% crypto transaction tax as a brake on innovation",
+      "take": "CFTC Chair Selig criticizes Illinois 0.2% crypto transaction tax as innovation brake",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arbitrum-foundation-43m-2027-operations/"
+      "link": "https://cryptobriefing.com/cftc-chair-selig-criticizes-illinois-crypto-tax/"
+    },
+    {
+      "headline": "Elizabeth Warren seeks to bar Trump family from crypto profits after $1.4B disclosure",
+      "take": "Elizabeth Warren seeks to bar Trump family from crypto profits after disclosure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/warren-trump-crypto-profits-bar-amendment/"
+    },
+    {
+      "headline": "Tether CEO criticizes MiCA licensing rules as dangerous, refuses to apply for USDT authorization",
+      "take": "Tether CEO criticizes MiCA licensing rules as dangerous, refuses USDT authorization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-ceo-criticizes-mica-stablecoin-rules/"
+    },
+    {
+      "headline": "IMF says tokenization could transform settlement and financial stability",
+      "take": "IMF says tokenization could transform settlement and financial stability systems",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

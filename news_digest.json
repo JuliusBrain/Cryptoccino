@@ -1,96 +1,102 @@
 {
-  "generated": "2026-07-02T04:32:53.291207+00:00",
-  "ts": 1782966773,
+  "generated": "2026-07-02T09:36:00.224575+00:00",
+  "ts": 1782984960,
   "market": [
     {
-      "headline": "Gold surges past $4,000 on soft US jobs data as Bitcoin correlation strengthens",
-      "take": "Gold surges past $4,000 on soft jobs data; Bitcoin correlation strengthens",
+      "headline": "Solana achieves record $147B in perps trading volume in Q2 2026",
+      "take": "Solana perps volume hit record $147B in Q2, showing strong derivatives interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-rises-soft-jobs-data-bitcoin-correlation/"
+      "link": "https://cryptobriefing.com/solana-record-perps-trading-volume-q2-2026/"
     },
     {
-      "headline": "Bank of Japan raises rates to highest level since 1995 as yen weakness fans inflation fears",
-      "take": "Bank of Japan raises rates to highest level since 1995 amid yen weakness",
+      "headline": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
+      "take": "Bitcoin rallied above $60K on Warsh comments; altcoins followed higher",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000"
+    },
+    {
+      "headline": "Bitcoin's long-term holders have returned to accumulation",
+      "take": "Long-term bitcoin holders have resumed accumulating after recent weakness",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation"
+    },
+    {
+      "headline": "XRP edges higher as whale activity rises while retail traders stay cautious",
+      "take": "XRP rose on whale activity while retail traders remained cautious",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious"
+    },
+    {
+      "headline": "US dollar\u2019s share of global FX reserves hits lowest level this century",
+      "take": "US dollar's global FX reserve share fell to lowest level this century",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-japan-rate-hike-1995-high-bitcoin/"
-    },
-    {
-      "headline": "Kalshi and Polymarket\u2019s combined volume surges 75% to $45 billion in June amid World Cup fever",
-      "take": "Kalshi and Polymarket combined volume surges 75% to $45B in June",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "South Korea\u2019s won moves to 24-hour trading as global investor interest grows",
-      "take": "South Korea won moves to 24-hour trading as global investor interest grows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-won-24-hour-trading/"
-    },
-    {
-      "headline": "Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month",
-      "take": "Ark Invest buys $18M in Circle shares as stock drops 41% this month",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406978/ark-invest-18-million-circle?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/us-dollar-fx-reserves-lowest-century/"
     }
   ],
   "business": [
     {
-      "headline": "Binance to support Injective mainnet upgrade tomorrow with temporary deposit halt",
-      "take": "Binance supports Injective mainnet upgrade with temporary deposit halt tomorrow",
+      "headline": "Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC",
+      "take": "Metaplanet expanded bitcoin holdings to 43,000 BTC via Q2 purchases",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406999/metaplanet-bitcoin-acquisition-q2?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
+      "take": "Solana launched onchain governance with 100,000 SOL entry fee requirement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals"
+    },
+    {
+      "headline": "SBI Crypto to discontinue mining pool service by July 30",
+      "take": "SBI Crypto discontinuing mining pool service effective July 30",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-injective-mainnet-upgrade-iip-665/"
+      "link": "https://cryptobriefing.com/sbi-crypto-mining-pool-shutdown/"
     },
     {
-      "headline": "Aave launches Global Dollar Hub, adds PT-USDG as collateral on V4",
-      "take": "Aave launches Global Dollar Hub, adds PT-USDG collateral on V4",
+      "headline": "SBI Funds Management plans $1.2B IPO launching week of July 13",
+      "take": "SBI Funds Management planning $1.2B IPO launch week of July 13",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-global-dollar-hub-pt-usdg-collateral/"
+      "link": "https://cryptobriefing.com/sbi-funds-management-billion-dollar-ipo/"
     },
     {
-      "headline": "LinqAlpha nears $22M in Series A funding round",
-      "take": "LinqAlpha nears $22M in Series A funding round",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/linqalpha-series-a-funding-round/"
-    },
-    {
-      "headline": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
-      "take": "Robinhood launches AI-native Ethereum layer-2 with tokenized stock trading",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading"
-    },
-    {
-      "headline": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
-      "take": "Venice AI valued at $1B as private ChatGPT alternative gains traction",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt"
+      "headline": "Dubai crypto market hits 50 licensed firms after new VARA approval",
+      "take": "Dubai crypto market reached 50 licensed firms following new VARA approval",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/dubai-crypto-market-50-licensed-firms-vara?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
-      "headline": "OFAC Updates ISIS-Khorasan Sanctions with Over 100 Cryptocurrency Wallets",
-      "take": "OFAC updates ISIS-Khorasan sanctions with over 100 cryptocurrency wallets",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/isis-designation-crypto-addresses-july-2026/"
+      "headline": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
+      "take": "Taiko restored cross-chain bridge ten days after $1.7M hack",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136"
     },
     {
-      "headline": "France reports 77 crypto-linked kidnapping cases in 2026",
-      "take": "France reports 77 crypto-linked kidnapping cases in 2026",
+      "headline": "Russian drone campaign exposes NATO air defense vulnerabilities",
+      "take": "Russian drone campaign exposed vulnerabilities in NATO air defenses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/france-crypto-kidnapping-cases-2026/"
+      "link": "https://cryptobriefing.com/russian-drone-campaign-exposes-nato-air-defense-vulnerabilities/"
     }
   ],
   "policy": [
     {
-      "headline": "Democrat backed by Ripple co-founder\u2019s PAC wins Colorado primary",
-      "take": "Democrat backed by Ripple co-founder's PAC wins Colorado primary",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/democrat-ripple-co-founders-pac-wins-colorado?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Supreme Court ruling expands presidential authority over FTC, threatens crypto regulator independence",
+      "take": "Supreme Court ruling expands presidential authority over FTC independence",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/supreme-court-ftc-presidential-authority-crypto/"
     },
     {
-      "headline": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split in bid to maintain Nasdaq listing",
-      "take": "Trump-backed American Bitcoin executes 1-for-15 reverse split for Nasdaq listing",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing?utm_source=rss&utm_medium=rss"
+      "headline": "Lithuania to lift nuclear weapons ban, aligning with NATO strategy",
+      "take": "Lithuania lifted constitutional ban on nuclear weapons aligning with NATO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lithuania-to-lift-nuclear-weapons-ban-aligning-with-nato-strategy/"
+    },
+    {
+      "headline": "Germany charges suspect in Nord Stream sabotage with war crime complicity",
+      "take": "Germany charged suspect in Nord Stream sabotage with war crime complicity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/germany-charges-nord-stream-sabotage-suspect/"
     }
   ]
 }

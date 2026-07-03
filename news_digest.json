@@ -1,114 +1,102 @@
 {
-  "generated": "2026-07-03T04:12:13.133788+00:00",
-  "ts": 1783051933,
+  "generated": "2026-07-03T09:37:41.829292+00:00",
+  "ts": 1783071461,
   "market": [
     {
-      "headline": "Options traders hedge against yen volatility as US holiday trading approaches",
-      "take": "Options traders hedge yen volatility as US holiday trading approaches",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-volatility-options-hedging-holiday/"
+      "headline": "US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows",
+      "take": "Bitcoin ETFs attract $222M inflows, ending ten-day negative streak",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Copper rises with industrial metals as US dollar weakens, signaling broader macro shift",
-      "take": "Copper rises with industrial metals as dollar weakens, signaling macro shift",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/copper-rises-dollar-weakens-macro-shift/"
+      "headline": "Live updates: More bitcoin is now held at a loss than at a profit",
+      "take": "More bitcoin now held at loss than profit across market",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit"
     },
     {
-      "headline": "China\u2019s services activity eases less than expected in June, lifting risk sentiment",
-      "take": "China's services activity eases less than expected, lifting risk sentiment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-services-pmi-june-2026-risk-assets/"
+      "headline": "XRP bulls test path back toward $1.10 as token zips 4% higher",
+      "take": "XRP gains 4% as bulls test resistance near $1.10 level",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher"
     },
     {
-      "headline": "Japanese Finance Minister Satsuki Katayama signals readiness for currency intervention",
-      "take": "Japanese Finance Minister signals readiness for currency intervention",
+      "headline": "Hyperliquid records largest crypto buyback at $283M since January",
+      "take": "Hyperliquid executes $283M crypto buyback, largest since January",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-katayama-currency-intervention-yen/"
+      "link": "https://cryptobriefing.com/hyperliquid-283m-crypto-buyback/"
     },
     {
-      "headline": "People\u2019s Bank of China cuts government bond purchases to nine-month low",
-      "take": "People's Bank of China cuts government bond purchases to nine-month low",
+      "headline": "Investors dump US stocks at record pace as $14.2B flees in a single week",
+      "take": "Investors withdraw $14.2B from US stocks in single week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pboc-cuts-bond-purchases-nine-month-low/"
+      "link": "https://cryptobriefing.com/investors-dump-us-stocks-record-outflows/"
     }
   ],
   "business": [
     {
-      "headline": "Rabby Wallet integrates Robinhood Chain for enhanced access to onchain finance",
-      "take": "Rabby Wallet integrates Robinhood Chain for enhanced onchain finance access",
+      "headline": "Microsoft pours $2.5B into new Frontier unit to crack enterprise AI\u2019s biggest problem",
+      "take": "Microsoft invests $2.5B in Frontier unit for enterprise AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rabby-wallet-integrates-robinhood-chain/"
+      "link": "https://cryptobriefing.com/microsoft-frontier-enterprise-ai-investment/"
     },
     {
-      "headline": "Upbit lists Metaplex and Nexus tokens for trading",
-      "take": "Upbit lists Metaplex and Nexus tokens for trading",
+      "headline": "Bank of Russia governor says \u2018everything is ready\u2019 for widespread use of digital ruble ahead of September rollout",
+      "take": "Russia prepares digital ruble rollout scheduled for September",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407124/russia-digital-ruble?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "HKEX plans debut of 5-year China government bond futures on Aug. 3",
+      "take": "Hong Kong exchange launches five-year China bond futures August 3",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-metaplex-nexus-tokens/"
+      "link": "https://cryptobriefing.com/hkex-china-bond-futures-launch/"
     },
     {
-      "headline": "Securitize becomes first to debut shares on NYSE and onchain, but it won\u2019t be the last",
-      "take": "Securitize debuts shares on NYSE and onchain simultaneously",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "eToro leads $12.5 million round in onchain perps exchange Extended",
-      "take": "eToro leads $12.5 million funding round in Extended perps exchange",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Ripple co-founder backs venture launched by US senator's son: Report",
-      "take": "Ripple co-founder backs venture launched by US senator's son",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US Treasury launches children\u2019s investment accounts with $6.25B philanthropic backing, but crypto is banned",
+      "take": "US Treasury creates children's investment accounts, excludes crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/treasury-trump-accounts-children-investment-crypto-excluded/"
     }
   ],
   "security": [
     {
-      "headline": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "take": "FBI seizes NetNut proxy platform and Popa botnet",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
-    },
-    {
-      "headline": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
-      "take": "Treasury sanctions over 130 ISIS-affiliated crypto wallets on Tron",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron"
-    },
-    {
-      "headline": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
-      "take": "AI researchers demonstrated chatbots can produce harmful content",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick"
+      "headline": "The questions about AI in compliance that nobody can answer yet",
+      "take": "AI compliance tools face unanswered questions about effectiveness",
+      "source": "elliptic",
+      "link": "https://www.elliptic.co/blog/the-questions-about-ai-in-compliance-that-nobody-can-answer-yet"
     }
   ],
   "policy": [
     {
-      "headline": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor",
-      "take": "Russia readies widespread digital ruble adoption by September",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor"
+      "headline": "Trump and allies push to reshape Federal Reserve after Supreme Court ruling",
+      "take": "Trump allies push Federal Reserve reform following Supreme Court ruling",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-reshape-federal-reserve-supreme-court/"
     },
     {
-      "headline": "IMF says tokenization could transform settlement and financial stability",
-      "take": "IMF says tokenization could transform settlement and financial stability",
+      "headline": "Kevin Warsh faces scrutiny as new Federal Reserve chairman amid political pressures and crypto conflicts",
+      "take": "Kevin Warsh faces scrutiny as Federal Reserve chairman nominee",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kevin-warsh-fed-chairman-crypto-scrutiny/"
+    },
+    {
+      "headline": "India's central bank revives push to isolate banks from crypto: Report",
+      "take": "India's central bank pushes renewed effort to isolate banks from crypto",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC\u2019s Selig says Illinois lawmakers \u2018decided they know better\u2019 on crypto tax",
-      "take": "CFTC's Selig says Illinois lawmakers overstepped on crypto tax",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss"
+      "headline": "IMF warns tokenization could accelerate finance, heighten economic shocks",
+      "take": "IMF warns tokenization could accelerate finance, increase systemic shocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/imf-warns-tokenization-risks-financial-shocks/"
     },
     {
-      "headline": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
-      "take": "OpenAI reportedly offers US government $42 billion stake",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice"
+      "headline": "Binance says MiCA should be judged by who it licenses, not who it excludes",
+      "take": "Binance argues MiCA should be judged by licensees, not exclusions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes"
     }
   ]
 }

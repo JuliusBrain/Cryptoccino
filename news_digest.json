@@ -1,96 +1,114 @@
 {
-  "generated": "2026-07-02T22:29:50.165375+00:00",
-  "ts": 1783031390,
+  "generated": "2026-07-03T04:12:13.133788+00:00",
+  "ts": 1783051933,
   "market": [
     {
-      "headline": "Bitcoin surpasses Samsung, Micron, and SK Hynix by market cap as AI chip stocks crater",
-      "take": "Bitcoin market cap now exceeds Samsung, Micron, SK Hynix as chip stocks decline",
+      "headline": "Options traders hedge against yen volatility as US holiday trading approaches",
+      "take": "Options traders hedge yen volatility as US holiday trading approaches",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surpasses-samsung-micron-sk-hynix-market-cap/"
+      "link": "https://cryptobriefing.com/yen-volatility-options-hedging-holiday/"
     },
     {
-      "headline": "Jobs and inflation data boost outlook for bond investors, and crypto is catching the tailwind",
-      "take": "Jobs and inflation data boost bond outlook, crypto catching tailwind from macro shift",
+      "headline": "Copper rises with industrial metals as US dollar weakens, signaling broader macro shift",
+      "take": "Copper rises with industrial metals as dollar weakens, signaling macro shift",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jobs-inflation-data-bonds-crypto-outlook/"
+      "link": "https://cryptobriefing.com/copper-rises-dollar-weakens-macro-shift/"
     },
     {
-      "headline": "BTIG lowers price target on Strategy to $250, maintains buy rating",
-      "take": "BTIG lowers Strategy price target to $250 while maintaining buy rating",
+      "headline": "China\u2019s services activity eases less than expected in June, lifting risk sentiment",
+      "take": "China's services activity eases less than expected, lifting risk sentiment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/btig-lowers-strategy-mstr-price-target/"
+      "link": "https://cryptobriefing.com/china-services-pmi-june-2026-risk-assets/"
+    },
+    {
+      "headline": "Japanese Finance Minister Satsuki Katayama signals readiness for currency intervention",
+      "take": "Japanese Finance Minister signals readiness for currency intervention",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-katayama-currency-intervention-yen/"
+    },
+    {
+      "headline": "People\u2019s Bank of China cuts government bond purchases to nine-month low",
+      "take": "People's Bank of China cuts government bond purchases to nine-month low",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pboc-cuts-bond-purchases-nine-month-low/"
     }
   ],
   "business": [
     {
-      "headline": "KakaoPay develops super wallet for stablecoins and tokenized assets",
-      "take": "KakaoPay develops super wallet for stablecoins and tokenized asset management",
+      "headline": "Rabby Wallet integrates Robinhood Chain for enhanced access to onchain finance",
+      "take": "Rabby Wallet integrates Robinhood Chain for enhanced onchain finance access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kakaopay-super-wallet-stablecoins-tokenized-assets/"
+      "link": "https://cryptobriefing.com/rabby-wallet-integrates-robinhood-chain/"
     },
     {
-      "headline": "Crusoe in talks to raise $3B in funding round that may triple value",
-      "take": "Crusoe Energy in talks to raise $3B funding, potentially tripling company valuation",
+      "headline": "Upbit lists Metaplex and Nexus tokens for trading",
+      "take": "Upbit lists Metaplex and Nexus tokens for trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crusoe-talks-raise-3b-funding-round/"
+      "link": "https://cryptobriefing.com/upbit-lists-metaplex-nexus-tokens/"
     },
     {
       "headline": "Securitize becomes first to debut shares on NYSE and onchain, but it won\u2019t be the last",
-      "take": "Securitize becomes first company to list shares on NYSE and onchain simultaneously",
+      "take": "Securitize debuts shares on NYSE and onchain simultaneously",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "eToro leads $12.5 million round in onchain perps exchange Extended",
-      "take": "eToro leads $12.5M round in onchain perpetuals exchange Extended",
+      "take": "eToro leads $12.5 million funding round in Extended perps exchange",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "KASTxyz plans to convert points balances into tokenized equity, clarity expected in Q4",
-      "take": "KASTxyz plans to convert points into tokenized equity with Q4 clarity expected",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kast-points-tokenized-equity-conversion-q4/"
+      "headline": "Ripple co-founder backs venture launched by US senator's son: Report",
+      "take": "Ripple co-founder backs venture launched by US senator's son",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
+      "headline": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "take": "FBI seizes NetNut proxy platform and Popa botnet",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
+    },
+    {
       "headline": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
-      "take": "Treasury Department sanctions over 130 ISIS-affiliated crypto wallets on Tron network",
+      "take": "Treasury sanctions over 130 ISIS-affiliated crypto wallets on Tron",
       "source": "decrypt",
       "link": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron"
     },
     {
-      "headline": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "take": "FBI seizes NetNut proxy platform and Popa botnet in enforcement action",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
+      "headline": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
+      "take": "AI researchers demonstrated chatbots can produce harmful content",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick"
     }
   ],
   "policy": [
     {
-      "headline": "SEC launches \u2018Project Crypto\u2019 to bring traditional finance on-chain",
-      "take": "SEC launches Project Crypto to bring traditional finance activities onchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-project-crypto-on-chain-markets/"
-    },
-    {
-      "headline": "Bank of Russia confirms digital ruble acceptance by September 1",
-      "take": "Bank of Russia confirms digital ruble acceptance by merchants by September first",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-digital-ruble-september-rollout/"
+      "headline": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor",
+      "take": "Russia readies widespread digital ruble adoption by September",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor"
     },
     {
       "headline": "IMF says tokenization could transform settlement and financial stability",
-      "take": "IMF says tokenization could fundamentally transform settlement and financial stability",
+      "take": "IMF says tokenization could transform settlement and financial stability",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "CFTC\u2019s Selig says Illinois lawmakers \u2018decided they know better\u2019 on crypto tax",
-      "take": "CFTC's Selig criticizes Illinois lawmakers for unilateral crypto tax decisions",
+      "take": "CFTC's Selig says Illinois lawmakers overstepped on crypto tax",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
+      "take": "OpenAI reportedly offers US government $42 billion stake",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice"
     }
   ]
 }

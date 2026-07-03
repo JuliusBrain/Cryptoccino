@@ -1,94 +1,75 @@
 {
-  "generated": "2026-07-03T19:53:03.801285+00:00",
-  "ts": 1783108383,
+  "generated": "2026-07-03T22:18:01.073012+00:00",
+  "ts": 1783117081,
   "market": [
     {
-      "headline": "Bitcoin exchange deposits hit rare extreme as 49,000 BTC floods trading platforms",
-      "take": "Bitcoin exchange deposits surge to extreme levels, signaling upcoming volatility",
+      "headline": "CryptoQuant reports altcoin sell pressure hits five-year low at -$209 billion",
+      "take": "Altcoin sell pressure hits five-year low, suggesting reduced liquidation risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-exchange-deposits-spike-volatility/"
+      "link": "https://cryptobriefing.com/cryptoquant-altcoin-sell-pressure-five-year-low/"
     },
     {
-      "headline": "Markets see 82% chance Fed keeps rates unchanged in July, and crypto feels the squeeze",
-      "take": "Fed rate hold expectations at 82% tighten crypto market amid pause concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rates-unchanged-july-crypto-impact/"
+      "headline": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+      "take": "Solana rallies as memecoins and prediction markets see increased activity",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Donald Trump\u2019s Liberation Day tariffs trigger market turmoil across stocks and crypto",
-      "take": "Trump's Liberation Day tariffs trigger sharp selloffs across stocks and crypto",
+      "headline": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
+      "take": "Bitcoin and altcoin exchange deposits spike, signaling potential volatility ahead",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "US national debt reaches record $39.4 trillion, and crypto markets are paying attention",
+      "take": "US national debt reaches record $39.4 trillion amid crypto market attention",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-liberation-day-tariffs-market-turmoil/"
+      "link": "https://cryptobriefing.com/us-national-debt-record-39-trillion-crypto/"
     },
     {
       "headline": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
-      "take": "Dave Portnoy reports significant personal losses as bitcoin price declines",
+      "take": "Dave Portnoy reports significant losses as bitcoin price declines",
       "source": "decrypt",
       "link": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls"
     }
   ],
   "business": [
     {
-      "headline": "Ayar Labs raises $500M at $3.75B valuation as investors chase AI semiconductor plays beyond Nvidia",
-      "take": "Ayar Labs secures $500M funding at $3.75B valuation for AI semiconductors",
+      "headline": "Robinhood Chain processes 1.7M transactions daily as scaling efforts continue",
+      "take": "Robinhood Chain processes 1.7M daily transactions as scaling efforts advance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ayar-labs-500m-series-e-ai-semiconductors/"
+      "link": "https://cryptobriefing.com/robinhood-chain-daily-transactions-scaling/"
     },
-    {
-      "headline": "Grass generates $33M per year from AI customers, governance vote on revenue capture set for July 7",
-      "take": "Grass generates $33M annually from AI customers; governance vote set July 7",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grass-33m-revenue-governance-vote/"
-    },
-    {
-      "headline": "Kraken\u2019s FIFA World Cup sponsorship puts crypto front and center as tournament hits 250-goal milestone",
-      "take": "Kraken's World Cup sponsorship elevates crypto visibility during tournament",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-sponsorship-9/"
-    }
-  ],
-  "security": [
     {
       "headline": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-      "take": "Sanctioned Russian stablecoin claims billions in volume; blockchain data contradicts",
+      "take": "Sanctioned Russian stablecoin claims billion-dollar volumes but analysts dispute claims",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree"
     },
     {
-      "headline": "American Charged in Israel With Spying for Iran in Exchange for Crypto",
-      "take": "American charged in Israel with spying for Iran in exchange for cryptocurrency",
+      "headline": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
+      "take": "Zcash Ironwood upgrade approaching as developers work to restore confidence",
       "source": "decrypt",
-      "link": "https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto"
-    },
-    {
-      "headline": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-      "take": "Quantum computing poses theoretical long-term threat to bitcoin's cryptographic security",
-      "source": "decrypt",
-      "link": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained"
+      "link": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "Kirsten Gillibrand calls for ban on elected officials issuing memecoins after Trump\u2019s $636 million crypto windfall",
-      "take": "Senators Gillibrand and others push ban on elected officials issuing memecoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gillibrand-ban-officials-memecoins-trump-disclosure/"
+      "headline": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
+      "take": "Senator Gillibrand seeks ban on elected officials launching meme coins",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins"
     },
     {
       "headline": "Donald Trump says \u2018nothing wrong\u2019 with $1.4B crypto windfall while in office",
-      "take": "Trump defends $1.4B crypto windfall, says nothing improper about accumulation",
+      "take": "Trump says nothing wrong with $1.4B crypto windfall received while in office",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "New Hampshire files HB639 to protect crypto payments and self-custody wallets",
-      "take": "New Hampshire HB639 seeks legal protections for crypto payments and self-custody",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-hampshire-hb639-crypto-payments-wallets/"
-    },
-    {
       "headline": "ESMA warns many prediction market event contracts already face EU retail ban",
-      "take": "ESMA warns prediction market contracts increasingly face EU retail investor bans",
+      "take": "ESMA warns many prediction market event contracts face EU retail ban",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

@@ -1,95 +1,96 @@
 {
-  "generated": "2026-07-04T16:20:38.259304+00:00",
-  "ts": 1783182038,
+  "generated": "2026-07-04T19:40:12.207136+00:00",
+  "ts": 1783194012,
   "market": [
     {
-      "headline": "Why bitcoin's disconnect from record-high stocks won't last",
-      "take": "Bitcoin's disconnect from record-high stocks unlikely to persist long-term",
+      "headline": "Bitcoin jumps above $63,000, reversing end-June losses",
+      "take": "Bitcoin jumps above $63,000, reversing end-June losses",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last"
+      "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses"
     },
     {
-      "headline": "Bitcoin ETFs see $2B in outflows over two weeks as institutional investors hit the brakes",
-      "take": "Bitcoin ETFs see $2B in outflows as institutional investors reduce positions",
+      "headline": "Public companies acquire 166,984 Bitcoin in 2026, surpassing mined supply",
+      "take": "Public companies acquired 166,984 Bitcoin in 2026, surpassing mined supply",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-two-billion/"
+      "link": "https://cryptobriefing.com/public-companies-acquire-166984-bitcoin-in-2026-surpassing-mined-supply/"
     },
     {
-      "headline": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "take": "XRP climbs 8% as record holder losses shift risk-reward dynamics favorably",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers"
-    },
-    {
-      "headline": "John Bollinger flags unusual fractal pattern in Bitcoin charts, eyes $65K breakout",
-      "take": "John Bollinger identifies unusual fractal pattern suggesting Bitcoin $65K breakout potential",
+      "headline": "BlackRock transfers $1.22B in Bitcoin to Coinbase in four days",
+      "take": "BlackRock transfers $1.22B in Bitcoin to Coinbase in four days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bollinger-flags-bitcoin-w-pattern-65k/"
+      "link": "https://cryptobriefing.com/blackrock-billion-bitcoin-coinbase-transfer/"
+    },
+    {
+      "headline": "Aave\u2019s new Monad market tops $100 million in deposits two days after launch",
+      "take": "Aave's new Monad market tops $100M deposits two days after launch",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
-      "take": "Trump's crypto token buyers down $3.8 billion according to blockchain analysis",
+      "take": "Trump's crypto token buyers down $3.8B based on blockchain data",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows"
     }
   ],
   "business": [
     {
-      "headline": "FactSet partners with Google Cloud to bring agentic AI to finance",
-      "take": "FactSet partners Google Cloud to bring agentic AI capabilities to finance",
+      "headline": "Coinbase backs new stablecoin venture, renegotiates deal with Circle",
+      "take": "Coinbase backs new stablecoin venture, renegotiates deal with Circle",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/factset-google-cloud-gemini-ai-financial-platform/"
+      "link": "https://cryptobriefing.com/coinbase-open-usd-circle-renegotiation/"
     },
     {
-      "headline": "Inside the Trading Engine Behind ChangeNOW\u2019s \u2018Fast, Seamless Swaps\u2019",
-      "take": "ChangeNOW's trading engine enables fast, seamless cryptocurrency swaps",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps"
+      "headline": "Ethereum outlines roadmap for \u2018Lean Ethereum\u2019 upgrades targeting 10,000 TPS and quantum safety",
+      "take": "Ethereum outlines roadmap for upgrades targeting 10,000 TPS and quantum safety",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-lean-roadmap-quantum-scaling/"
     },
     {
-      "headline": "WeRide and Uber launch commercial robotaxi service in Zurich, expanding autonomous vehicle push across Europe",
-      "take": "WeRide and Uber launch commercial robotaxi service in Zurich",
+      "headline": "Morocco advances to World Cup quarterfinals as FIFA\u2019s crypto partnership with Kraken reshapes fan engagement",
+      "take": "FIFA's crypto partnership with Kraken reshapes fan engagement at World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/weride-uber-robotaxi-zurich-launch-2/"
+      "link": "https://cryptobriefing.com/morocco-world-cup-fifa-kraken-crypto/"
     },
     {
-      "headline": "CG Power launches semiconductor production in India with 200 million annual chip capacity",
-      "take": "CG Power launches semiconductor production in India with 200M annual chip capacity",
+      "headline": "Lightwheel raises $145M to build robotics simulation and data infrastructure",
+      "take": "Lightwheel raises $145M for robotics simulation and data infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cg-power-semiconductor-production-india/"
+      "link": "https://cryptobriefing.com/lightwheel-raises-145m-robotics-simulation/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
+      "take": "Bitcoin experts split over plan to freeze Satoshi's 1.1M bitcoin as quantum threat grows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows"
+    }
+  ],
   "policy": [
     {
+      "headline": "US debt hits $39T and climbing, and crypto is paying attention",
+      "take": "US debt hits $39T and climbing, crypto sector paying close attention",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-debt-39-trillion-bitcoin-hedge/"
+    },
+    {
       "headline": "Europe led on crypto regulation. Now implementation must match ambition",
-      "take": "Europe led crypto regulation; implementation phase now critical for success",
+      "take": "Europe led on crypto regulation; now implementation must match ambition",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition"
     },
     {
       "headline": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "take": "EU moves to restrict retail investors from multibillion-dollar prediction market boom",
+      "take": "EU moves to block retail investors from multibillion-dollar prediction markets boom",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets"
     },
     {
-      "headline": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-      "take": "UK crypto rules promise global trading unlock but compliance hurdles remain significant",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout"
-    },
-    {
-      "headline": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-      "take": "Revolut to delist USDT in August citing regulatory and risk management concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "NOBLE becomes first major police group to back the Clarity Act",
-      "take": "NOBLE police group becomes first major law enforcement to back Clarity Act",
+      "headline": "US law enforcement stops blocking the CLARITY Act amid new endorsements",
+      "take": "US law enforcement stops blocking the CLARITY Act amid new endorsements",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/noble-endorses-clarity-act-crypto-regulation/"
+      "link": "https://cryptobriefing.com/us-law-enforcement-clarity-act-endorsement/"
     }
   ]
 }

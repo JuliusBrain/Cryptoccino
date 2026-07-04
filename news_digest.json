@@ -1,59 +1,54 @@
 {
-  "generated": "2026-07-03T22:18:01.073012+00:00",
-  "ts": 1783117081,
+  "generated": "2026-07-04T04:05:27.745557+00:00",
+  "ts": 1783137927,
   "market": [
     {
-      "headline": "CryptoQuant reports altcoin sell pressure hits five-year low at -$209 billion",
-      "take": "Altcoin sell pressure hits five-year low, suggesting reduced liquidation risk",
+      "headline": "Bitcoin P&L ratio falls to 43-month low as analysts call it a buying opportunity",
+      "take": "Bitcoin P&L ratio falls to 43-month low, analysts see buying opportunity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptoquant-altcoin-sell-pressure-five-year-low/"
+      "link": "https://cryptobriefing.com/bitcoin-pnl-ratio-43-month-low-buy-signal/"
     },
     {
       "headline": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
-      "take": "Solana rallies as memecoins and prediction markets see increased activity",
+      "take": "SOL rallies as Solana memecoins and prediction market activity surge",
       "source": "cointelegraph_defi",
       "link": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
-      "take": "Bitcoin and altcoin exchange deposits spike, signaling potential volatility ahead",
+      "take": "Bitcoin and altcoin exchange deposits spike, signaling higher volatility ahead",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "US national debt reaches record $39.4 trillion, and crypto markets are paying attention",
-      "take": "US national debt reaches record $39.4 trillion amid crypto market attention",
+      "headline": "Gold price climbs as weak NFP data dampens Fed rate hike expectations",
+      "take": "Gold climbs as weak jobs data dampens Fed rate hike expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-national-debt-record-39-trillion-crypto/"
+      "link": "https://cryptobriefing.com/gold-price-climbs-as-weak-nfp-data-dampens-fed-rate-hike-expectations/"
     },
     {
-      "headline": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
-      "take": "Dave Portnoy reports significant losses as bitcoin price declines",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls"
+      "headline": "US construction hiring falls to lowest rate since 2000, and crypto markets should pay attention",
+      "take": "US construction hiring falls to lowest rate since 2000",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-construction-hiring-lowest-since-2000/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood Chain processes 1.7M transactions daily as scaling efforts continue",
-      "take": "Robinhood Chain processes 1.7M daily transactions as scaling efforts advance",
+      "headline": "Securitize tokenizes $295M in stock on Solana at IPO, boosting blockchain adoption",
+      "take": "Securitize tokenizes $295M in stock on Solana at IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-daily-transactions-scaling/"
-    },
-    {
-      "headline": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-      "take": "Sanctioned Russian stablecoin claims billion-dollar volumes but analysts dispute claims",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree"
-    },
-    {
-      "headline": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
-      "take": "Zcash Ironwood upgrade approaching as developers work to restore confidence",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash"
+      "link": "https://cryptobriefing.com/securitize-tokenizes-295m-in-stock-on-solana-at-ipo-boosting-blockchain-adoption/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "take": "Sanctioned Russian stablecoin claims billions in volume, analysts skeptical",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree"
+    }
+  ],
   "policy": [
     {
       "headline": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
@@ -62,16 +57,22 @@
       "link": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins"
     },
     {
-      "headline": "Donald Trump says \u2018nothing wrong\u2019 with $1.4B crypto windfall while in office",
-      "take": "Trump says nothing wrong with $1.4B crypto windfall received while in office",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "ESMA warns many prediction market event contracts already face EU retail ban",
-      "take": "ESMA warns many prediction market event contracts face EU retail ban",
+      "take": "ESMA warns many prediction market contracts already face EU retail ban",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "MCSA shifts to neutral on CLARITY Act, boosting Senate prospects",
+      "take": "MCSA shifts to neutral on CLARITY Act, boosting Senate prospects",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mcsa-shifts-to-neutral-on-clarity-act-boosting-senate-prospects/"
+    },
+    {
+      "headline": "Donald Trump says \u2018nothing wrong\u2019 with $1.4B crypto windfall while in office",
+      "take": "Trump says nothing wrong with $1.4B crypto windfall while in office",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

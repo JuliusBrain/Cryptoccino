@@ -1,71 +1,95 @@
 {
-  "generated": "2026-07-04T14:02:02.675812+00:00",
-  "ts": 1783173722,
+  "generated": "2026-07-04T16:20:38.259304+00:00",
+  "ts": 1783182038,
   "market": [
     {
-      "headline": "Bitcoin\u2019s next parabolic run may need $1 trillion in fresh capital",
-      "take": "Bitcoin's next rally may require one trillion dollars in fresh capital",
+      "headline": "Why bitcoin's disconnect from record-high stocks won't last",
+      "take": "Bitcoin's disconnect from record-high stocks unlikely to persist long-term",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital"
+      "link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last"
+    },
+    {
+      "headline": "Bitcoin ETFs see $2B in outflows over two weeks as institutional investors hit the brakes",
+      "take": "Bitcoin ETFs see $2B in outflows as institutional investors reduce positions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-two-billion/"
     },
     {
       "headline": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "take": "XRP rises eight percent as record holder losses improve risk-reward setup",
+      "take": "XRP climbs 8% as record holder losses shift risk-reward dynamics favorably",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers"
     },
     {
-      "headline": "World Cup prediction market volumes soar to record highs",
-      "take": "World Cup prediction market volumes reach record highs amid global interest",
+      "headline": "John Bollinger flags unusual fractal pattern in Bitcoin charts, eyes $65K breakout",
+      "take": "John Bollinger identifies unusual fractal pattern suggesting Bitcoin $65K breakout potential",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-prediction-market-volumes-record-highs/"
+      "link": "https://cryptobriefing.com/bollinger-flags-bitcoin-w-pattern-65k/"
+    },
+    {
+      "headline": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
+      "take": "Trump's crypto token buyers down $3.8 billion according to blockchain analysis",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows"
     }
   ],
   "business": [
     {
-      "headline": "Esports World Cup 2026 opens doors to crypto sponsors as VALORANT tournament draws global attention",
-      "take": "Esports World Cup opens crypto sponsorship doors for VALORANT tournament",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/esports-world-cup-crypto-sponsors-valorant/"
-    },
-    {
-      "headline": "FactSet partners with Google Cloud to embed Gemini AI into its financial platform",
-      "take": "FactSet partners Google Cloud to embed Gemini AI in financial platform",
+      "headline": "FactSet partners with Google Cloud to bring agentic AI to finance",
+      "take": "FactSet partners Google Cloud to bring agentic AI capabilities to finance",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/factset-google-cloud-gemini-ai-financial-platform/"
+    },
+    {
+      "headline": "Inside the Trading Engine Behind ChangeNOW\u2019s \u2018Fast, Seamless Swaps\u2019",
+      "take": "ChangeNOW's trading engine enables fast, seamless cryptocurrency swaps",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps"
+    },
+    {
+      "headline": "WeRide and Uber launch commercial robotaxi service in Zurich, expanding autonomous vehicle push across Europe",
+      "take": "WeRide and Uber launch commercial robotaxi service in Zurich",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/weride-uber-robotaxi-zurich-launch-2/"
+    },
+    {
+      "headline": "CG Power launches semiconductor production in India with 200 million annual chip capacity",
+      "take": "CG Power launches semiconductor production in India with 200M annual chip capacity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cg-power-semiconductor-production-india/"
     }
   ],
   "security": [],
   "policy": [
     {
       "headline": "Europe led on crypto regulation. Now implementation must match ambition",
-      "take": "Europe led crypto regulation; now implementation must match ambitious goals",
+      "take": "Europe led crypto regulation; implementation phase now critical for success",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition"
     },
     {
       "headline": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "take": "EU moves to block retail investors from multibillion-dollar prediction markets",
+      "take": "EU moves to restrict retail investors from multibillion-dollar prediction market boom",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets"
     },
     {
       "headline": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-      "take": "UK's new crypto rules promise global trading unlock; compliance hurdles remain",
+      "take": "UK crypto rules promise global trading unlock but compliance hurdles remain significant",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout"
     },
     {
       "headline": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-      "take": "Revolut delists USDT in August citing regulatory and risk management concerns",
+      "take": "Revolut to delist USDT in August citing regulatory and risk management concerns",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US law enforcement group drops opposition to CLARITY Act: Report",
-      "take": "US law enforcement group drops opposition to CLARITY Act cryptocurrency bill",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "NOBLE becomes first major police group to back the Clarity Act",
+      "take": "NOBLE police group becomes first major law enforcement to back Clarity Act",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/noble-endorses-clarity-act-crypto-regulation/"
     }
   ]
 }

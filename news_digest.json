@@ -1,56 +1,62 @@
 {
-  "generated": "2026-07-04T09:02:35.457642+00:00",
-  "ts": 1783155755,
+  "generated": "2026-07-04T11:01:58.382070+00:00",
+  "ts": 1783162918,
   "market": [
     {
       "headline": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "take": "XRP rises 8% as record holder losses suggest improved risk-reward setup",
+      "take": "XRP rises 8% as record holder losses suggest improving risk-reward",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers"
     },
     {
-      "headline": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
-      "take": "SOL rallies amid surge in memecoins and prediction market activity",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "Bitcoin\u2019s next parabolic run may need $1 trillion in fresh capital",
-      "take": "Bitcoin's next major rally may require one trillion dollars fresh capital",
+      "take": "Bitcoin's next major rally could require one trillion dollars new capital",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital"
+    },
+    {
+      "headline": "Robinhood Chain surpasses $50M in TVL just days after mainnet launch",
+      "take": "Robinhood Chain exceeds fifty million TVL days after mainnet launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-50m-tvl-ethereum-arbitrum/"
+    },
+    {
+      "headline": "ECB says it\u2019s sitting pretty after June rate hike as oil prices cool",
+      "take": "ECB comfortable after rate hike as oil prices decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ecb-rate-hike-moulin-crypto-impact/"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock expands into private markets with $400 billion fundraising goal, tokenization at the center",
-      "take": "BlackRock expands into private markets with four hundred billion fundraising target",
+      "headline": "Moonbeam migrates GLMR token from Polkadot to Base in major ecosystem shift",
+      "take": "Moonbeam migrates GLMR token from Polkadot to Base blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-private-markets-tokenization-pivot/"
-    },
-    {
-      "headline": "Securitize benefits from BlackRock support as Wall Street adopts tokenized assets",
-      "take": "Securitize gains from BlackRock backing as tokenized assets gain traction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-blackrock-tokenized-assets-wall-street/"
+      "link": "https://cryptobriefing.com/moonbeam-glmr-migration-polkadot-base/"
     },
     {
       "headline": "Germany\u2019s Sparkassen and cooperative banks to offer crypto trading via everyday banking apps",
-      "take": "Germany's Sparkassen and cooperative banks launch crypto trading via banking apps",
+      "take": "Germany's Sparkassen banks to offer crypto trading through retail banking apps",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/germany-sparkassen-banks-crypto-trading/"
     },
     {
-      "headline": "Esports World Cup VALORANT 2026 kicks off with $75M prize pool and new crypto sponsorship rules",
-      "take": "Esports World Cup VALORANT 2026 features seventy-five million dollar prize pool",
+      "headline": "Revolut to end support for Tether\u2019s USDT by August 31, customers say",
+      "take": "Revolut ending Tether USDT support by end of August",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ewc-valorant-2026-crypto-sponsorship-rules/"
+      "link": "https://cryptobriefing.com/revolut-to-end-support-tethers-usdt-by-august-31/"
     }
   ],
   "security": [
     {
+      "headline": "Investors lose $4B on Trump crypto coin as insiders pocket billions",
+      "take": "Investors lose four billion on Trump crypto coin amid insider payouts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/investors-lose-4b-trump-crypto-coin/"
+    },
+    {
       "headline": "Polymarket faces scrutiny over deceptive marketing with fake trades and paid influencers",
-      "take": "Polymarket faces scrutiny over deceptive marketing and paid influencer promotion",
+      "take": "Polymarket under scrutiny for fake trades and paid influencer marketing",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/polymarket-deceptive-marketing-scrutiny/"
     }
@@ -58,27 +64,21 @@
   "policy": [
     {
       "headline": "EU fully enforces MiCA, unifying crypto regulations across 27 member states",
-      "take": "EU fully enforces MiCA, unifying cryptocurrency regulations across all member states",
+      "take": "EU fully enforces MiCA regulation across all twenty-seven member states",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/eu-fully-enforces-mica-unifying-crypto-regulations-across-27-member-states/"
     },
     {
-      "headline": "Brazil Central Bank proposes 24-hour holds on large dollar stablecoin transfers",
-      "take": "Brazil Central Bank proposes twenty-four hour holds on large dollar stablecoin transfers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-central-bank-stablecoin-transfer-holds/"
-    },
-    {
       "headline": "US law enforcement group drops opposition to CLARITY Act: Report",
-      "take": "US law enforcement group drops opposition to CLARITY Act cryptocurrency legislation",
+      "take": "US law enforcement group drops opposition to CLARITY Act",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
-      "take": "Senator Gillibrand seeks to ban elected officials from launching meme coins",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins"
+      "headline": "Brazil Central Bank proposes 24-hour holds on large dollar stablecoin transfers",
+      "take": "Brazil's central bank proposes twenty-four hour holds on large stablecoin transfers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brazil-central-bank-stablecoin-transfer-holds/"
     }
   ]
 }

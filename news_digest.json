@@ -1,76 +1,70 @@
 {
-  "generated": "2026-07-05T16:29:32.229009+00:00",
-  "ts": 1783268972,
+  "generated": "2026-07-05T19:45:46.092855+00:00",
+  "ts": 1783280746,
   "market": [
     {
-      "headline": "Jito reports $351M market cap and $78M MEV fees as it dominates Solana infrastructure",
-      "take": "Jito dominates Solana infrastructure with $351M market cap and $78M MEV fees",
+      "headline": "Bitcoin network activity jumps 9% to over 660,000 active addresses",
+      "take": "Bitcoin network activity jumped nine percent to over 660k active addresses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jito-351m-market-cap-78m-mev-fees-solana/"
+      "link": "https://cryptobriefing.com/bitcoin-active-addresses-jump-nine-percent/"
     },
     {
-      "headline": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-      "take": "Americans traded $571M on Polymarket political bets despite U.S. ban",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
-    },
-    {
-      "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "take": "Banks shifting from questioning stablecoins to considering how to integrate them",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
+      "headline": "0DTE options hit record 48% of total retail options volume as day-trading culture goes mainstream",
+      "take": "Zero-day-to-expiration options hit record forty-eight percent of retail options volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/0dte-options-record-retail-volume/"
     },
     {
       "headline": "Collateral, not yield, will decide which stablecoins win",
-      "take": "Collateral quality, not yield, will determine which stablecoins survive competition",
+      "take": "Collateral composition, not yield generation, will determine stablecoin market winners",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win"
     },
     {
-      "headline": "US labor force participation rate drops to lowest since December 2023, and crypto markets see opportunity",
-      "take": "Labor market weakness signals macro opportunity amid falling participation rates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-labor-participation-rate-drops-crypto-impact/"
+      "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "take": "Banks now consider how stablecoins fit finance, moving past whether they belong",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
+    },
+    {
+      "headline": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+      "take": "Americans traded five hundred seventy-one million on political prediction market bets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
     }
   ],
   "business": [
     {
-      "headline": "Avalanche\u2019s Team1 launches Builder Grants program with up to $30,000 per project",
-      "take": "Avalanche Team1 launches Builder Grants offering up to $30K per project",
+      "headline": "Amazon stops accepting new customers for Mechanical Turk, opening the door for blockchain-based alternatives",
+      "take": "Amazon halts new Mechanical Turk customers, opening space for blockchain alternatives",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-team1-builder-grants-program/"
+      "link": "https://cryptobriefing.com/amazon-mechanical-turk-blockchain-alternatives/"
     },
     {
-      "headline": "Injective MCP server lets AI agents deploy smart contracts with a simple prompt",
-      "take": "Injective MCP server enables AI agents to deploy smart contracts via prompts",
+      "headline": "Foxconn reports 40% quarterly sales jump, driven by cloud and AI server revenue",
+      "take": "Foxconn reports forty percent quarterly sales jump from cloud and AI servers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-mcp-server-smart-contract-ai-prompts/"
+      "link": "https://cryptobriefing.com/foxconn-quarterly-sales-jump-cloud-ai-revenue/"
     },
     {
-      "headline": "Unitree secures approval for $619M Shanghai IPO to expand AI robotics",
-      "take": "Unitree secures $619M Shanghai IPO approval for AI robotics expansion",
+      "headline": "Meta\u2019s Watermelon AI model matches OpenAI\u2019s GPT-5.5 benchmarks",
+      "take": "Meta's Watermelon AI model matches OpenAI's GPT-5.5 performance benchmarks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/unitree-619m-shanghai-ipo-ai-robotics/"
+      "link": "https://cryptobriefing.com/meta-watermelon-ai-matches-gpt-5-5/"
     }
   ],
   "security": [
     {
       "headline": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-      "take": "Fake Mac Clipboard app distributes new password-stealing malware to users",
+      "take": "Fake Mac Clipboard app delivers new password-stealing malware to users",
       "source": "decrypt",
       "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware"
-    },
-    {
-      "headline": "Anthropic faces $75M lawsuit for pirating books to train Claude AI",
-      "take": "Anthropic faces $75M lawsuit alleging book piracy to train Claude AI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-75m-lawsuit-pirating-books-claude/"
     }
   ],
   "policy": [
     {
       "headline": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
-      "take": "Kalshi and prediction markets face mixed legal battles across U.S. jurisdictions",
+      "take": "Kalshi and prediction market sector face mixed legal battles across United States",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s"
     },
@@ -79,6 +73,18 @@
       "take": "South Africa proposes crypto tax guidance under existing regulatory framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Federal judge orders Pentagon to grant Alibaba reprieve from lobbying law",
+      "take": "Federal judge orders Pentagon to grant Alibaba reprieve from lobbying law",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alibaba-pentagon-lobbying-law-reprieve/"
+    },
+    {
+      "headline": "Clarity and Congress's summer break: State of Crypto",
+      "take": "Clarity and Congress's summer break shape current state of crypto policy",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto"
     }
   ]
 }

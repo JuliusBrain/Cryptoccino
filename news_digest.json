@@ -1,90 +1,66 @@
 {
-  "generated": "2026-07-05T04:33:33.677433+00:00",
-  "ts": 1783226013,
+  "generated": "2026-07-05T09:24:11.289889+00:00",
+  "ts": 1783243451,
   "market": [
     {
-      "headline": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "take": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses"
-    },
-    {
       "headline": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
-      "take": "Bitcoin ETFs log record eighth straight negative week despite Thursday inflow",
+      "take": "Bitcoin ETFs post eighth consecutive negative week despite Thursday inflows",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Hyperliquid sees $116M net inflows in 24 hours, boosts DeFi liquidity",
-      "take": "Hyperliquid sees $116M net inflows in 24 hours, boosts DeFi liquidity",
+      "headline": "Citi forecasts Brent Crude may drop to $60 by year-end despite US-Iran tensions",
+      "take": "Citi forecasts Brent Crude may drop to $60 by year-end",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-sees-116m-net-inflows-in-24-hours-boosts-defi-liquidity/"
+      "link": "https://cryptobriefing.com/citi-forecasts-brent-crude-may-drop-to-60-by-year-end-despite-us-iran-tensions/"
     },
     {
-      "headline": "France reaches World Cup quarter-finals as crypto prediction markets cross $2B in volume",
-      "take": "Crypto prediction markets cross $2B in volume during World Cup quarterfinals",
+      "headline": "Bank of Korea warns single-stock leveraged ETFs tied to Samsung and SK Hynix are rattling markets",
+      "take": "Bank of Korea warns leveraged ETFs tied to Samsung, SK Hynix roiling markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/france-world-cup-quarter-finals-crypto-prediction-markets/"
-    },
-    {
-      "headline": "Nearly 1 million wallets are down $3.81 billion on Trump\u2019s memecoin: report",
-      "take": "Nearly 1 million wallets down $3.81B on Trump's memecoin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/bank-of-korea-warns-samsung-sk-hynix-leveraged-etfs/"
     }
   ],
   "business": [
     {
-      "headline": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "take": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says"
+      "headline": "Step Finance exploiter sells $21M in SOL, buys ETH and launders funds through Tornado Cash",
+      "take": "Step Finance exploiter launders $21M SOL through Tornado Cash to buy ETH",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/step-finance-exploiter-launders-funds-tornado-cash/"
     },
     {
-      "headline": "Strategy announces Digital Credit Capital Framework, ending its \u2018never sell\u2019 Bitcoin policy",
-      "take": "Strategy announces Digital Credit Capital Framework, ending 'never sell' Bitcoin policy",
+      "headline": "Broadcom locks in deals with three hyperscalers, cementing its role as the AI chip maker that isn\u2019t Nvidia",
+      "take": "Broadcom secures deals with three hyperscalers, strengthening AI chip position",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-digital-credit-capital-framework-bitcoin/"
+      "link": "https://cryptobriefing.com/broadcom-hyperscaler-deals-ai-chip-investment/"
     },
     {
-      "headline": "Esports World Cup 2026 VALORANT kicks off elimination rounds as $75M festival lands in Paris",
-      "take": "Esports World Cup 2026 VALORANT kicks off with $75M festival in Paris",
+      "headline": "Hon Hai reports stronger-than-expected quarterly sales amid AI demand",
+      "take": "Hon Hai reports stronger-than-expected quarterly sales amid AI demand surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ewc-valorant-2026-elimination-rounds-paris/"
+      "link": "https://cryptobriefing.com/foxconn-quarterly-sales-ai-server-demand/"
     }
   ],
   "security": [
     {
-      "headline": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "take": "Ethical hackers found flaw that could've put $70 billion in crypto at risk",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk"
-    },
-    {
-      "headline": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
-      "take": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
+      "headline": "Step Finance exploiter sells $21M in SOL, buys ETH and launders funds through Tornado Cash",
+      "take": "Step Finance exploiter launders $21M SOL through Tornado Cash to buy ETH",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-fixes-critical-vulnerability-move-vm/"
-    },
-    {
-      "headline": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-      "take": "Bitcoin experts split over plan to freeze Satoshi's 1.1M bitcoin as quantum threat grows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows"
+      "link": "https://cryptobriefing.com/step-finance-exploiter-launders-funds-tornado-cash/"
     }
   ],
   "policy": [
     {
-      "headline": "Iran to charge service fees for ships in Strait of Hormuz, with Bitcoin payments and friendly-nation discounts",
-      "take": "Iran to charge service fees for ships in Strait of Hormuz, accepts Bitcoin",
+      "headline": "South African Revenue Service plans audit of 6 million crypto users with new specialized unit",
+      "take": "South African Revenue Service auditing six million crypto users with new unit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-hormuz-strait-fees-bitcoin-payments/"
+      "link": "https://cryptobriefing.com/south-africa-sars-crypto-audit-6-million-users/"
     },
     {
-      "headline": "Trump offers to mediate Ukraine peace in 90-minute call with Putin",
-      "take": "Trump offers to mediate Ukraine peace in 90-minute call with Putin",
+      "headline": "Iran to impose new Strait of Hormuz fees, favoring friendly nations",
+      "take": "Iran to impose new Strait of Hormuz fees favoring allied nations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-offers-to-mediate-ukraine-peace-in-90-minute-call-with-putin/"
+      "link": "https://cryptobriefing.com/iran-to-impose-new-strait-of-hormuz-fees-favoring-friendly-nations/"
     }
   ]
 }

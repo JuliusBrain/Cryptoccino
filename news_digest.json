@@ -1,66 +1,72 @@
 {
-  "generated": "2026-07-05T09:24:11.289889+00:00",
-  "ts": 1783243451,
+  "generated": "2026-07-05T14:12:04.693999+00:00",
+  "ts": 1783260724,
   "market": [
     {
-      "headline": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
-      "take": "Bitcoin ETFs post eighth consecutive negative week despite Thursday inflows",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss"
+      "headline": "Vitalik Buterin unveils \u201cLean Ethereum\u201d roadmap for quantum resistance by 2029",
+      "take": "Vitalik proposes Lean Ethereum roadmap targeting quantum resistance by 2029",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vitalik-buterin-unveils-lean-ethereum-roadmap-for-quantum-resistance-by-2029/"
     },
     {
-      "headline": "Citi forecasts Brent Crude may drop to $60 by year-end despite US-Iran tensions",
-      "take": "Citi forecasts Brent Crude may drop to $60 by year-end",
+      "headline": "Emerging-market traders shift to euro and Australian dollar as US dollar strengthens",
+      "take": "Emerging-market traders shift to euro and aussie dollar as dollar strengthens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citi-forecasts-brent-crude-may-drop-to-60-by-year-end-despite-us-iran-tensions/"
+      "link": "https://cryptobriefing.com/emerging-market-traders-euro-aud-dollar/"
     },
     {
-      "headline": "Bank of Korea warns single-stock leveraged ETFs tied to Samsung and SK Hynix are rattling markets",
-      "take": "Bank of Korea warns leveraged ETFs tied to Samsung, SK Hynix roiling markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-korea-warns-samsung-sk-hynix-leveraged-etfs/"
+      "headline": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
+      "take": "Barstool's Portnoy plans to hold bitcoin despite repeated timing failures",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time"
     }
   ],
   "business": [
     {
-      "headline": "Step Finance exploiter sells $21M in SOL, buys ETH and launders funds through Tornado Cash",
-      "take": "Step Finance exploiter launders $21M SOL through Tornado Cash to buy ETH",
+      "headline": "Injective MCP server lets AI agents deploy smart contracts with a simple prompt",
+      "take": "Injective launches MCP server enabling AI agents to deploy smart contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/step-finance-exploiter-launders-funds-tornado-cash/"
+      "link": "https://cryptobriefing.com/injective-mcp-server-smart-contract-ai-prompts/"
     },
     {
-      "headline": "Broadcom locks in deals with three hyperscalers, cementing its role as the AI chip maker that isn\u2019t Nvidia",
-      "take": "Broadcom secures deals with three hyperscalers, strengthening AI chip position",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/broadcom-hyperscaler-deals-ai-chip-investment/"
+      "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "take": "Banks now strategizing how stablecoins fit in finance, not whether they belong",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
     },
     {
-      "headline": "Hon Hai reports stronger-than-expected quarterly sales amid AI demand",
-      "take": "Hon Hai reports stronger-than-expected quarterly sales amid AI demand surge",
+      "headline": "SK Hynix plans $29B US listing, potentially largest by foreign firm",
+      "take": "SK Hynix plans $29B US listing, potentially largest foreign IPO ever",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/foxconn-quarterly-sales-ai-server-demand/"
+      "link": "https://cryptobriefing.com/sk-hynix-29b-us-nasdaq-listing-3/"
+    },
+    {
+      "headline": "Unitree secures approval for $619M Shanghai IPO to expand AI robotics",
+      "take": "Unitree gets approval for $619M Shanghai IPO to expand AI robotics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/unitree-619m-shanghai-ipo-ai-robotics/"
+    },
+    {
+      "headline": "South Korea plans investment fund from semiconductor tax revenue worth up to $46 billion",
+      "take": "South Korea plans $46B investment fund from semiconductor tax revenue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-semiconductor-tax-investment-fund/"
     }
   ],
   "security": [
     {
-      "headline": "Step Finance exploiter sells $21M in SOL, buys ETH and launders funds through Tornado Cash",
-      "take": "Step Finance exploiter launders $21M SOL through Tornado Cash to buy ETH",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/step-finance-exploiter-launders-funds-tornado-cash/"
+      "headline": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "take": "Kalshi and prediction markets face mixed legal battles across United States",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s"
     }
   ],
   "policy": [
     {
-      "headline": "South African Revenue Service plans audit of 6 million crypto users with new specialized unit",
-      "take": "South African Revenue Service auditing six million crypto users with new unit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-africa-sars-crypto-audit-6-million-users/"
-    },
-    {
-      "headline": "Iran to impose new Strait of Hormuz fees, favoring friendly nations",
-      "take": "Iran to impose new Strait of Hormuz fees favoring allied nations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-to-impose-new-strait-of-hormuz-fees-favoring-friendly-nations/"
+      "headline": "South Africa proposes crypto tax guidance under existing framework",
+      "take": "South Africa proposes crypto tax guidance within existing regulatory framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

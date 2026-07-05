@@ -1,70 +1,82 @@
 {
-  "generated": "2026-07-05T14:12:04.693999+00:00",
-  "ts": 1783260724,
+  "generated": "2026-07-05T16:29:32.229009+00:00",
+  "ts": 1783268972,
   "market": [
     {
-      "headline": "Vitalik Buterin unveils \u201cLean Ethereum\u201d roadmap for quantum resistance by 2029",
-      "take": "Vitalik proposes Lean Ethereum roadmap targeting quantum resistance by 2029",
+      "headline": "Jito reports $351M market cap and $78M MEV fees as it dominates Solana infrastructure",
+      "take": "Jito dominates Solana infrastructure with $351M market cap and $78M MEV fees",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vitalik-buterin-unveils-lean-ethereum-roadmap-for-quantum-resistance-by-2029/"
+      "link": "https://cryptobriefing.com/jito-351m-market-cap-78m-mev-fees-solana/"
     },
     {
-      "headline": "Emerging-market traders shift to euro and Australian dollar as US dollar strengthens",
-      "take": "Emerging-market traders shift to euro and aussie dollar as dollar strengthens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-traders-euro-aud-dollar/"
-    },
-    {
-      "headline": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
-      "take": "Barstool's Portnoy plans to hold bitcoin despite repeated timing failures",
+      "headline": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+      "take": "Americans traded $571M on Polymarket political bets despite U.S. ban",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Injective MCP server lets AI agents deploy smart contracts with a simple prompt",
-      "take": "Injective launches MCP server enabling AI agents to deploy smart contracts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-mcp-server-smart-contract-ai-prompts/"
+      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
     },
     {
       "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "take": "Banks now strategizing how stablecoins fit in finance, not whether they belong",
+      "take": "Banks shifting from questioning stablecoins to considering how to integrate them",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
     },
     {
-      "headline": "SK Hynix plans $29B US listing, potentially largest by foreign firm",
-      "take": "SK Hynix plans $29B US listing, potentially largest foreign IPO ever",
+      "headline": "Collateral, not yield, will decide which stablecoins win",
+      "take": "Collateral quality, not yield, will determine which stablecoins survive competition",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win"
+    },
+    {
+      "headline": "US labor force participation rate drops to lowest since December 2023, and crypto markets see opportunity",
+      "take": "Labor market weakness signals macro opportunity amid falling participation rates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-29b-us-nasdaq-listing-3/"
+      "link": "https://cryptobriefing.com/us-labor-participation-rate-drops-crypto-impact/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Avalanche\u2019s Team1 launches Builder Grants program with up to $30,000 per project",
+      "take": "Avalanche Team1 launches Builder Grants offering up to $30K per project",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/avalanche-team1-builder-grants-program/"
+    },
+    {
+      "headline": "Injective MCP server lets AI agents deploy smart contracts with a simple prompt",
+      "take": "Injective MCP server enables AI agents to deploy smart contracts via prompts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-mcp-server-smart-contract-ai-prompts/"
     },
     {
       "headline": "Unitree secures approval for $619M Shanghai IPO to expand AI robotics",
-      "take": "Unitree gets approval for $619M Shanghai IPO to expand AI robotics",
+      "take": "Unitree secures $619M Shanghai IPO approval for AI robotics expansion",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/unitree-619m-shanghai-ipo-ai-robotics/"
-    },
-    {
-      "headline": "South Korea plans investment fund from semiconductor tax revenue worth up to $46 billion",
-      "take": "South Korea plans $46B investment fund from semiconductor tax revenue",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-semiconductor-tax-investment-fund/"
     }
   ],
   "security": [
     {
-      "headline": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
-      "take": "Kalshi and prediction markets face mixed legal battles across United States",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s"
+      "headline": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
+      "take": "Fake Mac Clipboard app distributes new password-stealing malware to users",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware"
+    },
+    {
+      "headline": "Anthropic faces $75M lawsuit for pirating books to train Claude AI",
+      "take": "Anthropic faces $75M lawsuit alleging book piracy to train Claude AI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-75m-lawsuit-pirating-books-claude/"
     }
   ],
   "policy": [
     {
+      "headline": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "take": "Kalshi and prediction markets face mixed legal battles across U.S. jurisdictions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s"
+    },
+    {
       "headline": "South Africa proposes crypto tax guidance under existing framework",
-      "take": "South Africa proposes crypto tax guidance within existing regulatory framework",
+      "take": "South Africa proposes crypto tax guidance under existing regulatory framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

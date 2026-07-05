@@ -1,70 +1,82 @@
 {
-  "generated": "2026-07-05T19:45:46.092855+00:00",
-  "ts": 1783280746,
+  "generated": "2026-07-05T22:15:32.100861+00:00",
+  "ts": 1783289732,
   "market": [
     {
-      "headline": "Bitcoin network activity jumps 9% to over 660,000 active addresses",
-      "take": "Bitcoin network activity jumped nine percent to over 660k active addresses",
+      "headline": "Solana adds 2M new addresses as bullish trend emerges",
+      "take": "Solana added 2 million new addresses amid emerging bullish trend",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-active-addresses-jump-nine-percent/"
+      "link": "https://cryptobriefing.com/solana-new-addresses-bullish-trend/"
     },
     {
-      "headline": "0DTE options hit record 48% of total retail options volume as day-trading culture goes mainstream",
-      "take": "Zero-day-to-expiration options hit record forty-eight percent of retail options volume",
+      "headline": "Foreign appetite for US debt is surging, and that matters for crypto markets",
+      "take": "Foreign appetite for US debt surging, matters for crypto markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/0dte-options-record-retail-volume/"
-    },
-    {
-      "headline": "Collateral, not yield, will decide which stablecoins win",
-      "take": "Collateral composition, not yield generation, will determine stablecoin market winners",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win"
-    },
-    {
-      "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "take": "Banks now consider how stablecoins fit finance, moving past whether they belong",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
+      "link": "https://cryptobriefing.com/foreign-us-debt-purchases-crypto-impact/"
     },
     {
       "headline": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-      "take": "Americans traded five hundred seventy-one million on political prediction market bets",
+      "take": "Americans traded $571 million on Polymarket political bets despite ban",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
+    },
+    {
+      "headline": "Collateral, not yield, will decide which stablecoins win",
+      "take": "Collateral, not yield, will determine which stablecoins succeed long-term",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win"
     }
   ],
   "business": [
     {
-      "headline": "Amazon stops accepting new customers for Mechanical Turk, opening the door for blockchain-based alternatives",
-      "take": "Amazon halts new Mechanical Turk customers, opening space for blockchain alternatives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-mechanical-turk-blockchain-alternatives/"
+      "headline": "Vitalik Buterin says Ethereum\u2019s next rebuild will rival the Merge, and take three to four years",
+      "take": "Ethereum's next major rebuild will rival the Merge, take three to four years",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Foxconn reports 40% quarterly sales jump, driven by cloud and AI server revenue",
-      "take": "Foxconn reports forty percent quarterly sales jump from cloud and AI servers",
+      "headline": "Saudi football\u2019s spending spree is quietly reshaping crypto fan token markets",
+      "take": "Saudi football spending spree quietly reshaping crypto fan token markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/foxconn-quarterly-sales-jump-cloud-ai-revenue/"
+      "link": "https://cryptobriefing.com/saudi-football-transfers-crypto-fan-tokens/"
     },
     {
-      "headline": "Meta\u2019s Watermelon AI model matches OpenAI\u2019s GPT-5.5 benchmarks",
-      "take": "Meta's Watermelon AI model matches OpenAI's GPT-5.5 performance benchmarks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-watermelon-ai-matches-gpt-5-5/"
+      "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "take": "Banks stopped questioning stablecoins in finance, now considering how to use them",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
     }
   ],
   "security": [
     {
+      "headline": "Russian hackers infiltrate UK government emails in cyberattack targeting Foreign Office officials",
+      "take": "Russian hackers infiltrated UK government emails targeting Foreign Office officials",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russian-hackers-uk-government-emails-cyberattack/"
+    },
+    {
       "headline": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-      "take": "Fake Mac Clipboard app delivers new password-stealing malware to users",
+      "take": "Fake Mac clipboard app delivers new password-stealing malware to users",
       "source": "decrypt",
       "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware"
     }
   ],
   "policy": [
     {
+      "headline": "US declines to renew USMCA trade pact with Canada and Mexico, adding uncertainty to $1.6 trillion trade corridor",
+      "take": "US declines to renew USMCA trade pact with Canada and Mexico",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-usmca-trade-pact-not-renewed/"
+    },
+    {
+      "headline": "Trump administration restricts private AI models, boosting open-source and decentralized alternatives",
+      "take": "Trump administration restricts private AI models, boosting decentralized alternatives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-restricts-private-ai-boosts-decentralized/"
+    },
+    {
       "headline": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
-      "take": "Kalshi and prediction market sector face mixed legal battles across United States",
+      "take": "Kalshi and prediction market sector face mixed legal fights across US",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s"
     },
@@ -73,18 +85,6 @@
       "take": "South Africa proposes crypto tax guidance under existing regulatory framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Federal judge orders Pentagon to grant Alibaba reprieve from lobbying law",
-      "take": "Federal judge orders Pentagon to grant Alibaba reprieve from lobbying law",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-pentagon-lobbying-law-reprieve/"
-    },
-    {
-      "headline": "Clarity and Congress's summer break: State of Crypto",
-      "take": "Clarity and Congress's summer break shape current state of crypto policy",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto"
     }
   ]
 }

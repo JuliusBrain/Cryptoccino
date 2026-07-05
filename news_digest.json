@@ -1,78 +1,90 @@
 {
-  "generated": "2026-07-04T22:14:05.095662+00:00",
-  "ts": 1783203245,
+  "generated": "2026-07-05T04:33:33.677433+00:00",
+  "ts": 1783226013,
   "market": [
     {
-      "headline": "Ethereum returns to top 100 global assets as market cap climbs back above $215 billion",
-      "take": "Ethereum market cap climbs back above $215 billion, rejoins top 100 global assets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-returns-top-100-asset-status/"
-    },
-    {
       "headline": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "take": "Bitcoin jumps above $63,000, reversing losses from end of June",
+      "take": "Bitcoin jumps above $63,000, reversing end-June losses",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses"
     },
     {
-      "headline": "Aave\u2019s new Monad market tops $100 million in deposits two days after launch",
-      "take": "Aave's new Monad market surpasses $100 million in deposits within two days",
+      "headline": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
+      "take": "Bitcoin ETFs log record eighth straight negative week despite Thursday inflow",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Why bitcoin's disconnect from record-high stocks won't last",
-      "take": "Bitcoin's disconnect from record-high stocks unlikely to persist long-term",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last"
+      "headline": "Hyperliquid sees $116M net inflows in 24 hours, boosts DeFi liquidity",
+      "take": "Hyperliquid sees $116M net inflows in 24 hours, boosts DeFi liquidity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-sees-116m-net-inflows-in-24-hours-boosts-defi-liquidity/"
+    },
+    {
+      "headline": "France reaches World Cup quarter-finals as crypto prediction markets cross $2B in volume",
+      "take": "Crypto prediction markets cross $2B in volume during World Cup quarterfinals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/france-world-cup-quarter-finals-crypto-prediction-markets/"
+    },
+    {
+      "headline": "Nearly 1 million wallets are down $3.81 billion on Trump\u2019s memecoin: report",
+      "take": "Nearly 1 million wallets down $3.81B on Trump's memecoin",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "BNB Chain launches Agent Studio, letting developers deploy AI agents with a single prompt",
-      "take": "BNB Chain launches Agent Studio for single-prompt AI agent deployment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-agent-studio-launch/"
-    },
-    {
-      "headline": "Tempo daily active users surpass 10K, up over 100% in a month",
-      "take": "Tempo daily active users surpass 10K, grow over 100 percent monthly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tempo-daily-active-users-surpass-10k/"
-    },
-    {
       "headline": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "take": "Tokenization's next use case centers on personalized portfolio management solutions",
+      "take": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says"
+    },
+    {
+      "headline": "Strategy announces Digital Credit Capital Framework, ending its \u2018never sell\u2019 Bitcoin policy",
+      "take": "Strategy announces Digital Credit Capital Framework, ending 'never sell' Bitcoin policy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-digital-credit-capital-framework-bitcoin/"
+    },
+    {
+      "headline": "Esports World Cup 2026 VALORANT kicks off elimination rounds as $75M festival lands in Paris",
+      "take": "Esports World Cup 2026 VALORANT kicks off with $75M festival in Paris",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ewc-valorant-2026-elimination-rounds-paris/"
     }
   ],
   "security": [
     {
       "headline": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "take": "Ethical hackers found critical flaw risking $70 billion in crypto assets",
+      "take": "Ethical hackers found flaw that could've put $70 billion in crypto at risk",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk"
     },
     {
-      "headline": "Nearly 1M wallets lose $4B on Trump\u2019s memecoin",
-      "take": "Nearly one million wallets lose $4 billion on Trump's memecoin",
+      "headline": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
+      "take": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-memecoin-wallets-lose-4-billion/"
+      "link": "https://cryptobriefing.com/aptos-fixes-critical-vulnerability-move-vm/"
     },
     {
       "headline": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-      "take": "Bitcoin experts debate plan to freeze Satoshi's 1.1 million coins against quantum threats",
+      "take": "Bitcoin experts split over plan to freeze Satoshi's 1.1M bitcoin as quantum threat grows",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows"
     }
   ],
   "policy": [
     {
-      "headline": "White House sets record for deregulatory actions with 129-to-1 ratio in semiannual agenda",
-      "take": "White House sets record deregulatory pace with 129-to-1 action ratio in semiannual agenda",
+      "headline": "Iran to charge service fees for ships in Strait of Hormuz, with Bitcoin payments and friendly-nation discounts",
+      "take": "Iran to charge service fees for ships in Strait of Hormuz, accepts Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-deregulatory-record-crypto-impact/"
+      "link": "https://cryptobriefing.com/iran-hormuz-strait-fees-bitcoin-payments/"
+    },
+    {
+      "headline": "Trump offers to mediate Ukraine peace in 90-minute call with Putin",
+      "take": "Trump offers to mediate Ukraine peace in 90-minute call with Putin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-offers-to-mediate-ukraine-peace-in-90-minute-call-with-putin/"
     }
   ]
 }

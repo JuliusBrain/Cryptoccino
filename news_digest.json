@@ -1,90 +1,90 @@
 {
-  "generated": "2026-07-06T11:07:02.667931+00:00",
-  "ts": 1783336022,
+  "generated": "2026-07-06T15:56:20.251824+00:00",
+  "ts": 1783353380,
   "market": [
     {
-      "headline": "Solana ranks No. 2 in global spot crypto trading volume at $12B",
-      "take": "Solana ranks second globally in spot crypto trading volume at twelve billion",
+      "headline": "BitMine Immersion Technologies adds $73M in Ethereum, boosting holdings toward 5% of total supply",
+      "take": "BitMine adds $73M ethereum, shifts strategy away from bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-second-global-spot-crypto-trading-volume/"
+      "link": "https://cryptobriefing.com/bitmine-ethereum-treasury-73m-purchase/"
     },
     {
-      "headline": "Circle mints $3.5B USDC on Solana in a single week as stablecoin demand surges",
-      "take": "Circle mints three point five billion USDC on Solana amid surging stablecoin demand",
+      "headline": "Fed\u2019s Waller signals shift in policy focus as inflation risks rise",
+      "take": "Fed signals policy shift as inflation risks and labor market stabilize",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-usdc-solana-weekly-surge/"
+      "link": "https://cryptobriefing.com/feds-waller-signals-shift-in-policy-focus-as-inflation-risks-rise/"
     },
     {
-      "headline": "\u2018Any signs of life?\u2019 Bernstein holds \u2018ambitious\u2019 $150K year-end bitcoin target despite 54% drawdown",
-      "take": "Bernstein maintains ambitious one hundred fifty thousand dollar year-end bitcoin target",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
-      "take": "Bitcoin's Sharpe Ratio slides to lowest level since twenty twenty-two",
+      "headline": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
+      "take": "Saylor's bitcoin strategy struggles yield significant market losses",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means"
+      "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss"
     },
     {
-      "headline": "Strategy faces critique over Bitcoin valuation as mNAV ratio slips below 1.0",
-      "take": "Bitcoin valuation strategy faces critique as mNAV ratio slips below one point zero",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-bitcoin-valuation-critique-mnav/"
+      "headline": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
+      "take": "Bitcoin mining stocks jump on TeraWulf's major Anthropic data deal",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic"
     }
   ],
   "business": [
     {
-      "headline": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
-      "take": "Ripple upgrades preliminary crypto asset provider license to full compliance in Luxembourg",
+      "headline": "QuickSwap burns 20M QUICK tokens after governance vote passes with near-unanimous support",
+      "take": "QuickSwap governance vote burns 20M tokens with near-unanimous approval",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/quickswap-burns-20m-quick-tokens-governance/"
+    },
+    {
+      "headline": "BNY Mellon tapped as financial agent for Trump Accounts, partners with Robinhood on youth investing program",
+      "take": "BNY Mellon partners with Robinhood on Trump-backed youth investment program",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bny-mellon-robinhood-trump-accounts-treasury/"
+    },
+    {
+      "headline": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
+      "take": "Securitize eyes acquisitions with $400M war chest post-IPO",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant"
+      "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says"
     },
     {
-      "headline": "SK Hynix estimates net proceeds of $28B in massive Nasdaq ADR offering",
-      "take": "SK Hynix estimates twenty-eight billion dollars in net proceeds from Nasdaq offering",
+      "headline": "Broadcom and Apple extend chip supply deal through 2031, signaling long-term semiconductor strategy",
+      "take": "Broadcom and Apple extend chip supply deal through 2031",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-28b-nasdaq-adr-offering/"
+      "link": "https://cryptobriefing.com/broadcom-apple-chip-deal-2031/"
     },
     {
-      "headline": "ZachXBT denies support for unauthorized meme coins, donates $41K to charity",
-      "take": "ZachXBT denies support for unauthorized meme coins, donates forty-one thousand to charity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zachxbt-denies-meme-coins-donates-charity/"
+      "headline": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+      "take": "Ethereum developers embrace Buterin's vision but push faster execution",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution"
     }
   ],
   "security": [
     {
-      "headline": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
-      "take": "DeFi protocol Summer Finance exploited for six million via flash loan attack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss"
+      "headline": "Susquehanna alleges massive insider trading scheme tied to Chinese securities options, claims $70M in losses",
+      "take": "Susquehanna alleges $70M insider trading scheme tied to Chinese securities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/susquehanna-insider-trading-chinese-options/"
     }
   ],
   "policy": [
     {
-      "headline": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
-      "take": "Ripple secures full MiCA CASP authorization for crypto services across thirty EEA countries",
+      "headline": "President Trump says he\u2019s a \u2018big crypto guy,\u2019 while distancing himself from family\u2019s crypto ventures",
+      "take": "Trump claims crypto affinity while distancing from family ventures",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "New UK election funding rules could impact Reform\u2019s Tether billionaire donors",
-      "take": "UK election funding rules could impact Reform Party's Tether billionaire donors",
+      "headline": "SEC chairman Paul Atkins shifts focus to real investor harm under new enforcement strategy",
+      "take": "SEC chairman Atkins shifts enforcement focus to real investor harm",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-election-funding-reform-tether-donors/"
+      "link": "https://cryptobriefing.com/sec-chairman-atkins-investor-protection-enforcement-strategy/"
     },
     {
-      "headline": "South Korea weighs action against Polymarket over gambling concerns",
-      "take": "South Korea weighs action against Polymarket over gambling concerns",
+      "headline": "FCA warns of major shakeup as AI agents meet tokenized money",
+      "take": "FCA warns of major shakeup as AI agents meet tokenized money",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
-      "take": "South Korea develops crypto-specific procedures for asset seizures and liquidation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss"
+      "link": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

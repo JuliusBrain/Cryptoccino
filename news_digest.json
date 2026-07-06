@@ -1,102 +1,90 @@
 {
-  "generated": "2026-07-06T20:16:22.066513+00:00",
-  "ts": 1783368982,
+  "generated": "2026-07-06T22:40:33.598449+00:00",
+  "ts": 1783377633,
   "market": [
     {
       "headline": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
-      "take": "Bitcoin hits highest price in weeks amid analyst optimism on valuations",
+      "take": "Bitcoin reaches highest price in weeks; analysts maintain $150K target",
       "source": "decrypt",
       "link": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target"
     },
     {
-      "headline": "Hyperliquid sets all-time high with $112M in weekly ETF inflows",
-      "take": "Hyperliquid ETF inflows surge to $112M weekly, hitting all-time high",
+      "headline": "JPMorgan\u2019s JLTXX tokenized money market fund surges 250% in a month to nearly $700M",
+      "take": "JPMorgan's tokenized money market fund surges 250% to nearly $700M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-record-112m-weekly-etf-inflows/"
+      "link": "https://cryptobriefing.com/jpmorgan-jltxx-tokenized-money-market-fund-surges-250-percent/"
     },
     {
-      "headline": "Traders turn most positive on US dollar since 2015, and crypto should pay attention",
-      "take": "US dollar sentiment most positive since 2015; crypto traders should monitor closely",
+      "headline": "RWA deposits in DeFi surge 200% year-over-year to $7.4B in Q2 2026",
+      "take": "Real-world asset deposits in DeFi surge 200% year-over-year to $7.4B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/traders-most-positive-us-dollar-since-2015/"
+      "link": "https://cryptobriefing.com/rwa-defi-deposits-surge-200-percent/"
     },
     {
-      "headline": "S&P 500 and NASDAQ close higher as post-holiday rally lifts risk assets",
-      "take": "S&P 500 and NASDAQ rally higher as post-holiday risk appetite strengthens",
+      "headline": "NASDAQ rises on semiconductor momentum as Dow closes above 53,000 for the first time",
+      "take": "NASDAQ rises on semiconductor momentum; Dow closes above 53,000 first time",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-nasdaq-rally-crypto-correlation/"
+      "link": "https://cryptobriefing.com/nasdaq-rises-semiconductor-momentum-dow-53000/"
     },
     {
-      "headline": "New Zealand dollar falls amid hawkish Fed signals, rate hike likely by late 2026",
-      "take": "New Zealand dollar weakens on hawkish Fed signals; rate hike expected late 2026",
+      "headline": "RWA perpetual trading volume surges 20x to $203B in Q2 2026",
+      "take": "Real-world asset perpetual trading volume surges 20x to $203B in Q2",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-zealand-dollar-falls-amid-hawkish-fed-signals-rate-hike-likely-by-late-2026/"
+      "link": "https://cryptobriefing.com/rwa-perpetual-trading-volume-surges-q2-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Securitize bridges traditional finance and DeFi as tokenized assets hit $3.4 billion",
-      "take": "Tokenized assets reach $3.4 billion as Securitize bridges traditional and decentralized finance",
+      "headline": "Chainlink SVR generates $4M in revenue last week, $12M year-to-date",
+      "take": "Chainlink SVR generates $4M in revenue last week, $12M year-to-date",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-bridges-tradfi-defi-tokenization/"
+      "link": "https://cryptobriefing.com/chainlink-svr-revenue-12-million-ytd/"
     },
     {
-      "headline": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
-      "take": "Paradigm leads $5.5M seed for M1X Global's tokenized sovereign debt expansion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Anthropic, OpenAI, SpaceX advance toward IPOs amid market buzz",
-      "take": "Anthropic, OpenAI, SpaceX advance toward IPOs amid strong market appetite",
+      "headline": "Coinbase places GROVE-USD in limit-only mode as Grove Protocol token makes exchange debut",
+      "take": "Coinbase places GROVE-USD in limit-only mode as Grove Protocol debuts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-openai-spacex-advance-toward-ipos-amid-market-buzz/"
+      "link": "https://cryptobriefing.com/coinbase-grove-usd-limit-only-mode/"
     },
     {
-      "headline": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
-      "take": "Yield Guild shuts gaming arm, pivots to AI with 35-person layoff",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot"
-    },
-    {
-      "headline": "Tether\u2019s former CIO plans sale of stake in stablecoin giant",
-      "take": "Tether's former CIO plans to sell stake in stablecoin company",
+      "headline": "Syntiant Corp taps Citigroup, BofA Securities, UBS, and others to underwrite its edge AI IPO",
+      "take": "Syntiant Corp taps major underwriters for edge AI IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-former-cio-stake-sale/"
+      "link": "https://cryptobriefing.com/syntiant-corp-ipo-underwriters-edge-ai/"
     }
   ],
   "security": [
     {
-      "headline": "BonkDAO loses $20 million following \u2018malicious governance proposal\u2019 attack",
-      "take": "BonkDAO loses $20M to malicious governance proposal attack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss"
+      "headline": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
+      "take": "Solana meme coin Bonk treasury drained of $20M in governance attack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million"
     },
     {
-      "headline": "Zscaler researchers identify prompt injection attacks targeting AI agents for crypto payments",
-      "take": "Prompt injection attacks target AI agents seeking crypto payments, researchers warn",
+      "headline": "Merit Systems marked as \u2018Questionable\u2019 on Ethos Network after researcher drained $20K from AI wallet",
+      "take": "Merit Systems marked questionable after researcher drained $20K from AI wallet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zscaler-prompt-injection-ai-agents-crypto/"
+      "link": "https://cryptobriefing.com/merit-systems-questionable-ethos-exploit/"
     }
   ],
   "policy": [
     {
       "headline": "President Trump\u2019s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
-      "take": "Trump's strategic Bitcoin reserve faces legal and jurisdictional complications",
+      "take": "Trump's strategic bitcoin reserve hits legal and jurisdictional hurdles",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407356/trump-strategic-bitcoin-reserve-hits-legal-jurisdictional-snag-bloomberg?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "The White House is still figuring out how a Strategic Bitcoin Reserve actually works",
-      "take": "White House still working through mechanics of implementing a Strategic Bitcoin Reserve",
+      "headline": "Investor groups urge SEC to maintain mandatory quarterly reports",
+      "take": "Investor groups urge SEC to maintain mandatory quarterly reports",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-strategic-bitcoin-reserve-structure/"
+      "link": "https://cryptobriefing.com/sec-quarterly-reports-investor-opposition/"
     },
     {
-      "headline": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
-      "take": "Judge revives fraud claim against Barry Silbert and DCG in Genesis Yield suit",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss"
+      "headline": "ByteDance, Alibaba, and Tencent pull custom AI agent features as China\u2019s emotional AI rules kick in",
+      "take": "ByteDance, Alibaba, Tencent pull AI agent features as China enforces emotional AI rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bytedance-alibaba-china-emotional-ai-crackdown/"
     }
   ]
 }

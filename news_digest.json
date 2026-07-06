@@ -1,78 +1,90 @@
 {
-  "generated": "2026-07-06T04:44:08.754338+00:00",
-  "ts": 1783313048,
+  "generated": "2026-07-06T11:07:02.667931+00:00",
+  "ts": 1783336022,
   "market": [
     {
-      "headline": "US stock market hits record $81T, now accounts for 48% of global market cap",
-      "take": "US stock market hits record $81T, now 48% of global cap",
+      "headline": "Solana ranks No. 2 in global spot crypto trading volume at $12B",
+      "take": "Solana ranks second globally in spot crypto trading volume at twelve billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-stock-market-record-81-trillion-global-cap/"
+      "link": "https://cryptobriefing.com/solana-second-global-spot-crypto-trading-volume/"
     },
     {
-      "headline": "Goldman Sachs forecasts yen to weaken to 165 per dollar in a year, signaling trouble for risk assets",
-      "take": "Goldman Sachs forecasts yen weakens to 165 per dollar within year",
+      "headline": "Circle mints $3.5B USDC on Solana in a single week as stablecoin demand surges",
+      "take": "Circle mints three point five billion USDC on Solana amid surging stablecoin demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-yen-165-dollar-forecast/"
+      "link": "https://cryptobriefing.com/circle-mints-usdc-solana-weekly-surge/"
     },
     {
-      "headline": "Trump\u2019s memecoin holders lose over $4B as Nansen data reveals brutal wealth transfer",
-      "take": "Trump memecoin holders lose over $4B in brutal wealth transfer",
+      "headline": "\u2018Any signs of life?\u2019 Bernstein holds \u2018ambitious\u2019 $150K year-end bitcoin target despite 54% drawdown",
+      "take": "Bernstein maintains ambitious one hundred fifty thousand dollar year-end bitcoin target",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
+      "take": "Bitcoin's Sharpe Ratio slides to lowest level since twenty twenty-two",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means"
+    },
+    {
+      "headline": "Strategy faces critique over Bitcoin valuation as mNAV ratio slips below 1.0",
+      "take": "Bitcoin valuation strategy faces critique as mNAV ratio slips below one point zero",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-memecoin-holders-lose-4b-nansen/"
+      "link": "https://cryptobriefing.com/strategy-bitcoin-valuation-critique-mnav/"
     }
   ],
   "business": [
     {
-      "headline": "Vitalik Buterin says Ethereum\u2019s next rebuild will rival the Merge, and take three to four years",
-      "take": "Ethereum's next rebuild will rival Merge, take three to four years",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss"
+      "headline": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+      "take": "Ripple upgrades preliminary crypto asset provider license to full compliance in Luxembourg",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant"
     },
     {
-      "headline": "World Cup 2026 meets crypto: what July 6 matches mean for fan tokens and Kraken\u2019s historic FIFA deal",
-      "take": "World Cup 2026 crypto sponsorships test fan tokens and Kraken deal",
+      "headline": "SK Hynix estimates net proceeds of $28B in massive Nasdaq ADR offering",
+      "take": "SK Hynix estimates twenty-eight billion dollars in net proceeds from Nasdaq offering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-2026-crypto-fan-tokens-kraken-5/"
+      "link": "https://cryptobriefing.com/sk-hynix-28b-nasdaq-adr-offering/"
     },
     {
-      "headline": "Anthropic CEO says 100 million word context windows are technically feasible, and the implications for AI-crypto convergence are worth watching",
-      "take": "Anthropic CEO confirms 100M word context windows technically feasible now",
+      "headline": "ZachXBT denies support for unauthorized meme coins, donates $41K to charity",
+      "take": "ZachXBT denies support for unauthorized meme coins, donates forty-one thousand to charity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-100-million-word-context-window/"
-    },
-    {
-      "headline": "ByteDance, Alibaba disable AI companion features ahead of new Chinese regulations",
-      "take": "ByteDance and Alibaba disable AI companions ahead Chinese regulations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bytedance-alibaba-disable-ai-companion-china-regulations/"
+      "link": "https://cryptobriefing.com/zachxbt-denies-meme-coins-donates-charity/"
     }
   ],
   "security": [
     {
-      "headline": "Coinbase CEO Brian Armstrong investigates AI-generated World Cup error",
-      "take": "Coinbase CEO investigates AI-generated World Cup error incident",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-ai-world-cup-error/"
-    },
-    {
-      "headline": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
-      "take": "Nigel Farage failed to declare crypto gambling figure funding",
+      "headline": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
+      "take": "DeFi protocol Summer Finance exploited for six million via flash loan attack",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Central bankers sound alarms over agentic AI finance risks",
-      "take": "Central bankers warn of agentic AI finance risks to stability",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+      "take": "Ripple secures full MiCA CASP authorization for crypto services across thirty EEA countries",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
-      "take": "Dubai leads Asian crypto hubs; Taiwan passes new crypto laws",
+      "headline": "New UK election funding rules could impact Reform\u2019s Tether billionaire donors",
+      "take": "UK election funding rules could impact Reform Party's Tether billionaire donors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-election-funding-reform-tether-donors/"
+    },
+    {
+      "headline": "South Korea weighs action against Polymarket over gambling concerns",
+      "take": "South Korea weighs action against Polymarket over gambling concerns",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
+      "take": "South Korea develops crypto-specific procedures for asset seizures and liquidation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss"
     }
   ]
 }

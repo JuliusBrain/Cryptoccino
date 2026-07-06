@@ -1,90 +1,102 @@
 {
-  "generated": "2026-07-06T15:56:20.251824+00:00",
-  "ts": 1783353380,
+  "generated": "2026-07-06T20:16:22.066513+00:00",
+  "ts": 1783368982,
   "market": [
     {
-      "headline": "BitMine Immersion Technologies adds $73M in Ethereum, boosting holdings toward 5% of total supply",
-      "take": "BitMine adds $73M ethereum, shifts strategy away from bitcoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmine-ethereum-treasury-73m-purchase/"
-    },
-    {
-      "headline": "Fed\u2019s Waller signals shift in policy focus as inflation risks rise",
-      "take": "Fed signals policy shift as inflation risks and labor market stabilize",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-waller-signals-shift-in-policy-focus-as-inflation-risks-rise/"
-    },
-    {
-      "headline": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
-      "take": "Saylor's bitcoin strategy struggles yield significant market losses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss"
-    },
-    {
-      "headline": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
-      "take": "Bitcoin mining stocks jump on TeraWulf's major Anthropic data deal",
+      "headline": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
+      "take": "Bitcoin hits highest price in weeks amid analyst optimism on valuations",
       "source": "decrypt",
-      "link": "https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic"
+      "link": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target"
+    },
+    {
+      "headline": "Hyperliquid sets all-time high with $112M in weekly ETF inflows",
+      "take": "Hyperliquid ETF inflows surge to $112M weekly, hitting all-time high",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-record-112m-weekly-etf-inflows/"
+    },
+    {
+      "headline": "Traders turn most positive on US dollar since 2015, and crypto should pay attention",
+      "take": "US dollar sentiment most positive since 2015; crypto traders should monitor closely",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/traders-most-positive-us-dollar-since-2015/"
+    },
+    {
+      "headline": "S&P 500 and NASDAQ close higher as post-holiday rally lifts risk assets",
+      "take": "S&P 500 and NASDAQ rally higher as post-holiday risk appetite strengthens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-nasdaq-rally-crypto-correlation/"
+    },
+    {
+      "headline": "New Zealand dollar falls amid hawkish Fed signals, rate hike likely by late 2026",
+      "take": "New Zealand dollar weakens on hawkish Fed signals; rate hike expected late 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-zealand-dollar-falls-amid-hawkish-fed-signals-rate-hike-likely-by-late-2026/"
     }
   ],
   "business": [
     {
-      "headline": "QuickSwap burns 20M QUICK tokens after governance vote passes with near-unanimous support",
-      "take": "QuickSwap governance vote burns 20M tokens with near-unanimous approval",
+      "headline": "Securitize bridges traditional finance and DeFi as tokenized assets hit $3.4 billion",
+      "take": "Tokenized assets reach $3.4 billion as Securitize bridges traditional and decentralized finance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quickswap-burns-20m-quick-tokens-governance/"
+      "link": "https://cryptobriefing.com/securitize-bridges-tradfi-defi-tokenization/"
     },
     {
-      "headline": "BNY Mellon tapped as financial agent for Trump Accounts, partners with Robinhood on youth investing program",
-      "take": "BNY Mellon partners with Robinhood on Trump-backed youth investment program",
+      "headline": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
+      "take": "Paradigm leads $5.5M seed for M1X Global's tokenized sovereign debt expansion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Anthropic, OpenAI, SpaceX advance toward IPOs amid market buzz",
+      "take": "Anthropic, OpenAI, SpaceX advance toward IPOs amid strong market appetite",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bny-mellon-robinhood-trump-accounts-treasury/"
+      "link": "https://cryptobriefing.com/anthropic-openai-spacex-advance-toward-ipos-amid-market-buzz/"
     },
     {
-      "headline": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-      "take": "Securitize eyes acquisitions with $400M war chest post-IPO",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says"
+      "headline": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
+      "take": "Yield Guild shuts gaming arm, pivots to AI with 35-person layoff",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot"
     },
     {
-      "headline": "Broadcom and Apple extend chip supply deal through 2031, signaling long-term semiconductor strategy",
-      "take": "Broadcom and Apple extend chip supply deal through 2031",
+      "headline": "Tether\u2019s former CIO plans sale of stake in stablecoin giant",
+      "take": "Tether's former CIO plans to sell stake in stablecoin company",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/broadcom-apple-chip-deal-2031/"
-    },
-    {
-      "headline": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
-      "take": "Ethereum developers embrace Buterin's vision but push faster execution",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution"
+      "link": "https://cryptobriefing.com/tether-former-cio-stake-sale/"
     }
   ],
   "security": [
     {
-      "headline": "Susquehanna alleges massive insider trading scheme tied to Chinese securities options, claims $70M in losses",
-      "take": "Susquehanna alleges $70M insider trading scheme tied to Chinese securities",
+      "headline": "BonkDAO loses $20 million following \u2018malicious governance proposal\u2019 attack",
+      "take": "BonkDAO loses $20M to malicious governance proposal attack",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Zscaler researchers identify prompt injection attacks targeting AI agents for crypto payments",
+      "take": "Prompt injection attacks target AI agents seeking crypto payments, researchers warn",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/susquehanna-insider-trading-chinese-options/"
+      "link": "https://cryptobriefing.com/zscaler-prompt-injection-ai-agents-crypto/"
     }
   ],
   "policy": [
     {
-      "headline": "President Trump says he\u2019s a \u2018big crypto guy,\u2019 while distancing himself from family\u2019s crypto ventures",
-      "take": "Trump claims crypto affinity while distancing from family ventures",
+      "headline": "President Trump\u2019s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
+      "take": "Trump's strategic Bitcoin reserve faces legal and jurisdictional complications",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407356/trump-strategic-bitcoin-reserve-hits-legal-jurisdictional-snag-bloomberg?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "SEC chairman Paul Atkins shifts focus to real investor harm under new enforcement strategy",
-      "take": "SEC chairman Atkins shifts enforcement focus to real investor harm",
+      "headline": "The White House is still figuring out how a Strategic Bitcoin Reserve actually works",
+      "take": "White House still working through mechanics of implementing a Strategic Bitcoin Reserve",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-chairman-atkins-investor-protection-enforcement-strategy/"
+      "link": "https://cryptobriefing.com/white-house-strategic-bitcoin-reserve-structure/"
     },
     {
-      "headline": "FCA warns of major shakeup as AI agents meet tokenized money",
-      "take": "FCA warns of major shakeup as AI agents meet tokenized money",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
+      "take": "Judge revives fraud claim against Barry Silbert and DCG in Genesis Yield suit",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss"
     }
   ]
 }

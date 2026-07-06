@@ -1,90 +1,78 @@
 {
-  "generated": "2026-07-05T22:15:32.100861+00:00",
-  "ts": 1783289732,
+  "generated": "2026-07-06T04:44:08.754338+00:00",
+  "ts": 1783313048,
   "market": [
     {
-      "headline": "Solana adds 2M new addresses as bullish trend emerges",
-      "take": "Solana added 2 million new addresses amid emerging bullish trend",
+      "headline": "US stock market hits record $81T, now accounts for 48% of global market cap",
+      "take": "US stock market hits record $81T, now 48% of global cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-new-addresses-bullish-trend/"
+      "link": "https://cryptobriefing.com/us-stock-market-record-81-trillion-global-cap/"
     },
     {
-      "headline": "Foreign appetite for US debt is surging, and that matters for crypto markets",
-      "take": "Foreign appetite for US debt surging, matters for crypto markets",
+      "headline": "Goldman Sachs forecasts yen to weaken to 165 per dollar in a year, signaling trouble for risk assets",
+      "take": "Goldman Sachs forecasts yen weakens to 165 per dollar within year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/foreign-us-debt-purchases-crypto-impact/"
+      "link": "https://cryptobriefing.com/goldman-sachs-yen-165-dollar-forecast/"
     },
     {
-      "headline": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-      "take": "Americans traded $571 million on Polymarket political bets despite ban",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban"
-    },
-    {
-      "headline": "Collateral, not yield, will decide which stablecoins win",
-      "take": "Collateral, not yield, will determine which stablecoins succeed long-term",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win"
+      "headline": "Trump\u2019s memecoin holders lose over $4B as Nansen data reveals brutal wealth transfer",
+      "take": "Trump memecoin holders lose over $4B in brutal wealth transfer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-memecoin-holders-lose-4b-nansen/"
     }
   ],
   "business": [
     {
       "headline": "Vitalik Buterin says Ethereum\u2019s next rebuild will rival the Merge, and take three to four years",
-      "take": "Ethereum's next major rebuild will rival the Merge, take three to four years",
+      "take": "Ethereum's next rebuild will rival Merge, take three to four years",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Saudi football\u2019s spending spree is quietly reshaping crypto fan token markets",
-      "take": "Saudi football spending spree quietly reshaping crypto fan token markets",
+      "headline": "World Cup 2026 meets crypto: what July 6 matches mean for fan tokens and Kraken\u2019s historic FIFA deal",
+      "take": "World Cup 2026 crypto sponsorships test fan tokens and Kraken deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saudi-football-transfers-crypto-fan-tokens/"
+      "link": "https://cryptobriefing.com/world-cup-2026-crypto-fan-tokens-kraken-5/"
     },
     {
-      "headline": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "take": "Banks stopped questioning stablecoins in finance, now considering how to use them",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
+      "headline": "Anthropic CEO says 100 million word context windows are technically feasible, and the implications for AI-crypto convergence are worth watching",
+      "take": "Anthropic CEO confirms 100M word context windows technically feasible now",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-100-million-word-context-window/"
+    },
+    {
+      "headline": "ByteDance, Alibaba disable AI companion features ahead of new Chinese regulations",
+      "take": "ByteDance and Alibaba disable AI companions ahead Chinese regulations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bytedance-alibaba-disable-ai-companion-china-regulations/"
     }
   ],
   "security": [
     {
-      "headline": "Russian hackers infiltrate UK government emails in cyberattack targeting Foreign Office officials",
-      "take": "Russian hackers infiltrated UK government emails targeting Foreign Office officials",
+      "headline": "Coinbase CEO Brian Armstrong investigates AI-generated World Cup error",
+      "take": "Coinbase CEO investigates AI-generated World Cup error incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russian-hackers-uk-government-emails-cyberattack/"
+      "link": "https://cryptobriefing.com/coinbase-ai-world-cup-error/"
     },
     {
-      "headline": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-      "take": "Fake Mac clipboard app delivers new password-stealing malware to users",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware"
+      "headline": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
+      "take": "Nigel Farage failed to declare crypto gambling figure funding",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "US declines to renew USMCA trade pact with Canada and Mexico, adding uncertainty to $1.6 trillion trade corridor",
-      "take": "US declines to renew USMCA trade pact with Canada and Mexico",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-usmca-trade-pact-not-renewed/"
-    },
-    {
-      "headline": "Trump administration restricts private AI models, boosting open-source and decentralized alternatives",
-      "take": "Trump administration restricts private AI models, boosting decentralized alternatives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-restricts-private-ai-boosts-decentralized/"
-    },
-    {
-      "headline": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
-      "take": "Kalshi and prediction market sector face mixed legal fights across US",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s"
-    },
-    {
-      "headline": "South Africa proposes crypto tax guidance under existing framework",
-      "take": "South Africa proposes crypto tax guidance under existing regulatory framework",
+      "headline": "Central bankers sound alarms over agentic AI finance risks",
+      "take": "Central bankers warn of agentic AI finance risks to stability",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
+      "take": "Dubai leads Asian crypto hubs; Taiwan passes new crypto laws",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

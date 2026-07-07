@@ -1,102 +1,114 @@
 {
-  "generated": "2026-07-07T20:17:57.865213+00:00",
-  "ts": 1783455477,
+  "generated": "2026-07-07T22:33:01.986780+00:00",
+  "ts": 1783463581,
   "market": [
     {
-      "headline": "Nasdaq falls sharply as chip stocks decline, dragging Dow and crypto markets lower",
-      "take": "Nasdaq chip stocks decline sharply, dragging broader crypto markets lower",
+      "headline": "Oil prices drop to $60s amid China\u2019s real estate crisis, weak global demand",
+      "take": "Oil prices fall to $60s as China real estate crisis pressures global demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-falls-chip-stocks-decline-crypto/"
+      "link": "https://cryptobriefing.com/oil-prices-drop-to-60s-amid-chinas-real-estate-crisis-weak-global-demand/"
     },
     {
-      "headline": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
-      "take": "Bitcoin reaches highest price in weeks amid expected relief rally",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks"
-    },
-    {
-      "headline": "Polygon achieves record 7.5M weekly transactions as stablecoin strategy gains traction",
-      "take": "Polygon records 7.5M weekly transactions as stablecoin strategy gains momentum",
+      "headline": "Bitmine buys ETH as Ether approaches $2K amid Robinhood L2 boost",
+      "take": "Bitmine buys ETH as Ether approaches $2K amid Robinhood L2 expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-record-weekly-transactions/"
+      "link": "https://cryptobriefing.com/bitmine-buys-eth-robinhood-l2-boost/"
     },
     {
-      "headline": "Tether\u2019s USDT dominates payments while Circle\u2019s USDC leads DeFi, Dune data shows",
-      "take": "USDT dominates payments while USDC leads DeFi across crypto ecosystem",
+      "headline": "Highflying chip stocks lose momentum as semiconductor sell-off rattles markets",
+      "take": "Semiconductor sell-off rattles markets as highflying chip stocks lose momentum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdt-payments-usdc-defi-dune-analysis/"
+      "link": "https://cryptobriefing.com/chip-stocks-lose-momentum-semiconductor-sell-off/"
     },
     {
-      "headline": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
-      "take": "Zcash jumps twelve percent nearing mathematical proof against counterfeit bugs",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss"
+      "headline": "BIS warns AI-driven selloff could quickly spread to credit markets and squeeze smaller firms",
+      "take": "BIS warns AI-driven selloff could spread to credit markets, squeeze smaller firms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bis-warns-ai-selloff-credit-markets/"
+    },
+    {
+      "headline": "Apple closes valuation gap with Nvidia in race for largest US company",
+      "take": "Apple closes valuation gap with Nvidia in race for largest US company",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-nvidia-valuation-gap-largest-us-company/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood reports $377B in assets on platform, highlights Morpho integration for new lending product",
-      "take": "Robinhood reports $377B in assets, launches Morpho integration for lending",
+      "headline": "Tether invests $20M in Mercado Bitcoin to expand stablecoin footprint across Latin America",
+      "take": "Tether invests $20M in Mercado Bitcoin to expand stablecoin footprint in Latin America",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-377b-assets-morpho-integration/"
+      "link": "https://cryptobriefing.com/tether-invests-20m-mercado-bitcoin-latin-america/"
     },
     {
-      "headline": "Kraken seeks banking license in Europe as regulatory push expands",
-      "take": "Kraken seeks European banking license as regulatory push expands globally",
+      "headline": "Robinhood aims to boost tokenized stock market cap as US equity access expands globally",
+      "take": "Robinhood boosts tokenized stock market cap as US equity access expands globally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-banking-license-lithuania-europe/"
+      "link": "https://cryptobriefing.com/robinhood-tokenized-stock-market-cap/"
     },
     {
-      "headline": "BitGo launches electronic trading in Dubai, deepening its institutional crypto push across MENA",
-      "take": "BitGo launches electronic trading in Dubai, expanding institutional presence in MENA",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-electronic-trading-dubai-institutional-crypto/"
-    },
-    {
-      "headline": "SBI Holdings is sole investor in crypto platform EDX Markets\u2019 $76 million Series C",
-      "take": "SBI Holdings sole investor in EDX Markets' $76M Series C funding round",
+      "headline": "Jack Mallers\u2019 Strike launches \u2018volatility-proof\u2019 bitcoin loans built to protect against liquidation",
+      "take": "Strike launches volatility-proof bitcoin loans designed to protect against liquidation",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Radar Chat wants to make sending Bitcoin as easy as texting your group chat",
-      "take": "Radar Chat aims to simplify Bitcoin sending through text-like interface",
+      "headline": "Claynosaurz launches equity shares eligibility checker for NFT holders",
+      "take": "Claynosaurz launches equity shares eligibility checker for NFT holders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/radar-chat-bitcoin-lightning-messaging/"
+      "link": "https://cryptobriefing.com/claynosaurz-equity-shares-nft-holders/"
+    },
+    {
+      "headline": "Ondo Perps launches equity perpetual futures trading with ONDO token hovering near $0.33",
+      "take": "Ondo Perps launches equity perpetual futures trading with ONDO token near $0.33",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ondo-perps-equity-perpetual-futures-launch/"
     }
   ],
   "security": [
     {
-      "headline": "CFTC charges North Carolina commodity pool operator with $14M fraud scheme involving crypto assets",
-      "take": "CFTC charges North Carolina operator with $14M crypto asset fraud scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-charges-north-carolina-commodity-pool-fraud/"
+      "headline": "Kraken wins $22 million arbitration against auditor Mazars for ditching the firm during Operation Choke Point 2.0",
+      "take": "Kraken wins $22M arbitration against auditor Mazars over Operation Choke Point 2.0",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
-      "take": "Kenya's regulator seeks blockchain tool to track and combat crypto crime",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime"
+      "headline": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
+      "take": "CFTC charges North Carolina man over alleged $14M crypto and futures fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "BIG3 faces lawsuit from NFT buyers over alleged unfulfilled promises of team ownership",
+      "take": "BIG3 faces lawsuit from NFT buyers over alleged unfulfilled team ownership promises",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/big3-nft-lawsuit-unfulfilled-promises/"
     }
   ],
   "policy": [
     {
-      "headline": "New Hampshire to vote on world\u2019s first bitcoin-backed municipal bond",
-      "take": "New Hampshire votes on world's first bitcoin-backed municipal bond issuance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-hampshire-to-vote-on-worlds-first-bitcoin-backed-municipal-bond/"
+      "headline": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
+      "take": "SEC's long-promised crypto safe harbor expected to be introduced this month",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month"
     },
     {
-      "headline": "China\u2019s rare ballistic missile test sends ripple through risk markets",
-      "take": "China ballistic missile test sends ripple through risk markets and geopolitics",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-ballistic-missile-test-crypto-risk/"
+      "headline": "SEC crypto rule changes are high on its 2026 agenda",
+      "take": "SEC crypto rule changes are high on its 2026 regulatory agenda",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-crypto-rule-changes-2026-agenda?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US revokes Iran oil waivers after attacks in Strait of Hormuz",
-      "take": "US revokes Iran oil waivers after attacks in Strait of Hormuz",
+      "headline": "Andrew Cuomo questions whether lawmakers should trade crypto while writing its rules",
+      "take": "Andrew Cuomo questions whether lawmakers should trade crypto while writing its rules",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-revokes-iran-oil-waivers-after-attacks-in-strait-of-hormuz/"
+      "link": "https://cryptobriefing.com/cuomo-crypto-legislation-conflicts/"
+    },
+    {
+      "headline": "New Hampshire lawmakers to hold hearing on $100M Bitcoin bonds",
+      "take": "New Hampshire lawmakers to hold hearing on $100M Bitcoin bond issuance",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/new-hampshire-hearing-bitcoin-bond?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

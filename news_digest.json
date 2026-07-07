@@ -1,78 +1,72 @@
 {
-  "generated": "2026-07-07T04:18:52.627553+00:00",
-  "ts": 1783397932,
+  "generated": "2026-07-07T10:03:16.187538+00:00",
+  "ts": 1783418596,
   "market": [
     {
-      "headline": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
-      "take": "Bitcoin reaches multi-week high as analysts maintain $150k target",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target"
+      "headline": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+      "take": "Bitcoin's recent macro gains face headwinds from rising Japanese interest rates",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates"
     },
     {
-      "headline": "Spot gold falls nearly 1% to $4,123.49 amid strong US dollar, Fed pressure",
-      "take": "Spot gold falls nearly 1% to $4,123 amid strong dollar pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-gold-falls-nearly-1-to-412349-amid-strong-us-dollar-fed-pressure/"
+      "headline": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+      "take": "Bitcoin retreats from $64k run despite large Strategy bitcoin sale volume",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale"
     },
     {
-      "headline": "Asian tech stocks slump as investors lock in profits after Samsung\u2019s monster run",
-      "take": "Asian tech stocks slide as investors book profits after Samsung rally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asian-tech-stocks-slump-samsung-profit-taking/"
+      "headline": "Binance taps into Bitcoin holders\u2019 hunger for yield with new covered call yield play",
+      "take": "Binance launches covered call yield product targeting bitcoin holder demand",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play"
     },
     {
-      "headline": "Grayscale says Strategy\u2019s recent bitcoin sales should restore confidence in its financing structure",
-      "take": "Grayscale bitcoin sales aim to restore confidence in fund structure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss"
+      "headline": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+      "take": "Bitcoin and ether ETFs saw inflows Monday amid broader market moves",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday"
     }
   ],
   "business": [
     {
-      "headline": "Tether\u2019s Former CIO Plans Sale of Stake in Stablecoin Giant",
-      "take": "Tether's former CIO plans to sell stake in stablecoin issuer",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/tether-s-former-cio-plans-sale-of-stake-in-stablecoin-giant"
+      "headline": "Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+      "take": "Galaxy converts bitcoin mining facility to AI hub serving CoreWeave infrastructure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
-      "take": "ByteDance and Alibaba remove AI agent features amid China crackdown",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai"
+      "headline": "Tether\u2019s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
+      "take": "Tether's former CIO seeks buyers for significant stake in stablecoin firm",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Chinese firms shift from Nvidia to domestic silicon amid US tensions",
-      "take": "Chinese firms shift from Nvidia to domestic semiconductors amid tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-domestic-chips-nvidia-market-share/"
-    },
-    {
-      "headline": "People\u2019s Bank of China expands investment channels with Hong Kong to promote yuan use",
-      "take": "People's Bank of China expands investment channels with Hong Kong",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pboc-hong-kong-yuan-investment-channels/"
+      "headline": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
+      "take": "Upbit-Naver crypto stock swap delayed again over South Korea regulatory concerns",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
-      "take": "Solana's Bonk token treasury drained $20 million in governance attack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million"
+      "headline": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "take": "Bonk protocol loses $20 million treasury after malicious proposal exploit succeeds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal"
+    },
+    {
+      "headline": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
+      "take": "Two traders sue Polymarket over disputed bitcoin sale market resolution outcome",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
       "headline": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-      "take": "US Bitcoin reserve stalled as federal agencies debate control authority",
+      "take": "US federal agencies debate control and structure of proposed strategic bitcoin reserve",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Le Pen faces crucial EU fraud appeal verdict, Bardella poised for 2027 run",
-      "take": "Le Pen faces crucial EU fraud appeal verdict in political timeline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/le-pen-faces-crucial-eu-fraud-appeal-verdict-bardella-poised-for-2027-run/"
     }
   ]
 }

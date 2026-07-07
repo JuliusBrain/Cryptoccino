@@ -1,72 +1,108 @@
 {
-  "generated": "2026-07-07T10:03:16.187538+00:00",
-  "ts": 1783418596,
+  "generated": "2026-07-07T15:18:57.788795+00:00",
+  "ts": 1783437537,
   "market": [
     {
-      "headline": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
-      "take": "Bitcoin's recent macro gains face headwinds from rising Japanese interest rates",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates"
+      "headline": "Bitcoin, Ethereum exchange supplies hit historic lows since 2017, 2015",
+      "take": "Bitcoin and Ethereum exchange reserves hit multi-year lows, suggesting reduced selling pressure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-exchange-supplies-hit-historic-lows-since-2017-2015/"
     },
     {
-      "headline": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
-      "take": "Bitcoin retreats from $64k run despite large Strategy bitcoin sale volume",
+      "headline": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
+      "take": "Japanese firms diversifying treasuries into Bitcoin and XRP amid weak yen conditions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale"
+      "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification"
     },
     {
-      "headline": "Binance taps into Bitcoin holders\u2019 hunger for yield with new covered call yield play",
-      "take": "Binance launches covered call yield product targeting bitcoin holder demand",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play"
+      "headline": "OMFIF survey shows central banks planning to cut US Dollar exposure for first time ever",
+      "take": "Central banks planning first-ever reduction in US Dollar exposure according to OMFIF survey",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/omfif-central-banks-reduce-dollar-exposure/"
     },
     {
-      "headline": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
-      "take": "Bitcoin and ether ETFs saw inflows Monday amid broader market moves",
+      "headline": "AI trade loses steam as infrastructure boom faces reality check",
+      "take": "AI infrastructure boom faces reality check as trade momentum loses steam",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday"
+      "link": "https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check"
+    },
+    {
+      "headline": "Americans expect higher inflation driven by medical care, rent: Fed survey",
+      "take": "Fed survey shows Americans expect higher inflation driven by medical and housing costs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/americans-expect-higher-inflation-driven-by-medical-care-rent-fed-survey/"
     }
   ],
   "business": [
     {
-      "headline": "Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
-      "take": "Galaxy converts bitcoin mining facility to AI hub serving CoreWeave infrastructure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss"
+      "headline": "Weekly active users on Robinhood Chain surpass 100K as Layer-2 gains rapid traction",
+      "take": "Robinhood Chain Layer-2 network crosses 100K weekly active users with rapid adoption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-weekly-active-users-100k/"
     },
     {
-      "headline": "Tether\u2019s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
-      "take": "Tether's former CIO seeks buyers for significant stake in stablecoin firm",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss"
+      "headline": "EDX Markets raises $76 million in funding round led by SBI Holdings",
+      "take": "EDX Markets raises $76 million funding led by SBI Holdings for digital assets infrastructure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings"
     },
     {
-      "headline": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
-      "take": "Upbit-Naver crypto stock swap delayed again over South Korea regulatory concerns",
+      "headline": "Gemini offers 0% stock trading in US as it looks to become \u2018all-in-one financial super app\u2019",
+      "take": "Gemini launches zero-percent stock trading in US, pursuing all-in-one financial app strategy",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
+      "take": "Coinbase wins UK license to offer stocks and derivatives alongside cryptocurrency services",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto"
+    },
+    {
+      "headline": "Arcus secures investment from Robinhood Crypto, joins Robinhood Chain ecosystem",
+      "take": "Arcus secures Robinhood Crypto investment, expands presence on Robinhood Chain ecosystem",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arcus-robinhood-crypto-investment-chain-ecosystem/"
     }
   ],
   "security": [
     {
-      "headline": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-      "take": "Bonk protocol loses $20 million treasury after malicious proposal exploit succeeds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal"
+      "headline": "Zcash turns to formal verification to prevent undetectable counterfeiting bugs",
+      "take": "Zcash adopts formal verification methods to prevent undetectable counterfeiting vulnerabilities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zcash-ironwood-formal-verification-prevent-undetectable-counterfeiting-bugs/"
     },
     {
-      "headline": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
-      "take": "Two traders sue Polymarket over disputed bitcoin sale market resolution outcome",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss"
+      "headline": "$470B of Bitcoin at risk from advancing quantum computing",
+      "take": "Four hundred seventy billion dollars of Bitcoin potentially at risk from quantum computing advances",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-quantum-computing-risk-470-billion/"
+    },
+    {
+      "headline": "AI startup CEO pleads guilty to insider trading using tips from lawyers",
+      "take": "AI startup CEO pleads guilty to insider trading using confidential tips from lawyers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-startup-ceo-insider-trading-guilty-plea/"
     }
   ],
   "policy": [
     {
-      "headline": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-      "take": "US federal agencies debate control and structure of proposed strategic bitcoin reserve",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "European Union proposes sustainability rating system for data centers, and crypto miners should pay attention",
+      "take": "EU proposes sustainability rating system for data centers affecting crypto mining operations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-data-center-sustainability-rating-crypto/"
+    },
+    {
+      "headline": "Chinese authorities meet with top tech firms to discuss AI access restrictions",
+      "take": "Chinese authorities meet tech firms to discuss potential AI access restrictions and controls",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-ai-access-restrictions-tech-firms/"
+    },
+    {
+      "headline": "Coinbase co-founder Brian Armstrong wants investors to pass a financial literacy test instead of a wealth check",
+      "take": "Coinbase co-founder proposes financial literacy test requirement instead of wealth verification",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/armstrong-financial-literacy-test-accredited-investor/"
     }
   ]
 }

@@ -1,114 +1,102 @@
 {
-  "generated": "2026-07-07T17:29:40.003695+00:00",
-  "ts": 1783445380,
+  "generated": "2026-07-07T20:17:57.865213+00:00",
+  "ts": 1783455477,
   "market": [
     {
-      "headline": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-      "take": "SpaceX IPO drove tokenized equities trading to $3.86 billion in June",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june"
+      "headline": "Nasdaq falls sharply as chip stocks decline, dragging Dow and crypto markets lower",
+      "take": "Nasdaq chip stocks decline sharply, dragging broader crypto markets lower",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nasdaq-falls-chip-stocks-decline-crypto/"
     },
     {
       "headline": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
-      "take": "Bitcoin rally relief expected as price touches multi-week highs",
+      "take": "Bitcoin reaches highest price in weeks amid expected relief rally",
       "source": "decrypt",
       "link": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks"
     },
     {
-      "headline": "Live markets: Bitcoin climbs near $64,000 as AI favorites plunge on Tuesday",
-      "take": "Bitcoin climbs near $64,000 while AI-related assets decline sharply",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday"
+      "headline": "Polygon achieves record 7.5M weekly transactions as stablecoin strategy gains traction",
+      "take": "Polygon records 7.5M weekly transactions as stablecoin strategy gains momentum",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polygon-record-weekly-transactions/"
     },
     {
-      "headline": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
-      "take": "Japanese firms diversify treasury with Bitcoin and XRP amid weak yen",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification"
+      "headline": "Tether\u2019s USDT dominates payments while Circle\u2019s USDC leads DeFi, Dune data shows",
+      "take": "USDT dominates payments while USDC leads DeFi across crypto ecosystem",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdt-payments-usdc-defi-dune-analysis/"
     },
     {
-      "headline": "Binance taps into Bitcoin holders\u2019 hunger for yield with new covered call yield play",
-      "take": "Binance offers covered call yield product targeting Bitcoin holder demand",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play"
+      "headline": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
+      "take": "Zcash jumps twelve percent nearing mathematical proof against counterfeit bugs",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
+      "headline": "Robinhood reports $377B in assets on platform, highlights Morpho integration for new lending product",
+      "take": "Robinhood reports $377B in assets, launches Morpho integration for lending",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-377b-assets-morpho-integration/"
+    },
+    {
+      "headline": "Kraken seeks banking license in Europe as regulatory push expands",
+      "take": "Kraken seeks European banking license as regulatory push expands globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-banking-license-lithuania-europe/"
+    },
+    {
+      "headline": "BitGo launches electronic trading in Dubai, deepening its institutional crypto push across MENA",
+      "take": "BitGo launches electronic trading in Dubai, expanding institutional presence in MENA",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitgo-electronic-trading-dubai-institutional-crypto/"
+    },
+    {
       "headline": "SBI Holdings is sole investor in crypto platform EDX Markets\u2019 $76 million Series C",
-      "take": "SBI Holdings invests $76 million in EDX Markets Series C funding",
+      "take": "SBI Holdings sole investor in EDX Markets' $76M Series C funding round",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
-      "take": "Ondo Finance enables tokenized stocks as collateral for perpetual trading",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Tether puts $20 million behind Mercado Bitcoin amid Latin America\u2019s tokenization boom",
-      "take": "Tether invests $20 million in Mercado Bitcoin for Latin America growth",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
-      "take": "Vanguard hires crypto executive to shape market strategy and influence",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Gemini offers 0% stock trading in US as it looks to become \u2018all-in-one financial super app\u2019",
-      "take": "Gemini launches zero-percent stock trading pursuing all-in-one finance app",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=rss&utm_medium=rss"
+      "headline": "Radar Chat wants to make sending Bitcoin as easy as texting your group chat",
+      "take": "Radar Chat aims to simplify Bitcoin sending through text-like interface",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/radar-chat-bitcoin-lightning-messaging/"
     }
   ],
   "security": [
     {
-      "headline": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-      "take": "BONK treasury drained $20 million after attacker passes malicious proposal",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal"
+      "headline": "CFTC charges North Carolina commodity pool operator with $14M fraud scheme involving crypto assets",
+      "take": "CFTC charges North Carolina operator with $14M crypto asset fraud scheme",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-charges-north-carolina-commodity-pool-fraud/"
     },
     {
-      "headline": "Will Quantum Crack Crypto? Why Bitcoin Owners Worry",
-      "take": "Quantum computing poses potential long-term threat to Bitcoin security",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-07/will-quantum-computers-hack-bitcoin-and-other-cryptocurrencies"
+      "headline": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
+      "take": "Kenya's regulator seeks blockchain tool to track and combat crypto crime",
+      "source": "decrypt",
+      "link": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
-      "take": "SEC plans crypto rule this month to streamline startup fundraising",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising"
+      "headline": "New Hampshire to vote on world\u2019s first bitcoin-backed municipal bond",
+      "take": "New Hampshire votes on world's first bitcoin-backed municipal bond issuance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-hampshire-to-vote-on-worlds-first-bitcoin-backed-municipal-bond/"
     },
     {
-      "headline": "Crypto regulatory affairs: UK sets out final stablecoin rules",
-      "take": "UK finalizes stablecoin regulatory rules following MiCA transition period",
-      "source": "elliptic",
-      "link": "https://www.elliptic.co/blog/crypto-regulatory-affairs-uk-sets-out-stablecoin-rules"
+      "headline": "China\u2019s rare ballistic missile test sends ripple through risk markets",
+      "take": "China ballistic missile test sends ripple through risk markets and geopolitics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-ballistic-missile-test-crypto-risk/"
     },
     {
-      "headline": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
-      "take": "Coinbase wins UK license to offer stocks, derivatives alongside crypto",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto"
-    },
-    {
-      "headline": "EU lawmakers adopt digital assets policy stance after MiCA transition ends",
-      "take": "EU lawmakers adopt final digital assets policy stance after MiCA transition",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/eu-parliament-digital-assets-policy-mica-transition?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Nigel Farage to resign from UK Parliament amid crypto \u201cgift\u201d scandal, will stand in by-election",
-      "take": "Nigel Farage resigns from UK Parliament amid crypto gift scandal investigation",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US revokes Iran oil waivers after attacks in Strait of Hormuz",
+      "take": "US revokes Iran oil waivers after attacks in Strait of Hormuz",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-revokes-iran-oil-waivers-after-attacks-in-strait-of-hormuz/"
     }
   ]
 }

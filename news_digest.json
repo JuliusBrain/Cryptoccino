@@ -1,82 +1,100 @@
 {
-  "generated": "2026-07-08T19:57:58.829636+00:00",
-  "ts": 1783540678,
+  "generated": "2026-07-08T22:18:40.252797+00:00",
+  "ts": 1783549120,
   "market": [
     {
-      "headline": "Bitcoin ETFs show signs of stabilization after $8B outflows",
-      "take": "Bitcoin ETFs stabilize after experiencing eight billion dollar outflows",
+      "headline": "Federal Reserve minutes reveal support for rate increases, Bitcoin drops 2.7%",
+      "take": "Federal Reserve signals rate increase support; Bitcoin drops 2.7% on inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-stabilization-after-8b-outflows/"
+      "link": "https://cryptobriefing.com/fed-minutes-rate-hikes-bitcoin-drops/"
     },
     {
-      "headline": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-      "take": "Bitcoin stalls while Ethereum shows worst weekly signal in years",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years"
+      "headline": "Tokenized stock transfers surge 105% in a month to $8B",
+      "take": "Tokenized stock transfers surge 105% in one month, reaching $8 billion total volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-stock-transfers-surge-105-percent-8-billion/"
     },
     {
-      "headline": "IMF warns of ongoing energy market strains amid Middle East tensions",
-      "take": "IMF warns Middle East tensions creating ongoing energy market strains",
+      "headline": "Japan\u2019s yen nears 40-year low as households and crypto markets brace for fallout",
+      "take": "Japanese yen hits 40-year low, households and crypto markets brace for economic fallout",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/imf-warns-of-ongoing-energy-market-strains-amid-middle-east-tensions/"
+      "link": "https://cryptobriefing.com/japan-yen-40-year-low-crypto-impact/"
+    },
+    {
+      "headline": "SK Hynix open interest on Trade.xyz surges 210% as traders bet big ahead of ADR listing",
+      "take": "SK Hynix open interest jumps 210% on Trade.xyz ahead of ADR listing announcement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sk-hynix-open-interest-tradexyz-210-percent/"
+    },
+    {
+      "headline": "Robinhood Chain DEX volume exceeds $500M in 24 hours, just one week after launch",
+      "take": "Robinhood Chain DEX exceeds $500 million volume in 24 hours after one-week launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-dex-volume-500m/"
     }
   ],
   "business": [
     {
-      "headline": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
-      "take": "Paradigm raises one point two billion dollars, expands into AI and robotics",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal",
-      "take": "Ripple signs multi-year deal placing XRP logo on Kansas Jayhawks jerseys",
+      "headline": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
+      "take": "Paradigm raises $1.2 billion fund, pushing crypto venture capital deeper into AI sector",
       "source": "decrypt",
-      "link": "https://decrypt.co/373039/xrp-logo-kansas-jayhawks-jerseys-ripple-multi-year-deal"
+      "link": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai"
     },
     {
-      "headline": "Alvarez & Marsal accepts first USDC payment on Solana blockchain",
-      "take": "Alvarez and Marsal accepts first USDC payment on Solana blockchain",
+      "headline": "Optimism signs MOU with Toss to explore onchain payments for 30 million users in South Korea",
+      "take": "Optimism partners with Toss for onchain payments reaching 30 million South Korean users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alvarez-marsal-accepts-first-usdc-payment-on-solana-blockchain/"
+      "link": "https://cryptobriefing.com/optimism-toss-onchain-payments-south-korea/"
     },
     {
-      "headline": "Base delays B20 Token Standard launch due to on-chain consensus issues",
-      "take": "Base delays B20 Token Standard launch due to on-chain consensus issues",
+      "headline": "OpenAI sets livestream for ChatGPT Work update as enterprise AI race heats up",
+      "take": "OpenAI livestreams ChatGPT Work update as enterprise AI competition intensifies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-delays-b20-token-standard-launch-due-to-on-chain-consensus-issues/"
+      "link": "https://cryptobriefing.com/openai-chatgpt-work-livestream-enterprise/"
     },
     {
-      "headline": "Zapper to shut down after nearly 7 years building DeFi dashboard",
-      "take": "Zapper DeFi dashboard shuts down after nearly seven years operating",
+      "headline": "FIFA World Cup 2026 brings crypto to Vancouver as Kraken scores historic partnership",
+      "take": "Kraken scores historic World Cup 2026 partnership, bringing crypto to Vancouver officially",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zapper-to-shut-down-after-nearly-7-years-building-defi-dashboard/"
+      "link": "https://cryptobriefing.com/fifa-world-cup-2026-vancouver-kraken-crypto/"
+    },
+    {
+      "headline": "Zapper to shut down after 7 years of operation",
+      "take": "Zapper shuts down after 7 years providing DeFi dashboard and portfolio tracking services",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zapper-shuts-down-defi-dashboard-2026/"
     }
   ],
   "security": [
     {
       "headline": "Cash App owner Block to pay $45 million after states say it made false security promises",
-      "take": "Block pays forty-five million dollars after states cite false security promises",
+      "take": "Block pays $45 million after states claim false security and data protection promises",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407623/cash-app-owner-block-pay-45-million-states-say-it-made-false-security-promises?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
+      "headline": "Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill",
+      "take": "Senator Wyden urges preservation of blockchain developer protections in broader crypto bill",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
-      "take": "EU officials set to revise MiCA to cover non-EU stablecoin issuers",
+      "take": "EU officials set to revise MiCA regulations to cover non-EU stablecoin issuers",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC Chair: Clarity Act nearing finalization, Senate consideration next",
-      "take": "CFTC Chair says Clarity Act nearing finalization, awaiting Senate consideration",
+      "headline": "US removes Syria from terror blacklist after 47 years, opening doors for crypto adoption and stablecoin-powered aid",
+      "take": "US removes Syria from terror list after 47 years, opening crypto and stablecoin aid channels",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chair-clarity-act-nearing-finalization-senate-consideration-next/"
+      "link": "https://cryptobriefing.com/us-removes-syria-terror-blacklist-crypto-adoption/"
     },
     {
       "headline": "Bank of England governor denies Farage lobbying swayed CBDC policy: Report",
-      "take": "Bank of England governor denies Farage lobbying influenced CBDC policy",
+      "take": "Bank of England governor denies Farage lobbying influenced CBDC policy decisions",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/bank-of-england-governor-denies-farage-lobbying-swayed-cbdc-policy-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

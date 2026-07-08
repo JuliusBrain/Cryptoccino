@@ -1,83 +1,108 @@
 {
-  "generated": "2026-07-08T14:43:13.000055+00:00",
-  "ts": 1783521793,
+  "generated": "2026-07-08T16:52:20.536958+00:00",
+  "ts": 1783529540,
   "market": [
     {
-      "headline": "US crude oil inventories rise by 2.998M barrels, defying market expectations",
-      "take": "US crude oil inventories rise 2.998M barrels, defying expectations",
+      "headline": "Brent crude tops $80 amid Strait of Hormuz tensions, Iran waiver revocation",
+      "take": "Brent crude tops $80 on Strait of Hormuz tensions and Iran waiver revocation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-crude-oil-inventories-rise-by-2998m-barrels-defying-market-expectations/"
+      "link": "https://cryptobriefing.com/brent-crude-tops-80-amid-strait-of-hormuz-tensions-iran-waiver-revocation/"
     },
     {
-      "headline": "Middle East tensions, oil price surge hit markets; AI, semiconductor stocks dip",
-      "take": "Middle East tensions push oil prices up, AI stocks decline",
+      "headline": "Japan raises rates to a 30-year high but the yen keeps falling anyway",
+      "take": "Japan raises rates to 30-year high but yen continues falling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/middle-east-tensions-oil-price-surge-hit-markets-ai-semiconductor-stocks-dip/"
+      "link": "https://cryptobriefing.com/japan-rate-hike-yen-weakness-crypto-carry-trade/"
     },
     {
-      "headline": "Nvidia stock valuation drops to pre-AI boom levels as forward P/E sinks to 18x",
-      "take": "Nvidia forward P/E drops to 18x, valuation near pre-AI levels",
+      "headline": "IMF cuts 2026 global growth forecast, dismisses Iran war recession risk",
+      "take": "IMF cuts 2026 global growth forecast, dismisses Iran war recession risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-valuation-drops-pre-ai-boom-levels/"
+      "link": "https://cryptobriefing.com/imf-cuts-2026-global-growth-forecast-dismisses-iran-war-recession-risk/"
     },
     {
-      "headline": "Strategy\u2019s 3,588 BTC sale puts future bitcoin selling in focus: analysts",
-      "take": "Strategy's 3,588 BTC sale raises questions about future selling pressure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&utm_medium=rss"
+      "headline": "US dollar strengthens amid rising US-Iran tensions and military actions",
+      "take": "US dollar strengthens amid rising US-Iran tensions and military actions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-dollar-strengthens-amid-rising-us-iran-tensions-and-military-actions/"
+    },
+    {
+      "headline": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
+      "take": "Bitcoin signals merit attention as macro risks persist despite MSTR concerns easing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc"
     }
   ],
   "business": [
     {
-      "headline": "Crypto VC Paradigm raises $1.2 billion for AI and robotics",
-      "take": "Paradigm raises $1.2 billion for AI and robotics investments",
+      "headline": "Pump.fun routes trades to Robinhood Chain, CASHCAT surges 900%",
+      "take": "Pump.fun routes trades to Robinhood Chain, CASHCAT surges 900 percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paradigm-fund-ai-robotics-expansion/"
+      "link": "https://cryptobriefing.com/pumpfun-robinhood-chain-cashcat-surge/"
+    },
+    {
+      "headline": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
+      "take": "BNB Chain plans new layer-one blockchain for AI agents and quantum computing",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum"
+    },
+    {
+      "headline": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal",
+      "take": "XRP logo lands on Kansas Jayhawks jerseys through Ripple multi-year sponsorship deal",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373039/xrp-logo-kansas-jayhawks-jerseys-ripple-multi-year-deal"
+    },
+    {
+      "headline": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
+      "take": "Paradigm launches 1.2 billion dollar AI fund expanding beyond digital assets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg"
     },
     {
       "headline": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
-      "take": "Dinari and tZERO launch turnkey platform for tokenized US equities",
+      "take": "Dinari and tZERO partner on platform for tokenized US equities trading",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities"
-    },
-    {
-      "headline": "Real world assets tokenization surges across five key sectors",
-      "take": "Real world asset tokenization expands across five major sectors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwa-tokenization-surges-five-sectors/"
-    },
-    {
-      "headline": "Ripple, Kansas Athletics strike multi-year XRP branding deal",
-      "take": "Ripple signs multi-year XRP branding deal with Kansas Athletics",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-lands-xrp-jersey-patch-deal-kansas-athletics/"
-    },
-    {
-      "headline": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
-      "take": "BNB Chain launches layer-1 blockchain for high-frequency trading and agents",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown",
+      "take": "Malaysia seizes over 75,000 crypto mining rigs in power-theft crackdown",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373030/malaysia-seizes-over-75000-crypto-mining-rigs-in-power-theft-crackdown"
+    },
+    {
+      "headline": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
+      "take": "Cardano entity EMURGO steps down from governance after wallet exploit incident",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Kraken Wins $22M From Auditor That Abandoned It During Operation Choke Point 2.0",
+      "take": "Kraken wins 22 million dollars from auditor during Operation Choke Point 2.0",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373001/kraken-wins-22m-from-auditor-that-abandoned-it-during-operation-choke-point-2-0"
+    }
+  ],
   "policy": [
     {
-      "headline": "Bull Bitcoin petitions French court to annul DAC8 decree, calling EU crypto surveillance \u2018Kill Your Customer\u2019",
-      "take": "Bull Bitcoin challenges EU's DAC8 decree as excessive crypto surveillance",
+      "headline": "CFTC chairman confirms the US will not pursue a CBDC under Trump",
+      "take": "CFTC chairman confirms US will not pursue central bank digital currency under Trump",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bull-bitcoin-dac8-french-court-challenge/"
+      "link": "https://cryptobriefing.com/cftc-chairman-selig-us-no-cbdc-trump/"
     },
     {
-      "headline": "Kazakhstan president signs decree to accelerate crypto adoption",
-      "take": "Kazakhstan president signs decree to accelerate cryptocurrency adoption",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
+      "take": "European Commission expands MiCA to cover tokenization and non-EU stablecoin issuers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "India crypto tax filings lag trading activity: Report",
-      "take": "India crypto tax filings lag behind actual trading activity levels",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/india-crypto-tax-underreporting-rbi-ban-push?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
+      "take": "Polymarket plans US marketing push to rebuild trust after four-year ban",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report"
     }
   ]
 }

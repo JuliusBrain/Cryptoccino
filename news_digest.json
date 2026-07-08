@@ -1,90 +1,83 @@
 {
-  "generated": "2026-07-08T11:19:03.553651+00:00",
-  "ts": 1783509543,
+  "generated": "2026-07-08T14:43:13.000055+00:00",
+  "ts": 1783521793,
   "market": [
     {
-      "headline": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
-      "take": "Bitcoin and stocks fall sharply after Trump declares Iran ceasefire over",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/08/crypto-and-stocks-tumble-after-trump-declares-ceasefire-over-following-iran-strikes"
-    },
-    {
-      "headline": "Bitcoin's inflation quagmire gets stickier as renewed MidEast conflict sends oil price soaring",
-      "take": "Middle East conflict pushes oil prices higher, complicating Bitcoin inflation narrative",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/08/bitcoin-s-inflation-quagmire-gets-stickier-as-renewed-mideast-conflict-sends-oil-price-soaring"
-    },
-    {
-      "headline": "Hyperliquid burns 16% of HYPE supply as US stock perpetuals drive volume",
-      "take": "Hyperliquid burns 16% of HYPE as US stock perpetuals drive trading volume",
+      "headline": "US crude oil inventories rise by 2.998M barrels, defying market expectations",
+      "take": "US crude oil inventories rise 2.998M barrels, defying expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-burns-16-of-hype-supply-as-us-stock-perpetuals-drive-volume/"
+      "link": "https://cryptobriefing.com/us-crude-oil-inventories-rise-by-2998m-barrels-defying-market-expectations/"
     },
     {
-      "headline": "US trade deficit widens to $77.6B in May as imports surge and exports slide",
-      "take": "US trade deficit widens to $77.6B in May amid import surge",
+      "headline": "Middle East tensions, oil price surge hit markets; AI, semiconductor stocks dip",
+      "take": "Middle East tensions push oil prices up, AI stocks decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-trade-deficit-widens-may-imports-surge/"
+      "link": "https://cryptobriefing.com/middle-east-tensions-oil-price-surge-hit-markets-ai-semiconductor-stocks-dip/"
     },
     {
-      "headline": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
-      "take": "Bitmine treasury grows by $70 million in ETH holdings",
+      "headline": "Nvidia stock valuation drops to pre-AI boom levels as forward P/E sinks to 18x",
+      "take": "Nvidia forward P/E drops to 18x, valuation near pre-AI levels",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-valuation-drops-pre-ai-boom-levels/"
+    },
+    {
+      "headline": "Strategy\u2019s 3,588 BTC sale puts future bitcoin selling in focus: analysts",
+      "take": "Strategy's 3,588 BTC sale raises questions about future selling pressure",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "RedStone\u2019s weETH becomes first liquid restaking token rated A+ by Credora",
-      "take": "RedStone's weETH becomes first liquid restaking token rated A+ by Credora",
+      "headline": "Crypto VC Paradigm raises $1.2 billion for AI and robotics",
+      "take": "Paradigm raises $1.2 billion for AI and robotics investments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/weeth-first-lrt-credora-a-plus-rating/"
+      "link": "https://cryptobriefing.com/paradigm-fund-ai-robotics-expansion/"
     },
     {
-      "headline": "Shanghai Iluvatar CoreX seeks $850M from Hong Kong share sale months after blockbuster IPO",
-      "take": "Shanghai Iluvatar CoreX seeks $850M from Hong Kong share sale after recent IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iluvatar-corex-850m-hong-kong-share-sale/"
-    },
-    {
-      "headline": "Validators embrace XRP Ledger's recent upgrade. But not everyone\u2019s on board yet",
-      "take": "XRP Ledger upgrade gains validator support but faces some adoption resistance",
+      "headline": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
+      "take": "Dinari and tZERO launch turnkey platform for tokenized US equities",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet"
-    }
-  ],
-  "security": [
+      "link": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities"
+    },
     {
-      "headline": "ESL FACEIT Group bans skin gambling sponsors from Counter-Strike events, closing a crypto-adjacent revenue stream",
-      "take": "ESL FACEIT Group bans skin gambling sponsors from Counter-Strike events",
+      "headline": "Real world assets tokenization surges across five key sectors",
+      "take": "Real world asset tokenization expands across five major sectors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/esl-faceit-bans-skin-gambling-sponsors/"
+      "link": "https://cryptobriefing.com/rwa-tokenization-surges-five-sectors/"
+    },
+    {
+      "headline": "Ripple, Kansas Athletics strike multi-year XRP branding deal",
+      "take": "Ripple signs multi-year XRP branding deal with Kansas Athletics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-lands-xrp-jersey-patch-deal-kansas-athletics/"
+    },
+    {
+      "headline": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+      "take": "BNB Chain launches layer-1 blockchain for high-frequency trading and agents",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters",
-      "take": "India central bank seeks to bar financial institutions from crypto exposure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407549/india-central-bank-seeks-to-bar-financial-institutions-from-exposure-to-crypto-assets-reuters?utm_source=rss&utm_medium=rss"
+      "headline": "Bull Bitcoin petitions French court to annul DAC8 decree, calling EU crypto surveillance \u2018Kill Your Customer\u2019",
+      "take": "Bull Bitcoin challenges EU's DAC8 decree as excessive crypto surveillance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bull-bitcoin-dac8-french-court-challenge/"
     },
     {
-      "headline": "Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement",
-      "take": "Kalshi appeals NY court rejection of bid to block state gambling law enforcement",
+      "headline": "Kazakhstan president signs decree to accelerate crypto adoption",
+      "take": "Kazakhstan president signs decree to accelerate cryptocurrency adoption",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-appeals-new-york-sports-event-contracts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "ESMA turns spotlight on crypto custody risks after MiCA transition",
-      "take": "ESMA examines crypto custody risks following MiCA regulatory transition",
+      "headline": "India crypto tax filings lag trading activity: Report",
+      "take": "India crypto tax filings lag behind actual trading activity levels",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/esma-crypto-custody-scrutiny-mica-transition?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts",
-      "take": "Nigel Farage quits UK Parliament amid probes into crypto-linked gifts",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407542/nigel-farage-to-quit-uk-parliament-seek-new-mandate-amid-probes-into-crypto-linked-gifts?utm_source=rss&utm_medium=rss"
+      "link": "https://cointelegraph.com/news/india-crypto-tax-underreporting-rbi-ban-push?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

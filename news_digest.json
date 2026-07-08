@@ -1,108 +1,90 @@
 {
-  "generated": "2026-07-08T08:47:00.570531+00:00",
-  "ts": 1783500420,
+  "generated": "2026-07-08T11:19:03.553651+00:00",
+  "ts": 1783509543,
   "market": [
     {
-      "headline": "Total crypto market cap declined 16.9% to $2.13T, reflecting weak institutional flows and dependence on ETFs",
-      "take": "Crypto market cap fell 16.9% to $2.13T; weak institutional flows cited",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/total-crypto-market-cap-declined-169-to-213t-reflecting-weak-institutional/"
-    },
-    {
-      "headline": "Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP",
-      "take": "Japan's yen collapse pushes companies toward bitcoin and XRP holdings",
+      "headline": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
+      "take": "Bitcoin and stocks fall sharply after Trump declares Iran ceasefire over",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp"
+      "link": "https://www.coindesk.com/markets/2026/07/08/crypto-and-stocks-tumble-after-trump-declares-ceasefire-over-following-iran-strikes"
     },
     {
-      "headline": "Saylor: Bitcoin must appreciate over 3% annually to sustain Strategy dividends",
-      "take": "Saylor: Bitcoin must appreciate over 3% yearly to sustain strategy dividends",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saylor-bitcoin-must-appreciate-over-3-annually-to-sustain-strategy-dividends/"
-    },
-    {
-      "headline": "Bitcoin under pressure as Trump says Iran ceasefire is over",
-      "take": "Bitcoin under pressure as Trump signals end to Iran ceasefire talks",
+      "headline": "Bitcoin's inflation quagmire gets stickier as renewed MidEast conflict sends oil price soaring",
+      "take": "Middle East conflict pushes oil prices higher, complicating Bitcoin inflation narrative",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil"
+      "link": "https://www.coindesk.com/daybook-us/2026/07/08/bitcoin-s-inflation-quagmire-gets-stickier-as-renewed-mideast-conflict-sends-oil-price-soaring"
     },
     {
-      "headline": "Strike launches \u2018volatility-proof\u2019 Bitcoin loans amid bear market, but at a cost",
-      "take": "Strike launches volatility-proof Bitcoin loans; borrower costs remain elevated",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    }
-  ],
-  "business": [
-    {
-      "headline": "World Cup 2026 becomes crypto\u2019s biggest stage as Kraken and Polymarket ride the tournament wave",
-      "take": "World Cup 2026 becomes major stage; Kraken and Polymarket see volume surge",
+      "headline": "Hyperliquid burns 16% of HYPE supply as US stock perpetuals drive volume",
+      "take": "Hyperliquid burns 16% of HYPE as US stock perpetuals drive trading volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-2026-crypto-kraken-polymarket/"
+      "link": "https://cryptobriefing.com/hyperliquid-burns-16-of-hype-supply-as-us-stock-perpetuals-drive-volume/"
     },
     {
-      "headline": "XRP Ledger\u2019s new upgrade is here. But not everyone\u2019s on board yet",
-      "take": "XRP Ledger upgrade deployed; adoption support remains incomplete among validators",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet"
-    },
-    {
-      "headline": "Zcash native surges as Zooko Wilcox announces proof progress on Ironwood upgrade",
-      "take": "Zcash surges on Zooko Wilcox's Ironwood upgrade progress announcement",
+      "headline": "US trade deficit widens to $77.6B in May as imports surge and exports slide",
+      "take": "US trade deficit widens to $77.6B in May amid import surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-zec-surges-ironwood-proof-progress/"
-    },
-    {
-      "headline": "ZML releases free inference software that could reshape AI compute economics",
-      "take": "ZML releases free AI inference software; could reshape compute economics",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zml-free-inference-software-ai-compute/"
+      "link": "https://cryptobriefing.com/us-trade-deficit-widens-may-imports-surge/"
     },
     {
       "headline": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
-      "take": "Bitmine adds $70 million worth of ETH to corporate treasury",
+      "take": "Bitmine treasury grows by $70 million in ETH holdings",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [
+  "business": [
     {
-      "headline": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
-      "take": "Anthropic removes hidden tracker from Claude Code after privacy researcher complaints",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy"
+      "headline": "RedStone\u2019s weETH becomes first liquid restaking token rated A+ by Credora",
+      "take": "RedStone's weETH becomes first liquid restaking token rated A+ by Credora",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/weeth-first-lrt-credora-a-plus-rating/"
     },
     {
-      "headline": "CFTC charges commodity, crypto pool operator with $14M fraud",
-      "take": "CFTC charges commodity and crypto pool operator with $14M fraud",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-charges-commodity-crypto-pool-operator-with-14m-fraud?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Shanghai Iluvatar CoreX seeks $850M from Hong Kong share sale months after blockbuster IPO",
+      "take": "Shanghai Iluvatar CoreX seeks $850M from Hong Kong share sale after recent IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iluvatar-corex-850m-hong-kong-share-sale/"
+    },
+    {
+      "headline": "Validators embrace XRP Ledger's recent upgrade. But not everyone\u2019s on board yet",
+      "take": "XRP Ledger upgrade gains validator support but faces some adoption resistance",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet"
+    }
+  ],
+  "security": [
+    {
+      "headline": "ESL FACEIT Group bans skin gambling sponsors from Counter-Strike events, closing a crypto-adjacent revenue stream",
+      "take": "ESL FACEIT Group bans skin gambling sponsors from Counter-Strike events",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/esl-faceit-bans-skin-gambling-sponsors/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
-      "take": "SEC's crypto safe harbor expected introduction as soon as this month",
-      "source": "decrypt",
-      "link": "https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month"
-    },
-    {
-      "headline": "Federal judge denies Kalshi\u2019s bid to block New York gambling law enforcement",
-      "take": "Federal judge denies Kalshi's bid to block New York gambling law enforcement",
+      "headline": "India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters",
+      "take": "India central bank seeks to bar financial institutions from crypto exposure",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/407549/india-central-bank-seeks-to-bar-financial-institutions-from-exposure-to-crypto-assets-reuters?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "EU to again vote to extend \u2018chat control\u2019 rules",
-      "take": "EU to vote again on extending 'chat control' surveillance rules",
+      "headline": "Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement",
+      "take": "Kalshi appeals NY court rejection of bid to block state gambling law enforcement",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/kalshi-appeals-new-york-sports-event-contracts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Apple loses EU court battle, opening door to collective antitrust claims over App Store",
-      "take": "Apple loses EU antitrust case; opens door to collective App Store claims",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-loses-eu-court-battle-app-store-antitrust/"
+      "headline": "ESMA turns spotlight on crypto custody risks after MiCA transition",
+      "take": "ESMA examines crypto custody risks following MiCA regulatory transition",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/esma-crypto-custody-scrutiny-mica-transition?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts",
+      "take": "Nigel Farage quits UK Parliament amid probes into crypto-linked gifts",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407542/nigel-farage-to-quit-uk-parliament-seek-new-mandate-amid-probes-into-crypto-linked-gifts?utm_source=rss&utm_medium=rss"
     }
   ]
 }

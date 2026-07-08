@@ -1,108 +1,84 @@
 {
-  "generated": "2026-07-08T16:52:20.536958+00:00",
-  "ts": 1783529540,
+  "generated": "2026-07-08T19:57:58.829636+00:00",
+  "ts": 1783540678,
   "market": [
     {
-      "headline": "Brent crude tops $80 amid Strait of Hormuz tensions, Iran waiver revocation",
-      "take": "Brent crude tops $80 on Strait of Hormuz tensions and Iran waiver revocation",
+      "headline": "Bitcoin ETFs show signs of stabilization after $8B outflows",
+      "take": "Bitcoin ETFs stabilize after experiencing eight billion dollar outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-tops-80-amid-strait-of-hormuz-tensions-iran-waiver-revocation/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-stabilization-after-8b-outflows/"
     },
     {
-      "headline": "Japan raises rates to a 30-year high but the yen keeps falling anyway",
-      "take": "Japan raises rates to 30-year high but yen continues falling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-rate-hike-yen-weakness-crypto-carry-trade/"
+      "headline": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
+      "take": "Bitcoin stalls while Ethereum shows worst weekly signal in years",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years"
     },
     {
-      "headline": "IMF cuts 2026 global growth forecast, dismisses Iran war recession risk",
-      "take": "IMF cuts 2026 global growth forecast, dismisses Iran war recession risk",
+      "headline": "IMF warns of ongoing energy market strains amid Middle East tensions",
+      "take": "IMF warns Middle East tensions creating ongoing energy market strains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/imf-cuts-2026-global-growth-forecast-dismisses-iran-war-recession-risk/"
-    },
-    {
-      "headline": "US dollar strengthens amid rising US-Iran tensions and military actions",
-      "take": "US dollar strengthens amid rising US-Iran tensions and military actions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-strengthens-amid-rising-us-iran-tensions-and-military-actions/"
-    },
-    {
-      "headline": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
-      "take": "Bitcoin signals merit attention as macro risks persist despite MSTR concerns easing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc"
+      "link": "https://cryptobriefing.com/imf-warns-of-ongoing-energy-market-strains-amid-middle-east-tensions/"
     }
   ],
   "business": [
     {
-      "headline": "Pump.fun routes trades to Robinhood Chain, CASHCAT surges 900%",
-      "take": "Pump.fun routes trades to Robinhood Chain, CASHCAT surges 900 percent",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-robinhood-chain-cashcat-surge/"
-    },
-    {
-      "headline": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
-      "take": "BNB Chain plans new layer-one blockchain for AI agents and quantum computing",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum"
+      "headline": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
+      "take": "Paradigm raises one point two billion dollars, expands into AI and robotics",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal",
-      "take": "XRP logo lands on Kansas Jayhawks jerseys through Ripple multi-year sponsorship deal",
+      "take": "Ripple signs multi-year deal placing XRP logo on Kansas Jayhawks jerseys",
       "source": "decrypt",
       "link": "https://decrypt.co/373039/xrp-logo-kansas-jayhawks-jerseys-ripple-multi-year-deal"
     },
     {
-      "headline": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
-      "take": "Paradigm launches 1.2 billion dollar AI fund expanding beyond digital assets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg"
+      "headline": "Alvarez & Marsal accepts first USDC payment on Solana blockchain",
+      "take": "Alvarez and Marsal accepts first USDC payment on Solana blockchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alvarez-marsal-accepts-first-usdc-payment-on-solana-blockchain/"
     },
     {
-      "headline": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
-      "take": "Dinari and tZERO partner on platform for tokenized US equities trading",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities"
+      "headline": "Base delays B20 Token Standard launch due to on-chain consensus issues",
+      "take": "Base delays B20 Token Standard launch due to on-chain consensus issues",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-delays-b20-token-standard-launch-due-to-on-chain-consensus-issues/"
+    },
+    {
+      "headline": "Zapper to shut down after nearly 7 years building DeFi dashboard",
+      "take": "Zapper DeFi dashboard shuts down after nearly seven years operating",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zapper-to-shut-down-after-nearly-7-years-building-defi-dashboard/"
     }
   ],
   "security": [
     {
-      "headline": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown",
-      "take": "Malaysia seizes over 75,000 crypto mining rigs in power-theft crackdown",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373030/malaysia-seizes-over-75000-crypto-mining-rigs-in-power-theft-crackdown"
-    },
-    {
-      "headline": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
-      "take": "Cardano entity EMURGO steps down from governance after wallet exploit incident",
+      "headline": "Cash App owner Block to pay $45 million after states say it made false security promises",
+      "take": "Block pays forty-five million dollars after states cite false security promises",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Kraken Wins $22M From Auditor That Abandoned It During Operation Choke Point 2.0",
-      "take": "Kraken wins 22 million dollars from auditor during Operation Choke Point 2.0",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373001/kraken-wins-22m-from-auditor-that-abandoned-it-during-operation-choke-point-2-0"
+      "link": "https://www.theblock.co/post/407623/cash-app-owner-block-pay-45-million-states-say-it-made-false-security-promises?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC chairman confirms the US will not pursue a CBDC under Trump",
-      "take": "CFTC chairman confirms US will not pursue central bank digital currency under Trump",
+      "headline": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
+      "take": "EU officials set to revise MiCA to cover non-EU stablecoin issuers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC Chair: Clarity Act nearing finalization, Senate consideration next",
+      "take": "CFTC Chair says Clarity Act nearing finalization, awaiting Senate consideration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chairman-selig-us-no-cbdc-trump/"
+      "link": "https://cryptobriefing.com/cftc-chair-clarity-act-nearing-finalization-senate-consideration-next/"
     },
     {
-      "headline": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
-      "take": "European Commission expands MiCA to cover tokenization and non-EU stablecoin issuers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
-      "take": "Polymarket plans US marketing push to rebuild trust after four-year ban",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report"
+      "headline": "Bank of England governor denies Farage lobbying swayed CBDC policy: Report",
+      "take": "Bank of England governor denies Farage lobbying influenced CBDC policy",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bank-of-england-governor-denies-farage-lobbying-swayed-cbdc-policy-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

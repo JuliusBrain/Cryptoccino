@@ -1,102 +1,108 @@
 {
-  "generated": "2026-07-09T20:08:01.126042+00:00",
-  "ts": 1783627681,
+  "generated": "2026-07-09T22:44:58.398988+00:00",
+  "ts": 1783637098,
   "market": [
     {
-      "headline": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
-      "take": "Billions exiting bitcoin ETFs and private credit funds signal mounting market risks",
+      "headline": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
+      "take": "Arbitrum surges 19% as Robinhood drives record onchain trading volume",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks"
+      "link": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy"
     },
     {
-      "headline": "Iran attacked: reports point to Bahrain and Kuwait as suspects as Bitcoin sells off",
-      "take": "Bitcoin sells off as geopolitical tensions escalate in Middle East region",
+      "headline": "Bitwise says Bitcoin\u2019s floor is rising amid AI boom and regulatory delays",
+      "take": "Bitwise analyst cites rising Bitcoin floor amid AI expansion and regulatory uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-attacked-bahrain-kuwait-suspects-bitcoin-sells-off/"
+      "link": "https://cryptobriefing.com/bitwise-bitcoin-floor-rising-ai-boom/"
     },
     {
-      "headline": "CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal",
-      "take": "CryptoQuant flags bitcoin rebound as bear-market recovery rather than trend reversal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Kalshi traders see 54% chance of Fed hike this year",
-      "take": "Kalshi traders price 54% probability of Federal Reserve rate hike this year",
+      "headline": "Robinhood surpasses Hyperliquid in 24-hour DEX volume, powered by memecoins and a brand-new Layer 2",
+      "take": "Robinhood overtakes Hyperliquid in DEX volume with new Layer 2 and memecoin demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-fed-rate-hike-odds-2026-crypto/"
+      "link": "https://cryptobriefing.com/robinhood-surpasses-hyperliquid-dex-volume/"
     },
     {
-      "headline": "NASDAQ leads stocks higher as tech-heavy index erases July losses in late-session rally",
-      "take": "NASDAQ rallies, tech-heavy index erases July losses in late-session trading",
+      "headline": "US-Iran military strikes shatter ceasefire, sending Bitcoin sliding toward $60K",
+      "take": "Bitcoin slides toward $60K following US-Iran military escalation and ceasefire collapse",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-erases-july-losses-stocks-rally/"
+      "link": "https://cryptobriefing.com/us-iran-strikes-bitcoin-crypto-impact/"
+    },
+    {
+      "headline": "El Salvador offers 0% tax on Bitcoin gains with just 90 days of residency",
+      "take": "El Salvador offers zero-percent tax on Bitcoin gains for 90-day residents",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/el-salvador-bitcoin-tax-residency/"
     }
   ],
   "business": [
     {
-      "headline": "Strategy raises $16B through Bitcoin-backed credit products without triggering a tax bill",
-      "take": "Strategy raises $16 billion via bitcoin-backed credit products without triggering taxes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-16b-bitcoin-credit-no-tax/"
+      "headline": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
+      "take": "Coinbase Chief Legal Officer Paul Grewal steps down to advisory role post-SEC victory",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Nvidia backs Gradium as voice AI startup expands seed round to $100 million",
-      "take": "Nvidia backs Gradium voice AI startup, expanding seed round to $100 million",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gradium-100m-seed-nvidia-ai-compute/"
+      "headline": "Grayscale's CFO exits after 7 years with crypto asset manager",
+      "take": "Grayscale's CFO departs after seven years managing crypto asset growth",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager"
     },
     {
-      "headline": "Sanofi builds its own AI agent with Claude and Elementum, cutting ties with ServiceNow",
-      "take": "Sanofi builds proprietary AI agent with Claude, cuts ties with ServiceNow",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sanofi-in-house-ai-agent-claude-elementum/"
+      "headline": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split",
+      "take": "Avalanche Treasury firm AVAX One regains Nasdaq compliance through reverse stock split",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance"
     },
     {
-      "headline": "SK Hynix plans massive US share sale to ride the AI infrastructure wave",
-      "take": "SK Hynix plans massive US share sale to capitalize on AI infrastructure demand",
+      "headline": "OpenAI Build Week kicks off July 13 as AI tooling race heats up for crypto-adjacent developers",
+      "take": "OpenAI Build Week launches July 13 targeting crypto-adjacent developer tooling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-us-share-sale-ai-demand/"
+      "link": "https://cryptobriefing.com/openai-build-week-july-2025/"
     },
     {
-      "headline": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-      "take": "Phantom and Hyperliquid petition CFTC to modernize onchain derivatives regulations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SK Hynix US offering attracts $200B in demand as top accounts dominate allocation",
+      "take": "SK Hynix US offering draws $200B demand as major accounts dominate allocation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sk-hynix-us-offering-200b-demand/"
     }
   ],
   "security": [
     {
-      "headline": "Ethereum Foundation says AI agents find real bugs, but most are false positives",
-      "take": "Ethereum Foundation reports AI agents find bugs effectively, but generate many false positives",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss"
+      "headline": "Researchers warn AI agents could become botnets through hallucinations",
+      "take": "Researchers warn AI agents could become botnets through model hallucinations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-agents-botnets-hallusquatting-vulnerability/"
+    },
+    {
+      "headline": "Palo Alto, CrowdStrike, and Cisco pour billions into solving AI\u2019s credential sharing problem",
+      "take": "Palo Alto, CrowdStrike, Cisco invest billions addressing AI credential-sharing vulnerabilities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cybersecurity-giants-tackle-ai-credential-sharing/"
     }
   ],
   "policy": [
     {
-      "headline": "New Clarity Act draft could land as soon as next week: CoinDesk",
-      "take": "Clarity Act draft legislation could arrive as soon as next week, sources confirm",
+      "headline": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+      "take": "New Hampshire abandons state bitcoin bond program despite earlier pioneering effort",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort"
+    },
+    {
+      "headline": "Congress takes aim at AI chatbots with new regulatory push",
+      "take": "Congress pursues new regulatory framework targeting AI chatbot systems and capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-clarity-act-draft-could-land-as-soon-as-next-week-coindesk/"
+      "link": "https://cryptobriefing.com/congress-people-first-chatbot-act-ai-regulation/"
     },
     {
-      "headline": "White House says it received no Democratic nominees for SEC, CFTC vacancies",
-      "take": "White House received no Democratic nominees for SEC and CFTC vacant positions",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal",
-      "take": "UK politicians consider permanent crypto donation ban following Nigel Farage scandal",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "ECB\u2019s Lagarde says digital euro complements cash, not a replacement",
-      "take": "ECB's Lagarde states digital euro complements cash, does not replace it",
+      "headline": "Brazil imposes strict advertising rules on online betting firms, bans crypto payments",
+      "take": "Brazil bans crypto payments for online betting, imposes strict advertising restrictions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-lagarde-digital-euro-cash-replacement/"
+      "link": "https://cryptobriefing.com/brazil-betting-advertising-rules-crypto-ban/"
+    },
+    {
+      "headline": "NYT-led group seeks court sanctions against OpenAI in copyright case",
+      "take": "New York Times group seeks court sanctions against OpenAI in copyright dispute",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nyt-openai-copyright-sanctions-case/"
     }
   ]
 }

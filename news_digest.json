@@ -1,114 +1,120 @@
 {
-  "generated": "2026-07-10T17:12:16.018909+00:00",
-  "ts": 1783703536,
+  "generated": "2026-07-10T19:54:27.902861+00:00",
+  "ts": 1783713267,
   "market": [
     {
-      "headline": "Federal Reserve holds rates steady as Bitcoin jumps past $60K on Warsh\u2019s inflation comments",
-      "take": "Federal Reserve holds rates steady; Bitcoin jumps past $60K on inflation comments",
+      "headline": "Bitmine acquires $36M in Ethereum, boosting treasury holdings to 5.7 million ETH",
+      "take": "Bitmine acquires $36M in Ethereum, boosting treasury to 5.7M ETH",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-holds-rates-bitcoin-rallies-warsh/"
+      "link": "https://cryptobriefing.com/bitmine-acquires-36m-ethereum-treasury/"
     },
     {
-      "headline": "UBS proprietary market fragility index reaches all-time high, signaling potential for violent corrections",
-      "take": "UBS fragility index at all-time high, signaling potential for violent market corrections",
+      "headline": "Empery Digital trims Bitcoin holdings by $87M to fund debt and operations",
+      "take": "Empery Digital sells $87M Bitcoin to fund debt and operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ubs-market-fragility-index-record-high/"
+      "link": "https://cryptobriefing.com/empery-digital-trims-bitcoin-holdings-by-87m-to-fund-debt-and-operations/"
     },
     {
-      "headline": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
-      "take": "Standard Chartered dismisses Bitcoin sales as noise, maintains $100K price target",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call"
+      "headline": "Total asset market cap on Robinhood Chain surpasses $420M within days of launch",
+      "take": "Robinhood Chain asset market cap surpasses $420M within launch week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-asset-market-cap-420m/"
     },
     {
-      "headline": "Investors dump longer-dated AI debt as Big Tech\u2019s $159 billion borrowing binge tests market appetite",
-      "take": "Investors dump longer-dated AI debt as Big Tech's $159B borrowing tests appetite",
+      "headline": "Goldman Sachs reports hedge fund trade rebounds after 2024 blowup",
+      "take": "Goldman Sachs reports hedge fund trading rebounds after 2024 losses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/investors-sell-longer-dated-ai-debt-big-tech/"
+      "link": "https://cryptobriefing.com/goldman-sachs-hedge-fund-trade-rebounds/"
     },
     {
-      "headline": "Ethena\u2019s USDe deposits surge to $324M on Morpho in four weeks",
-      "take": "Ethena's USDe deposits surge to $324M on Morpho in four weeks",
+      "headline": "RealClearPolitics adds Polymarket data to its election forecasting maps",
+      "take": "RealClearPolitics integrates Polymarket data into election forecasting maps",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethena-usde-morpho-deposits-surge/"
+      "link": "https://cryptobriefing.com/realclearpolitics-polymarket-election-forecasting/"
     }
   ],
   "business": [
     {
+      "headline": "Ondo Global Markets tokenizes SK Hynix shares on day one of record $26.5B US debut",
+      "take": "Ondo Global Markets tokenizes SK Hynix shares on day one of $26.5B debut",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ondo-tokenizes-sk-hynix-ipo-day-one/"
+    },
+    {
       "headline": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
-      "take": "Kraken relaunches mobile app with agentic trading and advice at center",
+      "take": "Kraken relaunches mobile app with agentic trading and advice features",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Coinbase executive predicts stablecoins will surpass fiat volume in 5 years",
-      "take": "Coinbase executive predicts stablecoins will surpass fiat volume in five years",
+      "headline": "Grok 4.5 launches with aggressive pricing, undercutting Anthropic and OpenAI by over 60%",
+      "take": "Grok 4.5 launches with pricing 60% below Anthropic and OpenAI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-stablecoins-surpass-fiat-volume/"
+      "link": "https://cryptobriefing.com/grok-4-5-launches-ai-price-war/"
     },
     {
-      "headline": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
-      "take": "Empery Digital offloads 1,400 bitcoins to fund AI pivot and pay debt",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Backpack launches 24/7 market for US equities with SpaceX, Micron, and SanDisk",
-      "take": "Backpack launches 24/7 market for US equities including SpaceX and Micron",
+      "headline": "Tesla demolishes Fremont factory lines for Optimus robot production",
+      "take": "Tesla demolishes Fremont factory lines for Optimus robot production",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-launches-24-7-market-us-equities-spacex-micron-sandisk/"
-    },
-    {
-      "headline": "Beefy launches autocompounding vaults for Aave with up to 9% APY",
-      "take": "Beefy launches autocompounding vaults for Aave offering up to 9% APY",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/beefy-aave-autocompounding-vaults-9-percent-apy/"
+      "link": "https://cryptobriefing.com/tesla-fremont-factory-optimus-robot-production/"
     }
   ],
   "security": [
     {
-      "headline": "Cambridge research reveals 31% of Ethereum node activity concentrated in the US",
-      "take": "31% of Ethereum node activity concentrated in US, third going offline stalls finalization",
+      "headline": "More than half of enterprises report AI agent security incidents, and most are sharing credentials across bots",
+      "take": "Over half of enterprises report AI agent security incidents with shared credentials",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cambridge-ethereum-node-us-concentration/"
+      "link": "https://cryptobriefing.com/enterprise-ai-agent-security-incidents/"
     },
     {
-      "headline": "OpenAI and Google caught selling AI models to Pentagon-blacklisted Chinese firms",
-      "take": "OpenAI and Google caught selling AI models to Pentagon-blacklisted Chinese firms",
+      "headline": "Meta\u2019s AI image detector fails to catch 55% of its own cropped AI images",
+      "take": "Meta's AI image detector misses 55% of its own cropped AI images",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-google-ai-pentagon-blacklisted-chinese-firms/"
+      "link": "https://cryptobriefing.com/meta-ai-image-detector-cropped-images-fail/"
+    },
+    {
+      "headline": "Argentine Football Association investigates suspected email hack after World Cup match",
+      "take": "Argentine Football Association investigates suspected email hack after World Cup match",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/afa-email-hack-world-cup-investigation/"
+    },
+    {
+      "headline": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
+      "take": "One-third of US Ethereum node offline can halt finalization, study finds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-      "take": "US government digital dollar set to be banned under housing law's CBDC limit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit"
-    },
-    {
-      "headline": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
-      "take": "Circle wins final Federal Banking Charter approval as stablecoin issuer",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter"
-    },
-    {
-      "headline": "MiCA licensing only the beginning as crypto custodians face scrutiny",
-      "take": "MiCA licensing only beginning as crypto custodians face increased regulatory scrutiny",
+      "headline": "US CBDC ban to go into effect without Trump signoff on housing bill",
+      "take": "US CBDC ban takes effect under housing bill despite Trump non-signoff",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
-      "take": "Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "headline": "Here\u2019s what\u2019s next for the Clarity Act as Congress returns to Washington",
+      "take": "Congress returns to Washington to address Clarity Act next steps",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Senate Democrats urge Republicans to investigate Trump\u2019s crypto ventures over national security concerns",
+      "take": "Senate Democrats urge Republicans to investigate Trump crypto ventures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-democrats-investigate-trump-crypto-ventures/"
+    },
+    {
+      "headline": "New Hampshire council votes down $100M Bitcoin bonds",
+      "take": "New Hampshire council votes down $100M Bitcoin bond proposal",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "take": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers"
+      "headline": "US Treasury sanctions Iranian tycoon Ali Ansari and linked entities",
+      "take": "US Treasury sanctions Iranian tycoon Ali Ansari and linked entities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-sanctions-iranian-tycoon-ansari/"
     }
   ]
 }

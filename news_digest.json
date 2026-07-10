@@ -1,120 +1,102 @@
 {
-  "generated": "2026-07-10T19:54:27.902861+00:00",
-  "ts": 1783713267,
+  "generated": "2026-07-10T22:27:18.124592+00:00",
+  "ts": 1783722438,
   "market": [
     {
-      "headline": "Bitmine acquires $36M in Ethereum, boosting treasury holdings to 5.7 million ETH",
-      "take": "Bitmine acquires $36M in Ethereum, boosting treasury to 5.7M ETH",
+      "headline": "Uniswap surpasses $1B in volume on Robinhood Chain just nine days after launch",
+      "take": "Uniswap exceeds $1B volume on Robinhood Chain nine days after launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmine-acquires-36m-ethereum-treasury/"
+      "link": "https://cryptobriefing.com/uniswap-1b-volume-robinhood-chain/"
     },
     {
-      "headline": "Empery Digital trims Bitcoin holdings by $87M to fund debt and operations",
-      "take": "Empery Digital sells $87M Bitcoin to fund debt and operations",
+      "headline": "Trump declares Iran ceasefire over, warns of retaliation as Bitcoin slides more than 3%",
+      "take": "Trump declares Iran ceasefire over; Bitcoin slides more than three percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/empery-digital-trims-bitcoin-holdings-by-87m-to-fund-debt-and-operations/"
+      "link": "https://cryptobriefing.com/trump-iran-ceasefire-over-bitcoin-drops-3/"
     },
     {
-      "headline": "Total asset market cap on Robinhood Chain surpasses $420M within days of launch",
-      "take": "Robinhood Chain asset market cap surpasses $420M within launch week",
+      "headline": "Expert warns Federal Reserve may reverse rate cuts that stabilized economy",
+      "take": "Federal Reserve may reverse rate cuts that stabilized the economy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-asset-market-cap-420m/"
+      "link": "https://cryptobriefing.com/fed-reverse-rate-cuts-crypto-impact/"
     },
     {
-      "headline": "Goldman Sachs reports hedge fund trade rebounds after 2024 blowup",
-      "take": "Goldman Sachs reports hedge fund trading rebounds after 2024 losses",
+      "headline": "Exodus Movement sells 56 Bitcoin in June, trimming treasury to 600 BTC",
+      "take": "Exodus Movement sells 56 Bitcoin, reducing treasury to 600 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-hedge-fund-trade-rebounds/"
+      "link": "https://cryptobriefing.com/exodus-movement-sells-bitcoin-treasury/"
     },
     {
-      "headline": "RealClearPolitics adds Polymarket data to its election forecasting maps",
-      "take": "RealClearPolitics integrates Polymarket data into election forecasting maps",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/realclearpolitics-polymarket-election-forecasting/"
+      "headline": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
+      "take": "Bitcoin treasury firm Empery Digital sells nearly half holdings for $87M",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million"
     }
   ],
   "business": [
     {
-      "headline": "Ondo Global Markets tokenizes SK Hynix shares on day one of record $26.5B US debut",
-      "take": "Ondo Global Markets tokenizes SK Hynix shares on day one of $26.5B debut",
+      "headline": "Radar Chat launches as Signal fork with built-in self-custodial Bitcoin Lightning payments",
+      "take": "Radar Chat launches as Signal fork with built-in Bitcoin Lightning payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-tokenizes-sk-hynix-ipo-day-one/"
+      "link": "https://cryptobriefing.com/radar-chat-signal-fork-bitcoin-lightning/"
     },
     {
-      "headline": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
-      "take": "Kraken relaunches mobile app with agentic trading and advice features",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss"
+      "headline": "Robinhood Chain surpasses Tempo in daily active users just days after launch",
+      "take": "Robinhood Chain surpasses Tempo in daily active users days after launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-surpasses-tempo-daily-users/"
     },
     {
-      "headline": "Grok 4.5 launches with aggressive pricing, undercutting Anthropic and OpenAI by over 60%",
-      "take": "Grok 4.5 launches with pricing 60% below Anthropic and OpenAI",
+      "headline": "Nico Williams recovery and Kraken\u2019s FIFA deal put sports crypto in the spotlight",
+      "take": "Kraken and sports crypto gain prominence through player recovery and partnerships",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-4-5-launches-ai-price-war/"
+      "link": "https://cryptobriefing.com/nico-williams-recovery-kraken-fifa-world-cup-crypto/"
     },
     {
-      "headline": "Tesla demolishes Fremont factory lines for Optimus robot production",
-      "take": "Tesla demolishes Fremont factory lines for Optimus robot production",
+      "headline": "GameSquare faces NASDAQ delisting risk after 83% stock drop",
+      "take": "GameSquare faces NASDAQ delisting risk following eighty-three percent stock drop",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tesla-fremont-factory-optimus-robot-production/"
+      "link": "https://cryptobriefing.com/gamesquare-nasdaq-delisting-risk-stock-drop/"
     }
   ],
   "security": [
     {
-      "headline": "More than half of enterprises report AI agent security incidents, and most are sharing credentials across bots",
-      "take": "Over half of enterprises report AI agent security incidents with shared credentials",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/enterprise-ai-agent-security-incidents/"
-    },
-    {
-      "headline": "Meta\u2019s AI image detector fails to catch 55% of its own cropped AI images",
-      "take": "Meta's AI image detector misses 55% of its own cropped AI images",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-ai-image-detector-cropped-images-fail/"
-    },
-    {
-      "headline": "Argentine Football Association investigates suspected email hack after World Cup match",
-      "take": "Argentine Football Association investigates suspected email hack after World Cup match",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/afa-email-hack-world-cup-investigation/"
-    },
-    {
-      "headline": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
-      "take": "One-third of US Ethereum node offline can halt finalization, study finds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss"
+      "headline": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
+      "take": "Apple sues OpenAI claiming former employees stole trade secrets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"
     }
   ],
   "policy": [
     {
-      "headline": "US CBDC ban to go into effect without Trump signoff on housing bill",
-      "take": "US CBDC ban takes effect under housing bill despite Trump non-signoff",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Coinbase Vice Chair says Crypto Clarity Act is \u2018on the one-yard line\u2019",
+      "take": "Coinbase Vice Chair says Crypto Clarity Act nearing final passage stage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clarity-act-nearing-passage-coinbase/"
     },
     {
       "headline": "Here\u2019s what\u2019s next for the Clarity Act as Congress returns to Washington",
-      "take": "Congress returns to Washington to address Clarity Act next steps",
+      "take": "Senate awaits next steps for Clarity Act as Congress returns to Washington",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Senate Democrats urge Republicans to investigate Trump\u2019s crypto ventures over national security concerns",
-      "take": "Senate Democrats urge Republicans to investigate Trump crypto ventures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-democrats-investigate-trump-crypto-ventures/"
-    },
-    {
-      "headline": "New Hampshire council votes down $100M Bitcoin bonds",
-      "take": "New Hampshire council votes down $100M Bitcoin bond proposal",
+      "headline": "US CBDC ban to go into effect without Trump signoff on housing bill",
+      "take": "US CBDC ban takes effect without Trump signoff on housing bill",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US Treasury sanctions Iranian tycoon Ali Ansari and linked entities",
-      "take": "US Treasury sanctions Iranian tycoon Ali Ansari and linked entities",
+      "headline": "Senate quartet announces breakthrough on sanctions against Russia",
+      "take": "Senate announces breakthrough on new sanctions against Russia",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-sanctions-iranian-tycoon-ansari/"
+      "link": "https://cryptobriefing.com/senate-russia-sanctions-breakthrough-2025/"
+    },
+    {
+      "headline": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
+      "take": "Senate Democrats call for hearings into Trump's cryptocurrency ties and profits",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

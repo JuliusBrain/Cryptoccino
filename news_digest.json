@@ -1,96 +1,89 @@
 {
-  "generated": "2026-07-10T09:55:05.439555+00:00",
-  "ts": 1783677305,
+  "generated": "2026-07-10T15:05:07.846716+00:00",
+  "ts": 1783695907,
   "market": [
     {
-      "headline": "Live markets: Bitcoin tops $64,000 as selling pressure on Coinbase eases",
-      "take": "Bitcoin tops $64,000 as selling pressure on Coinbase eases",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak"
+      "headline": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
+      "take": "Circle gains federal banking charter approval, validating stablecoin regulatory pathway",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter"
     },
     {
-      "headline": "Bitcoin's $60,000-$70,000 range becomes third longest consolidation in history",
-      "take": "Bitcoin consolidates in $60,000\u2013$70,000 range, third longest in history",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history"
+      "headline": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
+      "take": "Bitcoin strategic sales deemed noise; analyst maintains hundred-thousand-dollar target",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call"
     },
     {
-      "headline": "JPMorgan earnings on July 14 put net interest income and Bitcoin ETF bets in the spotlight",
-      "take": "JPMorgan earnings highlight net interest income and Bitcoin ETF exposure",
+      "headline": "Robinhood DEX volume surpasses $690M in 24 hours",
+      "take": "Robinhood DEX volume reaches six hundred ninety million in single day",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-earnings-july-14-nii-bitcoin-etf/"
+      "link": "https://cryptobriefing.com/robinhood-dex-volume-690-million/"
     },
     {
-      "headline": "Korea\u2019s levered ETFs are shaking up global markets",
-      "take": "Korea's leveraged ETFs are reshaping global market dynamics",
+      "headline": "South Korea, Taiwan lead $46B emerging market equity exodus in June",
+      "take": "South Korea and Taiwan lead forty-six billion dollar emerging market equity exit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/korea-leveraged-etfs-global-markets-volatility/"
+      "link": "https://cryptobriefing.com/south-korea-taiwan-46-billion-emerging-market-exodus/"
     },
     {
-      "headline": "Cathie Wood\u2019s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
-      "take": "Ark Invest buys $14M Circle, offloads Robinhood shares",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss"
+      "headline": "Solana reaches Mainnet Epoch 1000 milestone",
+      "take": "Solana network reaches mainnet epoch one thousand, marking network maturation milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-mainnet-epoch-1000-milestone/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood Chain launches as a serious competitor to Solana in the race for DeFi dominance",
-      "take": "Robinhood Chain launches as competitor to Solana for DeFi",
+      "headline": "South Korea\u2019s Gyeonggi Province to test stablecoin for public payments in August",
+      "take": "South Korea's Gyeonggi Province pilots stablecoin for public payments in August",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-competition-solana-blockchain/"
+      "link": "https://cryptobriefing.com/south-koreas-gyeonggi-province-test-stablecoin-public-payments-august/"
     },
     {
-      "headline": "Polymarket seeks approval to bring margin trading to U.S. customers",
-      "take": "Polymarket seeks approval to bring margin trading to US customers",
+      "headline": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+      "take": "OKX, MetaMask, Matter Labs establish dispute resolution court for AI agents",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers"
+      "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents"
     },
     {
-      "headline": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-      "take": "Metaplanet explores bitcoin-backed digital credit for Japan",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan"
-    },
-    {
-      "headline": "Zcash\u2019s Ironwood upgrade set for July 28 to address fake ZEC counterfeiting bug",
-      "take": "Zcash's Ironwood upgrade on July 28 addresses fake ZEC counterfeiting",
+      "headline": "Sunrun launches pilot program to turn solar-powered homes into distributed AI data centers",
+      "take": "Sunrun launches pilot converting solar homes into distributed AI data centers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-ironwood-upgrade-fake-zec/"
+      "link": "https://cryptobriefing.com/sunrun-distributed-ai-data-centers-pilot/"
+    },
+    {
+      "headline": "Oklo acquires Creative Engineers to bolster Aurora reactor development",
+      "take": "Oklo acquires Creative Engineers to advance Aurora nuclear reactor development",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oklo-acquires-creative-engineers-aurora/"
     }
   ],
-  "security": [
-    {
-      "headline": "Ledger researchers reveal laser attack vulnerability in Tangem wallets",
-      "take": "Ledger researchers reveal laser attack vulnerability in Tangem wallets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-laser-attack-tangem-wallet-vulnerability/"
-    },
-    {
-      "headline": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
-      "take": "Federal inmate charged over alleged $290K theft of forfeited crypto",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "UK Labour MPs push to permanently ban crypto political donations",
-      "take": "UK Labour MPs push to permanently ban crypto political donations",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss"
+      "headline": "Trump refuses to sign bipartisan housing bill that includes four-year CBDC ban",
+      "take": "Trump refuses bipartisan housing bill with four-year CBDC ban provision included",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-refuses-housing-bill-cbdc-ban/"
     },
     {
-      "headline": "EU parliament passes \u2018chat control,\u2019 allowing private chat scans until 2028",
-      "take": "EU parliament passes chat control allowing private message scans until 2028",
+      "headline": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "take": "Andreessen joins Federal Reserve role as artificial intelligence reshapes policy",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
-      "take": "North Carolina recognizes CFTC preemption over prediction markets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss"
+      "headline": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+      "take": "MiCA licensing expands as crypto custodians face increasing regulatory scrutiny",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
+      "take": "Crypto lobby's one-hundred-eighty-nine-million-dollar campaign pushes CLARITY legislation forward",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

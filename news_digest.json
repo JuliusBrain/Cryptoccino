@@ -1,89 +1,114 @@
 {
-  "generated": "2026-07-10T15:05:07.846716+00:00",
-  "ts": 1783695907,
+  "generated": "2026-07-10T17:12:16.018909+00:00",
+  "ts": 1783703536,
   "market": [
     {
-      "headline": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
-      "take": "Circle gains federal banking charter approval, validating stablecoin regulatory pathway",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter"
+      "headline": "Federal Reserve holds rates steady as Bitcoin jumps past $60K on Warsh\u2019s inflation comments",
+      "take": "Federal Reserve holds rates steady; Bitcoin jumps past $60K on inflation comments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-holds-rates-bitcoin-rallies-warsh/"
+    },
+    {
+      "headline": "UBS proprietary market fragility index reaches all-time high, signaling potential for violent corrections",
+      "take": "UBS fragility index at all-time high, signaling potential for violent market corrections",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ubs-market-fragility-index-record-high/"
     },
     {
       "headline": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
-      "take": "Bitcoin strategic sales deemed noise; analyst maintains hundred-thousand-dollar target",
+      "take": "Standard Chartered dismisses Bitcoin sales as noise, maintains $100K price target",
       "source": "decrypt",
       "link": "https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call"
     },
     {
-      "headline": "Robinhood DEX volume surpasses $690M in 24 hours",
-      "take": "Robinhood DEX volume reaches six hundred ninety million in single day",
+      "headline": "Investors dump longer-dated AI debt as Big Tech\u2019s $159 billion borrowing binge tests market appetite",
+      "take": "Investors dump longer-dated AI debt as Big Tech's $159B borrowing tests appetite",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-dex-volume-690-million/"
+      "link": "https://cryptobriefing.com/investors-sell-longer-dated-ai-debt-big-tech/"
     },
     {
-      "headline": "South Korea, Taiwan lead $46B emerging market equity exodus in June",
-      "take": "South Korea and Taiwan lead forty-six billion dollar emerging market equity exit",
+      "headline": "Ethena\u2019s USDe deposits surge to $324M on Morpho in four weeks",
+      "take": "Ethena's USDe deposits surge to $324M on Morpho in four weeks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-taiwan-46-billion-emerging-market-exodus/"
-    },
-    {
-      "headline": "Solana reaches Mainnet Epoch 1000 milestone",
-      "take": "Solana network reaches mainnet epoch one thousand, marking network maturation milestone",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-mainnet-epoch-1000-milestone/"
+      "link": "https://cryptobriefing.com/ethena-usde-morpho-deposits-surge/"
     }
   ],
   "business": [
     {
-      "headline": "South Korea\u2019s Gyeonggi Province to test stablecoin for public payments in August",
-      "take": "South Korea's Gyeonggi Province pilots stablecoin for public payments in August",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-koreas-gyeonggi-province-test-stablecoin-public-payments-august/"
+      "headline": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
+      "take": "Kraken relaunches mobile app with agentic trading and advice at center",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-      "take": "OKX, MetaMask, Matter Labs establish dispute resolution court for AI agents",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents"
+      "headline": "Coinbase executive predicts stablecoins will surpass fiat volume in 5 years",
+      "take": "Coinbase executive predicts stablecoins will surpass fiat volume in five years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-stablecoins-surpass-fiat-volume/"
     },
     {
-      "headline": "Sunrun launches pilot program to turn solar-powered homes into distributed AI data centers",
-      "take": "Sunrun launches pilot converting solar homes into distributed AI data centers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sunrun-distributed-ai-data-centers-pilot/"
+      "headline": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
+      "take": "Empery Digital offloads 1,400 bitcoins to fund AI pivot and pay debt",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Oklo acquires Creative Engineers to bolster Aurora reactor development",
-      "take": "Oklo acquires Creative Engineers to advance Aurora nuclear reactor development",
+      "headline": "Backpack launches 24/7 market for US equities with SpaceX, Micron, and SanDisk",
+      "take": "Backpack launches 24/7 market for US equities including SpaceX and Micron",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oklo-acquires-creative-engineers-aurora/"
+      "link": "https://cryptobriefing.com/backpack-launches-24-7-market-us-equities-spacex-micron-sandisk/"
+    },
+    {
+      "headline": "Beefy launches autocompounding vaults for Aave with up to 9% APY",
+      "take": "Beefy launches autocompounding vaults for Aave offering up to 9% APY",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/beefy-aave-autocompounding-vaults-9-percent-apy/"
     }
   ],
-  "security": [],
-  "policy": [
+  "security": [
     {
-      "headline": "Trump refuses to sign bipartisan housing bill that includes four-year CBDC ban",
-      "take": "Trump refuses bipartisan housing bill with four-year CBDC ban provision included",
+      "headline": "Cambridge research reveals 31% of Ethereum node activity concentrated in the US",
+      "take": "31% of Ethereum node activity concentrated in US, third going offline stalls finalization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-refuses-housing-bill-cbdc-ban/"
+      "link": "https://cryptobriefing.com/cambridge-ethereum-node-us-concentration/"
     },
     {
-      "headline": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
-      "take": "Andreessen joins Federal Reserve role as artificial intelligence reshapes policy",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "OpenAI and Google caught selling AI models to Pentagon-blacklisted Chinese firms",
+      "take": "OpenAI and Google caught selling AI models to Pentagon-blacklisted Chinese firms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-google-ai-pentagon-blacklisted-chinese-firms/"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+      "take": "US government digital dollar set to be banned under housing law's CBDC limit",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit"
+    },
+    {
+      "headline": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
+      "take": "Circle wins final Federal Banking Charter approval as stablecoin issuer",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter"
     },
     {
       "headline": "MiCA licensing only the beginning as crypto custodians face scrutiny",
-      "take": "MiCA licensing expands as crypto custodians face increasing regulatory scrutiny",
+      "take": "MiCA licensing only beginning as crypto custodians face increased regulatory scrutiny",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
-      "take": "Crypto lobby's one-hundred-eighty-nine-million-dollar campaign pushes CLARITY legislation forward",
+      "headline": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "take": "Andreessen lands Federal Reserve role as AI reshapes policy debate",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "take": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers"
     }
   ]
 }

@@ -1,94 +1,51 @@
 {
-  "generated": "2026-07-11T08:16:21.451459+00:00",
-  "ts": 1783757781,
+  "generated": "2026-07-11T10:36:12.737836+00:00",
+  "ts": 1783766172,
   "market": [
     {
-      "headline": "US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10",
-      "take": "Bitcoin ETFs added $90M, Ethereum ETFs added $18M on July 10",
+      "headline": "$1.5B Bitcoin treasury raise scrapped as SPAC vehicle loses its premium",
+      "take": "Bitcoin treasury raise worth $1.5B abandoned as SPAC loses valuation premium",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/"
-    },
-    {
-      "headline": "BlackRock leads $86M Bitcoin ETF inflow day, snapping weeks of bleeding",
-      "take": "BlackRock led $86M Bitcoin ETF inflow, reversing weeks of outflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-etf-inflow-reversal/"
+      "link": "https://cryptobriefing.com/bitcoin-treasury-spac-raise-canceled/"
     },
     {
       "headline": "Bitcoin analysts predict $300,000\u2013$500,000 price in 2029. The math says no",
-      "take": "Bitcoin analysts predict $300k\u2013$500k by 2029 despite mathematical skepticism",
+      "take": "Bitcoin analysts project $300k\u2013$500k by 2029; mathematical models suggest skepticism warranted",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
-    },
-    {
-      "headline": "Trump declares Iran ceasefire over but says talks will continue, rattling crypto markets",
-      "take": "Trump declares Iran ceasefire over; talks continue, rattling crypto markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-ceasefire-crypto-markets-2/"
-    },
-    {
-      "headline": "Argentina\u2019s World Cup quarterfinal run is quietly pumping the $ARG fan token",
-      "take": "Argentina's World Cup run quietly boosting $ARG fan token",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-world-cup-arg-fan-token/"
     }
   ],
   "business": [
     {
       "headline": "Solana Music nears launch, aims to disrupt Spotify with new platform",
-      "take": "Solana Music nears launch to compete with Spotify streaming platform",
+      "take": "Solana Music approaching launch to compete directly with Spotify streaming model",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-music-launch-spotify-challenger/"
     },
     {
-      "headline": "Pendle upgrades Bungee Exchange V3 for seamless cross-chain swaps",
-      "take": "Pendle upgrades Bungee Exchange V3 for seamless cross-chain swaps",
+      "headline": "Crypto billionaires back Liberland\u2019s experimental political project where money buys votes",
+      "take": "Crypto billionaires backing Liberland experimental state where money determines voting power",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-bungee-v3-cross-chain-swaps/"
+      "link": "https://cryptobriefing.com/crypto-billionaires-liberland-political-project/"
     },
     {
-      "headline": "Intel\u2019s comeback play: US government takes 10% stake as Apple and Nvidia partnerships reshape chip supply chains",
-      "take": "US government takes 10% stake in Intel amid chip supply reshaping",
+      "headline": "Coach Score locks in four-year extension with KT Rolster as esports orgs bet big on long-term deals",
+      "take": "Esports organization KT Rolster extends Coach Score deal four years amid industry consolidation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/intel-us-government-stake-apple-nvidia-chips/"
-    },
-    {
-      "headline": "OpenRouter\u2019s 100 trillion token study reveals open-weight AI models are eating the market",
-      "take": "Open-weight AI models gaining market share over closed proprietary systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openrouter-100-trillion-token-study/"
-    },
-    {
-      "headline": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-      "take": "Meta's Chief Data Officer highlights agentic commerce as next business tier",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
+      "link": "https://cryptobriefing.com/coach-score-kt-rolster-contract-2029/"
     }
   ],
-  "security": [
-    {
-      "headline": "Apple sues OpenAI for alleged trade secret theft in hardware push",
-      "take": "Apple sues OpenAI alleging trade secret theft in hardware development",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-sues-openai-trade-secret-theft/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
       "headline": "Housing bill that includes a CBDC ban passed into law without Trump\u2019s signature",
-      "take": "Housing bill including CBDC ban passed law without Trump signature",
+      "take": "Housing bill including CBDC ban enacted into law without presidential signature required",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
-      "take": "Senate Democrats call for hearings on Trump's crypto ties",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-      "take": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster",
+      "take": "DOJ seeks dismissal of charges against alleged $722M BitClub Ponzi scheme operator",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

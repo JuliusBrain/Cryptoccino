@@ -1,96 +1,90 @@
 {
-  "generated": "2026-07-11T16:12:04.891977+00:00",
-  "ts": 1783786324,
+  "generated": "2026-07-11T19:34:59.043651+00:00",
+  "ts": 1783798499,
   "market": [
     {
       "headline": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-      "take": "Bitcoin and ether ETFs snap eight-week outflow streaks with $282M inflow",
+      "take": "Bitcoin and ether ETFs see inflows after eight-week outflow streak ends",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bill Miller highlights strong fundamental case for Bitcoin amid $1.9T US deficit",
-      "take": "Bill Miller sees strong fundamental case for Bitcoin amid US deficit concerns",
+      "headline": "Primary dealers go net short on US Treasury debt for first time",
+      "take": "Primary dealers go net short on US Treasury debt for the first time",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bill-miller-bitcoin-case-us-deficit/"
+      "link": "https://cryptobriefing.com/primary-dealers-net-short-us-treasury-debt/"
     },
     {
-      "headline": "Barclays and Morgan Stanley raise Robinhood price target by up to 50% as crypto bet pays off",
-      "take": "Barclays and Morgan Stanley raise Robinhood price target on crypto bet gains",
+      "headline": "Nearly half of Nasdaq 100 stocks are in bear market territory, and the index keeps climbing anyway",
+      "take": "Nearly half of Nasdaq 100 stocks in bear market despite index climbing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/barclays-morgan-stanley-raise-robinhood-price-target/"
+      "link": "https://cryptobriefing.com/nasdaq-100-breadth-weakens-48-percent-below-peaks/"
     },
     {
-      "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-      "take": "Empery Digital sold approximately half of its Bitcoin treasury holdings",
+      "headline": "Trump declares US-Iran ceasefire over as Bitcoin slides toward $60K",
+      "take": "Bitcoin slides toward sixty thousand as US-Iran ceasefire tensions rise",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-iran-ceasefire-over-bitcoin-slides/"
+    },
+    {
+      "headline": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "take": "Crypto IPO market stalls amid AI capital rotation and macro uncertainty",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
+      "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
     }
   ],
   "business": [
     {
-      "headline": "SUI breaks record with 6 million transactions per second in AI agent experiment",
-      "take": "SUI achieves 6 million transactions per second in AI agent experiment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sui-6-million-tps-ai-agent-record/"
+      "headline": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+      "take": "Robinhood launches Ethereum layer-two network for tokenized stocks trading",
+      "source": "decrypt",
+      "link": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks"
     },
     {
-      "headline": "Polymarket launches combo trading feature, bringing parlay-style bets to prediction markets",
-      "take": "Polymarket launches combo trading feature enabling parlay-style prediction market bets",
+      "headline": "Ethereum Foundation fixes remotely triggerable crash found by AI",
+      "take": "Ethereum Foundation fixes remotely triggerable crash discovered by AI system",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-combo-trading-feature/"
+      "link": "https://cryptobriefing.com/ethereum-foundation-ai-crash-bug-fix/"
     },
     {
-      "headline": "Robinhood Chain\u2019s perps deal with Lighter spans 12 years of relationship building, says CEO Novakovski",
-      "take": "Robinhood Chain secures perpetuals partnership with Lighter after years of relationship building",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-lighter-perps-deal-12-years/"
-    },
-    {
-      "headline": "MetaDAO tackles Solana\u2019s token credibility crisis with \u2018ownership coins\u2019 pitched at inaugural meeting",
-      "take": "MetaDAO proposes ownership coins to address Solana token credibility concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metadao-solana-token-ownership-coins/"
+      "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "take": "Bitcoin treasury firm Empery Digital sells roughly half of holdings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
     }
   ],
   "security": [
     {
-      "headline": "Bonzo Lend loses $9M in oracle exploit on Hedera",
-      "take": "Bonzo Lend loses $9M in oracle exploit on Hedera network",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+      "take": "Bonzo Lend protocol loses nine million dollars in Supra oracle price manipulation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-      "take": "AI identified Ethereum validator bug; human verification required for confirmation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it"
-    },
-    {
-      "headline": "Privy manages key reconstitution for 120M wallets, exposing risks",
-      "take": "Privy's key reconstitution process for 120M wallets exposes security architecture risks",
+      "headline": "Argentina Football Association confirms email hack after World Cup win over Egypt",
+      "take": "Argentina Football Association suffers email breach after World Cup victory",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/privy-120m-wallets-key-reconstitution-risks/"
+      "link": "https://cryptobriefing.com/argentina-football-email-hack-world-cup/"
+    },
+    {
+      "headline": "Polymarket\u2019s 5-minute Bitcoin contracts spark price manipulation concerns",
+      "take": "Polymarket's five-minute Bitcoin contracts raise price manipulation concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-bitcoin-contracts-price-manipulation/"
     }
   ],
   "policy": [
     {
+      "headline": "Bitcoin Policy Institute opposes NYC case on self-custodied Bitcoin status",
+      "take": "Bitcoin Policy Institute opposes New York case on self-custodied Bitcoin status",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-policy-institute-nyc-self-custody-case/"
+    },
+    {
       "headline": "The UK has finally shown it\u2019s serious about crypto",
-      "take": "UK demonstrates serious commitment to cryptocurrency regulatory framework",
+      "take": "United Kingdom demonstrates serious commitment to cryptocurrency regulation framework",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
-    },
-    {
-      "headline": "US delists Syria as state sponsor of terrorism, sparking economic optimism and potential crypto use cases",
-      "take": "US delists Syria as state sponsor of terrorism, creating economic and crypto opportunities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-delists-syria-terrorism-crypto-implications/"
-    },
-    {
-      "headline": "Donald Trump sets deadline for US negotiators to finalize Iran deal, and crypto markets are paying attention",
-      "take": "Trump sets deadline for US negotiators finalizing Iran deal; crypto markets monitoring",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-deal-deadline-crypto-markets/"
     }
   ]
 }

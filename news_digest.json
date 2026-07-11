@@ -1,53 +1,96 @@
 {
-  "generated": "2026-07-11T10:36:12.737836+00:00",
-  "ts": 1783766172,
+  "generated": "2026-07-11T13:57:28.372093+00:00",
+  "ts": 1783778248,
   "market": [
     {
-      "headline": "$1.5B Bitcoin treasury raise scrapped as SPAC vehicle loses its premium",
-      "take": "Bitcoin treasury raise worth $1.5B abandoned as SPAC loses valuation premium",
+      "headline": "Uniswap\u2019s daily active traders on Robinhood Chain surpass 220K as volume hits $1B",
+      "take": "Uniswap daily traders on Robinhood Chain exceed 220K with $1B volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-treasury-spac-raise-canceled/"
+      "link": "https://cryptobriefing.com/uniswap-robinhood-chain-volume-1b/"
     },
     {
       "headline": "Bitcoin analysts predict $300,000\u2013$500,000 price in 2029. The math says no",
-      "take": "Bitcoin analysts project $300k\u2013$500k by 2029; mathematical models suggest skepticism warranted",
+      "take": "Bitcoin analysts project $300K\u2013$500K by 2029; mathematical models suggest otherwise",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
+    },
+    {
+      "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "take": "Empery Digital sold approximately half of its Bitcoin treasury holdings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
+    },
+    {
+      "headline": "Messi\u2019s World Cup match against Switzerland is already moving the $ARG fan token",
+      "take": "Messi's World Cup match against Switzerland drives $ARG fan token activity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/messi-world-cup-arg-fan-token-3/"
     }
   ],
   "business": [
     {
-      "headline": "Solana Music nears launch, aims to disrupt Spotify with new platform",
-      "take": "Solana Music approaching launch to compete directly with Spotify streaming model",
+      "headline": "Robinhood enables AI agent trading for millions of US users",
+      "take": "Robinhood enables AI agent trading access for millions of US users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-music-launch-spotify-challenger/"
+      "link": "https://cryptobriefing.com/robinhood-ai-agent-crypto-trading-2/"
     },
     {
-      "headline": "Crypto billionaires back Liberland\u2019s experimental political project where money buys votes",
-      "take": "Crypto billionaires backing Liberland experimental state where money determines voting power",
+      "headline": "SK Hynix\u2019s record $26.5B US listing signals where the real AI money is flowing",
+      "take": "SK Hynix's $26.5B US listing reveals where major AI investment capital flows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-billionaires-liberland-political-project/"
+      "link": "https://cryptobriefing.com/sk-hynix-record-us-listing-ai-memory/"
     },
     {
-      "headline": "Coach Score locks in four-year extension with KT Rolster as esports orgs bet big on long-term deals",
-      "take": "Esports organization KT Rolster extends Coach Score deal four years amid industry consolidation",
+      "headline": "FIFA eyes Qatar for 2029 Club World Cup winter edition, and sports tokenization could be the real winner",
+      "take": "FIFA considers Qatar for 2029 Club World Cup; sports tokenization gains prominence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coach-score-kt-rolster-contract-2029/"
+      "link": "https://cryptobriefing.com/fifa-qatar-2029-club-world-cup-winter/"
+    },
+    {
+      "headline": "Kraken\u2019s FIFA deal and the World Cup\u2019s quiet crypto experiment",
+      "take": "Kraken's FIFA sponsorship demonstrates World Cup becoming crypto's mainstream experiment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-partnership-6/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "BonkDAO\u2019s $20M treasury drained after attacker spends $4.4M on BONK tokens to hijack governance vote",
+      "take": "BonkDAO treasury drained; attacker spent $4.4M to hijack governance vote",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bonkdao-treasury-governance-attack/"
+    },
+    {
+      "headline": "$5.25 million stolen in suspected Hedera network exploit as funds move to Ethereum",
+      "take": "$5.25M stolen in suspected Hedera network exploit, funds moved to Ethereum",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hedera-network-exploit-5m-stolen/"
+    },
+    {
+      "headline": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+      "take": "AI discovered Ethereum validator-offline bug; human verification still required",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it"
+    }
+  ],
   "policy": [
     {
       "headline": "Housing bill that includes a CBDC ban passed into law without Trump\u2019s signature",
-      "take": "Housing bill including CBDC ban enacted into law without presidential signature required",
+      "take": "Housing bill including CBDC ban passed into law without Trump signature",
       "source": "theblock",
       "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-      "take": "DOJ seeks dismissal of charges against alleged $722M BitClub Ponzi scheme operator",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Federal Reserve Governor Christopher Waller challenges Trump\u2019s call for lower rates",
+      "take": "Federal Reserve Governor Waller challenges Trump's call for lower interest rates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-waller-challenges-trump-rate-cuts/"
+    },
+    {
+      "headline": "US gives Iran ultimatum to reopen Strait of Hormuz as Bitcoin feels the pressure",
+      "take": "US ultimatum to Iran on Strait of Hormuz creates Bitcoin market pressure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-iran-ultimatum-strait-hormuz-bitcoin/"
     }
   ]
 }

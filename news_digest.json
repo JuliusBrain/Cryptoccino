@@ -1,88 +1,70 @@
 {
-  "generated": "2026-07-11T19:34:59.043651+00:00",
-  "ts": 1783798499,
+  "generated": "2026-07-11T22:09:54.569574+00:00",
+  "ts": 1783807794,
   "market": [
     {
       "headline": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-      "take": "Bitcoin and ether ETFs see inflows after eight-week outflow streak ends",
+      "take": "Bitcoin and ether ETFs reverse eight-week outflow trend with $282M inflow",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Primary dealers go net short on US Treasury debt for first time",
-      "take": "Primary dealers go net short on US Treasury debt for the first time",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/primary-dealers-net-short-us-treasury-debt/"
-    },
-    {
-      "headline": "Nearly half of Nasdaq 100 stocks are in bear market territory, and the index keeps climbing anyway",
-      "take": "Nearly half of Nasdaq 100 stocks in bear market despite index climbing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-breadth-weakens-48-percent-below-peaks/"
-    },
-    {
-      "headline": "Trump declares US-Iran ceasefire over as Bitcoin slides toward $60K",
-      "take": "Bitcoin slides toward sixty thousand as US-Iran ceasefire tensions rise",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-ceasefire-over-bitcoin-slides/"
+      "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "take": "Empery Digital sells roughly half its Bitcoin treasury holdings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
     },
     {
       "headline": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "take": "Crypto IPO market stalls amid AI capital rotation and macro uncertainty",
+      "take": "Crypto IPO market stalls as capital shifts toward AI amid macro uncertainty",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
+    },
+    {
+      "headline": "The $JUDE meme token crashed 98% while its namesake scored World Cup bangers for England",
+      "take": "JUDE meme token crashes 98% while namesake scores World Cup goals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jude-token-crashed-98-percent-world-cup/"
+    },
+    {
+      "headline": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
+      "take": "Iran-US Strait of Hormuz tensions pressure Bitcoin amid geopolitical escalation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-us-ultimatum-strait-hormuz-bitcoin/"
     }
   ],
   "business": [
     {
       "headline": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-      "take": "Robinhood launches Ethereum layer-two network for tokenized stocks trading",
+      "take": "Robinhood launches Ethereum Layer-2 network for tokenized stock trading",
       "source": "decrypt",
       "link": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks"
-    },
-    {
-      "headline": "Ethereum Foundation fixes remotely triggerable crash found by AI",
-      "take": "Ethereum Foundation fixes remotely triggerable crash discovered by AI system",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-foundation-ai-crash-bug-fix/"
-    },
-    {
-      "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-      "take": "Bitcoin treasury firm Empery Digital sells roughly half of holdings",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
     }
   ],
   "security": [
     {
       "headline": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
-      "take": "Bonzo Lend protocol loses nine million dollars in Supra oracle price manipulation",
+      "take": "Bonzo Lend loses $9 million on Hedera after oracle accepts manipulated price",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Argentina Football Association confirms email hack after World Cup win over Egypt",
-      "take": "Argentina Football Association suffers email breach after World Cup victory",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-football-email-hack-world-cup/"
-    },
-    {
-      "headline": "Polymarket\u2019s 5-minute Bitcoin contracts spark price manipulation concerns",
-      "take": "Polymarket's five-minute Bitcoin contracts raise price manipulation concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-bitcoin-contracts-price-manipulation/"
+      "headline": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+      "take": "AI discovers Ethereum bug risking validator offline status; humans validated proof",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it"
     }
   ],
   "policy": [
     {
-      "headline": "Bitcoin Policy Institute opposes NYC case on self-custodied Bitcoin status",
-      "take": "Bitcoin Policy Institute opposes New York case on self-custodied Bitcoin status",
+      "headline": "US demands Iran reopen Strait of Hormuz by Saturday amid tensions",
+      "take": "US demands Iran reopen Strait of Hormuz by Saturday amid escalating tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-policy-institute-nyc-self-custody-case/"
+      "link": "https://cryptobriefing.com/us-demands-iran-reopen-strait-of-hormuz-by-saturday-amid-tensions/"
     },
     {
       "headline": "The UK has finally shown it\u2019s serious about crypto",
-      "take": "United Kingdom demonstrates serious commitment to cryptocurrency regulation framework",
+      "take": "UK signals serious commitment to crypto regulation and industry oversight",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
     }

@@ -1,102 +1,120 @@
 {
-  "generated": "2026-07-10T22:27:18.124592+00:00",
-  "ts": 1783722438,
+  "generated": "2026-07-11T03:45:59.373446+00:00",
+  "ts": 1783741559,
   "market": [
     {
-      "headline": "Uniswap surpasses $1B in volume on Robinhood Chain just nine days after launch",
-      "take": "Uniswap exceeds $1B volume on Robinhood Chain nine days after launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-1b-volume-robinhood-chain/"
+      "headline": "Bitcoin analysts predict $300,000\u2013$500,000 price in 2029. The math says no",
+      "take": "Bitcoin price predictions for 2029 lack mathematical rigor",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
     },
     {
-      "headline": "Trump declares Iran ceasefire over, warns of retaliation as Bitcoin slides more than 3%",
-      "take": "Trump declares Iran ceasefire over; Bitcoin slides more than three percent",
+      "headline": "Ethereum\u2019s annual power use falls to 7.87 GWh after The Merge",
+      "take": "Ethereum annual power use dropped to 7.87 GWh post-Merge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-ceasefire-over-bitcoin-drops-3/"
+      "link": "https://cryptobriefing.com/ethereum-power-use-falls-after-merge/"
     },
     {
-      "headline": "Expert warns Federal Reserve may reverse rate cuts that stabilized economy",
-      "take": "Federal Reserve may reverse rate cuts that stabilized the economy",
+      "headline": "Meta stock surges 15% in best weekly rally since early 2024, fueled by AI momentum",
+      "take": "Meta stock rallies 15% in best week since early 2024",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-reverse-rate-cuts-crypto-impact/"
+      "link": "https://cryptobriefing.com/meta-stock-surges-best-week-ai-rally/"
     },
     {
-      "headline": "Exodus Movement sells 56 Bitcoin in June, trimming treasury to 600 BTC",
-      "take": "Exodus Movement sells 56 Bitcoin, reducing treasury to 600 BTC",
+      "headline": "GameSquare faces NASDAQ delisting risk after 83% stock drop",
+      "take": "GameSquare faces delisting after 83 percent stock decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/exodus-movement-sells-bitcoin-treasury/"
+      "link": "https://cryptobriefing.com/gamesquare-nasdaq-delisting-risk-stock-drop/"
     },
     {
       "headline": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
-      "take": "Bitcoin treasury firm Empery Digital sells nearly half holdings for $87M",
+      "take": "Empery Digital sells half Bitcoin treasury for $87 million",
       "source": "decrypt",
       "link": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million"
     }
   ],
   "business": [
     {
+      "headline": "Injective launches institutional infrastructure page to onboard enterprises into onchain finance",
+      "take": "Injective launches institutional onchain finance infrastructure page",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-institutional-infrastructure-launch/"
+    },
+    {
+      "headline": "SK Hynix makes historic NASDAQ debut amid AI-driven demand",
+      "take": "SK Hynix makes historic NASDAQ debut during AI demand surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sk-hynix-nasdaq-debut-ai-demand/"
+    },
+    {
+      "headline": "Circle highlights mobile money frameworks as foundation for stablecoin adoption",
+      "take": "Circle promotes mobile money frameworks for stablecoin adoption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-mobile-money-stablecoin-adoption/"
+    },
+    {
       "headline": "Radar Chat launches as Signal fork with built-in self-custodial Bitcoin Lightning payments",
-      "take": "Radar Chat launches as Signal fork with built-in Bitcoin Lightning payments",
+      "take": "Radar Chat launches Signal fork with Bitcoin Lightning payments",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/radar-chat-signal-fork-bitcoin-lightning/"
     },
     {
-      "headline": "Robinhood Chain surpasses Tempo in daily active users just days after launch",
-      "take": "Robinhood Chain surpasses Tempo in daily active users days after launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-surpasses-tempo-daily-users/"
-    },
-    {
-      "headline": "Nico Williams recovery and Kraken\u2019s FIFA deal put sports crypto in the spotlight",
-      "take": "Kraken and sports crypto gain prominence through player recovery and partnerships",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nico-williams-recovery-kraken-fifa-world-cup-crypto/"
-    },
-    {
-      "headline": "GameSquare faces NASDAQ delisting risk after 83% stock drop",
-      "take": "GameSquare faces NASDAQ delisting risk following eighty-three percent stock drop",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gamesquare-nasdaq-delisting-risk-stock-drop/"
+      "headline": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "take": "Meta's chief data officer sees agentic commerce as next tier",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
     }
   ],
   "security": [
     {
+      "headline": "Google\u2019s new quantum calibration breakthrough brings post-quantum crypto timeline into sharper focus",
+      "take": "Google's quantum calibration advances post-quantum crypto timeline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-quantum-calibration-crypto-implications/"
+    },
+    {
+      "headline": "Meta halts AI image feature after user backlash over privacy and consent concerns",
+      "take": "Meta halts AI image feature after privacy and consent backlash",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-halts-ai-image-feature-backlash/"
+    },
+    {
       "headline": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
-      "take": "Apple sues OpenAI claiming former employees stole trade secrets",
+      "take": "Apple sues OpenAI over alleged employee trade secret theft",
       "source": "decrypt",
       "link": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"
     }
   ],
   "policy": [
     {
-      "headline": "Coinbase Vice Chair says Crypto Clarity Act is \u2018on the one-yard line\u2019",
-      "take": "Coinbase Vice Chair says Crypto Clarity Act nearing final passage stage",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-nearing-passage-coinbase/"
-    },
-    {
-      "headline": "Here\u2019s what\u2019s next for the Clarity Act as Congress returns to Washington",
-      "take": "Senate awaits next steps for Clarity Act as Congress returns to Washington",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss"
+      "headline": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
+      "take": "Senate Democrats call hearings on Trump's crypto ties and CLARITY Act",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "US CBDC ban to go into effect without Trump signoff on housing bill",
-      "take": "US CBDC ban takes effect without Trump signoff on housing bill",
+      "take": "US CBDC ban takes effect without Trump housing bill signoff",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Senate quartet announces breakthrough on sanctions against Russia",
-      "take": "Senate announces breakthrough on new sanctions against Russia",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-russia-sanctions-breakthrough-2025/"
+      "headline": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+      "take": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
-      "take": "Senate Democrats call for hearings into Trump's cryptocurrency ties and profits",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC tightens rules on activist investor filings, expanding disclosure requirements",
+      "take": "SEC tightens rules on activist investor filing disclosure requirements",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-activist-investor-disclosure-rules/"
+    },
+    {
+      "headline": "US eases export controls on advanced chips and drones for UAE in major policy shift",
+      "take": "US eases chip and drone export controls to UAE in policy shift",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-eases-chip-export-controls-uae/"
     }
   ]
 }

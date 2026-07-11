@@ -1,120 +1,96 @@
 {
-  "generated": "2026-07-11T03:45:59.373446+00:00",
-  "ts": 1783741559,
+  "generated": "2026-07-11T08:16:21.451459+00:00",
+  "ts": 1783757781,
   "market": [
     {
+      "headline": "US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10",
+      "take": "Bitcoin ETFs added $90M, Ethereum ETFs added $18M on July 10",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/"
+    },
+    {
+      "headline": "BlackRock leads $86M Bitcoin ETF inflow day, snapping weeks of bleeding",
+      "take": "BlackRock led $86M Bitcoin ETF inflow, reversing weeks of outflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-etf-inflow-reversal/"
+    },
+    {
       "headline": "Bitcoin analysts predict $300,000\u2013$500,000 price in 2029. The math says no",
-      "take": "Bitcoin price predictions for 2029 lack mathematical rigor",
+      "take": "Bitcoin analysts predict $300k\u2013$500k by 2029 despite mathematical skepticism",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
     },
     {
-      "headline": "Ethereum\u2019s annual power use falls to 7.87 GWh after The Merge",
-      "take": "Ethereum annual power use dropped to 7.87 GWh post-Merge",
+      "headline": "Trump declares Iran ceasefire over but says talks will continue, rattling crypto markets",
+      "take": "Trump declares Iran ceasefire over; talks continue, rattling crypto markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-power-use-falls-after-merge/"
+      "link": "https://cryptobriefing.com/trump-iran-ceasefire-crypto-markets-2/"
     },
     {
-      "headline": "Meta stock surges 15% in best weekly rally since early 2024, fueled by AI momentum",
-      "take": "Meta stock rallies 15% in best week since early 2024",
+      "headline": "Argentina\u2019s World Cup quarterfinal run is quietly pumping the $ARG fan token",
+      "take": "Argentina's World Cup run quietly boosting $ARG fan token",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-stock-surges-best-week-ai-rally/"
-    },
-    {
-      "headline": "GameSquare faces NASDAQ delisting risk after 83% stock drop",
-      "take": "GameSquare faces delisting after 83 percent stock decline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gamesquare-nasdaq-delisting-risk-stock-drop/"
-    },
-    {
-      "headline": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
-      "take": "Empery Digital sells half Bitcoin treasury for $87 million",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million"
+      "link": "https://cryptobriefing.com/argentina-world-cup-arg-fan-token/"
     }
   ],
   "business": [
     {
-      "headline": "Injective launches institutional infrastructure page to onboard enterprises into onchain finance",
-      "take": "Injective launches institutional onchain finance infrastructure page",
+      "headline": "Solana Music nears launch, aims to disrupt Spotify with new platform",
+      "take": "Solana Music nears launch to compete with Spotify streaming platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-institutional-infrastructure-launch/"
+      "link": "https://cryptobriefing.com/solana-music-launch-spotify-challenger/"
     },
     {
-      "headline": "SK Hynix makes historic NASDAQ debut amid AI-driven demand",
-      "take": "SK Hynix makes historic NASDAQ debut during AI demand surge",
+      "headline": "Pendle upgrades Bungee Exchange V3 for seamless cross-chain swaps",
+      "take": "Pendle upgrades Bungee Exchange V3 for seamless cross-chain swaps",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-nasdaq-debut-ai-demand/"
+      "link": "https://cryptobriefing.com/pendle-bungee-v3-cross-chain-swaps/"
     },
     {
-      "headline": "Circle highlights mobile money frameworks as foundation for stablecoin adoption",
-      "take": "Circle promotes mobile money frameworks for stablecoin adoption",
+      "headline": "Intel\u2019s comeback play: US government takes 10% stake as Apple and Nvidia partnerships reshape chip supply chains",
+      "take": "US government takes 10% stake in Intel amid chip supply reshaping",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mobile-money-stablecoin-adoption/"
+      "link": "https://cryptobriefing.com/intel-us-government-stake-apple-nvidia-chips/"
     },
     {
-      "headline": "Radar Chat launches as Signal fork with built-in self-custodial Bitcoin Lightning payments",
-      "take": "Radar Chat launches Signal fork with Bitcoin Lightning payments",
+      "headline": "OpenRouter\u2019s 100 trillion token study reveals open-weight AI models are eating the market",
+      "take": "Open-weight AI models gaining market share over closed proprietary systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/radar-chat-signal-fork-bitcoin-lightning/"
+      "link": "https://cryptobriefing.com/openrouter-100-trillion-token-study/"
     },
     {
       "headline": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-      "take": "Meta's chief data officer sees agentic commerce as next tier",
+      "take": "Meta's Chief Data Officer highlights agentic commerce as next business tier",
       "source": "coindesk",
       "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
     }
   ],
   "security": [
     {
-      "headline": "Google\u2019s new quantum calibration breakthrough brings post-quantum crypto timeline into sharper focus",
-      "take": "Google's quantum calibration advances post-quantum crypto timeline",
+      "headline": "Apple sues OpenAI for alleged trade secret theft in hardware push",
+      "take": "Apple sues OpenAI alleging trade secret theft in hardware development",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-quantum-calibration-crypto-implications/"
-    },
-    {
-      "headline": "Meta halts AI image feature after user backlash over privacy and consent concerns",
-      "take": "Meta halts AI image feature after privacy and consent backlash",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-halts-ai-image-feature-backlash/"
-    },
-    {
-      "headline": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
-      "take": "Apple sues OpenAI over alleged employee trade secret theft",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"
+      "link": "https://cryptobriefing.com/apple-sues-openai-trade-secret-theft/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
-      "take": "Senate Democrats call hearings on Trump's crypto ties and CLARITY Act",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Housing bill that includes a CBDC ban passed into law without Trump\u2019s signature",
+      "take": "Housing bill including CBDC ban passed law without Trump signature",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "US CBDC ban to go into effect without Trump signoff on housing bill",
-      "take": "US CBDC ban takes effect without Trump housing bill signoff",
+      "headline": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
+      "take": "Senate Democrats call for hearings on Trump's crypto ties",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
       "take": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "SEC tightens rules on activist investor filings, expanding disclosure requirements",
-      "take": "SEC tightens rules on activist investor filing disclosure requirements",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-activist-investor-disclosure-rules/"
-    },
-    {
-      "headline": "US eases export controls on advanced chips and drones for UAE in major policy shift",
-      "take": "US eases chip and drone export controls to UAE in policy shift",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-eases-chip-export-controls-uae/"
     }
   ]
 }

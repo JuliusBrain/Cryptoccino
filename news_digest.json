@@ -1,96 +1,96 @@
 {
-  "generated": "2026-07-11T13:57:28.372093+00:00",
-  "ts": 1783778248,
+  "generated": "2026-07-11T16:12:04.891977+00:00",
+  "ts": 1783786324,
   "market": [
     {
-      "headline": "Uniswap\u2019s daily active traders on Robinhood Chain surpass 220K as volume hits $1B",
-      "take": "Uniswap daily traders on Robinhood Chain exceed 220K with $1B volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-robinhood-chain-volume-1b/"
+      "headline": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+      "take": "Bitcoin and ether ETFs snap eight-week outflow streaks with $282M inflow",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitcoin analysts predict $300,000\u2013$500,000 price in 2029. The math says no",
-      "take": "Bitcoin analysts project $300K\u2013$500K by 2029; mathematical models suggest otherwise",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
+      "headline": "Bill Miller highlights strong fundamental case for Bitcoin amid $1.9T US deficit",
+      "take": "Bill Miller sees strong fundamental case for Bitcoin amid US deficit concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bill-miller-bitcoin-case-us-deficit/"
+    },
+    {
+      "headline": "Barclays and Morgan Stanley raise Robinhood price target by up to 50% as crypto bet pays off",
+      "take": "Barclays and Morgan Stanley raise Robinhood price target on crypto bet gains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/barclays-morgan-stanley-raise-robinhood-price-target/"
     },
     {
       "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
       "take": "Empery Digital sold approximately half of its Bitcoin treasury holdings",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
-    },
-    {
-      "headline": "Messi\u2019s World Cup match against Switzerland is already moving the $ARG fan token",
-      "take": "Messi's World Cup match against Switzerland drives $ARG fan token activity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/messi-world-cup-arg-fan-token-3/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood enables AI agent trading for millions of US users",
-      "take": "Robinhood enables AI agent trading access for millions of US users",
+      "headline": "SUI breaks record with 6 million transactions per second in AI agent experiment",
+      "take": "SUI achieves 6 million transactions per second in AI agent experiment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-ai-agent-crypto-trading-2/"
+      "link": "https://cryptobriefing.com/sui-6-million-tps-ai-agent-record/"
     },
     {
-      "headline": "SK Hynix\u2019s record $26.5B US listing signals where the real AI money is flowing",
-      "take": "SK Hynix's $26.5B US listing reveals where major AI investment capital flows",
+      "headline": "Polymarket launches combo trading feature, bringing parlay-style bets to prediction markets",
+      "take": "Polymarket launches combo trading feature enabling parlay-style prediction market bets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-record-us-listing-ai-memory/"
+      "link": "https://cryptobriefing.com/polymarket-combo-trading-feature/"
     },
     {
-      "headline": "FIFA eyes Qatar for 2029 Club World Cup winter edition, and sports tokenization could be the real winner",
-      "take": "FIFA considers Qatar for 2029 Club World Cup; sports tokenization gains prominence",
+      "headline": "Robinhood Chain\u2019s perps deal with Lighter spans 12 years of relationship building, says CEO Novakovski",
+      "take": "Robinhood Chain secures perpetuals partnership with Lighter after years of relationship building",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-qatar-2029-club-world-cup-winter/"
+      "link": "https://cryptobriefing.com/robinhood-chain-lighter-perps-deal-12-years/"
     },
     {
-      "headline": "Kraken\u2019s FIFA deal and the World Cup\u2019s quiet crypto experiment",
-      "take": "Kraken's FIFA sponsorship demonstrates World Cup becoming crypto's mainstream experiment",
+      "headline": "MetaDAO tackles Solana\u2019s token credibility crisis with \u2018ownership coins\u2019 pitched at inaugural meeting",
+      "take": "MetaDAO proposes ownership coins to address Solana token credibility concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-partnership-6/"
+      "link": "https://cryptobriefing.com/metadao-solana-token-ownership-coins/"
     }
   ],
   "security": [
     {
-      "headline": "BonkDAO\u2019s $20M treasury drained after attacker spends $4.4M on BONK tokens to hijack governance vote",
-      "take": "BonkDAO treasury drained; attacker spent $4.4M to hijack governance vote",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bonkdao-treasury-governance-attack/"
-    },
-    {
-      "headline": "$5.25 million stolen in suspected Hedera network exploit as funds move to Ethereum",
-      "take": "$5.25M stolen in suspected Hedera network exploit, funds moved to Ethereum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hedera-network-exploit-5m-stolen/"
+      "headline": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+      "take": "Bonzo Lend loses $9M in oracle exploit on Hedera network",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-      "take": "AI discovered Ethereum validator-offline bug; human verification still required",
+      "take": "AI identified Ethereum validator bug; human verification required for confirmation",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it"
+    },
+    {
+      "headline": "Privy manages key reconstitution for 120M wallets, exposing risks",
+      "take": "Privy's key reconstitution process for 120M wallets exposes security architecture risks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/privy-120m-wallets-key-reconstitution-risks/"
     }
   ],
   "policy": [
     {
-      "headline": "Housing bill that includes a CBDC ban passed into law without Trump\u2019s signature",
-      "take": "Housing bill including CBDC ban passed into law without Trump signature",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss"
+      "headline": "The UK has finally shown it\u2019s serious about crypto",
+      "take": "UK demonstrates serious commitment to cryptocurrency regulatory framework",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
     },
     {
-      "headline": "Federal Reserve Governor Christopher Waller challenges Trump\u2019s call for lower rates",
-      "take": "Federal Reserve Governor Waller challenges Trump's call for lower interest rates",
+      "headline": "US delists Syria as state sponsor of terrorism, sparking economic optimism and potential crypto use cases",
+      "take": "US delists Syria as state sponsor of terrorism, creating economic and crypto opportunities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-waller-challenges-trump-rate-cuts/"
+      "link": "https://cryptobriefing.com/us-delists-syria-terrorism-crypto-implications/"
     },
     {
-      "headline": "US gives Iran ultimatum to reopen Strait of Hormuz as Bitcoin feels the pressure",
-      "take": "US ultimatum to Iran on Strait of Hormuz creates Bitcoin market pressure",
+      "headline": "Donald Trump sets deadline for US negotiators to finalize Iran deal, and crypto markets are paying attention",
+      "take": "Trump sets deadline for US negotiators finalizing Iran deal; crypto markets monitoring",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-ultimatum-strait-hormuz-bitcoin/"
+      "link": "https://cryptobriefing.com/trump-iran-deal-deadline-crypto-markets/"
     }
   ]
 }

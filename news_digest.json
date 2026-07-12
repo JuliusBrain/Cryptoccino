@@ -1,84 +1,66 @@
 {
-  "generated": "2026-07-12T13:58:37.535081+00:00",
-  "ts": 1783864717,
+  "generated": "2026-07-12T16:15:05.812241+00:00",
+  "ts": 1783872905,
   "market": [
     {
       "headline": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-      "take": "Bitcoin approaches power law support line tracked since 2015",
+      "take": "Bitcoin approaches power law support line tracked by Fidelity since 2015",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015"
     },
     {
       "headline": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "take": "Stablecoin market cap dropped $10 billion since May, analyst unconcerned",
+      "take": "Stablecoin market cap declined ten billion dollars since May, analyst unconcerned",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"
     },
     {
-      "headline": "Solana deposits on AAVE v4 double in past month, boosting DeFi interest",
-      "take": "Solana deposits on AAVE v4 doubled in past month",
+      "headline": "Japan burned $73.6 billion trying to save the yen, and it didn\u2019t work",
+      "take": "Japan spent seventy-three billion dollars defending yen with limited success",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-deposits-on-aave-v4-double-in-past-month-boosting-defi-interest/"
+      "link": "https://cryptobriefing.com/japan-yen-intervention-fails-crypto-impact/"
     },
     {
-      "headline": "SK Hynix raises $26.5B in largest-ever US listing by a foreign company, reshaping semiconductor investment landscape",
-      "take": "SK Hynix raises $26.5 billion in largest foreign US listing",
+      "headline": "Fed Chair Warsh to emphasize price stability in first testimony",
+      "take": "Fed Chair Warsh to prioritize price stability in upcoming testimony",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-nasdaq-listing-semiconductor-ai/"
-    },
-    {
-      "headline": "Funds express concern over $4.4T AI trio\u2019s dominance in emerging markets",
-      "take": "Funds worry about AI trio's dominance in emerging markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-trio-dominance-emerging-markets-concern/"
+      "link": "https://cryptobriefing.com/fed-chair-warsh-to-emphasize-price-stability-in-first-testimony/"
     }
   ],
   "business": [
     {
-      "headline": "Paradex CEO details Funding V2 improvements for stable trading",
-      "take": "Paradex CEO details Funding V2 improvements for stable trading",
+      "headline": "Hyperion and Hyperliquid only DATs with positive unrealized PnL: Cointelegraph",
+      "take": "Hyperion and Hyperliquid only decentralized asset trusts with positive unrealized gains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paradex-funding-v2-stable-trading/"
+      "link": "https://cryptobriefing.com/hyperion-and-hyperliquid-only-dats-with-positive-unrealized-pnl-cointelegraph/"
     },
     {
-      "headline": "Meta launches aggressive AI pricing strategy to lure developers from OpenAI and Anthropic",
-      "take": "Meta launches aggressive AI pricing to compete with OpenAI",
+      "headline": "Kraken\u2019s World Cup sponsorship gets an unexpected spotlight after Tuchel\u2019s viral post-match clash",
+      "take": "Kraken World Cup sponsorship gains attention following Tuchel's viral post-match incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-ai-pricing-strategy-developers/"
-    },
-    {
-      "headline": "Al Hilal\u2019s \u20ac100M bid for Raphinha highlights Saudi Arabia\u2019s growing influence on global sports finance",
-      "take": "Al Hilal bids \u20ac100M for Raphinha, showing Saudi sports spending",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/al-hilal-raphinha-bid-sports-crypto/"
+      "link": "https://cryptobriefing.com/kraken-world-cup-sponsorship-tuchel-viral/"
     },
     {
       "headline": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "take": "Ripple once considered shutting down and returning XRP to shareholders",
+      "take": "Ripple once considered shutdown and transferring XRP to shareholders, CEO reveals",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says"
     }
   ],
   "security": [
     {
-      "headline": "Bank of Thailand and SEC launch joint probe into high-value USDT transactions",
-      "take": "Bank of Thailand and SEC jointly probe high-value USDT transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thailand-bot-sec-usdt-probe-cash-rules/"
+      "headline": "Bitcoin\u2019s BIP 110 fork deadline nears with miner support at zero",
+      "take": "Bitcoin BIP 110 fork deadline approaching with zero miner support currently",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero"
     }
   ],
   "policy": [
     {
-      "headline": "Donald Trump wants to overhaul US retirement savings, taking cues from Australia and BlackRock\u2019s Larry Fink",
-      "take": "Trump plans US retirement savings overhaul inspired by Australia",
+      "headline": "Iran bets Trump will de-escalate conflict despite recent hostilities: FT",
+      "take": "Iran expects Trump administration will de-escalate despite recent military tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-retirement-savings-australia-overhaul/"
-    },
-    {
-      "headline": "Bitcoin\u2019s BIP 110 fork deadline nears with miner support at zero",
-      "take": "Bitcoin's BIP 110 fork deadline approaching with zero miner support",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero"
+      "link": "https://cryptobriefing.com/iran-bets-trump-will-de-escalate-conflict-despite-recent-hostilities-ft/"
     }
   ]
 }

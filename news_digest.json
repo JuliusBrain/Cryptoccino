@@ -1,39 +1,33 @@
 {
-  "generated": "2026-07-11T22:09:54.569574+00:00",
-  "ts": 1783807794,
+  "generated": "2026-07-12T04:01:53.568392+00:00",
+  "ts": 1783828913,
   "market": [
     {
-      "headline": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-      "take": "Bitcoin and ether ETFs reverse eight-week outflow trend with $282M inflow",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-      "take": "Empery Digital sells roughly half its Bitcoin treasury holdings",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack"
-    },
-    {
       "headline": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "take": "Crypto IPO market stalls as capital shifts toward AI amid macro uncertainty",
+      "take": "Crypto IPO activity slows as investors shift focus to AI and broader uncertainty",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
     },
     {
-      "headline": "The $JUDE meme token crashed 98% while its namesake scored World Cup bangers for England",
-      "take": "JUDE meme token crashes 98% while namesake scores World Cup goals",
+      "headline": "World Cup semi-finals fuel $3.9B crypto prediction market frenzy as England draws Argentina",
+      "take": "World Cup prediction markets drive $3.9 billion in crypto trading volumes this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jude-token-crashed-98-percent-world-cup/"
-    },
-    {
-      "headline": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
-      "take": "Iran-US Strait of Hormuz tensions pressure Bitcoin amid geopolitical escalation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-us-ultimatum-strait-hormuz-bitcoin/"
+      "link": "https://cryptobriefing.com/world-cup-semis-crypto-prediction-markets/"
     }
   ],
   "business": [
+    {
+      "headline": "Ripple CEO Brad Garlinghouse reveals company nearly shut down during SEC lawsuit",
+      "take": "Ripple CEO says SEC lawsuit nearly forced company shutdown before resolution",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-nearly-shut-down-sec-lawsuit/"
+    },
+    {
+      "headline": "Chronicle Protocol rebuilds oracle infrastructure for BlackRock\u2019s BUIDL fund",
+      "take": "Chronicle Protocol provides oracle infrastructure for BlackRock's tokenized fund launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chronicle-protocol-blackrock-buidl-oracle/"
+    },
     {
       "headline": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
       "take": "Robinhood launches Ethereum Layer-2 network for tokenized stock trading",
@@ -43,30 +37,24 @@
   ],
   "security": [
     {
-      "headline": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
-      "take": "Bonzo Lend loses $9 million on Hedera after oracle accepts manipulated price",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-      "take": "AI discovers Ethereum bug risking validator offline status; humans validated proof",
+      "headline": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "take": "Bonzo lending protocol loses $9 million in oracle manipulation exploit on Hedera",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it"
+      "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
     }
   ],
   "policy": [
     {
-      "headline": "US demands Iran reopen Strait of Hormuz by Saturday amid tensions",
-      "take": "US demands Iran reopen Strait of Hormuz by Saturday amid escalating tensions",
+      "headline": "Iran closes Strait of Hormuz amid US tensions, impacting global oil markets",
+      "take": "Iran closes Strait of Hormuz amid US tensions, threatening global oil supplies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-demands-iran-reopen-strait-of-hormuz-by-saturday-amid-tensions/"
+      "link": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-amid-us-tensions-impacting-global-oil-markets/"
     },
     {
-      "headline": "The UK has finally shown it\u2019s serious about crypto",
-      "take": "UK signals serious commitment to crypto regulation and industry oversight",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
+      "headline": "US blocks $500M oil-revenue transfer to pressure Iran-backed groups",
+      "take": "US blocks $500 million Iranian oil revenue transfer targeting Iran-backed groups",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-blocks-500m-oil-revenue-transfer-to-pressure-iran-backed-groups/"
     }
   ]
 }

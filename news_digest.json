@@ -1,60 +1,72 @@
 {
-  "generated": "2026-07-12T04:01:53.568392+00:00",
-  "ts": 1783828913,
+  "generated": "2026-07-12T08:32:46.203871+00:00",
+  "ts": 1783845166,
   "market": [
     {
-      "headline": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "take": "Crypto IPO activity slows as investors shift focus to AI and broader uncertainty",
+      "headline": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+      "take": "Bitcoin and ether remain stable despite escalating US-Iran military strikes",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
+      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes"
     },
     {
-      "headline": "World Cup semi-finals fuel $3.9B crypto prediction market frenzy as England draws Argentina",
-      "take": "World Cup prediction markets drive $3.9 billion in crypto trading volumes this week",
+      "headline": "Trump ends Iran peace deal, Strait of Hormuz blockade raises oil prices",
+      "take": "Trump ends Iran peace deal, Strait blockade raises oil prices affecting markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-semis-crypto-prediction-markets/"
+      "link": "https://cryptobriefing.com/trump-ends-iran-peace-deal-strait-of-hormuz-blockade-raises-oil-prices/"
+    },
+    {
+      "headline": "Terawulf inks $19B AI lease, Strategy shifts $65M from Bitcoin to AI data center",
+      "take": "Terawulf shifts $65M from Bitcoin mining to AI data center investment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/terawulf-inks-19b-ai-lease-strategy-shifts-65m-from-bitcoin-to-ai-data-center/"
+    },
+    {
+      "headline": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+      "take": "Ripple CEO reveals company once considered shutting down, distributing XRP to holders",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says"
+    },
+    {
+      "headline": "Bitcoin\u2019s BIP 110 fork deadline nears with miner support at zero",
+      "take": "Bitcoin BIP 110 fork deadline approaching with zero confirmed miner support",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero"
     }
   ],
   "business": [
     {
-      "headline": "Ripple CEO Brad Garlinghouse reveals company nearly shut down during SEC lawsuit",
-      "take": "Ripple CEO says SEC lawsuit nearly forced company shutdown before resolution",
+      "headline": "Terawulf inks $19B AI lease, Strategy shifts $65M from Bitcoin to AI data center",
+      "take": "Terawulf inks $19B AI lease, pivoting strategy from Bitcoin to data centers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-nearly-shut-down-sec-lawsuit/"
-    },
-    {
-      "headline": "Chronicle Protocol rebuilds oracle infrastructure for BlackRock\u2019s BUIDL fund",
-      "take": "Chronicle Protocol provides oracle infrastructure for BlackRock's tokenized fund launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chronicle-protocol-blackrock-buidl-oracle/"
-    },
-    {
-      "headline": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-      "take": "Robinhood launches Ethereum Layer-2 network for tokenized stock trading",
-      "source": "decrypt",
-      "link": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks"
+      "link": "https://cryptobriefing.com/terawulf-inks-19b-ai-lease-strategy-shifts-65m-from-bitcoin-to-ai-data-center/"
     }
   ],
   "security": [
     {
-      "headline": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-      "take": "Bonzo lending protocol loses $9 million in oracle manipulation exploit on Hedera",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
+      "headline": "Bellingham claps back at Tuchel, and a $JUDE meme token crashes 98% because of course it did",
+      "take": "Jude meme token crashes 98 percent following Bellingham social media activity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jude-bellingham-tuchel-jude-meme-token-crash/"
     }
   ],
   "policy": [
     {
-      "headline": "Iran closes Strait of Hormuz amid US tensions, impacting global oil markets",
-      "take": "Iran closes Strait of Hormuz amid US tensions, threatening global oil supplies",
+      "headline": "Iranian forces strike US-linked targets across five Middle Eastern countries, sending shockwaves through global markets",
+      "take": "Iranian forces strike US-linked targets across five Middle Eastern countries",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-amid-us-tensions-impacting-global-oil-markets/"
+      "link": "https://cryptobriefing.com/iran-strikes-us-targets-middle-east-crypto-impact/"
     },
     {
-      "headline": "US blocks $500M oil-revenue transfer to pressure Iran-backed groups",
-      "take": "US blocks $500 million Iranian oil revenue transfer targeting Iran-backed groups",
+      "headline": "US strikes 140 Iranian targets after ship attack in Strait of Hormuz",
+      "take": "US strikes 140 Iranian targets after ship attack in Strait of Hormuz",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-blocks-500m-oil-revenue-transfer-to-pressure-iran-backed-groups/"
+      "link": "https://cryptobriefing.com/us-strikes-140-iranian-targets-after-ship-attack-in-strait-of-hormuz/"
+    },
+    {
+      "headline": "Iran asserts control over Strait of Hormuz, disrupting global shipping routes",
+      "take": "Iran asserts control over Strait of Hormuz, disrupting global shipping routes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-disrupting-global-shipping-routes/"
     }
   ]
 }

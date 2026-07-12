@@ -1,84 +1,47 @@
 {
-  "generated": "2026-07-12T19:33:48.827114+00:00",
-  "ts": 1783884828,
+  "generated": "2026-07-12T22:10:22.213120+00:00",
+  "ts": 1783894222,
   "market": [
     {
       "headline": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-      "take": "Bitcoin approaching long-term power law support line tracked by Fidelity",
+      "take": "Bitcoin approaching support line tracked by Fidelity since 2015",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015"
     },
     {
       "headline": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "take": "Stablecoin market cap declined ten billion dollars since May, fundamentals stable",
+      "take": "Stablecoin market cap down $10 billion since May, fundamentals stable",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"
     },
     {
-      "headline": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: \u2018Orange dots tell only part of the story\u2019",
-      "take": "Michael Saylor signals strategy shift after selling two hundred sixteen million dollars bitcoin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Investors seek strategies as stronger US dollar pressures US bonds",
-      "take": "Stronger US dollar creating headwinds for US bonds and investor strategies",
+      "headline": "Brent oil jumps 3% as US-Iran tensions escalate, impacting Strait of Hormuz",
+      "take": "Brent crude surges 3% amid US-Iran tensions affecting energy markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strong-dollar-pressures-bonds-crypto/"
+      "link": "https://cryptobriefing.com/brent-oil-jumps-3-as-us-iran-tensions-escalate-impacting-strait-of-hormuz/"
     }
   ],
   "business": [
     {
-      "headline": "Bitcoin staking on Stacks allocates 15% of surplus revenue to protocol reserve fund",
-      "take": "Bitcoin staking protocol Stacks directs fifteen percent surplus revenue to reserve",
+      "headline": "SpaceX-Tesla merger seen as strategically coherent by J.P. Morgan",
+      "take": "J.P. Morgan sees SpaceX-Tesla merger as strategically coherent combination",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-staking-stacks-protocol-reserve/"
-    },
-    {
-      "headline": "Coinbase and Bitget make esports history as crypto sponsors debut at EWC Valorant 2026",
-      "take": "Coinbase and Bitget sponsor esports event, expanding crypto presence in gaming",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-bitget-ewc-valorant-crypto-sponsorship/"
-    },
-    {
-      "headline": "BlueCo appoints Hugo Oliveira as RC Strasbourg head coach, extending its multi-club football empire",
-      "take": "BlueCo extends multi-club football ownership model with RC Strasbourg coaching appointment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blueco-hugo-oliveira-strasbourg-head-coach/"
-    },
-    {
-      "headline": "FIFA\u2019s World Cup expansion to 64 teams could supercharge crypto fan tokens and prediction markets",
-      "take": "World Cup expansion to sixty-four teams could amplify crypto fan tokens market",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-64-teams-crypto-impact/"
+      "link": "https://cryptobriefing.com/spacex-tesla-merger-seen-as-strategically-coherent-by-jp-morgan/"
     }
   ],
-  "security": [
-    {
-      "headline": "SpaceX and Starlink accounts retweeted a hacked Robinhood Chain memecoin that promptly rugged",
-      "take": "Hacked Robinhood Chain memecoin retweeted via compromised SpaceX and Starlink accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-starlink-hacked-robinhood-chain-memecoin-rug/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "IRGC drone strikes on US military sites in Kuwait send crypto markets reeling",
-      "take": "IRGC drone strikes on US military sites in Kuwait escalate regional tensions",
+      "headline": "Fed speeches, economic data may shape Clarity Act\u2019s legislative progress",
+      "take": "Fed speeches and economic data may influence Clarity Act progress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/irgc-drone-strikes-kuwait-crypto-markets/"
+      "link": "https://cryptobriefing.com/fed-speeches-economic-data-may-shape-clarity-acts-legislative-progress/"
     },
     {
-      "headline": "Iran closes Strait of Hormuz, disrupting global oil supply amid US tensions",
-      "take": "Iran closes Strait of Hormuz, disrupting global oil supply amid US conflict",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-disrupting-global-oil-supply-amid-us-tensions/"
-    },
-    {
-      "headline": "Israel\u2019s election set for October 27, 2026, amid coalition tensions",
-      "take": "Israel's election scheduled for October twenty-seven twenty twenty-six amid coalition instability",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israels-election-set-for-october-27-2026-amid-coalition-tensions/"
+      "headline": "Crypto fatwa sparks debate over Pakistan\u2019s digital asset framework",
+      "take": "Pakistan scholar's crypto fatwa sparks debate over digital asset rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss"
     }
   ]
 }

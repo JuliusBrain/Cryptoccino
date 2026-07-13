@@ -1,84 +1,102 @@
 {
-  "generated": "2026-07-13T09:49:28.764911+00:00",
-  "ts": 1783936168,
+  "generated": "2026-07-13T15:14:43.512612+00:00",
+  "ts": 1783955683,
   "market": [
     {
-      "headline": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
-      "take": "Bitcoin slips below $63,000 in Asian-session leverage flush",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush"
-    },
-    {
-      "headline": "Bitcoin Weakens as Oil-Price Spike Revives Inflation Concerns",
-      "take": "Bitcoin weakens as oil-price spike revives inflation concerns",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-13/bitcoin-weakens-as-oil-price-spike-revives-inflation-concerns"
-    },
-    {
-      "headline": "Treasury yields steady as US-Iran tensions rise, June inflation data awaited",
-      "take": "Treasury yields steady as US-Iran tensions rise, inflation data awaited",
+      "headline": "Bitcoin, Ethereum ETFs see significant inflows, reversing outflows trend",
+      "take": "Bitcoin and Ethereum ETFs see significant inflows, reversing earlier outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-yields-steady-as-us-iran-tensions-rise-june-inflation-data-awaited/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etfs-see-significant-inflows-reversing-outflows-trend/"
     },
     {
-      "headline": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
-      "take": "Paradigm shifts and bubbles: powerful trends can produce severe corrections",
+      "headline": "Solana falls below $76 amid $253M liquidation and geopolitical tensions",
+      "take": "Solana drops below $76 after $253M liquidation and geopolitical tensions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-falls-below-76-amid-253m-liquidation-and-geopolitical-tensions/"
+    },
+    {
+      "headline": "Stablecoin FX priced below interbank rates in Q2, with routing now the biggest cost lever: Borderless",
+      "take": "Stablecoin FX trades below interbank rates; routing costs remain biggest lever",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408006/stablecoin-fx-priced-below-interbank-rates-in-q2-with-routing-now-the-biggest-cost-lever-borderless?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply",
+      "take": "Tom Lee's BitMine holds 5.77M ether, representing 4.8% of total supply",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections"
+      "link": "https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply"
+    },
+    {
+      "headline": "Strategy Pads Cash Reserves to $3 Billion, Skipping Bitcoin Buy for Third Week",
+      "take": "Strategy skips Bitcoin purchase third week, maintains $3B cash reserves",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373381/strategy-pads-cash-reserves-3-billion-skipping-bitcoin-buy-third-week"
     }
   ],
   "business": [
     {
-      "headline": "SBI Holdings partners with Solana to create Japan\u2019s first crypto financial market",
-      "take": "SBI Holdings partners with Solana for Japan's first crypto financial market",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sbi-holdings-partners-with-solana-to-create-japans-first-crypto-financial-market/"
-    },
-    {
-      "headline": "Japan\u2019s SBI Group to launch JPYSC stablecoin lending service this month",
-      "take": "Japan's SBI Group launches JPYSC stablecoin lending service this month",
+      "headline": "Japan\u2019s largest security token platform moves nearly $3 billion to Avalanche blockchain",
+      "take": "Japan's largest security token platform moves nearly $3B to Avalanche",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408036/japans-largest-security-token-platform-moves-nearly-3-billion-to-avalanche-blockchain?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Japan\u2019s Lawson convenience store pilots stablecoin payments with JPYC: report",
-      "take": "Japan's Lawson convenience store pilots stablecoin payments with JPYC",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss"
+      "headline": "Bolivia weighs adding Tether's USDT to its national payments system",
+      "take": "Bolivia considers adding Tether USDT to its national payments system",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system"
     },
     {
-      "headline": "Ripple considered shutdown in 2020 amid SEC lawsuit, spent $150M on defense",
-      "take": "Ripple considered shutdown in 2020, spent $150M on SEC lawsuit defense",
+      "headline": "UK Treasury report on tokenization cites Ripple as convergence model",
+      "take": "UK Treasury report on tokenization cites Ripple as convergence model",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds"
+    },
+    {
+      "headline": "Goldman warns of shift to AI monetization focus amid $2T spending surge by 2026",
+      "take": "Goldman warns of AI monetization shift amid $2T spending surge by 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-considered-shutdown-in-2020-amid-sec-lawsuit-spent-150m-on-defense/"
-    },
-    {
-      "headline": "Anthropic\u2019s $21B Australia deal depends on AI copyright clarity",
-      "take": "Anthropic's $21B Australia deal depends on AI copyright clarity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropics-21b-australia-deal-depends-on-ai-copyright-clarity/"
+      "link": "https://cryptobriefing.com/goldman-warns-of-shift-to-ai-monetization-focus-amid-2t-spending-surge-by-2026/"
     }
   ],
   "security": [
     {
-      "headline": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
-      "take": "Bank of Thailand audits high-volume stablecoin trades for illicit finance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss"
+      "headline": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "take": "CISA shares lessons learned from recent GitHub leak incident",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/"
+    },
+    {
+      "headline": "Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown",
+      "take": "Bank of Thailand flags abnormal stablecoin trades in grey economy crackdown",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown"
+    },
+    {
+      "headline": "Courtroom-Ready Analytics: How Chainalysis Met the Daubert Standard",
+      "take": "Chainalysis analytics now meet Daubert Standard for courtroom use",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/chainalysis-daubert-standard-sterlingov/"
     }
   ],
   "policy": [
     {
-      "headline": "Fed\u2019s Bowman highlights regulatory shift supporting digital assets, stablecoin frameworks",
-      "take": "Fed's Bowman highlights regulatory shift supporting digital assets, stablecoins",
+      "headline": "Trump urges Senate to pass Digital Asset Market Clarity Act for crypto regulation",
+      "take": "Trump urges Senate passage of Digital Asset Market Clarity Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-bowman-highlights-regulatory-shift-supporting-digital-assets-stablecoin/"
+      "link": "https://cryptobriefing.com/trump-urges-senate-to-pass-digital-asset-market-clarity-act-for-crypto/"
     },
     {
-      "headline": "Iran denies IAEA access to nuclear sites amid US-Iran talks",
-      "take": "Iran denies IAEA access to nuclear sites amid US-Iran talks",
+      "headline": "Senate faces four-week deadline for Digital Asset Market Clarity Act passage",
+      "take": "Senate faces four-week deadline for Digital Asset Market Clarity Act passage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-denies-iaea-access-to-nuclear-sites-amid-us-iran-talks/"
+      "link": "https://cryptobriefing.com/senate-faces-four-week-deadline-for-digital-asset-market-clarity-act-passage/"
+    },
+    {
+      "headline": "Chinese prosecutors call for more proactive approach to investigating crypto money laundering",
+      "take": "Chinese prosecutors call for proactive approach to crypto money laundering investigations",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408035/chinese-prosecutors-call-for-more-proactive-approach-to-investigating-crypto-money-laundering?utm_source=rss&utm_medium=rss"
     }
   ]
 }

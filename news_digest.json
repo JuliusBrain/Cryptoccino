@@ -1,47 +1,65 @@
 {
-  "generated": "2026-07-12T22:10:22.213120+00:00",
-  "ts": 1783894222,
+  "generated": "2026-07-13T04:03:59.748913+00:00",
+  "ts": 1783915439,
   "market": [
     {
-      "headline": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-      "take": "Bitcoin approaching support line tracked by Fidelity since 2015",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015"
-    },
-    {
-      "headline": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "take": "Stablecoin market cap down $10 billion since May, fundamentals stable",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"
-    },
-    {
-      "headline": "Brent oil jumps 3% as US-Iran tensions escalate, impacting Strait of Hormuz",
-      "take": "Brent crude surges 3% amid US-Iran tensions affecting energy markets",
+      "headline": "Oil prices jump as US and Iran clash over Strait of Hormuz",
+      "take": "Oil prices jump as US and Iran clash over Strait of Hormuz",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-oil-jumps-3-as-us-iran-tensions-escalate-impacting-strait-of-hormuz/"
+      "link": "https://cryptobriefing.com/oil-prices-jump-as-us-and-iran-clash-over-strait-of-hormuz/"
+    },
+    {
+      "headline": "Fed\u2019s July meeting to reveal Kevin Warsh\u2019s first rate decision as Chair",
+      "take": "Fed's July meeting to reveal Kevin Warsh's first rate decision as Chair",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/feds-july-meeting-to-reveal-kevin-warshs-first-rate-decision-as-chair/"
+    },
+    {
+      "headline": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
+      "take": "Bitcoin whale moves $188 million in BTC after seven-year dormancy",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Rupee weakens as US-Iran tensions drive oil prices higher",
+      "take": "Rupee weakens as US-Iran tensions drive oil prices higher",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rupee-weakens-as-us-iran-tensions-drive-oil-prices-higher/"
+    },
+    {
+      "headline": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: \u2018Orange dots tell only part of the story\u2019",
+      "take": "Michael Saylor posts cryptic chart after $216 million bitcoin sale",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX-Tesla merger seen as strategically coherent by J.P. Morgan",
-      "take": "J.P. Morgan sees SpaceX-Tesla merger as strategically coherent combination",
+      "headline": "Circle mints $250M USDC on Solana amid rising liquidity demand in 2026",
+      "take": "Circle mints $250M USDC on Solana amid rising liquidity demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-tesla-merger-seen-as-strategically-coherent-by-jp-morgan/"
-    }
-  ],
-  "security": [],
-  "policy": [
-    {
-      "headline": "Fed speeches, economic data may shape Clarity Act\u2019s legislative progress",
-      "take": "Fed speeches and economic data may influence Clarity Act progress",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-speeches-economic-data-may-shape-clarity-acts-legislative-progress/"
+      "link": "https://cryptobriefing.com/circle-mints-250m-usdc-on-solana-amid-rising-liquidity-demand-in-2026/"
     },
     {
+      "headline": "Japan\u2019s Lawson convenience store pilots stablecoin payments with JPYC: report",
+      "take": "Japan's Lawson convenience store pilots stablecoin payments with JPYC",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "The Funding: Why Japan\u2019s SBI Holdings is investing big in crypto",
+      "take": "Japan's SBI Holdings invests big in crypto sector",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss"
+    }
+  ],
+  "security": [
+    {
       "headline": "Crypto fatwa sparks debate over Pakistan\u2019s digital asset framework",
-      "take": "Pakistan scholar's crypto fatwa sparks debate over digital asset rules",
+      "take": "Crypto fatwa sparks debate over Pakistan's digital asset framework",
       "source": "theblock",
       "link": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss"
     }
-  ]
+  ],
+  "policy": []
 }

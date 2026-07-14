@@ -1,114 +1,102 @@
 {
-  "generated": "2026-07-14T10:57:27.592086+00:00",
-  "ts": 1784026647,
+  "generated": "2026-07-14T14:16:42.846825+00:00",
+  "ts": 1784038602,
   "market": [
     {
-      "headline": "Bitcoin\u2019s great rotation: Long-term holders pass supply to a new generation of buyers",
-      "take": "Long-term bitcoin holders shifting supply to new generation of buyers",
+      "headline": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
+      "take": "US June CPI fell 0.4%, signaling potential path toward Federal Reserve rate cuts",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers"
+      "link": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes"
     },
     {
-      "headline": "Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto",
-      "take": "Bitcoin steadies at $62,600 as South Korean stock market turmoil drives crypto flows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-steadies-at-usd62-600-as-south-koreans-flee-stocks-rout-for-crypto"
-    },
-    {
-      "headline": "JPMorgan beats Q2 2025 estimates as trading boom and digital asset pivot steal the show",
-      "take": "JPMorgan Q2 earnings beat driven by trading surge and digital asset momentum",
+      "headline": "Crypto buyers show renewed interest as Bitcoin rebounds to $63K-$64K",
+      "take": "Bitcoin rebounds to $63K-$64K range as crypto buyers show renewed interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-q2-2025-earnings-beat-stablecoin-pivot/"
+      "link": "https://cryptobriefing.com/crypto-buyers-show-renewed-interest-as-bitcoin-rebounds-to-63k-64k/"
     },
     {
-      "headline": "XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead",
-      "take": "XRP and ether bulls growing louder despite falling prices signals weakness ahead",
+      "headline": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
+      "take": "Hut 8 price target raised to $165 as AI pivot reshapes mining valuation",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk"
+      "link": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation"
     },
     {
-      "headline": "China\u2019s oil imports at risk amid Middle East tensions, supply routes disrupted",
-      "take": "China oil imports at risk as Middle East tensions disrupt key supply routes",
+      "headline": "For pension funds, tokenization\u2019s real play is balance-sheet management, Fidelity\u2019s Lai says",
+      "take": "Tokenization's institutional appeal centers on balance-sheet management, says Fidelity",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says"
+    },
+    {
+      "headline": "Strategy\u2019s STRC preferred stock kicks off semi-monthly dividend payments tomorrow",
+      "take": "Strategy's STRC preferred stock commences semi-monthly dividend distributions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinas-oil-imports-at-risk-amid-middle-east-tensions-supply-routes-disrupted/"
+      "link": "https://cryptobriefing.com/strategy-strc-semi-monthly-dividends-2/"
     }
   ],
   "business": [
     {
-      "headline": "CleanSpark secures 20-year infrastructure lease for Georgia data center worth up to $11.6B",
-      "take": "CleanSpark secures twenty-year Georgia data center lease valued up to eleven point six billion",
+      "headline": "SBI partners with Doppler to enhance institutional XRP adoption in Japan",
+      "take": "SBI partners with Doppler to expand institutional XRP adoption in Japan",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cleanspark-georgia-data-center-20-year-lease/"
+      "link": "https://cryptobriefing.com/sbi-doppler-xrp-institutional-adoption-japan/"
     },
     {
-      "headline": "Circle signs MOU with Nomura to bring USDC payment solutions to Japan",
-      "take": "Circle partners with Nomura to expand USDC payment solutions into Japan market",
+      "headline": "South Korea\u2019s Kweather taps Flare to develop weather finance products",
+      "take": "South Korea's Kweather taps Flare to develop weather-based finance products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-nomura-usdc-japan-payments/"
+      "link": "https://cryptobriefing.com/south-koreas-kweather-taps-flare-oracle-bring-climate-data-on-chain/"
     },
     {
-      "headline": "Galaxy Digital appoints former Xerox CEO Steven Bandrowczak as independent director for AI data center expansion",
-      "take": "Galaxy Digital hires former Xerox CEO for AI data center expansion strategy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-digital-bandrowczak-ai-data-center/"
+      "headline": "Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI",
+      "take": "Boundless expands distributed compute network from zero-knowledge to AI workloads",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Doppler Finance, SBI Digital Finance team up for XRP infrastructure in Japan",
-      "take": "Doppler Finance and SBI Digital Finance establish XRP infrastructure partnership in Japan",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doppler-finance-sbi-digital-finance-team-up-for-xrp-infrastructure-in-japan/"
+      "headline": "CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm",
+      "take": "CleanSpark secures $6.6B, 20-year data center lease with unnamed global tech firm",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "South Korea to test tokenized government bonds with CBDC in 2027",
-      "take": "South Korea plans tokenized government bonds testing with CBDC starting in two thousand twenty-seven",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Anthropic rolls out rupee pricing for Claude in India as it chases its second-largest market",
+      "take": "Anthropic launches rupee pricing for Claude, targeting India's second-largest market",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-rupee-pricing-claude-india/"
     }
   ],
   "security": [
     {
-      "headline": "Former LASD deputy jailed for obstructing crypto \u2018mogul\u2019 Adam Iza extortion probe",
-      "take": "Former LASD deputy jailed for obstructing investigation into crypto mogul extortion case",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "AI has not triggered DeFi \u2018hackpocalypse,\u2019 Dragonfly partner says",
-      "take": "AI has not triggered widespread DeFi security incidents or major exploits",
+      "headline": "Humanity Protocol to prioritize operational security following $36M hack",
+      "take": "Humanity Protocol prioritizes operational security after suffering $36M hack",
       "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "EU races to finalize 21st sanctions package before oil price cap deadline, with crypto platforms in the crosshairs",
-      "take": "EU finalizing twenty-first sanctions package with crypto platforms now regulatory focus",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-sanctions-package-crypto-oil-cap/"
+      "headline": "European Central Bank taps 36 payment providers for yearlong digital euro pilot",
+      "take": "European Central Bank enlists 36 payment providers for yearlong digital euro pilot",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408228/european-central-bank-taps-36-payment-providers-for-yearlong-digital-euro-pilot?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "CLARITY Act faces pressure from 78 US banking groups over stablecoin rules",
-      "take": "Seventy-eight US banking groups pressure against CLARITY Act stablecoin regulatory requirements",
+      "headline": "Bank of England warns AI bubble fallout could shrink UK economy by 2.2%",
+      "take": "Bank of England warns AI bubble collapse could shrink UK economy by 2.2%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-faces-pressure-from-78-us-banking-groups-over-stablecoin-rules/"
+      "link": "https://cryptobriefing.com/bank-of-england-ai-bubble-uk-economy/"
     },
     {
-      "headline": "Digital euro raises concerns over control and financial privacy",
-      "take": "Digital euro raises concerns over government financial control and user privacy",
+      "headline": "Google DeepMind CEO calls for US Frontier AI Standards Body for model reviews",
+      "take": "Google DeepMind CEO calls for US Frontier AI Standards Body to review models",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/digital-euro-privacy-concerns-ecb/"
+      "link": "https://cryptobriefing.com/google-deepmind-ceo-calls-for-us-frontier-ai-standards-body-for-model-reviews/"
     },
     {
-      "headline": "Kevin Warsh to testify on US monetary policy before Congress in first major appearance as Fed chair",
-      "take": "Kevin Warsh testifies before Congress on monetary policy in first appearance as Fed chair",
+      "headline": "Jamieson Greer: US won\u2019t allow Europe to regulate American tech",
+      "take": "US official opposes European regulatory authority over American technology companies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kevin-warsh-fed-testimony-congress-monetary-policy/"
-    },
-    {
-      "headline": "US launches airstrikes, blockades Iran amid Strait of Hormuz tensions",
-      "take": "US launches airstrikes and blockades Iran amid Strait of Hormuz escalating tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-launches-airstrikes-blockades-iran-amid-strait-of-hormuz-tensions/"
+      "link": "https://cryptobriefing.com/greer-us-europe-tech-regulation/"
     }
   ]
 }

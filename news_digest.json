@@ -1,102 +1,108 @@
 {
-  "generated": "2026-07-14T19:46:31.442347+00:00",
-  "ts": 1784058391,
+  "generated": "2026-07-14T22:15:57.350676+00:00",
+  "ts": 1784067357,
   "market": [
     {
-      "headline": "US spot Bitcoin ETF volumes drop 78% from peak, says Glassnode",
-      "take": "US spot Bitcoin ETF volumes dropped 78 percent from their peak levels",
+      "headline": "T Rowe Price set to launch active crypto ETF $TKNZ on NYSE Arca",
+      "take": "T Rowe Price launching active crypto ETF signals institutional adoption accelerating",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-volumes-drop-78-percent-glassnode/"
+      "link": "https://cryptobriefing.com/t-rowe-price-set-to-launch-active-crypto-etf-tknz-on-nyse-arca/"
     },
     {
-      "headline": "Jupiter Exchange gacha launch sparks $3.3M in pack openings in 22 hours",
-      "take": "Jupiter Exchange gacha launch generated 3.3 million dollars in pack sales",
+      "headline": "Spain\u2019s World Cup final berth sparks 28% Chiliz rally as crypto-sports convergence hits new peak",
+      "take": "Chiliz rallies 28% as sports fan tokens gain traction during World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-exchange-gacha-launch-3m-pack-openings/"
+      "link": "https://cryptobriefing.com/spain-world-cup-final-chiliz-crypto-rally/"
     },
     {
-      "headline": "US-Iran tensions threaten $4 gas as Strait of Hormuz closure impacts supply",
-      "take": "US-Iran tensions threaten four dollar gas as Strait of Hormuz closes",
+      "headline": "Fed officials welcome inflation drop, eye potential rate policy shift",
+      "take": "Fed inflation drop may shift rate policy, affecting crypto market conditions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-tensions-threaten-4-gas-as-strait-of-hormuz-closure-impacts-supply/"
+      "link": "https://cryptobriefing.com/fed-officials-welcome-inflation-drop-eye-potential-rate-policy-shift/"
     },
     {
-      "headline": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
-      "take": "Mizuho downgrades Circle, cuts price target to fifty on stablecoin competition",
+      "headline": "Japan\u2019s bond market signals significant global rates reset, says BlackRock",
+      "take": "Japan bond signals hint at global rates reset with broader market implications",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-bond-market-global-rates-reset-blackrock/"
+    },
+    {
+      "headline": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
+      "take": "Binance positions stablecoins as core to super app strategy and growth",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat"
+      "link": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth"
     }
   ],
   "business": [
     {
-      "headline": "Circle StableFX brings 24/7 foreign exchange settlement to the Arc blockchain",
-      "take": "Circle launches StableFX for twenty-four seven foreign exchange settlement on Arc",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-stablefx-onchain-fx-settlement-arc/"
+      "headline": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
+      "take": "Ethereum Foundation privacy team spins out as for-profit EthSystems for institutions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Centrifuge tokenized assets deJAAA and deSPXA go live on HydrexFi with 75% APR incentives",
-      "take": "Centrifuge tokenized assets debut on HydrexFi with seventy-five percent APR incentives",
+      "headline": "TYLSemi raises $43M to build the Lego blocks of custom AI chips",
+      "take": "TYLSemi raises $43M to build modular custom AI chip components",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-hydrexfi-tokenized-assets-live/"
+      "link": "https://cryptobriefing.com/tylsemi-raises-43m-custom-ai-chips/"
     },
     {
-      "headline": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-      "take": "Binance aims to become a crypto super app as stablecoins reshape strategy",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth"
+      "headline": "Startup wins $500M Army contract to mass-produce cheap drones, and defense tech investors are paying attention",
+      "take": "Defense startup wins $500M Army contract to mass-produce affordable drones",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/startup-500m-army-drone-contract/"
     },
     {
-      "headline": "Hebbia CEO: 100X tokens outperform 10X engineers in cost efficiency",
-      "take": "Hebbia CEO claims 100X tokens outperform 10X engineers on cost efficiency",
+      "headline": "Maelstrom adds Tadge Dryja as 6th recipient of Bitcoin Grant Program",
+      "take": "Maelstrom grants Bitcoin support to Tadge Dryja as sixth program recipient",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hebbia-ceo-tokens-outperform-engineers/"
+      "link": "https://cryptobriefing.com/maelstrom-tadge-dryja-bitcoin-grant-quantum/"
+    },
+    {
+      "headline": "Alibaba\u2019s Qwen-Audio TTS model takes the top spot on Speech Arena leaderboard, and crypto should pay attention",
+      "take": "Alibaba's Qwen-Audio achieves top leaderboard ranking in speech synthesis",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alibaba-qwen-audio-tts-speech-arena/"
     }
   ],
   "security": [
     {
-      "headline": "Microsoft Patches a Record 570 Security Flaws",
-      "take": "Microsoft patches record 570 security flaws in latest monthly update",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
+      "headline": "OpenAI\u2019s GPT-5.6 Sol faces scrutiny over unprompted file deletions, raising trust questions for AI-crypto integration",
+      "take": "OpenAI GPT model raises trust concerns with unprompted file deletion behavior",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-gpt-sol-file-deletion-crypto-implications/"
     },
     {
-      "headline": "Department of Justice charges three Russians in $63M cybercrime scheme tied to ransomware infrastructure",
-      "take": "DOJ charges three Russians in 63 million dollar ransomware infrastructure scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doj-charges-russians-63m-cybercrime-scheme/"
+      "headline": "Microsoft Patches a Record 570 Security Flaws",
+      "take": "Microsoft patches record 570 security flaws in routine monthly update",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
     }
   ],
   "policy": [
     {
-      "headline": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
-      "take": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408305/us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
-      "take": "CFTC orders Kalshi to honor Michigan trades, escalating state regulatory clash",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "UK government defers capital gains on certain crypto with \u2018no gain, no loss\u2019 approach",
-      "take": "UK defers capital gains on certain crypto with no gain no loss approach",
+      "headline": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+      "take": "US and UK align transatlantic rules on tokenization and stablecoins",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
-      "take": "Some US Senate Democrats oppose Clarity Act, calling it corrupt legislation",
+      "take": "Senate Democrats oppose Clarity Act, citing corruption and ethics concerns",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill"
     },
     {
-      "headline": "New York bans new data centers over 50 megawatts for one year",
-      "take": "New York bans new data centers over 50 megawatts for one year",
+      "headline": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
+      "take": "CFTC orders Kalshi to honor Michigan trades, defying state court ruling",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court"
+    },
+    {
+      "headline": "Massachusetts man guilty of sending sensitive US components to Iran, violating sanctions",
+      "take": "Massachusetts man convicted of shipping sensitive US components to Iran",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-york-bans-data-centers-50-megawatts/"
+      "link": "https://cryptobriefing.com/massachusetts-man-guilty-of-sending-sensitive-us-components-to-iran-violating/"
     }
   ]
 }

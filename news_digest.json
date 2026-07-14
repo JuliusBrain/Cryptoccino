@@ -1,102 +1,108 @@
 {
-  "generated": "2026-07-14T14:16:42.846825+00:00",
-  "ts": 1784038602,
+  "generated": "2026-07-14T16:40:19.933679+00:00",
+  "ts": 1784047219,
   "market": [
     {
-      "headline": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
-      "take": "US June CPI fell 0.4%, signaling potential path toward Federal Reserve rate cuts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes"
+      "headline": "\u2018Soft print, hard regime\u2019: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020",
+      "take": "Bitcoin climbs toward $64K as June CPI falls largest monthly drop since 2020",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408263/soft-print-hard-regime-bitcoin-climbs-64000-june-cpi-falls-largest-monthly-drop-since-2020?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Crypto buyers show renewed interest as Bitcoin rebounds to $63K-$64K",
-      "take": "Bitcoin rebounds to $63K-$64K range as crypto buyers show renewed interest",
+      "headline": "Central banks are buying gold at record pace and moving away from the dollar",
+      "take": "Central banks buying gold at record pace, moving away from dollar",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-buyers-show-renewed-interest-as-bitcoin-rebounds-to-63k-64k/"
+      "link": "https://cryptobriefing.com/central-banks-gold-purchases-dollar-decline-2026/"
     },
     {
-      "headline": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
-      "take": "Hut 8 price target raised to $165 as AI pivot reshapes mining valuation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation"
-    },
-    {
-      "headline": "For pension funds, tokenization\u2019s real play is balance-sheet management, Fidelity\u2019s Lai says",
-      "take": "Tokenization's institutional appeal centers on balance-sheet management, says Fidelity",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says"
-    },
-    {
-      "headline": "Strategy\u2019s STRC preferred stock kicks off semi-monthly dividend payments tomorrow",
-      "take": "Strategy's STRC preferred stock commences semi-monthly dividend distributions",
+      "headline": "US gasoline prices rise for first time since May amid Iran ceasefire collapse",
+      "take": "US gasoline prices rise for first time since May amid Iran tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-strc-semi-monthly-dividends-2/"
+      "link": "https://cryptobriefing.com/us-gasoline-prices-rise-iran-ceasefire-collapse/"
+    },
+    {
+      "headline": "Bitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan",
+      "take": "Bitcoin mining production slips in June for CleanSpark, BitFuFu, Canaan",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408260/bitcoin-mining-production-slips-june-cleanspark-bitfufu-canaan?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product",
+      "take": "Galaxy blends Aave, Morpho and DeFi rates in new GOFR borrowing product",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408267/galaxy-blends-aave-morpho-other-defi-rates-new-gofr-crypto-borrowing-product?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "SBI partners with Doppler to enhance institutional XRP adoption in Japan",
-      "take": "SBI partners with Doppler to expand institutional XRP adoption in Japan",
+      "headline": "Interactive Brokers adds 12 crypto tokens and launches stablecoin withdrawals",
+      "take": "Interactive Brokers adds 12 crypto tokens and launches stablecoin withdrawals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sbi-doppler-xrp-institutional-adoption-japan/"
+      "link": "https://cryptobriefing.com/interactive-brokers-crypto-tokens-stablecoin-withdrawals/"
     },
     {
-      "headline": "South Korea\u2019s Kweather taps Flare to develop weather finance products",
-      "take": "South Korea's Kweather taps Flare to develop weather-based finance products",
+      "headline": "Pact Finance secures $7M investment led by Tether on Aptos",
+      "take": "Pact Finance secures $7M investment led by Tether on Aptos",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-koreas-kweather-taps-flare-oracle-bring-climate-data-on-chain/"
+      "link": "https://cryptobriefing.com/pact-finance-7m-tether-aptos/"
     },
     {
-      "headline": "Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI",
-      "take": "Boundless expands distributed compute network from zero-knowledge to AI workloads",
+      "headline": "Benchmark sees \u2018long pathway for growth\u2019 in Hut 8, raises target to $165 on $16.8 billion AI data center deals",
+      "take": "Benchmark sees long growth pathway in Hut 8, raises target to $165",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408264/benchmark-sees-long-pathway-growth-hut-8-raises-target-to-165-on-ai-data-center-deals?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm",
-      "take": "CleanSpark secures $6.6B, 20-year data center lease with unnamed global tech firm",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Anthropic rolls out rupee pricing for Claude in India as it chases its second-largest market",
-      "take": "Anthropic launches rupee pricing for Claude, targeting India's second-largest market",
+      "headline": "Coinbase offers variable USDC yield with MORPHO rewards, Robinhood targets fixed 7%",
+      "take": "Coinbase offers variable USDC yield with MORPHO, Robinhood targets fixed 7%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-rupee-pricing-claude-india/"
+      "link": "https://cryptobriefing.com/coinbase-robinhood-morpho-usdc-yield/"
+    },
+    {
+      "headline": "PDC terminates acquisition of Alt5 Sigma Canada just one week after signing term sheet",
+      "take": "PDC terminates acquisition of Alt5 Sigma Canada week after signing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pdc-terminates-alt5-sigma-canada-acquisition/"
     }
   ],
   "security": [
     {
-      "headline": "Humanity Protocol to prioritize operational security following $36M hack",
-      "take": "Humanity Protocol prioritizes operational security after suffering $36M hack",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "\u201cStern,\u201d Likely Most Prolific Ransomware Operator Ever, Sanctioned by EU as Action Targets Billions in Ransomware Damage",
+      "take": "Stern ransomware operator sanctioned by EU targeting billions in damage",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/cyber-sanctions-trickbot-administrator-july-2026/"
+    },
+    {
+      "headline": "Iran declares Elon Musk\u2019s Starlink infrastructure a legitimate military target",
+      "take": "Iran declares Elon Musk's Starlink infrastructure legitimate military target",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-starlink-military-target-musk/"
     }
   ],
   "policy": [
     {
-      "headline": "European Central Bank taps 36 payment providers for yearlong digital euro pilot",
-      "take": "European Central Bank enlists 36 payment providers for yearlong digital euro pilot",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408228/european-central-bank-taps-36-payment-providers-for-yearlong-digital-euro-pilot?utm_source=rss&utm_medium=rss"
+      "headline": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
+      "take": "US, UK move to align tokenized finance rules across largest markets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets"
     },
     {
-      "headline": "Bank of England warns AI bubble fallout could shrink UK economy by 2.2%",
-      "take": "Bank of England warns AI bubble collapse could shrink UK economy by 2.2%",
+      "headline": "US, UK call for stablecoins to be fully backed by liquid assets",
+      "take": "US, UK call for stablecoins to be fully backed by liquid assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-england-ai-bubble-uk-economy/"
+      "link": "https://cryptobriefing.com/us-uk-call-for-stablecoins-to-be-fully-backed-by-liquid-assets/"
     },
     {
-      "headline": "Google DeepMind CEO calls for US Frontier AI Standards Body for model reviews",
-      "take": "Google DeepMind CEO calls for US Frontier AI Standards Body to review models",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-deepmind-ceo-calls-for-us-frontier-ai-standards-body-for-model-reviews/"
+      "headline": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
+      "take": "UK to defer capital gains tax on DeFi lending, liquidity pool deposits",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits"
     },
     {
-      "headline": "Jamieson Greer: US won\u2019t allow Europe to regulate American tech",
-      "take": "US official opposes European regulatory authority over American technology companies",
+      "headline": "Bull Bitcoin challenges EU\u2019s DAC8 directive, warns of US, Canada regulations",
+      "take": "Bull Bitcoin challenges EU's DAC8 directive, warns of US, Canada regulations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/greer-us-europe-tech-regulation/"
+      "link": "https://cryptobriefing.com/bull-bitcoin-challenges-eus-dac8-directive-warns-of-us-canada-regulations/"
     }
   ]
 }

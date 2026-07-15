@@ -1,114 +1,89 @@
 {
-  "generated": "2026-07-15T03:40:01.184070+00:00",
-  "ts": 1784086801,
+  "generated": "2026-07-15T08:37:58.264974+00:00",
+  "ts": 1784104678,
   "market": [
     {
-      "headline": "China\u2019s economy slows to 4.3% growth in Q2 2026 as Beijing weighs stimulus options",
-      "take": "China's economy slows to 4.3% growth, Beijing weighs stimulus options",
+      "headline": "Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%",
+      "take": "Bitcoin and ether ETFs see inflows as major assets rise up to five percent",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5"
+    },
+    {
+      "headline": "Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade",
+      "take": "Bitcoin approaches sixty-five thousand as US inflation cools, weakening rate hike bets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade"
+    },
+    {
+      "headline": "Gold holds above $4,000 amid US inflation, Fed rate hike concerns",
+      "take": "Gold holds above four thousand amid US inflation and Federal Reserve rate concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-economy-slows-q2-2026-crypto-impact/"
+      "link": "https://cryptobriefing.com/gold-holds-above-4000-amid-us-inflation-fed-rate-hike-concerns/"
     },
     {
-      "headline": "Whales initiate $90K long positions on Hyperliquid\u2019s $HYPE token",
-      "take": "Whales initiate $90K long positions on Hyperliquid's $HYPE token",
+      "headline": "BlackRock clients buy $139M in Bitcoin as institutional interest grows",
+      "take": "BlackRock clients purchase one hundred thirty-nine million in Bitcoin, signaling institutional demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whales-initiate-90k-long-positions-on-hyperliquids-hype-token/"
+      "link": "https://cryptobriefing.com/blackrock-clients-buy-139m-in-bitcoin-as-institutional-interest-grows/"
     },
     {
-      "headline": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
-      "take": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Iran keeps Strait of Hormuz closed, impacting oil prices amid US tensions",
-      "take": "Iran keeps Strait of Hormuz closed, impacting oil prices amid tensions",
+      "headline": "China\u2019s economy grows 4.3% in Q2, missing its own target and rattling global markets",
+      "take": "China's economy grows four point three percent in Q2, missing official targets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-keeps-strait-of-hormuz-closed-impacting-oil-prices-amid-us-tensions/"
-    },
-    {
-      "headline": "Bitcoin vs Gold as a Reserve Asset",
-      "take": "Bitcoin versus gold comparison as reserve assets gains institutional attention",
-      "source": "theblock",
-      "link": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/china-economy-q2-gdp-growth-misses-target/"
     }
   ],
   "business": [
     {
-      "headline": "Stripe and Advent reportedly offer to acquire PayPal for $60.50 per share",
-      "take": "Stripe and Advent reportedly offer to acquire PayPal for $60.50 per share",
+      "headline": "Japan to classify cryptocurrencies as financial assets by 2027: NHK",
+      "take": "Japan to classify cryptocurrencies as financial assets beginning in twenty twenty-seven",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stripe-advent-paypal-acquisition-offer/"
+      "link": "https://cryptobriefing.com/japan-to-classify-cryptocurrencies-as-financial-assets-by-2027-nhk/"
     },
     {
-      "headline": "Coinbase says 95% to 100% of its code is now AI-assisted, up from 40% in February",
-      "take": "Coinbase reports 95\u2013100% of code now AI-assisted, up from 40% in February",
+      "headline": "South Korea plans Digital Asset Basic Act to bring crypto into its national asset framework",
+      "take": "South Korea plans Digital Asset Basic Act to integrate crypto into national asset framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-ai-assisted-code-95-percent/"
+      "link": "https://cryptobriefing.com/south-korea-digital-asset-basic-act-crypto/"
     },
     {
-      "headline": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
-      "take": "Ethereum Foundation privacy team spins out as for-profit EthSystems with backing",
+      "headline": "Strategy CEO Phong Le outlines plans to normalize STRC and resume Bitcoin accumulation",
+      "take": "Strategy CEO outlines plans to restore STRC to par and resume Bitcoin accumulation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-strc-bitcoin-accumulation-plan/"
+    },
+    {
+      "headline": "Cebuana Lhuillier rebuilds cross-border payments with stablecoins on Fireblocks",
+      "take": "Cebuana Lhuillier rebuilds cross-border payments using stablecoins on Fireblocks infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cebuana-lhuillier-stablecoins-cross-border-payments/"
+    },
+    {
+      "headline": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
+      "take": "Ark Invest adds fourteen million in Circle shares while reducing Robinhood position",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "UAE commits $3.54 billion to become the world\u2019s first AI-native government by 2027",
-      "take": "UAE commits $3.54 billion to become world's first AI-native government by 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uae-ai-investment-government-services/"
-    },
-    {
-      "headline": "Pendle introduces PT auto-looping feature for V2 update",
-      "take": "Pendle introduces PT auto-looping feature for V2 update",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-pt-auto-looping-v2-update/"
+      "link": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [
-    {
-      "headline": "US freezes $131M in Iran-linked crypto amid rising Middle East tensions",
-      "take": "US freezes $131M in Iran-linked crypto amid rising Middle East tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-freezes-131m-in-iran-linked-crypto-amid-rising-middle-east-tensions/"
-    },
-    {
-      "headline": "Microsoft Patches a Record 570 Security Flaws",
-      "take": "Microsoft patches record 570 security flaws in latest update cycle",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-      "take": "US, UK treasuries align transatlantic rules on tokenization and stablecoins",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
-      "take": "Three US senators oppose CLARITY Act on ethics grounds, vote expected soon",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "New US sanctions bill targets top five buyers of Russian energy with up to 100% tariffs",
-      "take": "US sanctions bill targets top five Russian energy buyers with tariffs up to 100%",
+      "headline": "Democratic senators threaten Clarity Act over crypto ethics concerns",
+      "take": "Democratic senators threaten Clarity Act over cryptocurrency ethics and regulatory concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russian-sanctions-target-top-energy-buyers/"
+      "link": "https://cryptobriefing.com/democratic-senators-threaten-clarity-act-over-crypto-ethics-concerns/"
     },
     {
-      "headline": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
-      "take": "CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court"
+      "headline": "Kalshi says CFTC, Michigan orders leave it in \u2018impossible position\u2019",
+      "take": "Kalshi says CFTC and Michigan orders leave it in an impossible regulatory position",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "UK government to issue first digital bond by early 2027",
-      "take": "UK government to issue first digital bond by early 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-digital-gilt-instrument-bond-2027/"
+      "headline": "TeraWulf falls 7% after New York orders one-year pause on new data center permits",
+      "take": "TeraWulf falls seven percent after New York orders one-year pause on data centers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls?utm_source=rss&utm_medium=rss"
     }
   ]
 }

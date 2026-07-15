@@ -1,96 +1,90 @@
 {
-  "generated": "2026-07-15T16:46:51.152682+00:00",
-  "ts": 1784134011,
+  "generated": "2026-07-15T19:38:59.334725+00:00",
+  "ts": 1784144339,
   "market": [
     {
-      "headline": "\u2018Bull markets everywhere\u2019: Bitwise says crypto equities beat every major asset class but emerging markets in H1 2026",
-      "take": "Crypto equities outperformed most major asset classes in first half of 2026",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408449/bull-markets-everywhere-bitwise-crypto-equities-beat-major-asset-class-h1?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin Breaks Heavy Resistance\u2014But Death Cross Looms: Analysis",
-      "take": "Bitcoin breaks resistance level but technical death cross signal emerges",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms"
-    },
-    {
-      "headline": "Brent oil hits one-month high amid US-Iran tensions, supply risks escalate",
-      "take": "Brent oil rises to one-month high amid US-Iran tensions and supply risks",
+      "headline": "Solana hits $3B in tokenized equities volume for June 2026, leads market",
+      "take": "Solana tokenized equities volume reaches $3B, leading the sector",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-oil-hits-one-month-high-amid-us-iran-tensions-supply-risks-escalate/"
+      "link": "https://cryptobriefing.com/solana-hits-3b-in-tokenized-equities-volume-for-june-2026-leads-market/"
     },
     {
-      "headline": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins",
-      "take": "Kraken Institutional launches yield vaults for bitcoin, ETH and stablecoins via Upshift",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss"
+      "headline": "Kuwait intercepts cruise missiles and drones as Bitcoin dips below $100K",
+      "take": "Bitcoin dips below $100K amid Middle East missile interception",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kuwait-intercepts-missiles-drones-bitcoin-dips/"
     },
     {
-      "headline": "William Blair cuts Coinbase forecasts but says crypto downturn nearing a bottom",
-      "take": "Analyst says crypto downturn approaching bottom despite Coinbase forecast cuts",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408423/blair-cuts-coinbase-forecasts-but-crypto-downturn-nearing-bottom?utm_source=rss&utm_medium=rss"
+      "headline": "Dow, S&P 500 and Nasdaq rise in final hour despite chip-stock selloff",
+      "take": "US stock indices rise despite semiconductor sector pullback",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-rise-chip-selloff/"
+    },
+    {
+      "headline": "SK Hynix leveraged ETFs highlight Wall Street\u2019s hottest trade",
+      "take": "SK Hynix leveraged ETFs become Wall Street's hottest trade",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sk-hynix-leveraged-etfs-wall-street/"
     }
   ],
   "business": [
     {
-      "headline": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-      "take": "Aave launches V4 on Avalanche enabling tokenized real-world asset credit markets",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform",
-      "take": "Glacis Labs raises $6.8 million seed to expand ZeroDelta crypto clearinghouse platform",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408490/crypto-clearinghouse-glacis-labs-zerodelta-funding?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "QCAD adds TD Bank as reserve custodian to boost Canadian stablecoin adoption",
-      "take": "QCAD adds TD Bank as reserve custodian to boost Canadian stablecoin adoption",
+      "headline": "DTCC pilots tokenized stocks with BlackRock, Goldman Sachs, and JP Morgan in landmark initiative",
+      "take": "DTCC pilots tokenized stocks with major institutions in landmark move",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/qcad-td-bank-reserve-custodian-canada/"
+      "link": "https://cryptobriefing.com/dtcc-tokenized-stocks-blackrock-goldman-jpmorgan/"
     },
     {
-      "headline": "Coinbase targets EU family offices with MiCA-compliant crypto services",
-      "take": "Coinbase targets EU family offices with MiCA-compliant cryptocurrency services",
+      "headline": "Lyn Alden raises $40M to launch Orange Juice, a holding company with a Bitcoin treasury twist",
+      "take": "Lyn Alden raises $40M for Bitcoin-treasury holding company Orange Juice",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-targets-eu-family-offices-with-mica-compliant-crypto-services/"
+      "link": "https://cryptobriefing.com/lyn-alden-orange-juice-bitcoin-treasury/"
     },
     {
-      "headline": "Bordeaux football club faces liquidation as crypto-linked owner\u2019s empire crumbles",
-      "take": "Bordeaux football club faces liquidation as crypto-linked owner's business empire crumbles",
+      "headline": "Thinking Machines unveils Inkling, its first open model, after 18 months of stealth building",
+      "take": "Thinking Machines debuts Inkling open model after 18-month stealth phase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bordeaux-liquidation-crypto-owner-lopez/"
+      "link": "https://cryptobriefing.com/thinking-machines-inkling-open-model-launch/"
+    },
+    {
+      "headline": "Cantor and Securitize collaborate on blockchain-based IPOs",
+      "take": "Cantor and Securitize partner on blockchain-based IPO infrastructure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos"
+    },
+    {
+      "headline": "Coinbase and JPMorgan\u2019s consumer crypto features remain unlaunched nearly a year after announcement",
+      "take": "Coinbase and JPMorgan crypto features remain unlaunched after one year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-jpmorgan-crypto-features-delayed/"
     }
   ],
   "security": [
     {
-      "headline": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-      "take": "Ostium suffers eighteen million dollar exploit via oracle attack in DeFi wave",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi"
+      "headline": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+      "take": "Ostium DEX pauses trading after $18M oracle exploit",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+      "take": "US Treasury freezes $131M in Iran-linked cryptocurrency wallets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto"
     }
   ],
   "policy": [
     {
-      "headline": "US government deposits $9M in Ethereum to Coinbase Prime from seized FTX assets",
-      "take": "US government deposits nine million dollars in Ethereum from seized FTX assets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-ethereum-coinbase-prime-ftx/"
+      "headline": "US Senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon",
+      "take": "Senator criticizes AG nominee for dismantling crypto enforcement unit",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "White House weighs extending Jones Act waivers amid Iran conflict, and crypto markets are paying attention",
-      "take": "White House considers extending Jones Act waivers amid Iran conflict escalation",
+      "headline": "FIFA plans post-tournament sanctions for World Cup critics, raising questions for crypto sponsors and prediction markets",
+      "take": "FIFA plans post-tournament sanctions affecting crypto sponsors and markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jones-act-waiver-iran-conflict-crypto/"
-    },
-    {
-      "headline": "US government pours billions into critical minerals as blockchain enters the supply chain",
-      "take": "US government invests billions in critical minerals as blockchain enters supply chain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-critical-minerals-blockchain-sui/"
+      "link": "https://cryptobriefing.com/fifa-sanctions-world-cup-crypto-implications/"
     }
   ]
 }

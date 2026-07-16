@@ -1,102 +1,102 @@
 {
-  "generated": "2026-07-16T19:36:12.055182+00:00",
-  "ts": 1784230572,
+  "generated": "2026-07-16T22:17:34.594833+00:00",
+  "ts": 1784240254,
   "market": [
     {
+      "headline": "CME Group launches NASDAQ CME Crypto Index futures for eight cryptocurrencies including Bitcoin and Ether",
+      "take": "CME launches NASDAQ crypto index futures for Bitcoin, Ether, and six others",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cme-nasdaq-crypto-index-futures-launch-3/"
+    },
+    {
+      "headline": "Hyperliquid hits record 9% share of aggregate perp open interest",
+      "take": "Hyperliquid reaches record 9% of aggregate perpetual futures open interest",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-record-9-percent-perp-open-interest/"
+    },
+    {
+      "headline": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "take": "Morgan Stanley adds Bitcoin, Ethereum, Solana trading to E*Trade platform",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"
+    },
+    {
       "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "take": "T. Rowe Price launches first multi-token crypto ETF, signaling institutional adoption",
+      "take": "T. Rowe Price launches first multi-token crypto ETF with active management",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf"
     },
     {
-      "headline": "Hyperliquid traders price CXMT shares 575% above IPO level ahead of Shanghai debut",
-      "take": "Hyperliquid traders price CXMT shares 575% above IPO ahead of Shanghai debut",
+      "headline": "US mortgage rates hit near-year high as Middle East war stokes inflation fears",
+      "take": "US mortgage rates hit near-year high amid Middle East tensions and inflation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cxmt-ipo-crypto-futures-hyperliquid/"
-    },
-    {
-      "headline": "JPMorgan says bitcoin outlook sees \u2018encouraging sign\u2019 as Strategy boosts cash reserves",
-      "take": "JPMorgan sees encouraging signs in bitcoin outlook as cash reserves boost strategy",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
-      "take": "Bitcoin outperforms XRP as market dynamics shift allocation patterns",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather"
-    },
-    {
-      "headline": "Federal Reserve\u2019s Logan proposes regulatory overhaul that could shrink the Fed\u2019s $6.7 trillion balance sheet",
-      "take": "Federal Reserve proposes regulatory overhaul targeting $6.7 trillion balance sheet reduction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-logan-balance-sheet-liquidity-reform/"
+      "link": "https://cryptobriefing.com/us-mortgage-rates-near-year-high-iran-inflation/"
     }
   ],
   "business": [
     {
-      "headline": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-      "take": "Citadel Securities invests $400 million in Crypto.com at $20 billion valuation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion"
+      "headline": "Robinhood builds custom Lighter instance for unique on-chain trading experience",
+      "take": "Robinhood builds custom Lighter instance for on-chain trading experience",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-lighter-instance-on-chain-trading/"
     },
     {
-      "headline": "Visa Unveils Stablecoin Platform for Banks and Fintech Companies",
-      "take": "Visa launches stablecoin platform enabling banks and fintech companies direct access",
+      "headline": "Situational Awareness LP hedge fund reaches $20B valuation as AI and crypto bets pay off",
+      "take": "Situational Awareness LP hedge fund reaches $20B valuation on AI and crypto bets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/situational-awareness-lp-20b-valuation/"
+    },
+    {
+      "headline": "1inch co-founder says he was fired, announces new venture",
+      "take": "1inch co-founder fired, announces new venture",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Taiwan Semiconductor commits $100B to US manufacturing expansion",
+      "take": "Taiwan Semiconductor commits $100B to US manufacturing expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tsmc-100b-us-manufacturing-expansion/"
+    },
+    {
+      "headline": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source",
+      "take": "Mira Murati releases fully open-source AI model after leaving OpenAI",
       "source": "decrypt",
-      "link": "https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd"
-    },
-    {
-      "headline": "Chainguard raises $800M to secure open source infrastructure",
-      "take": "Chainguard raises $800 million to secure open source infrastructure ecosystem",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainguard-raises-800m-open-source-security/"
-    },
-    {
-      "headline": "Google faces EU order to open Android and share search data with AI rivals",
-      "take": "Google ordered by EU to open Android and share search data with AI rivals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-eu-android-ai-rivals-search-data/"
+      "link": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source"
     }
   ],
   "security": [
     {
+      "headline": "Suno\u2019s leaked source code reveals massive scraping of Deezer, YouTube, and other music platforms",
+      "take": "Suno's leaked source code reveals massive scraping of music platforms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/suno-source-code-leak-deezer-youtube/"
+    },
+    {
       "headline": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
-      "take": "Bitcoin recovery proposal lets users prove ownership after quantum computing attacks",
+      "take": "Bitcoin Q-Day recovery proposal lets users prove ownership after quantum attack",
       "source": "decrypt",
       "link": "https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack"
     }
   ],
   "policy": [
     {
+      "headline": "Trump and senators meet to resolve CLARITY Act deadlock before August recess",
+      "take": "Trump and senators meet to resolve CLARITY Act deadlock before recess",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-and-senators-meet-to-resolve-clarity-act-deadlock-before-august-recess/"
+    },
+    {
+      "headline": "New York enacts first statewide moratorium on hyperscale data centers in the US",
+      "take": "New York enacts first statewide moratorium on hyperscale data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-york-data-center-moratorium-crypto-impact-2/"
+    },
+    {
       "headline": "\u2018We\u2019re going to get it done\u2019: Crypto bill faces what could be final test over Trump conflicts of interest",
-      "take": "Crypto bill faces final test amid Trump conflict of interest concerns",
+      "take": "Crypto bill faces final test amid concerns over Trump conflicts of interest",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408706/were-going-get-it-done-crypto-bill-faces-could-be-final-test-trump-conflicts-interest?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US lawmakers push Clarity Act amid Trump crypto conflict concerns",
-      "take": "US lawmakers push Clarity Act amid Trump crypto conflict concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-lawmakers-push-clarity-act-amid-trump-crypto-conflict-concerns/"
-    },
-    {
-      "headline": "US Senate unanimously opposes presidential pardon for Sam Bankman-Fried",
-      "take": "US Senate unanimously opposes presidential pardon for Sam Bankman-Fried",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-opposes-sbf-pardon/"
-    },
-    {
-      "headline": "Britain\u2019s new legal framework targets Iran\u2019s Revolutionary Guards, raising questions for crypto compliance",
-      "take": "Britain targets Iran's Revolutionary Guards with legal framework raising crypto compliance questions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-irgc-designation-crypto-compliance/"
-    },
-    {
-      "headline": "CFTC investigates White House teleprompter operator for allegedly profiting from Kalshi trades on Trump speeches",
-      "take": "CFTC investigates White House teleprompter operator for Kalshi trade profiting allegations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-investigates-white-house-kalshi-trades/"
     }
   ]
 }

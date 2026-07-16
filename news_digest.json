@@ -1,90 +1,102 @@
 {
-  "generated": "2026-07-16T16:44:05.058009+00:00",
-  "ts": 1784220245,
+  "generated": "2026-07-16T19:36:12.055182+00:00",
+  "ts": 1784230572,
   "market": [
     {
-      "headline": "$1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF",
-      "take": "T. Rowe Price launches first actively managed multi-token crypto ETF",
+      "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+      "take": "T. Rowe Price launches first multi-token crypto ETF, signaling institutional adoption",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf"
+    },
+    {
+      "headline": "Hyperliquid traders price CXMT shares 575% above IPO level ahead of Shanghai debut",
+      "take": "Hyperliquid traders price CXMT shares 575% above IPO ahead of Shanghai debut",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cxmt-ipo-crypto-futures-hyperliquid/"
+    },
+    {
+      "headline": "JPMorgan says bitcoin outlook sees \u2018encouraging sign\u2019 as Strategy boosts cash reserves",
+      "take": "JPMorgan sees encouraging signs in bitcoin outlook as cash reserves boost strategy",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Morgan Stanley\u2019s E*Trade launches Bitcoin, Ether, and Solana trading",
-      "take": "Morgan Stanley's E*Trade now offers Bitcoin, Ether, and Solana trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanleys-etrade-launches-bitcoin-ether-and-solana-trading/"
-    },
-    {
-      "headline": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
-      "take": "Dormant Bitcoin whale moved $383 million after eight year silence",
+      "headline": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
+      "take": "Bitcoin outperforms XRP as market dynamics shift allocation patterns",
       "source": "decrypt",
-      "link": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years"
+      "link": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather"
     },
     {
-      "headline": "Sandisk stock soars 857% in first half of 2026, and its tokenized versions are already trading on-chain",
-      "take": "SanDisk stock soared 857% in 2026; tokenized versions trade on-chain",
+      "headline": "Federal Reserve\u2019s Logan proposes regulatory overhaul that could shrink the Fed\u2019s $6.7 trillion balance sheet",
+      "take": "Federal Reserve proposes regulatory overhaul targeting $6.7 trillion balance sheet reduction",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandisk-stock-857-percent-tokenized-solana/"
-    },
-    {
-      "headline": "The Smarter Web Company shares can now be traded in Canadian tax-advantaged accounts",
-      "take": "Smarter Web Company shares now tradable in Canadian tax-advantaged accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/smarter-web-company-canada-trading-approval/"
+      "link": "https://cryptobriefing.com/fed-logan-balance-sheet-liquidity-reform/"
     }
   ],
   "business": [
     {
-      "headline": "Multicoin Capital leads $2M seed round for Trasia in Hyperliquid ecosystem investment",
-      "take": "Multicoin Capital leads $2 million seed round for Trasia on Hyperliquid",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multicoin-capital-trasia-hyperliquid-seed-round/"
-    },
-    {
-      "headline": "Keyrock expands global crypto trading business with BlockFills acquisition",
-      "take": "Keyrock expands institutional crypto trading with BlockFills acquisition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/keyrock-expands-global-crypto-trading-business-with-blockfills-acquisition/"
-    },
-    {
-      "headline": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-      "take": "Visa backs Open USD stablecoin platform, competing with Circle",
+      "headline": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
+      "take": "Citadel Securities invests $400 million in Crypto.com at $20 billion valuation",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition"
+      "link": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion"
     },
     {
-      "headline": "SBI extends onchain finance push with Ondo deal to tokenize Japanese stocks",
-      "take": "SBI pushes onchain finance forward with Ondo tokenized Japanese stocks deal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408633/sbi-extends-onchain-finance-push-with-ondo-deal-tokenize-japanese-stocks?utm_source=rss&utm_medium=rss"
+      "headline": "Visa Unveils Stablecoin Platform for Banks and Fintech Companies",
+      "take": "Visa launches stablecoin platform enabling banks and fintech companies direct access",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd"
     },
     {
-      "headline": "BitGo EVM Keyring connects multiple EVM chains to a single wallet",
-      "take": "BitGo EVM Keyring connects multiple EVM chains to single wallet",
+      "headline": "Chainguard raises $800M to secure open source infrastructure",
+      "take": "Chainguard raises $800 million to secure open source infrastructure ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-evm-keyring-multi-chain-wallet/"
+      "link": "https://cryptobriefing.com/chainguard-raises-800m-open-source-security/"
+    },
+    {
+      "headline": "Google faces EU order to open Android and share search data with AI rivals",
+      "take": "Google ordered by EU to open Android and share search data with AI rivals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-eu-android-ai-rivals-search-data/"
     }
   ],
   "security": [
     {
-      "headline": "US jury indicts South Dakota crypto investor on 29 counts over alleged $20 million investor fraud",
-      "take": "South Dakota crypto investor indicted on 29 counts for $20 million fraud",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408654/us-jury-indicts-south-dakota-crypto-investor-29-counts-alleged-20m-investor-fraud?utm_source=rss&utm_medium=rss"
+      "headline": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
+      "take": "Bitcoin recovery proposal lets users prove ownership after quantum computing attacks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack"
     }
   ],
   "policy": [
     {
-      "headline": "EU orders Google to share search data, open Android to AI rivals",
-      "take": "EU orders Google to share search data and open Android to AI rivals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-orders-google-to-share-search-data-open-android-to-ai-rivals/"
+      "headline": "\u2018We\u2019re going to get it done\u2019: Crypto bill faces what could be final test over Trump conflicts of interest",
+      "take": "Crypto bill faces final test amid Trump conflict of interest concerns",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408706/were-going-get-it-done-crypto-bill-faces-could-be-final-test-trump-conflicts-interest?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "The Clarity Act is the most important consumer protection effort in years",
-      "take": "Clarity Act represents significant consumer protection effort for crypto sector",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years"
+      "headline": "US lawmakers push Clarity Act amid Trump crypto conflict concerns",
+      "take": "US lawmakers push Clarity Act amid Trump crypto conflict concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-lawmakers-push-clarity-act-amid-trump-crypto-conflict-concerns/"
+    },
+    {
+      "headline": "US Senate unanimously opposes presidential pardon for Sam Bankman-Fried",
+      "take": "US Senate unanimously opposes presidential pardon for Sam Bankman-Fried",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-opposes-sbf-pardon/"
+    },
+    {
+      "headline": "Britain\u2019s new legal framework targets Iran\u2019s Revolutionary Guards, raising questions for crypto compliance",
+      "take": "Britain targets Iran's Revolutionary Guards with legal framework raising crypto compliance questions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-irgc-designation-crypto-compliance/"
+    },
+    {
+      "headline": "CFTC investigates White House teleprompter operator for allegedly profiting from Kalshi trades on Trump speeches",
+      "take": "CFTC investigates White House teleprompter operator for Kalshi trade profiting allegations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-investigates-white-house-kalshi-trades/"
     }
   ]
 }

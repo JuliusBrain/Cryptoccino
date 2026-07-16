@@ -1,90 +1,90 @@
 {
-  "generated": "2026-07-16T03:42:13.468092+00:00",
-  "ts": 1784173333,
+  "generated": "2026-07-16T08:36:27.274138+00:00",
+  "ts": 1784190987,
   "market": [
     {
-      "headline": "OFAC Sanctions Iran Central Bank Crypto Wallets, Freezing $131M in Stablecoins",
-      "take": "OFAC sanctions Iran Central Bank crypto wallets, freezing $131M in stablecoins",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-iran-central-bank-crypto-wallets-freezing-131m-in-stablecoins/"
+      "headline": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+      "take": "Trump meets senators Thursday to discuss CLARITY Act crypto framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Coinbase adds perpetual futures for Roundhill Memory and Direxion semiconductor ETFs starting July 16",
-      "take": "Coinbase launches perpetual futures for semiconductor ETFs starting mid-July",
+      "headline": "Bitcoin buyers at $107K signal potential 2026 bear-market bottom, according to Glassnode",
+      "take": "Bitcoin at $107K shows potential bear-market bottom for 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-dram-soxl-perpetual-futures/"
+      "link": "https://cryptobriefing.com/bitcoin-107k-buyers-bear-market-bottom-glassnode/"
     },
     {
-      "headline": "South Korea stocks slump after first rate rise in three years",
-      "take": "South Korea stocks slump after first rate increase in three years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-rate-hike-kospi-stocks-slump/"
+      "headline": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
+      "take": "Ether outperforms Bitcoin as ETF inflows return, led by BlackRock",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
     },
     {
-      "headline": "Semiconductor stocks tumble across Asia as AI rally hits a wall",
-      "take": "Semiconductor stocks tumble across Asia as AI rally loses momentum",
+      "headline": "CryptoQuant warns of deleveraging risk as exchange leverage hits historical extremes",
+      "take": "Exchange leverage hits historical extremes, signaling deleveraging risk ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asia-semiconductor-stocks-tumble-ai-rally/"
+      "link": "https://cryptobriefing.com/cryptoquant-leverage-deleveraging-risk-warning/"
     },
     {
-      "headline": "China\u2019s local debt cleanup creates a growth mess that could ripple across global markets",
-      "take": "China's local debt cleanup creates growth concerns rippling across global markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-local-debt-cleanup-growth-challenges/"
+      "headline": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
+      "take": "Eight-year dormant Bitcoin wallet moves $383M, signals market sentiment shift",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Apple partners with Alibaba and Baidu for China AI push, sending Hong Kong shares surging",
-      "take": "Apple partners with Alibaba and Baidu for China AI push",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-alibaba-baidu-ai-partnership-hong-kong/"
-    },
-    {
-      "headline": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says",
-      "take": "Stripe-PayPal deal could accelerate shift to blockchain-based money",
+      "headline": "Visa says stablecoins will power micro-commerce in AI agentic economy",
+      "take": "Visa positions stablecoins as payment infrastructure for AI agent economy",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Mitsubishi Heavy Industries joins Nvidia partner network for power and cooling solutions",
-      "take": "Mitsubishi Heavy Industries joins Nvidia partner network for infrastructure",
+      "headline": "Swedbank AB boosts stake in Bitcoin treasury company Strategy by 8,278 shares",
+      "take": "Swedbank increases Bitcoin treasury company Strategy stake by 8,278 shares",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mitsubishi-nvidia-power-cooling-partnership/"
+      "link": "https://cryptobriefing.com/swedbank-boosts-strategy-mstr-stake/"
     },
     {
-      "headline": "Gen.G\u2019s esports roster shake-up highlights growing intersection of competitive gaming and web3",
-      "take": "Gen.G esports roster changes highlight intersection of gaming and web3",
+      "headline": "Hyperion DeFi to deploy 500,000 HYPE tokens on Hyperliquid\u2019s HIP-3 platform",
+      "take": "Hyperion DeFi deploys 500K HYPE tokens on Hyperliquid HIP-3 platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/geng-esports-roster-web3-theta-labs/"
+      "link": "https://cryptobriefing.com/hyperion-defi-to-deploy-500000-hype-tokens-on-hyperliquids-hip-3-platform/"
+    },
+    {
+      "headline": "XRP Ledger surpasses 8M activated accounts amid dip in daily activity",
+      "take": "XRP Ledger surpasses 8 million activated accounts despite daily activity dip",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-ledger-surpasses-8m-activated-accounts-amid-dip-in-daily-activity/"
     }
   ],
   "security": [
     {
-      "headline": "California pair charged with laundering crypto proceeds from darknet fentanyl sales",
-      "take": "California pair charged with laundering darknet fentanyl sales proceeds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&utm_medium=rss"
+      "headline": "Vlad.fun halts operations after discovering internal integrity issue",
+      "take": "Vlad.fun halts operations after discovering critical internal integrity issue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vlad-fun-halts-operations-integrity-issue/"
+    },
+    {
+      "headline": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+      "take": "ZachXBT warns community that hardware wallets lack adequate security",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000"
     }
   ],
   "policy": [
     {
-      "headline": "US to impose 25% tariff on Brazilian imports at Trump\u2019s direction, escalating trade war with world\u2019s 10th largest economy",
-      "take": "US imposes 25% tariff on Brazilian imports, escalating trade tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-25-percent-tariff-brazil-imports/"
+      "headline": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
+      "take": "US Senate unanimously opposes clemency pardon for Sam Bankman-Fried",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon"
     },
     {
-      "headline": "China vows to defend companies against US tariffs on Russian energy buyers, boosting case for crypto settlement",
-      "take": "China vows to defend companies against US tariffs on Russian energy",
+      "headline": "US House Financial Services Committee to hold hearing on CLARITY Act",
+      "take": "House Financial Services Committee schedules hearing on CLARITY Act proposal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-us-tariffs-russian-energy-crypto/"
-    },
-    {
-      "headline": "Australia imposes new rules on data centers after Anthropic lobbying",
-      "take": "Australia imposes new data center rules following Anthropic lobbying",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-ai-data-center-rules-anthropic/"
+      "link": "https://cryptobriefing.com/house-clarity-act-hearing-digital-assets/"
     }
   ]
 }

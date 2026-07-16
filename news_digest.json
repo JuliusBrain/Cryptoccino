@@ -1,90 +1,108 @@
 {
-  "generated": "2026-07-16T08:36:27.274138+00:00",
-  "ts": 1784190987,
+  "generated": "2026-07-16T11:13:59.009969+00:00",
+  "ts": 1784200439,
   "market": [
     {
-      "headline": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
-      "take": "Trump meets senators Thursday to discuss CLARITY Act crypto framework",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Bitcoin buyers at $107K signal potential 2026 bear-market bottom, according to Glassnode",
-      "take": "Bitcoin at $107K shows potential bear-market bottom for 2026",
+      "headline": "BlackRock\u2019s Bitcoin ETFs hold $78B in AUM, attract $51B since January 2024",
+      "take": "BlackRock Bitcoin ETFs hold $78B AUM, attracted $51B since January",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-107k-buyers-bear-market-bottom-glassnode/"
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-etf-78b-aum/"
     },
     {
-      "headline": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
-      "take": "Ether outperforms Bitcoin as ETF inflows return, led by BlackRock",
+      "headline": "Bitcoin pulls back to $64,000 after hitting monthly high as bears take control",
+      "take": "Bitcoin pulls back to $64,000 after hitting monthly high",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
-    },
-    {
-      "headline": "CryptoQuant warns of deleveraging risk as exchange leverage hits historical extremes",
-      "take": "Exchange leverage hits historical extremes, signaling deleveraging risk ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptoquant-leverage-deleveraging-risk-warning/"
+      "link": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control"
     },
     {
       "headline": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
-      "take": "Eight-year dormant Bitcoin wallet moves $383M, signals market sentiment shift",
+      "take": "Bitcoin whale moves $383 million in BTC after 8 years dormant",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "US military completes strikes on Iran targeting Bandar Abbas, raising oil supply fears that could ripple through crypto markets",
+      "take": "US strikes Iran targeting oil supplies, potential ripple through crypto markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-military-strikes-iran-bandar-abbas-crypto-impact/"
+    },
+    {
+      "headline": "SK Hynix volatility persists as AI euphoria shifts to fatigue",
+      "take": "SK Hynix volatility persists as AI euphoria shifts to fatigue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sk-hynix-volatility-ai-fatigue-nasdaq/"
     }
   ],
   "business": [
     {
+      "headline": "Alpaca raises $435M to explore prime broking entry as AI trading volume surges 4x",
+      "take": "Alpaca raises $435M for prime broking as AI trading volume surges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alpaca-raises-435m-prime-brokerage-ai-trading/"
+    },
+    {
+      "headline": "AAVE Horizon now supports JAAA as borrowable collateral for leveraged strategies up to 5x",
+      "take": "AAVE Horizon now supports JAAA as borrowable collateral up to 5x",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aave-jaaa-collateral-leveraged-strategies/"
+    },
+    {
+      "headline": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
+      "take": "Tether invests $20 million in Argentine neobank Ual\u00e1 expansion",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push"
+    },
+    {
+      "headline": "Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push",
+      "take": "Volvo Group tests proprietary cryptocurrency for supplier transactions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408586/volvo-group-tests-proprietary-cryptocurrency?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Visa says stablecoins will power micro-commerce in AI agentic economy",
-      "take": "Visa positions stablecoins as payment infrastructure for AI agent economy",
+      "take": "Visa says stablecoins will power micro-commerce in AI agentic economy",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Swedbank AB boosts stake in Bitcoin treasury company Strategy by 8,278 shares",
-      "take": "Swedbank increases Bitcoin treasury company Strategy stake by 8,278 shares",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/swedbank-boosts-strategy-mstr-stake/"
-    },
-    {
-      "headline": "Hyperion DeFi to deploy 500,000 HYPE tokens on Hyperliquid\u2019s HIP-3 platform",
-      "take": "Hyperion DeFi deploys 500K HYPE tokens on Hyperliquid HIP-3 platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperion-defi-to-deploy-500000-hype-tokens-on-hyperliquids-hip-3-platform/"
-    },
-    {
-      "headline": "XRP Ledger surpasses 8M activated accounts amid dip in daily activity",
-      "take": "XRP Ledger surpasses 8 million activated accounts despite daily activity dip",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-ledger-surpasses-8m-activated-accounts-amid-dip-in-daily-activity/"
     }
   ],
   "security": [
     {
-      "headline": "Vlad.fun halts operations after discovering internal integrity issue",
-      "take": "Vlad.fun halts operations after discovering critical internal integrity issue",
+      "headline": "FBI arrests Florida man over $220K crypto theft using malware hidden in video games",
+      "take": "FBI arrests Florida man over $220K crypto theft via video game malware",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vlad-fun-halts-operations-integrity-issue/"
+      "link": "https://cryptobriefing.com/fbi-arrests-florida-man-crypto-theft-malware/"
     },
     {
-      "headline": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
-      "take": "ZachXBT warns community that hardware wallets lack adequate security",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000"
+      "headline": "Robinhood Chain memecoin launchpad Vlad.fun halts after \u2018internal integrity\u2019 issue",
+      "take": "Robinhood Chain memecoin launchpad Vlad.fun halts after integrity issue",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
-      "take": "US Senate unanimously opposes clemency pardon for Sam Bankman-Fried",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon"
+      "headline": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
+      "take": "US adds Iran central bank crypto wallets to sanctions, Tether freezes $131M",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents"
     },
     {
-      "headline": "US House Financial Services Committee to hold hearing on CLARITY Act",
-      "take": "House Financial Services Committee schedules hearing on CLARITY Act proposal",
+      "headline": "Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency",
+      "take": "Senate unanimously opposes Sam Bankman-Fried clemency or pardon",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Ripple\u2019s Chief Legal Officer warns against voting against CLARITY Act",
+      "take": "Ripple Chief Legal Officer urges support for CLARITY Act voting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-clarity-act-hearing-digital-assets/"
+      "link": "https://cryptobriefing.com/ripple-clo-warns-clarity-act-vote/"
+    },
+    {
+      "headline": "US slaps 25% tariff on Brazilian imports starting July 22",
+      "take": "US slaps 25 percent tariff on Brazilian imports starting July 22",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-25-percent-tariff-brazil-imports-july-2026/"
     }
   ]
 }

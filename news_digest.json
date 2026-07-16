@@ -1,108 +1,120 @@
 {
-  "generated": "2026-07-16T11:13:59.009969+00:00",
-  "ts": 1784200439,
+  "generated": "2026-07-16T14:26:23.536947+00:00",
+  "ts": 1784211983,
   "market": [
     {
-      "headline": "BlackRock\u2019s Bitcoin ETFs hold $78B in AUM, attract $51B since January 2024",
-      "take": "BlackRock Bitcoin ETFs hold $78B AUM, attracted $51B since January",
+      "headline": "BlackRock clients buy $80M in Bitcoin via iShares ETF",
+      "take": "BlackRock clients accumulated $80M in Bitcoin through iShares ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-etf-78b-aum/"
+      "link": "https://cryptobriefing.com/blackrock-clients-buy-80m-in-bitcoin-via-ishares-etf/"
     },
     {
-      "headline": "Bitcoin pulls back to $64,000 after hitting monthly high as bears take control",
-      "take": "Bitcoin pulls back to $64,000 after hitting monthly high",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control"
-    },
-    {
-      "headline": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
-      "take": "Bitcoin whale moves $383 million in BTC after 8 years dormant",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US military completes strikes on Iran targeting Bandar Abbas, raising oil supply fears that could ripple through crypto markets",
-      "take": "US strikes Iran targeting oil supplies, potential ripple through crypto markets",
+      "headline": "S&P 500 and Nasdaq slide as Treasury yields climb, dimming rate cut hopes",
+      "take": "S&P 500 and Nasdaq declined as Treasury yields rose, reducing rate cut odds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-military-strikes-iran-bandar-abbas-crypto-impact/"
+      "link": "https://cryptobriefing.com/sp500-nasdaq-lower-treasury-yields-rise/"
     },
     {
-      "headline": "SK Hynix volatility persists as AI euphoria shifts to fatigue",
-      "take": "SK Hynix volatility persists as AI euphoria shifts to fatigue",
+      "headline": "Prediction markets hit record $114B volume in Q2 as broader crypto trading contracts",
+      "take": "Prediction markets hit record $114B volume in Q2 despite broader crypto contraction",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-volatility-ai-fatigue-nasdaq/"
+      "link": "https://cryptobriefing.com/prediction-markets-record-114b-volume-q2-coingecko/"
+    },
+    {
+      "headline": "Gold falls below $4,000 as Antalpha sells $142M in holdings",
+      "take": "Gold fell below $4,000 after Antalpha sold $142M in holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-falls-below-4000-as-antalpha-sells-142m-in-holdings/"
+    },
+    {
+      "headline": "Federal Reserve\u2019s new strategy may stabilize long-term bond rates, with crypto implications: Morgan Stanley",
+      "take": "Federal Reserve strategy may stabilize long-term bond rates with crypto implications",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morgan-stanley-fed-strategy-bond-yields-crypto/"
     }
   ],
   "business": [
     {
-      "headline": "Alpaca raises $435M to explore prime broking entry as AI trading volume surges 4x",
-      "take": "Alpaca raises $435M for prime broking as AI trading volume surges",
+      "headline": "E*TRADE completes Bitcoin, Ethereum, Solana spot trading rollout",
+      "take": "E*TRADE completed Bitcoin, Ethereum, Solana spot trading rollout for retail",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alpaca-raises-435m-prime-brokerage-ai-trading/"
+      "link": "https://cryptobriefing.com/etrade-completes-bitcoin-ethereum-solana-spot-trading-rollout/"
     },
     {
-      "headline": "AAVE Horizon now supports JAAA as borrowable collateral for leveraged strategies up to 5x",
-      "take": "AAVE Horizon now supports JAAA as borrowable collateral up to 5x",
+      "headline": "Aptos partners with Mastercard, Visa, and Stripe for Open USD launch",
+      "take": "Aptos partnered with Mastercard, Visa, Stripe for Open USD stablecoin launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-jaaa-collateral-leveraged-strategies/"
+      "link": "https://cryptobriefing.com/aptos-mastercard-visa-stripe-open-usd/"
     },
     {
-      "headline": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
-      "take": "Tether invests $20 million in Argentine neobank Ual\u00e1 expansion",
+      "headline": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
+      "take": "Alpaca raised $135M for tokenized stock trading infrastructure development",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push"
+      "link": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure"
     },
     {
-      "headline": "Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push",
-      "take": "Volvo Group tests proprietary cryptocurrency for supplier transactions",
+      "headline": "MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal",
+      "take": "MoonPay acquired Y Combinator-backed Glide in all-equity crypto deposits deal",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408586/volvo-group-tests-proprietary-cryptocurrency?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408603/moonpay-acquires-y-combinator-crypto-glide-all-equity-deal?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Visa says stablecoins will power micro-commerce in AI agentic economy",
-      "take": "Visa says stablecoins will power micro-commerce in AI agentic economy",
+      "headline": "Tether invests $20 million in Ual\u00e1 as the fintech firm reaches $3.2 billion valuation",
+      "take": "Tether invested $20M in Ual\u00e1, valuing fintech at $3.2 billion",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408604/tether-invests-20-million-in-uala-as-the-fintech-firm-reaches-3-2-billion-valuation?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "FBI arrests Florida man over $220K crypto theft using malware hidden in video games",
-      "take": "FBI arrests Florida man over $220K crypto theft via video game malware",
+      "headline": "Two Scattered Spider hackers sentenced to five years in UK after Transport for London attack",
+      "take": "Two Scattered Spider hackers sentenced to five years for Transport for London attack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fbi-arrests-florida-man-crypto-theft-malware/"
+      "link": "https://cryptobriefing.com/scattered-spider-hackers-sentenced-uk/"
     },
     {
-      "headline": "Robinhood Chain memecoin launchpad Vlad.fun halts after \u2018internal integrity\u2019 issue",
-      "take": "Robinhood Chain memecoin launchpad Vlad.fun halts after integrity issue",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions",
+      "take": "Ledger unveiled hardware-backed Agent Stack to prevent rogue AI crypto transactions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "NEAR AI integrates private inference into Corbits platform, bringing hardware-enforced confidentiality to enterprise AI",
+      "take": "NEAR AI integrated private inference with hardware-enforced confidentiality for enterprise",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/near-ai-private-inference-corbits-integration/"
+    },
+    {
+      "headline": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
+      "take": "FATF urged faster crypto AML enforcement as stablecoin-related crime increases",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
-      "take": "US adds Iran central bank crypto wallets to sanctions, Tether freezes $131M",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents"
-    },
-    {
-      "headline": "Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency",
-      "take": "Senate unanimously opposes Sam Bankman-Fried clemency or pardon",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Ripple\u2019s Chief Legal Officer warns against voting against CLARITY Act",
-      "take": "Ripple Chief Legal Officer urges support for CLARITY Act voting",
+      "headline": "EU orders Google to open Android and Search to AI rivals, including OpenAI",
+      "take": "EU ordered Google to open Android and Search to AI rivals including OpenAI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-clo-warns-clarity-act-vote/"
+      "link": "https://cryptobriefing.com/eu-orders-google-open-android-search-ai-rivals/"
     },
     {
-      "headline": "US slaps 25% tariff on Brazilian imports starting July 22",
-      "take": "US slaps 25 percent tariff on Brazilian imports starting July 22",
+      "headline": "EU orders Google to share anonymized search data with rivals by 2027",
+      "take": "EU ordered Google to share anonymized search data with competitors by 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-25-percent-tariff-brazil-imports-july-2026/"
+      "link": "https://cryptobriefing.com/eu-google-search-data-sharing-rivals-2027/"
+    },
+    {
+      "headline": "Bybit launches regulated crypto platform in Indonesia",
+      "take": "Bybit launched regulated crypto trading platform in Indonesia market",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bybit-indonesia-launch-ojk-supervision/"
+    },
+    {
+      "headline": "SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors",
+      "take": "SEC proposed new e-delivery approach to enhance investor information accessibility",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors"
     }
   ]
 }

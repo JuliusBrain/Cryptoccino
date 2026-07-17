@@ -1,108 +1,84 @@
 {
-  "generated": "2026-07-17T19:35:30.382762+00:00",
-  "ts": 1784316930,
+  "generated": "2026-07-17T22:08:37.381395+00:00",
+  "ts": 1784326117,
   "market": [
     {
-      "headline": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days",
-      "take": "Bitcoin slides toward $63k as Coinbase premium hits 60-day record low",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss"
+      "headline": "Over $432M liquidated from crypto market in 24 hours as leveraged longs get crushed",
+      "take": "Over $432M liquidated from crypto markets in 24 hours as leveraged longs crushed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/432m-crypto-liquidations-24-hours/"
     },
     {
-      "headline": "Cardano Pumps as Network Moves to Further Decentralize Development",
-      "take": "Cardano pumps on network moves toward further decentralization of development",
+      "headline": "Hyperliquid surpasses $1B in fees since 2024 launch",
+      "take": "Hyperliquid surpasses $1B in fees since 2024 launch, showing strong platform adoption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-surpasses-1b-in-fees-since-2024-launch/"
+    },
+    {
+      "headline": "BlackRock\u2019s SGOV ETF approaches $100B mark, doubling its nearest competitor",
+      "take": "BlackRock's SGOV ETF approaches $100B, doubling nearest competitor in tokenized treasuries",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-sgov-etf-100-billion/"
+    },
+    {
+      "headline": "Franklin Templeton leads tokenized Treasury issuers with explosive AUM growth in 2026",
+      "take": "Franklin Templeton leads tokenized Treasury issuers with explosive AUM growth in 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/franklin-templeton-tokenized-treasury-2b-growth/"
+    },
+    {
+      "headline": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
+      "take": "ECB warns stablecoins may drain bank deposits, raising systemic financial concerns",
       "source": "decrypt",
-      "link": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development"
-    },
-    {
-      "headline": "US consumer sentiment improves in july; renewed Middle East conflict poses downside risk",
-      "take": "US consumer sentiment improves in July despite Middle East conflict downside risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-consumer-sentiment-improves-in-july-renewed-middle-east-conflict-poses/"
-    },
-    {
-      "headline": "US power market shielded from global oil price surge amid Iran War: LS Power",
-      "take": "US power market shielded from global oil surge amid Iran-US tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-power-market-shielded-from-global-oil-price-surge-amid-iran-war-ls-power/"
-    },
-    {
-      "headline": "Michael Burry closes his Oracle short position",
-      "take": "Michael Burry closes his Oracle short position",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/michael-burry-closes-oracle-short-position/"
+      "link": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits"
     }
   ],
   "business": [
     {
       "headline": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
-      "take": "FTX to distribute roughly $900 million to creditors in fifth payout wave",
+      "take": "FTX to distribute roughly $900M to creditors in fifth wave of payouts",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Zhongji Innolight secures approval for major Hong Kong listing worth up to $7 billion",
-      "take": "Zhongji Innolight secures Hong Kong listing approval worth up to $7 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zhongji-innolight-hong-kong-listing-approval/"
+      "headline": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
+      "take": "Bank of America appoints new leaders to bridge crypto, AI and traditional finance",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Meta eyes $10B deal to lease AI computing power to anthropic",
-      "take": "Meta eyes $10 billion deal to lease AI computing power to Anthropic",
+      "headline": "Gemini updates Predictions product with batch orders and new features",
+      "take": "Gemini updates Predictions product with batch orders and enhanced feature set",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-eyes-10b-deal-to-lease-ai-computing-power-to-anthropic/"
+      "link": "https://cryptobriefing.com/gemini-predictions-batch-orders-world-cup-features/"
     },
     {
       "headline": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "take": "Stripe and Swift race to control next generation of global payments",
+      "take": "Stripe and Swift race to control next generation of global payments infrastructure",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure"
-    },
-    {
-      "headline": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal",
-      "take": "Galaxy puts its name on Texas Tech stadium in 15-year crypto deal",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373710/galaxy-texas-tech-stadium-15-year-crypto-native-deal"
     }
   ],
   "security": [
     {
-      "headline": "Trezor exec rebuts ZachXBT\u2019s claim that hardware wallets are \u2018complete garbage\u2019",
-      "take": "Trezor exec rebuts ZachXBT claim that hardware wallets are completely garbage",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trezor-rebuts-zachxbt-hardware-wallet-security/"
+      "headline": "Trezor exec pushes back on ZachXBT claim that hardware wallets are \u2018complete garbage\u2019",
+      "take": "Trezor exec pushes back on claim that hardware wallets are complete garbage",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "UPDATE: The house financial committee will hold an informational CLARITY act hearing in New York at 10 AM ET.",
-      "take": "House financial committee to hold CLARITY Act informational hearing in New York",
+      "headline": "Clarity Act gains bipartisan support, Senate vote awaited before Aug 2026 recess",
+      "take": "Clarity Act gains bipartisan support, Senate vote awaited before August 2026 recess",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/update-the-house-financial-committee-will-hold-an-informational-clarity-act/"
+      "link": "https://cryptobriefing.com/clarity-act-gains-bipartisan-support-senate-vote-awaited-before-aug-2026-recess/"
     },
     {
-      "headline": "Polymarket odds on clarity act passage fall to record low as senate delay drags on",
-      "take": "Polymarket odds on CLARITY Act passage fall to record low as Senate delays",
+      "headline": "US government considers FINRA-style regulator for AI oversight, and crypto should pay attention",
+      "take": "US government considers FINRA-style regulator for AI oversight impacting crypto sector",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-odds-on-clarity-act-passage-fall-to-record-low-as-senate-delay-drags/"
-    },
-    {
-      "headline": "US lets Trump-era Hong Kong sanctions order lapse, restoring trade privileges in major diplomatic shift",
-      "take": "US lets Trump-era Hong Kong sanctions lapse, restoring trade privileges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-restores-hong-kong-trade-privileges/"
-    },
-    {
-      "headline": "Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure",
-      "take": "Senator Warren requests 2026 reporting for Trump's crypto earnings after disclosure",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "EU proposes sweeping banking reforms to close the gap with US rivals",
-      "take": "EU proposes sweeping banking reforms to close gap with US rivals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-banking-reforms-compete-us-rivals/"
+      "link": "https://cryptobriefing.com/us-finra-style-ai-regulator-crypto-impact/"
     }
   ]
 }

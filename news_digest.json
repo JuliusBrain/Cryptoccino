@@ -1,90 +1,102 @@
 {
-  "generated": "2026-07-17T10:59:09.975385+00:00",
-  "ts": 1784285949,
+  "generated": "2026-07-17T14:06:00.587742+00:00",
+  "ts": 1784297160,
   "market": [
     {
-      "headline": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
-      "take": "Bitcoin slips to $63,000 as chip sector selloff spreads globally",
+      "headline": "Bitcoin may be nearing cyclical low as weak hands exit market, ARK Invest says",
+      "take": "Bitcoin nearing cyclical low as weak hands exit market, ARK Invest notes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-may-be-nearing-cyclical-low-as-weak-hands-exit-market-ark-invest-says/"
+    },
+    {
+      "headline": "Coinbase Bitcoin Premium Index negative for record 60 days",
+      "take": "Coinbase Bitcoin Premium Index negative for record 60 consecutive days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-bitcoin-premium-index-negative-for-record-60-days/"
+    },
+    {
+      "headline": "Live markets: Bitcoin slips below $63,000 as the chip rout goes global",
+      "take": "Bitcoin slips below $63,000 amid global semiconductor sector downturn",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global"
     },
     {
-      "headline": "Bitcoin Japan Corporation raises $60M, allocates $4M for BTC purchase",
-      "take": "Bitcoin Japan Corporation raises $60M, allocates $4M for BTC",
+      "headline": "Ethereum daily transactions rise 34% to 2M as fees drop 34% to $344M",
+      "take": "Ethereum daily transactions surge 34% while fees drop 34% to $344M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-japan-corporation-raises-60m-btc-purchase/"
+      "link": "https://cryptobriefing.com/ethereum-daily-transactions-rise-fees-drop/"
     },
     {
-      "headline": "Brent crude rises to $86.09, up $16 from last year: Fortune",
-      "take": "Brent crude rises to $86.09, up $16 from last year",
+      "headline": "Semiconductor stocks fall into bear market as $1.5 trillion evaporates and crypto eyes capital rotation",
+      "take": "Semiconductor stocks enter bear market, $1.5 trillion evaporates, crypto eyes rotation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-rises-to-8609-up-16-from-last-year-fortune/"
-    },
-    {
-      "headline": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
-      "take": "Crypto.com hits $20B valuation after $400M Citadel investment",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment"
-    },
-    {
-      "headline": "Bitcoin market bottom countdown nears 50 days as supply in loss",
-      "take": "Bitcoin market bottom countdown nears 50 days as supply in loss",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-market-bottom-countdown-nears-50-days-as-supply-in-loss/"
+      "link": "https://cryptobriefing.com/semiconductor-bear-market-crypto-capital-rotation/"
     }
   ],
   "business": [
     {
-      "headline": "SBI Holdings acquires majority stake in Coinhako, Singapore crypto platform",
-      "take": "SBI Holdings acquires majority stake in Coinhako Singapore platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sbi-holdings-acquires-coinhako-singapore/"
+      "headline": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
+      "take": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Nansen launches ETH staking service with Lido V3 stVaults integration",
-      "take": "Nansen launches ETH staking service with Lido V3 integration",
+      "headline": "Symmetry Investments receives regulatory approval to operate in Dubai",
+      "take": "Symmetry Investments receives regulatory approval to operate in Dubai",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nansen-launches-eth-staking-service-with-lido-v3-stvaults-integration/"
+      "link": "https://cryptobriefing.com/symmetry-investments-dubai-difc-regulatory-approval/"
     },
     {
-      "headline": "ONDO Finance partners with SBI Group to tokenize Japanese assets using yen-backed stablecoin",
-      "take": "ONDO Finance partners with SBI to tokenize Japanese assets",
+      "headline": "Galaxy Digital renames Texas Tech football venue to Galaxy Stadium in $75M deal",
+      "take": "Galaxy Digital renames Texas Tech football venue to Galaxy Stadium in $75M deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-finance-sbi-group-tokenize-japanese-assets/"
+      "link": "https://cryptobriefing.com/galaxy-digital-texas-tech-stadium-naming-rights/"
+    },
+    {
+      "headline": "Injective files for SEC transfer agent registration to bring securities records on-chain",
+      "take": "Injective files for SEC transfer agent registration to bring securities on-chain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-sec-transfer-agent-registration-tokenized-assets/"
+    },
+    {
+      "headline": "Argentina\u2019s World Cup comeback sparks fan token frenzy as ARG and CHZ surge",
+      "take": "Argentina's World Cup comeback sparks fan token frenzy, ARG and CHZ surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/argentina-world-cup-fan-token-surge-6/"
     }
   ],
   "security": [
     {
-      "headline": "Across Protocol confirms Solana bridge attack, says user funds are safe",
-      "take": "Across Protocol confirms Solana bridge attack, user funds safe",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/across-protocol-solana-bridge-attack/"
-    },
-    {
-      "headline": "Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports",
-      "take": "Taiwan sentences BitShine exchange ringleader to 22 years for fraud",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408748/taiwan-sentences-bitshine-crypto-exchange-ringleader-22-years?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "UK gang jailed over $5.4 million crypto scam posing as police",
-      "take": "UK gang jailed over $5.4 million crypto scam posing as police",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss"
+      "headline": "Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud",
+      "take": "Three men jailed for posing as police in $5.3M UK crypto fraud scheme",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373702/three-men-jailed-for-posing-as-police-in-5-3m-uk-crypto-fraud"
     }
   ],
   "policy": [
     {
-      "headline": "ESMA Adds 14 New CASPs to MiCA Register as Licensing Slows",
-      "take": "ESMA adds 14 new crypto providers to MiCA register as licensing slows",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Kalshi traders see 31% chance of crypto legislation passing by December",
+      "take": "Kalshi traders see 31% chance of crypto legislation passing by December",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-crypto-legislation-odds-december/"
     },
     {
-      "headline": "European Central Bank emphasizes digital euro\u2019s role in banking trust",
-      "take": "European Central Bank emphasizes digital euro's role in banking trust",
+      "headline": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
+      "take": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Supreme Court shields the Fed from presidential firing power while stripping protections from other agencies",
+      "take": "Supreme Court shields Federal Reserve from presidential firing power removal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-digital-euro-banking-trust/"
+      "link": "https://cryptobriefing.com/supreme-court-fed-independence-crypto-impact/"
+    },
+    {
+      "headline": "The British Virgin Islands are a top crypto hub no one ever talks about: Here\u2019s why",
+      "take": "British Virgin Islands emerge as major crypto hub with minimal public awareness",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/features/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

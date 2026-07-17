@@ -1,102 +1,90 @@
 {
-  "generated": "2026-07-17T08:30:24.749035+00:00",
-  "ts": 1784277024,
+  "generated": "2026-07-17T10:59:09.975385+00:00",
+  "ts": 1784285949,
   "market": [
     {
-      "headline": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
-      "take": "Bitcoin falls below $63k after US strike on Iran, Trump comments add uncertainty",
+      "headline": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
+      "take": "Bitcoin slips to $63,000 as chip sector selloff spreads globally",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty"
+      "link": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global"
     },
     {
-      "headline": "Global stocks fall $1.3T as AI trade reverses, tech stocks hit",
-      "take": "Global stocks drop $1.3T as AI trade reverses, tech sector hit hard",
+      "headline": "Bitcoin Japan Corporation raises $60M, allocates $4M for BTC purchase",
+      "take": "Bitcoin Japan Corporation raises $60M, allocates $4M for BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-stocks-fall-13t-as-ai-trade-reverses-tech-stocks-hit/"
+      "link": "https://cryptobriefing.com/bitcoin-japan-corporation-raises-60m-btc-purchase/"
     },
     {
-      "headline": "Over 102K crypto traders liquidated amid market volatility",
-      "take": "Over 102K crypto traders liquidated amid market volatility",
+      "headline": "Brent crude rises to $86.09, up $16 from last year: Fortune",
+      "take": "Brent crude rises to $86.09, up $16 from last year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/over-102k-crypto-traders-liquidated-amid-market-volatility/"
+      "link": "https://cryptobriefing.com/brent-crude-rises-to-8609-up-16-from-last-year-fortune/"
     },
     {
-      "headline": "$386M in long positions liquidated in crypto market over past 24 hours",
-      "take": "$386M in long positions liquidated in crypto market over 24 hours",
+      "headline": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
+      "take": "Crypto.com hits $20B valuation after $400M Citadel investment",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment"
+    },
+    {
+      "headline": "Bitcoin market bottom countdown nears 50 days as supply in loss",
+      "take": "Bitcoin market bottom countdown nears 50 days as supply in loss",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/386m-in-long-positions-liquidated-in-crypto-market-over-past-24-hours/"
-    },
-    {
-      "headline": "This $28 million ether market bet aims to profit from pure market chaos",
-      "take": "$28M ether market bet positioned to profit from market chaos",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos"
+      "link": "https://cryptobriefing.com/bitcoin-market-bottom-countdown-nears-50-days-as-supply-in-loss/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood Chain\u2019s protocol TVL surpasses $400M as Layer 2 gains momentum",
-      "take": "Robinhood Chain protocol TVL surpasses $400M as Layer 2 gains momentum",
+      "headline": "SBI Holdings acquires majority stake in Coinhako, Singapore crypto platform",
+      "take": "SBI Holdings acquires majority stake in Coinhako Singapore platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-tvl-400-million/"
+      "link": "https://cryptobriefing.com/sbi-holdings-acquires-coinhako-singapore/"
     },
     {
-      "headline": "PancakeSwap open-sources AI agent for ERC-8183 settlements on BNB Agent Studio",
-      "take": "PancakeSwap open-sources AI agent for ERC-8183 settlements on BNB Agent Studio",
+      "headline": "Nansen launches ETH staking service with Lido V3 stVaults integration",
+      "take": "Nansen launches ETH staking service with Lido V3 integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pancakeswap-open-sources-erc-8183-ai-agent-bnb-studio/"
+      "link": "https://cryptobriefing.com/nansen-launches-eth-staking-service-with-lido-v3-stvaults-integration/"
     },
     {
-      "headline": "Meta hires AWS executive Dave Brown to expand AI data center efforts",
-      "take": "Meta hires AWS executive Dave Brown to expand AI data center efforts",
+      "headline": "ONDO Finance partners with SBI Group to tokenize Japanese assets using yen-backed stablecoin",
+      "take": "ONDO Finance partners with SBI to tokenize Japanese assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-hires-aws-dave-brown-ai-data-centers/"
-    },
-    {
-      "headline": "USDT vs USDC: Comparing the Two Largest Stablecoins",
-      "take": "USDT vs USDC: comparing the two largest stablecoins",
-      "source": "theblock",
-      "link": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/ondo-finance-sbi-group-tokenize-japanese-assets/"
     }
   ],
   "security": [
     {
+      "headline": "Across Protocol confirms Solana bridge attack, says user funds are safe",
+      "take": "Across Protocol confirms Solana bridge attack, user funds safe",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/across-protocol-solana-bridge-attack/"
+    },
+    {
+      "headline": "Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports",
+      "take": "Taiwan sentences BitShine exchange ringleader to 22 years for fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408748/taiwan-sentences-bitshine-crypto-exchange-ringleader-22-years?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "UK gang jailed over $5.4 million crypto scam posing as police",
-      "take": "UK gang jailed for $5.4M crypto scam posing as police officers",
+      "take": "UK gang jailed over $5.4 million crypto scam posing as police",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Florida Attorney General\u2019s office returns $710K to crypto scam victim",
-      "take": "Florida Attorney General returns $710K to crypto scam victim",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/florida-ag-returns-710k-crypto-scam-victim/"
-    },
-    {
-      "headline": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
-      "take": "Leaks reveal Suno fed thousands of hours of unlicensed music into AI",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai"
     }
   ],
   "policy": [
     {
-      "headline": "SEC vs CFTC: Who Regulates Crypto?",
-      "take": "SEC versus CFTC: regulatory jurisdictions over crypto explained",
-      "source": "theblock",
-      "link": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
-      "take": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
+      "headline": "ESMA Adds 14 New CASPs to MiCA Register as Licensing Slows",
+      "take": "ESMA adds 14 new crypto providers to MiCA register as licensing slows",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Supreme Court upholds Fed governor protections, blocks Trump\u2019s dismissal attempt",
-      "take": "Supreme Court upholds Fed governor protections, blocks Trump dismissal attempt",
+      "headline": "European Central Bank emphasizes digital euro\u2019s role in banking trust",
+      "take": "European Central Bank emphasizes digital euro's role in banking trust",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/supreme-court-upholds-fed-governor-protections-blocks-trumps-dismissal-attempt/"
+      "link": "https://cryptobriefing.com/ecb-digital-euro-banking-trust/"
     }
   ]
 }

@@ -1,76 +1,82 @@
 {
-  "generated": "2026-07-16T22:17:34.594833+00:00",
-  "ts": 1784240254,
+  "generated": "2026-07-17T03:41:30.871253+00:00",
+  "ts": 1784259690,
   "market": [
     {
-      "headline": "CME Group launches NASDAQ CME Crypto Index futures for eight cryptocurrencies including Bitcoin and Ether",
-      "take": "CME launches NASDAQ crypto index futures for Bitcoin, Ether, and six others",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-nasdaq-crypto-index-futures-launch-3/"
-    },
-    {
-      "headline": "Hyperliquid hits record 9% share of aggregate perp open interest",
-      "take": "Hyperliquid reaches record 9% of aggregate perpetual futures open interest",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-record-9-percent-perp-open-interest/"
-    },
-    {
-      "headline": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-      "take": "Morgan Stanley adds Bitcoin, Ethereum, Solana trading to E*Trade platform",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"
-    },
-    {
       "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "take": "T. Rowe Price launches first multi-token crypto ETF with active management",
+      "take": "T. Rowe Price launches first multi-token crypto ETF for active management",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf"
     },
     {
-      "headline": "US mortgage rates hit near-year high as Middle East war stokes inflation fears",
-      "take": "US mortgage rates hit near-year high amid Middle East tensions and inflation",
+      "headline": "China injects $62B into banking system via 7-day reverse repos",
+      "take": "China injects $62 billion into banking system via reverse repos",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-mortgage-rates-near-year-high-iran-inflation/"
+      "link": "https://cryptobriefing.com/china-injects-62b-into-banking-system-via-7-day-reverse-repos/"
+    },
+    {
+      "headline": "Kansas City Fed president warns inflation is \u2018too hot,\u2019 and crypto markets should pay attention",
+      "take": "Kansas City Fed warns inflation remains too hot, signals caution ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-inflation-warning-crypto-impact/"
+    },
+    {
+      "headline": "Bloomberg\u2019s top dollar-yen forecaster sees 170 level ahead, and crypto markets should pay attention",
+      "take": "Dollar-yen forecast targets 170 level; currency moves affect crypto valuations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bloomberg-top-yen-forecaster-170-crypto-impact/"
+    },
+    {
+      "headline": "Gold prices climb 1% to $4,008 amid Treasury yield pressures",
+      "take": "Gold climbs 1% to $4,008 amid Treasury yield pressures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-prices-climb-1-to-4008-amid-treasury-yield-pressures/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood builds custom Lighter instance for unique on-chain trading experience",
-      "take": "Robinhood builds custom Lighter instance for on-chain trading experience",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-lighter-instance-on-chain-trading/"
+      "headline": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "take": "Morgan Stanley launches Bitcoin, Ethereum, Solana trading on E*Trade",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"
     },
     {
-      "headline": "Situational Awareness LP hedge fund reaches $20B valuation as AI and crypto bets pay off",
-      "take": "Situational Awareness LP hedge fund reaches $20B valuation on AI and crypto bets",
+      "headline": "Tether CEO Paolo Ardoino reports 30 million new USDT wallets every quarter",
+      "take": "Tether reports 30 million new USDT wallets added every quarter",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/situational-awareness-lp-20b-valuation/"
+      "link": "https://cryptobriefing.com/tether-usdt-30-million-wallets-quarterly-growth/"
+    },
+    {
+      "headline": "Solana Foundation and Google Cloud co-host AI hackathon in Korea to build autonomous payment agents",
+      "take": "Solana Foundation and Google Cloud co-host AI hackathon for autonomous agents",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-google-cloud-ai-hackathon-korea/"
     },
     {
       "headline": "1inch co-founder says he was fired, announces new venture",
-      "take": "1inch co-founder fired, announces new venture",
+      "take": "1inch co-founder fired, announces new venture after leadership departure",
       "source": "cointelegraph_defi",
       "link": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Taiwan Semiconductor commits $100B to US manufacturing expansion",
-      "take": "Taiwan Semiconductor commits $100B to US manufacturing expansion",
+      "headline": "Moonshot AI unveils Kimi K3, the largest open-weight AI model at 2.7 trillion parameters",
+      "take": "Moonshot AI unveils Kimi K3, largest open-weight model at 2.7T parameters",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-100b-us-manufacturing-expansion/"
-    },
-    {
-      "headline": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source",
-      "take": "Mira Murati releases fully open-source AI model after leaving OpenAI",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source"
+      "link": "https://cryptobriefing.com/moonshot-ai-kimi-k3-largest-open-weight-model/"
     }
   ],
   "security": [
     {
-      "headline": "Suno\u2019s leaked source code reveals massive scraping of Deezer, YouTube, and other music platforms",
-      "take": "Suno's leaked source code reveals massive scraping of music platforms",
+      "headline": "Apathy attacks expose vulnerabilities in Compound and BonkDAO",
+      "take": "Apathy attacks expose vulnerabilities in Compound and BonkDAO protocols",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/suno-source-code-leak-deezer-youtube/"
+      "link": "https://cryptobriefing.com/apathy-attacks-compound-bonkdao-governance/"
+    },
+    {
+      "headline": "Three UK men jailed for \u00a34M crypto scam using fake police websites, says Met Police",
+      "take": "Three UK men jailed for \u00a34 million crypto scam using fake police sites",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-men-jailed-4m-crypto-scam/"
     },
     {
       "headline": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
@@ -81,22 +87,16 @@
   ],
   "policy": [
     {
-      "headline": "Trump and senators meet to resolve CLARITY Act deadlock before August recess",
-      "take": "Trump and senators meet to resolve CLARITY Act deadlock before recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-and-senators-meet-to-resolve-clarity-act-deadlock-before-august-recess/"
-    },
-    {
-      "headline": "New York enacts first statewide moratorium on hyperscale data centers in the US",
-      "take": "New York enacts first statewide moratorium on hyperscale data centers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-york-data-center-moratorium-crypto-impact-2/"
-    },
-    {
       "headline": "\u2018We\u2019re going to get it done\u2019: Crypto bill faces what could be final test over Trump conflicts of interest",
-      "take": "Crypto bill faces final test amid concerns over Trump conflicts of interest",
+      "take": "Crypto bill faces final test amid debate over Trump conflicts of interest",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408706/were-going-get-it-done-crypto-bill-faces-could-be-final-test-trump-conflicts-interest?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
+      "take": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

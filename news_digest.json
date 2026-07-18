@@ -1,90 +1,60 @@
 {
-  "generated": "2026-07-18T03:36:51.772147+00:00",
-  "ts": 1784345811,
+  "generated": "2026-07-18T08:11:26.884818+00:00",
+  "ts": 1784362286,
   "market": [
     {
-      "headline": "Oil prices surge amid US-Iran tensions, Strait of Hormuz disruptions",
-      "take": "Oil prices surge amid US-Iran tensions and Strait of Hormuz disruptions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-surge-amid-us-iran-tensions-strait-of-hormuz-disruptions/"
-    },
-    {
-      "headline": "US-Iran conflict costs exceed $100B, impacting oil market expectations",
-      "take": "US-Iran conflict costs exceed $100B, impacting oil market expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-conflict-costs-exceed-100b-impacting-oil-market-expectations/"
-    },
-    {
-      "headline": "Grayscale updates Solana staking ETF to pay quarterly cash rewards to shareholders",
-      "take": "Grayscale updates Solana staking ETF to pay quarterly cash rewards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-solana-staking-etf-quarterly-cash-distributions/"
-    },
-    {
-      "headline": "Cardano Pumps as Network Moves to Further Decentralize Development",
-      "take": "Cardano network moves to further decentralize development, token gains",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development"
-    },
-    {
-      "headline": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
-      "take": "FTX to distribute roughly $900 million to creditors in fifth wave",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Meta, Anthropic in talks for $10B AI compute lease deal",
-      "take": "Meta and Anthropic in talks for $10B AI compute lease deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-anthropic-in-talks-for-10b-ai-compute-lease-deal/"
-    },
-    {
-      "headline": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
-      "take": "Bank of America taps new leaders to bridge crypto, AI, finance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "take": "Stripe and Swift race to control next generation global payments infrastructure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure"
-    },
-    {
-      "headline": "Scott Bessent proposes independent agency to oversee frontier AI models",
-      "take": "Scott Bessent proposes independent agency to oversee frontier AI models",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-independent-agency-frontier-ai-models/"
-    }
-  ],
-  "security": [
-    {
       "headline": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
-      "take": "ECB warns stablecoins may drain bank deposits, raising systemic concerns",
+      "take": "ECB warns stablecoins could drain deposits from traditional banks",
       "source": "decrypt",
       "link": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits"
     },
     {
-      "headline": "Trezor exec pushes back on ZachXBT claim that hardware wallets are \u2018complete garbage\u2019",
-      "take": "Trezor exec pushes back on claim that hardware wallets are garbage",
+      "headline": "Meta, Anthropic in talks for $10B AI compute lease deal",
+      "take": "Meta and Anthropic negotiate ten billion dollar AI compute lease",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-anthropic-in-talks-for-10b-ai-compute-lease-deal/"
+    },
+    {
+      "headline": "AI wealth redistribution could benefit broader industry players: Neil Rimer",
+      "take": "AI wealth redistribution could benefit broader cryptocurrency industry players",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-wealth-redistribution-could-benefit-broader-industry-players-neil-rimer/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
+      "take": "Bank of America appoints leaders to connect crypto, AI, traditional finance",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Crypto sponsors eye USMNT as Pochettino weighs coaching future",
+      "take": "Crypto sponsors target US national team as Pochettino considers coaching role",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-sponsors-usmnt-pochettino-future/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "HUMAN Security reports 12M stolen streaming accounts tied to World Cup cybercrime surge",
+      "take": "Twelve million stolen streaming accounts linked to World Cup cybercrime wave",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/human-security-stolen-streaming-accounts-world-cup/"
     }
   ],
   "policy": [
     {
-      "headline": "Digital Asset Market Clarity Act stalls in Senate after House approval",
-      "take": "Digital Asset Market Clarity Act stalls in Senate after House approval",
+      "headline": "UEFA\u2019s push to unseat FIFA president Infantino could reshape sports\u2019 crypto and sponsorship landscape",
+      "take": "UEFA push to unseat FIFA chief may reshape sports crypto sponsorship landscape",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/digital-asset-market-clarity-act-stalls-in-senate-after-house-approval/"
+      "link": "https://cryptobriefing.com/uefa-challenge-infantino-fifa-crypto-impact/"
     },
     {
-      "headline": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-      "take": "Polymarket traders cut Clarity Act passage odds to record low",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on"
+      "headline": "Iran may impose Strait of Hormuz transit fees by August 31, 2026",
+      "take": "Iran may impose Strait of Hormuz transit fees by August thirty-first",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-may-impose-strait-of-hormuz-transit-fees-by-august-31-2026/"
     }
   ]
 }

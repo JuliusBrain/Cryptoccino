@@ -1,66 +1,84 @@
 {
-  "generated": "2026-07-18T13:52:45.742577+00:00",
-  "ts": 1784382765,
+  "generated": "2026-07-18T16:12:33.784935+00:00",
+  "ts": 1784391153,
   "market": [
     {
-      "headline": "Bitcoin\u2019s latest slump differs from typical selloffs: Bloomberg",
-      "take": "Bitcoin's recent decline shows different characteristics than typical selloffs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-slump-differs-typical-selloffs-bloomberg/"
+      "headline": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "take": "Bitcoin call spreads target $72,000 as Fed meeting approaches end of month",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets"
     },
     {
-      "headline": "Robinhood Chain sees 85% of trading in memecoins two weeks post-launch",
-      "take": "Robinhood Chain sees overwhelming memecoin dominance in early trading volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-memecoins-85-percent-trading-launch/"
+      "headline": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "take": "1.6 billion dollars in crypto liquidity remains idle and undeployed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away"
     },
     {
-      "headline": "Iran strikes Saudi Arabia again, sending oil prices surging and Bitcoin wobbling",
-      "take": "Iranian strikes on Saudi Arabia drive oil prices higher, pressure Bitcoin",
+      "headline": "Nvidia leads record 4.0x volatility among momentum stocks, and crypto traders should pay attention",
+      "take": "Nvidia leads 4.0x volatility spike among momentum stocks; crypto traders watching closely",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-strikes-saudi-arabia-oil-bitcoin-impact/"
+      "link": "https://cryptobriefing.com/nvidia-record-momentum-stock-volatility/"
+    },
+    {
+      "headline": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "take": "Dollar stablecoins quietly overtaking Brazil's traditional payments infrastructure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments"
+    },
+    {
+      "headline": "Tokenization has become a strategic priority for 84% of financial firms",
+      "take": "Tokenization now strategic priority for 84 percent of financial services firms",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms"
     }
   ],
   "business": [
     {
+      "headline": "Uniswap governance votes on activating protocol fees for v4 pools",
+      "take": "Uniswap governance votes to activate protocol fees for v4 liquidity pools",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-governance-v4-protocol-fees/"
+    },
+    {
       "headline": "OpenEvidence reportedly eyes $200M raise at $20B valuation, signaling AI healthcare\u2019s breakneck growth",
-      "take": "AI healthcare startup OpenEvidence seeks $200M at $20B valuation",
+      "take": "OpenEvidence reportedly raising $200 million at $20 billion valuation for AI healthcare",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openevidence-200m-raise-20b-valuation/"
     },
     {
-      "headline": "Moonshot\u2019s Kimi K3 stuns AI watchers with 2.8 trillion parameters and competitive pricing",
-      "take": "Moonshot's Kimi K3 AI model offers trillion-parameter scale at competitive cost",
+      "headline": "Alibaba Cloud launches Agent Native Cloud to scale enterprise AI agents",
+      "take": "Alibaba Cloud launches Agent Native Cloud platform for enterprise AI scaling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonshot-kimi-k3-largest-open-weight-ai-model/"
+      "link": "https://cryptobriefing.com/alibaba-cloud-launches-agent-native-cloud-to-scale-enterprise-ai-agents/"
+    },
+    {
+      "headline": "Trump Media launches Truth PSI, selling Wall Street millisecond-early access to Truth Social posts",
+      "take": "Trump Media launches Truth PSI offering Wall Street millisecond early access",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-media-truth-psi-early-access/"
     }
   ],
   "security": [
     {
-      "headline": "Kaspersky identifies malware framework targeting cryptocurrency investors through fake GitHub projects",
-      "take": "Kaspersky discovers malware targeting crypto investors via fraudulent GitHub repositories",
+      "headline": "BonkDAO governance exploit drains 4.4 trillion BONK from treasury as attacker begins selling",
+      "take": "BonkDAO governance exploit drains 4.4 trillion BONK tokens from treasury",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kaspersky-gitvenom-malware-crypto-investors/"
+      "link": "https://cryptobriefing.com/bonkdao-governance-exploit-treasury-drain/"
     }
   ],
   "policy": [
     {
       "headline": "Elizabeth Warren demands Trump disclose 2026 crypto earnings by July 23",
-      "take": "Elizabeth Warren demands Trump disclose cryptocurrency earnings by July deadline",
+      "take": "Elizabeth Warren demands Trump disclose 2026 crypto earnings by July 23",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/warren-demands-trump-crypto-disclosure/"
     },
     {
       "headline": "Trump administration opts for voluntary AI safety reviews, not an independent regulator",
-      "take": "Trump administration chooses voluntary AI safety reviews over independent regulation",
+      "take": "Trump administration opts for voluntary AI safety reviews over independent regulation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-voluntary-ai-safety-reviews/"
-    },
-    {
-      "headline": "Iran suspends MoU commitments with US amid renewed sanctions",
-      "take": "Iran suspends commitments with US as sanctions tensions escalate further",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-suspends-mou-commitments-with-us-amid-renewed-sanctions/"
     }
   ]
 }

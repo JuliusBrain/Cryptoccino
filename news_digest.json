@@ -1,54 +1,66 @@
 {
-  "generated": "2026-07-18T10:42:45.364866+00:00",
-  "ts": 1784371365,
+  "generated": "2026-07-18T13:52:45.742577+00:00",
+  "ts": 1784382765,
   "market": [
     {
-      "headline": "Nvidia locks in as first customer for HBM4 memory, and here\u2019s why crypto miners should care",
-      "take": "Nvidia secures HBM4 memory contract; implications for crypto mining hardware demand unclear",
+      "headline": "Bitcoin\u2019s latest slump differs from typical selloffs: Bloomberg",
+      "take": "Bitcoin's recent decline shows different characteristics than typical selloffs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-hbm4-memory-sk-hynix-crypto/"
+      "link": "https://cryptobriefing.com/bitcoin-slump-differs-typical-selloffs-bloomberg/"
     },
     {
-      "headline": "AI wealth redistribution could benefit broader industry players: Neil Rimer",
-      "take": "AI wealth redistribution could create opportunities across broader crypto industry segments",
+      "headline": "Robinhood Chain sees 85% of trading in memecoins two weeks post-launch",
+      "take": "Robinhood Chain sees overwhelming memecoin dominance in early trading volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-wealth-redistribution-could-benefit-broader-industry-players-neil-rimer/"
+      "link": "https://cryptobriefing.com/robinhood-chain-memecoins-85-percent-trading-launch/"
+    },
+    {
+      "headline": "Iran strikes Saudi Arabia again, sending oil prices surging and Bitcoin wobbling",
+      "take": "Iranian strikes on Saudi Arabia drive oil prices higher, pressure Bitcoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-strikes-saudi-arabia-oil-bitcoin-impact/"
     }
   ],
   "business": [
     {
-      "headline": "UEFA\u2019s push to unseat FIFA president Infantino could reshape sports\u2019 crypto and sponsorship landscape",
-      "take": "UEFA challenges FIFA leadership; potential reshaping of sports crypto sponsorship landscape ahead",
+      "headline": "OpenEvidence reportedly eyes $200M raise at $20B valuation, signaling AI healthcare\u2019s breakneck growth",
+      "take": "AI healthcare startup OpenEvidence seeks $200M at $20B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uefa-challenge-infantino-fifa-crypto-impact/"
+      "link": "https://cryptobriefing.com/openevidence-200m-raise-20b-valuation/"
     },
     {
-      "headline": "Ajax signs Brazilian forward Marcos Leonardo from Al-Hilal in \u20ac17.5M deal",
-      "take": "Ajax signs Marcos Leonardo from Al-Hilal for \u20ac17.5M in cross-league transfer",
+      "headline": "Moonshot\u2019s Kimi K3 stuns AI watchers with 2.8 trillion parameters and competitive pricing",
+      "take": "Moonshot's Kimi K3 AI model offers trillion-parameter scale at competitive cost",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ajax-signs-marcos-leonardo-al-hilal-transfer/"
+      "link": "https://cryptobriefing.com/moonshot-kimi-k3-largest-open-weight-ai-model/"
     }
   ],
   "security": [
     {
-      "headline": "HUMAN Security reports 12M stolen streaming accounts tied to World Cup cybercrime surge",
-      "take": "HUMAN Security reports 12M stolen streaming accounts tied to World Cup cybercrime surge",
+      "headline": "Kaspersky identifies malware framework targeting cryptocurrency investors through fake GitHub projects",
+      "take": "Kaspersky discovers malware targeting crypto investors via fraudulent GitHub repositories",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/human-security-stolen-streaming-accounts-world-cup/"
+      "link": "https://cryptobriefing.com/kaspersky-gitvenom-malware-crypto-investors/"
     }
   ],
   "policy": [
     {
-      "headline": "Iran may impose Strait of Hormuz transit fees by August 31, 2026",
-      "take": "Iran may impose Strait of Hormuz transit fees by August 31, 2026",
+      "headline": "Elizabeth Warren demands Trump disclose 2026 crypto earnings by July 23",
+      "take": "Elizabeth Warren demands Trump disclose cryptocurrency earnings by July deadline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-may-impose-strait-of-hormuz-transit-fees-by-august-31-2026/"
+      "link": "https://cryptobriefing.com/warren-demands-trump-crypto-disclosure/"
     },
     {
-      "headline": "US-Iran tensions rise as Trump voids ceasefire, launches air strikes",
-      "take": "US-Iran tensions escalate after Trump voids ceasefire, launches air strikes",
+      "headline": "Trump administration opts for voluntary AI safety reviews, not an independent regulator",
+      "take": "Trump administration chooses voluntary AI safety reviews over independent regulation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-tensions-rise-as-trump-voids-ceasefire-launches-air-strikes/"
+      "link": "https://cryptobriefing.com/trump-voluntary-ai-safety-reviews/"
+    },
+    {
+      "headline": "Iran suspends MoU commitments with US amid renewed sanctions",
+      "take": "Iran suspends commitments with US as sanctions tensions escalate further",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-suspends-mou-commitments-with-us-amid-renewed-sanctions/"
     }
   ]
 }

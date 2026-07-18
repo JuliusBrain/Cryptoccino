@@ -1,83 +1,102 @@
 {
-  "generated": "2026-07-18T19:35:15.529641+00:00",
-  "ts": 1784403315,
+  "generated": "2026-07-18T22:09:35.024376+00:00",
+  "ts": 1784412575,
   "market": [
     {
+      "headline": "Bitcoin ETFs likely to mirror gold\u2019s 22-year ETF history, says Bloomberg Intelligence",
+      "take": "Bitcoin ETFs likely to follow gold's twenty-two year institutional adoption pattern",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-mirror-gold-etf-history-bloomberg/"
+    },
+    {
       "headline": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-      "take": "Large bitcoin call spreads target $72,000 ahead of Fed meeting",
+      "take": "Large bitcoin call spreads betting on seventy-two thousand by month end at Fed meeting",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets"
     },
     {
       "headline": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-      "take": "Crypto liquidity sitting idle signals potential market inefficiency",
+      "take": "One point six billion dollars in crypto liquidity sitting idle without productive use",
       "source": "coindesk",
       "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away"
     },
     {
-      "headline": "Technology sector ETF XLK posts $9B in outflows, worst among sectors",
-      "take": "Tech sector ETF XLK sees worst outflows among sectors at $9B",
+      "headline": "European Central Bank expected to pause rate hikes, keeps September option open",
+      "take": "European Central Bank expected to pause rate hikes, keeps September option open",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xlk-technology-etf-9b-outflows/"
+      "link": "https://cryptobriefing.com/ecb-rate-pause-crypto-impact/"
     },
     {
-      "headline": "Jamie Dimon predicts AI spending will hit $1 trillion next year",
-      "take": "Jamie Dimon predicts AI spending will reach $1 trillion next year",
+      "headline": "World Cup rivalry spills into crypto as Latin American fans rally behind Spain, boosting fan token markets",
+      "take": "Latin American fans rally behind Spain, boosting fan token markets during World Cup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dimon-ai-spending-trillion-crypto-impact/"
-    },
-    {
-      "headline": "US economy adds jobs for four consecutive months, but 2 million remain jobless long-term",
-      "take": "US adds jobs four straight months while long-term joblessness persists",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-jobs-growth-long-term-unemployment/"
+      "link": "https://cryptobriefing.com/world-cup-fan-tokens-argentina-spain-final/"
     }
   ],
   "business": [
     {
+      "headline": "Stacks reaches 1.6M total wallets as Bitcoin DeFi ambitions grow",
+      "take": "Stacks reaches one point six million wallets as Bitcoin DeFi adoption continues growing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stacks-1-6-million-wallets-bitcoin-defi/"
+    },
+    {
       "headline": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
-      "take": "Bitcoin Japan raises $60 million to finally acquire bitcoin holdings",
+      "take": "Bitcoin Japan taps EVO Fund for sixty million dollar raise to acquire bitcoin holdings",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
-      "take": "Uniswap governance votes on v4 fees and Robinhood Chain expansion",
+      "take": "Uniswap governance votes on v4 fees and Robinhood Chain expansion amid UNI burn growth",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bank of America appoints executives to enhance digital asset platforms",
-      "take": "Bank of America appoints executives to enhance digital asset platforms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-digital-asset-executives/"
-    },
-    {
-      "headline": "Tokenization has become a strategic priority for 84% of financial firms",
-      "take": "Tokenization becomes strategic priority for 84% of financial firms",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms"
-    },
-    {
       "headline": "Crypto executives say digital native generations may never need a bank account",
-      "take": "Digital native generations may never need traditional bank accounts",
+      "take": "Digital native generations may never need traditional bank accounts, crypto executives suggest",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account"
+    },
+    {
+      "headline": "ASML sells 16 advanced EUV machines in Q2 as AI chip demand drives record results",
+      "take": "ASML sells sixteen advanced EUV machines in Q2 as AI chip demand drives record results",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/asml-euv-machines-q2-ai-chip-demand/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "France orders country's internet service providers to block Polymarket",
+      "take": "France orders internet service providers to block Polymarket prediction market access",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket"
+    }
+  ],
   "policy": [
     {
-      "headline": "DOG Mode explains Bitcoin's next governance fight",
-      "take": "DOG Mode governance fight emerges as Bitcoin's next major debate",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight"
+      "headline": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
+      "take": "US regulators miss GENIUS Act one-year deadline for final stablecoin rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-      "take": "Trump targets Brazil payments while dollar stablecoins gain adoption",
+      "take": "Trump targets Brazil's payments system while dollar stablecoins quietly reshape payments",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments"
+    },
+    {
+      "headline": "EU and Persian Gulf states pressure Iran to keep Strait of Hormuz open as crypto toll payments reshape sanctions landscape",
+      "take": "EU and Persian Gulf states pressure Iran on Strait of Hormuz as crypto toll payments reshape sanctions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-gulf-states-iran-strait-hormuz-crypto/"
+    },
+    {
+      "headline": "Second China Shock reverberates through US markets and politics",
+      "take": "China economic shock reverberates through US markets and political environment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/second-china-shock-us-markets-politics/"
     }
   ]
 }

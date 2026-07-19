@@ -1,60 +1,65 @@
 {
-  "generated": "2026-07-19T13:56:39.961675+00:00",
-  "ts": 1784469399,
+  "generated": "2026-07-19T16:13:30.484220+00:00",
+  "ts": 1784477610,
   "market": [
     {
-      "headline": "Prediction market trading surges past $50B during World Cup, threatening traditional sportsbooks",
-      "take": "Prediction market trading surged past $50B during World Cup event",
+      "headline": "US-Iran escalation wipes $80 billion from crypto markets as Senator Cotton pushes for more strikes",
+      "take": "US-Iran escalation wipes $80 billion from crypto markets overnight",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/prediction-market-world-cup-surge/"
+      "link": "https://cryptobriefing.com/us-iran-escalation-crypto-market-impact/"
     },
     {
-      "headline": "Alphabet and Tesla earnings this week could ripple through crypto markets",
-      "take": "Alphabet and Tesla earnings this week could ripple through crypto markets",
+      "headline": "World Cup final drives $50 billion in prediction market volume as crypto platforms eclipse traditional sportsbooks",
+      "take": "World Cup prediction markets hit $50 billion volume, outpacing traditional sportsbooks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphabet-tesla-earnings-crypto-impact/"
+      "link": "https://cryptobriefing.com/world-cup-prediction-market-crypto-volume/"
     },
     {
-      "headline": "AMD surpasses Nvidia in $45B semiconductor ETF as chip sector leadership shifts",
-      "take": "AMD surpasses Nvidia in semiconductor ETF as chip sector leadership shifts",
+      "headline": "US semiconductor ETFs attract record $46B in inflows in 2026",
+      "take": "US semiconductor ETFs attract record $46 billion inflows in 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amd-surpasses-nvidia-semiconductor-etf/"
+      "link": "https://cryptobriefing.com/us-semiconductor-etfs-record-inflows-2026/"
     },
     {
-      "headline": "RWA market cap drops to $38B as derivatives open interest rises",
-      "take": "RWA market cap drops to $38B as derivatives open interest rises",
+      "headline": "China\u2019s May gold purchases hit 48 tonnes, highest in over a year",
+      "take": "China's gold purchases reach 48 tonnes, highest level in over year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwa-market-cap-drops-derivatives-open-interest-rises/"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Kraken says simpler options can unlock crypto derivatives market",
-      "take": "Kraken says simpler options can unlock crypto derivatives market growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-options-crypto-derivatives-market/"
+      "link": "https://cryptobriefing.com/chinas-may-gold-purchases-hit-48-tonnes-highest-in-over-a-year/"
     },
-    {
-      "headline": "AZ-COM Maruwa to use JPYC stablecoin in Japan\u2019s first large-scale corporate rollout",
-      "take": "AZ-COM Maruwa uses JPYC stablecoin in Japan's first corporate rollout",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/az-com-maruwa-jpyc-stablecoin-corporate-rollout/"
-    },
-    {
-      "headline": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-      "take": "Zcash launches new node targeting Visa-scale privacy at high throughput",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
-    }
-  ],
-  "security": [
     {
       "headline": "Bitcoin\u2019s quantum problem gets a recovery tool, but not for Satoshi\u2019s 1.1 million coins",
-      "take": "Bitcoin quantum vulnerability gets recovery tool excluding Satoshi's coins",
+      "take": "Bitcoin quantum recovery tool developed but cannot restore Satoshi's coins",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin"
     }
   ],
+  "business": [
+    {
+      "headline": "Kraken launches USD-settled Bitcoin and Ethereum options with no crypto collateral required",
+      "take": "Kraken launches USD-settled Bitcoin and Ethereum options without crypto collateral",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-usd-settled-bitcoin-ethereum-options/"
+    },
+    {
+      "headline": "World Cup final brings crypto spotlight to New York as Kraken makes history with FIFA deal",
+      "take": "Kraken makes history with FIFA World Cup final sponsorship deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-cup-final-kraken-fifa-crypto-new-york/"
+    },
+    {
+      "headline": "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start",
+      "take": "Current AI raises $400 million to build decentralized internet for AI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/current-ai-free-world-wide-web/"
+    },
+    {
+      "headline": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "take": "Zcash targets Visa-scale privacy with new node reaching 50,000 transactions per second",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
+    }
+  ],
+  "security": [],
   "policy": [
     {
       "headline": "Tether faces US ban by 2028 if it fails to comply with GENIUS Act",
@@ -67,6 +72,12 @@
       "take": "US agencies miss GENIUS Act deadline for final stablecoin rules",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Brussels faces resistance as countries demand sanctions carve-outs, threatening EU crypto crackdown on Russia",
+      "take": "EU crypto sanctions on Russia face country resistance over carve-outs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-sanctions-carve-outs-crypto-russia/"
     }
   ]
 }

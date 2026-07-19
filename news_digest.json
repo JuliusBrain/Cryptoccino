@@ -1,83 +1,89 @@
 {
-  "generated": "2026-07-19T16:13:30.484220+00:00",
-  "ts": 1784477610,
+  "generated": "2026-07-19T19:35:44.500860+00:00",
+  "ts": 1784489744,
   "market": [
     {
-      "headline": "US-Iran escalation wipes $80 billion from crypto markets as Senator Cotton pushes for more strikes",
-      "take": "US-Iran escalation wipes $80 billion from crypto markets overnight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-escalation-crypto-market-impact/"
-    },
-    {
-      "headline": "World Cup final drives $50 billion in prediction market volume as crypto platforms eclipse traditional sportsbooks",
-      "take": "World Cup prediction markets hit $50 billion volume, outpacing traditional sportsbooks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-prediction-market-crypto-volume/"
-    },
-    {
-      "headline": "US semiconductor ETFs attract record $46B in inflows in 2026",
-      "take": "US semiconductor ETFs attract record $46 billion inflows in 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-semiconductor-etfs-record-inflows-2026/"
-    },
-    {
-      "headline": "China\u2019s May gold purchases hit 48 tonnes, highest in over a year",
-      "take": "China's gold purchases reach 48 tonnes, highest level in over year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinas-may-gold-purchases-hit-48-tonnes-highest-in-over-a-year/"
-    },
-    {
-      "headline": "Bitcoin\u2019s quantum problem gets a recovery tool, but not for Satoshi\u2019s 1.1 million coins",
-      "take": "Bitcoin quantum recovery tool developed but cannot restore Satoshi's coins",
+      "headline": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+      "take": "Tether's USDT faces two-year countdown threatening US platform presence",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin"
+      "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms"
+    },
+    {
+      "headline": "TSMC\u2019s record $40.2B quarter signals the AI chip boom is far from over, and crypto miners should pay attention",
+      "take": "TSMC posts record $40.2B quarter signaling sustained AI chip demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tsmc-record-quarter-ai-chip-boom-crypto/"
+    },
+    {
+      "headline": "Israel\u2019s Iran military campaign rattles oil markets and sends crypto volatility surging",
+      "take": "Israel-Iran tensions push oil markets higher, crypto volatility spikes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/israel-iran-military-campaign-crypto-market-impact/"
+    },
+    {
+      "headline": "IMF says bonds are broken as equity hedges, and the 60/40 portfolio is paying the price",
+      "take": "IMF warns bonds no longer hedge equities, 60/40 portfolios suffer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/imf-bonds-less-effective-equity-hedges-pandemic/"
+    },
+    {
+      "headline": "Argentina heads to MetLife for World Cup Final as fan token $ARG surges on match day",
+      "take": "Argentina fan token ARG surges ahead of World Cup final match",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/argentina-world-cup-final-arg-fan-token-2/"
     }
   ],
   "business": [
     {
-      "headline": "Kraken launches USD-settled Bitcoin and Ethereum options with no crypto collateral required",
-      "take": "Kraken launches USD-settled Bitcoin and Ethereum options without crypto collateral",
+      "headline": "Injective highlights SEC registration, Robinhood listing for INJ at Summit",
+      "take": "Injective completes SEC registration, listing on Robinhood announced",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-usd-settled-bitcoin-ethereum-options/"
+      "link": "https://cryptobriefing.com/injective-sec-registration-robinhood-listing-summit/"
     },
     {
-      "headline": "World Cup final brings crypto spotlight to New York as Kraken makes history with FIFA deal",
-      "take": "Kraken makes history with FIFA World Cup final sponsorship deal",
+      "headline": "FIFA World Cup Final goes crypto-native with Avalanche blockchain ticketing at MetLife Stadium",
+      "take": "FIFA World Cup final uses Avalanche blockchain for ticketing at MetLife",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-final-kraken-fifa-crypto-new-york/"
+      "link": "https://cryptobriefing.com/fifa-world-cup-final-avalanche-blockchain-ticketing/"
     },
     {
-      "headline": "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start",
-      "take": "Current AI raises $400 million to build decentralized internet for AI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/current-ai-free-world-wide-web/"
-    },
-    {
-      "headline": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-      "take": "Zcash targets Visa-scale privacy with new node reaching 50,000 transactions per second",
+      "headline": "Kraken says simpler options can unlock crypto's next derivatives market",
+      "take": "Kraken proposes simplified options structure for crypto derivatives growth",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
+      "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market"
+    },
+    {
+      "headline": "Apple\u2019s quiet hunt for AI memory solutions could ripple through chip stocks and decentralized compute",
+      "take": "Apple explores AI memory solutions with potential chip market ripple effects",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-ai-memory-micron-decentralized-compute/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Tether faces US ban by 2028 if it fails to comply with GENIUS Act",
-      "take": "Tether faces US ban by 2028 if it fails GENIUS Act compliance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-us-ban-genius-act-2028/"
-    },
-    {
       "headline": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-      "take": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "take": "US agencies miss GENIUS Act deadline for final stablecoin regulations",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Brussels faces resistance as countries demand sanctions carve-outs, threatening EU crypto crackdown on Russia",
-      "take": "EU crypto sanctions on Russia face country resistance over carve-outs",
+      "headline": "Democrats oppose CLARITY Act, citing Trump\u2019s $1B crypto earnings",
+      "take": "Democrats oppose CLARITY Act citing Trump's reported $1B crypto gains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-sanctions-carve-outs-crypto-russia/"
+      "link": "https://cryptobriefing.com/democrats-oppose-clarity-act-citing-trumps-1b-crypto-earnings/"
+    },
+    {
+      "headline": "France orders internet providers to block Polymarket ahead of World Cup final",
+      "take": "France orders internet providers to block Polymarket before World Cup final",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "New Jersey Attorney General keeps FIFA in the crosshairs after World Cup",
+      "take": "New Jersey AG continues investigation into FIFA after World Cup",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-jersey-attorney-general-fifa-investigation/"
     }
   ]
 }

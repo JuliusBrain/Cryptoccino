@@ -1,89 +1,72 @@
 {
-  "generated": "2026-07-19T19:35:44.500860+00:00",
-  "ts": 1784489744,
+  "generated": "2026-07-19T22:11:30.901668+00:00",
+  "ts": 1784499090,
   "market": [
     {
       "headline": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-      "take": "Tether's USDT faces two-year countdown threatening US platform presence",
+      "take": "Tether's USDT faces two-year regulatory countdown threatening US platform presence",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms"
     },
     {
-      "headline": "TSMC\u2019s record $40.2B quarter signals the AI chip boom is far from over, and crypto miners should pay attention",
-      "take": "TSMC posts record $40.2B quarter signaling sustained AI chip demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-record-quarter-ai-chip-boom-crypto/"
-    },
-    {
-      "headline": "Israel\u2019s Iran military campaign rattles oil markets and sends crypto volatility surging",
-      "take": "Israel-Iran tensions push oil markets higher, crypto volatility spikes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israel-iran-military-campaign-crypto-market-impact/"
-    },
-    {
-      "headline": "IMF says bonds are broken as equity hedges, and the 60/40 portfolio is paying the price",
-      "take": "IMF warns bonds no longer hedge equities, 60/40 portfolios suffer",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/imf-bonds-less-effective-equity-hedges-pandemic/"
-    },
-    {
-      "headline": "Argentina heads to MetLife for World Cup Final as fan token $ARG surges on match day",
-      "take": "Argentina fan token ARG surges ahead of World Cup final match",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-world-cup-final-arg-fan-token-2/"
+      "headline": "Kraken says simpler options can unlock crypto's next derivatives market",
+      "take": "Kraken proposes simplified options framework to expand crypto derivatives markets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market"
     }
   ],
   "business": [
     {
-      "headline": "Injective highlights SEC registration, Robinhood listing for INJ at Summit",
-      "take": "Injective completes SEC registration, listing on Robinhood announced",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-sec-registration-robinhood-listing-summit/"
+      "headline": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork\u2019s August showdown approaches",
+      "take": "Saylor urges Bitcoin community to reject BIP-110 soft fork ahead of August decision",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "FIFA World Cup Final goes crypto-native with Avalanche blockchain ticketing at MetLife Stadium",
-      "take": "FIFA World Cup final uses Avalanche blockchain for ticketing at MetLife",
+      "headline": "SpaceX\u2019s IPO lockup begins expiring in August, testing market appetite for $123 billion in newly tradable shares",
+      "take": "SpaceX IPO lockup expires August, releasing $123 billion in newly tradable shares",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-world-cup-final-avalanche-blockchain-ticketing/"
+      "link": "https://cryptobriefing.com/spacex-ipo-lockup-expiration-august/"
     },
     {
-      "headline": "Kraken says simpler options can unlock crypto's next derivatives market",
-      "take": "Kraken proposes simplified options structure for crypto derivatives growth",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market"
-    },
-    {
-      "headline": "Apple\u2019s quiet hunt for AI memory solutions could ripple through chip stocks and decentralized compute",
-      "take": "Apple explores AI memory solutions with potential chip market ripple effects",
+      "headline": "Spain\u2019s World Cup Final goal sends fan token trading into overdrive",
+      "take": "Spain World Cup goal triggers fan token trading surge across crypto markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-ai-memory-micron-decentralized-compute/"
+      "link": "https://cryptobriefing.com/spain-world-cup-goal-fan-token-trading/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+      "take": "Dunamu faces South Korean sanctions eight months after $30 million Upbit hack",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss"
+    }
+  ],
   "policy": [
     {
+      "headline": "Three major export control bills advance in National Defense Authorization Act, threatening crypto mining chip supply",
+      "take": "Three export control bills advance in defense act, threatening crypto mining chip supply",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/export-control-bills-ndaa-crypto-mining/"
+    },
+    {
+      "headline": "Clarity Act negotiations reach critical point as Senate races toward August recess",
+      "take": "Clarity Act negotiations reach critical stage as Senate faces August recess deadline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clarity-act-negotiations-critical-week/"
+    },
+    {
       "headline": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-      "take": "US agencies miss GENIUS Act deadline for final stablecoin regulations",
+      "take": "US agencies miss GENIUS Act deadline for final stablecoin regulatory rules",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Democrats oppose CLARITY Act, citing Trump\u2019s $1B crypto earnings",
-      "take": "Democrats oppose CLARITY Act citing Trump's reported $1B crypto gains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/democrats-oppose-clarity-act-citing-trumps-1b-crypto-earnings/"
-    },
-    {
       "headline": "France orders internet providers to block Polymarket ahead of World Cup final",
-      "take": "France orders internet providers to block Polymarket before World Cup final",
+      "take": "France orders internet providers to block Polymarket ahead of World Cup final",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "New Jersey Attorney General keeps FIFA in the crosshairs after World Cup",
-      "take": "New Jersey AG continues investigation into FIFA after World Cup",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-jersey-attorney-general-fifa-investigation/"
     }
   ]
 }

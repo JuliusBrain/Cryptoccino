@@ -1,78 +1,72 @@
 {
-  "generated": "2026-07-19T10:45:42.416625+00:00",
-  "ts": 1784457942,
+  "generated": "2026-07-19T13:56:39.961675+00:00",
+  "ts": 1784469399,
   "market": [
     {
-      "headline": "US-Iran military escalation sends Bitcoin below $64K as risk-off mood grips crypto markets",
-      "take": "US-Iran escalation pushes Bitcoin below $64K amid broad risk-off sentiment",
+      "headline": "Prediction market trading surges past $50B during World Cup, threatening traditional sportsbooks",
+      "take": "Prediction market trading surged past $50B during World Cup event",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-escalation-bitcoin-below-64k/"
+      "link": "https://cryptobriefing.com/prediction-market-world-cup-surge/"
     },
     {
-      "headline": "Bitcoin miners are quietly becoming the backbone of the AI boom",
-      "take": "Bitcoin miners quietly becoming infrastructure backbone for AI computing expansion",
+      "headline": "Alphabet and Tesla earnings this week could ripple through crypto markets",
+      "take": "Alphabet and Tesla earnings this week could ripple through crypto markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-miners-backbone-ai-boom/"
+      "link": "https://cryptobriefing.com/alphabet-tesla-earnings-crypto-impact/"
     },
     {
-      "headline": "US day traders flock to the most dangerous product in crypto",
-      "take": "US day traders increasingly flock to high-risk crypto products",
+      "headline": "AMD surpasses Nvidia in $45B semiconductor ETF as chip sector leadership shifts",
+      "take": "AMD surpasses Nvidia in semiconductor ETF as chip sector leadership shifts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-day-traders-crypto-perpetual-futures/"
+      "link": "https://cryptobriefing.com/amd-surpasses-nvidia-semiconductor-etf/"
     },
     {
-      "headline": "Scott Bessent: US to control 80% of global compute power soon",
-      "take": "Scott Bessent projects US will control eighty percent of global compute",
+      "headline": "RWA market cap drops to $38B as derivatives open interest rises",
+      "take": "RWA market cap drops to $38B as derivatives open interest rises",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-us-80-percent-global-compute-power/"
-    },
-    {
-      "headline": "Bureau of Economic Analysis overhauls PCE price index methodology, potentially lowering the Fed\u2019s preferred inflation gauge",
-      "take": "PCE methodology overhaul could lower Fed's preferred inflation measurement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bea-pce-price-index-methodology-changes/"
+      "link": "https://cryptobriefing.com/rwa-market-cap-drops-derivatives-open-interest-rises/"
     }
   ],
   "business": [
     {
-      "headline": "Moonshot plans Hong Kong IPO within six months, eyes $30B valuation",
-      "take": "Moonshot plans Hong Kong IPO within six months at thirty billion valuation",
+      "headline": "Kraken says simpler options can unlock crypto derivatives market",
+      "take": "Kraken says simpler options can unlock crypto derivatives market growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonshot-hong-kong-ipo-30b-valuation/"
+      "link": "https://cryptobriefing.com/kraken-options-crypto-derivatives-market/"
     },
     {
-      "headline": "Bitcoin Japan raises $60M but plans to spend just 7% of it on actual Bitcoin",
-      "take": "Bitcoin Japan raises sixty million but allocates only seven percent to Bitcoin",
+      "headline": "AZ-COM Maruwa to use JPYC stablecoin in Japan\u2019s first large-scale corporate rollout",
+      "take": "AZ-COM Maruwa uses JPYC stablecoin in Japan's first corporate rollout",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-japan-raises-60m-allocates-7-percent-btc/"
+      "link": "https://cryptobriefing.com/az-com-maruwa-jpyc-stablecoin-corporate-rollout/"
     },
     {
       "headline": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-      "take": "Zcash targets Visa-scale privacy with new node processing fifty thousand transactions",
+      "take": "Zcash launches new node targeting Visa-scale privacy at high throughput",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin introduces recovery tool for quantum attack vulnerabilities",
-      "take": "Bitcoin introduces recovery tool addressing quantum attack vulnerabilities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-quantum-attack-recovery-tool/"
-    },
-    {
-      "headline": "South Korean regulator initiates sanctions process against Dunamu, operator of largest crypto exchange Upbit",
-      "take": "South Korean regulator sanctions Dunamu, operator of largest crypto exchange Upbit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-dunamu-upbit-sanctions-process/"
+      "headline": "Bitcoin\u2019s quantum problem gets a recovery tool, but not for Satoshi\u2019s 1.1 million coins",
+      "take": "Bitcoin quantum vulnerability gets recovery tool excluding Satoshi's coins",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin"
     }
   ],
   "policy": [
     {
-      "headline": "Trump pushes Senate to pass the Clarity Act as crypto regulation enters its final lap",
-      "take": "Trump pushes Senate to pass Clarity Act as crypto regulation enters final phase",
+      "headline": "Tether faces US ban by 2028 if it fails to comply with GENIUS Act",
+      "take": "Tether faces US ban by 2028 if it fails GENIUS Act compliance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-clarity-act-senate-crypto-regulation/"
+      "link": "https://cryptobriefing.com/tether-us-ban-genius-act-2028/"
+    },
+    {
+      "headline": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "take": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

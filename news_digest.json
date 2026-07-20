@@ -1,66 +1,84 @@
 {
-  "generated": "2026-07-19T22:11:30.901668+00:00",
-  "ts": 1784499090,
+  "generated": "2026-07-20T04:07:53.937229+00:00",
+  "ts": 1784520473,
   "market": [
     {
-      "headline": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-      "take": "Tether's USDT faces two-year regulatory countdown threatening US platform presence",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms"
+      "headline": "China deploys $7.38 billion in state fund purchases to stop stock market bleeding",
+      "take": "China deploys $7.38 billion in state fund purchases to stabilize stock market",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-state-fund-stock-market-stabilization/"
     },
     {
-      "headline": "Kraken says simpler options can unlock crypto's next derivatives market",
-      "take": "Kraken proposes simplified options framework to expand crypto derivatives markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market"
+      "headline": "Brent crude rises above $90 as US-Iran conflict escalates, putting pressure on crypto markets",
+      "take": "Brent crude rises above $90 as US-Iran conflict escalates, pressuring crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brent-crude-90-us-iran-crypto-impact/"
+    },
+    {
+      "headline": "Taiwan\u2019s retail investors unwind leveraged stock bets, driving historic market correction",
+      "take": "Taiwan retail investors unwind leveraged stock bets, driving historic market correction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/taiwan-retail-investors-leveraged-market-correction/"
+    },
+    {
+      "headline": "China\u2019s central bank pumps 398.5 billion yuan into markets via reverse repos",
+      "take": "China's central bank pumps 398.5 billion yuan into markets via reverse repos",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-pboc-liquidity-injection-reverse-repos-2/"
     }
   ],
   "business": [
     {
+      "headline": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
+      "take": "Japanese logistics firm adopts JPYC stablecoin to address labor shortage challenges",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Samsung SDS launches Korea\u2019s first NPU-as-a-Service on FuriosaAI\u2019s RNGD chip",
+      "take": "Samsung SDS launches Korea's first NPU-as-a-Service platform on FuriosaAI chip",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/samsung-sds-korea-npu-as-a-service-furiosaai-rngd/"
+    },
+    {
+      "headline": "TSMC expects strong, multi-year demand for AI chips, adds $100B to Arizona investment",
+      "take": "TSMC expects strong multi-year AI chip demand, adds $100B to Arizona investment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tsmc-ai-chips-arizona-investment/"
+    },
+    {
+      "headline": "China\u2019s Moonshot AI plans Hong Kong IPO after its latest model rattled US tech stocks",
+      "take": "China's Moonshot AI plans Hong Kong IPO after latest model rattles US tech",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moonshot-ai-ipo-us-stocks-impact/"
+    },
+    {
       "headline": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork\u2019s August showdown approaches",
-      "take": "Saylor urges Bitcoin community to reject BIP-110 soft fork ahead of August decision",
+      "take": "Saylor urges Bitcoin community to reject BIP-110 ahead of August soft fork decision",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "SpaceX\u2019s IPO lockup begins expiring in August, testing market appetite for $123 billion in newly tradable shares",
-      "take": "SpaceX IPO lockup expires August, releasing $123 billion in newly tradable shares",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-ipo-lockup-expiration-august/"
-    },
-    {
-      "headline": "Spain\u2019s World Cup Final goal sends fan token trading into overdrive",
-      "take": "Spain World Cup goal triggers fan token trading surge across crypto markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spain-world-cup-goal-fan-token-trading/"
     }
   ],
   "security": [
     {
+      "headline": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+      "take": "Allbridge Core pauses protocol after $1.65 million flash loan exploit discovered",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
-      "take": "Dunamu faces South Korean sanctions eight months after $30 million Upbit hack",
+      "take": "Upbit parent Dunamu faces sanction process eight months after $30 million hack",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Three major export control bills advance in National Defense Authorization Act, threatening crypto mining chip supply",
-      "take": "Three export control bills advance in defense act, threatening crypto mining chip supply",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/export-control-bills-ndaa-crypto-mining/"
-    },
-    {
-      "headline": "Clarity Act negotiations reach critical point as Senate races toward August recess",
-      "take": "Clarity Act negotiations reach critical stage as Senate faces August recess deadline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-negotiations-critical-week/"
-    },
-    {
-      "headline": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-      "take": "US agencies miss GENIUS Act deadline for final stablecoin regulatory rules",
+      "headline": "South Korea probed 40 cases of crypto manipulation over 2 years",
+      "take": "South Korea probed 40 crypto manipulation cases over two-year regulatory period",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "France orders internet providers to block Polymarket ahead of World Cup final",

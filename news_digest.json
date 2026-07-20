@@ -1,108 +1,90 @@
 {
-  "generated": "2026-07-20T19:58:50.851489+00:00",
-  "ts": 1784577530,
+  "generated": "2026-07-20T22:15:16.166789+00:00",
+  "ts": 1784585716,
   "market": [
     {
-      "headline": "Solana recovers 2% as Bitcoin surpasses $65K, traders remain cautious",
-      "take": "Solana gains 2% as Bitcoin climbs above $65K despite trader caution",
+      "headline": "Ethereum staking ratio hits record 34%, signaling market confidence",
+      "take": "Ethereum staking ratio reaches record 34 percent, showing investor confidence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-recovers-2-as-bitcoin-surpasses-65k-traders-remain-cautious/"
+      "link": "https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-signaling-market-confidence/"
     },
     {
-      "headline": "Bitcoin ETFs Are Green Again\u2014Here\u2019s Why Investors Should Zoom Out",
-      "take": "Bitcoin ETFs show green performance, suggesting investor confidence shift",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373850/bitcoin-etfs-green-inflows-why-investors-should-zoom-out"
-    },
-    {
-      "headline": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
-      "take": "Bitmine redirects $86M from ETH purchases into stock buyback strategy",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback"
-    },
-    {
-      "headline": "OranjeBTC repurchases 3.9 million shares for $3.11 million to boost Bitcoin per share",
-      "take": "OranjeBTC repurchases 3.9M shares to increase Bitcoin allocation per share",
+      "headline": "Morgan Stanley files for low-fee Solana ETF as SBI launches tokenized fund in Japan",
+      "take": "Morgan Stanley files Solana ETF; SBI launches tokenized fund in Japan",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oranjebtc-share-buyback-boost-bps/"
+      "link": "https://cryptobriefing.com/morgan-stanley-files-for-low-fee-solana-etf-as-sbi-launches-tokenized-fund-in/"
     },
     {
-      "headline": "DoubleLine bets on stable US interest rates under new Fed Chair Warsh in 2026",
-      "take": "DoubleLine positions for stable US rates under incoming Fed Chair Warsh",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doubleline-bets-on-stable-us-interest-rates-under-new-fed-chair-warsh-in-2026/"
+      "headline": "Kalshi, Polymarket open interest falls 20% as World Cup frenzy winds down",
+      "take": "Polymarket and Kalshi open interest fell 20 percent after event trading slowdown",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Hyperliquid enables prediction markets with $30M HYPE stake, no validator approval",
-      "take": "Hyperliquid launches prediction markets with $30M HYPE stake, no validator approval",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-enables-prediction-markets-with-30m-hype-stake-no-validator-approval/"
-    },
-    {
-      "headline": "Bankr launches stock paired tokens on Robinhood Chain, letting users create memecoins backed by Apple and Tesla liquidity",
-      "take": "Bankr enables stock-paired tokens on Robinhood Chain for major companies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bankr-stock-paired-tokens-robinhood-chain/"
-    },
-    {
-      "headline": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
-      "take": "Former NY Governor Cuomo joins OKX board, promotes 24/7 tokenized trading",
+      "headline": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
+      "take": "Grayscale seeks SEC approval for Worldcoin ETF filing",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Chainlink powers instant payouts for prediction markets at the 2026 FIFA World Cup",
-      "take": "Chainlink provides instant payouts for FIFA World Cup prediction markets 2026",
+      "headline": "Model Context Protocol is quietly becoming the backbone of AI and crypto integration",
+      "take": "Model Context Protocol becoming infrastructure backbone for AI and crypto integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-fifa-world-cup-prediction-markets/"
+      "link": "https://cryptobriefing.com/model-context-protocol-ai-crypto-interoperability/"
     },
     {
       "headline": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
-      "take": "Cardano executes community-voted hard fork Van Rossum upgrade",
+      "take": "Cardano executes hard fork enabled by first community-voted network upgrade",
       "source": "decrypt",
       "link": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade"
     }
   ],
   "security": [
     {
-      "headline": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
-      "take": "AI-assisted hacking outpaces traditional code reviews, security concern grows",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss"
+      "headline": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
+      "take": "SEC sues Mining Automatic and founder over alleged 22 million dollar scheme",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
-      "take": "Exodus receives Benchmark backing after 25% cuts, pivoting to stablecoin focus",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss"
+      "headline": "Polymarket and Kalshi Face a New Class of Insider Trader: Big Take Podcast",
+      "take": "Polymarket and Kalshi users face emerging insider trading activity risk",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/polymarket-and-kalshi-face-a-new-class-of-insider-trader-big-take-podcast"
+    },
+    {
+      "headline": "OpenAI reveals long-horizon model bypassed sandbox during tests",
+      "take": "OpenAI's long-horizon model bypassed safety sandbox during internal testing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-model-bypassed-sandbox-testing/"
     }
   ],
   "policy": [
     {
+      "headline": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
+      "take": "Democrats added consumer protections to CLARITY Act cryptocurrency legislation",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
+      "take": "Russia's comprehensive crypto law nears passage with two votes remaining",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law"
+    },
+    {
       "headline": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
-      "take": "Vietnam imposes crypto trading fines equivalent to drunk-driving penalties",
+      "take": "Vietnam imposes crypto trading fines matching drunk-driving penalties severity",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Russia\u2019s Duma to finalize crypto bill July 21, limiting domestic BTC demand",
-      "take": "Russia finalizes crypto bill July 21, limiting domestic Bitcoin demand significantly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russias-duma-to-finalize-crypto-bill-july-21-limiting-domestic-btc-demand/"
-    },
-    {
-      "headline": "Nigerian president signs order on approach to crypto regulation, taxes",
-      "take": "Nigerian president signs crypto regulation and tax approach executive order",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "House Democrats propose bipartisan group for AI policy, and crypto should be paying attention",
-      "take": "House Democrats propose bipartisan AI policy group, implications for crypto policy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-democrats-bipartisan-ai-policy-crypto/"
+      "headline": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
+      "take": "Bank of Korea expands CBDC pilot to half a million users",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users"
     }
   ]
 }

@@ -1,72 +1,96 @@
 {
-  "generated": "2026-07-20T09:36:58.844304+00:00",
-  "ts": 1784540218,
+  "generated": "2026-07-20T14:35:05.963084+00:00",
+  "ts": 1784558105,
   "market": [
     {
-      "headline": "US-listed spot Bitcoin ETFs record second straight week of net inflows",
-      "take": "US spot Bitcoin ETFs record second consecutive week of net inflows",
+      "headline": "Bitcoin ETFs see $128M inflow as Ethereum ETFs quietly gain momentum with $18M",
+      "take": "Bitcoin ETFs draw $128M inflow; Ethereum ETFs gain $18M quietly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-net-inflows-second-week/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflow-rotation/"
     },
     {
-      "headline": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
-      "take": "Oil bounce and AI selloff push bitcoin below $64,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000"
+      "headline": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
+      "take": "Bitmine expands Ethereum treasury to 5.78M ETH, repurchases 5.5M shares",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitcoin whales scoop up 66,700 BTC while mid-tier holders head for the exits",
-      "take": "Bitcoin whales accumulate 66,700 BTC while smaller holders sell",
+      "headline": "South Korea\u2019s KOSPI index now more volatile than Bitcoin, and it\u2019s not even close",
+      "take": "South Korea's KOSPI now more volatile than Bitcoin overall",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-whales-accumulate-mid-tier-sell/"
+      "link": "https://cryptobriefing.com/south-korea-kospi-bitcoin-volatility/"
     },
     {
-      "headline": "China\u2019s quantitative hedge funds face steep drawdowns amid market rout",
-      "take": "China's quantitative hedge funds face steep drawdowns in market rout",
+      "headline": "US Leading Economic Index drops 0.2% in June, but the bigger picture is more nuanced",
+      "take": "US Leading Economic Index drops 0.2% in June; bigger picture nuanced",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-quant-hedge-funds-drawdowns-chip-selloff/"
+      "link": "https://cryptobriefing.com/us-leading-index-falls-june-2026/"
+    },
+    {
+      "headline": "US Federal Reserve enters blackout period ahead of FOMC meeting",
+      "take": "Federal Reserve enters blackout period before FOMC meeting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-blackout-period-fomc-meeting-july-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-      "take": "Amazon Japan supplier adopts yen stablecoin JPYC for payments",
+      "headline": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
+      "take": "Hut 8 commercializes 1 GW Texas AI campus, shares climb double digits",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Base\u2019s Cobalt upgrade introduces gas sponsorship and transaction batching in September",
+      "take": "Base's Cobalt upgrade adds gas sponsorship and transaction batching in September",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-cobalt-upgrade-gas-sponsorship-september/"
+    },
+    {
+      "headline": "KuCoin supports WELL token on Base as Moonbeam heads for shutdown",
+      "take": "KuCoin supports WELL token on Base as Moonbeam heads for shutdown",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kucoin-well-token-base-moonbeam-migration/"
+    },
+    {
+      "headline": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+      "take": "Cardano's Van Rossum hard fork brings changes for all users",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments"
+      "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users"
     },
     {
-      "headline": "Hyperliquid\u2019s HIP-4 brings permissionless prediction markets to its unified trading engine",
-      "take": "Hyperliquid launches HIP-4 permissionless prediction markets on trading engine",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-hip-4-prediction-markets-launch/"
-    },
-    {
-      "headline": "Alfakraft Fonder AB partners with Bitwise to build regulated crypto products for European institutions",
-      "take": "Alfakraft Fonder partners with Bitwise to build European crypto products",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alfakraft-bitwise-regulated-digital-asset-partnership/"
-    },
-    {
-      "headline": "Tencent in talks to acquire Playtika\u2019s SuperPlay for up to $1.5 billion",
-      "take": "Tencent in talks to acquire Playtika's SuperPlay for $1.5 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tencent-acquire-playtika-superplay/"
+      "headline": "Exodus to cut 25% of global workforce in payments shift",
+      "take": "Exodus cuts 25% of global workforce amid payments sector shift",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift"
     }
   ],
   "security": [
     {
-      "headline": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-      "take": "Allbridge cross-chain protocol halts after $1.65M flash loan exploit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit"
+      "headline": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+      "take": "Allbridge pauses cross-chain protocol after $1.65M flash loan attack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
-      "take": "ECB rate decision and US regulatory developments ahead for crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead"
+      "headline": "Russia to finalize crypto bill allowing cross-border settlements tomorrow",
+      "take": "Russia to finalize crypto bill allowing cross-border settlements",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russia-to-finalize-crypto-bill-allowing-cross-border-settlements-tomorrow/"
+    },
+    {
+      "headline": "EU fines AliExpress in largest-ever Digital Services Act penalty",
+      "take": "EU fines AliExpress in largest-ever Digital Services Act penalty",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-fines-aliexpress-digital-services-act/"
+    },
+    {
+      "headline": "Where crypto fits in the FATF\u2019s new public-private partnership report",
+      "take": "FATF publishes new public-private partnership report on crypto",
+      "source": "elliptic",
+      "link": "https://www.elliptic.co/blog/where-crypto-fits-in-fatfs-new-public-private-partnership-report"
     }
   ]
 }

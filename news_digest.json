@@ -1,96 +1,108 @@
 {
-  "generated": "2026-07-20T16:45:51.870415+00:00",
-  "ts": 1784565951,
+  "generated": "2026-07-20T19:58:50.851489+00:00",
+  "ts": 1784577530,
   "market": [
     {
-      "headline": "Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched",
-      "take": "MicroStrategy raises $225M cash via stock sale, preserves Bitcoin holdings",
+      "headline": "Solana recovers 2% as Bitcoin surpasses $65K, traders remain cautious",
+      "take": "Solana gains 2% as Bitcoin climbs above $65K despite trader caution",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-recovers-2-as-bitcoin-surpasses-65k-traders-remain-cautious/"
+    },
+    {
+      "headline": "Bitcoin ETFs Are Green Again\u2014Here\u2019s Why Investors Should Zoom Out",
+      "take": "Bitcoin ETFs show green performance, suggesting investor confidence shift",
       "source": "decrypt",
-      "link": "https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin"
+      "link": "https://decrypt.co/373850/bitcoin-etfs-green-inflows-why-investors-should-zoom-out"
     },
     {
       "headline": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
-      "take": "Bitmine redirects $86M from Ethereum purchases into stock buyback",
+      "take": "Bitmine redirects $86M from ETH purchases into stock buyback strategy",
       "source": "decrypt",
       "link": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback"
     },
     {
-      "headline": "Bernstein raises Robinhood price target to $160 as prediction markets revenue could overtake crypto",
-      "take": "Robinhood prediction markets revenue could soon exceed crypto trading",
+      "headline": "OranjeBTC repurchases 3.9 million shares for $3.11 million to boost Bitcoin per share",
+      "take": "OranjeBTC repurchases 3.9M shares to increase Bitcoin allocation per share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bernstein-robinhood-price-target-prediction-markets-2/"
+      "link": "https://cryptobriefing.com/oranjebtc-share-buyback-boost-bps/"
     },
     {
-      "headline": "Uniswap generates $18M in LP fees on Robinhood Crypto Chain just weeks after launch",
-      "take": "Uniswap LP fees hit $18M on Robinhood Crypto Chain weeks post-launch",
+      "headline": "DoubleLine bets on stable US interest rates under new Fed Chair Warsh in 2026",
+      "take": "DoubleLine positions for stable US rates under incoming Fed Chair Warsh",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-18m-lp-fees-robinhood-chain/"
-    },
-    {
-      "headline": "Markets hold steady as traders wait for the Fed\u2019s next move",
-      "take": "Markets steady as traders await Federal Reserve policy decision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/markets-hold-steady-fed-meeting-crypto/"
+      "link": "https://cryptobriefing.com/doubleline-bets-on-stable-us-interest-rates-under-new-fed-chair-warsh-in-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
-      "take": "Hut 8 commercializes 1 GW Texas AI campus; IREN secures $2.8B contracts",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Blockworks launches vaults sector coverage with $7B in AUM tracked across 24 chains",
-      "take": "Blockworks launches vaults coverage tracking $7B AUM across 24 chains",
+      "headline": "Hyperliquid enables prediction markets with $30M HYPE stake, no validator approval",
+      "take": "Hyperliquid launches prediction markets with $30M HYPE stake, no validator approval",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockworks-vaults-dashboard-7-billion-aum/"
+      "link": "https://cryptobriefing.com/hyperliquid-enables-prediction-markets-with-30m-hype-stake-no-validator-approval/"
     },
     {
-      "headline": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
-      "take": "Benchmark backs Exodus after 25% workforce reduction, stablecoin pivot emerging",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-      "take": "Cardano deploys Van Rossum hard fork with user-facing improvements",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users"
-    },
-    {
-      "headline": "PayPal faces $53 billion takeover bid as Stripe and Advent International circle the payments giant",
-      "take": "PayPal faces $53B takeover bid from Stripe and Advent International",
+      "headline": "Bankr launches stock paired tokens on Robinhood Chain, letting users create memecoins backed by Apple and Tesla liquidity",
+      "take": "Bankr enables stock-paired tokens on Robinhood Chain for major companies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paypal-stripe-merger-stablecoin-implications/"
+      "link": "https://cryptobriefing.com/bankr-stock-paired-tokens-robinhood-chain/"
+    },
+    {
+      "headline": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
+      "take": "Former NY Governor Cuomo joins OKX board, promotes 24/7 tokenized trading",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Chainlink powers instant payouts for prediction markets at the 2026 FIFA World Cup",
+      "take": "Chainlink provides instant payouts for FIFA World Cup prediction markets 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainlink-fifa-world-cup-prediction-markets/"
+    },
+    {
+      "headline": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
+      "take": "Cardano executes community-voted hard fork Van Rossum upgrade",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade"
     }
   ],
   "security": [
     {
-      "headline": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-      "take": "Allbridge pauses cross-chain protocol after $1.65M flash loan attack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack"
+      "headline": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
+      "take": "AI-assisted hacking outpaces traditional code reviews, security concern grows",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Hugging Face breach highlights fatal flaw in AI safety guardrails",
-      "take": "Hugging Face breach exposes critical flaw in AI safety guardrails",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hugging-face-breach-ai-safety-guardrails/"
-    },
-    {
-      "headline": "NEAR co-founder highlights rise of AI-assisted hacking, advocates for AI in formal verification",
-      "take": "NEAR co-founder warns of AI-assisted hacking, champions formal verification",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-ai-assisted-hacking-formal-verification/"
+      "headline": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
+      "take": "Exodus receives Benchmark backing after 25% cuts, pivoting to stablecoin focus",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Where crypto fits in the FATF\u2019s new public-private partnership report",
-      "take": "FATF launches public-private partnership integrating crypto into compliance framework",
-      "source": "elliptic",
-      "link": "https://www.elliptic.co/blog/where-crypto-fits-in-fatfs-new-public-private-partnership-report"
+      "headline": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
+      "take": "Vietnam imposes crypto trading fines equivalent to drunk-driving penalties",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Russia\u2019s Duma to finalize crypto bill July 21, limiting domestic BTC demand",
+      "take": "Russia finalizes crypto bill July 21, limiting domestic Bitcoin demand significantly",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russias-duma-to-finalize-crypto-bill-july-21-limiting-domestic-btc-demand/"
+    },
+    {
+      "headline": "Nigerian president signs order on approach to crypto regulation, taxes",
+      "take": "Nigerian president signs crypto regulation and tax approach executive order",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "House Democrats propose bipartisan group for AI policy, and crypto should be paying attention",
+      "take": "House Democrats propose bipartisan AI policy group, implications for crypto policy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/house-democrats-bipartisan-ai-policy-crypto/"
     }
   ]
 }

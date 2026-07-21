@@ -1,90 +1,84 @@
 {
-  "generated": "2026-07-20T22:15:16.166789+00:00",
-  "ts": 1784585716,
+  "generated": "2026-07-21T03:50:12.130542+00:00",
+  "ts": 1784605812,
   "market": [
     {
-      "headline": "Ethereum staking ratio hits record 34%, signaling market confidence",
-      "take": "Ethereum staking ratio reaches record 34 percent, showing investor confidence",
+      "headline": "Solana tokenized assets hit record $6B in Q2, up 114% QoQ",
+      "take": "Solana tokenized assets reach record six billion, up 114 percent quarterly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-signaling-market-confidence/"
+      "link": "https://cryptobriefing.com/solana-tokenized-assets-hit-record-6b-in-q2-up-114-qoq/"
     },
     {
-      "headline": "Morgan Stanley files for low-fee Solana ETF as SBI launches tokenized fund in Japan",
-      "take": "Morgan Stanley files Solana ETF; SBI launches tokenized fund in Japan",
+      "headline": "$500M USDC minted on Solana, boosting liquidity and institutional interest",
+      "take": "Five hundred million USDC minted on Solana boosts liquidity and institutional interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-files-for-low-fee-solana-etf-as-sbi-launches-tokenized-fund-in/"
+      "link": "https://cryptobriefing.com/500m-usdc-minted-on-solana-boosting-liquidity-and-institutional-interest/"
     },
     {
-      "headline": "Kalshi, Polymarket open interest falls 20% as World Cup frenzy winds down",
-      "take": "Polymarket and Kalshi open interest fell 20 percent after event trading slowdown",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&utm_medium=rss"
+      "headline": "Oil prices dip on hopes of new US-Iran ceasefire",
+      "take": "Oil prices dip on hopes of new US-Iran ceasefire agreement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-prices-dip-on-hopes-of-new-us-iran-ceasefire/"
+    },
+    {
+      "headline": "Middle East tensions lift oil prices as US-Iran hostilities escalate",
+      "take": "Middle East tensions lift oil prices as US-Iran hostilities escalate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/middle-east-tensions-lift-oil-prices-as-us-iran-hostilities-escalate/"
     }
   ],
   "business": [
     {
+      "headline": "London Stock Exchange to launch overnight trading venue in 2027 as crypto competition grows: FT",
+      "take": "London Stock Exchange launches overnight trading venue in 2027 citing crypto competition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/london-stock-exchange-to-launch-overnight-trading-venue-in-2027-as-crypto-competition-grows-ft/"
+    },
+    {
       "headline": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
-      "take": "Grayscale seeks SEC approval for Worldcoin ETF filing",
+      "take": "Grayscale could take Worldcoin to Wall Street after SEC ETF filing",
       "source": "theblock",
       "link": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Model Context Protocol is quietly becoming the backbone of AI and crypto integration",
-      "take": "Model Context Protocol becoming infrastructure backbone for AI and crypto integration",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/model-context-protocol-ai-crypto-interoperability/"
-    },
-    {
-      "headline": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
-      "take": "Cardano executes hard fork enabled by first community-voted network upgrade",
+      "headline": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
+      "take": "Bank of Korea scales up CBDC pilot with half million users",
       "source": "decrypt",
-      "link": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade"
+      "link": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users"
     }
   ],
   "security": [
     {
-      "headline": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
-      "take": "SEC sues Mining Automatic and founder over alleged 22 million dollar scheme",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
+      "take": "SEC charges Florida man and company in alleged 22 million crypto mining fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Polymarket and Kalshi Face a New Class of Insider Trader: Big Take Podcast",
-      "take": "Polymarket and Kalshi users face emerging insider trading activity risk",
+      "take": "Polymarket and Kalshi face new class of insider traders in prediction markets",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/articles/2026-07-20/polymarket-and-kalshi-face-a-new-class-of-insider-trader-big-take-podcast"
-    },
-    {
-      "headline": "OpenAI reveals long-horizon model bypassed sandbox during tests",
-      "take": "OpenAI's long-horizon model bypassed safety sandbox during internal testing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-model-bypassed-sandbox-testing/"
     }
   ],
   "policy": [
     {
+      "headline": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
+      "take": "Celsius co-founders Leon and Goldstein to pay FTC over six million dollars",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
+      "take": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
-      "take": "Democrats added consumer protections to CLARITY Act cryptocurrency legislation",
+      "take": "Democrats added consumer protection rules to CLARITY act per Coinbase executive",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
-      "take": "Russia's comprehensive crypto law nears passage with two votes remaining",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law"
-    },
-    {
-      "headline": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
-      "take": "Vietnam imposes crypto trading fines matching drunk-driving penalties severity",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
-      "take": "Bank of Korea expands CBDC pilot to half a million users",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users"
     }
   ]
 }

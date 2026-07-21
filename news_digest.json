@@ -1,84 +1,108 @@
 {
-  "generated": "2026-07-21T03:50:12.130542+00:00",
-  "ts": 1784605812,
+  "generated": "2026-07-21T08:48:49.377446+00:00",
+  "ts": 1784623729,
   "market": [
     {
-      "headline": "Solana tokenized assets hit record $6B in Q2, up 114% QoQ",
-      "take": "Solana tokenized assets reach record six billion, up 114 percent quarterly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-tokenized-assets-hit-record-6b-in-q2-up-114-qoq/"
+      "headline": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
+      "take": "Bitcoin ETFs post fifth consecutive day of inflows, first such streak since April",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april"
     },
     {
-      "headline": "$500M USDC minted on Solana, boosting liquidity and institutional interest",
-      "take": "Five hundred million USDC minted on Solana boosts liquidity and institutional interest",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/500m-usdc-minted-on-solana-boosting-liquidity-and-institutional-interest/"
+      "headline": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
+      "take": "Bitcoin hits two-week high near $65,500 as chip trade momentum returns",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind"
     },
     {
-      "headline": "Oil prices dip on hopes of new US-Iran ceasefire",
-      "take": "Oil prices dip on hopes of new US-Iran ceasefire agreement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-dip-on-hopes-of-new-us-iran-ceasefire/"
+      "headline": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+      "take": "XRP jumps 4% as traders monitor triangle breakout pattern toward $1.35",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35"
     },
     {
-      "headline": "Middle East tensions lift oil prices as US-Iran hostilities escalate",
-      "take": "Middle East tensions lift oil prices as US-Iran hostilities escalate",
+      "headline": "Gold prices rise nearly 2% to $4,080/oz amid Treasury yield surge",
+      "take": "Gold prices rise nearly 2% to $4,080 per ounce amid Treasury yield surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/middle-east-tensions-lift-oil-prices-as-us-iran-hostilities-escalate/"
+      "link": "https://cryptobriefing.com/gold-prices-rise-nearly-2-to-4080oz-amid-treasury-yield-surge/"
+    },
+    {
+      "headline": "Goldman warns Brent oil may exceed $120 if Hormuz disruptions continue",
+      "take": "Goldman warns Brent oil may exceed $120 if Hormuz disruptions continue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-warns-brent-oil-may-exceed-120-if-hormuz-disruptions-continue/"
     }
   ],
   "business": [
     {
-      "headline": "London Stock Exchange to launch overnight trading venue in 2027 as crypto competition grows: FT",
-      "take": "London Stock Exchange launches overnight trading venue in 2027 citing crypto competition",
+      "headline": "BlackRock acquires $116M in Bitcoin, boosts institutional crypto presence",
+      "take": "BlackRock acquires $116M in Bitcoin, strengthens institutional crypto presence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/london-stock-exchange-to-launch-overnight-trading-venue-in-2027-as-crypto-competition-grows-ft/"
+      "link": "https://cryptobriefing.com/blackrock-acquires-116m-in-bitcoin-boosts-institutional-crypto-presence/"
     },
     {
-      "headline": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
-      "take": "Grayscale could take Worldcoin to Wall Street after SEC ETF filing",
+      "headline": "Base to launch 1:1-backed tokenized US equities soon, says lead developer",
+      "take": "Base to launch tokenized US equities with 1:1 backing, says lead developer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-to-launch-11-backed-tokenized-us-equities-soon-says-lead-developer/"
+    },
+    {
+      "headline": "Anthropic settles $2B lawsuit over pirated books for AI training",
+      "take": "Anthropic settles $2B lawsuit over pirated books used for AI training",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-settles-2b-lawsuit-over-pirated-books-for-ai-training/"
+    },
+    {
+      "headline": "Hyperliquid\u2019s HIP-4 upgrade introduces permissionless markets, requires 500K HYPE stake",
+      "take": "Hyperliquid HIP-4 upgrade introduces permissionless markets with 500K HYPE stake requirement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquids-hip-4-upgrade-introduces-permissionless-markets-requires-500k-hype/"
+    },
+    {
+      "headline": "London Stock Exchange plans overnight venue to extend trading hours: FT",
+      "take": "London Stock Exchange plans overnight venue to extend trading hours",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
-      "take": "Bank of Korea scales up CBDC pilot with half million users",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users"
+      "link": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
       "headline": "SEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
-      "take": "SEC charges Florida man and company in alleged 22 million crypto mining fraud",
+      "take": "SEC charges Florida man and company in alleged $22 million crypto mining fraud",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Polymarket and Kalshi Face a New Class of Insider Trader: Big Take Podcast",
-      "take": "Polymarket and Kalshi face new class of insider traders in prediction markets",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/polymarket-and-kalshi-face-a-new-class-of-insider-trader-big-take-podcast"
+      "headline": "Iran attacks Amazon\u2019s data infrastructure in Bahrain, claims retaliation",
+      "take": "Iran claims attack on Amazon data infrastructure in Bahrain as retaliation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-attacks-amazons-data-infrastructure-in-bahrain-claims-retaliation/"
+    },
+    {
+      "headline": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
+      "take": "Celsius co-founders to pay FTC over $6 million in settlement",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
-      "take": "Celsius co-founders Leon and Goldstein to pay FTC over six million dollars",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "UK parliamentary group launches probe into crypto sector\u2019s banking challenges",
+      "take": "UK parliamentary group launches probe into crypto sector banking access challenges",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Washington judge blocks Kalshi\u2019s sports prediction markets over state gambling laws",
+      "take": "Washington judge blocks Kalshi's sports prediction markets citing state gambling laws",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409011/washington-kalshi-preliminary-injunction?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
-      "take": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
+      "take": "Trump agrees to ethics provision as crypto bill moves closer to Senate vote",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
-      "take": "Democrats added consumer protection rules to CLARITY act per Coinbase executive",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

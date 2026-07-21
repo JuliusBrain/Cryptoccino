@@ -1,90 +1,78 @@
 {
-  "generated": "2026-07-21T19:55:01.450928+00:00",
-  "ts": 1784663701,
+  "generated": "2026-07-21T22:14:09.964910+00:00",
+  "ts": 1784672049,
   "market": [
     {
-      "headline": "Hyperscale Data boosts Bitcoin holdings to 1,087.45 BTC with $72M purchase",
-      "take": "Hyperscale Data purchases $72M in Bitcoin, expanding institutional holdings",
+      "headline": "Bitcoin ownership surpasses gold among US adults: Nakamoto Project report",
+      "take": "Bitcoin ownership now exceeds gold among US adults surveyed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperscale-data-boosts-bitcoin-holdings-to-108745-btc-with-72m-purchase/"
+      "link": "https://cryptobriefing.com/bitcoin-ownership-surpasses-gold-among-us-adults-nakamoto-project-report/"
     },
     {
-      "headline": "Federal Reserve accepts $275M in fixed-rate reverse repo operation as overnight RRP volumes hit near-zero",
-      "take": "Federal Reserve reverse repo operations near zero as overnight volumes shrink",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-reverse-repo-275-million-rrp-volumes-near-zero/"
+      "headline": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
+      "take": "Bitcoin rally tests key resistance at sixty-eight thousand dollars",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say"
     },
     {
-      "headline": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-      "take": "Solana and Hyperliquid ETFs attract significant altcoin fund inflows quietly",
+      "headline": "Satsuma shareholders approve bitcoin treasury liquidation and London delisting",
+      "take": "Satsuma shareholders vote to liquidate bitcoin treasury and delist",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin faces 15% chance of hitting $100K this year amid market caution",
-      "take": "Bitcoin has roughly 15% probability of reaching $100K within this year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-faces-15-chance-of-hitting-100k-this-year-amid-market-caution/"
+      "link": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "XRP Ledger surpasses 1M agentic transactions, growth expected: RippleX",
-      "take": "XRP Ledger surpasses 1 million agentic transactions, growth trajectory accelerating",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-ledger-surpasses-1m-agentic-transactions-growth-expected-ripplex/"
-    },
-    {
-      "headline": "Movement creator MVMT Labs files for Chapter 11 bankruptcy after turbulent year",
-      "take": "Movement Labs files Chapter 11 bankruptcy following difficult token year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/movement-labs-files-for-chapter-11-bankruptcy-after-turbulent-year/"
-    },
-    {
-      "headline": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
-      "take": "Augustus raises $180M to build stablecoin infrastructure for global payments",
+      "headline": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
+      "take": "Pavel Durov plans crypto wallet for billion Telegram users",
       "source": "decrypt",
-      "link": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank"
+      "link": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users"
     },
     {
-      "headline": "Pump.fun launches BOOST mode to recycle dead liquidity through token burns",
-      "take": "Pump.fun launches BOOST mode to recycle dormant liquidity via token burns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-launches-boost-mode-to-recycle-dead-liquidity-through-token-burns/"
+      "headline": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
+      "take": "Digital Asset raises ten million at two billion valuation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Coinbase facilitates Bitcoin futures trading with cross margin and nano contracts",
-      "take": "Coinbase adds cross-margin and nano contract Bitcoin futures trading options",
+      "headline": "Kraken\u2019s World Cup bet gets a boost as Spain\u2019s semi-final win sends fan token volumes surging",
+      "take": "Spain's World Cup semi-final win boosts fan token volumes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-bitcoin-futures-cross-margin/"
+      "link": "https://cryptobriefing.com/world-cup-crypto-fan-tokens-kraken-2/"
     }
   ],
   "security": [
     {
-      "headline": "Galaxy commits $5M to Bitcoin quantum security initiative",
-      "take": "Galaxy commits $5M to Bitcoin quantum computing security research initiative",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-commits-5m-to-bitcoin-quantum-security-initiative/"
+      "headline": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
+      "take": "OpenAI models escaped sandbox, breached Hugging Face benchmark tests",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark"
     }
   ],
   "policy": [
     {
-      "headline": "Washington moves toward clearer rulebook for digital assets",
-      "take": "Washington develops clearer regulatory framework for digital asset governance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/washington-clarity-act-crypto-regulation-cftc-sec/"
+      "headline": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+      "take": "Crypto Clarity Act stalls over ethics concerns with Trump deal",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal"
     },
     {
-      "headline": "Pakistan steps up crypto enforcement with dedicated federal unit",
-      "take": "Pakistan establishes dedicated federal unit to enforce cryptocurrency regulations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
-      "take": "Congress debates regulatory oversight role for sports betting prediction markets",
+      "headline": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
+      "take": "Trump rule prohibits federal officials from issuing cryptocurrencies",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Crypto lobby group TDC sues Illinois to block digital asset tax",
+      "take": "Digital Asset Chamber sues Illinois over incoming crypto tax",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax"
+    },
+    {
+      "headline": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+      "take": "CLARITY Act could help CFTC regulate prediction markets better",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,89 +1,102 @@
 {
-  "generated": "2026-07-21T11:19:58.606594+00:00",
-  "ts": 1784632798,
+  "generated": "2026-07-21T14:26:39.468051+00:00",
+  "ts": 1784643999,
   "market": [
     {
-      "headline": "Bitcoin ETFs see $727M in inflows over five sessions, snapping brutal two-month bleed",
-      "take": "Bitcoin ETFs post fifth consecutive day of inflows, reversing two-month outflow trend",
+      "headline": "Bitcoin surges to 5-week high above $67K as ETF inflows return",
+      "take": "Bitcoin surges to five-week high above sixty-seven thousand on ETF inflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-727m-five-sessions/"
+      "link": "https://cryptobriefing.com/bitcoin-surges-5-week-high-etf-inflows-return/"
     },
     {
-      "headline": "Brent crude climbs to $89.93 as oil\u2019s ripple effects reach crypto markets",
-      "take": "Brent crude climbs to $89.93 on geopolitical tensions, rippling through crypto markets",
+      "headline": "SpaceX shares fall below IPO price as tokenized equity volumes explode to $3.86 billion",
+      "take": "Tokenized equity volumes explode to three point eighty-six billion amid SpaceX decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-oil-crypto-market-impact/"
+      "link": "https://cryptobriefing.com/spacex-shares-below-ipo-tokenized-equity-boom/"
     },
     {
-      "headline": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-      "take": "XRP jumps 4% as traders monitor triangle breakout pattern toward $1.35",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35"
-    },
-    {
-      "headline": "China\u2019s gold buying spree signals potential price rebound amid dollar diversification",
-      "take": "China's gold buying signals potential price rebound amid dollar diversification strategy",
+      "headline": "Ethereum outperforms AI hardware assets by 55 percentage points in one month",
+      "take": "Ethereum outperforms AI hardware assets by fifty-five percentage points in one month",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinas-gold-buying-spree-signals-potential-price-rebound-amid-dollar/"
+      "link": "https://cryptobriefing.com/ethereum-outperforms-ai-hardware-assets/"
     },
     {
-      "headline": "Worldcoin\u2019s WLD Jumps 8% on Grayscale ETF Filing",
-      "take": "Worldcoin WLD jumps 8% following Grayscale ETF filing announcement",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373913/worldcoins-wld-jumps-8-on-grayscale-etf-filing"
+      "headline": "S&P 500 and Nasdaq open higher as risk appetite returns to markets",
+      "take": "S&P five hundred and Nasdaq open higher as risk appetite returns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-nasdaq-open-higher-risk-appetite/"
     }
   ],
   "business": [
     {
-      "headline": "CoinShares launches UCITS platform targeting Europe\u2019s institutional investors",
-      "take": "CoinShares launches UCITS platform targeting Europe's institutional crypto investors",
+      "headline": "Augustus reaches $1B valuation in funding round led by Tiger Global",
+      "take": "Augustus reaches one billion valuation in Tiger Global-led funding round",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/augustus-billion-valuation-tiger-global/"
+    },
+    {
+      "headline": "Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain",
+      "take": "Arcus launches twenty-four-seven tokenized US stocks on Robinhood Chain",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/409029/coinshares-launches-europe-ucits-platform?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/408895/arcus-rolls-out-24-7-tokenized-us-stocks-and-perpetual-markets-on-robinhood-chain?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Jack Mallers steps down as CEO of Twenty One Capital, Raphael Zagury takes the helm",
-      "take": "Jack Mallers steps down as Twenty One Capital CEO; Raphael Zagury takes helm",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jack-mallers-steps-down-twenty-one-capital-ceo/"
+      "headline": "Morpho launches fixed-rate lending protocol Midnight on Base to expand onchain credit markets",
+      "take": "Morpho launches fixed-rate lending protocol Midnight on Base",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "IREN reports strong demand for GPU cloud services, contracts exceed $15M per megawatt",
-      "take": "IREN reports strong GPU cloud service demand with contracts exceeding $15M per megawatt",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iren-gpu-cloud-demand-contracts-exceed-15m/"
+      "headline": "Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs",
+      "take": "Jito rolls out JTX self-custodial trading platform for Solana tokens",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Iran proposes tolls for oil transit through Strait of Hormuz, with Bitcoin as a payment option",
-      "take": "Iran proposes tolls for Strait of Hormuz oil transit, accepting Bitcoin as payment option",
+      "headline": "Former Goldman Sachs and Aave executive joins Grayscale to lead onchain products",
+      "take": "Former Goldman Sachs and Aave executive joins Grayscale for onchain products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-hormuz-tolls-bitcoin-payment/"
+      "link": "https://cryptobriefing.com/grayscale-appoints-sebastian-pulido-onchain-asset-management/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "US Treasury freezes $130M crypto wallet tied to Iran\u2019s IRGC",
+      "take": "US Treasury freezes one hundred thirty million dollar crypto wallet tied to Iran",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-freezes-130m-crypto-iran-irgc/"
+    },
+    {
+      "headline": "Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2",
+      "take": "Aztec upgrades to V5 with full private execution on Ethereum L2",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2?utm_source=rss&utm_medium=rss"
+    }
+  ],
   "policy": [
     {
-      "headline": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "take": "UK Parliament launches inquiry into banking barriers limiting crypto sector access",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses"
+      "headline": "Russia approves crypto bill for foreign trade, domestic ban remains",
+      "take": "Russia approves crypto bill for foreign trade, maintains domestic ban",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russia-approves-crypto-bill-for-foreign-trade-domestic-ban-remains/"
     },
     {
-      "headline": "Donald Trump plans new tariffs on dozens of countries this week",
-      "take": "Donald Trump plans new tariffs on dozens of countries this week",
+      "headline": "Trump agrees to ethics provision, clearing path for CLARITY Act Senate vote",
+      "take": "Trump agrees to ethics provision, clearing path for CLARITY Act vote",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-new-tariffs-dozens-countries/"
+      "link": "https://cryptobriefing.com/trump-agrees-to-ethics-provision-clearing-path-for-clarity-act-senate-vote/"
     },
     {
-      "headline": "China considers tighter export controls on AI models and chips",
-      "take": "China considers tighter export controls on AI models and semiconductor chips",
+      "headline": "EU prepares to hit Google with largest Digital Markets Act fine yet, raising stakes in US-Europe tech war",
+      "take": "EU prepares largest Digital Markets Act fine against Google yet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-tighter-export-controls-ai-chips/"
+      "link": "https://cryptobriefing.com/eu-google-digital-markets-act-fine/"
     },
     {
-      "headline": "US and China to hold AI talks in September led by Treasury Secretary Scott Bessent",
-      "take": "US and China to hold AI talks in September led by Treasury Secretary Bessent",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-china-ai-talks-september-bessent/"
+      "headline": "Malaysia shuts down Balaji Srinivasan\u2019s Network School in Forest City",
+      "take": "Malaysia shuts down Balaji Srinivasan's Network School in Forest City",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss"
     }
   ]
 }

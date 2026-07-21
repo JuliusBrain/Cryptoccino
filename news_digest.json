@@ -1,90 +1,90 @@
 {
-  "generated": "2026-07-21T16:45:37.089135+00:00",
-  "ts": 1784652337,
+  "generated": "2026-07-21T19:55:01.450928+00:00",
+  "ts": 1784663701,
   "market": [
     {
-      "headline": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
-      "take": "XRP breaks out on Clarity Act hopes, but charts remain cautious",
-      "source": "decrypt",
-      "link": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious"
+      "headline": "Hyperscale Data boosts Bitcoin holdings to 1,087.45 BTC with $72M purchase",
+      "take": "Hyperscale Data purchases $72M in Bitcoin, expanding institutional holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperscale-data-boosts-bitcoin-holdings-to-108745-btc-with-72m-purchase/"
     },
     {
-      "headline": "Ethereum rises 7% as Tom Lee highlights AI infrastructure gains",
-      "take": "Ethereum rises 7% as AI infrastructure gains draw investor attention",
+      "headline": "Federal Reserve accepts $275M in fixed-rate reverse repo operation as overnight RRP volumes hit near-zero",
+      "take": "Federal Reserve reverse repo operations near zero as overnight volumes shrink",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-rises-tom-lee-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/fed-reverse-repo-275-million-rrp-volumes-near-zero/"
     },
     {
-      "headline": "Gold prices steady above $4,000 ahead of Fed meeting",
-      "take": "Gold holds steady above $4,000 ahead of Federal Reserve meeting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-steady-above-4000-ahead-of-fed-meeting/"
+      "headline": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
+      "take": "Solana and Hyperliquid ETFs attract significant altcoin fund inflows quietly",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Tesla\u2019s $3.3B cash burn raises questions about investor confidence in AI spending",
-      "take": "Tesla's $3.3 billion cash burn raises questions about AI spending",
+      "headline": "Bitcoin faces 15% chance of hitting $100K this year amid market caution",
+      "take": "Bitcoin has roughly 15% probability of reaching $100K within this year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tesla-cash-burn-ai-bitcoin-investor-confidence/"
+      "link": "https://cryptobriefing.com/bitcoin-faces-15-chance-of-hitting-100k-this-year-amid-market-caution/"
     }
   ],
   "business": [
     {
-      "headline": "Telegram plans \u2018largest rollout of a non-custodial crypto wallet in human history\u2019",
-      "take": "Telegram plans largest non-custodial crypto wallet rollout ever attempted",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs",
-      "take": "Uphold launches fractional share trading in US for thousands of securities",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitget plans US expansion \u2018with or without\u2019 Clarity Act, CEO says",
-      "take": "Bitget plans US expansion regardless of Clarity Act passage status",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Solana co-founder Anatoly Yakovenko defends AI firms\u2019 right to train on public data, citing US fair use laws",
-      "take": "Solana co-founder defends AI firms' right to train on public data",
+      "headline": "XRP Ledger surpasses 1M agentic transactions, growth expected: RippleX",
+      "take": "XRP Ledger surpasses 1 million agentic transactions, growth trajectory accelerating",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-anatoly-defends-ai-fair-use/"
+      "link": "https://cryptobriefing.com/xrp-ledger-surpasses-1m-agentic-transactions-growth-expected-ripplex/"
     },
     {
-      "headline": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
-      "take": "Jack Mallers exits Twenty One Capital as Tether Bitcoin merger collapses",
+      "headline": "Movement creator MVMT Labs files for Chapter 11 bankruptcy after turbulent year",
+      "take": "Movement Labs files Chapter 11 bankruptcy following difficult token year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/movement-labs-files-for-chapter-11-bankruptcy-after-turbulent-year/"
+    },
+    {
+      "headline": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
+      "take": "Augustus raises $180M to build stablecoin infrastructure for global payments",
       "source": "decrypt",
-      "link": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses"
+      "link": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank"
+    },
+    {
+      "headline": "Pump.fun launches BOOST mode to recycle dead liquidity through token burns",
+      "take": "Pump.fun launches BOOST mode to recycle dormant liquidity via token burns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pump-fun-launches-boost-mode-to-recycle-dead-liquidity-through-token-burns/"
+    },
+    {
+      "headline": "Coinbase facilitates Bitcoin futures trading with cross margin and nano contracts",
+      "take": "Coinbase adds cross-margin and nano contract Bitcoin futures trading options",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-bitcoin-futures-cross-margin/"
     }
   ],
   "security": [
     {
-      "headline": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
-      "take": "Galaxy sets up $5 million fund to shield Bitcoin from quantum threats",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats"
-    },
-    {
-      "headline": "Coinbase reports 50-minute platform outage due to routine update",
-      "take": "Coinbase suffers 50-minute outage from routine platform configuration update",
+      "headline": "Galaxy commits $5M to Bitcoin quantum security initiative",
+      "take": "Galaxy commits $5M to Bitcoin quantum computing security research initiative",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-50-minute-outage-configuration-change/"
+      "link": "https://cryptobriefing.com/galaxy-commits-5m-to-bitcoin-quantum-security-initiative/"
     }
   ],
   "policy": [
     {
-      "headline": "US government threatens sanctions on Chinese AI models over IP theft",
-      "take": "US government threatens sanctions on Chinese AI models over IP theft",
+      "headline": "Washington moves toward clearer rulebook for digital assets",
+      "take": "Washington develops clearer regulatory framework for digital asset governance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-sanctions-chinese-ai-models-ip-theft/"
+      "link": "https://cryptobriefing.com/washington-clarity-act-crypto-regulation-cftc-sec/"
     },
     {
-      "headline": "Russia\u2019s parliament passes crypto market law with $3,800 annual cap for retail investors",
-      "take": "Russia's parliament passes crypto market law capping retail investor trades",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1"
+      "headline": "Pakistan steps up crypto enforcement with dedicated federal unit",
+      "take": "Pakistan establishes dedicated federal unit to enforce cryptocurrency regulations",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
+      "take": "Congress debates regulatory oversight role for sports betting prediction markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss"
     }
   ]
 }

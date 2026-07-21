@@ -1,18 +1,18 @@
 {
-  "generated": "2026-07-21T08:48:49.377446+00:00",
-  "ts": 1784623729,
+  "generated": "2026-07-21T11:19:58.606594+00:00",
+  "ts": 1784632798,
   "market": [
     {
-      "headline": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-      "take": "Bitcoin ETFs post fifth consecutive day of inflows, first such streak since April",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april"
+      "headline": "Bitcoin ETFs see $727M in inflows over five sessions, snapping brutal two-month bleed",
+      "take": "Bitcoin ETFs post fifth consecutive day of inflows, reversing two-month outflow trend",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-727m-five-sessions/"
     },
     {
-      "headline": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-      "take": "Bitcoin hits two-week high near $65,500 as chip trade momentum returns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind"
+      "headline": "Brent crude climbs to $89.93 as oil\u2019s ripple effects reach crypto markets",
+      "take": "Brent crude climbs to $89.93 on geopolitical tensions, rippling through crypto markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brent-crude-oil-crypto-market-impact/"
     },
     {
       "headline": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
@@ -21,88 +21,69 @@
       "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35"
     },
     {
-      "headline": "Gold prices rise nearly 2% to $4,080/oz amid Treasury yield surge",
-      "take": "Gold prices rise nearly 2% to $4,080 per ounce amid Treasury yield surge",
+      "headline": "China\u2019s gold buying spree signals potential price rebound amid dollar diversification",
+      "take": "China's gold buying signals potential price rebound amid dollar diversification strategy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-rise-nearly-2-to-4080oz-amid-treasury-yield-surge/"
+      "link": "https://cryptobriefing.com/chinas-gold-buying-spree-signals-potential-price-rebound-amid-dollar/"
     },
     {
-      "headline": "Goldman warns Brent oil may exceed $120 if Hormuz disruptions continue",
-      "take": "Goldman warns Brent oil may exceed $120 if Hormuz disruptions continue",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-warns-brent-oil-may-exceed-120-if-hormuz-disruptions-continue/"
+      "headline": "Worldcoin\u2019s WLD Jumps 8% on Grayscale ETF Filing",
+      "take": "Worldcoin WLD jumps 8% following Grayscale ETF filing announcement",
+      "source": "decrypt",
+      "link": "https://decrypt.co/373913/worldcoins-wld-jumps-8-on-grayscale-etf-filing"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock acquires $116M in Bitcoin, boosts institutional crypto presence",
-      "take": "BlackRock acquires $116M in Bitcoin, strengthens institutional crypto presence",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-acquires-116m-in-bitcoin-boosts-institutional-crypto-presence/"
-    },
-    {
-      "headline": "Base to launch 1:1-backed tokenized US equities soon, says lead developer",
-      "take": "Base to launch tokenized US equities with 1:1 backing, says lead developer",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-to-launch-11-backed-tokenized-us-equities-soon-says-lead-developer/"
-    },
-    {
-      "headline": "Anthropic settles $2B lawsuit over pirated books for AI training",
-      "take": "Anthropic settles $2B lawsuit over pirated books used for AI training",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-settles-2b-lawsuit-over-pirated-books-for-ai-training/"
-    },
-    {
-      "headline": "Hyperliquid\u2019s HIP-4 upgrade introduces permissionless markets, requires 500K HYPE stake",
-      "take": "Hyperliquid HIP-4 upgrade introduces permissionless markets with 500K HYPE stake requirement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquids-hip-4-upgrade-introduces-permissionless-markets-requires-500k-hype/"
-    },
-    {
-      "headline": "London Stock Exchange plans overnight venue to extend trading hours: FT",
-      "take": "London Stock Exchange plans overnight venue to extend trading hours",
+      "headline": "CoinShares launches UCITS platform targeting Europe\u2019s institutional investors",
+      "take": "CoinShares launches UCITS platform targeting Europe's institutional crypto investors",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/409029/coinshares-launches-europe-ucits-platform?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Jack Mallers steps down as CEO of Twenty One Capital, Raphael Zagury takes the helm",
+      "take": "Jack Mallers steps down as Twenty One Capital CEO; Raphael Zagury takes helm",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jack-mallers-steps-down-twenty-one-capital-ceo/"
+    },
+    {
+      "headline": "IREN reports strong demand for GPU cloud services, contracts exceed $15M per megawatt",
+      "take": "IREN reports strong GPU cloud service demand with contracts exceeding $15M per megawatt",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iren-gpu-cloud-demand-contracts-exceed-15m/"
+    },
+    {
+      "headline": "Iran proposes tolls for oil transit through Strait of Hormuz, with Bitcoin as a payment option",
+      "take": "Iran proposes tolls for Strait of Hormuz oil transit, accepting Bitcoin as payment option",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-hormuz-tolls-bitcoin-payment/"
     }
   ],
-  "security": [
-    {
-      "headline": "SEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
-      "take": "SEC charges Florida man and company in alleged $22 million crypto mining fraud",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Iran attacks Amazon\u2019s data infrastructure in Bahrain, claims retaliation",
-      "take": "Iran claims attack on Amazon data infrastructure in Bahrain as retaliation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-attacks-amazons-data-infrastructure-in-bahrain-claims-retaliation/"
-    },
-    {
-      "headline": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
-      "take": "Celsius co-founders to pay FTC over $6 million in settlement",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "UK parliamentary group launches probe into crypto sector\u2019s banking challenges",
-      "take": "UK parliamentary group launches probe into crypto sector banking access challenges",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss"
+      "headline": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+      "take": "UK Parliament launches inquiry into banking barriers limiting crypto sector access",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses"
     },
     {
-      "headline": "Washington judge blocks Kalshi\u2019s sports prediction markets over state gambling laws",
-      "take": "Washington judge blocks Kalshi's sports prediction markets citing state gambling laws",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409011/washington-kalshi-preliminary-injunction?utm_source=rss&utm_medium=rss"
+      "headline": "Donald Trump plans new tariffs on dozens of countries this week",
+      "take": "Donald Trump plans new tariffs on dozens of countries this week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-new-tariffs-dozens-countries/"
     },
     {
-      "headline": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
-      "take": "Trump agrees to ethics provision as crypto bill moves closer to Senate vote",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&utm_medium=rss"
+      "headline": "China considers tighter export controls on AI models and chips",
+      "take": "China considers tighter export controls on AI models and semiconductor chips",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-tighter-export-controls-ai-chips/"
+    },
+    {
+      "headline": "US and China to hold AI talks in September led by Treasury Secretary Scott Bessent",
+      "take": "US and China to hold AI talks in September led by Treasury Secretary Bessent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-china-ai-talks-september-bessent/"
     }
   ]
 }

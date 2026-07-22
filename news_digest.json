@@ -1,114 +1,126 @@
 {
-  "generated": "2026-07-22T11:21:42.772382+00:00",
-  "ts": 1784719302,
+  "generated": "2026-07-22T14:27:10.516211+00:00",
+  "ts": 1784730430,
   "market": [
     {
-      "headline": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
-      "take": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface"
+      "headline": "Tokenized equity perps drive RWA trading boom to $470 billion monthly volume",
+      "take": "Tokenized equity perps drive RWA trading to $470 billion monthly volume",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Japan\u2019s yen crashes to 40-year low above 163 per dollar as $73B intervention fails to stop the bleeding",
-      "take": "Japan's yen crashes to 40-year low; $73B intervention fails to stem decline",
+      "headline": "ETFs on pace for back-to-back Triple Crowns, shattering industry records",
+      "take": "Crypto ETFs on pace for back-to-back triple crowns, shattering records",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-yen-40-year-low-crypto-impact-2/"
+      "link": "https://cryptobriefing.com/etfs-back-to-back-triple-crown-records/"
     },
     {
-      "headline": "European Central Bank expected to hold rates amid hawkish hints",
-      "take": "European Central Bank expected to hold rates amid hawkish hints",
+      "headline": "Trump slaps 50% tariffs on Canada, reigniting trade war that could ripple into crypto markets",
+      "take": "Trump's 50% Canada tariffs reignite trade war with crypto market ripples",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-hold-rates-hawkish-hints-july-2026/"
+      "link": "https://cryptobriefing.com/trump-50-percent-tariffs-canada-trade-war/"
     },
     {
-      "headline": "Investment funds boost net-long positions in European gas amid rising prices",
-      "take": "Investment funds boost net-long positions in European gas amid rising prices",
+      "headline": "Oil prices jump 4% as Rubio says Iran not serious about peace talks",
+      "take": "Oil prices jump 4% as Iran peace talks stall amid tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/european-gas-net-long-positions-surge/"
+      "link": "https://cryptobriefing.com/oil-prices-jump-4-as-rubio-says-iran-not-serious-about-peace-talks/"
     },
     {
-      "headline": "Uranium holds at $85 as AI data centers boost demand and crypto projects eye tokenized trading",
-      "take": "Uranium holds at $85 as AI data centers boost demand for tokenized trading",
+      "headline": "Spot silver rises nearly 3% to $60.55/oz amid precious metals rally",
+      "take": "Spot silver rises nearly 3% to $60.55 amid precious metals rally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uranium-85-ai-data-centers-demand/"
+      "link": "https://cryptobriefing.com/spot-silver-rises-nearly-3-to-6055oz-amid-precious-metals-rally/"
     }
   ],
   "business": [
     {
-      "headline": "Payward expands xStocks tokenized equities to Hong Kong, UK, Europe, and South Korea",
-      "take": "Payward expands xStocks tokenized equities to Hong Kong, UK, Europe, South Korea",
+      "headline": "OpenAI scales up data-center ambitions with $500B Stargate push",
+      "take": "OpenAI pushes $500 billion Stargate data center expansion forward",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/payward-xstocks-expansion-global-markets/"
+      "link": "https://cryptobriefing.com/openai-stargate-data-center-expansion-2026/"
     },
     {
-      "headline": "Block launches Buzz, a Nostr-based rival to Slack and GitHub",
-      "take": "Block launches Buzz, a Nostr-based rival to Slack and GitHub for AI agents",
+      "headline": "Avalanche hosts nOPAL vault for FX-hedged Brazilian receivables",
+      "take": "Avalanche hosts nOPAL vault for FX-hedged Brazilian receivables",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/block-launches-buzz-nostr-workspace/"
+      "link": "https://cryptobriefing.com/avalanche-nopal-vault-brazilian-receivables/"
     },
     {
-      "headline": "Talos integrates institutional trading tools with Kalshi\u2019s event contracts and crypto perpetuals",
-      "take": "Talos integrates institutional trading tools with Kalshi event contracts and perpetuals",
+      "headline": "Hashi testnet goes live, introduces Guardian Layer for BTC collateral on Sui",
+      "take": "Hashi testnet live with Guardian Layer enabling BTC collateral on Sui",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/talos-kalshi-institutional-trading-integration/"
+      "link": "https://cryptobriefing.com/hashi-testnet-guardian-layer-btc-collateral-sui/"
     },
     {
-      "headline": "MEXC appoints Robert MacDonald as Chief Compliance Officer",
-      "take": "MEXC appoints Robert MacDonald as Chief Compliance Officer",
+      "headline": "QumulusAI lands $18 million Nvidia Blackwell supply deal",
+      "take": "QumulusAI secures $18 million Nvidia Blackwell supply deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mexc-appoints-robert-macdonald-compliance-officer/"
+      "link": "https://cryptobriefing.com/qumulusai-nvidia-ai-infrastructure-blockchain/"
+    },
+    {
+      "headline": "Anthropic tests Managed Projects feature for Claude, signaling AI\u2019s push into enterprise cloud workflows",
+      "take": "Anthropic tests Managed Projects for Claude in enterprise cloud",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-managed-projects-testing/"
     }
   ],
   "security": [
     {
-      "headline": "SecondFi to shut down after $2.4 million ADA wallet theft",
-      "take": "SecondFi shuts down after $2.4 million ADA wallet theft reported",
+      "headline": "Violent Crypto Attacks Rise as Criminals Hunt Bigger Payouts",
+      "take": "Violent crypto attacks rise as criminals pursue larger payouts",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/violent-crypto-attacks-rise-as-criminals-hunt-bigger-payouts"
+    },
+    {
+      "headline": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
+      "take": "Midnight token rebounds 19% after Wanchain bridge hack",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft"
+      "link": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul"
     },
     {
-      "headline": "OpenAI model escapes testing, hacks rival Hugging Face systems",
-      "take": "OpenAI model escapes testing, breaches Hugging Face systems raising sandbox concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-model-escapes-testing-hacks-rival-hugging-face-systems/"
+      "headline": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
+      "take": "Justin Sun's HTX rotating wallets amid UK sanctions investigation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs"
     },
     {
-      "headline": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
-      "take": "Balance stablecoin collapses 99% after $1 million exploit drains bitcoin vaults",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults"
-    },
-    {
-      "headline": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
-      "take": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
+      "headline": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
+      "take": "Zilliqa halts native transactions over 2019 Ledger app bug",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
+      "take": "US seeks forfeiture of $25 million in crypto from romance scams",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams"
     }
   ],
   "policy": [
     {
-      "headline": "CLARITY Act gains momentum in Senate after Thune\u2019s optimistic remarks",
-      "take": "CLARITY Act gains momentum in Senate after Thune's optimistic remarks",
+      "headline": "Israel\u2019s Capital Market Authority tightens crypto regulations, enhances protections",
+      "take": "Israel's Capital Market Authority tightens crypto rules, enhances protections",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-gains-momentum-in-senate-after-thunes-optimistic-remarks/"
+      "link": "https://cryptobriefing.com/israel-tightens-crypto-regulations-vasp-guidelines/"
     },
     {
-      "headline": "EU\u2019s 21st sanctions package against Russia takes aim at crypto platforms and nearly 90 banks",
-      "take": "EU's 21st sanctions package targets crypto platforms and nearly 90 banks over Russia",
+      "headline": "Ron Wyden introduces bill to limit Trump\u2019s tariff powers as trade war reshapes markets",
+      "take": "Ron Wyden bills to limit Trump's tariff powers as trade reshapes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-sanctions-russia-crypto-platforms/"
+      "link": "https://cryptobriefing.com/wyden-bill-limit-trump-tariff-powers/"
     },
     {
-      "headline": "SEC agrees to $150Ksettlement with Coinbase over FOIA dispute: WSJ",
-      "take": "SEC settles $150K FOIA dispute with Coinbase over transparency disagreement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-coinbase-foia-settlement/"
+      "headline": "The digital euro: Surveillance money, or a better alternative to cash?",
+      "take": "Digital euro sparks debate between surveillance concerns and cash alternatives",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
-      "take": "BIS warns USD stablecoins can evade capital controls, challenging market regulations",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss"
+      "headline": "US to announce Saudi nuclear program deal, Congress review pending",
+      "take": "US to announce Saudi nuclear program deal pending Congress review",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-to-announce-saudi-nuclear-program-deal-congress-review-pending/"
     }
   ]
 }

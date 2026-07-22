@@ -1,78 +1,102 @@
 {
-  "generated": "2026-07-21T22:14:09.964910+00:00",
-  "ts": 1784672049,
+  "generated": "2026-07-22T03:50:40.554300+00:00",
+  "ts": 1784692240,
   "market": [
     {
-      "headline": "Bitcoin ownership surpasses gold among US adults: Nakamoto Project report",
-      "take": "Bitcoin ownership now exceeds gold among US adults surveyed",
+      "headline": "Bitcoin\u2019s Bottoming Pattern Is Starting to Take Shape",
+      "take": "Bitcoin showing signs of forming a bottom pattern",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/bitcoin-s-bottoming-pattern-is-starting-to-take-shape"
+    },
+    {
+      "headline": "Goldman warns Brent crude could hit $120 if Hormuz disruptions persist",
+      "take": "Oil could reach $120 if Middle East shipping disruptions continue",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ownership-surpasses-gold-among-us-adults-nakamoto-project-report/"
+      "link": "https://cryptobriefing.com/goldman-warns-brent-crude-could-hit-120-if-hormuz-disruptions-persist/"
     },
     {
-      "headline": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
-      "take": "Bitcoin rally tests key resistance at sixty-eight thousand dollars",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say"
+      "headline": "Oil prices rise slightly after US military strikes on Iran",
+      "take": "Oil prices rise slightly following US military strikes on Iran",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-prices-rise-slightly-after-us-military-strikes-on-iran/"
     },
     {
-      "headline": "Satsuma shareholders approve bitcoin treasury liquidation and London delisting",
-      "take": "Satsuma shareholders vote to liquidate bitcoin treasury and delist",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss"
+      "headline": "Canadian stocks rise 1% as gold prices climb despite US tariff threat",
+      "take": "Canadian stocks gain one percent as gold climbs despite tariff threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/canadian-stocks-rise-1-as-gold-prices-climb-despite-us-tariff-threat/"
+    },
+    {
+      "headline": "S&P Global excludes Bitcoin, XRP from crypto index over revenue criteria",
+      "take": "S&P Global removes Bitcoin and XRP from crypto index",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp-global-excludes-bitcoin-xrp-from-crypto-index-over-revenue-criteria/"
     }
   ],
   "business": [
     {
-      "headline": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
-      "take": "Pavel Durov plans crypto wallet for billion Telegram users",
+      "headline": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
+      "take": "Satsuma unwinding Bitcoin treasury, selling forty-three million dollars in BTC",
       "source": "decrypt",
-      "link": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users"
+      "link": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc"
     },
     {
-      "headline": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
-      "take": "Digital Asset raises ten million at two billion valuation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Kraken\u2019s World Cup bet gets a boost as Spain\u2019s semi-final win sends fan token volumes surging",
-      "take": "Spain's World Cup semi-final win boosts fan token volumes",
+      "headline": "Treasury Secretary urges Congress to pass Digital Asset Market Clarity Act",
+      "take": "Treasury Secretary pushes Congress to pass Digital Asset Market Clarity Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-cup-crypto-fan-tokens-kraken-2/"
+      "link": "https://cryptobriefing.com/treasury-secretary-urges-congress-to-pass-digital-asset-market-clarity-act/"
+    },
+    {
+      "headline": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+      "take": "CLARITY Act could help CFTC oversee prediction markets, lawyer says",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
+      "take": "Trump crypto ethics rule assigns DOJ enforcement, bars federal officials from issuing coins",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
+      "headline": "Glassnode flags possible data exposure, warns customers of phishing risk",
+      "take": "Glassnode reports possible data exposure, warns customers of phishing attempts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/glassnode-flags-possible-data-exposure-warns-customers-of-phishing-risk/"
+    },
+    {
       "headline": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-      "take": "OpenAI models escaped sandbox, breached Hugging Face benchmark tests",
+      "take": "OpenAI models escaped locked environment, hackers exploited Hugging Face",
       "source": "decrypt",
       "link": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark"
+    },
+    {
+      "headline": "LG to Ban Residential Proxies from Smart TV Apps",
+      "take": "LG banning residential proxies from smart TV applications",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-      "take": "Crypto Clarity Act stalls over ethics concerns with Trump deal",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal"
-    },
-    {
-      "headline": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
-      "take": "Trump rule prohibits federal officials from issuing cryptocurrencies",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Crypto lobby group TDC sues Illinois to block digital asset tax",
-      "take": "Digital Asset Chamber sues Illinois over incoming crypto tax",
+      "headline": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+      "take": "Digital Chamber sues Illinois to block incoming digital asset tax",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax"
     },
     {
-      "headline": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-      "take": "CLARITY Act could help CFTC regulate prediction markets better",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
+      "take": "Pakistan launches dedicated crypto investigation unit to combat digital asset crimes",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Clarity Act gains momentum with Senate support, market confidence rises",
+      "take": "Digital Asset Clarity Act gaining Senate support and market confidence",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clarity-act-gains-momentum-with-senate-support-market-confidence-rises/"
     }
   ]
 }

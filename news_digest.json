@@ -1,108 +1,84 @@
 {
-  "generated": "2026-07-22T19:47:18.427678+00:00",
-  "ts": 1784749638,
+  "generated": "2026-07-22T22:18:17.018448+00:00",
+  "ts": 1784758697,
   "market": [
     {
-      "headline": "Morgan Stanley files final paperwork for Solana, Ethereum staking ETFs",
-      "take": "Morgan Stanley files final paperwork for Solana and Ethereum staking ETFs",
+      "headline": "Oil prices surge 25% amid Strait of Hormuz supply disruptions",
+      "take": "Oil prices surge 25% amid Strait of Hormuz supply disruptions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-solana-ethereum-staking-etfs/"
+      "link": "https://cryptobriefing.com/oil-prices-surge-25-amid-strait-of-hormuz-supply-disruptions/"
     },
     {
-      "headline": "Aave v4 deposits on Ethereum and Avalanche reach $300m",
-      "take": "Aave v4 deposits reach $300M across Ethereum and Avalanche",
+      "headline": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "take": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss"
+    },
+    {
+      "headline": "Alphabet reports 63% rise in Google Cloud revenue, AI boosts growth",
+      "take": "Alphabet reports 63% rise in Google Cloud revenue, AI boosts growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-v4-deposits-reach-300m/"
-    },
-    {
-      "headline": "Bitcoin Is Bouncing: Here\u2019s the Bull and Bear Case for Its Next Move",
-      "take": "Bitcoin bounces with competing bullish and bearish narratives emerging",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case"
-    },
-    {
-      "headline": "Oil hits $87 amid Middle East tensions, US 10-year yield",
-      "take": "Oil rises to $87 amid Middle East tensions and yield shifts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-hits-87-amid-middle-east-tensions-us-10-year-yield/"
-    },
-    {
-      "headline": "Benchmark sees Hut 8 becoming a \u2018power-first data center REIT,\u2019 raises target another 18%",
-      "take": "Hut 8 positioned as power-first data center REIT with raised target",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409439/benchmark-hut-8-becoming-power-first-data-center-reit-raises-target-18?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/alphabet-reports-63-rise-in-google-cloud-revenue-ai-boosts-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Franklin Templeton bets on altcoins for AI-driven commerce future",
-      "take": "Franklin Templeton bets on altcoins for AI-driven commerce applications",
+      "headline": "AMD to sell billions in AI servers to Anthropic, invest up to $5B in startup",
+      "take": "AMD to sell billions in AI servers to Anthropic, invest up to $5B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-templeton-altcoins-agentic-ai/"
+      "link": "https://cryptobriefing.com/amd-to-sell-billions-in-ai-servers-to-anthropic-invest-up-to-5b-in-startup/"
     },
     {
-      "headline": "Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities",
-      "take": "Kraken parent Payward partners with GTN to expand xStocks globally",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
-      "take": "Franklin Templeton identifies agentic AI as crypto's potential killer use case",
+      "headline": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
+      "take": "Coinbase expanding into Canadian stocks, crypto, and prediction markets",
       "source": "decrypt",
-      "link": "https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case"
+      "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets"
     },
     {
-      "headline": "Ostium to resume operations July 23 after $24M exploit",
-      "take": "Ostium resumes operations July 23 following $24M security exploit recovery",
+      "headline": "Hey Anon sets voting eligibility criteria for ANON token holders ahead of July 23 DAO vote",
+      "take": "Hey Anon sets voting eligibility criteria for ANON token DAO vote",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ostium-to-resume-operations-july-23-after-24m-exploit/"
+      "link": "https://cryptobriefing.com/hey-anon-anon-token-voting-eligibility-criteria/"
+    },
+    {
+      "headline": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
+      "take": "Kraken parent company expanding to offer global market stocks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities"
     }
   ],
   "security": [
     {
-      "headline": "Ostium to resume operations July 23 after $24M exploit",
-      "take": "Ostium suffered $24M exploit before resuming operations July 23",
+      "headline": "OpenAI model hacks Hugging Face in cybersecurity test, raising valuation concerns",
+      "take": "OpenAI model hacks Hugging Face in cybersecurity test demonstration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ostium-to-resume-operations-july-23-after-24m-exploit/"
-    },
-    {
-      "headline": "Crypto criminals increasingly target individuals as violence rises globally",
-      "take": "Crypto criminals increasingly targeting individuals as global violence rises",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-criminals-target-individuals-violence-rises/"
-    },
-    {
-      "headline": "SEC\u2019s Peirce says crypto vaults and onchain lending may fall under securities laws",
-      "take": "SEC's Peirce signals crypto vaults and onchain lending may face securities regulation",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/openai-model-hacks-hugging-face-in-cybersecurity-test-raising-valuation-concerns/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate Republicans unveil updated Clarity Act with new crypto ethics rules",
-      "take": "Senate Republicans introduce updated Clarity Act with new crypto ethics rules",
+      "headline": "Clarity Act faces setback as Republican draft crypto bill lacks bipartisan support",
+      "take": "CLARITY Act faces setback, Republican crypto bill lacks bipartisan support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/updated-clarity-act-crypto-ethics/"
+      "link": "https://cryptobriefing.com/clarity-act-faces-setback-as-republican-draft-crypto-bill-lacks-bipartisan/"
+    },
+    {
+      "headline": "Tether Benefited as Howard Lutnick, Bo Hines Shaped First US Crypto Law",
+      "take": "Tether benefited as Lutnick and Hines shaped first US crypto law",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/features/2026-howard-lutnick-bo-hines-trump-tether-crypto-law/"
+    },
+    {
+      "headline": "Crypto PAC pours $1M into Michigan Democratic primary race",
+      "take": "Crypto PAC pours $1M into Michigan Democratic primary race",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY\u2019s proposed ethics rules",
-      "take": "CLARITY Act bars US officials from issuing tokens until 2029",
+      "take": "US officials barred until 2029 from issuing tokens under CLARITY rules",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Clarity Act set for full Senate vote, advancing US crypto regulation",
-      "take": "Clarity Act advances toward full Senate vote on crypto regulation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-set-for-full-senate-vote-advancing-us-crypto-regulation/"
-    },
-    {
-      "headline": "SEC reaches settlement with Coinbase over records requests from Gensler era",
-      "take": "SEC settles records dispute with Coinbase from Gensler era disputes",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss"
     }
   ]
 }

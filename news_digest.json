@@ -1,96 +1,114 @@
 {
-  "generated": "2026-07-22T08:47:20.414063+00:00",
-  "ts": 1784710040,
+  "generated": "2026-07-22T11:21:42.772382+00:00",
+  "ts": 1784719302,
   "market": [
     {
-      "headline": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
-      "take": "Bitcoin holds near $66,300 as chips rally and yen weakens",
+      "headline": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+      "take": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low"
+      "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface"
     },
     {
-      "headline": "Solana sees $330M stablecoin inflow in 24 hours, led by Circle",
-      "take": "Solana receives $330M stablecoin inflow in 24 hours from Circle",
+      "headline": "Japan\u2019s yen crashes to 40-year low above 163 per dollar as $73B intervention fails to stop the bleeding",
+      "take": "Japan's yen crashes to 40-year low; $73B intervention fails to stem decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-sees-330m-stablecoin-inflow-in-24-hours-led-by-circle/"
+      "link": "https://cryptobriefing.com/japan-yen-40-year-low-crypto-impact-2/"
     },
     {
-      "headline": "Crypto market cap drops 13% to $2.1T in Q2 2026: CoinGecko",
-      "take": "Crypto market cap dropped 13% to $2.1T in Q2 2026",
+      "headline": "European Central Bank expected to hold rates amid hawkish hints",
+      "take": "European Central Bank expected to hold rates amid hawkish hints",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-cap-drops-13-to-21t-in-q2-2026-coingecko/"
+      "link": "https://cryptobriefing.com/ecb-hold-rates-hawkish-hints-july-2026/"
     },
     {
-      "headline": "Oil prices climb as Middle East supply risks resurface",
-      "take": "Oil prices climb as Middle East supply risks resurface",
+      "headline": "Investment funds boost net-long positions in European gas amid rising prices",
+      "take": "Investment funds boost net-long positions in European gas amid rising prices",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-climb-as-middle-east-supply-risks-resurface/"
+      "link": "https://cryptobriefing.com/european-gas-net-long-positions-surge/"
+    },
+    {
+      "headline": "Uranium holds at $85 as AI data centers boost demand and crypto projects eye tokenized trading",
+      "take": "Uranium holds at $85 as AI data centers boost demand for tokenized trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uranium-85-ai-data-centers-demand/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto industry spends $200M to push CLARITY Act through US Senate",
-      "take": "Crypto industry spent $200M lobbying for CLARITY Act in Senate",
+      "headline": "Payward expands xStocks tokenized equities to Hong Kong, UK, Europe, and South Korea",
+      "take": "Payward expands xStocks tokenized equities to Hong Kong, UK, Europe, South Korea",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-industry-spends-200m-to-push-clarity-act-through-us-senate/"
+      "link": "https://cryptobriefing.com/payward-xstocks-expansion-global-markets/"
     },
     {
-      "headline": "Solana tokenized equities hit $52M weekly lending record",
-      "take": "Solana tokenized equities hit $52M weekly lending record",
+      "headline": "Block launches Buzz, a Nostr-based rival to Slack and GitHub",
+      "take": "Block launches Buzz, a Nostr-based rival to Slack and GitHub for AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-tokenized-equities-hit-52m-weekly-lending-record/"
+      "link": "https://cryptobriefing.com/block-launches-buzz-nostr-workspace/"
     },
     {
-      "headline": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
-      "take": "Satsuma to unwind Bitcoin treasury and sell $43M in BTC",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc"
+      "headline": "Talos integrates institutional trading tools with Kalshi\u2019s event contracts and crypto perpetuals",
+      "take": "Talos integrates institutional trading tools with Kalshi event contracts and perpetuals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/talos-kalshi-institutional-trading-integration/"
+    },
+    {
+      "headline": "MEXC appoints Robert MacDonald as Chief Compliance Officer",
+      "take": "MEXC appoints Robert MacDonald as Chief Compliance Officer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mexc-appoints-robert-macdonald-compliance-officer/"
     }
   ],
   "security": [
     {
-      "headline": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
-      "take": "HTX rotates wallets to evade UK sanctions screening per TRM Labs",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss"
+      "headline": "SecondFi to shut down after $2.4 million ADA wallet theft",
+      "take": "SecondFi shuts down after $2.4 million ADA wallet theft reported",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft"
+    },
+    {
+      "headline": "OpenAI model escapes testing, hacks rival Hugging Face systems",
+      "take": "OpenAI model escapes testing, breaches Hugging Face systems raising sandbox concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-model-escapes-testing-hacks-rival-hugging-face-systems/"
+    },
+    {
+      "headline": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
+      "take": "Balance stablecoin collapses 99% after $1 million exploit drains bitcoin vaults",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults"
     },
     {
       "headline": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
-      "take": "US seeks forfeiture of $25M in crypto tied to fraud investigations",
+      "take": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "AI models escaped OpenAI\u2019s sandbox and hit Hugging Face. Crypto is where that gets dangerous",
-      "take": "AI models escaped OpenAI sandbox; crypto infrastructure at heightened risk",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous"
     }
   ],
   "policy": [
     {
-      "headline": "Trump agrees to crypto ethics rules in Clarity Act",
-      "take": "Trump agrees to crypto ethics rules within CLARITY Act framework",
+      "headline": "CLARITY Act gains momentum in Senate after Thune\u2019s optimistic remarks",
+      "take": "CLARITY Act gains momentum in Senate after Thune's optimistic remarks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-agrees-to-crypto-ethics-rules-in-clarity-act/"
+      "link": "https://cryptobriefing.com/clarity-act-gains-momentum-in-senate-after-thunes-optimistic-remarks/"
     },
     {
-      "headline": "Crypto lobby TDC sues Illinois to block 0% digital asset tax",
-      "take": "Crypto lobby sues Illinois to block zero percent digital asset tax",
+      "headline": "EU\u2019s 21st sanctions package against Russia takes aim at crypto platforms and nearly 90 banks",
+      "take": "EU's 21st sanctions package targets crypto platforms and nearly 90 banks over Russia",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-lobby-tdc-sues-illinois-to-block-0-digital-asset-tax/"
+      "link": "https://cryptobriefing.com/eu-sanctions-russia-crypto-platforms/"
+    },
+    {
+      "headline": "SEC agrees to $150Ksettlement with Coinbase over FOIA dispute: WSJ",
+      "take": "SEC settles $150K FOIA dispute with Coinbase over transparency disagreement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-coinbase-foia-settlement/"
     },
     {
       "headline": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
-      "take": "BIS warns USD stablecoins can evade capital controls effectively",
+      "take": "BIS warns USD stablecoins can evade capital controls, challenging market regulations",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
-      "take": "Pakistan launches crypto investigation unit for digital asset enforcement",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&utm_medium=rss"
     }
   ]
 }

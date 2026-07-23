@@ -1,96 +1,114 @@
 {
-  "generated": "2026-07-23T11:21:24.300617+00:00",
-  "ts": 1784805684,
+  "generated": "2026-07-23T14:36:08.090071+00:00",
+  "ts": 1784817368,
   "market": [
     {
-      "headline": "Live markets: Bitcoin trades above $65,000 as Alphabet's bigger AI bill props up the chip trade",
-      "take": "Bitcoin trades above $65,000 as chip sector gains from AI spending",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade"
+      "headline": "Bitcoin sees positive signals as 9,000 BTC exits Binance in largest single-day outflow since November",
+      "take": "Bitcoin sees positive signals as major BTC exodus from Binance continues",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-9000-btc-exits-binance/"
     },
     {
-      "headline": "CryptoQuant CEO Ki Young Ju says Bitcoin spot demand is weakening while futures stay positive",
-      "take": "Bitcoin spot demand weakening while futures maintain positive positioning",
+      "headline": "European Central Bank officials ready to raise interest rates in September",
+      "take": "ECB officials signal readiness to raise interest rates in September ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-spot-demand-weakens-futures-positive/"
+      "link": "https://cryptobriefing.com/ecb-interest-rate-hike-september-crypto/"
     },
     {
-      "headline": "Fasanara Capital holds $67M short position on ETH via Hyperliquid, and it\u2019s underwater",
-      "take": "Fasanara Capital's $67M ETH short via Hyperliquid underwater",
+      "headline": "BlackRock clients buy $38M in Bitcoin via iShares Bitcoin Trust",
+      "take": "BlackRock clients purchase thirty-eight million in Bitcoin via iShares Trust",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fasanara-capital-eth-short-hyperliquid/"
+      "link": "https://cryptobriefing.com/blackrock-clients-buy-38m-in-bitcoin-via-ishares-bitcoin-trust/"
     },
     {
-      "headline": "German bond yields hit highest level since 2011 as Middle East tensions reignite inflation fears",
-      "take": "German bond yields hit 2011 highs as Middle East tensions fuel inflation",
+      "headline": "Google reports negative $6B free cash flow in Q2 as AI spending doubles year-over-year",
+      "take": "Google reports negative free cash flow as AI spending accelerates sharply",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/german-bond-yields-highest-since-2011/"
+      "link": "https://cryptobriefing.com/google-negative-free-cash-flow-ai-capex/"
     },
     {
-      "headline": "Oil prices rise as Strait of Hormuz peace talks collapse",
-      "take": "Oil prices rise as Strait of Hormuz peace talks collapse",
+      "headline": "Investors bet on lower oil prices despite geopolitical tensions: NYT",
+      "take": "Investors bet on lower oil prices despite escalating regional geopolitical tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-rise-as-strait-of-hormuz-peace-talks-collapse/"
+      "link": "https://cryptobriefing.com/investors-bet-on-lower-oil-prices-despite-geopolitical-tensions-nyt/"
     }
   ],
   "business": [
     {
-      "headline": "Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea",
-      "take": "Circle partners with Kakao and Toss Bank on stablecoin payments in Korea",
+      "headline": "Fireblocks integrates OpenPayd as first UK payments provider on its network",
+      "take": "Fireblocks integrates OpenPayd as first UK payments provider on network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fireblocks-integrates-openpayd-uk-payments/"
+    },
+    {
+      "headline": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
+      "take": "Uniswap expands into tokenized assets with new permissioned trading pools",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools"
+    },
+    {
+      "headline": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+      "take": "LayerZero and Keeta enable tokenized bank deposits across multiple chains",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Coinbase and Bitget make history as first crypto sponsors of Esports World Cup amid Dota 2 match-fixing scandal",
-      "take": "Coinbase and Bitget sponsor Esports World Cup amid match-fixing concerns",
+      "headline": "Beefy automates concentrated liquidity for higher yields on Ethereum",
+      "take": "Beefy automates concentrated liquidity strategy for higher yields on Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-sponsors-ewc-dota2-match-fixing/"
+      "link": "https://cryptobriefing.com/beefy-clm-concentrated-liquidity-ethereum/"
     },
     {
-      "headline": "Tesla raises 2026 capex guidance to over $25B as it bets big on AI and robotics",
-      "take": "Tesla raises 2026 capex guidance above $25B for AI and robotics",
+      "headline": "Honeywell reports $6.6B gain from Quantinuum deconsolidation after quantum computing spinoff goes public",
+      "take": "Honeywell records six-point-six billion gain from Quantinuum quantum spinoff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tesla-2026-capex-25-billion-ai-robotics/"
-    },
-    {
-      "headline": "Amazon and Microsoft are cutting deals with small towns to keep their data center empire growing",
-      "take": "Amazon and Microsoft expand data center footprint in small towns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-microsoft-data-center-community-deals/"
-    },
-    {
-      "headline": "Nokia reports \u20ac2.8B in AI and cloud orders for Q2 as demand nearly triples",
-      "take": "Nokia reports \u20ac2.8B in AI and cloud orders as demand nearly triples",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nokia-ai-cloud-orders-q2-2026/"
+      "link": "https://cryptobriefing.com/honeywell-quantinuum-deconsolidation-gain/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
-      "take": "Crypto wrench attacks cost victims $124M in six months, up 12x",
+      "headline": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
+      "take": "Southeast Asian scam networks cost victims up to one hundred fourteen billion yearly",
       "source": "decrypt",
-      "link": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik"
+      "link": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un"
     },
     {
-      "headline": "AFX Trade drained of $24M, offers hacker 30% bounty to return stolen funds",
-      "take": "AFX Trade drained of $24M, hacker offered 30% bounty for return",
+      "headline": "SEC Commissioner Hester Peirce warns DeFi vaults face securities laws",
+      "take": "SEC Commissioner warns DeFi vaults face emerging securities law obligations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/afx-trade-24m-exploit-hacker-bounty/"
+      "link": "https://cryptobriefing.com/sec-hester-peirce-defi-vaults-securities-laws/"
+    },
+    {
+      "headline": "Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat",
+      "take": "BlackRock and allies form Bitcoin Security Consortium against quantum computing threat",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Kazakhstan approves strategic crypto mining rules tied to national reserve",
-      "take": "Kazakhstan approves strategic crypto mining rules tied to national reserve",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kazakhstan-strategic-crypto-mining-national-reserve?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Google fined \u20ac890M by EU for favoring its own apps, marking first major DMA enforcement action",
+      "take": "EU fines Google eight hundred ninety million under Digital Markets Act enforcement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-fined-eu-dma-enforcement/"
     },
     {
-      "headline": "ECB holds rates steady as Lagarde signals data-dependent path forward",
-      "take": "ECB holds rates steady as Lagarde signals data-dependent path forward",
+      "headline": "Goldman Sachs CEO backs Clarity Act amid stablecoin rule concerns",
+      "take": "Goldman Sachs CEO backs Clarity Act amid stablecoin regulatory concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-holds-rates-lagarde-crypto-implications/"
+      "link": "https://cryptobriefing.com/goldman-sachs-ceo-backs-clarity-act-amid-stablecoin-rule-concerns/"
+    },
+    {
+      "headline": "The KIDS Act is way worse than digital carding \u2014 it is a mass surveillance system",
+      "take": "KIDS Act proposed as mass surveillance system masquerading as digital protection",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system"
+    },
+    {
+      "headline": "Ukraine and US sign landmark drone cooperation deal, and defense tech tokens are watching closely",
+      "take": "Ukraine and US sign landmark drone cooperation deal amid defense tech interest",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ukraine-us-drone-cooperation-agreement/"
     }
   ]
 }

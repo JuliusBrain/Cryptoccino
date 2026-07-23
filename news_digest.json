@@ -1,32 +1,38 @@
 {
-  "generated": "2026-07-22T22:18:17.018448+00:00",
-  "ts": 1784758697,
+  "generated": "2026-07-23T03:48:36.403184+00:00",
+  "ts": 1784778516,
   "market": [
     {
-      "headline": "Oil prices surge 25% amid Strait of Hormuz supply disruptions",
-      "take": "Oil prices surge 25% amid Strait of Hormuz supply disruptions",
+      "headline": "US dollar surges past 100 index amid Iran tensions, oil price concerns",
+      "take": "US dollar surges past 100 index amid Iran tensions and oil concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-surge-25-amid-strait-of-hormuz-supply-disruptions/"
+      "link": "https://cryptobriefing.com/us-dollar-surges-past-100-index-amid-iran-tensions-oil-price-concerns/"
+    },
+    {
+      "headline": "Trump\u2019s Iran blockade announcement sends oil prices soaring, Dow falling",
+      "take": "Trump's Iran blockade announcement sends oil prices soaring, Dow falling",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trumps-iran-blockade-announcement-sends-oil-prices-soaring-dow-falling/"
     },
     {
       "headline": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
       "take": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss"
-    },
-    {
-      "headline": "Alphabet reports 63% rise in Google Cloud revenue, AI boosts growth",
-      "take": "Alphabet reports 63% rise in Google Cloud revenue, AI boosts growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphabet-reports-63-rise-in-google-cloud-revenue-ai-boosts-growth/"
     }
   ],
   "business": [
     {
-      "headline": "AMD to sell billions in AI servers to Anthropic, invest up to $5B in startup",
-      "take": "AMD to sell billions in AI servers to Anthropic, invest up to $5B",
+      "headline": "Circle signs MOU with Kakao Group to explore blockchain payments in Korea",
+      "take": "Circle signs MOU with Kakao Group to explore blockchain payments in Korea",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amd-to-sell-billions-in-ai-servers-to-anthropic-invest-up-to-5b-in-startup/"
+      "link": "https://cryptobriefing.com/circle-kakao-blockchain-payments-korea/"
+    },
+    {
+      "headline": "Alphabet\u2019s Google Cloud revenue surges 82% in Q2 2026, but market remains cautious",
+      "take": "Google Cloud revenue surges 82% in Q2 2026 amid AI demand spike",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alphabets-google-cloud-revenue-surges-82-in-q2-2026-but-market-remains-cautious/"
     },
     {
       "headline": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
@@ -35,50 +41,44 @@
       "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets"
     },
     {
-      "headline": "Hey Anon sets voting eligibility criteria for ANON token holders ahead of July 23 DAO vote",
-      "take": "Hey Anon sets voting eligibility criteria for ANON token DAO vote",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hey-anon-anon-token-voting-eligibility-criteria/"
-    },
-    {
       "headline": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
-      "take": "Kraken parent company expanding to offer global market stocks",
+      "take": "Kraken parent company preparing to offer stocks from global markets",
       "source": "decrypt",
       "link": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI model hacks Hugging Face in cybersecurity test, raising valuation concerns",
-      "take": "OpenAI model hacks Hugging Face in cybersecurity test demonstration",
+      "headline": "Arbitrum bridge not hacked as $24M exploit drains Ostium DEX through oracle manipulation",
+      "take": "Arbitrum DEX loses $24M through oracle manipulation, bridge uncompromised",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-model-hacks-hugging-face-in-cybersecurity-test-raising-valuation-concerns/"
+      "link": "https://cryptobriefing.com/arbitrum-bridge-not-hacked-ostium-exploit/"
+    },
+    {
+      "headline": "US freezes $130M crypto wallet linked to Iran\u2019s Revolutionary Guard",
+      "take": "US freezes $130M crypto wallet linked to Iran's Revolutionary Guard",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-freezes-130m-crypto-wallet-linked-to-irans-revolutionary-guard/"
     }
   ],
   "policy": [
     {
-      "headline": "Clarity Act faces setback as Republican draft crypto bill lacks bipartisan support",
-      "take": "CLARITY Act faces setback, Republican crypto bill lacks bipartisan support",
+      "headline": "SEC settles Coinbase suit over \u2018text messages that disappeared\u2019",
+      "take": "SEC settles Coinbase suit over disappearing text messages",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Senate to vote on Clarity Act next week without Democrat deal",
+      "take": "Senate to vote on Clarity Act next week without Democrat deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-faces-setback-as-republican-draft-crypto-bill-lacks-bipartisan/"
+      "link": "https://cryptobriefing.com/senate-to-vote-on-clarity-act-next-week-without-democrat-deal/"
     },
     {
-      "headline": "Tether Benefited as Howard Lutnick, Bo Hines Shaped First US Crypto Law",
-      "take": "Tether benefited as Lutnick and Hines shaped first US crypto law",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/features/2026-howard-lutnick-bo-hines-trump-tether-crypto-law/"
-    },
-    {
-      "headline": "Crypto PAC pours $1M into Michigan Democratic primary race",
-      "take": "Crypto PAC pours $1M into Michigan Democratic primary race",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY\u2019s proposed ethics rules",
-      "take": "US officials barred until 2029 from issuing tokens under CLARITY rules",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "take": "Key Democratic lawmakers say crypto Clarity Act falls short on ethics",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues"
     }
   ]
 }

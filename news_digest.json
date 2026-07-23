@@ -1,114 +1,96 @@
 {
-  "generated": "2026-07-23T14:36:08.090071+00:00",
-  "ts": 1784817368,
+  "generated": "2026-07-23T16:49:23.834327+00:00",
+  "ts": 1784825363,
   "market": [
     {
-      "headline": "Bitcoin sees positive signals as 9,000 BTC exits Binance in largest single-day outflow since November",
-      "take": "Bitcoin sees positive signals as major BTC exodus from Binance continues",
+      "headline": "Fidelity buys $21M worth of Bitcoin, continuing its institutional accumulation strategy",
+      "take": "Fidelity purchases $21M Bitcoin, reinforcing institutional adoption trend",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-9000-btc-exits-binance/"
+      "link": "https://cryptobriefing.com/fidelity-buys-21m-bitcoin/"
     },
     {
-      "headline": "European Central Bank officials ready to raise interest rates in September",
-      "take": "ECB officials signal readiness to raise interest rates in September ahead",
+      "headline": "River reports corporations bought 115,000 Bitcoin worth $7.4B in Q2",
+      "take": "Corporations bought 115,000 Bitcoin worth $7.4B in Q2",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-interest-rate-hike-september-crypto/"
+      "link": "https://cryptobriefing.com/river-corporations-bought-115000-bitcoin-q2/"
     },
     {
-      "headline": "BlackRock clients buy $38M in Bitcoin via iShares Bitcoin Trust",
-      "take": "BlackRock clients purchase thirty-eight million in Bitcoin via iShares Trust",
+      "headline": "Broadridge\u2019s tokenized repo platform now moves $9 trillion monthly, making it Wall Street\u2019s quiet blockchain giant",
+      "take": "Broadridge tokenized repo platform moves $9 trillion monthly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-buy-38m-in-bitcoin-via-ishares-bitcoin-trust/"
+      "link": "https://cryptobriefing.com/broadridge-tokenized-repo-9-trillion-monthly/"
     },
     {
-      "headline": "Google reports negative $6B free cash flow in Q2 as AI spending doubles year-over-year",
-      "take": "Google reports negative free cash flow as AI spending accelerates sharply",
+      "headline": "Gold overtakes US treasuries in central bank foreign exchange reserves, per Bloomberg",
+      "take": "Gold overtakes US treasuries in central bank reserves",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-negative-free-cash-flow-ai-capex/"
+      "link": "https://cryptobriefing.com/gold-overtakes-us-treasuries-in-central-bank-foreign-exchange-reserves-per/"
     },
     {
-      "headline": "Investors bet on lower oil prices despite geopolitical tensions: NYT",
-      "take": "Investors bet on lower oil prices despite escalating regional geopolitical tensions",
+      "headline": "Short-sighted stock market can no longer brush off war: \u2018It\u2019s Too hard to ignore $100 oil\u2019",
+      "take": "Oil prices rising as markets can no longer ignore geopolitical risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/investors-bet-on-lower-oil-prices-despite-geopolitical-tensions-nyt/"
+      "link": "https://cryptobriefing.com/short-sighted-stock-market-can-no-longer-brush-off-war-its-too-hard-to-ignore/"
     }
   ],
   "business": [
     {
-      "headline": "Fireblocks integrates OpenPayd as first UK payments provider on its network",
-      "take": "Fireblocks integrates OpenPayd as first UK payments provider on network",
+      "headline": "Franklin Templeton files for two Bitcoin DRIP ETFs that turn stock dividends into BTC",
+      "take": "Franklin Templeton files Bitcoin DRIP ETFs converting dividends to BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fireblocks-integrates-openpayd-uk-payments/"
+      "link": "https://cryptobriefing.com/franklin-templeton-bitcoin-drip-etfs/"
+    },
+    {
+      "headline": "Coinbase enables AI agents to pay businesses and execute crypto trades",
+      "take": "Coinbase enables AI agents to pay businesses and execute trades",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-enables-ai-agents-to-pay-businesses-and-execute-crypto-trades/"
+    },
+    {
+      "headline": "Sygnum brings Bitcoin, Ethereum, and Solana trading to Swiss bank BancaStato",
+      "take": "Sygnum brings Bitcoin, Ethereum, Solana trading to Swiss bank",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sygnum-brings-bitcoin-ethereum-and-solana-trading-to-swiss-bank-bancastato/"
     },
     {
       "headline": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-      "take": "Uniswap expands into tokenized assets with new permissioned trading pools",
+      "take": "Uniswap expands into tokenized assets with permissioned trading pools",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools"
     },
     {
-      "headline": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
-      "take": "LayerZero and Keeta enable tokenized bank deposits across multiple chains",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Beefy automates concentrated liquidity for higher yields on Ethereum",
-      "take": "Beefy automates concentrated liquidity strategy for higher yields on Ethereum",
+      "headline": "PoX-5 public testnet goes live with Bitcoin staking mechanism",
+      "take": "PoX-5 testnet launches Bitcoin staking mechanism",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/beefy-clm-concentrated-liquidity-ethereum/"
-    },
-    {
-      "headline": "Honeywell reports $6.6B gain from Quantinuum deconsolidation after quantum computing spinoff goes public",
-      "take": "Honeywell records six-point-six billion gain from Quantinuum quantum spinoff",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/honeywell-quantinuum-deconsolidation-gain/"
+      "link": "https://cryptobriefing.com/pox-5-testnet-bitcoin-staking-stacks/"
     }
   ],
   "security": [
     {
-      "headline": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
-      "take": "Southeast Asian scam networks cost victims up to one hundred fourteen billion yearly",
+      "headline": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
+      "take": "BlackRock, Coinbase, Strategy pledge $15M to quantum-proof Bitcoin",
       "source": "decrypt",
-      "link": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un"
-    },
-    {
-      "headline": "SEC Commissioner Hester Peirce warns DeFi vaults face securities laws",
-      "take": "SEC Commissioner warns DeFi vaults face emerging securities law obligations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-hester-peirce-defi-vaults-securities-laws/"
-    },
-    {
-      "headline": "Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat",
-      "take": "BlackRock and allies form Bitcoin Security Consortium against quantum computing threat",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat?utm_source=rss&utm_medium=rss"
+      "link": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin"
     }
   ],
   "policy": [
     {
-      "headline": "Google fined \u20ac890M by EU for favoring its own apps, marking first major DMA enforcement action",
-      "take": "EU fines Google eight hundred ninety million under Digital Markets Act enforcement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-fined-eu-dma-enforcement/"
-    },
-    {
-      "headline": "Goldman Sachs CEO backs Clarity Act amid stablecoin rule concerns",
-      "take": "Goldman Sachs CEO backs Clarity Act amid stablecoin regulatory concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-ceo-backs-clarity-act-amid-stablecoin-rule-concerns/"
-    },
-    {
-      "headline": "The KIDS Act is way worse than digital carding \u2014 it is a mass surveillance system",
-      "take": "KIDS Act proposed as mass surveillance system masquerading as digital protection",
+      "headline": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
+      "take": "Goldman Sachs CEO backs Clarity Act despite banking industry concerns",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system"
+      "link": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules"
     },
     {
-      "headline": "Ukraine and US sign landmark drone cooperation deal, and defense tech tokens are watching closely",
-      "take": "Ukraine and US sign landmark drone cooperation deal amid defense tech interest",
+      "headline": "HMRC sees hundreds settle amid ongoing crypto tax crackdown",
+      "take": "HMRC reports hundreds settle amid ongoing crypto tax crackdown",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ukraine-us-drone-cooperation-agreement/"
+      "link": "https://cryptobriefing.com/hmrc-crypto-tax-crackdown-settlements/"
+    },
+    {
+      "headline": "The SEC settles with Coinbase over its missing Gary Gensler texts",
+      "take": "SEC settles with Coinbase over missing Gary Gensler texts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees"
     }
   ]
 }

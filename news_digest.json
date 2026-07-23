@@ -1,84 +1,102 @@
 {
-  "generated": "2026-07-23T03:48:36.403184+00:00",
-  "ts": 1784778516,
+  "generated": "2026-07-23T08:46:40.892535+00:00",
+  "ts": 1784796400,
   "market": [
     {
-      "headline": "US dollar surges past 100 index amid Iran tensions, oil price concerns",
-      "take": "US dollar surges past 100 index amid Iran tensions and oil concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-surges-past-100-index-amid-iran-tensions-oil-price-concerns/"
-    },
-    {
-      "headline": "Trump\u2019s Iran blockade announcement sends oil prices soaring, Dow falling",
-      "take": "Trump's Iran blockade announcement sends oil prices soaring, Dow falling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trumps-iran-blockade-announcement-sends-oil-prices-soaring-dow-falling/"
-    },
-    {
-      "headline": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
-      "take": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "headline": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
+      "take": "Bitcoin declines as oil prices rise and rate-cut odds diminish",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss"
+      "link": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38"
+    },
+    {
+      "headline": "Oil prices rise for fifth day amid Middle East tensions, chokepoint threats",
+      "take": "Oil prices climb fifth day on Middle East tensions, supply route threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-prices-rise-for-fifth-day-amid-middle-east-tensions-chokepoint-threats/"
+    },
+    {
+      "headline": "Fed Chair Warsh signals no immediate rate cuts amid inflation concerns",
+      "take": "Fed signals no immediate rate cuts amid persistent inflation concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-signals-no-immediate-rate-cuts-amid-inflation-concerns/"
+    },
+    {
+      "headline": "Tokenized equity on Solana hits record $500M milestone",
+      "take": "Tokenized equity on Solana reaches record five-hundred-million-dollar milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-equity-on-solana-hits-record-500m-milestone/"
+    },
+    {
+      "headline": "Bank of America\u2019s Bull & Bear Indicator signals extreme investor optimism",
+      "take": "Bank of America indicator shows extreme investor optimism levels present",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-americas-bull-bear-indicator-signals-extreme-investor-optimism/"
     }
   ],
   "business": [
     {
-      "headline": "Circle signs MOU with Kakao Group to explore blockchain payments in Korea",
-      "take": "Circle signs MOU with Kakao Group to explore blockchain payments in Korea",
+      "headline": "BitMEX, the exchange that invented perps, is shutting down",
+      "take": "BitMEX perpetual futures exchange shutting down after eleven years operating",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23"
+    },
+    {
+      "headline": "South Korea\u2019s Mirae Asset completes acquisition of Korbit crypto exchange",
+      "take": "Mirae Asset completes acquisition of South Korea's Korbit crypto exchange",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Smarter Web Company sells 177.89 BTC to repay $12M, holds 2,700 BTC",
+      "take": "Smarter Web Company sells Bitcoin holdings to repay debt obligations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-kakao-blockchain-payments-korea/"
+      "link": "https://cryptobriefing.com/smarter-web-company-sells-17789-btc-to-repay-12m-holds-2700-btc/"
     },
     {
-      "headline": "Alphabet\u2019s Google Cloud revenue surges 82% in Q2 2026, but market remains cautious",
-      "take": "Google Cloud revenue surges 82% in Q2 2026 amid AI demand spike",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphabets-google-cloud-revenue-surges-82-in-q2-2026-but-market-remains-cautious/"
-    },
-    {
-      "headline": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-      "take": "Coinbase expanding into Canadian stocks, crypto, and prediction markets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets"
-    },
-    {
-      "headline": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
-      "take": "Kraken parent company preparing to offer stocks from global markets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities"
+      "headline": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
+      "take": "BNY Mellon plans to eliminate weekend settlement lag for US Treasuries",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries"
     }
   ],
   "security": [
     {
-      "headline": "Arbitrum bridge not hacked as $24M exploit drains Ostium DEX through oracle manipulation",
-      "take": "Arbitrum DEX loses $24M through oracle manipulation, bridge uncompromised",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arbitrum-bridge-not-hacked-ostium-exploit/"
+      "headline": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
+      "take": "Bitcoin and Ethereum protocols lose thirty-five million in multiple attacks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart"
     },
     {
-      "headline": "US freezes $130M crypto wallet linked to Iran\u2019s Revolutionary Guard",
-      "take": "US freezes $130M crypto wallet linked to Iran's Revolutionary Guard",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-freezes-130m-crypto-wallet-linked-to-irans-revolutionary-guard/"
+      "headline": "New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid",
+      "take": "Verus-Ethereum bridge vulnerability drained seven-point-five million dollars again",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+      "take": "Arbitrum-based AFX Trade loses twenty-four million after bridge key compromise",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised"
     }
   ],
   "policy": [
     {
-      "headline": "SEC settles Coinbase suit over \u2018text messages that disappeared\u2019",
-      "take": "SEC settles Coinbase suit over disappearing text messages",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Senate to vote on Clarity Act next week without Democrat deal",
-      "take": "Senate to vote on Clarity Act next week without Democrat deal",
+      "headline": "Clarity Act\u2019s 2026 prospects dim as Senate stalls, Polymarket odds drop",
+      "take": "Clarity Act regulatory prospects dim as Senate stalls legislative negotiations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-to-vote-on-clarity-act-next-week-without-democrat-deal/"
+      "link": "https://cryptobriefing.com/clarity-acts-2026-prospects-dim-as-senate-stalls-polymarket-odds-drop/"
     },
     {
-      "headline": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
-      "take": "Key Democratic lawmakers say crypto Clarity Act falls short on ethics",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues"
+      "headline": "EU targets Google with potential fines under Digital Markets Act: Politico Europe",
+      "take": "EU pursues potential fines against Google under Digital Markets Act",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-targets-google-with-potential-fines-under-digital-markets-act-politico-europe/"
+    },
+    {
+      "headline": "EU freezes Russian oil price at $44.10 per barrel for 12 months",
+      "take": "EU price caps Russian oil at forty-four dollars per barrel",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-freezes-russian-oil-price-at-4410-per-barrel-for-12-months/"
     }
   ]
 }

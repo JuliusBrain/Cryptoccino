@@ -1,108 +1,90 @@
 {
-  "generated": "2026-07-23T19:48:53.076870+00:00",
-  "ts": 1784836133,
+  "generated": "2026-07-23T22:17:27.063007+00:00",
+  "ts": 1784845047,
   "market": [
     {
-      "headline": "Bitcoin dominance reclaims 68% as market prepares for a rally",
-      "take": "Bitcoin dominance reclaims 68% as market prepares for rally",
+      "headline": "Strike on Saudi tanker in Red Sea sends oil above $100 a barrel",
+      "take": "Red Sea tanker strike pushes oil above $100 per barrel amid tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-dominance-68-percent-market-rally/"
-    },
-    {
-      "headline": "Solana sees $53M in tokenized equities deposited in lending protocols, hitting new all-time high",
-      "take": "Solana tokenized equities hit new all-time high at $53M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-tokenized-equities-lending-protocols/"
-    },
-    {
-      "headline": "Dollar gains as Middle East tensions push oil above $100 per barrel",
-      "take": "Dollar gains as Middle East tensions push oil above $100",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-gains-as-middle-east-tensions-push-oil-above-100-per-barrel/"
-    },
-    {
-      "headline": "Stablecoin inflows remain weak as redemptions outpace issuance",
-      "take": "Stablecoin inflows remain weak as redemptions outpace issuance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-inflows-weak-redemptions-outpace-issuance/"
+      "link": "https://cryptobriefing.com/strike-on-saudi-tanker-in-red-sea-sends-oil-above-100-a-barrel/"
     },
     {
       "headline": "Bitcoin May Have Already Bottomed\u2014If the Fed Helps, Says Grayscale",
-      "take": "Bitcoin may have bottomed if Federal Reserve provides support",
+      "take": "Bitcoin may have bottomed if Federal Reserve provides supportive conditions",
       "source": "decrypt",
       "link": "https://decrypt.co/374156/bitcoin-price-already-bottomed-fed-helps-grayscale"
+    },
+    {
+      "headline": "OPEC+ plans output increase despite production shortfalls, market cautious",
+      "take": "OPEC+ plans output increase despite production shortfalls, market remains cautious",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/opec-plans-output-increase-despite-production-shortfalls-market-cautious/"
+    },
+    {
+      "headline": "Citadel Securities\u2019 $400 Million Deal Marks Digital-Asset Era",
+      "take": "Citadel Securities completes $400 million digital asset deal marking sector shift",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/citadel-securities-400-million-deal-marks-digital-asset-era"
+    },
+    {
+      "headline": "Alphabet\u2019s $6B cash burn sparks Big Tech concern amid AI investment surge",
+      "take": "Alphabet's $6 billion cash burn fuels Big Tech AI investment concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alphabets-6b-cash-burn-sparks-big-tech-concern-amid-ai-investment-surge/"
     }
   ],
   "business": [
     {
-      "headline": "Mubadala Capital launches $75M tokenized fund on Solana via Kaio",
-      "take": "Mubadala Capital launches $75M tokenized fund on Solana",
+      "headline": "Securitize lands on CNBC and Statista\u2019s top fintech list weeks after going public",
+      "take": "Securitize lands on CNBC and Statista fintech lists after public debut",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mubadala-capital-75m-tokenized-fund-solana-kaio/"
+      "link": "https://cryptobriefing.com/securitize-cnbc-statista-top-fintech/"
     },
     {
-      "headline": "BitMEX shuts down as analysts warn of accelerating crypto consolidation",
-      "take": "BitMEX shuts down amid accelerating crypto consolidation warnings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmex-shuts-down-crypto-consolidation/"
-    },
-    {
-      "headline": "Coinbase's corporate customers can now accept payments from AI agents",
-      "take": "Coinbase corporate customers can accept payments from AI agents",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers"
-    },
-    {
-      "headline": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans\u2014And It's Working",
-      "take": "Brazilian farmers tokenizing cows to secure farm loans successfully",
+      "headline": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC",
+      "take": "Nasdaq-listed Zhibao plans $220 million stock sale to build Bitcoin treasury",
       "source": "decrypt",
-      "link": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans"
+      "link": "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale"
     },
     {
-      "headline": "Mercor\u2019s $2B revenue run rate reveals AI\u2019s biggest bottleneck, and why crypto wants in",
-      "take": "Mercor's $2B revenue run rate reveals AI's bottleneck opportunity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mercor-revenue-ai-labs-crypto-implications/"
+      "headline": "Coinbase (COIN) Pulls Back on Social, Refocuses Base on Trading",
+      "take": "Coinbase pulls back on social features, refocuses Base platform on trading",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/coinbase-coin-pulls-back-on-social-refocuses-base-on-trading"
+    },
+    {
+      "headline": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
+      "take": "Goldman Sachs CEO breaks with Wall Street to back Crypto Clarity Act",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act"
     }
   ],
   "security": [
     {
       "headline": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
-      "take": "Robinhood CEO's X account hacked to promote fake Vladhood token",
+      "take": "Robinhood CEO's X account hacked to promote fake 'Vladhood' token scam",
       "source": "decrypt",
       "link": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token"
-    },
-    {
-      "headline": "CryptoPunks holder recovers lost NFT after Yuga Labs pulls off white-hat rescue from Flooring Protocol bug",
-      "take": "CryptoPunks holder recovers NFT after Yuga Labs white-hat rescue",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptopunks-nft-recovery-flooring-protocol-bug/"
-    },
-    {
-      "headline": "Fireblocks showcases defenses against nation-state attackers at Black Hat events",
-      "take": "Fireblocks showcases defenses against nation-state attackers at Black Hat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fireblocks-nation-state-defense-black-hat/"
     }
   ],
   "policy": [
     {
-      "headline": "Clarity Act could redefine crypto regulation, impact Ethereum, Solana platforms",
-      "take": "Clarity Act could redefine crypto regulation impacting Ethereum Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-could-redefine-crypto-regulation-impact-ethereum-solana-platforms/"
+      "headline": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+      "take": "Clarity Act expected to miss window before Congress summer break leadership says",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says"
     },
     {
-      "headline": "US House passes NDAA with enhanced US-Israel defense cooperation",
-      "take": "US House passes NDAA with enhanced US-Israel defense cooperation",
+      "headline": "Grayscale backs CLARITY Act as crypto\u2019s biggest regulatory bill inches toward Senate vote",
+      "take": "Grayscale backs Clarity Act as crypto's biggest regulatory bill advances toward Senate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-house-passes-ndaa-with-enhanced-us-israel-defense-cooperation/"
+      "link": "https://cryptobriefing.com/grayscale-supports-clarity-act-senate/"
     },
     {
-      "headline": "Here\u2019s why the CLARITY Act\u2019s ethics deal may be so hard to reach",
-      "take": "CLARITY Act's ethics deal proves difficult to negotiate and reach",
+      "headline": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "take": "Gemini sent $10 million Bitcoin to Trump PAC after CFTC joint motion",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/magazine/heres-why-the-clarity-acts-ethics-deal-may-be-so-hard-to-reach?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

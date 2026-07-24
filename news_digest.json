@@ -1,77 +1,108 @@
 {
-  "generated": "2026-07-24T08:45:04.241364+00:00",
-  "ts": 1784882704,
+  "generated": "2026-07-24T11:14:19.751174+00:00",
+  "ts": 1784891659,
   "market": [
     {
-      "headline": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-      "take": "Bitcoin holds near $65,000 as AI selloff leaves crypto largely untouched",
+      "headline": "Bloomberg Global Treasury Index yield surges to highest level since 2008",
+      "take": "Treasury yields hit highest level since 2008 as macro conditions shift",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bloomberg-global-treasury-index-yield-2008-high/"
+    },
+    {
+      "headline": "Brent crude falls 4% to $96.89 amid risk premium unwinding",
+      "take": "Brent crude falls 4% to $96.89 as risk premium unwinds from geopolitics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brent-crude-falls-4-to-9689-amid-risk-premium-unwinding/"
+    },
+    {
+      "headline": "Euro zone business activity returns to growth in July as PMI beats expectations",
+      "take": "Eurozone business activity returns to growth in July, PMI beats expectations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eurozone-pmi-returns-growth-july/"
+    },
+    {
+      "headline": "Chinese retail sales decelerate sharply as July begins",
+      "take": "Chinese retail sales decelerate sharply as economic growth pressures mount",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chinese-retail-sales-decelerate-july/"
+    },
+    {
+      "headline": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
+      "take": "Dogecoin and ether lead pullback as investors process tech earnings results",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched"
-    },
-    {
-      "headline": "Central banks\u2019 gold holdings hit record high, surpass US Treasuries",
-      "take": "Central banks' gold holdings hit record high, surpass US Treasuries",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-banks-gold-holdings-hit-record-high-surpass-us-treasuries/"
-    },
-    {
-      "headline": "Asian stocks fall, bonds hit as oil surpasses $100, stoking rate fears",
-      "take": "Oil surpasses $100 amid geopolitical tensions, stoking rate increase fears",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asian-stocks-fall-bonds-hit-as-oil-surpasses-100-stoking-rate-fears/"
-    },
-    {
-      "headline": "Russians withdraw 2.4T rubles in cash, sparking liquidity concerns",
-      "take": "Russians withdraw 2.4 trillion rubles in cash, raising liquidity concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russians-withdraw-24t-rubles-in-cash-sparking-liquidity-concerns/"
-    },
-    {
-      "headline": "Businesses add 115K Bitcoin in Q2 as individuals sell 78K: River",
-      "take": "Businesses add 115K Bitcoin in Q2 while individuals sell 78K",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/businesses-add-115k-bitcoin-in-q2-as-individuals-sell-78k-river/"
+      "link": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings"
     }
   ],
   "business": [
     {
-      "headline": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-      "take": "Mirae plans to transform crypto exchange Korbit into new Korean product",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform"
+      "headline": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
+      "take": "Poolin, former largest bitcoin mining pool, files Chapter 11 bankruptcy protection",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy in US",
-      "take": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy in US",
+      "headline": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
+      "take": "Bitcoin treasury companies sell holdings, repay debt, pivot toward AI investments",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
+    },
+    {
+      "headline": "Samsung Wallet to support stablecoins, including USDC",
+      "take": "Samsung Wallet adds stablecoin support including USDC for broader adoption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy-in-us/"
+      "link": "https://cryptobriefing.com/samsung-wallet-stablecoin-usdc-support/"
     },
     {
-      "headline": "Ripple\u2019s RLUSD gets two boosts as transfer volume drops 25%",
-      "take": "Ripple's RLUSD stablecoin gets two boosts as transfer volume drops",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25"
+      "headline": "BPI plans stablecoin payments pilot to enhance remittances for Filipino workers",
+      "take": "BPI plans stablecoin pilot for remittances to improve Filipino worker transfers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bpi-stablecoin-remittances-pilot/"
+    },
+    {
+      "headline": "Brazil registers first tokenized cow-backed loan on B3 exchange for $19,600",
+      "take": "Brazil registers first tokenized cow-backed loan on B3 exchange at $19,600",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brazil-tokenized-cows-loan-collateral/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
+      "take": "BitMEX faces class-action suit alleging theft and insider trading before shutdown",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down"
+    },
+    {
+      "headline": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
+      "take": "Polymarket account under Farage backer's name received $9M from unknown sources",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft"
+    },
+    {
+      "headline": "EU finds TikTok violated privacy rules for minors, faces potential fine under Digital Services Act",
+      "take": "EU finds TikTok violated minor privacy rules, faces potential Digital Services Act fine",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-tiktok-privacy-minors-fine/"
+    }
+  ],
   "policy": [
     {
       "headline": "EU widens Belarus ownership ban to all crypto service providers",
-      "take": "EU widens Belarus ownership ban to all crypto service providers",
+      "take": "EU widens Belarus ownership ban to all crypto service providers as enforcement tightens",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
-      "take": "Gemini sent $10M Bitcoin to Trump PAC after joint CFTC motion",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "India orders takedown of Jack Dorsey\u2019s bitcoin-linked messaging app Bitchat",
+      "take": "India orders takedown of Jack Dorsey's bitcoin-linked messaging app Bitchat",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-takedown-dorsey-bitchat-app/"
     },
     {
-      "headline": "Dem senator calls GOP\u2019s CLARITY ethics proposal a \u2018piece of s---\u2019: Politico",
-      "take": "Democratic senator criticizes GOP's CLARITY crypto ethics proposal harshly",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Senator Gallego slams Trump-backed CLARITY Act as \u201cnot a serious effort\u201d",
+      "take": "Senator Gallego criticizes Trump-backed CLARITY Act as insufficient crypto regulation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senator-gallego-slams-trump-backed-clarity-act-as-not-a-serious-effort/"
     }
   ]
 }

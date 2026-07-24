@@ -1,108 +1,120 @@
 {
-  "generated": "2026-07-24T11:14:19.751174+00:00",
-  "ts": 1784891659,
+  "generated": "2026-07-24T14:16:12.933812+00:00",
+  "ts": 1784902572,
   "market": [
     {
-      "headline": "Bloomberg Global Treasury Index yield surges to highest level since 2008",
-      "take": "Treasury yields hit highest level since 2008 as macro conditions shift",
+      "headline": "Bitcoin options put/call open interest ratio falls to 0.52, signaling growing bullish conviction",
+      "take": "Bitcoin options show growing bullish conviction as put/call ratio falls",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bloomberg-global-treasury-index-yield-2008-high/"
+      "link": "https://cryptobriefing.com/bitcoin-options-put-call-ratio-falls/"
     },
     {
-      "headline": "Brent crude falls 4% to $96.89 amid risk premium unwinding",
-      "take": "Brent crude falls 4% to $96.89 as risk premium unwinds from geopolitics",
+      "headline": "US equity futures steady as Big Tech selloff eases and Brent crude slips below $100",
+      "take": "Equity futures steady as Big Tech selloff eases and oil slips",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-falls-4-to-9689-amid-risk-premium-unwinding/"
+      "link": "https://cryptobriefing.com/us-equity-futures-steady-big-tech-brent-crude/"
     },
     {
-      "headline": "Euro zone business activity returns to growth in July as PMI beats expectations",
-      "take": "Eurozone business activity returns to growth in July, PMI beats expectations",
+      "headline": "10-year Treasury yield under Trump, highest of second term",
+      "take": "Ten-year Treasury yield hits highest level of Trump's second term",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eurozone-pmi-returns-growth-july/"
+      "link": "https://cryptobriefing.com/10-year-treasury-yield-under-trump-highest-of-second-term/"
     },
     {
-      "headline": "Chinese retail sales decelerate sharply as July begins",
-      "take": "Chinese retail sales decelerate sharply as economic growth pressures mount",
+      "headline": "US S&P Composite PMI flash rises to 53.6, beating forecasts and hitting an 8-month high",
+      "take": "US PMI flash at eight-month high, economic resilience outpaces recession fears",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinese-retail-sales-decelerate-july/"
+      "link": "https://cryptobriefing.com/us-sp-composite-pmi-july-2026-53-6/"
     },
     {
-      "headline": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
-      "take": "Dogecoin and ether lead pullback as investors process tech earnings results",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings"
+      "headline": "Iran peace talks collapse triggers oil price surge, US economic concerns",
+      "take": "Iran peace talks collapse triggers oil surge amid US economic concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-peace-talks-collapse-triggers-oil-price-surge-us-economic-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
-      "take": "Poolin, former largest bitcoin mining pool, files Chapter 11 bankruptcy protection",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss"
+      "headline": "Coinbase adds USDC-BRL support for Brazilian users, deepening its Latin American stablecoin push",
+      "take": "Coinbase expands Latin America reach with USDC-BRL support for Brazil",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-usdc-brl-brazil-support/"
     },
     {
-      "headline": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
-      "take": "Bitcoin treasury companies sell holdings, repay debt, pivot toward AI investments",
+      "headline": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+      "take": "Brazilian farmers tokenize dairy cows to access loans outside bank limits",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
+      "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits"
     },
     {
-      "headline": "Samsung Wallet to support stablecoins, including USDC",
-      "take": "Samsung Wallet adds stablecoin support including USDC for broader adoption",
+      "headline": "Robinhood Chain-based launchpad Memecoin.fun raises $3.5 million",
+      "take": "Robinhood's memecoin launchpad Memecoin.fun raises $3.5 million funding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-wallet-stablecoin-usdc-support/"
+      "link": "https://cryptobriefing.com/robinhood-chain-based-launchpad-memecoin-fun-raises-3-5-million/"
     },
     {
-      "headline": "BPI plans stablecoin payments pilot to enhance remittances for Filipino workers",
-      "take": "BPI plans stablecoin pilot for remittances to improve Filipino worker transfers",
+      "headline": "Metaplanet\u2019s $13M acquisition and Japan\u2019s Bitcoin moment, explained",
+      "take": "Metaplanet acquires $13M in Bitcoin, signals Japan's institutional adoption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bpi-stablecoin-remittances-pilot/"
+      "link": "https://cryptobriefing.com/metaplanet-acquisition-japan-bitcoin-moment/"
     },
     {
-      "headline": "Brazil registers first tokenized cow-backed loan on B3 exchange for $19,600",
-      "take": "Brazil registers first tokenized cow-backed loan on B3 exchange at $19,600",
+      "headline": "BlackRock markets $12B in bonds to fund Meta\u2019s data center project",
+      "take": "BlackRock issues $12B bonds to fund Meta's data center expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-tokenized-cows-loan-collateral/"
+      "link": "https://cryptobriefing.com/blackrock-bonds-meta-data-center/"
     }
   ],
   "security": [
     {
-      "headline": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
-      "take": "BitMEX faces class-action suit alleging theft and insider trading before shutdown",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down"
+      "headline": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged \u2018Insider Trading Desk\u2019 as exchange winds down",
+      "take": "Arthur Hayes and BitMEX co-founders face fraud claims over insider trading",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
-      "take": "Polymarket account under Farage backer's name received $9M from unknown sources",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft"
-    },
-    {
-      "headline": "EU finds TikTok violated privacy rules for minors, faces potential fine under Digital Services Act",
-      "take": "EU finds TikTok violated minor privacy rules, faces potential Digital Services Act fine",
+      "headline": "Thailand SEC files criminal complaint against Bitkub over false disclosures tied to 2021 hack",
+      "take": "Thailand SEC files criminal complaint against Bitkub over false disclosures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-tiktok-privacy-minors-fine/"
+      "link": "https://cryptobriefing.com/thailand-sec-criminal-complaint-bitkub-false-disclosures/"
+    },
+    {
+      "headline": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
+      "take": "Odos Protocol shuts down, users have until July 30 to withdraw",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "EU widens Belarus ownership ban to all crypto service providers",
-      "take": "EU widens Belarus ownership ban to all crypto service providers as enforcement tightens",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+      "take": "EU hits Russia with twenty-first sanctions targeting $120B crypto network",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network"
     },
     {
-      "headline": "India orders takedown of Jack Dorsey\u2019s bitcoin-linked messaging app Bitchat",
-      "take": "India orders takedown of Jack Dorsey's bitcoin-linked messaging app Bitchat",
+      "headline": "Galaxy Research cuts Clarity Act 2026 odds amid Senate delays",
+      "take": "Galaxy Research cuts Clarity Act 2026 odds amid Senate delays",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-takedown-dorsey-bitchat-app/"
+      "link": "https://cryptobriefing.com/galaxy-research-cuts-clarity-act-2026-odds-amid-senate-delays/"
     },
     {
-      "headline": "Senator Gallego slams Trump-backed CLARITY Act as \u201cnot a serious effort\u201d",
-      "take": "Senator Gallego criticizes Trump-backed CLARITY Act as insufficient crypto regulation",
+      "headline": "ECB holds rates steady, advances digital euro rulebook as crypto markets watch",
+      "take": "ECB holds rates steady, advances digital euro rulebook framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senator-gallego-slams-trump-backed-clarity-act-as-not-a-serious-effort/"
+      "link": "https://cryptobriefing.com/ecb-holds-rates-digital-euro-rulebook/"
+    },
+    {
+      "headline": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
+      "take": "India orders GitHub to remove Jack Dorsey's Bitchat amid protests",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests"
+    },
+    {
+      "headline": "Trump turns to 1974 Trade Act to salvage tariff agenda after Supreme Court defeat",
+      "take": "Trump invokes 1974 Trade Act to salvage tariff agenda after court loss",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-tariff-legal-battle-crypto-impact/"
     }
   ]
 }

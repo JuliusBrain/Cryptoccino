@@ -1,84 +1,77 @@
 {
-  "generated": "2026-07-24T03:47:36.914382+00:00",
-  "ts": 1784864856,
+  "generated": "2026-07-24T08:45:04.241364+00:00",
+  "ts": 1784882704,
   "market": [
     {
-      "headline": "Brent crude hits $100 as Trump reinstates tariffs amid trade tensions",
-      "take": "Brent crude hits $100 as Trump reinstates tariffs amid trade tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-hits-100-as-trump-reinstates-tariffs-amid-trade-tensions/"
+      "headline": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
+      "take": "Bitcoin holds near $65,000 as AI selloff leaves crypto largely untouched",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched"
     },
     {
-      "headline": "Fed may hike rates twice in 2026, 36% chance per Polymarket",
-      "take": "Fed may hike rates twice in 2026, 36% chance per Polymarket",
+      "headline": "Central banks\u2019 gold holdings hit record high, surpass US Treasuries",
+      "take": "Central banks' gold holdings hit record high, surpass US Treasuries",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-may-hike-rates-twice-in-2026-36-chance-per-polymarket/"
+      "link": "https://cryptobriefing.com/central-banks-gold-holdings-hit-record-high-surpass-us-treasuries/"
     },
     {
-      "headline": "Bitcoin May Have Already Bottomed\u2014If the Fed Helps, Says Grayscale",
-      "take": "Bitcoin may have already bottomed if the Fed provides support",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374156/bitcoin-price-already-bottomed-fed-helps-grayscale"
+      "headline": "Asian stocks fall, bonds hit as oil surpasses $100, stoking rate fears",
+      "take": "Oil surpasses $100 amid geopolitical tensions, stoking rate increase fears",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/asian-stocks-fall-bonds-hit-as-oil-surpasses-100-stoking-rate-fears/"
     },
     {
-      "headline": "Bond investors demand higher yields on BlackRock AI-linked financing deal",
-      "take": "Bond investors demand higher yields on BlackRock AI-linked financing deal",
+      "headline": "Russians withdraw 2.4T rubles in cash, sparking liquidity concerns",
+      "take": "Russians withdraw 2.4 trillion rubles in cash, raising liquidity concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bond-investors-demand-higher-yields-on-blackrock-ai-linked-financing-deal/"
+      "link": "https://cryptobriefing.com/russians-withdraw-24t-rubles-in-cash-sparking-liquidity-concerns/"
+    },
+    {
+      "headline": "Businesses add 115K Bitcoin in Q2 as individuals sell 78K: River",
+      "take": "Businesses add 115K Bitcoin in Q2 while individuals sell 78K",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/businesses-add-115k-bitcoin-in-q2-as-individuals-sell-78k-river/"
     }
   ],
   "business": [
     {
-      "headline": "Ripple invests in Notabene to integrate RLUSD into enterprise network",
-      "take": "Ripple invests in Notabene to integrate RLUSD into enterprise network",
+      "headline": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+      "take": "Mirae plans to transform crypto exchange Korbit into new Korean product",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform"
+    },
+    {
+      "headline": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy in US",
+      "take": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy in US",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-invests-in-notabene-to-integrate-rlusd-into-enterprise-network/"
+      "link": "https://cryptobriefing.com/bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy-in-us/"
     },
     {
-      "headline": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC",
-      "take": "Nasdaq-listed Zhibao plans to sell $220M stock to build Bitcoin treasury",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale"
-    },
-    {
-      "headline": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
-      "take": "Goldman Sachs CEO backs Crypto Clarity Act, breaks with Wall Street",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act"
-    },
-    {
-      "headline": "Coinbase (COIN) Pulls Back on Social, Refocuses Base on Trading",
-      "take": "Coinbase pulls back on social, refocuses Base platform on trading",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/coinbase-coin-pulls-back-on-social-refocuses-base-on-trading"
-    },
-    {
-      "headline": "Citadel Securities\u2019 $400 Million Deal Marks Digital-Asset Era",
-      "take": "Citadel Securities completes $400M digital-asset deal marking era milestone",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/citadel-securities-400-million-deal-marks-digital-asset-era"
+      "headline": "Ripple\u2019s RLUSD gets two boosts as transfer volume drops 25%",
+      "take": "Ripple's RLUSD stablecoin gets two boosts as transfer volume drops",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25"
     }
   ],
-  "security": [
-    {
-      "headline": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
-      "take": "Robinhood CEO Vlad Tenev's X account hacked to shill fake token",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Senate finalizes CLARITY Act text, faces tight timeline before August recess",
-      "take": "Senate finalizes CLARITY Act text, faces tight timeline before August recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-finalizes-clarity-act-text-faces-tight-timeline-before-august-recess/"
+      "headline": "EU widens Belarus ownership ban to all crypto service providers",
+      "take": "EU widens Belarus ownership ban to all crypto service providers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Indonesia\u2019s new crypto rules end influencer era with $30K bill",
-      "take": "Indonesia's new crypto rules end influencer era with $30K bill requirement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/indonesias-new-crypto-rules-end-influencer-era-with-30k-bill/"
+      "headline": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "take": "Gemini sent $10M Bitcoin to Trump PAC after joint CFTC motion",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Dem senator calls GOP\u2019s CLARITY ethics proposal a \u2018piece of s---\u2019: Politico",
+      "take": "Democratic senator criticizes GOP's CLARITY crypto ethics proposal harshly",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

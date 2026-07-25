@@ -1,114 +1,102 @@
 {
-  "generated": "2026-07-25T03:42:02.265949+00:00",
-  "ts": 1784950922,
+  "generated": "2026-07-25T08:26:26.228741+00:00",
+  "ts": 1784967986,
   "market": [
     {
-      "headline": "Ark Invest reports Bitcoin\u2019s 1-year realized volatility at 42% for Q2, nearing multi-year lows",
-      "take": "Bitcoin's realized volatility fell to 42% in Q2, approaching multi-year lows",
+      "headline": "Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24",
+      "take": "Bitcoin and Ethereum ETFs post combined $311M in net outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-bitcoin-volatility-q2-2026/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-july-24/"
     },
     {
       "headline": "US margin debt hits record $1.5T in June, driven by 49% year-on-year increase",
-      "take": "US margin debt reached record $1.5T in June, up 49% year-on-year",
+      "take": "US margin debt surges to record $1.5T amid elevated leverage risk",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-margin-debt-hits-record-15t-in-june-driven-by-49-year-on-year-increase/"
     },
     {
-      "headline": "Rising oil prices and Treasury yields threaten to derail the stock and crypto rally",
-      "take": "Rising oil prices and Treasury yields threaten to derail stock and crypto rally",
+      "headline": "Ark Invest reports Bitcoin\u2019s 1-year realized volatility at 42% for Q2, nearing multi-year lows",
+      "take": "Bitcoin volatility drops to multi-year lows at 42% realized annual rate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-yields-threaten-stock-crypto-rally/"
+      "link": "https://cryptobriefing.com/ark-invest-bitcoin-volatility-q2-2026/"
+    },
+    {
+      "headline": "Oil nears $100 as Trump lacks options to influence prices",
+      "take": "Oil approaches $100 amid geopolitical tensions and limited policy levers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-nears-100-as-trump-lacks-options-to-influence-prices/"
     },
     {
       "headline": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "take": "Stocks just topped crypto on Hyperliquid exchange for first time",
+      "take": "Stocks outperform crypto assets on Hyperliquid trading platform",
       "source": "decrypt",
       "link": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest"
     }
   ],
   "business": [
     {
+      "headline": "Nvidia and SK Group unveil $500B AI data centers initiative, reshaping the global compute landscape",
+      "take": "Nvidia and SK Group plan $500B AI data center expansion globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-sk-group-500b-ai-data-centers/"
+    },
+    {
+      "headline": "Anthropic seeks semiconductor supplies from SK Hynix as AI firms race to build custom chips",
+      "take": "Anthropic sources semiconductor supplies from SK Hynix for custom chips",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-sk-hynix-semiconductor-ai-chips/"
+    },
+    {
       "headline": "MARA CEO says AI data centers generate more revenue than Bitcoin mining, triggering major strategic pivot",
-      "take": "Marathon CEO says AI data centers generate more revenue than Bitcoin mining",
+      "take": "Marathon Digital pivots to AI data centers as revenue exceeds Bitcoin mining",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/mara-ceo-ai-data-centers-bitcoin-mining-revenue/"
     },
     {
-      "headline": "Naver secures $1B from Nvidia, $9B from Brookfield for AI data center expansion",
-      "take": "Naver secures $10B total funding from Nvidia and Brookfield for AI infrastructure",
+      "headline": "Naver to triple facility size with Nvidia partnership as it eyes $6.8B in AI funding",
+      "take": "Naver triples AI facility size partnering with Nvidia and securing $6.8B funding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/naver-nvidia-brookfield-ai-data-center/"
+      "link": "https://cryptobriefing.com/naver-nvidia-ai-infrastructure-crypto/"
     },
     {
-      "headline": "Boring Company reportedly seeks funding at $20B valuation, more than double its last known price tag",
-      "take": "Boring Company seeks $20B funding valuation, doubling its last known price",
+      "headline": "OpenAI signs open letter advocating for open-weight AI models, marking a major strategic pivot",
+      "take": "OpenAI endorses open-weight AI models in strategic policy reversal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boring-company-20b-valuation-funding/"
-    },
-    {
-      "headline": "Bitwise launches new vault from onchain strategy team as DeFi push accelerates",
-      "take": "Bitwise launches new vault from onchain strategy team as DeFi accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-launches-new-onchain-vault/"
-    },
-    {
-      "headline": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-      "take": "Samsung Wallet adding stablecoin support including USDC",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc"
+      "link": "https://cryptobriefing.com/openai-open-weight-ai-models-letter/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI\u2019s AI agent hacked Hugging Face undetected for a week, raising alarm across AI and crypto sectors",
-      "take": "OpenAI's AI agent hacked Hugging Face undetected for one week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-agent-hacks-hugging-face/"
-    },
-    {
       "headline": "Russian hackers target US nuclear scientists after testing cyber tactics in Ukraine",
-      "take": "Russian hackers target US nuclear scientists after testing Ukraine cyber tactics",
+      "take": "Russian hackers target US nuclear scientists after Ukraine cyber testing",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/russian-hackers-target-us-nuclear-scientists/"
     },
     {
-      "headline": "Google faces defamation lawsuit as judge allows Robby Starbuck\u2019s claims over AI-generated falsehoods to proceed",
-      "take": "Judge allows defamation lawsuit against Google over AI-generated false statements",
+      "headline": "Nvidia CEO Jensen Huang uses Hugging Face hack to make the case for open-source AI",
+      "take": "Hugging Face security incident highlights open-source AI model risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-defamation-lawsuit-ai-hallucinations/"
+      "link": "https://cryptobriefing.com/nvidia-huang-hugging-face-hack-open-source-ai/"
+    },
+    {
+      "headline": "US executives warn of security risks from Chinese AI models as Washington weighs sanctions",
+      "take": "US officials warn of security threats from Chinese AI model deployments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-executives-warn-chinese-ai-security-risks/"
     }
   ],
   "policy": [
     {
       "headline": "EU authorities include HTX exchange in Russian sanctions",
-      "take": "EU authorities include HTX exchange in Russian sanctions package",
+      "take": "EU sanctions Russian-linked HTX cryptocurrency exchange for sanctions evasion",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "The EU\u2019s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions Evasion, Introduces Third-Country Ban Mechanism",
-      "take": "EU's Russia sanctions package targets crypto platforms for evasion, bans third-country access",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/eu-21st-russia-sanctions-package-crypto-patforms-july-2026/"
-    },
-    {
-      "headline": "House passes bill on lawmakers using insider information for stock trading",
-      "take": "House passes bill restricting lawmakers from using insider information for stock trading",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "Bitcoin Policy Institute, Palantir and Anduril join US State Department\u2019s Freedom Tech Excellence Program",
-      "take": "Bitcoin Policy Institute, Palantir, Anduril join State Department Freedom Tech program",
+      "take": "Bitcoin Policy Institute, Palantir join US State Department freedom tech program",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US government faces 26% chance of restricting access to Chinese AI models in 2026, Polymarket traders say",
-      "take": "Polymarket traders price 26% chance US restricts access to Chinese AI by 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-chinese-ai-model-restriction-polymarket/"
     }
   ]
 }

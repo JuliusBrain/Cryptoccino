@@ -1,71 +1,90 @@
 {
-  "generated": "2026-07-25T10:46:32.231737+00:00",
-  "ts": 1784976392,
+  "generated": "2026-07-25T14:05:02.590335+00:00",
+  "ts": 1784988302,
   "market": [
     {
-      "headline": "BlackRock clients sell $212M in Bitcoin amid ETF outflows in 2026",
-      "take": "BlackRock clients sell $212M in Bitcoin amid ETF outflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-sell-212m-in-bitcoin-amid-etf-outflows-in-2026/"
+      "headline": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+      "take": "Bitcoin ETF volume hits lowest since October while ether funds see inflows",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Trump tariffs likely to persist as more are anticipated, hitting crypto markets and miners",
-      "take": "Trump tariffs likely to persist, hitting crypto markets and miners",
+      "headline": "Kalshi traders see 57% chance of Bitcoin falling below $55K this year",
+      "take": "Prediction market shows fifty-seven percent odds Bitcoin falls below fifty-five thousand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-tariffs-persist-crypto-miners-impact/"
+      "link": "https://cryptobriefing.com/kalshi-traders-bitcoin-below-55k-odds-2026/"
     },
-    {
-      "headline": "Oil nears $100 as Trump lacks options to influence prices",
-      "take": "Oil nears $100 as Trump lacks options to influence prices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-nears-100-as-trump-lacks-options-to-influence-prices/"
-    },
-    {
-      "headline": "Investors bet on Federal Reserve rate hike after oil price surge rattles markets",
-      "take": "Investors bet on Federal Reserve rate hike after oil surge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-oil-price-surge-crypto/"
-    }
-  ],
-  "business": [
     {
       "headline": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "take": "Robinhood Chain's real-world assets jump fivefold, tokenized stocks trading bigger",
+      "take": "Robinhood Chain real-world assets surge fivefold as tokenized stocks gain traction",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size"
     },
     {
-      "headline": "Samsung Electronics lands $200B chip manufacturing deal with Broadcom in major AI push",
-      "take": "Samsung Electronics lands $200B chip manufacturing deal with Broadcom",
+      "headline": "Big Tech drives surge in US corporate bond sales amid AI investments",
+      "take": "Big Tech drives surge in US corporate bond sales amid AI investments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-broadcom-200b-chip-deal/"
-    },
+      "link": "https://cryptobriefing.com/big-tech-corporate-bond-surge-ai-investments/"
+    }
+  ],
+  "business": [
     {
-      "headline": "SK Hynix and Samsung sign $950B chip supply deals with US tech giants",
-      "take": "SK Hynix and Samsung sign $950B chip supply deals with tech giants",
+      "headline": "Bitcoin mining giant Poolin files for Chapter 11 bankruptcy in New Jersey",
+      "take": "Bitcoin mining giant Poolin files for Chapter eleven bankruptcy in New Jersey",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-samsung-950b-us-chip-deal/"
+      "link": "https://cryptobriefing.com/bitcoin-mining-giant-poolin-files-for-chapter-11-bankruptcy-in-new-jersey/"
     },
     {
       "headline": "Dango\u2019s perp DEX taps out nearly 4 months after launch",
       "take": "Dango's perpetual DEX shuts down nearly four months after launch",
       "source": "cointelegraph_defi",
       "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    }
-  ],
-  "security": [],
-  "policy": [
-    {
-      "headline": "Iran\u2019s missile strikes on US targets rattle crypto markets as Bitcoin drops 2%",
-      "take": "Iran's missile strikes on US targets rattle crypto markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-missile-strikes-us-targets-bitcoin-drops/"
     },
     {
-      "headline": "Iran\u2019s Strait of Hormuz closure slashes oil trade with China",
-      "take": "Iran's Strait of Hormuz closure slashes oil trade with China",
+      "headline": "Phantom ends support for Monad network on August 26",
+      "take": "Phantom ends support for Monad network on August twenty-six",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/irans-strait-of-hormuz-closure-slashes-oil-trade-with-china/"
+      "link": "https://cryptobriefing.com/phantom-ends-monad-network-support/"
+    },
+    {
+      "headline": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "take": "Weather derivatives tokenization could become crypto's most important real-world use case",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
+    }
+  ],
+  "security": [
+    {
+      "headline": "North Korea arrests its own hackers for stealing from state banks and laundering through crypto",
+      "take": "North Korea arrests own hackers for stealing state bank funds and laundering through crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/north-korea-arrests-cyber-operators-bank-hacking/"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Charles Schwab urges US Senate to pass Crypto Clarity Act",
+      "take": "Charles Schwab urges US Senate to pass Crypto Clarity Act",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/charles-schwab-urges-us-senate-to-pass-crypto-clarity-act/"
+    },
+    {
+      "headline": "Donald Trump\u2019s $1B crypto windfall complicates digital-asset legislation",
+      "take": "Trump's one billion dollar crypto windfall complicates digital-asset legislation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-crypto-windfall-complicates-legislation/"
+    },
+    {
+      "headline": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "take": "US lawmakers seek AI kill switch mechanism for safety and control",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face"
+    },
+    {
+      "headline": "Donald Trump renews aggressive tariff actions after Supreme Court ruling",
+      "take": "Trump renews aggressive tariff actions after Supreme Court ruling",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-tariffs-supreme-court-bitcoin-impact/"
     }
   ]
 }

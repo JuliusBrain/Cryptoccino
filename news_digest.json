@@ -1,102 +1,71 @@
 {
-  "generated": "2026-07-25T08:26:26.228741+00:00",
-  "ts": 1784967986,
+  "generated": "2026-07-25T10:46:32.231737+00:00",
+  "ts": 1784976392,
   "market": [
     {
-      "headline": "Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24",
-      "take": "Bitcoin and Ethereum ETFs post combined $311M in net outflows",
+      "headline": "BlackRock clients sell $212M in Bitcoin amid ETF outflows in 2026",
+      "take": "BlackRock clients sell $212M in Bitcoin amid ETF outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-july-24/"
+      "link": "https://cryptobriefing.com/blackrock-clients-sell-212m-in-bitcoin-amid-etf-outflows-in-2026/"
     },
     {
-      "headline": "US margin debt hits record $1.5T in June, driven by 49% year-on-year increase",
-      "take": "US margin debt surges to record $1.5T amid elevated leverage risk",
+      "headline": "Trump tariffs likely to persist as more are anticipated, hitting crypto markets and miners",
+      "take": "Trump tariffs likely to persist, hitting crypto markets and miners",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-margin-debt-hits-record-15t-in-june-driven-by-49-year-on-year-increase/"
-    },
-    {
-      "headline": "Ark Invest reports Bitcoin\u2019s 1-year realized volatility at 42% for Q2, nearing multi-year lows",
-      "take": "Bitcoin volatility drops to multi-year lows at 42% realized annual rate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-bitcoin-volatility-q2-2026/"
+      "link": "https://cryptobriefing.com/trump-tariffs-persist-crypto-miners-impact/"
     },
     {
       "headline": "Oil nears $100 as Trump lacks options to influence prices",
-      "take": "Oil approaches $100 amid geopolitical tensions and limited policy levers",
+      "take": "Oil nears $100 as Trump lacks options to influence prices",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/oil-nears-100-as-trump-lacks-options-to-influence-prices/"
     },
     {
-      "headline": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "take": "Stocks outperform crypto assets on Hyperliquid trading platform",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest"
+      "headline": "Investors bet on Federal Reserve rate hike after oil price surge rattles markets",
+      "take": "Investors bet on Federal Reserve rate hike after oil surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-rate-hike-oil-price-surge-crypto/"
     }
   ],
   "business": [
     {
-      "headline": "Nvidia and SK Group unveil $500B AI data centers initiative, reshaping the global compute landscape",
-      "take": "Nvidia and SK Group plan $500B AI data center expansion globally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-sk-group-500b-ai-data-centers/"
+      "headline": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "take": "Robinhood Chain's real-world assets jump fivefold, tokenized stocks trading bigger",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size"
     },
     {
-      "headline": "Anthropic seeks semiconductor supplies from SK Hynix as AI firms race to build custom chips",
-      "take": "Anthropic sources semiconductor supplies from SK Hynix for custom chips",
+      "headline": "Samsung Electronics lands $200B chip manufacturing deal with Broadcom in major AI push",
+      "take": "Samsung Electronics lands $200B chip manufacturing deal with Broadcom",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-sk-hynix-semiconductor-ai-chips/"
+      "link": "https://cryptobriefing.com/samsung-broadcom-200b-chip-deal/"
     },
     {
-      "headline": "MARA CEO says AI data centers generate more revenue than Bitcoin mining, triggering major strategic pivot",
-      "take": "Marathon Digital pivots to AI data centers as revenue exceeds Bitcoin mining",
+      "headline": "SK Hynix and Samsung sign $950B chip supply deals with US tech giants",
+      "take": "SK Hynix and Samsung sign $950B chip supply deals with tech giants",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mara-ceo-ai-data-centers-bitcoin-mining-revenue/"
+      "link": "https://cryptobriefing.com/sk-hynix-samsung-950b-us-chip-deal/"
     },
     {
-      "headline": "Naver to triple facility size with Nvidia partnership as it eyes $6.8B in AI funding",
-      "take": "Naver triples AI facility size partnering with Nvidia and securing $6.8B funding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/naver-nvidia-ai-infrastructure-crypto/"
-    },
-    {
-      "headline": "OpenAI signs open letter advocating for open-weight AI models, marking a major strategic pivot",
-      "take": "OpenAI endorses open-weight AI models in strategic policy reversal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-open-weight-ai-models-letter/"
+      "headline": "Dango\u2019s perp DEX taps out nearly 4 months after launch",
+      "take": "Dango's perpetual DEX shuts down nearly four months after launch",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
-  "security": [
-    {
-      "headline": "Russian hackers target US nuclear scientists after testing cyber tactics in Ukraine",
-      "take": "Russian hackers target US nuclear scientists after Ukraine cyber testing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russian-hackers-target-us-nuclear-scientists/"
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang uses Hugging Face hack to make the case for open-source AI",
-      "take": "Hugging Face security incident highlights open-source AI model risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-huang-hugging-face-hack-open-source-ai/"
-    },
-    {
-      "headline": "US executives warn of security risks from Chinese AI models as Washington weighs sanctions",
-      "take": "US officials warn of security threats from Chinese AI model deployments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-executives-warn-chinese-ai-security-risks/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "EU authorities include HTX exchange in Russian sanctions",
-      "take": "EU sanctions Russian-linked HTX cryptocurrency exchange for sanctions evasion",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Iran\u2019s missile strikes on US targets rattle crypto markets as Bitcoin drops 2%",
+      "take": "Iran's missile strikes on US targets rattle crypto markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-missile-strikes-us-targets-bitcoin-drops/"
     },
     {
-      "headline": "Bitcoin Policy Institute, Palantir and Anduril join US State Department\u2019s Freedom Tech Excellence Program",
-      "take": "Bitcoin Policy Institute, Palantir join US State Department freedom tech program",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss"
+      "headline": "Iran\u2019s Strait of Hormuz closure slashes oil trade with China",
+      "take": "Iran's Strait of Hormuz closure slashes oil trade with China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/irans-strait-of-hormuz-closure-slashes-oil-trade-with-china/"
     }
   ]
 }

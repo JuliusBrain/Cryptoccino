@@ -1,102 +1,90 @@
 {
-  "generated": "2026-07-25T19:37:16.269793+00:00",
-  "ts": 1785008236,
+  "generated": "2026-07-25T22:12:30.140049+00:00",
+  "ts": 1785017550,
   "market": [
     {
+      "headline": "BTC ETF flows turn negative for over half of 2026",
+      "take": "Bitcoin ETF flows turned negative for over half of 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/btc-etf-flows-negative-2026/"
+    },
+    {
       "headline": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
-      "take": "Bitcoin ETF weekly volume hits lowest since October; ether funds lead inflows",
+      "take": "Bitcoin ETF weekly trading volume fell to lowest since October 2024",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "take": "Robinhood Chain real-world assets surge fivefold; tokenized stocks trading at scale",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size"
+      "headline": "Ned Davis Research reports 16% drop in Trump Trade index as political bets unravel",
+      "take": "Trump Trade index dropped 16% as political bets unravel",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ned-davis-trump-trade-index-16-percent-drop/"
     },
     {
-      "headline": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-      "take": "Weather derivatives tokenization emerges as significant real-world crypto use case",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
+      "headline": "Central banks brace for $100 oil inflation impact",
+      "take": "Central banks prepare for potential hundred-dollar oil inflation impact",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/central-banks-brace-for-100-oil-inflation-impact/"
     },
     {
       "headline": "Houthi rebels attack Saudi oil tankers, sending Brent crude past $100 and testing Bitcoin\u2019s safe-haven narrative",
-      "take": "Houthi attacks push Brent crude above $100; tests Bitcoin safe-haven narrative",
+      "take": "Houthi attacks pushed Brent crude above one hundred dollars",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/houthi-attacks-saudi-oil-bitcoin-impact/"
     }
   ],
   "business": [
     {
-      "headline": "Russia\u2019s largest bank Sberbank plans crypto trading infrastructure by December",
-      "take": "Russia's Sberbank plans crypto trading infrastructure launch by December",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
+      "headline": "Robinhood Chain monthly active users surpass 2 million, up 50% in a week",
+      "take": "Robinhood Chain monthly active users surpassed two million, grew fifty percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-2m-monthly-active-users/"
     },
     {
       "headline": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-      "take": "Robinhood talks with Crypto.com on prediction markets as Kalshi rivalry intensifies",
+      "take": "Robinhood in talks to add Crypto.com prediction markets",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "FC Barcelona\u2019s \u20ac80M Anthony Gordon signing puts its fan token BAR in the spotlight",
-      "take": "Barcelona's \u20ac80M Anthony Gordon signing puts fan token BAR in spotlight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/barcelona-gordon-signing-bar-fan-token/"
+      "headline": "Russia\u2019s largest bank Sberbank plans crypto trading infrastructure by December",
+      "take": "Russia's Sberbank plans crypto trading infrastructure by December",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
     },
     {
-      "headline": "Token Works\u2019 Fake World Assets surpasses Collector Crypt in revenue",
-      "take": "Token Works' Fake World Assets revenue surpasses Collector Crypt",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fake-world-assets-surpasses-collector-crypt-revenue/"
-    },
-    {
-      "headline": "Dango\u2019s perp DEX taps out nearly 4 months after launch",
-      "take": "Dango perp DEX shuts down nearly four months after launch",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "take": "Weather derivatives tokenization emerging as significant crypto real-world use case",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
     }
   ],
   "security": [
     {
       "headline": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
-      "take": "North Korea arrests hackers accused of laundering stolen bank funds via crypto",
+      "take": "North Korea arrested hackers accused of laundering stolen bank funds via crypto",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto"
-    },
-    {
-      "headline": "OpenAI\u2019s rogue AI agent breached Hugging Face systems, raising fresh questions about autonomous AI risks",
-      "take": "OpenAI's rogue AI agent breached Hugging Face; raises autonomous AI security risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-rogue-agent-hugging-face-breach/"
     }
   ],
   "policy": [
     {
-      "headline": "Trump\u2019s crypto ventures stall Clarity Act in Senate",
-      "take": "Trump's crypto ventures stall CLARITY Act progress in Senate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trumps-crypto-ventures-stall-clarity-act-in-senate/"
+      "headline": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+      "take": "EU added HTX to Russia sanctions list starting August 23",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Fidelity joins push for Senate passage of CLARITY Act",
-      "take": "Fidelity joins push for Senate passage of CLARITY Act on crypto",
+      "take": "Fidelity joined push for Senate passage of CLARITY Act",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Bitcoin advocacy group to join US State Department\u2019s \u2018digital freedom\u2019 program",
-      "take": "Bitcoin advocacy group joins US State Department digital freedom program",
+      "take": "Bitcoin advocacy group joining US State Department's digital freedom program",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Supreme Court strikes down Trump tariffs in landmark ruling, administration pivots to new levies on 60 economies",
-      "take": "Supreme Court strikes down Trump tariffs; administration pivots to new levies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/supreme-court-strikes-down-trump-tariffs-new-levies/"
     }
   ]
 }

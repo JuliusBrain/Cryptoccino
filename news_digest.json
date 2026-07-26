@@ -1,90 +1,84 @@
 {
-  "generated": "2026-07-25T22:12:30.140049+00:00",
-  "ts": 1785017550,
+  "generated": "2026-07-26T03:59:24.406995+00:00",
+  "ts": 1785038364,
   "market": [
     {
-      "headline": "BTC ETF flows turn negative for over half of 2026",
-      "take": "Bitcoin ETF flows turned negative for over half of 2026",
+      "headline": "Trump pauses Iran military strikes as Bitcoin drops 2.3% and oil tops $100",
+      "take": "Trump halts Iran military strikes; Bitcoin drops 2.3%, oil tops $100",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/btc-etf-flows-negative-2026/"
+      "link": "https://cryptobriefing.com/trump-pauses-iran-strikes-bitcoin-drops/"
     },
     {
-      "headline": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
-      "take": "Bitcoin ETF weekly trading volume fell to lowest since October 2024",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss"
+      "headline": "Global stock market cap hits $166 trillion, reaching 137% of global GDP near record territory",
+      "take": "Global stock market cap reaches $166 trillion, near record 137% of GDP",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/global-stock-market-cap-137-percent-gdp/"
     },
     {
-      "headline": "Ned Davis Research reports 16% drop in Trump Trade index as political bets unravel",
-      "take": "Trump Trade index dropped 16% as political bets unravel",
+      "headline": "Fed chair Warsh warns of high inflation as July rate hike odds fluctuate",
+      "take": "Fed chair Warsh warns of high inflation as July rate hike odds fluctuate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ned-davis-trump-trade-index-16-percent-drop/"
+      "link": "https://cryptobriefing.com/fed-chair-warsh-warns-of-high-inflation-as-july-rate-hike-odds-fluctuate/"
     },
     {
-      "headline": "Central banks brace for $100 oil inflation impact",
-      "take": "Central banks prepare for potential hundred-dollar oil inflation impact",
+      "headline": "US stocks stabilize as oil prices drop on peace talk optimism",
+      "take": "US stocks stabilize as oil prices drop on peace talk optimism",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-banks-brace-for-100-oil-inflation-impact/"
-    },
-    {
-      "headline": "Houthi rebels attack Saudi oil tankers, sending Brent crude past $100 and testing Bitcoin\u2019s safe-haven narrative",
-      "take": "Houthi attacks pushed Brent crude above one hundred dollars",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/houthi-attacks-saudi-oil-bitcoin-impact/"
+      "link": "https://cryptobriefing.com/us-stocks-stabilize-as-oil-prices-drop-on-peace-talk-optimism/"
     }
   ],
   "business": [
     {
+      "headline": "BitMEX to shut down after 11-year run that reshaped crypto derivatives trading",
+      "take": "BitMEX to shut down after 11-year run reshaping crypto derivatives trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitmex-shutdown-operations-cease/"
+    },
+    {
       "headline": "Robinhood Chain monthly active users surpass 2 million, up 50% in a week",
-      "take": "Robinhood Chain monthly active users surpassed two million, grew fifty percent",
+      "take": "Robinhood Chain monthly active users surpass 2 million, up 50% weekly",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/robinhood-chain-2m-monthly-active-users/"
     },
     {
+      "headline": "Upbit to list Morpho and Euler tokens in KRW market, signaling DeFi lending\u2019s growing appeal in Asia",
+      "take": "Upbit lists Morpho and Euler tokens in KRW market, signaling DeFi growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-morpho-euler-krw-listing/"
+    },
+    {
       "headline": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-      "take": "Robinhood in talks to add Crypto.com prediction markets",
+      "take": "Robinhood in talks to add Crypto.com prediction markets amid Kalshi rivalry",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Russia\u2019s largest bank Sberbank plans crypto trading infrastructure by December",
-      "take": "Russia's Sberbank plans crypto trading infrastructure by December",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
-    },
-    {
-      "headline": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-      "take": "Weather derivatives tokenization emerging as significant crypto real-world use case",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
     }
   ],
   "security": [
     {
-      "headline": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
-      "take": "North Korea arrested hackers accused of laundering stolen bank funds via crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto"
+      "headline": "BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes",
+      "take": "BlueNoroff targets crypto users with fake Zoom and Teams meetings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bluenoroff-fake-zoom-teams-crypto-theft/"
     }
   ],
   "policy": [
     {
       "headline": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-      "take": "EU added HTX to Russia sanctions list starting August 23",
+      "take": "EU adds HTX to Russia sanctions list, barring transactions from Aug. 23",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Fidelity joins push for Senate passage of CLARITY Act",
-      "take": "Fidelity joined push for Senate passage of CLARITY Act",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "Bitcoin advocacy group to join US State Department\u2019s \u2018digital freedom\u2019 program",
-      "take": "Bitcoin advocacy group joining US State Department's digital freedom program",
+      "take": "Bitcoin advocacy group to join US State Department's digital freedom program",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Russia\u2019s largest bank Sberbank plans crypto trading infrastructure by December",
+      "take": "Russia's largest bank Sberbank plans crypto trading infrastructure by December",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
     }
   ]
 }

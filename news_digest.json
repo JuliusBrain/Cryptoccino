@@ -1,66 +1,72 @@
 {
-  "generated": "2026-07-26T08:40:52.759784+00:00",
-  "ts": 1785055252,
+  "generated": "2026-07-26T10:54:50.221642+00:00",
+  "ts": 1785063290,
   "market": [
     {
       "headline": "Shiba Inu surges 36% as South Korean traders fuel rally",
-      "take": "Shiba Inu rallies 36% amid South Korean trader activity and buying interest",
+      "take": "Shiba Inu surges 36% as South Korean traders fuel rally",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/shiba-inu-surges-south-korean-traders-rally/"
     },
     {
-      "headline": "Cash App removes all fees on large Bitcoin purchases and recurring buys",
-      "take": "Cash App removes fees on large Bitcoin purchases and recurring buy transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cash-app-removes-bitcoin-fees/"
-    },
-    {
-      "headline": "US stocks stabilize as oil prices drop on peace talk optimism",
-      "take": "US stocks stabilize as oil prices decline on peace negotiation developments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-stocks-stabilize-as-oil-prices-drop-on-peace-talk-optimism/"
-    },
-    {
       "headline": "Hydropower overtakes natural gas as Bitcoin mining\u2019s top energy source",
-      "take": "Hydropower now Bitcoin mining's primary energy source, surpassing natural gas usage",
+      "take": "Hydropower overtakes natural gas as Bitcoin mining's top energy source",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hydropower-bitcoin-mining-top-energy-source/"
+    },
+    {
+      "headline": "Cash App removes all fees on large Bitcoin purchases and recurring buys",
+      "take": "Cash App removes all fees on large Bitcoin purchases and recurring buys",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cash-app-removes-bitcoin-fees/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "take": "BitMart crypto exchange winds down trading by January 2027, BMX crashes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
+      "headline": "KB Kookmin Bank launches cross-border payment service on JPMorgan\u2019s Kinexys blockchain",
+      "take": "KB Kookmin Bank launches cross-border payments on JPMorgan's Kinexys blockchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kb-kookmin-bank-jpmorgan-kinexys-payments/"
+    },
+    {
+      "headline": "BitMart\u2019s BMX token falls over 55% in 24 hours as exchange announces full shutdown",
+      "take": "BitMart announces shutdown by January 2027, BMX token crashes 58%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitmart-bmx-token-crash-exchange-shutdown/"
     },
     {
       "headline": "Balaji Srinivasan\u2019s Network School relocates to Kazakhstan after Malaysian authorities pull the plug",
-      "take": "Balaji Srinivasan's Network School relocates to Kazakhstan after Malaysian shutdown",
+      "take": "Balaji Srinivasan's Network School relocates to Kazakhstan after Malaysia blocks it",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/network-school-relocates-kazakhstan-malaysia-shutdown/"
-    },
-    {
-      "headline": "Binance runs monthly phishing tests on employees, warns of dismissal for repeat failures",
-      "take": "Binance runs monthly phishing tests, threatens dismissal for repeated failures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-monthly-phishing-tests-employee-dismissal/"
     }
   ],
   "security": [
     {
       "headline": "BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes",
-      "take": "BlueNoroff targets crypto users with fake Zoom, Teams calls in minutes",
+      "take": "BlueNoroff targets crypto users with fake Zoom meetings, compromises victims quickly",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bluenoroff-fake-zoom-teams-crypto-theft/"
+    },
+    {
+      "headline": "Binance runs monthly phishing tests on employees, warns of dismissal for repeat failures",
+      "take": "Binance runs monthly phishing tests on employees, warns of dismissal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-monthly-phishing-tests-employee-dismissal/"
     }
   ],
   "policy": [
     {
       "headline": "EU adds HTX to sanctions list, barring transactions from Aug. 23",
-      "take": "EU sanctions HTX exchange, barring transactions effective August 23 deadline",
+      "take": "EU adds HTX to sanctions list, barring transactions from August 23",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/eu-sanctions-htx-russia-ban/"
+    },
+    {
+      "headline": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "take": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave"
     }
   ]
 }

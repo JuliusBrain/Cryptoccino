@@ -1,84 +1,90 @@
 {
-  "generated": "2026-07-26T16:16:13.943904+00:00",
-  "ts": 1785082573,
+  "generated": "2026-07-26T19:38:20.518504+00:00",
+  "ts": 1785094700,
   "market": [
     {
-      "headline": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
-      "take": "Shiba Inu surges 36% amid South Korean trading activity driving rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally"
+      "headline": "Crypto derivatives see $113M liquidations in 24 hours, market stress rises",
+      "take": "Crypto derivatives see $113M liquidations in 24 hours, market stress rises",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-derivatives-see-113m-liquidations-in-24-hours-market-stress-rises/"
     },
     {
-      "headline": "Gulf markets ease after Houthi attacks on Saudi oil sites, Bitcoin dips below $65K",
-      "take": "Bitcoin dips below $65K as Gulf markets ease after Houthi attacks",
+      "headline": "BlackRock, Goldman Sachs, Fidelity, and others back the Clarity Act with $30 trillion in combined firepower",
+      "take": "Major financial firms back Clarity Act with $30 trillion combined firepower",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gulf-markets-houthi-attacks-bitcoin-dip/"
+      "link": "https://cryptobriefing.com/blackrock-goldman-fidelity-back-clarity-act/"
     },
     {
-      "headline": "Nvidia tops S&P 500 with 15,332% gain over the last decade",
-      "take": "Nvidia gains 15,332% over decade, tops S&P 500 performance rankings",
+      "headline": "Alphabet backs leases on 2.4 gigawatts across ten projects, deepening ties with crypto miners pivoting to AI",
+      "take": "Alphabet backs 2.4 gigawatts across ten projects, deepening ties with miners",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-sp500-decade-gain-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/alphabet-leases-gigawatts-crypto-miners-ai/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "take": "BitMart exchange shutting down after nine years; BMX token crashes 58%",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
+      "headline": "Ripple expands from payments to full-stack financial infrastructure",
+      "take": "Ripple expands from payments to full-stack financial infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-full-stack-financial-infrastructure/"
     },
     {
-      "headline": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
-      "take": "Russia's Sberbank to launch crypto trading infrastructure later this year",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "BitMart to wind down trading platform as global CEO says he was not consulted",
+      "take": "BitMart winds down trading platform; global CEO says he was not consulted",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss"
     },
-    {
-      "headline": "Republic launches Mirror Tokens letting retail investors bet on SpaceX and other private giants for as little as $50",
-      "take": "Republic launches Mirror Tokens for retail bets on SpaceX, private companies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/republic-mirror-tokens-spacex-private-stocks/"
-    },
-    {
-      "headline": "Chainlink integrates with 8 new services across 3 chains, continuing its quiet infrastructure expansion",
-      "take": "Chainlink integrates eight new services across three blockchains quietly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-eight-integrations-three-chains/"
-    },
-    {
-      "headline": "Lido completes stETH rebase, updates oracle to improve reporting",
-      "take": "Lido completes stETH rebase, updates oracle for improved reporting accuracy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-steth-rebase-oracle-update/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "University of Washington study reveals prompt injection risks lurking in AI agent memory",
-      "take": "University study reveals prompt injection risks in AI agent memory systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uw-study-prompt-injection-ai-agent-memory/"
-    },
-    {
-      "headline": "Binance\u2019s CZ warns of hidden security risks in acquiring smaller exchanges",
-      "take": "Binance CZ warns of hidden security risks in acquiring smaller exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-warns-security-risks-acquiring-exchanges/"
-    }
-  ],
-  "policy": [
     {
       "headline": "Europe's high regulatory bar could spark new crypto industry M&A wave",
-      "take": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "take": "Europe's regulatory bar could spark new crypto industry M&A wave",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave"
     },
     {
-      "headline": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-      "take": "U.S. regulator warns prediction markets against cutting corners in contracts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
+      "headline": "Blockaid detects ongoing exploit draining $450K from Garden Finance across four chains",
+      "take": "Blockaid detects ongoing exploit draining $450K from Garden Finance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockaid-garden-finance-exploit-450k/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "WEMIX investigates potential security breach of WEMIX$ stablecoin contract",
+      "take": "WEMIX investigates potential security breach of WEMIX$ stablecoin contract",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wemix-investigates-wemix-dollar-contract-breach/"
+    },
+    {
+      "headline": "Anthropic settles for $1.5 billion after training Claude on pirated books, and Europe is watching closely",
+      "take": "Anthropic settles $1.5 billion after training Claude on pirated books",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-settles-irish-writers-union-ai-copyright/"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
+      "take": "CFTC issues second warning to prediction markets on self-certifications",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "New Fed chair Kevin Warsh launches five task forces to overhaul monetary policy, and crypto is nowhere on the agenda",
+      "take": "New Fed chair Kevin Warsh launches five task forces, crypto off agenda",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-task-forces-monetary-policy/"
+    },
+    {
+      "headline": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
+      "take": "Russia's Sberbank to launch crypto trading infrastructure this year",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Trump administration lets Hong Kong sanctions expire, raising questions about US-China crypto corridor",
+      "take": "Trump administration lets Hong Kong sanctions expire, raising US-China questions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-hong-kong-sanctions-crypto-implications/"
     }
   ]
 }

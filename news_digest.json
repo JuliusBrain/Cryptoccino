@@ -1,84 +1,66 @@
 {
-  "generated": "2026-07-26T03:59:24.406995+00:00",
-  "ts": 1785038364,
+  "generated": "2026-07-26T08:40:52.759784+00:00",
+  "ts": 1785055252,
   "market": [
     {
-      "headline": "Trump pauses Iran military strikes as Bitcoin drops 2.3% and oil tops $100",
-      "take": "Trump halts Iran military strikes; Bitcoin drops 2.3%, oil tops $100",
+      "headline": "Shiba Inu surges 36% as South Korean traders fuel rally",
+      "take": "Shiba Inu rallies 36% amid South Korean trader activity and buying interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-pauses-iran-strikes-bitcoin-drops/"
+      "link": "https://cryptobriefing.com/shiba-inu-surges-south-korean-traders-rally/"
     },
     {
-      "headline": "Global stock market cap hits $166 trillion, reaching 137% of global GDP near record territory",
-      "take": "Global stock market cap reaches $166 trillion, near record 137% of GDP",
+      "headline": "Cash App removes all fees on large Bitcoin purchases and recurring buys",
+      "take": "Cash App removes fees on large Bitcoin purchases and recurring buy transactions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-stock-market-cap-137-percent-gdp/"
-    },
-    {
-      "headline": "Fed chair Warsh warns of high inflation as July rate hike odds fluctuate",
-      "take": "Fed chair Warsh warns of high inflation as July rate hike odds fluctuate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chair-warsh-warns-of-high-inflation-as-july-rate-hike-odds-fluctuate/"
+      "link": "https://cryptobriefing.com/cash-app-removes-bitcoin-fees/"
     },
     {
       "headline": "US stocks stabilize as oil prices drop on peace talk optimism",
-      "take": "US stocks stabilize as oil prices drop on peace talk optimism",
+      "take": "US stocks stabilize as oil prices decline on peace negotiation developments",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-stocks-stabilize-as-oil-prices-drop-on-peace-talk-optimism/"
+    },
+    {
+      "headline": "Hydropower overtakes natural gas as Bitcoin mining\u2019s top energy source",
+      "take": "Hydropower now Bitcoin mining's primary energy source, surpassing natural gas usage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hydropower-bitcoin-mining-top-energy-source/"
     }
   ],
   "business": [
     {
-      "headline": "BitMEX to shut down after 11-year run that reshaped crypto derivatives trading",
-      "take": "BitMEX to shut down after 11-year run reshaping crypto derivatives trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmex-shutdown-operations-cease/"
+      "headline": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "take": "BitMart crypto exchange winds down trading by January 2027, BMX crashes",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
     },
     {
-      "headline": "Robinhood Chain monthly active users surpass 2 million, up 50% in a week",
-      "take": "Robinhood Chain monthly active users surpass 2 million, up 50% weekly",
+      "headline": "Balaji Srinivasan\u2019s Network School relocates to Kazakhstan after Malaysian authorities pull the plug",
+      "take": "Balaji Srinivasan's Network School relocates to Kazakhstan after Malaysian shutdown",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-2m-monthly-active-users/"
+      "link": "https://cryptobriefing.com/network-school-relocates-kazakhstan-malaysia-shutdown/"
     },
     {
-      "headline": "Upbit to list Morpho and Euler tokens in KRW market, signaling DeFi lending\u2019s growing appeal in Asia",
-      "take": "Upbit lists Morpho and Euler tokens in KRW market, signaling DeFi growth",
+      "headline": "Binance runs monthly phishing tests on employees, warns of dismissal for repeat failures",
+      "take": "Binance runs monthly phishing tests, threatens dismissal for repeated failures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-morpho-euler-krw-listing/"
-    },
-    {
-      "headline": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-      "take": "Robinhood in talks to add Crypto.com prediction markets amid Kalshi rivalry",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/binance-monthly-phishing-tests-employee-dismissal/"
     }
   ],
   "security": [
     {
       "headline": "BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes",
-      "take": "BlueNoroff targets crypto users with fake Zoom and Teams meetings",
+      "take": "BlueNoroff targets crypto users with fake Zoom, Teams calls in minutes",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bluenoroff-fake-zoom-teams-crypto-theft/"
     }
   ],
   "policy": [
     {
-      "headline": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-      "take": "EU adds HTX to Russia sanctions list, barring transactions from Aug. 23",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin advocacy group to join US State Department\u2019s \u2018digital freedom\u2019 program",
-      "take": "Bitcoin advocacy group to join US State Department's digital freedom program",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Russia\u2019s largest bank Sberbank plans crypto trading infrastructure by December",
-      "take": "Russia's largest bank Sberbank plans crypto trading infrastructure by December",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
+      "headline": "EU adds HTX to sanctions list, barring transactions from Aug. 23",
+      "take": "EU sanctions HTX exchange, barring transactions effective August 23 deadline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-sanctions-htx-russia-ban/"
     }
   ]
 }

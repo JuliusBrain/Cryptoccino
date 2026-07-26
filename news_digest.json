@@ -1,78 +1,84 @@
 {
-  "generated": "2026-07-26T14:02:04.282953+00:00",
-  "ts": 1785074524,
+  "generated": "2026-07-26T16:16:13.943904+00:00",
+  "ts": 1785082573,
   "market": [
     {
       "headline": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
-      "take": "Shiba Inu surges thirty-six percent driven by South Korean trader activity",
+      "take": "Shiba Inu surges 36% amid South Korean trading activity driving rally",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally"
     },
     {
-      "headline": "Microsoft, Meta, Amazon, and Apple report earnings this week, and crypto markets are watching closely",
-      "take": "Tech earnings from Microsoft, Meta, Amazon, Apple this week drawing crypto market attention",
+      "headline": "Gulf markets ease after Houthi attacks on Saudi oil sites, Bitcoin dips below $65K",
+      "take": "Bitcoin dips below $65K as Gulf markets ease after Houthi attacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/big-tech-earnings-week-crypto-impact/"
+      "link": "https://cryptobriefing.com/gulf-markets-houthi-attacks-bitcoin-dip/"
     },
     {
-      "headline": "Brazil\u2019s ETF market triples as Latin America becomes a launchpad for crypto funds",
-      "take": "Brazil's ETF market triples as Latin America emerges as crypto fund launchpad",
+      "headline": "Nvidia tops S&P 500 with 15,332% gain over the last decade",
+      "take": "Nvidia gains 15,332% over decade, tops S&P 500 performance rankings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-etf-market-triples-latin-america-crypto/"
-    },
-    {
-      "headline": "Treasury market warns Federal Reserve Chair Kevin Warsh on rates",
-      "take": "Treasury market signals Federal Reserve Chair Kevin Warsh on interest rate expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-market-warns-fed-chair-warsh-rates/"
-    },
-    {
-      "headline": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "take": "BitMart exchange shutting after nine years, BMX token crashes fifty-eight percent",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
+      "link": "https://cryptobriefing.com/nvidia-sp500-decade-gain-ai-infrastructure/"
     }
   ],
   "business": [
     {
-      "headline": "KB Kookmin Bank launches cross-border payment service on JPMorgan\u2019s Kinexys blockchain",
-      "take": "KB Kookmin Bank launches cross-border payments on JPMorgan's Kinexys blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kb-kookmin-bank-jpmorgan-kinexys-payments/"
-    },
-    {
-      "headline": "Binance\u2019s CZ warns of hidden security risks in acquiring smaller exchanges",
-      "take": "Binance's CZ warns of hidden security risks when acquiring smaller exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-warns-security-risks-acquiring-exchanges/"
-    },
-    {
-      "headline": "BStocks attracts 41% of users new to Binance\u2019s trading platform",
-      "take": "BStocks platform attracts forty-one percent of new Binance trading users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bstocks-new-users-binance-tokenized-stocks/"
-    },
-    {
-      "headline": "Europe's high regulatory bar could spark new crypto industry M&A wave",
-      "take": "Europe's high regulatory standards could trigger increased crypto industry M&A activity",
+      "headline": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "take": "BitMart exchange shutting down after nine years; BMX token crashes 58%",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave"
+      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
+    },
+    {
+      "headline": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
+      "take": "Russia's Sberbank to launch crypto trading infrastructure later this year",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Republic launches Mirror Tokens letting retail investors bet on SpaceX and other private giants for as little as $50",
+      "take": "Republic launches Mirror Tokens for retail bets on SpaceX, private companies",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/republic-mirror-tokens-spacex-private-stocks/"
+    },
+    {
+      "headline": "Chainlink integrates with 8 new services across 3 chains, continuing its quiet infrastructure expansion",
+      "take": "Chainlink integrates eight new services across three blockchains quietly",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainlink-eight-integrations-three-chains/"
+    },
+    {
+      "headline": "Lido completes stETH rebase, updates oracle to improve reporting",
+      "take": "Lido completes stETH rebase, updates oracle for improved reporting accuracy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lido-steth-rebase-oracle-update/"
     }
   ],
   "security": [
     {
-      "headline": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-      "take": "US regulator warns prediction market operators against cutting corners on event contracts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
+      "headline": "University of Washington study reveals prompt injection risks lurking in AI agent memory",
+      "take": "University study reveals prompt injection risks in AI agent memory systems",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uw-study-prompt-injection-ai-agent-memory/"
+    },
+    {
+      "headline": "Binance\u2019s CZ warns of hidden security risks in acquiring smaller exchanges",
+      "take": "Binance CZ warns of hidden security risks in acquiring smaller exchanges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cz-warns-security-risks-acquiring-exchanges/"
     }
   ],
   "policy": [
     {
-      "headline": "Trump gives Iran talks \u2018a little bit of room,\u2019 says US ambassador to UN",
-      "take": "Trump administration signals modest diplomatic opening in US-Iran nuclear talks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-gives-iran-talks-a-little-bit-of-room-says-us-ambassador-to-un/"
+      "headline": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "take": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave"
+    },
+    {
+      "headline": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "take": "U.S. regulator warns prediction markets against cutting corners in contracts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts"
     }
   ]
 }

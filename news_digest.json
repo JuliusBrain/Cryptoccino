@@ -1,114 +1,96 @@
 {
-  "generated": "2026-07-27T04:06:17.913912+00:00",
-  "ts": 1785125177,
+  "generated": "2026-07-27T10:11:30.170151+00:00",
+  "ts": 1785147090,
   "market": [
     {
-      "headline": "Oil prices drop as US-Iran ceasefire eases supply disruption concerns",
-      "take": "Oil prices drop as US-Iran ceasefire eases supply disruption concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-drop-as-us-iran-ceasefire-eases-supply-disruption-concerns/"
+      "headline": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+      "take": "Bitcoin climbs above $65k as US-Iran tensions ease, oil falls",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5"
     },
     {
-      "headline": "Oil price drop eases inflation fears, boosts shares and bonds",
-      "take": "Oil price drop eases inflation fears, boosts shares and bonds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-price-drop-eases-inflation-fears-boosts-shares-and-bonds/"
+      "headline": "Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount",
+      "take": "Bitcoin ETFs end inflow streak amid Federal Reserve rate concerns",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount"
     },
     {
-      "headline": "CXMT surges 470% in Shanghai Stock Exchange debut, becomes China\u2019s most valuable listed company",
-      "take": "CXMT surges 470% in Shanghai debut, becomes China's most valuable listed company",
+      "headline": "Federal Reserve\u2019s inflation stance may lower long-term bond yields, and crypto markets are paying attention",
+      "take": "Fed's inflation stance may lower bond yields, crypto markets watching",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cxmt-470-percent-surge-shanghai-debut/"
+      "link": "https://cryptobriefing.com/fed-inflation-stance-bond-yields-crypto/"
     },
     {
-      "headline": "SK Hynix\u2019s $26.5B Nasdaq debut sets a record and gives the South Korean won a lift",
-      "take": "SK Hynix's $26.5B Nasdaq debut sets record, lifts South Korean won",
+      "headline": "40,000 ETH transferred from Aave to Bitfinex in $79M whale move",
+      "take": "Whale transfers 40k ETH to Bitfinex in $79M position move",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sk-hynix-nasdaq-listing-south-korean-won/"
+      "link": "https://cryptobriefing.com/40000-eth-aave-bitfinex-transfer/"
     },
     {
-      "headline": "CSI AI Index falls 3% as Chinese AI shares retreat amid valuation fears",
-      "take": "CSI AI Index falls 3% as Chinese AI shares retreat on valuation concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/csi-ai-index-falls-chinese-shares-retreat/"
+      "headline": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
+      "take": "Interest rates in US, UK, Japan influence crypto market week ahead",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead"
     }
   ],
   "business": [
     {
-      "headline": "KB Kookmin Bank plans blockchain cross-border payments service next month",
-      "take": "KB Kookmin Bank plans blockchain cross-border payments service next month",
+      "headline": "Coinbase CEO Brian Armstrong promotes agentic finance as Base surpasses 100M AI payments",
+      "take": "Coinbase Base surpasses 100M AI payments, CEO promotes agentic finance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kb-kookmin-bank-blockchain-cross-border-payments/"
+      "link": "https://cryptobriefing.com/coinbase-armstrong-agentic-finance-base-ai-payments/"
     },
     {
-      "headline": "Blackstone to acquire HSBC\u2019s A$30B Australian loan book in landmark private credit deal",
-      "take": "Blackstone acquires HSBC's A$30B Australian loan book in landmark private credit deal",
+      "headline": "Multiverse raises $570M total funding as valuation climbs to $2.1B on AI training demand",
+      "take": "Multiverse raises $570M funding as valuation reaches $2.1B on AI demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackstone-hsbc-australian-loan-book/"
+      "link": "https://cryptobriefing.com/multiverse-raises-570m-ai-training-valuation/"
     },
     {
-      "headline": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-      "take": "South Korea trading giant puts receivables onchain in tokenization test",
+      "headline": "South Korea\u2019s KB Kookmin Bank to launch cross-border payment service on JPMorgan\u2019s Kinexys: report",
+      "take": "KB Kookmin Bank launches JPMorgan Kinexys cross-border payment service",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "BitMart Becomes Latest Crypto Exchange to Shut Down",
+      "take": "BitMart becomes latest crypto exchange to shut down operations",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down"
+    },
+    {
+      "headline": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+      "take": "Storj files Chapter 11 bankruptcy, token declines 16% in week",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns"
-    },
-    {
-      "headline": "Moonshot AI makes Kimi K3 model available for public download",
-      "take": "Moonshot AI makes Kimi K3 model available for public download",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonshot-ai-kimi-k3-public-download/"
-    },
-    {
-      "headline": "UK pension providers explore \u00a31B fund for domestic tech investment",
-      "take": "UK pension providers explore \u00a31B fund for domestic tech investment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-pension-fund-billion-tech-investment/"
+      "link": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16"
     }
   ],
   "security": [
     {
-      "headline": "WEMIX suspends bridges and trading after $724K breach",
-      "take": "WEMIX suspends bridges and trading after $724K breach",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wemix-suspends-bridges-724k-breach/"
+      "headline": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
+      "take": "Thailand SEC files criminal complaint against Bitkub over $47M undisclosed hack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack"
     },
     {
-      "headline": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
-      "take": "Triple-A hot wallet losses climb to $11.8 million from ongoing sweeps",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Meta\u2019s Facebook and Instagram served thousands of ads for AI nudify apps, violating its own policies",
-      "take": "Meta served thousands of ads for AI nudify apps violating own policies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-nudify-ads-policy-violation/"
+      "headline": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+      "take": "Crypto identified as canary in coal mine for quantum computing threat",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say"
     }
   ],
   "policy": [
     {
-      "headline": "European Commission fines Google \u20ac890M under the Digital Markets Act",
-      "take": "European Commission fines Google \u20ac890M under Digital Markets Act",
+      "headline": "US Senate to vote on crypto market structure bill in 7 days",
+      "take": "US Senate to vote on crypto market structure bill within seven days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-890-million-fine-digital-markets-act/"
+      "link": "https://cryptobriefing.com/senate-vote-crypto-market-structure-bill/"
     },
     {
-      "headline": "Cynthia Lummis supports Clarity Act to combat Lazarus exploitation",
-      "take": "Cynthia Lummis supports Clarity Act to combat Lazarus exploitation",
+      "headline": "Senate stalls CLARITY Act vote amid crypto ethics provision dispute",
+      "take": "Senate stalls CLARITY Act vote amid dispute over crypto ethics provision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-lazarus-group-crypto-sanctions/"
-    },
-    {
-      "headline": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
-      "take": "CFTC issues second warning to prediction markets on self-certifications",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
-      "take": "Russia's Sberbank to launch crypto trading infrastructure this year",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/senate-stalls-clarity-act-vote-amid-crypto-ethics-provision-dispute/"
     }
   ]
 }

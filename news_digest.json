@@ -1,84 +1,96 @@
 {
-  "generated": "2026-07-27T17:12:56.722099+00:00",
-  "ts": 1785172376,
+  "generated": "2026-07-27T19:58:21.218440+00:00",
+  "ts": 1785182301,
   "market": [
     {
+      "headline": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+      "take": "Bitcoin stable despite AI selloff; Fed meeting next major catalyst",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next"
+    },
+    {
+      "headline": "Crypto stocks rally as capital rotates away from AI infrastructure plays",
+      "take": "Crypto stocks rally as investors rotate away from AI infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-stocks-rally-ai-rotation/"
+    },
+    {
+      "headline": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise",
+      "take": "Ethereum, Solana, Avalanche see cheaper transactions despite token price declines",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Crypto\u2019s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+      "take": "Crypto's ninety-trillion-dollar trading product reaches Wall Street slowly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow"
+    },
+    {
       "headline": "TD Cowen cuts David Bailey\u2019s Nakamoto target 58% after bitcoin outlook reset",
-      "take": "TD Cowen slashes Nakamoto price target fifty-eight percent after resetting bitcoin outlook",
+      "take": "TD Cowen cuts Bitcoin price target fifty-eight percent after outlook reset",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
-      "take": "Lido consolidates sixteen billion dollars of staked ETH via Curated Module v2 launch",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409780/lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "OpenSea\u2019s SEA token FDV exceeds $3B ahead of launch deadline",
-      "take": "OpenSea SEA token fully diluted value exceeds three billion before deadline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/opensea-sea-token-fdv-exceeds-3b-launch/"
-    },
-    {
-      "headline": "US Treasuries rise as oil prices soften and Fed rate hike looms",
-      "take": "US Treasury yields rise as oil prices fall and Fed rate decision approaches",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasuries-rise-oil-fed-rate-hike/"
     }
   ],
   "business": [
     {
-      "headline": "Ondo launches private execution network to power near CEX speed trading",
-      "take": "Ondo launches private execution network enabling near-CEX speed trading capability",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-launches-private-execution-network-to-power-near-cex-speed-trading/"
-    },
-    {
-      "headline": "Circle Buys IBM Blockchain Patent Estate\u2014And Becomes America's Biggest Holder",
-      "take": "Circle acquires IBM blockchain patent estate, becoming largest US holder",
+      "headline": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
+      "take": "Fanatics acquires CFTC-registered exchange for prediction markets expansion",
       "source": "decrypt",
-      "link": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate"
+      "link": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets"
     },
     {
-      "headline": "Cantor is advising crypto bank AMINA on path to potential public listing",
-      "take": "Cantor advises crypto bank AMINA on potential public listing path",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing"
-    },
-    {
-      "headline": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-      "take": "Fanatics buys regulated exchange to expand prediction markets business operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business"
-    },
-    {
-      "headline": "Virtuals Protocol introduces Hyperboost to solve crypto\u2019s day-one dropout problem",
-      "take": "Virtuals Protocol introduces Hyperboost to address crypto's early dropout problem",
+      "headline": "Multicoin Capital partners with Hyperliquid to back CFTC prediction market framework",
+      "take": "Multicoin Capital and Hyperliquid back CFTC prediction market framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/virtuals-protocol-hyperboost-token-graduation-rewards/"
+      "link": "https://cryptobriefing.com/multicoin-hyperliquid-cftc-prediction-markets/"
+    },
+    {
+      "headline": "Securitize registers Securitize Capital as SEC-registered investment adviser",
+      "take": "Securitize registers as SEC investment adviser, expands platform offerings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/securitize-capital-sec-registered-adviser/"
+    },
+    {
+      "headline": "Nvidia commits $5 billion to former OpenAI researcher Ilya Sutskever\u2019s AI startup",
+      "take": "Nvidia commits five billion dollars to ex-OpenAI researcher's AI startup",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-invests-5-billion-safe-superintelligence/"
     }
   ],
   "security": [
     {
-      "headline": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-      "take": "Bitmine approaches five percent Ethereum supply control via eleven-point-eight-billion-dollar treasury",
+      "headline": "Apple sued after users lose $1.8M to fraudulent crypto wallet app on iOS",
+      "take": "Apple users lose one-point-eight million dollars to fraudulent wallet app",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-sued-fraudulent-crypto-wallet-app/"
+    },
+    {
+      "headline": "Your Shared Claude Chats Were Being Quietly Published on Google",
+      "take": "Claude shared chats were quietly published to Google search results",
       "source": "decrypt",
-      "link": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury"
+      "link": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google"
+    },
+    {
+      "headline": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
+      "take": "Man faces federal charges after phone auto-wiped at border checkpoint",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos"
     }
   ],
   "policy": [
     {
-      "headline": "Fed under new chair Warsh considers rate hike amid inflation concerns",
-      "take": "Fed chair Warsh considers rate hike amid ongoing inflation concerns",
+      "headline": "CLARITY Act stalls in Senate, lacking votes for passage",
+      "take": "CLARITY Act stalls in Senate, failing to secure passage votes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-under-new-chair-warsh-considers-rate-hike-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/clarity-act-stalls-in-senate-lacking-votes-for-passage/"
     },
     {
-      "headline": "India and China resume border trade from August 1, signaling broader economic thaw between Asian giants",
-      "take": "India and China resume border trade August first, signaling broader economic thaw",
+      "headline": "EPA lets data center power plants bypass key pollution laws, and crypto miners could benefit too",
+      "take": "EPA allows data center power plants pollution exemptions; crypto miners benefit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-china-border-trade-resumes-august/"
+      "link": "https://cryptobriefing.com/epa-data-center-power-bypass-pollution-laws/"
     }
   ]
 }

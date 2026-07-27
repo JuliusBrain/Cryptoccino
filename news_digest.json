@@ -1,90 +1,84 @@
 {
-  "generated": "2026-07-27T15:17:17.021978+00:00",
-  "ts": 1785165437,
+  "generated": "2026-07-27T17:12:56.722099+00:00",
+  "ts": 1785172376,
   "market": [
     {
-      "headline": "Ethereum hits three-month high against Bitcoin as ETH outpaces BTC by triple",
-      "take": "Ethereum rallies to three-month high, outpacing Bitcoin by significant margin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-three-month-high-against-bitcoin/"
+      "headline": "TD Cowen cuts David Bailey\u2019s Nakamoto target 58% after bitcoin outlook reset",
+      "take": "TD Cowen slashes Nakamoto price target fifty-eight percent after resetting bitcoin outlook",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Strategy shares surge over 7% to $98.5 after USD reserve boost",
-      "take": "Strategy shares surge over 7% following USD reserve boost announcement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-shares-surge-usd-reserve-boost/"
+      "headline": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
+      "take": "Lido consolidates sixteen billion dollars of staked ETH via Curated Module v2 launch",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409780/lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "What are perps, anyway? Everything you need to know about crypto\u2019s hottest trading instrument",
-      "take": "Perpetual futures explained as crypto traders increasingly adopt leveraged instruments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument"
+      "headline": "OpenSea\u2019s SEA token FDV exceeds $3B ahead of launch deadline",
+      "take": "OpenSea SEA token fully diluted value exceeds three billion before deadline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/opensea-sea-token-fdv-exceeds-3b-launch/"
     },
     {
-      "headline": "China says US commits to capping tariffs on goods at 20%, raising stakes for crypto markets",
-      "take": "US-China tariff cap agreement at 20% raises stakes for crypto market sentiment",
+      "headline": "US Treasuries rise as oil prices soften and Fed rate hike looms",
+      "take": "US Treasury yields rise as oil prices fall and Fed rate decision approaches",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-us-tariff-cap-crypto-impact/"
-    },
-    {
-      "headline": "Crypto deal-making collapses with just 44 deals in July",
-      "take": "Crypto deal-making collapses to 44 transactions in July, lowest monthly volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-deal-making-collapses-july-2026/"
+      "link": "https://cryptobriefing.com/us-treasuries-rise-oil-fed-rate-hike/"
     }
   ],
   "business": [
     {
-      "headline": "Lido consolidates $16B in staked ETH with Curated Module v2 rollout",
-      "take": "Lido consolidates $16B staked ETH via Curated Module v2 to reduce validators",
+      "headline": "Ondo launches private execution network to power near CEX speed trading",
+      "take": "Ondo launches private execution network enabling near-CEX speed trading capability",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-consolidates-16b-eth-curated-module-v2/"
+      "link": "https://cryptobriefing.com/ondo-launches-private-execution-network-to-power-near-cex-speed-trading/"
     },
     {
-      "headline": "Metaplanet plans bitcoin-backed Bitbonds with 4% to 6% yields",
-      "take": "Metaplanet plans bitcoin-backed Bitbonds offering four to six percent yields",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metaplanet-bitbonds-bitcoin-backed-yields-project-nova/"
+      "headline": "Circle Buys IBM Blockchain Patent Estate\u2014And Becomes America's Biggest Holder",
+      "take": "Circle acquires IBM blockchain patent estate, becoming largest US holder",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate"
     },
     {
-      "headline": "Securitize Capital becomes SEC-registered investment adviser",
-      "take": "Securitize Capital becomes SEC-registered investment adviser, expanding offerings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-capital-becomes-sec-registered-investment-adviser/"
+      "headline": "Cantor is advising crypto bank AMINA on path to potential public listing",
+      "take": "Cantor advises crypto bank AMINA on potential public listing path",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing"
     },
     {
       "headline": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-      "take": "Fanatics acquires regulated exchange to expand prediction markets presence",
+      "take": "Fanatics buys regulated exchange to expand prediction markets business operations",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business"
     },
     {
-      "headline": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder",
-      "take": "Circle becomes largest US blockchain patent holder through IBM portfolio acquisition",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409750/circle-acquires-ibm-blockchain-patent-portfolio-becomes-largest-us-patent-holder?utm_source=rss&utm_medium=rss"
+      "headline": "Virtuals Protocol introduces Hyperboost to solve crypto\u2019s day-one dropout problem",
+      "take": "Virtuals Protocol introduces Hyperboost to address crypto's early dropout problem",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/virtuals-protocol-hyperboost-token-graduation-rewards/"
     }
   ],
   "security": [
     {
-      "headline": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-      "take": "Bitkub concealed $50 million cyberattack, Thailand SEC alleges and investigates",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack"
-    },
-    {
-      "headline": "Nvidia forms Open Secure AI Alliance with 37 companies after Hugging Face hack exposed AI agent vulnerabilities",
-      "take": "Nvidia leads AI security alliance after Hugging Face hack exposed agent vulnerabilities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-open-secure-ai-alliance-hugging-face-hack/"
+      "headline": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
+      "take": "Bitmine approaches five percent Ethereum supply control via eleven-point-eight-billion-dollar treasury",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury"
     }
   ],
   "policy": [
     {
-      "headline": "EU rethinks Russia sanctions strategy after Greece vetoes 21st package to protect shipping firms",
-      "take": "EU rethinks Russia sanctions after Greece vetoes 21st package to protect shipping",
+      "headline": "Fed under new chair Warsh considers rate hike amid inflation concerns",
+      "take": "Fed chair Warsh considers rate hike amid ongoing inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-russia-sanctions-crypto-greece-veto/"
+      "link": "https://cryptobriefing.com/fed-under-new-chair-warsh-considers-rate-hike-amid-inflation-concerns/"
+    },
+    {
+      "headline": "India and China resume border trade from August 1, signaling broader economic thaw between Asian giants",
+      "take": "India and China resume border trade August first, signaling broader economic thaw",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-china-border-trade-resumes-august/"
     }
   ]
 }

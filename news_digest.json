@@ -1,96 +1,102 @@
 {
-  "generated": "2026-07-27T19:58:21.218440+00:00",
-  "ts": 1785182301,
+  "generated": "2026-07-27T22:29:25.956468+00:00",
+  "ts": 1785191365,
   "market": [
     {
+      "headline": "Prediction market traders raise odds of July Fed rate hike to 27%",
+      "take": "Prediction market traders raise odds of July Fed rate hike to 27%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/prediction-market-july-fed-rate-hike-odds/"
+    },
+    {
       "headline": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
-      "take": "Bitcoin stable despite AI selloff; Fed meeting next major catalyst",
+      "take": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next"
     },
     {
-      "headline": "Crypto stocks rally as capital rotates away from AI infrastructure plays",
-      "take": "Crypto stocks rally as investors rotate away from AI infrastructure",
+      "headline": "CME\u2019s 24/7 gold futures debut sees strong demand, $60M in trades",
+      "take": "CME's 24/7 gold futures debut sees strong demand, $60M in trades",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-stocks-rally-ai-rotation/"
+      "link": "https://cryptobriefing.com/cmes-247-gold-futures-debut-sees-strong-demand-60m-in-trades/"
     },
     {
       "headline": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise",
-      "take": "Ethereum, Solana, Avalanche see cheaper transactions despite token price declines",
+      "take": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Crypto\u2019s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
-      "take": "Crypto's ninety-trillion-dollar trading product reaches Wall Street slowly",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow"
-    },
-    {
-      "headline": "TD Cowen cuts David Bailey\u2019s Nakamoto target 58% after bitcoin outlook reset",
-      "take": "TD Cowen cuts Bitcoin price target fifty-eight percent after outlook reset",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset?utm_source=rss&utm_medium=rss"
+      "headline": "Chip stocks decline as Nasdaq falls ahead of tech earnings, dragging crypto miners down with them",
+      "take": "Chip stocks decline as Nasdaq falls ahead of tech earnings, dragging crypto miners down",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chip-stocks-decline-nasdaq-falls-tech-earnings/"
     }
   ],
   "business": [
     {
+      "headline": "Hyperliquid shifts focus to real-world assets, 75% volume projected by 2027",
+      "take": "Hyperliquid shifts focus to real-world assets, 75% volume projected by 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-shifts-focus-to-real-world-assets-75-volume-projected-by-2027/"
+    },
+    {
+      "headline": "Coinbase names Rob Witoff as new chief technology officer",
+      "take": "Coinbase names Rob Witoff as new chief technology officer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-names-rob-witoff-new-cto/"
+    },
+    {
       "headline": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
-      "take": "Fanatics acquires CFTC-registered exchange for prediction markets expansion",
+      "take": "Fanatics buys CFTC-registered exchange in prediction markets land grab",
       "source": "decrypt",
       "link": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets"
     },
     {
-      "headline": "Multicoin Capital partners with Hyperliquid to back CFTC prediction market framework",
-      "take": "Multicoin Capital and Hyperliquid back CFTC prediction market framework",
+      "headline": "Celestica raises FY2026 guidance as AI infrastructure demand fuels over 50% revenue growth",
+      "take": "Celestica raises FY2026 guidance as AI infrastructure demand fuels over 50% revenue growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multicoin-hyperliquid-cftc-prediction-markets/"
+      "link": "https://cryptobriefing.com/celestica-fy2026-guidance-ai-demand/"
     },
     {
-      "headline": "Securitize registers Securitize Capital as SEC-registered investment adviser",
-      "take": "Securitize registers as SEC investment adviser, expands platform offerings",
+      "headline": "Metaplanet reports 250,000 Japanese retail shareholders amid bear market",
+      "take": "Metaplanet reports 250,000 Japanese retail shareholders amid bear market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-capital-sec-registered-adviser/"
-    },
-    {
-      "headline": "Nvidia commits $5 billion to former OpenAI researcher Ilya Sutskever\u2019s AI startup",
-      "take": "Nvidia commits five billion dollars to ex-OpenAI researcher's AI startup",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-invests-5-billion-safe-superintelligence/"
+      "link": "https://cryptobriefing.com/metaplanet-250000-shareholders-bear-market/"
     }
   ],
   "security": [
     {
-      "headline": "Apple sued after users lose $1.8M to fraudulent crypto wallet app on iOS",
-      "take": "Apple users lose one-point-eight million dollars to fraudulent wallet app",
+      "headline": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
+      "take": "SparkKitty malware found in app stores targets crypto wallet seed phrases",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet"
+    },
+    {
+      "headline": "OpenAI hacking incident prompts Microsoft AI chief to warn on cybersecurity",
+      "take": "OpenAI hacking incident prompts Microsoft AI chief to warn on cybersecurity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-sued-fraudulent-crypto-wallet-app/"
+      "link": "https://cryptobriefing.com/openai-hacking-microsoft-ai-cybersecurity-warning/"
     },
     {
-      "headline": "Your Shared Claude Chats Were Being Quietly Published on Google",
-      "take": "Claude shared chats were quietly published to Google search results",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google"
-    },
-    {
-      "headline": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
-      "take": "Man faces federal charges after phone auto-wiped at border checkpoint",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos"
+      "headline": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+      "take": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-open-ai-security-alliance-hugging-face/"
     }
   ],
   "policy": [
     {
-      "headline": "CLARITY Act stalls in Senate, lacking votes for passage",
-      "take": "CLARITY Act stalls in Senate, failing to secure passage votes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-stalls-in-senate-lacking-votes-for-passage/"
+      "headline": "NY Attorney General Letitia James warns Clarity Act would \u2018dilute\u2019 states\u2019 ability to go after fraud as pressure mounts",
+      "take": "NY Attorney General warns Clarity Act would dilute states' ability to go after fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "EPA lets data center power plants bypass key pollution laws, and crypto miners could benefit too",
-      "take": "EPA allows data center power plants pollution exemptions; crypto miners benefit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/epa-data-center-power-bypass-pollution-laws/"
+      "headline": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
+      "take": "NFL urges CFTC to strengthen rules on sports prediction markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss"
     }
   ]
 }

@@ -1,96 +1,90 @@
 {
-  "generated": "2026-07-27T10:11:30.170151+00:00",
-  "ts": 1785147090,
+  "generated": "2026-07-27T15:17:17.021978+00:00",
+  "ts": 1785165437,
   "market": [
     {
-      "headline": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
-      "take": "Bitcoin climbs above $65k as US-Iran tensions ease, oil falls",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5"
-    },
-    {
-      "headline": "Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount",
-      "take": "Bitcoin ETFs end inflow streak amid Federal Reserve rate concerns",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount"
-    },
-    {
-      "headline": "Federal Reserve\u2019s inflation stance may lower long-term bond yields, and crypto markets are paying attention",
-      "take": "Fed's inflation stance may lower bond yields, crypto markets watching",
+      "headline": "Ethereum hits three-month high against Bitcoin as ETH outpaces BTC by triple",
+      "take": "Ethereum rallies to three-month high, outpacing Bitcoin by significant margin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-inflation-stance-bond-yields-crypto/"
+      "link": "https://cryptobriefing.com/ethereum-three-month-high-against-bitcoin/"
     },
     {
-      "headline": "40,000 ETH transferred from Aave to Bitfinex in $79M whale move",
-      "take": "Whale transfers 40k ETH to Bitfinex in $79M position move",
+      "headline": "Strategy shares surge over 7% to $98.5 after USD reserve boost",
+      "take": "Strategy shares surge over 7% following USD reserve boost announcement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/40000-eth-aave-bitfinex-transfer/"
+      "link": "https://cryptobriefing.com/strategy-shares-surge-usd-reserve-boost/"
     },
     {
-      "headline": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
-      "take": "Interest rates in US, UK, Japan influence crypto market week ahead",
+      "headline": "What are perps, anyway? Everything you need to know about crypto\u2019s hottest trading instrument",
+      "take": "Perpetual futures explained as crypto traders increasingly adopt leveraged instruments",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead"
+      "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument"
+    },
+    {
+      "headline": "China says US commits to capping tariffs on goods at 20%, raising stakes for crypto markets",
+      "take": "US-China tariff cap agreement at 20% raises stakes for crypto market sentiment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-us-tariff-cap-crypto-impact/"
+    },
+    {
+      "headline": "Crypto deal-making collapses with just 44 deals in July",
+      "take": "Crypto deal-making collapses to 44 transactions in July, lowest monthly volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-deal-making-collapses-july-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase CEO Brian Armstrong promotes agentic finance as Base surpasses 100M AI payments",
-      "take": "Coinbase Base surpasses 100M AI payments, CEO promotes agentic finance",
+      "headline": "Lido consolidates $16B in staked ETH with Curated Module v2 rollout",
+      "take": "Lido consolidates $16B staked ETH via Curated Module v2 to reduce validators",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-armstrong-agentic-finance-base-ai-payments/"
+      "link": "https://cryptobriefing.com/lido-consolidates-16b-eth-curated-module-v2/"
     },
     {
-      "headline": "Multiverse raises $570M total funding as valuation climbs to $2.1B on AI training demand",
-      "take": "Multiverse raises $570M funding as valuation reaches $2.1B on AI demand",
+      "headline": "Metaplanet plans bitcoin-backed Bitbonds with 4% to 6% yields",
+      "take": "Metaplanet plans bitcoin-backed Bitbonds offering four to six percent yields",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multiverse-raises-570m-ai-training-valuation/"
+      "link": "https://cryptobriefing.com/metaplanet-bitbonds-bitcoin-backed-yields-project-nova/"
     },
     {
-      "headline": "South Korea\u2019s KB Kookmin Bank to launch cross-border payment service on JPMorgan\u2019s Kinexys: report",
-      "take": "KB Kookmin Bank launches JPMorgan Kinexys cross-border payment service",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss"
+      "headline": "Securitize Capital becomes SEC-registered investment adviser",
+      "take": "Securitize Capital becomes SEC-registered investment adviser, expanding offerings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/securitize-capital-becomes-sec-registered-investment-adviser/"
     },
     {
-      "headline": "BitMart Becomes Latest Crypto Exchange to Shut Down",
-      "take": "BitMart becomes latest crypto exchange to shut down operations",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down"
-    },
-    {
-      "headline": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
-      "take": "Storj files Chapter 11 bankruptcy, token declines 16% in week",
+      "headline": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+      "take": "Fanatics acquires regulated exchange to expand prediction markets presence",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16"
+      "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business"
+    },
+    {
+      "headline": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder",
+      "take": "Circle becomes largest US blockchain patent holder through IBM portfolio acquisition",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409750/circle-acquires-ibm-blockchain-patent-portfolio-becomes-largest-us-patent-holder?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
-      "take": "Thailand SEC files criminal complaint against Bitkub over $47M undisclosed hack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack"
+      "headline": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+      "take": "Bitkub concealed $50 million cyberattack, Thailand SEC alleges and investigates",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack"
     },
     {
-      "headline": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
-      "take": "Crypto identified as canary in coal mine for quantum computing threat",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say"
+      "headline": "Nvidia forms Open Secure AI Alliance with 37 companies after Hugging Face hack exposed AI agent vulnerabilities",
+      "take": "Nvidia leads AI security alliance after Hugging Face hack exposed agent vulnerabilities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-open-secure-ai-alliance-hugging-face-hack/"
     }
   ],
   "policy": [
     {
-      "headline": "US Senate to vote on crypto market structure bill in 7 days",
-      "take": "US Senate to vote on crypto market structure bill within seven days",
+      "headline": "EU rethinks Russia sanctions strategy after Greece vetoes 21st package to protect shipping firms",
+      "take": "EU rethinks Russia sanctions after Greece vetoes 21st package to protect shipping",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-vote-crypto-market-structure-bill/"
-    },
-    {
-      "headline": "Senate stalls CLARITY Act vote amid crypto ethics provision dispute",
-      "take": "Senate stalls CLARITY Act vote amid dispute over crypto ethics provision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-stalls-clarity-act-vote-amid-crypto-ethics-provision-dispute/"
+      "link": "https://cryptobriefing.com/eu-russia-sanctions-crypto-greece-veto/"
     }
   ]
 }

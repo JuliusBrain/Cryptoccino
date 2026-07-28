@@ -1,102 +1,96 @@
 {
-  "generated": "2026-07-28T16:52:54.308840+00:00",
-  "ts": 1785257574,
+  "generated": "2026-07-28T19:55:21.121486+00:00",
+  "ts": 1785268521,
   "market": [
     {
-      "headline": "Stacks activates PoX-5 upgrade to launch Bitcoin staking",
-      "take": "Stacks activates PoX-5 upgrade enabling Bitcoin staking",
+      "headline": "XRP price slides as Senate drops Clarity Act, Fed decision looms",
+      "take": "XRP slides as Senate drops Clarity Act and Fed decision approaches",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-pox-5-upgrade-bitcoin-staking/"
+      "link": "https://cryptobriefing.com/xrp-price-slides-as-senate-drops-clarity-act-fed-decision-looms/"
     },
     {
-      "headline": "Nasdaq 100 nears correction as AI spending fears hammer chip stocks",
-      "take": "Nasdaq 100 nears correction as AI spending concerns hit chip stocks",
+      "headline": "Nasdaq 100 enters correction territory as semiconductor selloff rattles markets",
+      "take": "Nasdaq 100 enters correction as semiconductor sector experiences sharp selloff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-correction-ai-investment-worries/"
+      "link": "https://cryptobriefing.com/nasdaq-100-correction-semiconductor-selloff/"
     },
     {
-      "headline": "Brent oil falls over 5%, trades below $84 amid easing US-Iran tensions",
-      "take": "Brent oil falls over 5% below $84 amid easing US-Iran tensions",
+      "headline": "Oil prices drop 16% as US-Iran tensions ease, Trump meets Netanyahu",
+      "take": "Oil prices drop 16% as US-Iran tensions ease, affecting energy markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-oil-falls-over-5-trades-below-84-amid-easing-us-iran-tensions/"
+      "link": "https://cryptobriefing.com/oil-prices-drop-16-as-us-iran-tensions-ease-trump-meets-netanyahu/"
     },
     {
-      "headline": "Robinhood Chain deposits surge even as daily active users slip 7%",
-      "take": "Robinhood Chain deposits surge despite daily active users declining 7%",
+      "headline": "Total value locked in Ethereum Layer 2 networks falls to $5B",
+      "take": "Ethereum Layer 2 TVL falls to $5B, ecosystem momentum continues declining",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-deposits-rise-users-drop/"
+      "link": "https://cryptobriefing.com/ethereum-layer-2-tvl-falls-5-billion/"
     },
     {
-      "headline": "Why the Bitcoin Rally Seems More Like a Bull Trap",
-      "take": "Bitcoin rally shows characteristics of potential bull trap pattern",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap"
+      "headline": "Hyperscale Data buys additional 18.59 Bitcoin, totaling 1,106.04 BTC",
+      "take": "Hyperscale Data acquires additional Bitcoin, expanding holdings to over 1,100",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperscale-data-bitcoin-treasury-1106-btc/"
     }
   ],
   "business": [
     {
-      "headline": "Emirates accepts Bitcoin and crypto payments for flights through Crypto.com partnership",
-      "take": "Emirates accepts Bitcoin and crypto payments via Crypto.com partnership",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emirates-bitcoin-crypto-payments-flights/"
+      "headline": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+      "take": "Morgan Stanley expands crypto offerings with new Ethereum and Solana ETPs",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps"
     },
     {
-      "headline": "MetaMask integrates VietQR for direct bank-to-wallet funding in Vietnam",
-      "take": "MetaMask integrates VietQR for direct bank-to-wallet funding in Vietnam",
+      "headline": "Ankr launches Forge rewards platform to sustain user engagement through real revenue, not token emissions",
+      "take": "Ankr launches Forge rewards platform emphasizing real revenue over token emissions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metamask-vietqr-vietnam-bank-wallet-funding/"
+      "link": "https://cryptobriefing.com/ankr-forge-rewards-platform-launch/"
     },
     {
-      "headline": "Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus",
-      "take": "Galaxy Digital purchases 500 acres in Texas for second AI data center",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409911/galaxy-digital-buys-500-acres-in-mcgregor-for-second-texas-ai-data-center-campus?utm_source=rss&utm_medium=rss"
+      "headline": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
+      "take": "Ondo pivots from tokenized asset blockchain to private high-speed trading network",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network"
     },
     {
-      "headline": "Core Scientific posts $164 million revenue as colocation growth accelerates",
-      "take": "Core Scientific posts $164M revenue as colocation business accelerates",
+      "headline": "Strategy launches $MSTR token on Solana via Sunrise gateway",
+      "take": "Strategy launches MSTR token on Solana, expanding Bitcoin proxy ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/core-scientific-revenue-doubles-q2-ai-colocation/"
+      "link": "https://cryptobriefing.com/strategy-mstr-token-solana-sunrise/"
     },
     {
-      "headline": "Crypto real estate empire collapses as $140 million tokenized property venture enters liquidation",
-      "take": "Crypto real estate venture with $140M tokenized property enters liquidation",
+      "headline": "RealToken liquidates $140M portfolio after investor decline",
+      "take": "RealToken liquidates $140M portfolio following significant investor decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/realt-crypto-real-estate-collapse/"
+      "link": "https://cryptobriefing.com/realtoken-liquidates-140m-portfolio/"
     }
   ],
   "security": [
     {
-      "headline": "Market maker token loans face scrutiny over transparency issues",
-      "take": "Market maker token loans face scrutiny over transparency gaps",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/market-maker-token-loans-transparency-scrutiny/"
+      "headline": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
+      "take": "Crypto hacks hit record high in H1 2026, losses exceed $1 billion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Elliptic supports compliant confidential finance with Zama",
-      "take": "Elliptic supports compliant confidential finance using Zama privacy tech",
-      "source": "elliptic",
-      "link": "https://www.elliptic.co/blog/elliptic-supports-compliant-confidential-finance-with-zama"
+      "headline": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
+      "take": "Zcash activates Ironwood upgrade to address counterfeiting vulnerability in Orchard pool",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare"
     }
   ],
   "policy": [
     {
-      "headline": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "take": "BlackRock, Fidelity and Wall Street giants back the Clarity Act",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act"
-    },
-    {
-      "headline": "US senators agree on bill allowing Trump to restrict Russian energy buyers",
-      "take": "US senators agree on bill allowing Trump to restrict Russian energy buyers",
+      "headline": "44 states align against prediction markets in sports wagering fight",
+      "take": "44 states align against prediction markets in ongoing sports wagering dispute",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-senators-agree-on-bill-allowing-trump-to-restrict-russian-energy-buyers/"
+      "link": "https://cryptobriefing.com/states-oppose-prediction-markets-sports-wagering/"
     },
     {
-      "headline": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
-      "take": "Russia outlines new digital depository rules ahead of fall crypto framework",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out"
+      "headline": "Paradigm submits comment letter to CFTC on event contracts proposal",
+      "take": "Paradigm submits CFTC comment on event contracts proposal for regulatory clarity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/paradigm-cftc-event-contracts-comment/"
     }
   ]
 }

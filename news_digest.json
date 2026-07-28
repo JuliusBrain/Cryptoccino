@@ -1,96 +1,108 @@
 {
-  "generated": "2026-07-28T19:55:21.121486+00:00",
-  "ts": 1785268521,
+  "generated": "2026-07-28T22:19:05.006152+00:00",
+  "ts": 1785277145,
   "market": [
     {
-      "headline": "XRP price slides as Senate drops Clarity Act, Fed decision looms",
-      "take": "XRP slides as Senate drops Clarity Act and Fed decision approaches",
+      "headline": "Morgan Stanley passes 100% of staking rewards to investors on new Ethereum and Solana ETFs",
+      "take": "Morgan Stanley passes full staking rewards to investors on new ETFs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-price-slides-as-senate-drops-clarity-act-fed-decision-looms/"
+      "link": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-staking-rewards/"
     },
     {
-      "headline": "Nasdaq 100 enters correction territory as semiconductor selloff rattles markets",
-      "take": "Nasdaq 100 enters correction as semiconductor sector experiences sharp selloff",
+      "headline": "Strategy quietly sold 3,588 Bitcoin and almost nobody noticed",
+      "take": "Strategy quietly sold 3,588 Bitcoin with minimal market reaction",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-correction-semiconductor-selloff/"
+      "link": "https://cryptobriefing.com/strategy-bitcoin-sale-metaplanet-leclair/"
     },
     {
-      "headline": "Oil prices drop 16% as US-Iran tensions ease, Trump meets Netanyahu",
-      "take": "Oil prices drop 16% as US-Iran tensions ease, affecting energy markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-drop-16-as-us-iran-tensions-ease-trump-meets-netanyahu/"
+      "headline": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+      "take": "Dovish Fed signals could support bitcoin price according to analysts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst"
     },
     {
-      "headline": "Total value locked in Ethereum Layer 2 networks falls to $5B",
-      "take": "Ethereum Layer 2 TVL falls to $5B, ecosystem momentum continues declining",
+      "headline": "JPYC tokenized yen sees market cap rise 60% in a month",
+      "take": "JPYC tokenized yen market cap rises 60 percent in one month",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-layer-2-tvl-falls-5-billion/"
+      "link": "https://cryptobriefing.com/jpyc-tokenized-yen-market-cap-rise/"
     },
     {
-      "headline": "Hyperscale Data buys additional 18.59 Bitcoin, totaling 1,106.04 BTC",
-      "take": "Hyperscale Data acquires additional Bitcoin, expanding holdings to over 1,100",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperscale-data-bitcoin-treasury-1106-btc/"
+      "headline": "Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure",
+      "take": "Ionic Digital jumps 25 percent on Nasdaq after mining expansion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-      "take": "Morgan Stanley expands crypto offerings with new Ethereum and Solana ETPs",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps"
-    },
-    {
-      "headline": "Ankr launches Forge rewards platform to sustain user engagement through real revenue, not token emissions",
-      "take": "Ankr launches Forge rewards platform emphasizing real revenue over token emissions",
+      "headline": "Visa deploys Anthropic\u2019s Claude Mythos to hunt vulnerabilities across its global payment network",
+      "take": "Visa deploys Claude AI to hunt vulnerabilities across payment network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ankr-forge-rewards-platform-launch/"
+      "link": "https://cryptobriefing.com/visa-anthropic-claude-mythos-payment-security/"
     },
     {
       "headline": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
-      "take": "Ondo pivots from tokenized asset blockchain to private high-speed trading network",
+      "take": "Ondo drops tokenized asset blockchain for private trading network",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network"
     },
     {
-      "headline": "Strategy launches $MSTR token on Solana via Sunrise gateway",
-      "take": "Strategy launches MSTR token on Solana, expanding Bitcoin proxy ecosystem",
+      "headline": "BlackRock targets Apollo, Blackstone, and Blue Owl in private credit with $220B war chest",
+      "take": "BlackRock targets rivals with 220 billion dollar private credit push",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-mstr-token-solana-sunrise/"
+      "link": "https://cryptobriefing.com/blackrock-private-credit-apollo-blackstone/"
     },
     {
-      "headline": "RealToken liquidates $140M portfolio after investor decline",
-      "take": "RealToken liquidates $140M portfolio following significant investor decline",
+      "headline": "SharpLink generates 420 ETH from staking rewards this week, treasury swells to 888,521 ETH",
+      "take": "SharpLink treasury swells to 888,521 ETH from weekly staking",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/realtoken-liquidates-140m-portfolio/"
+      "link": "https://cryptobriefing.com/sharplink-420-eth-staking-rewards-treasury/"
     }
   ],
   "security": [
     {
       "headline": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-      "take": "Crypto hacks hit record high in H1 2026, losses exceed $1 billion",
+      "take": "Crypto hacks hit record high in H1 2026, losses exceed one billion",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-      "take": "Zcash activates Ironwood upgrade to address counterfeiting vulnerability in Orchard pool",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare"
+      "headline": "JFrog discloses zero-day exploit in Artifactory after OpenAI models breached Hugging Face",
+      "take": "JFrog discloses zero-day exploit in Artifactory after Hugging Face breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jfrog-zero-day-openai-artifactory-breach/"
+    },
+    {
+      "headline": "Sam Altman says AI development may need to slow after Hugging Face security breach",
+      "take": "Sam Altman says AI development may need slowing after breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/altman-decelerate-ai-after-security-incident/"
     }
   ],
   "policy": [
     {
-      "headline": "44 states align against prediction markets in sports wagering fight",
-      "take": "44 states align against prediction markets in ongoing sports wagering dispute",
+      "headline": "SEC ready to draft crypto rules if Congress stalls on Clarity Act",
+      "take": "SEC ready to draft crypto rules if Congress stalls on Clarity Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/states-oppose-prediction-markets-sports-wagering/"
+      "link": "https://cryptobriefing.com/sec-ready-to-draft-crypto-rules-if-congress-stalls-on-clarity-act/"
     },
     {
-      "headline": "Paradigm submits comment letter to CFTC on event contracts proposal",
-      "take": "Paradigm submits CFTC comment on event contracts proposal for regulatory clarity",
+      "headline": "Crypto\u2019s Clarity Act Faces Longer Odds Despite Industry\u2019s Push",
+      "take": "Crypto's Clarity Act faces longer odds despite strong industry push",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/crypto-s-clarity-act-faces-longer-odds-despite-industry-s-push"
+    },
+    {
+      "headline": "America\u2019s Credit Unions urge Senate to block stablecoin yields, warning $6.6 trillion in deposits at risk",
+      "take": "US credit unions urge Senate to block stablecoin yields to protect deposits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paradigm-cftc-event-contracts-comment/"
+      "link": "https://cryptobriefing.com/credit-unions-block-stablecoin-yields/"
+    },
+    {
+      "headline": "Stephen Miran\u2019s monetarism revival could reshape Fed policy and crypto markets",
+      "take": "Stephen Miran's monetarism revival could reshape Fed and crypto policy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/miran-monetarism-fed-crypto-implications/"
     }
   ]
 }

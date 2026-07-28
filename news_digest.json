@@ -1,108 +1,102 @@
 {
-  "generated": "2026-07-28T11:29:56.323860+00:00",
-  "ts": 1785238196,
+  "generated": "2026-07-28T14:42:31.447144+00:00",
+  "ts": 1785249751,
   "market": [
     {
-      "headline": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
-      "take": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto act",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act"
-    },
-    {
-      "headline": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
-      "take": "Bitcoin consolidates near $68,500 resistance as Nasdaq futures weaken",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure"
-    },
-    {
-      "headline": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
-      "take": "SK Hynix perpetuals flash crash to $900 on Hyperliquid exchange",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid"
-    },
-    {
-      "headline": "PayPal Q2 earnings beat estimates with $1.38 EPS and $8.68B revenue as PYUSD expansion accelerates",
-      "take": "PayPal Q2 earnings beat with PYUSD stablecoin expansion accelerating",
+      "headline": "Morgan Stanley unveils Ethereum, Solana ETFs with lowest fees, staking rewards",
+      "take": "Morgan Stanley launches Ethereum and Solana ETFs with competitive fees and staking",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paypal-q2-earnings-beat-pyusd-expansion/"
+      "link": "https://cryptobriefing.com/morgan-stanley-unveils-ethereum-solana-etfs-with-lowest-fees-staking-rewards/"
     },
     {
-      "headline": "Crypto-native traders shift from memecoins to AI and semiconductor stocks",
-      "take": "Crypto traders shift from memecoins to AI and semiconductor stocks",
+      "headline": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+      "take": "Zcash completes $1.7 billion shielded pool upgrade improving privacy infrastructure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates"
+    },
+    {
+      "headline": "Core Scientific increases Bitcoin holdings by 301 BTC to 848 BTC",
+      "take": "Core Scientific increases Bitcoin holdings, signaling confidence in mining fundamentals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-traders-shift-memecoins-ai-semiconductor-stocks/"
+      "link": "https://cryptobriefing.com/core-scientific-bitcoin-holdings-increase/"
+    },
+    {
+      "headline": "Consumer inflation expectations cool in July, but rate hike fears persist",
+      "take": "Consumer inflation expectations cool but rate hike concerns persist into 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/consumer-inflation-expectations-lower-july/"
+    },
+    {
+      "headline": "Global chip stocks drop 13% in July, marking worst month since 2022",
+      "take": "Global chip stocks fall 13% in July, worst month since 2022",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/global-chip-stocks-decline-july-worst-month-2022/"
     }
   ],
   "business": [
     {
-      "headline": "Core Scientific partners with AMD to enhance compute capacity with 2.5 gigawatt deal",
-      "take": "Core Scientific partners AMD for 2.5 gigawatt compute capacity expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/core-scientific-amd-partnership-compute-capacity/"
+      "headline": "1inch launches Aqua publicly, a shared liquidity layer for DeFi across 13 chains",
+      "take": "1inch launches Aqua, a shared liquidity layer for cross-chain DeFi trading",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/409866/1inch-launches-aqua-publicly-a-shared-liquidity-layer-for-defi-across-13-chains?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Galaxy acquires 500 acres in Texas for new data center campus",
-      "take": "Galaxy Digital acquires 500 acres in Texas for data center",
+      "headline": "SwissBorg integrates Apple Pay for seamless crypto spending across Europe",
+      "take": "SwissBorg integrates Apple Pay for easier cryptocurrency spending in Europe",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-texas-data-center-campus/"
+      "link": "https://cryptobriefing.com/swissborg-apple-pay-crypto-card-europe/"
     },
     {
-      "headline": "1inch rolls out Aqua across 13 EVM blockchain networks",
-      "take": "1inch launches Aqua liquidity protocol across 13 EVM blockchain networks",
+      "headline": "Quasar Models builds decentralized AI training marketplace on Bittensor",
+      "take": "Quasar Models builds decentralized AI training marketplace on Bittensor network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/1inch-aqua-liquidity-protocol-13-chains/"
+      "link": "https://cryptobriefing.com/quasar-decentralized-ai-training-bittensor/"
     },
     {
-      "headline": "Nexo strengthens European operations with MiCA-licensed partners",
-      "take": "Nexo strengthens European operations with MiCA-licensed partners",
+      "headline": "Coinbase Markets introduces auction mode for USDC-BRL trading pair",
+      "take": "Coinbase Markets introduces auction mode for USDC-BRL trading pair",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nexo-micar-compliance-eea-partners/"
+      "link": "https://cryptobriefing.com/coinbase-auction-mode-usdc-brl/"
     },
     {
-      "headline": "Solana increases mainnet block compute limit by 66% to 100M CUs",
-      "take": "Solana increases mainnet block compute limit by 66 percent",
+      "headline": "Fish Audio raises $50M seed funding to develop AI voice models",
+      "take": "Fish Audio raises $50M seed funding for developing AI voice models",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-block-compute-limit-100m-cus/"
+      "link": "https://cryptobriefing.com/fish-audio-raises-seed-funding-ai-voice-models/"
     }
   ],
   "security": [
     {
-      "headline": "Hush Security raises $30M to tackle AI agent governance as non-human identity security heats up",
-      "take": "Hush Security raises $30M to govern AI agents and non-human identity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hush-security-30m-ai-agent-governance/"
+      "headline": "Binance makes fighting crypto crime more difficult, says new report",
+      "take": "Binance making crypto crime prevention harder, according to new research report",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article"
     },
     {
-      "headline": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
-      "take": "Artist sues AI meme generator over unauthorized ad templates",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates"
+      "headline": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
+      "take": "Apple kept fake Bitcoin wallet on App Store despite $875,000 theft report",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges"
     }
   ],
   "policy": [
     {
-      "headline": "Senate delays CLARITY Act for nominations, Russia sanctions bill",
-      "take": "Senate delays CLARITY Act due to nominations and Russia sanctions bill",
+      "headline": "Monetary Authority of Singapore directs banks to report crypto exposure and launches AI cyber taskforce",
+      "take": "Singapore regulators require banks to report crypto exposure and launch cyber taskforce",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-delays-clarity-act-for-nominations-russia-sanctions-bill/"
+      "link": "https://cryptobriefing.com/mas-singapore-banks-report-crypto-exposure/"
     },
     {
-      "headline": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban\u2014For Now",
-      "take": "Judge blocks Minnesota prediction market ban, Kalshi and Polymarket win",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now"
+      "headline": "Bank of Russia publishes draft rules for regulated crypto trading, custody, and settlement",
+      "take": "Russia's central bank publishes draft rules for regulated crypto trading and custody",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-russia-publishes-draft-rules-for-regulated-crypto-trading-custody-and-settlement/"
     },
     {
-      "headline": "IMF warns Brazil\u2019s stablecoin activity outpaces traditional capital flows",
-      "take": "IMF warns Brazil stablecoin activity outpaces traditional capital flows",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Inside the CME and CFTC\u2019s battle over onchain perpetual futures",
-      "take": "CME and CFTC battle over regulatory authority for onchain perpetuals",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures"
+      "headline": "US lawmakers probe CXMT\u2019s IPO over national security concerns as crypto markets offer parallel trading",
+      "take": "US lawmakers probe CXMT IPO over national security concerns amid crypto trading concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cxmt-ipo-national-security-crypto/"
     }
   ]
 }

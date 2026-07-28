@@ -1,84 +1,108 @@
 {
-  "generated": "2026-07-28T09:08:20.120760+00:00",
-  "ts": 1785229700,
+  "generated": "2026-07-28T11:29:56.323860+00:00",
+  "ts": 1785238196,
   "market": [
     {
-      "headline": "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms",
-      "take": "Bitcoin weakens in Asia trading as Federal Reserve rate decision approaches",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-28/bitcoin-weakens-in-asia-trading-as-fed-rate-decision-looms"
+      "headline": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
+      "take": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto act",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act"
     },
     {
-      "headline": "Dollar reaches one-month high on Fed hike speculation, putting pressure on Bitcoin",
-      "take": "Dollar hits one-month high on Fed rate hike speculation, pressuring Bitcoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-one-month-high-fed-hike-bitcoin-pressure/"
+      "headline": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+      "take": "Bitcoin consolidates near $68,500 resistance as Nasdaq futures weaken",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure"
     },
     {
-      "headline": "Bitcoin ETFs see $12M outflow, Ethereum funds gain $9M on July 27",
-      "take": "Bitcoin ETFs see $12M outflow while Ethereum funds gain $9M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-see-12m-outflow-ethereum-funds-gain-9m-on-july-27/"
+      "headline": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
+      "take": "SK Hynix perpetuals flash crash to $900 on Hyperliquid exchange",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid"
     },
     {
-      "headline": "Stablecoin market shrinks for the first time in four years, but usage tells a different story",
-      "take": "Stablecoin market shrinks for first time in four years despite rising usage",
+      "headline": "PayPal Q2 earnings beat estimates with $1.38 EPS and $8.68B revenue as PYUSD expansion accelerates",
+      "take": "PayPal Q2 earnings beat with PYUSD stablecoin expansion accelerating",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-market-shrinks-first-time-four-years/"
+      "link": "https://cryptobriefing.com/paypal-q2-earnings-beat-pyusd-expansion/"
     },
     {
-      "headline": "Oil prices plunge 7%-9% but US stocks, bonds remain stable",
-      "take": "Oil prices plunge 7-9% while US stocks and bonds remain stable",
+      "headline": "Crypto-native traders shift from memecoins to AI and semiconductor stocks",
+      "take": "Crypto traders shift from memecoins to AI and semiconductor stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-plunge-7-9-but-us-stocks-bonds-remain-stable/"
+      "link": "https://cryptobriefing.com/crypto-traders-shift-memecoins-ai-semiconductor-stocks/"
     }
   ],
   "business": [
     {
-      "headline": "Amazon invests $13B in Anthropic to boost open-weight AI models",
-      "take": "Amazon invests $13 billion in Anthropic to develop open-weight AI models",
+      "headline": "Core Scientific partners with AMD to enhance compute capacity with 2.5 gigawatt deal",
+      "take": "Core Scientific partners AMD for 2.5 gigawatt compute capacity expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-invests-13b-in-anthropic-to-boost-open-weight-ai-models/"
+      "link": "https://cryptobriefing.com/core-scientific-amd-partnership-compute-capacity/"
     },
     {
-      "headline": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-      "take": "Binance co-founder CZ backs crypto license passporting across ASEAN region",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Inside the CME and CFTC\u2019s battle over onchain perpetual futures",
-      "take": "CME and CFTC battle over regulatory authority for onchain perpetual futures",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures"
-    },
-    {
-      "headline": "Zimbabwe admits seven fintech projects to regulatory sandbox",
-      "take": "Zimbabwe admits seven fintech projects to regulatory sandbox program",
+      "headline": "Galaxy acquires 500 acres in Texas for new data center campus",
+      "take": "Galaxy Digital acquires 500 acres in Texas for data center",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zimbabwe-fintech-regulatory-sandbox/"
+      "link": "https://cryptobriefing.com/galaxy-texas-data-center-campus/"
+    },
+    {
+      "headline": "1inch rolls out Aqua across 13 EVM blockchain networks",
+      "take": "1inch launches Aqua liquidity protocol across 13 EVM blockchain networks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/1inch-aqua-liquidity-protocol-13-chains/"
+    },
+    {
+      "headline": "Nexo strengthens European operations with MiCA-licensed partners",
+      "take": "Nexo strengthens European operations with MiCA-licensed partners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nexo-micar-compliance-eea-partners/"
+    },
+    {
+      "headline": "Solana increases mainnet block compute limit by 66% to 100M CUs",
+      "take": "Solana increases mainnet block compute limit by 66 percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-block-compute-limit-100m-cus/"
     }
   ],
   "security": [
     {
-      "headline": "OFAC Sanctions Members of Hamas Financing Network",
-      "take": "OFAC sanctions members of Hamas financing network following financial investigation",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-hamas-facilitators-illicit-finance-july-2026/"
+      "headline": "Hush Security raises $30M to tackle AI agent governance as non-human identity security heats up",
+      "take": "Hush Security raises $30M to govern AI agents and non-human identity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hush-security-30m-ai-agent-governance/"
+    },
+    {
+      "headline": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
+      "take": "Artist sues AI meme generator over unauthorized ad templates",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates"
     }
   ],
   "policy": [
     {
+      "headline": "Senate delays CLARITY Act for nominations, Russia sanctions bill",
+      "take": "Senate delays CLARITY Act due to nominations and Russia sanctions bill",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-delays-clarity-act-for-nominations-russia-sanctions-bill/"
+    },
+    {
       "headline": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban\u2014For Now",
-      "take": "Judge blocks Minnesota prediction market ban in win for Kalshi, Polymarket",
+      "take": "Judge blocks Minnesota prediction market ban, Kalshi and Polymarket win",
       "source": "decrypt",
       "link": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now"
     },
     {
-      "headline": "HKMA prepares banks for quantum threats by 2030 amid tokenization push",
-      "take": "Hong Kong banking regulator prepares lenders for quantum threats by 2030",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hkma-quantum-preparedness-tokenization-2030/"
+      "headline": "IMF warns Brazil\u2019s stablecoin activity outpaces traditional capital flows",
+      "take": "IMF warns Brazil stablecoin activity outpaces traditional capital flows",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Inside the CME and CFTC\u2019s battle over onchain perpetual futures",
+      "take": "CME and CFTC battle over regulatory authority for onchain perpetuals",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures"
     }
   ]
 }

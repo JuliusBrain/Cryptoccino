@@ -1,102 +1,108 @@
 {
-  "generated": "2026-07-29T19:47:36.240175+00:00",
-  "ts": 1785354456,
+  "generated": "2026-07-29T22:15:47.284688+00:00",
+  "ts": 1785363347,
   "market": [
     {
-      "headline": "Fed holds rates steady as 3 officials push for hike while crypto market stays flat",
-      "take": "Fed holds rates steady; crypto market flat as officials debate future hikes",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410092/fed-holds-rates-steady-three-officials-push-hike-crypto-market-stays-flat?utm_source=rss&utm_medium=rss"
+      "headline": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
+      "take": "Robinhood posts best quarter as prediction markets and chain launch drive growth",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto"
     },
     {
-      "headline": "Nasdaq and S&P 500 rally after Fed holds rates steady, but Dow drops over 700 points",
-      "take": "Nasdaq and S&P 500 rally after Fed decision; Dow drops over seven hundred points",
+      "headline": "Federal reserve sees largest dissent favoring a rate hike since september 2016",
+      "take": "Federal Reserve sees largest rate-hike dissent since September 2016 amid inflation debate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-decision-nasdaq-sp500-rally-dow-drops/"
+      "link": "https://cryptobriefing.com/federal-reserve-sees-largest-dissent-favoring-a-rate-hike-since-september-2016/"
     },
     {
-      "headline": "As crypto perpetual futures boom, Ethereum\u2019s role is shifting",
-      "take": "Ethereum's role in crypto perpetual futures market is shifting significantly",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting"
-    },
-    {
-      "headline": "Solana users transact nearly $4B on WalletConnect in H1 2026",
-      "take": "Solana users transacted nearly four billion dollars on WalletConnect in first half",
+      "headline": "The 30-year U.S. treasury yield has climbed to its highest level since 2007",
+      "take": "Thirty-year Treasury yield climbs to highest level since 2007 amid rate uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-walletconnect-4b-h1-2026/"
+      "link": "https://cryptobriefing.com/the-30-year-us-treasury-yield-has-climbed-to-its-highest-level-since-2007/"
+    },
+    {
+      "headline": "Stocks and bonds see wild \u2018Fed day\u2019 swings as Wall Street\u2019s \u2018crash cushion\u2019 evaporates",
+      "take": "Stocks and bonds swing wildly on Fed day as market cushion deteriorates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion/"
+    },
+    {
+      "headline": "Goldman Sachs cuts Q2 GDP growth forecast to 1.8%, and crypto markets are watching closely",
+      "take": "Goldman Sachs cuts Q2 GDP forecast to 1.8% as crypto watches macro headwinds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-sachs-cuts-q2-gdp-forecast/"
     }
   ],
   "business": [
     {
-      "headline": "Aviva Investors launches tokenized money market fund on XRP Ledger in partnership with Ripple",
-      "take": "Aviva Investors launches tokenized money market fund on XRP Ledger with Ripple",
+      "headline": "Offchain Labs CEO makes the case for Arbitrum\u2019s licensing model as Base walks away from Optimism revenue sharing",
+      "take": "Arbitrum CEO defends licensing model as Base exits Optimism revenue sharing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aviva-investors-tokenized-fund-xrp-ledger-ripple/"
+      "link": "https://cryptobriefing.com/offchain-ceo-arbitrum-licensing-base-optimism/"
+    },
+    {
+      "headline": "Robinhood reports $25M revenue from Trump accounts in Q2 as program draws 7 million sign-ups",
+      "take": "Robinhood reports twenty-five million Trump account revenue with seven million sign-ups",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-trump-accounts-q2-revenue/"
     },
     {
       "headline": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT\u2014And Lets It Pay for Things",
-      "take": "MoonPay's PayBox integrates crypto wallet into Claude and ChatGPT for payments",
+      "take": "MoonPay embeds crypto wallet and payment into Claude and ChatGPT integrations",
       "source": "decrypt",
       "link": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt"
     },
     {
-      "headline": "Millennium seeks $20B from investors to expand multistrategy hedge fund operations",
-      "take": "Millennium seeks twenty billion from investors to expand multistrategy hedge fund",
+      "headline": "Binance.US plans CFTC application in prediction market expansion",
+      "take": "Binance.US plans CFTC application to expand prediction market operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/millennium-20-billion-hedge-fund-raise/"
+      "link": "https://cryptobriefing.com/binance-us-plans-cftc-application-in-prediction-market-expansion/"
     },
     {
-      "headline": "\u2018Ethereum Cypherpunk Manifesto\u2019 author joins Ethereum Foundation as fourth board member",
-      "take": "Ethereum Cypherpunk Manifesto author joins Ethereum Foundation as fourth board member",
+      "headline": "Pump.fun token graduation rate jumps after BOOST changes launch incentives",
+      "take": "Pump.fun token graduation rate rises after BOOST incentive changes launch",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/409815/pump-fun-token-graduation-rate-jumps-boost-changes-launch-incentives?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "US Treasury sanctions Iranian firms running maritime extortion scheme with crypto payment ties",
-      "take": "US Treasury sanctions Iranian firms running maritime extortion scheme with crypto ties",
+      "headline": "Bloomberg investigates manipulation risks in prediction markets as $200M in suspicious trades surface",
+      "take": "Bloomberg investigates manipulation risks; two hundred million in suspicious trades surfaced",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-sanctions-iran-maritime-crypto-scheme/"
+      "link": "https://cryptobriefing.com/bloomberg-prediction-markets-manipulation-risks/"
     },
     {
-      "headline": "Senate Democrats press Meta on AI safeguards as crypto scam losses mount",
-      "take": "Senate Democrats press Meta on AI safeguards as crypto scam losses mount",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-democrats-meta-ai-safeguards-crypto-scams/"
-    },
-    {
-      "headline": "New tool easily jailbreaks safeguards of frontier AI models, raising alarm for crypto and tech sectors",
-      "take": "New tool jailbreaks frontier AI model safeguards, raising alarms for crypto sectors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-jailbreak-tool-frontier-models/"
-    },
-    {
-      "headline": "Merkle Science is building blockchain privacy that regulators can actually live with",
-      "take": "Merkle Science builds blockchain privacy solutions that regulators can accept",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/merkle-science-confidential-transfers-blockchain-privacy/"
+      "headline": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+      "take": "Researchers develop new method to protect Bitcoin against quantum computing threats",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. president Trump said he wants Congress to add tariffs on Iran to the Russia sanctions bill",
-      "take": "Trump wants Congress to add Iran tariffs to Russia sanctions bill",
+      "headline": "US slaps new Iran sanctions on insurers and tankers, with crypto payment evasion in the crosshairs",
+      "take": "US sanctions Iran insurers and tankers; crypto payment evasion targeted explicitly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-president-trump-said-he-wants-congress-to-add-tariffs-on-iran-to-the-russia/"
+      "link": "https://cryptobriefing.com/us-iran-sanctions-insurers-tankers-crypto/"
     },
     {
-      "headline": "New Fed Chair Kevin Warsh holds rates steady, signals hawkish path that could rattle crypto markets",
-      "take": "New Fed Chair Kevin Warsh holds rates steady, signals hawkish path ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chair-warsh-fomc-rates-crypto/"
+      "headline": "Tennessee county passes another ban on crypto operations",
+      "take": "Tennessee county passes another ban on cryptocurrency operations and related activities",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: \u2018Our role is not to pick winners\u2019",
-      "take": "Visa CEO sidesteps labeling Open USD as competitor to Tether and USDC",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss"
+      "headline": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
+      "take": "US prosecutors propose CLARITY changes as voting window narrows significantly",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "American fintech firm block officially endorses the clarity act",
+      "take": "Block fintech firm officially endorses clarity act for regulatory framework",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/american-fintech-firm-block-officially-endorses-the-clarity-act/"
     }
   ]
 }

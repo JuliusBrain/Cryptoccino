@@ -1,7 +1,19 @@
 {
-  "generated": "2026-07-29T03:44:22.784517+00:00",
-  "ts": 1785296662,
+  "generated": "2026-07-29T09:12:57.764530+00:00",
+  "ts": 1785316377,
   "market": [
+    {
+      "headline": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+      "take": "Bitcoin clears $64,000 ahead of Federal Reserve decision",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision"
+    },
+    {
+      "headline": "Citadel calls for a surprise 25bps Fed rate hike today, against broad market consensus for no change",
+      "take": "Citadel bets on Fed rate hike while market consensus expects no change",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/citadel-calls-for-a-surprise-25bps-fed-rate-hike-today-against-broad-market/"
+    },
     {
       "headline": "Fed futures open interest hits record before rate decision",
       "take": "Fed futures open interest hits record before rate decision",
@@ -9,22 +21,16 @@
       "link": "https://cryptobriefing.com/fed-interest-rate-futures-all-time-high/"
     },
     {
-      "headline": "JPYC tokenized yen sees market cap rise 60% in a month",
-      "take": "Tokenized yen market cap rises sixty percent in one month",
+      "headline": "Hyperliquid sees real-world assets surpass crypto in weekly trading volume",
+      "take": "Hyperliquid real-world assets trading volume surpasses cryptocurrency",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpyc-tokenized-yen-market-cap-rise/"
+      "link": "https://cryptobriefing.com/hyperliquid-sees-real-world-assets-surpass-crypto-in-weekly-trading-volume/"
     },
     {
-      "headline": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
-      "take": "Dovish Fed signals could support bitcoin price recovery",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst"
-    },
-    {
-      "headline": "Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure",
-      "take": "Ionic Digital jumps twenty-five percent on Nasdaq debut",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure?utm_source=rss&utm_medium=rss"
+      "headline": "BlackRock clients sell $55M in Bitcoin amid volatile fund flows in 2026",
+      "take": "BlackRock clients sell $55M Bitcoin amid volatile fund flows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-clients-sell-55m-in-bitcoin-amid-volatile-fund-flows-in-2026/"
     }
   ],
   "business": [
@@ -35,62 +41,68 @@
       "link": "https://cryptobriefing.com/rl1-european-blockchain-cooperative-launch/"
     },
     {
+      "headline": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
+      "take": "Ark Invest buys $12M SpaceX, trims Block and Robinhood holdings",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410002/ark-invest-buys-spacex-trims-block-bullish-robinhood?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+      "take": "AI trading firm covers $60M crypto liquidation losses from price anomaly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses"
+    },
+    {
       "headline": "Coinbase wants to be Canada\u2019s \u2018everything exchange,\u2019 but says clearer rules are needed first",
-      "take": "Coinbase seeks clearer rules to expand Canadian exchange offerings",
+      "take": "Coinbase seeks Canadian expansion but needs clearer regulatory framework",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first"
     },
     {
-      "headline": "Visa deploys Anthropic\u2019s Claude Mythos to hunt vulnerabilities across its global payment network",
-      "take": "Visa deploys Claude to identify vulnerabilities in payment network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/visa-anthropic-claude-mythos-payment-security/"
-    },
-    {
-      "headline": "BlackRock targets Apollo, Blackstone, and Blue Owl in private credit with $220B war chest",
-      "take": "BlackRock deploys two hundred twenty billion in private credit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-private-credit-apollo-blackstone/"
+      "headline": "Uniswap founder rejects claims v4 fees reduce LP earnings",
+      "take": "Uniswap founder defends v4 fee structure against LP earnings concerns",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
-      "headline": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-      "take": "Crypto hacks hit record high in first half with one billion losses",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "OpenAI agents hack Hugging Face during GPT-5.6 SOL testing: Axios",
-      "take": "AI agents breach Hugging Face during security testing",
+      "headline": "Crypto hedge fund manager gets 37 months in prison for tax evasion after renouncing US citizenship",
+      "take": "Crypto hedge fund manager sentenced to 37 months for tax evasion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-agents-hack-hugging-face-during-gpt-56-sol-testing-axios/"
-    },
-    {
-      "headline": "JFrog discloses zero-day exploit in Artifactory after OpenAI models breached Hugging Face",
-      "take": "JFrog discloses zero-day exploit in Artifactory software",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jfrog-zero-day-openai-artifactory-breach/"
+      "link": "https://cryptobriefing.com/crypto-fund-manager-sentenced-tax-evasion/"
     }
   ],
   "policy": [
     {
+      "headline": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+      "take": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism"
+    },
+    {
       "headline": "Momentum for Clarity Act fades as Senate shelves crypto market structure bill until fall",
-      "take": "Senate shelves Clarity Act until fall, stalling crypto regulation",
+      "take": "Senate shelves Clarity Act crypto bill until fall amid unresolved issues",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/clarity-act-momentum-fades-crypto-regulation/"
     },
     {
       "headline": "SEC ready to issue crypto rules if Congress doesn\u2019t pass CLARITY Act, Chair Atkins says",
-      "take": "SEC chair says agency ready to draft rules if Congress delays",
+      "take": "SEC Chair says agency ready to issue crypto rules if Congress doesn't act",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-ready-to-issue-crypto-rules-if-congress-doesnt-pass-clarity-act-chair-atkins-says/"
     },
     {
-      "headline": "Myanmar parliament passes crypto scam bill with penalties up to life",
-      "take": "Myanmar parliament passes crypto scam bill with life penalties",
+      "headline": "UK policy sprint finds cross-border payments are stablecoins\u2019 top use case",
+      "take": "UK finds cross-border payments as stablecoins' primary use case",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets",
+      "take": "Coalition of 44 state attorneys general challenges CFTC sports market authority",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410013/state-attorneys-general-cftc-letter-prediction-markets?utm_source=rss&utm_medium=rss"
     }
   ]
 }

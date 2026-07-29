@@ -1,114 +1,102 @@
 {
-  "generated": "2026-07-29T16:40:02.627876+00:00",
-  "ts": 1785343202,
+  "generated": "2026-07-29T19:47:36.240175+00:00",
+  "ts": 1785354456,
   "market": [
     {
-      "headline": "Meta stock hits longest daily losing streak in history, shedding $223 billion in market cap",
-      "take": "Meta stock hits longest losing streak, sheds $223 billion market cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-stock-longest-losing-streak-history/"
-    },
-    {
-      "headline": "Dow Jones tumbles 800 points as Trump\u2019s Iran threat rattles markets ahead of Fed decision",
-      "take": "Dow tumbles 800 points as Iran tensions threaten ahead of Fed decision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-jones-800-points-iran-threat-fed-decision/"
-    },
-    {
-      "headline": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
-      "take": "Coinbase faces spot trading slump, Wall Street trims earnings expectations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future"
-    },
-    {
-      "headline": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
-      "take": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
+      "headline": "Fed holds rates steady as 3 officials push for hike while crypto market stays flat",
+      "take": "Fed holds rates steady; crypto market flat as officials debate future hikes",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410092/fed-holds-rates-steady-three-officials-push-hike-crypto-market-stays-flat?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Metaplanet starts first-tranche Bitbonds offering in Japan with 4% yield",
-      "take": "Metaplanet launches Bitbonds offering in Japan with 4% yield",
+      "headline": "Nasdaq and S&P 500 rally after Fed holds rates steady, but Dow drops over 700 points",
+      "take": "Nasdaq and S&P 500 rally after Fed decision; Dow drops over seven hundred points",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metaplanet-bitbonds-offering-japan/"
+      "link": "https://cryptobriefing.com/fed-rate-decision-nasdaq-sp500-rally-dow-drops/"
+    },
+    {
+      "headline": "As crypto perpetual futures boom, Ethereum\u2019s role is shifting",
+      "take": "Ethereum's role in crypto perpetual futures market is shifting significantly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting"
+    },
+    {
+      "headline": "Solana users transact nearly $4B on WalletConnect in H1 2026",
+      "take": "Solana users transacted nearly four billion dollars on WalletConnect in first half",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-walletconnect-4b-h1-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Virtuals Protocol powers $200M agent economy on Robinhood Chain in under a month",
-      "take": "Virtuals Protocol powers $200 million agent economy on Robinhood Chain",
+      "headline": "Aviva Investors launches tokenized money market fund on XRP Ledger in partnership with Ripple",
+      "take": "Aviva Investors launches tokenized money market fund on XRP Ledger with Ripple",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/virtuals-protocol-200m-robinhood-chain/"
+      "link": "https://cryptobriefing.com/aviva-investors-tokenized-fund-xrp-ledger-ripple/"
     },
     {
-      "headline": "MoonPay launches PayBox to let ChatGPT and Claude execute payments",
-      "take": "MoonPay launches PayBox enabling ChatGPT and Claude to execute payments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonpay-launches-paybox-to-let-chatgpt-and-claude-execute-payments/"
+      "headline": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT\u2014And Lets It Pay for Things",
+      "take": "MoonPay's PayBox integrates crypto wallet into Claude and ChatGPT for payments",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt"
     },
     {
-      "headline": "TRON powers 65% of World Cup ticket settlements using USDT",
-      "take": "TRON settles 65% of World Cup ticket transactions using USDT",
+      "headline": "Millennium seeks $20B from investors to expand multistrategy hedge fund operations",
+      "take": "Millennium seeks twenty billion from investors to expand multistrategy hedge fund",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-world-cup-usdt-ticket-settlements/"
+      "link": "https://cryptobriefing.com/millennium-20-billion-hedge-fund-raise/"
     },
     {
-      "headline": "Solflare launches simpler cross-chain deposits powered by Aurora Intents",
-      "take": "Solflare launches simpler cross-chain deposits powered by Aurora Intents",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solflare-launches-simpler-cross-chain-deposits-powered-by-aurora-intents/"
-    },
-    {
-      "headline": "Ethereum Institutional completes first funding round with backing from 100+ ecosystem partners",
-      "take": "Ethereum Institutional completes first funding round with 100+ ecosystem partners",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-institutional-funding-round-100-backers/"
+      "headline": "\u2018Ethereum Cypherpunk Manifesto\u2019 author joins Ethereum Foundation as fourth board member",
+      "take": "Ethereum Cypherpunk Manifesto author joins Ethereum Foundation as fourth board member",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Crypto records most hacked half-year ever with 212 exploits and $1.1 billion stolen",
-      "take": "Crypto records most hacked half-year with 212 exploits, $1.1 billion stolen",
+      "headline": "US Treasury sanctions Iranian firms running maritime extortion scheme with crypto payment ties",
+      "take": "US Treasury sanctions Iranian firms running maritime extortion scheme with crypto ties",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-most-hacked-half-year-1b-stolen/"
+      "link": "https://cryptobriefing.com/treasury-sanctions-iran-maritime-crypto-scheme/"
     },
     {
-      "headline": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
-      "take": "OpenAI rogue AI hacked four additional platforms besides Hugging Face",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face"
+      "headline": "Senate Democrats press Meta on AI safeguards as crypto scam losses mount",
+      "take": "Senate Democrats press Meta on AI safeguards as crypto scam losses mount",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-democrats-meta-ai-safeguards-crypto-scams/"
     },
     {
-      "headline": "Boston Dynamics CEO warns against Chinese robots in US, citing active data leaks",
-      "take": "Boston Dynamics CEO warns against Chinese robots in US over data leaks",
+      "headline": "New tool easily jailbreaks safeguards of frontier AI models, raising alarm for crypto and tech sectors",
+      "take": "New tool jailbreaks frontier AI model safeguards, raising alarms for crypto sectors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boston-dynamics-ceo-warns-chinese-robots/"
+      "link": "https://cryptobriefing.com/ai-jailbreak-tool-frontier-models/"
+    },
+    {
+      "headline": "Merkle Science is building blockchain privacy that regulators can actually live with",
+      "take": "Merkle Science builds blockchain privacy solutions that regulators can accept",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/merkle-science-confidential-transfers-blockchain-privacy/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
-      "take": "SEC ready to provide crypto rules if Clarity Act fails, Chair Atkins says",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins"
-    },
-    {
-      "headline": "US Senate advances Russia sanctions bill 86-0 after Zelensky lobbies all 100 senators",
-      "take": "US Senate advances Russia sanctions bill 86-0 after Zelensky lobbies senators",
+      "headline": "U.S. president Trump said he wants Congress to add tariffs on Iran to the Russia sanctions bill",
+      "take": "Trump wants Congress to add Iran tariffs to Russia sanctions bill",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-russia-sanctions-bill-crypto-impact/"
+      "link": "https://cryptobriefing.com/us-president-trump-said-he-wants-congress-to-add-tariffs-on-iran-to-the-russia/"
     },
     {
-      "headline": "\u2018The moment to act is now\u2019: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
-      "take": "Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
+      "headline": "New Fed Chair Kevin Warsh holds rates steady, signals hawkish path that could rattle crypto markets",
+      "take": "New Fed Chair Kevin Warsh holds rates steady, signals hawkish path ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-fomc-rates-crypto/"
+    },
+    {
+      "headline": "Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: \u2018Our role is not to pick winners\u2019",
+      "take": "Visa CEO sidesteps labeling Open USD as competitor to Tether and USDC",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "UK watchdog investigates Microsoft over potential misleading practices tied to Copilot AI pricing",
-      "take": "UK watchdog investigates Microsoft over potential misleading Copilot AI pricing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-cma-investigates-microsoft-copilot-pricing/"
+      "link": "https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss"
     }
   ]
 }

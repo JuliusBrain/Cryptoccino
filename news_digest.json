@@ -1,108 +1,96 @@
 {
-  "generated": "2026-07-29T09:12:57.764530+00:00",
-  "ts": 1785316377,
+  "generated": "2026-07-29T11:35:44.369676+00:00",
+  "ts": 1785324944,
   "market": [
     {
-      "headline": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
-      "take": "Bitcoin clears $64,000 ahead of Federal Reserve decision",
+      "headline": "US Federal Reserve expected to hold interest rates steady as crypto markets brace for volatility",
+      "take": "Federal Reserve expected to hold rates steady amid crypto market uncertainty",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-interest-rates-hold-crypto-impact/"
+    },
+    {
+      "headline": "Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision",
+      "take": "Bitcoin stabilizes above $64,000 ahead of Fed interest-rate decision",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision"
+      "link": "https://www.coindesk.com/markets/2026/07/29/bitcoin-steadies-above-usd64-000-as-crypto-looks-to-fed-interest-rate-decision"
     },
     {
-      "headline": "Citadel calls for a surprise 25bps Fed rate hike today, against broad market consensus for no change",
-      "take": "Citadel bets on Fed rate hike while market consensus expects no change",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citadel-calls-for-a-surprise-25bps-fed-rate-hike-today-against-broad-market/"
+      "headline": "\u2018Sleepy July\u2019: K33 says bitcoin spot volume on track for weakest month since late 2023",
+      "take": "Bitcoin spot trading volume on track for weakest month since late 2023",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410017/sleepy-july-k33-says-bitcoin-spot-volume-on-track-for-weakest-month-since-late-2023?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Fed futures open interest hits record before rate decision",
-      "take": "Fed futures open interest hits record before rate decision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-interest-rate-futures-all-time-high/"
-    },
-    {
-      "headline": "Hyperliquid sees real-world assets surpass crypto in weekly trading volume",
-      "take": "Hyperliquid real-world assets trading volume surpasses cryptocurrency",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-sees-real-world-assets-surpass-crypto-in-weekly-trading-volume/"
-    },
-    {
-      "headline": "BlackRock clients sell $55M in Bitcoin amid volatile fund flows in 2026",
-      "take": "BlackRock clients sell $55M Bitcoin amid volatile fund flows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-sell-55m-in-bitcoin-amid-volatile-fund-flows-in-2026/"
+      "headline": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
+      "take": "Binance launches gold and silver options as commodity futures gain traction",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume"
     }
   ],
   "business": [
     {
-      "headline": "European financial institutions unite to launch RL1 blockchain infrastructure",
-      "take": "European financial institutions launch RL1 blockchain infrastructure",
+      "headline": "BNY launches digital transfer agent for tokenized funds: FT",
+      "take": "BNY launches digital transfer agent for tokenized funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rl1-european-blockchain-cooperative-launch/"
+      "link": "https://cryptobriefing.com/bny-blockchain-digital-transfer-agency/"
     },
     {
-      "headline": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
-      "take": "Ark Invest buys $12M SpaceX, trims Block and Robinhood holdings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410002/ark-invest-buys-spacex-trims-block-bullish-robinhood?utm_source=rss&utm_medium=rss"
+      "headline": "Alpen Labs kicks off Testnet III integrations with 21 partners to build Bitcoin-native DeFi",
+      "take": "Alpen Labs starts Testnet III integrations with 21 Bitcoin-native DeFi partners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alpen-labs-testnet-iii-bitcoin-defi/"
     },
     {
-      "headline": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "take": "AI trading firm covers $60M crypto liquidation losses from price anomaly",
+      "headline": "OSL Group becomes first licensed exchange in Hong Kong to offer retail XRP trading",
+      "take": "OSL Group becomes first licensed Hong Kong exchange offering retail XRP trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/osl-hong-kong-retail-xrp-trading/"
+    },
+    {
+      "headline": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
+      "take": "Ionic Digital surges 26% in Nasdaq debut, provides Celsius claimholder exit",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses"
+      "link": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route"
     },
     {
-      "headline": "Coinbase wants to be Canada\u2019s \u2018everything exchange,\u2019 but says clearer rules are needed first",
-      "take": "Coinbase seeks Canadian expansion but needs clearer regulatory framework",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first"
-    },
-    {
-      "headline": "Uniswap founder rejects claims v4 fees reduce LP earnings",
-      "take": "Uniswap founder defends v4 fee structure against LP earnings concerns",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "TRON lists TRX spot trading and perpetual contracts on Backpack Exchange",
+      "take": "TRON lists TRX spot trading and perpetuals on Backpack Exchange",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tron-trx-backpack-exchange-listing/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto hedge fund manager gets 37 months in prison for tax evasion after renouncing US citizenship",
-      "take": "Crypto hedge fund manager sentenced to 37 months for tax evasion",
+      "headline": "Crypto losses from security incidents in the first half of 2026 exceeded $1 billion across 212 incidents, marking the highest total for any six-month period",
+      "take": "Crypto losses from security incidents exceeded $1B in first half 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-fund-manager-sentenced-tax-evasion/"
+      "link": "https://cryptobriefing.com/crypto-losses-from-security-incidents-in-the-first-half-of-2026-exceeded-1/"
+    },
+    {
+      "headline": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
+      "take": "Fake iPhone wallet app drains $1.8M in Bitcoin from users",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin"
     }
   ],
   "policy": [
     {
-      "headline": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "take": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism"
-    },
-    {
-      "headline": "Momentum for Clarity Act fades as Senate shelves crypto market structure bill until fall",
-      "take": "Senate shelves Clarity Act crypto bill until fall amid unresolved issues",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-momentum-fades-crypto-regulation/"
-    },
-    {
-      "headline": "SEC ready to issue crypto rules if Congress doesn\u2019t pass CLARITY Act, Chair Atkins says",
-      "take": "SEC Chair says agency ready to issue crypto rules if Congress doesn't act",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-ready-to-issue-crypto-rules-if-congress-doesnt-pass-clarity-act-chair-atkins-says/"
-    },
-    {
-      "headline": "UK policy sprint finds cross-border payments are stablecoins\u2019 top use case",
-      "take": "UK finds cross-border payments as stablecoins' primary use case",
+      "headline": "Telegram founder Pavel Durov internationally wanted, Russia\u2019s FSB says",
+      "take": "Telegram founder Pavel Durov internationally wanted by Russia's FSB",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets",
-      "take": "Coalition of 44 state attorneys general challenges CFTC sports market authority",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410013/state-attorneys-general-cftc-letter-prediction-markets?utm_source=rss&utm_medium=rss"
+      "headline": "Binance disappears from Google Play in certain EU countries",
+      "take": "Binance disappears from Google Play in certain European Union countries",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Hungary repeals crypto checks as first MiCA license is granted",
+      "take": "Hungary repeals crypto checks as first MiCA license granted",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

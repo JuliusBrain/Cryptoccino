@@ -1,96 +1,102 @@
 {
-  "generated": "2026-07-29T11:35:44.369676+00:00",
-  "ts": 1785324944,
+  "generated": "2026-07-29T14:33:41.430457+00:00",
+  "ts": 1785335621,
   "market": [
     {
-      "headline": "US Federal Reserve expected to hold interest rates steady as crypto markets brace for volatility",
-      "take": "Federal Reserve expected to hold rates steady amid crypto market uncertainty",
+      "headline": "Fed faces 27% implied probability of interest rate increase ahead of july meeting",
+      "take": "Fed faces 27% probability of rate increase ahead of July meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-interest-rates-hold-crypto-impact/"
+      "link": "https://cryptobriefing.com/fed-faces-27-implied-probability-of-interest-rate-increase-ahead-of-july-meeting/"
     },
     {
-      "headline": "Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision",
-      "take": "Bitcoin stabilizes above $64,000 ahead of Fed interest-rate decision",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/29/bitcoin-steadies-above-usd64-000-as-crypto-looks-to-fed-interest-rate-decision"
+      "headline": "The US dollar just went from insurance policy to growth stock, and crypto should pay attention",
+      "take": "US dollar shifted from insurance policy to growth stock, affecting crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-dollar-growth-stock-crypto-implications/"
     },
     {
-      "headline": "\u2018Sleepy July\u2019: K33 says bitcoin spot volume on track for weakest month since late 2023",
-      "take": "Bitcoin spot trading volume on track for weakest month since late 2023",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410017/sleepy-july-k33-says-bitcoin-spot-volume-on-track-for-weakest-month-since-late-2023?utm_source=rss&utm_medium=rss"
+      "headline": "VanEck semiconductor ETF sees $25B in inflows despite 20% decline",
+      "take": "VanEck semiconductor ETF sees $25B inflows despite 20% decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vaneck-semiconductor-etf-25b-inflows-decline/"
     },
     {
-      "headline": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-      "take": "Binance launches gold and silver options as commodity futures gain traction",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume"
+      "headline": "Strive pays 37th consecutive daily dividend on its Bitcoin-backed preferred stock",
+      "take": "Strive pays 37th consecutive daily dividend on Bitcoin-backed preferred stock",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-37-consecutive-daily-dividends-bitcoin/"
+    },
+    {
+      "headline": "Dragonfly Capital moves $2M in APEX tokens to Bybit, raising questions about VC selling pressure",
+      "take": "Dragonfly Capital moves $2M APEX tokens to Bybit, raising VC selling pressure questions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dragonfly-capital-sells-apex-tokens-bybit/"
     }
   ],
   "business": [
     {
-      "headline": "BNY launches digital transfer agent for tokenized funds: FT",
-      "take": "BNY launches digital transfer agent for tokenized funds",
+      "headline": "MoonPay launches PayBox, enabling AI agents to conduct token transactions on Solana via conversations",
+      "take": "MoonPay launches PayBox enabling AI agents to transact tokens on Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bny-blockchain-digital-transfer-agency/"
+      "link": "https://cryptobriefing.com/moonpay-launches-paybox-enabling-ai-agents-to-conduct-token-transactions-on/"
     },
     {
-      "headline": "Alpen Labs kicks off Testnet III integrations with 21 partners to build Bitcoin-native DeFi",
-      "take": "Alpen Labs starts Testnet III integrations with 21 Bitcoin-native DeFi partners",
+      "headline": "Jupiter Spot V2 launches as complete trading terminal on Solana",
+      "take": "Jupiter Spot V2 launches as complete trading terminal on Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alpen-labs-testnet-iii-bitcoin-defi/"
+      "link": "https://cryptobriefing.com/jupiter-spot-v2-solana-trading-terminal/"
     },
     {
-      "headline": "OSL Group becomes first licensed exchange in Hong Kong to offer retail XRP trading",
-      "take": "OSL Group becomes first licensed Hong Kong exchange offering retail XRP trading",
+      "headline": "Tether\u2019s USAT stablecoin launches on Celo with native mint, burn, and gas fee support",
+      "take": "Tether's USAT stablecoin launches on Celo with native mint and burn",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/osl-hong-kong-retail-xrp-trading/"
+      "link": "https://cryptobriefing.com/tether-usat-stablecoin-launches-celo/"
     },
     {
-      "headline": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "take": "Ionic Digital surges 26% in Nasdaq debut, provides Celsius claimholder exit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route"
+      "headline": "Polymarket launches research institute to study the future of prediction markets: Report",
+      "take": "Polymarket launches research institute to study prediction markets future",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-institute-prediction-markets-research/"
     },
     {
-      "headline": "TRON lists TRX spot trading and perpetual contracts on Backpack Exchange",
-      "take": "TRON lists TRX spot trading and perpetuals on Backpack Exchange",
+      "headline": "Eliyan raises $145M at $1B valuation to scale AI connectivity",
+      "take": "Eliyan raises $145M at $1B valuation to scale AI connectivity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-trx-backpack-exchange-listing/"
+      "link": "https://cryptobriefing.com/eliyan-raises-145m-ai-chip-bottlenecks/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto losses from security incidents in the first half of 2026 exceeded $1 billion across 212 incidents, marking the highest total for any six-month period",
-      "take": "Crypto losses from security incidents exceeded $1B in first half 2026",
+      "headline": "Robinhood reportedly working on zero-knowledge privacy protocol for anonymous swaps",
+      "take": "Robinhood reportedly working on zero-knowledge protocol for anonymous swaps",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-losses-from-security-incidents-in-the-first-half-of-2026-exceeded-1/"
+      "link": "https://cryptobriefing.com/robinhood-zk-privacy-protocol-anonymous-swaps/"
     },
     {
-      "headline": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
-      "take": "Fake iPhone wallet app drains $1.8M in Bitcoin from users",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin"
+      "headline": "Zcash\u2019s new Ironwood pool receives $80M in first day as network seals old shielded pool",
+      "take": "Zcash's Ironwood pool receives $80M in first day, seals old shielded pool",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zcash-ironwood-pool-80m-first-day/"
     }
   ],
   "policy": [
     {
-      "headline": "Telegram founder Pavel Durov internationally wanted, Russia\u2019s FSB says",
-      "take": "Telegram founder Pavel Durov internationally wanted by Russia's FSB",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "American Bankers Association CEO backs Clarity Act, says banking and crypto can coexist",
+      "take": "American Bankers Association CEO backs Clarity Act, says banking and crypto coexist",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aba-ceo-supports-clarity-act-crypto/"
     },
     {
-      "headline": "Binance disappears from Google Play in certain EU countries",
-      "take": "Binance disappears from Google Play in certain European Union countries",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Federal Reserve shifts focus to money supply in inflation evaluation, reviving a tool it shelved decades ago",
+      "take": "Federal Reserve shifts focus to money supply in inflation evaluation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-shifts-focus-money-supply-inflation/"
     },
     {
-      "headline": "Hungary repeals crypto checks as first MiCA license is granted",
-      "take": "Hungary repeals crypto checks as first MiCA license granted",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US stats agency overhaul will quietly lower the Fed\u2019s favorite inflation number",
+      "take": "US stats agency overhaul will quietly lower Fed's favorite inflation number",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bea-pce-inflation-revision-fed-impact/"
     }
   ]
 }

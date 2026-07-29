@@ -1,108 +1,96 @@
 {
-  "generated": "2026-07-28T22:19:05.006152+00:00",
-  "ts": 1785277145,
+  "generated": "2026-07-29T03:44:22.784517+00:00",
+  "ts": 1785296662,
   "market": [
     {
-      "headline": "Morgan Stanley passes 100% of staking rewards to investors on new Ethereum and Solana ETFs",
-      "take": "Morgan Stanley passes full staking rewards to investors on new ETFs",
+      "headline": "Fed futures open interest hits record before rate decision",
+      "take": "Fed futures open interest hits record before rate decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-staking-rewards/"
-    },
-    {
-      "headline": "Strategy quietly sold 3,588 Bitcoin and almost nobody noticed",
-      "take": "Strategy quietly sold 3,588 Bitcoin with minimal market reaction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-bitcoin-sale-metaplanet-leclair/"
-    },
-    {
-      "headline": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
-      "take": "Dovish Fed signals could support bitcoin price according to analysts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst"
+      "link": "https://cryptobriefing.com/fed-interest-rate-futures-all-time-high/"
     },
     {
       "headline": "JPYC tokenized yen sees market cap rise 60% in a month",
-      "take": "JPYC tokenized yen market cap rises 60 percent in one month",
+      "take": "Tokenized yen market cap rises sixty percent in one month",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/jpyc-tokenized-yen-market-cap-rise/"
     },
     {
+      "headline": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+      "take": "Dovish Fed signals could support bitcoin price recovery",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst"
+    },
+    {
       "headline": "Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure",
-      "take": "Ionic Digital jumps 25 percent on Nasdaq after mining expansion",
+      "take": "Ionic Digital jumps twenty-five percent on Nasdaq debut",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
+      "headline": "European financial institutions unite to launch RL1 blockchain infrastructure",
+      "take": "European financial institutions launch RL1 blockchain infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rl1-european-blockchain-cooperative-launch/"
+    },
+    {
+      "headline": "Coinbase wants to be Canada\u2019s \u2018everything exchange,\u2019 but says clearer rules are needed first",
+      "take": "Coinbase seeks clearer rules to expand Canadian exchange offerings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first"
+    },
+    {
       "headline": "Visa deploys Anthropic\u2019s Claude Mythos to hunt vulnerabilities across its global payment network",
-      "take": "Visa deploys Claude AI to hunt vulnerabilities across payment network",
+      "take": "Visa deploys Claude to identify vulnerabilities in payment network",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/visa-anthropic-claude-mythos-payment-security/"
     },
     {
-      "headline": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
-      "take": "Ondo drops tokenized asset blockchain for private trading network",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network"
-    },
-    {
       "headline": "BlackRock targets Apollo, Blackstone, and Blue Owl in private credit with $220B war chest",
-      "take": "BlackRock targets rivals with 220 billion dollar private credit push",
+      "take": "BlackRock deploys two hundred twenty billion in private credit",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackrock-private-credit-apollo-blackstone/"
-    },
-    {
-      "headline": "SharpLink generates 420 ETH from staking rewards this week, treasury swells to 888,521 ETH",
-      "take": "SharpLink treasury swells to 888,521 ETH from weekly staking",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sharplink-420-eth-staking-rewards-treasury/"
     }
   ],
   "security": [
     {
       "headline": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-      "take": "Crypto hacks hit record high in H1 2026, losses exceed one billion",
+      "take": "Crypto hacks hit record high in first half with one billion losses",
       "source": "theblock",
       "link": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "JFrog discloses zero-day exploit in Artifactory after OpenAI models breached Hugging Face",
-      "take": "JFrog discloses zero-day exploit in Artifactory after Hugging Face breach",
+      "headline": "OpenAI agents hack Hugging Face during GPT-5.6 SOL testing: Axios",
+      "take": "AI agents breach Hugging Face during security testing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jfrog-zero-day-openai-artifactory-breach/"
+      "link": "https://cryptobriefing.com/openai-agents-hack-hugging-face-during-gpt-56-sol-testing-axios/"
     },
     {
-      "headline": "Sam Altman says AI development may need to slow after Hugging Face security breach",
-      "take": "Sam Altman says AI development may need slowing after breach",
+      "headline": "JFrog discloses zero-day exploit in Artifactory after OpenAI models breached Hugging Face",
+      "take": "JFrog discloses zero-day exploit in Artifactory software",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/altman-decelerate-ai-after-security-incident/"
+      "link": "https://cryptobriefing.com/jfrog-zero-day-openai-artifactory-breach/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC ready to draft crypto rules if Congress stalls on Clarity Act",
-      "take": "SEC ready to draft crypto rules if Congress stalls on Clarity Act",
+      "headline": "Momentum for Clarity Act fades as Senate shelves crypto market structure bill until fall",
+      "take": "Senate shelves Clarity Act until fall, stalling crypto regulation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-ready-to-draft-crypto-rules-if-congress-stalls-on-clarity-act/"
+      "link": "https://cryptobriefing.com/clarity-act-momentum-fades-crypto-regulation/"
     },
     {
-      "headline": "Crypto\u2019s Clarity Act Faces Longer Odds Despite Industry\u2019s Push",
-      "take": "Crypto's Clarity Act faces longer odds despite strong industry push",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/crypto-s-clarity-act-faces-longer-odds-despite-industry-s-push"
+      "headline": "SEC ready to issue crypto rules if Congress doesn\u2019t pass CLARITY Act, Chair Atkins says",
+      "take": "SEC chair says agency ready to draft rules if Congress delays",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-ready-to-issue-crypto-rules-if-congress-doesnt-pass-clarity-act-chair-atkins-says/"
     },
     {
-      "headline": "America\u2019s Credit Unions urge Senate to block stablecoin yields, warning $6.6 trillion in deposits at risk",
-      "take": "US credit unions urge Senate to block stablecoin yields to protect deposits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/credit-unions-block-stablecoin-yields/"
-    },
-    {
-      "headline": "Stephen Miran\u2019s monetarism revival could reshape Fed policy and crypto markets",
-      "take": "Stephen Miran's monetarism revival could reshape Fed and crypto policy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/miran-monetarism-fed-crypto-implications/"
+      "headline": "Myanmar parliament passes crypto scam bill with penalties up to life",
+      "take": "Myanmar parliament passes crypto scam bill with life penalties",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

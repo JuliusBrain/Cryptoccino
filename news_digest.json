@@ -1,102 +1,114 @@
 {
-  "generated": "2026-07-29T14:33:41.430457+00:00",
-  "ts": 1785335621,
+  "generated": "2026-07-29T16:40:02.627876+00:00",
+  "ts": 1785343202,
   "market": [
     {
-      "headline": "Fed faces 27% implied probability of interest rate increase ahead of july meeting",
-      "take": "Fed faces 27% probability of rate increase ahead of July meeting",
+      "headline": "Meta stock hits longest daily losing streak in history, shedding $223 billion in market cap",
+      "take": "Meta stock hits longest losing streak, sheds $223 billion market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-faces-27-implied-probability-of-interest-rate-increase-ahead-of-july-meeting/"
+      "link": "https://cryptobriefing.com/meta-stock-longest-losing-streak-history/"
     },
     {
-      "headline": "The US dollar just went from insurance policy to growth stock, and crypto should pay attention",
-      "take": "US dollar shifted from insurance policy to growth stock, affecting crypto",
+      "headline": "Dow Jones tumbles 800 points as Trump\u2019s Iran threat rattles markets ahead of Fed decision",
+      "take": "Dow tumbles 800 points as Iran tensions threaten ahead of Fed decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-growth-stock-crypto-implications/"
+      "link": "https://cryptobriefing.com/dow-jones-800-points-iran-threat-fed-decision/"
     },
     {
-      "headline": "VanEck semiconductor ETF sees $25B in inflows despite 20% decline",
-      "take": "VanEck semiconductor ETF sees $25B inflows despite 20% decline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vaneck-semiconductor-etf-25b-inflows-decline/"
+      "headline": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "take": "Coinbase faces spot trading slump, Wall Street trims earnings expectations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future"
     },
     {
-      "headline": "Strive pays 37th consecutive daily dividend on its Bitcoin-backed preferred stock",
-      "take": "Strive pays 37th consecutive daily dividend on Bitcoin-backed preferred stock",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-37-consecutive-daily-dividends-bitcoin/"
+      "headline": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
+      "take": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Dragonfly Capital moves $2M in APEX tokens to Bybit, raising questions about VC selling pressure",
-      "take": "Dragonfly Capital moves $2M APEX tokens to Bybit, raising VC selling pressure questions",
+      "headline": "Metaplanet starts first-tranche Bitbonds offering in Japan with 4% yield",
+      "take": "Metaplanet launches Bitbonds offering in Japan with 4% yield",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dragonfly-capital-sells-apex-tokens-bybit/"
+      "link": "https://cryptobriefing.com/metaplanet-bitbonds-offering-japan/"
     }
   ],
   "business": [
     {
-      "headline": "MoonPay launches PayBox, enabling AI agents to conduct token transactions on Solana via conversations",
-      "take": "MoonPay launches PayBox enabling AI agents to transact tokens on Solana",
+      "headline": "Virtuals Protocol powers $200M agent economy on Robinhood Chain in under a month",
+      "take": "Virtuals Protocol powers $200 million agent economy on Robinhood Chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonpay-launches-paybox-enabling-ai-agents-to-conduct-token-transactions-on/"
+      "link": "https://cryptobriefing.com/virtuals-protocol-200m-robinhood-chain/"
     },
     {
-      "headline": "Jupiter Spot V2 launches as complete trading terminal on Solana",
-      "take": "Jupiter Spot V2 launches as complete trading terminal on Solana",
+      "headline": "MoonPay launches PayBox to let ChatGPT and Claude execute payments",
+      "take": "MoonPay launches PayBox enabling ChatGPT and Claude to execute payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-spot-v2-solana-trading-terminal/"
+      "link": "https://cryptobriefing.com/moonpay-launches-paybox-to-let-chatgpt-and-claude-execute-payments/"
     },
     {
-      "headline": "Tether\u2019s USAT stablecoin launches on Celo with native mint, burn, and gas fee support",
-      "take": "Tether's USAT stablecoin launches on Celo with native mint and burn",
+      "headline": "TRON powers 65% of World Cup ticket settlements using USDT",
+      "take": "TRON settles 65% of World Cup ticket transactions using USDT",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-usat-stablecoin-launches-celo/"
+      "link": "https://cryptobriefing.com/tron-world-cup-usdt-ticket-settlements/"
     },
     {
-      "headline": "Polymarket launches research institute to study the future of prediction markets: Report",
-      "take": "Polymarket launches research institute to study prediction markets future",
+      "headline": "Solflare launches simpler cross-chain deposits powered by Aurora Intents",
+      "take": "Solflare launches simpler cross-chain deposits powered by Aurora Intents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-institute-prediction-markets-research/"
+      "link": "https://cryptobriefing.com/solflare-launches-simpler-cross-chain-deposits-powered-by-aurora-intents/"
     },
     {
-      "headline": "Eliyan raises $145M at $1B valuation to scale AI connectivity",
-      "take": "Eliyan raises $145M at $1B valuation to scale AI connectivity",
+      "headline": "Ethereum Institutional completes first funding round with backing from 100+ ecosystem partners",
+      "take": "Ethereum Institutional completes first funding round with 100+ ecosystem partners",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eliyan-raises-145m-ai-chip-bottlenecks/"
+      "link": "https://cryptobriefing.com/ethereum-institutional-funding-round-100-backers/"
     }
   ],
   "security": [
     {
-      "headline": "Robinhood reportedly working on zero-knowledge privacy protocol for anonymous swaps",
-      "take": "Robinhood reportedly working on zero-knowledge protocol for anonymous swaps",
+      "headline": "Crypto records most hacked half-year ever with 212 exploits and $1.1 billion stolen",
+      "take": "Crypto records most hacked half-year with 212 exploits, $1.1 billion stolen",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-zk-privacy-protocol-anonymous-swaps/"
+      "link": "https://cryptobriefing.com/crypto-most-hacked-half-year-1b-stolen/"
     },
     {
-      "headline": "Zcash\u2019s new Ironwood pool receives $80M in first day as network seals old shielded pool",
-      "take": "Zcash's Ironwood pool receives $80M in first day, seals old shielded pool",
+      "headline": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
+      "take": "OpenAI rogue AI hacked four additional platforms besides Hugging Face",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face"
+    },
+    {
+      "headline": "Boston Dynamics CEO warns against Chinese robots in US, citing active data leaks",
+      "take": "Boston Dynamics CEO warns against Chinese robots in US over data leaks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-ironwood-pool-80m-first-day/"
+      "link": "https://cryptobriefing.com/boston-dynamics-ceo-warns-chinese-robots/"
     }
   ],
   "policy": [
     {
-      "headline": "American Bankers Association CEO backs Clarity Act, says banking and crypto can coexist",
-      "take": "American Bankers Association CEO backs Clarity Act, says banking and crypto coexist",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aba-ceo-supports-clarity-act-crypto/"
+      "headline": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+      "take": "SEC ready to provide crypto rules if Clarity Act fails, Chair Atkins says",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins"
     },
     {
-      "headline": "Federal Reserve shifts focus to money supply in inflation evaluation, reviving a tool it shelved decades ago",
-      "take": "Federal Reserve shifts focus to money supply in inflation evaluation",
+      "headline": "US Senate advances Russia sanctions bill 86-0 after Zelensky lobbies all 100 senators",
+      "take": "US Senate advances Russia sanctions bill 86-0 after Zelensky lobbies senators",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-shifts-focus-money-supply-inflation/"
+      "link": "https://cryptobriefing.com/senate-russia-sanctions-bill-crypto-impact/"
     },
     {
-      "headline": "US stats agency overhaul will quietly lower the Fed\u2019s favorite inflation number",
-      "take": "US stats agency overhaul will quietly lower Fed's favorite inflation number",
+      "headline": "\u2018The moment to act is now\u2019: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
+      "take": "Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "UK watchdog investigates Microsoft over potential misleading practices tied to Copilot AI pricing",
+      "take": "UK watchdog investigates Microsoft over potential misleading Copilot AI pricing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bea-pce-inflation-revision-fed-impact/"
+      "link": "https://cryptobriefing.com/uk-cma-investigates-microsoft-copilot-pricing/"
     }
   ]
 }

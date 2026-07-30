@@ -1,108 +1,102 @@
 {
-  "generated": "2026-07-30T03:33:24.411674+00:00",
-  "ts": 1785382404,
+  "generated": "2026-07-30T09:06:17.618721+00:00",
+  "ts": 1785402377,
   "market": [
     {
-      "headline": "Polymarket shows 53% odds of September rate hike while Fed futures markets sit at 32%",
-      "take": "Polymarket shows 53% odds September rate hike; Fed futures sit at 32%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-september-rate-hike-odds-sofr-arbitrage/"
-    },
-    {
-      "headline": "U.S. crude futures drop by more than $1 to $83.27 a barrel",
-      "take": "US crude futures drop over $1 to $83.27 a barrel",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-crude-futures-drop-by-more-than-1-to-8327-a-barrel/"
-    },
-    {
-      "headline": "Stocks and bonds see wild \u2018Fed day\u2019 swings as Wall Street\u2019s \u2018crash cushion\u2019 evaporates",
-      "take": "Stocks and bonds see wild swings as Wall Street's crash cushion evaporates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion/"
-    },
-    {
-      "headline": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
-      "take": "Robinhood slides 4% on earnings beat as crypto revenue cools",
+      "headline": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+      "take": "Bitcoin holds near $64,000 as equities rally on AI sentiment",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools"
+      "link": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks"
+    },
+    {
+      "headline": "Bitcoin ETF inflows return as ether funds slip into outflows",
+      "take": "Bitcoin ETF inflows return while ether funds experience outflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-return-as-ether-funds-slip-into-outflows/"
+    },
+    {
+      "headline": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
+      "take": "Leveraged liquidations wipe out $286 million in bitcoin and ether bets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours"
+    },
+    {
+      "headline": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
+      "take": "Fed's hawkish stance uncertain; bitcoin analysts divided on implications",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next"
+    },
+    {
+      "headline": "BNB Chain leads all chains in weekly DEX volume at $19B",
+      "take": "BNB Chain leads weekly DEX volume at $19 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bnb-chain-leads-weekly-dex-volume-19b/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood\u2019s prediction markets top crypto and equities revenue in Q2",
-      "take": "Robinhood's prediction markets top crypto and equities revenue in Q2",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410102/robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-q2?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Binance.US to apply for CFTC license in August for prediction market platform",
-      "take": "Binance.US to apply for CFTC license in August for prediction market",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss"
+      "headline": "Gumi and SBI launch $18.3M Bitcoin and altcoin fund as Japan warms to institutional crypto",
+      "take": "Gumi and SBI launch $18.3M crypto fund as Japan attracts institutions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gumi-sbi-bitcoin-altcoin-fund-japan/"
     },
     {
       "headline": "Banco Bradesco approves $2B capital increase to fund digital and crypto push",
-      "take": "Banco Bradesco approves $2B capital increase to fund digital and crypto",
+      "take": "Banco Bradesco increases capital by $2B for digital and crypto expansion",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bradesco-2b-capital-increase-digital-crypto/"
     },
     {
-      "headline": "American Arbitration Association launches Web3 Panel for crypto disputes",
-      "take": "American Arbitration Association launches Web3 Panel for crypto disputes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aaa-web3-panel-crypto-disputes/"
+      "headline": "Binance.US to apply for CFTC license in August for prediction market platform",
+      "take": "Binance.US to apply for CFTC prediction market license in August",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Fortress Investment Group to purchase $2B in loans from Wayflyer",
-      "take": "Fortress Investment Group to purchase $2B in loans from Wayflyer",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fortress-wayflyer-2b-loan-deal/"
+      "headline": "Cathie Wood\u2019s Ark Invest sells Bitmine, Bullish, Block shares as crypto stocks dip",
+      "take": "Ark Invest sells Bitmine, Bullish, Block shares amid crypto stock declines",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410131/ark-invest-sells-bitmine-bullish-block?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Aave proposes reserve deprecations affecting $98 million in supplied assets",
+      "take": "Aave proposes reserve deprecations affecting $98 million in supplied assets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410127/aave-proposes-reserve-deprecations-affecting-98-million-in-supplied-assets?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Offchain CEO details bridge risk management strategies after $24M Arbitrum exploit",
-      "take": "Offchain CEO details bridge risk management after $24M Arbitrum exploit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/offchain-ceo-bridge-risk-arbitrum/"
+      "headline": "Ostium blames off-chain breach for $24 million exploit, rules out smart contract flaw",
+      "take": "Ostium attributes $24 million exploit to off-chain breach, not smart contract",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410122/ostium-post-mortem-exploit?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "BitRiver founder Igor Runets detained over alleged RUB 1B fraud tied to mining equipment deals",
-      "take": "BitRiver founder detained over alleged RUB 1B fraud in mining deals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitriver-founder-runets-detained-fraud/"
-    },
-    {
-      "headline": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
-      "take": "Researchers identify new way to protect Bitcoin from quantum attacks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe"
+      "headline": "Russia detains crypto mining firm BitRiver founder on fraud charges: report",
+      "take": "Russia detains BitRiver founder on fraud charges related to mining equipment",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410117/russia-detains-bitriver-founder?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
-      "take": "Senators ready stricter ethics rules on Trump's crypto ventures for White House",
+      "headline": "Australia sues Telegram over alleged failures to remove terror content",
+      "take": "Australia sues Telegram over alleged failure to remove terror content",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "South Korea report proposes stablecoin rules before crypto law",
+      "take": "South Korea proposes stablecoin rules ahead of broader crypto legislation",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
+      "take": "Bitcoin's quantum safety assumes algorithm breaks; AI weakened one in 60 hours",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits"
-    },
-    {
-      "headline": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
-      "take": "US prosecutors propose changes to CLARITY as voting window narrows",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CLARITY act odds fall to 27% as senate focus shifts to other priorities",
-      "take": "CLARITY act odds fall to 27% as senate focus shifts elsewhere",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-odds-fall-to-27-as-senate-focus-shifts-to-other-priorities/"
-    },
-    {
-      "headline": "Tennessee county passes another ban on crypto operations",
-      "take": "Tennessee county passes another ban on crypto operations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours"
     }
   ]
 }

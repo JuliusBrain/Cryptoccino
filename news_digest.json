@@ -1,108 +1,84 @@
 {
-  "generated": "2026-07-30T22:29:07.272444+00:00",
-  "ts": 1785450547,
+  "generated": "2026-07-31T03:54:11.158502+00:00",
+  "ts": 1785470051,
   "market": [
     {
-      "headline": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-      "take": "Coinbase Q2 earnings miss as crypto trading activity slows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows"
-    },
-    {
-      "headline": "Stablecoin market cap drops $16 billion in 10 weeks, hitting six-month low",
-      "take": "Stablecoin market cap drops sixteen billion in ten weeks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-market-cap-six-month-low/"
-    },
-    {
       "headline": "BlackRock clients sell $60M of IBIT, buy over $20M of ETHA in notable rotation",
-      "take": "BlackRock clients rotate from IBIT to ETHA in notable shift",
+      "take": "BlackRock clients rotate from Bitcoin ETF to Ethereum, signaling shifting allocations",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackrock-clients-sell-ibit-buy-etha/"
     },
     {
       "headline": "Microsoft, Micron, Nvidia each gain over $100B in market cap amid tech demand",
-      "take": "Microsoft Micron Nvidia each gain over one hundred billion market cap",
+      "take": "Microsoft, Micron, Nvidia each gain over $100B amid sustained AI chip demand",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/microsoft-micron-nvidia-each-gain-over-100b-in-market-cap-amid-tech-demand/"
     },
     {
-      "headline": "Situational Awareness hedge fund assets drop to $10B after liquidations",
-      "take": "Situational Awareness hedge fund assets drop to ten billion after liquidations",
+      "headline": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
+      "take": "Coinbase misses Q2 earnings as crypto trading activity slows significantly",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows"
+    },
+    {
+      "headline": "Strategy posts $8.2 billion loss as bitcoin holdings increase 11% during Q2",
+      "take": "Strategy posts $8.2B loss but increases Bitcoin holdings by eleven percent",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410212/strategy-posts-8-2-billion-loss-as-bitcoin-holdings-increase-11-during-q2?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Oil prices drop over $1 as Strait of Hormuz flows improve despite US-Iran conflict",
+      "take": "Oil prices drop over one dollar as Strait of Hormuz flows stabilize",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/situational-awareness-hedge-fund-liquidation/"
+      "link": "https://cryptobriefing.com/oil-prices-drop-over-1-as-strait-of-hormuz-flows-improve-despite-us-iran/"
     }
   ],
   "business": [
     {
-      "headline": "Novig partners with New York Mets as MLB\u2019s first prediction market sponsor",
-      "take": "Novig partners with New York Mets as MLB first prediction market sponsor",
+      "headline": "Amazon, Microsoft, Alphabet boost AI spending to $725 billion, signaling massive chip demand",
+      "take": "Amazon, Microsoft, Alphabet plan $725B AI spending, intensifying chip competition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/novig-new-york-mets-prediction-market-mlb/"
-    },
-    {
-      "headline": "Coinbase Derivatives launches US500 equity index perp-style futures on August 17",
-      "take": "Coinbase Derivatives launches US500 equity index perpetual futures August 17",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-us500-equity-index-futures/"
-    },
-    {
-      "headline": "Uniswap activates fee switch on v4 pools, boosting protocol revenue to $325K per day",
-      "take": "Uniswap activates fee switch on v4 pools boosting daily protocol revenue",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-fee-switch-v4-pools-325k-revenue/"
-    },
-    {
-      "headline": "Polygon enables Kansai Electric loyalty points conversion to JPYC stablecoin",
-      "take": "Polygon enables Kansai Electric loyalty points conversion to JPYC stablecoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-kansai-electric-jpyc-loyalty-points/"
+      "link": "https://cryptobriefing.com/amazon-microsoft-alphabet-ai-spending-chip-demand/"
     },
     {
       "headline": "Millennium Management backs Farzad Kassam to launch $1B-plus hedge fund in Dubai",
-      "take": "Millennium Management backs Farzad Kassam to launch billion-plus Dubai hedge fund",
+      "take": "Millennium Management backs Kassam to launch one-billion-plus hedge fund in Dubai",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/kassam-millennium-hedge-fund-dubai/"
+    },
+    {
+      "headline": "Novig partners with New York Mets as MLB\u2019s first prediction market sponsor",
+      "take": "Novig becomes MLB's first prediction market sponsor through New York Mets deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/novig-new-york-mets-prediction-market-mlb/"
     }
   ],
   "security": [
     {
-      "headline": "Gemini enables shielded Zcash withdrawals to Ironwood pool",
-      "take": "Gemini enables shielded Zcash withdrawals to Ironwood pool",
+      "headline": "\u2018Funds may be at risk\u2019: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports",
+      "take": "Coinkite warns Coldcard Mk3 users of security flaw affecting Bitcoin holdings",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Anthropic AI models hacked systems in cybersecurity tests since April: WSJ",
+      "take": "Anthropic AI systems successfully hacked in authorized cybersecurity tests since April",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-shielded-zcash-ironwood-withdrawals/"
+      "link": "https://cryptobriefing.com/anthropic-ai-models-hacked-systems-in-cybersecurity-tests-since-april-wsj/"
     }
   ],
   "policy": [
     {
-      "headline": "CLARITY Act set for Senate vote before August recess, says Sen. Lummis",
-      "take": "CLARITY Act set for Senate vote before August recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-set-for-senate-vote-before-august-recess-says-sen-lummis/"
-    },
-    {
-      "headline": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
-      "take": "Treasury Secretary invokes Satoshi Nakamoto in plea for CLARITY Act",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act"
-    },
-    {
-      "headline": "Judge rules Trump administration lacks evidence to label Anthropic a supply chain risk",
-      "take": "Judge rules Trump administration lacks evidence on Anthropic supply chain risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/judge-rules-trump-anthropic-supply-chain-risk/"
-    },
-    {
-      "headline": "Over 1 million Americans urge senators to support the CLARITY Act",
-      "take": "Over one million Americans urge senators to support CLARITY Act",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/million-americans-support-clarity-act/"
-    },
-    {
-      "headline": "Senator Schumer proposes agency to address corruption, including Trump\u2019s crypto ventures",
-      "take": "Senator Schumer proposes agency to address corruption including Trump crypto ventures",
+      "headline": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+      "take": "US Senators send revised ethics rules to White House for CLARITY Act review",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SEC crypto task force chief counsel Taylor Lindman to keynote CoinDesk policy event",
+      "take": "SEC crypto task force chief Taylor Lindman to keynote CoinDesk policy event",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-lindman-coindesk-keynote-policy/"
     }
   ]
 }

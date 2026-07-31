@@ -1,96 +1,96 @@
 {
-  "generated": "2026-07-31T09:19:28.529486+00:00",
-  "ts": 1785489568,
+  "generated": "2026-07-31T11:36:44.866343+00:00",
+  "ts": 1785497804,
   "market": [
     {
-      "headline": "BlackRock clients purchase $183M in Bitcoin as institutional appetite keeps growing",
-      "take": "BlackRock clients purchase $183M in Bitcoin as institutional appetite grows",
+      "headline": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
+      "take": "Bitcoin and ether fell while equities rallied, crypto on track for best month in a year",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year"
+    },
+    {
+      "headline": "Bitcoin\u2019s bear market hits 49% depth, making it the mildest structural decline on record",
+      "take": "Bitcoin's bear market decline of 49% is mildest structural pullback on record",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-purchase-183m-bitcoin/"
+      "link": "https://cryptobriefing.com/bitcoin-bear-market-49-percent-mildest-record/"
     },
     {
-      "headline": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
-      "take": "Bitcoin flat near $64,000 as macro factors influence broader markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched"
-    },
-    {
-      "headline": "Bitcoin\u2019s calm is back and so is the setup for a volatility explosion",
-      "take": "Bitcoin volatility setup emerges after period of relative calm",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion"
-    },
-    {
-      "headline": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
-      "take": "Japan holds rates at 1%, keeping yen carry trade dynamics in play",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive"
-    },
-    {
-      "headline": "Situational Awareness fund\u2019s $16B liquidation prompts Wall Street to bet AI trade has bottomed",
-      "take": "Wall Street bets AI trade has bottomed after $16B fund liquidation",
+      "headline": "South Korea\u2019s chip giants log record rally, boosting global AI trade",
+      "take": "South Korea's chip giants log record rally, boosting global AI trade momentum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/situational-awareness-ai-trade-bottom/"
+      "link": "https://cryptobriefing.com/south-korea-chip-rally-global-ai-trade/"
+    },
+    {
+      "headline": "Big Tech\u2019s $1T AI spending raises Fed inflation concerns amid Trump policy debate",
+      "take": "Big Tech's $1 trillion AI spending raises Federal Reserve inflation concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/big-techs-1t-ai-spending-raises-fed-inflation-concerns-amid-trump-policy-debate/"
+    },
+    {
+      "headline": "US Strategic Petroleum Reserve won\u2019t be tapped to ease fuel prices, and Bitcoin miners are feeling the heat",
+      "take": "US Strategic Petroleum Reserve won't ease fuel prices, pressuring bitcoin miners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-spr-fuel-prices-bitcoin-mining/"
     }
   ],
   "business": [
     {
+      "headline": "Bernstein sees 78% upside for Robinhood as tokenization, prediction markets expand its crypto business",
+      "take": "Bernstein sees 78% upside for Robinhood via tokenization and prediction markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410259/bernstein-sees-78-upside-for-robinhood-as-tokenization-prediction-markets-expand-its-crypto-business?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
-      "take": "Quantum Solutions and Hyperscale Data tap crypto treasuries for AI data centers",
+      "take": "Quantum Solutions and Hyperscale Data tap crypto treasuries to fund AI data centers",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers"
     },
     {
-      "headline": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
-      "take": "Aave considers closing 6 V3 markets and offboarding 50 low-use reserves",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "KyberSwap integrates RobinScan for seamless transaction exploration on Robinhood Chain",
+      "take": "KyberSwap integrates RobinScan for transaction exploration on Robinhood Chain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kyberswap-robinscan-robinhood-chain-integration/"
     },
     {
-      "headline": "Upbit lists CFX trading pairs against KRW, BTC, and USDT on July 31",
-      "take": "Upbit lists CFX trading pairs against KRW, BTC, and USDT July 31",
+      "headline": "DeepSeek launches V4 models beta amid China\u2019s AI price war",
+      "take": "DeepSeek launches V4 models beta amid China's intensifying AI price war",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-cfx-trading-pairs-july-31/"
+      "link": "https://cryptobriefing.com/deepseek-launches-v4-models-beta-amid-chinas-ai-price-war/"
     }
   ],
   "security": [
     {
       "headline": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-      "take": "Coldcard key flaw drains $38M in Bitcoin in coordinated wallet attack",
+      "take": "$38 million in Bitcoin drained via Coldcard key flaw, AI likely discovered vulnerability",
       "source": "decrypt",
       "link": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found"
     },
     {
-      "headline": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
-      "take": "Major bitcoin wallet flaw results in 594 BTC drained in 25 minutes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep"
+      "headline": "Shelbit linked to $4B illicit Iranian gambling network, report finds",
+      "take": "Shelbit linked to $4 billion illicit Iranian gambling network, report reveals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/shelbit-4b-illicit-iranian-gambling-network/"
     },
     {
-      "headline": "Anthropic reports its AI models breached three organizations during cybersecurity tests",
-      "take": "Anthropic AI models breached three organizations during cybersecurity tests",
+      "headline": "Texas lawmakers consider ban on crypto kiosk scams costing $57M",
+      "take": "Texas crypto kiosk scams cost $57 million, lawmakers weigh ban legislation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-models-breached-organizations-cybersecurity-tests/"
+      "link": "https://cryptobriefing.com/texas-crypto-kiosk-ban-57-million/"
     }
   ],
   "policy": [
     {
-      "headline": "Novogratz: Democrats near compromise on Crypto Clarity Act",
-      "take": "Democrats near compromise on Crypto Clarity Act, Novogratz reports",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/novogratz-democrats-near-compromise-on-crypto-clarity-act/"
+      "headline": "New York sues Kalshi over alleged illegal gambling operation",
+      "take": "New York sues Kalshi, alleging it operates an illegal gambling platform",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
-      "take": "New York sues Kalshi over illegal gambling claims, seeks $36 billion",
+      "headline": "Senate Democrats propose anti-corruption bureau as Trump\u2019s crypto portfolio draws more scrutiny",
+      "take": "Senate Democrats propose anti-corruption bureau as Trump's crypto portfolio draws scrutiny",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "SEC crypto task force chief counsel Taylor Lindman to keynote CoinDesk policy event",
-      "take": "SEC crypto task force counsel Taylor Lindman to keynote CoinDesk policy event",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-lindman-coindesk-keynote-policy/"
+      "link": "https://www.theblock.co/post/410260/senate-democrat-anti-corruption-bureau?utm_source=rss&utm_medium=rss"
     }
   ]
 }

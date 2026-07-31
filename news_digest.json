@@ -1,95 +1,108 @@
 {
-  "generated": "2026-07-31T16:59:03.974616+00:00",
-  "ts": 1785517143,
+  "generated": "2026-07-31T19:56:56.910744+00:00",
+  "ts": 1785527816,
   "market": [
     {
-      "headline": "Bitcoin price sinks to 2-week lows as US stocks diverge from Asia",
-      "take": "Bitcoin drops to two-week lows as US stocks diverge from Asian markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-sinks-two-week-lows-stocks-diverge/"
+      "headline": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+      "take": "Tether posts $1.5B Q2 profit; reserve buffer drops significantly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
     },
     {
-      "headline": "Over 94,000 crypto traders liquidated amid market volatility",
-      "take": "Over 94,000 crypto traders liquidated amid recent market volatility",
+      "headline": "US 30-year Treasury yield reaches highest level since 2007",
+      "take": "US 30-year Treasury yield reaches highest level since 2007",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/over-94000-crypto-traders-liquidated-amid-market-volatility/"
+      "link": "https://cryptobriefing.com/us-30-year-treasury-yield-reaches-highest-level-since-2007/"
     },
     {
-      "headline": "$700M in Bitcoin open interest added at recent lows signals aggressive positioning",
-      "take": "Seven hundred million dollars Bitcoin open interest added at recent lows",
+      "headline": "Bitcoin hashrate decline nears 287 days as miner stocks surge",
+      "take": "Bitcoin hashrate decline continues as miner stocks gain ground",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-open-interest-700m-recent-lows/"
+      "link": "https://cryptobriefing.com/bitcoin-hashrate-decline-miner-stocks-surge/"
     },
     {
-      "headline": "BlackRock clients net purchase $273M in Bitcoin this week",
-      "take": "BlackRock clients net purchased 273 million in Bitcoin this week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-purchase-273m-weekly-inflows/"
+      "headline": "Coinbase\u2019s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
+      "take": "Coinbase Q2 miss divides analysts on growth prospects beyond trading",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "US 30-year Treasury yield, highest since 2007 amid inflation concerns",
-      "take": "US 30-year Treasury yield highest since 2007 amid inflation concerns",
+      "headline": "Bond traders pay highest premiums since March to hedge against rising yields",
+      "take": "Bond traders pay highest hedging premiums since March on yield concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-30-year-treasury-yield-highest-since-2007-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/bond-traders-highest-hedging-premiums-rising-yields/"
     }
   ],
   "business": [
     {
-      "headline": "Solana Mobile allocates $27M in SKR tokens for Seeker Summer Round 2",
-      "take": "Solana Mobile allocates 27 million SKR tokens for Seeker Summer Round 2",
+      "headline": "Clear Street opens pre-IPO access to $188B Databricks for accredited investors",
+      "take": "Clear Street opens pre-IPO access to $188B Databricks offering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-mobile-skr-seeker-summer-round-2/"
+      "link": "https://cryptobriefing.com/clear-street-pre-ipo-databricks-access/"
     },
     {
-      "headline": "Uniswap launches Earn with Morpho to let users generate yield on idle crypto",
-      "take": "Uniswap launches Earn with Morpho for yield on idle crypto assets",
+      "headline": "BitMEX shuts down after 11 years as regulatory pressure and competition take their toll",
+      "take": "BitMEX shuts down after 11 years amid regulatory and competitive pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-earn-morpho-yield-idle-crypto-2/"
+      "link": "https://cryptobriefing.com/bitmex-shuts-down-regulatory-pressure-closure/"
     },
     {
-      "headline": "Tether expands Treasury and gold holdings in strong second quarter",
-      "take": "Tether expands Treasury and gold holdings in strong second quarter",
+      "headline": "Zhibao Technology secures $155M Bitcoin-funded private placement",
+      "take": "Zhibao Technology secures $155M in Bitcoin-funded private placement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-q2-2026-profit-usdt-users/"
+      "link": "https://cryptobriefing.com/zhibao-technology-bitcoin-private-placement/"
     },
     {
-      "headline": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-      "take": "Circle lands New York Trust Charter as stablecoin issuer expands regulatory footprint",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer"
+      "headline": "Space-Eyes to go public in $638M SPAC deal backed by Eric Trump",
+      "take": "Space-Eyes to go public via $638M SPAC backed by Eric Trump",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/space-eyes-spac-deal-eric-trump/"
     },
     {
-      "headline": "DeFi aggregators shift to intent-based trading as KyberSwap takes commanding lead",
-      "take": "DeFi aggregators shift to intent-based trading as KyberSwap takes commanding lead",
+      "headline": "Citi hires US Treasury anti-money laundering chief Gacki as global head of sanctions",
+      "take": "Citi hires Treasury anti-money laundering chief as global sanctions head",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defi-aggregators-intent-based-trading-kyberswap/"
+      "link": "https://cryptobriefing.com/citi-hires-treasury-gacki-sanctions-chief/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
+      "take": "Coldcard $38M exploit shakes self-custody confidence, favors ETFs",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs"
+    },
+    {
+      "headline": "Hugging Face CEO calls for accountability from AI firms after autonomous agent hacks platform",
+      "take": "Hugging Face CEO calls for AI firm accountability after platform hack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hugging-face-ceo-accountability-ai-hack/"
+    },
+    {
+      "headline": "Google shuts down AI satellite image editing tool after deepfake concerns surface within 24 hours",
+      "take": "Google shuts AI satellite editor within 24 hours over deepfake risks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-earth-nano-banana-ai-deepfake-shutdown/"
+    }
+  ],
   "policy": [
     {
-      "headline": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-      "take": "US Treasury sanctions Iranian firms accepting Bitcoin for Hormuz Passage",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage"
-    },
-    {
-      "headline": "Clarity Act reportedly has votes to pass, but Senate hurdles remain",
-      "take": "Clarity Act reportedly has votes to pass despite remaining Senate hurdles",
+      "headline": "CFTC orders George Santos to pay $35,000 for manipulative trading on prediction market",
+      "take": "CFTC orders Santos to pay $35K for manipulative prediction market trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-reportedly-has-votes-to-pass-but-senate-hurdles-remain/"
+      "link": "https://cryptobriefing.com/cftc-santos-prediction-market-manipulation/"
     },
     {
-      "headline": "China tightens exit rules to address tech security risks, raising fresh questions for crypto capital flows",
-      "take": "China tightens exit rules to address tech security risks, raising capital flow questions",
+      "headline": "Trump administration prepares voluntary framework for AI companies to submit models for government review",
+      "take": "Trump administration prepares voluntary AI model review framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-tightens-exit-rules-tech-security/"
+      "link": "https://cryptobriefing.com/trump-ai-framework-government-review/"
     },
     {
-      "headline": "ECB says digital euro app will exceed EU accessibility standards",
-      "take": "ECB says digital euro app will exceed EU accessibility standards",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US Treasury warns banks of potential yen intervention, and crypto traders should pay attention",
+      "take": "US Treasury warns banks of potential yen intervention ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-yen-intervention-crypto-impact/"
     }
   ]
 }

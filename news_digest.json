@@ -1,82 +1,94 @@
 {
-  "generated": "2026-07-31T03:54:11.158502+00:00",
-  "ts": 1785470051,
+  "generated": "2026-07-31T09:19:28.529486+00:00",
+  "ts": 1785489568,
   "market": [
     {
-      "headline": "BlackRock clients sell $60M of IBIT, buy over $20M of ETHA in notable rotation",
-      "take": "BlackRock clients rotate from Bitcoin ETF to Ethereum, signaling shifting allocations",
+      "headline": "BlackRock clients purchase $183M in Bitcoin as institutional appetite keeps growing",
+      "take": "BlackRock clients purchase $183M in Bitcoin as institutional appetite grows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-sell-ibit-buy-etha/"
+      "link": "https://cryptobriefing.com/blackrock-clients-purchase-183m-bitcoin/"
     },
     {
-      "headline": "Microsoft, Micron, Nvidia each gain over $100B in market cap amid tech demand",
-      "take": "Microsoft, Micron, Nvidia each gain over $100B amid sustained AI chip demand",
+      "headline": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+      "take": "Bitcoin flat near $64,000 as macro factors influence broader markets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched"
+    },
+    {
+      "headline": "Bitcoin\u2019s calm is back and so is the setup for a volatility explosion",
+      "take": "Bitcoin volatility setup emerges after period of relative calm",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion"
+    },
+    {
+      "headline": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+      "take": "Japan holds rates at 1%, keeping yen carry trade dynamics in play",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive"
+    },
+    {
+      "headline": "Situational Awareness fund\u2019s $16B liquidation prompts Wall Street to bet AI trade has bottomed",
+      "take": "Wall Street bets AI trade has bottomed after $16B fund liquidation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-micron-nvidia-each-gain-over-100b-in-market-cap-amid-tech-demand/"
-    },
-    {
-      "headline": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-      "take": "Coinbase misses Q2 earnings as crypto trading activity slows significantly",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows"
-    },
-    {
-      "headline": "Strategy posts $8.2 billion loss as bitcoin holdings increase 11% during Q2",
-      "take": "Strategy posts $8.2B loss but increases Bitcoin holdings by eleven percent",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410212/strategy-posts-8-2-billion-loss-as-bitcoin-holdings-increase-11-during-q2?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Oil prices drop over $1 as Strait of Hormuz flows improve despite US-Iran conflict",
-      "take": "Oil prices drop over one dollar as Strait of Hormuz flows stabilize",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-drop-over-1-as-strait-of-hormuz-flows-improve-despite-us-iran/"
+      "link": "https://cryptobriefing.com/situational-awareness-ai-trade-bottom/"
     }
   ],
   "business": [
     {
-      "headline": "Amazon, Microsoft, Alphabet boost AI spending to $725 billion, signaling massive chip demand",
-      "take": "Amazon, Microsoft, Alphabet plan $725B AI spending, intensifying chip competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-microsoft-alphabet-ai-spending-chip-demand/"
+      "headline": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+      "take": "Quantum Solutions and Hyperscale Data tap crypto treasuries for AI data centers",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers"
     },
     {
-      "headline": "Millennium Management backs Farzad Kassam to launch $1B-plus hedge fund in Dubai",
-      "take": "Millennium Management backs Kassam to launch one-billion-plus hedge fund in Dubai",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kassam-millennium-hedge-fund-dubai/"
+      "headline": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+      "take": "Aave considers closing 6 V3 markets and offboarding 50 low-use reserves",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Novig partners with New York Mets as MLB\u2019s first prediction market sponsor",
-      "take": "Novig becomes MLB's first prediction market sponsor through New York Mets deal",
+      "headline": "Upbit lists CFX trading pairs against KRW, BTC, and USDT on July 31",
+      "take": "Upbit lists CFX trading pairs against KRW, BTC, and USDT July 31",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/novig-new-york-mets-prediction-market-mlb/"
+      "link": "https://cryptobriefing.com/upbit-lists-cfx-trading-pairs-july-31/"
     }
   ],
   "security": [
     {
-      "headline": "\u2018Funds may be at risk\u2019: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports",
-      "take": "Coinkite warns Coldcard Mk3 users of security flaw affecting Bitcoin holdings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss"
+      "headline": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
+      "take": "Coldcard key flaw drains $38M in Bitcoin in coordinated wallet attack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found"
     },
     {
-      "headline": "Anthropic AI models hacked systems in cybersecurity tests since April: WSJ",
-      "take": "Anthropic AI systems successfully hacked in authorized cybersecurity tests since April",
+      "headline": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+      "take": "Major bitcoin wallet flaw results in 594 BTC drained in 25 minutes",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep"
+    },
+    {
+      "headline": "Anthropic reports its AI models breached three organizations during cybersecurity tests",
+      "take": "Anthropic AI models breached three organizations during cybersecurity tests",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-models-hacked-systems-in-cybersecurity-tests-since-april-wsj/"
+      "link": "https://cryptobriefing.com/anthropic-ai-models-breached-organizations-cybersecurity-tests/"
     }
   ],
   "policy": [
     {
-      "headline": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
-      "take": "US Senators send revised ethics rules to White House for CLARITY Act review",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Novogratz: Democrats near compromise on Crypto Clarity Act",
+      "take": "Democrats near compromise on Crypto Clarity Act, Novogratz reports",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/novogratz-democrats-near-compromise-on-crypto-clarity-act/"
+    },
+    {
+      "headline": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
+      "take": "New York sues Kalshi over illegal gambling claims, seeks $36 billion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "SEC crypto task force chief counsel Taylor Lindman to keynote CoinDesk policy event",
-      "take": "SEC crypto task force chief Taylor Lindman to keynote CoinDesk policy event",
+      "take": "SEC crypto task force counsel Taylor Lindman to keynote CoinDesk policy event",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-lindman-coindesk-keynote-policy/"
     }

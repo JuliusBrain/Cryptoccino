@@ -1,108 +1,132 @@
 {
-  "generated": "2026-07-31T19:56:56.910744+00:00",
-  "ts": 1785527816,
+  "generated": "2026-07-31T22:17:08.124001+00:00",
+  "ts": 1785536228,
   "market": [
     {
       "headline": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "take": "Tether posts $1.5B Q2 profit; reserve buffer drops significantly",
+      "take": "Tether reports $1.5B Q2 operating profit as reserve buffer shrinks significantly",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
     },
     {
-      "headline": "US 30-year Treasury yield reaches highest level since 2007",
-      "take": "US 30-year Treasury yield reaches highest level since 2007",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-30-year-treasury-yield-reaches-highest-level-since-2007/"
+      "headline": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+      "take": "Bitcoin holds monthly gains, faces choppy August as forced-selling pressure eases",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say"
     },
     {
-      "headline": "Bitcoin hashrate decline nears 287 days as miner stocks surge",
-      "take": "Bitcoin hashrate decline continues as miner stocks gain ground",
+      "headline": "US Treasury yield curve twist suggests potential Fed rate hike pause",
+      "take": "US Treasury yield curve signals potential Federal Reserve rate hike pause ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-hashrate-decline-miner-stocks-surge/"
+      "link": "https://cryptobriefing.com/us-treasury-yield-curve-twist-suggests-potential-fed-rate-hike-pause/"
+    },
+    {
+      "headline": "Microsoft, Amazon, and Google add $1.5T in market cap in a single week",
+      "take": "Microsoft, Amazon, Google add $1.5 trillion market cap in single week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/microsoft-amazon-google-1-5t-market-cap-gain/"
     },
     {
       "headline": "Coinbase\u2019s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
-      "take": "Coinbase Q2 miss divides analysts on growth prospects beyond trading",
+      "take": "Coinbase Q2 miss sparks Wall Street debate on growth beyond crypto trading",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bond traders pay highest premiums since March to hedge against rising yields",
-      "take": "Bond traders pay highest hedging premiums since March on yield concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bond-traders-highest-hedging-premiums-rising-yields/"
     }
   ],
   "business": [
     {
-      "headline": "Clear Street opens pre-IPO access to $188B Databricks for accredited investors",
-      "take": "Clear Street opens pre-IPO access to $188B Databricks offering",
+      "headline": "Amazon completes $50B investment in OpenAI, reshaping the AI and cloud power map",
+      "take": "Amazon completes $50B OpenAI investment, reshaping AI and cloud infrastructure landscape",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clear-street-pre-ipo-databricks-access/"
+      "link": "https://cryptobriefing.com/amazon-50b-openai-investment-complete/"
     },
     {
-      "headline": "BitMEX shuts down after 11 years as regulatory pressure and competition take their toll",
-      "take": "BitMEX shuts down after 11 years amid regulatory and competitive pressure",
+      "headline": "Circle showcases Agent Stack at Agentic AI Summit, betting USDC becomes money for machines",
+      "take": "Circle unveils Agent Stack, positioning USDC as currency for autonomous AI systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmex-shuts-down-regulatory-pressure-closure/"
+      "link": "https://cryptobriefing.com/circle-agent-stack-agentic-ai-summit/"
     },
     {
-      "headline": "Zhibao Technology secures $155M Bitcoin-funded private placement",
-      "take": "Zhibao Technology secures $155M in Bitcoin-funded private placement",
+      "headline": "TMX Group takes control as MEMX and BOX merge into $2.3B US exchange powerhouse",
+      "take": "TMX Group consolidates MEMX and BOX into $2.3B US exchange powerhouse",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zhibao-technology-bitcoin-private-placement/"
+      "link": "https://cryptobriefing.com/memx-box-merger-tmx-group-control-2/"
     },
     {
-      "headline": "Space-Eyes to go public in $638M SPAC deal backed by Eric Trump",
-      "take": "Space-Eyes to go public via $638M SPAC backed by Eric Trump",
+      "headline": "Strategy buys 48x more Bitcoin than sold, issues 300x more STRC this year",
+      "take": "MicroStrategy buys 48x more Bitcoin than sold, issues 300x more stock this year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/space-eyes-spac-deal-eric-trump/"
+      "link": "https://cryptobriefing.com/strategy-buys-48x-more-bitcoin-than-sold-issues-300x-more-strc-this-year/"
     },
     {
-      "headline": "Citi hires US Treasury anti-money laundering chief Gacki as global head of sanctions",
-      "take": "Citi hires Treasury anti-money laundering chief as global sanctions head",
+      "headline": "Pump.fun allegedly laid off over 40 employees right before their $PUMP tokens vested",
+      "take": "Pump.fun allegedly lays off 40+ employees days before token vesting cliff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citi-hires-treasury-gacki-sanctions-chief/"
+      "link": "https://cryptobriefing.com/pumpfun-layoffs-before-pump-vesting/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-      "take": "Coldcard $38M exploit shakes self-custody confidence, favors ETFs",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs"
+      "headline": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
+      "take": "Coldcard vulnerability-linked Bitcoin losses grow to $70 million, Galaxy Research reports",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Hugging Face CEO calls for accountability from AI firms after autonomous agent hacks platform",
-      "take": "Hugging Face CEO calls for AI firm accountability after platform hack",
+      "headline": "Block traces COLDCARD attacker to blockchain services provider after $38M Bitcoin theft",
+      "take": "Block traces COLDCARD attacker to blockchain services provider after $38M theft",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hugging-face-ceo-accountability-ai-hack/"
+      "link": "https://cryptobriefing.com/block-coldcard-attacker-blockchain-services-provider/"
     },
     {
-      "headline": "Google shuts down AI satellite image editing tool after deepfake concerns surface within 24 hours",
-      "take": "Google shuts AI satellite editor within 24 hours over deepfake risks",
+      "headline": "MetronomeDAO discloses $16M shortfall due to oracle lag",
+      "take": "MetronomeDAO discloses $16M shortfall caused by oracle lag vulnerability",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-earth-nano-banana-ai-deepfake-shutdown/"
+      "link": "https://cryptobriefing.com/metronome-dao-16m-oracle-shortfall/"
+    },
+    {
+      "headline": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "take": "Google yanks Earth AI image tool one day after launch over deepfake concerns",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears"
+    },
+    {
+      "headline": "Hill Democrats seek answers on OpenAI and Anthropic AI models that escaped testing environments",
+      "take": "Hill Democrats seek answers on OpenAI and Anthropic models that escaped testing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/democrats-openai-anthropic-ai-disclosures/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC orders George Santos to pay $35,000 for manipulative trading on prediction market",
-      "take": "CFTC orders Santos to pay $35K for manipulative prediction market trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-santos-prediction-market-manipulation/"
+      "headline": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
+      "take": "Former Rep. Santos agrees to pay $35,000 CFTC settlement over betting platform trade",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Trump administration prepares voluntary framework for AI companies to submit models for government review",
-      "take": "Trump administration prepares voluntary AI model review framework",
+      "headline": "Suno loses copyright case in Germany, must license music for AI training",
+      "take": "Suno loses German copyright case, must license music for AI model training",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ai-framework-government-review/"
+      "link": "https://cryptobriefing.com/suno-copyright-case-germany-ai-music/"
     },
     {
-      "headline": "US Treasury warns banks of potential yen intervention, and crypto traders should pay attention",
-      "take": "US Treasury warns banks of potential yen intervention ahead",
+      "headline": "Google exempts sanctioned nations from Android developer verification, raising questions for crypto app distribution",
+      "take": "Google exempts sanctioned nations from Android verification, complicating crypto app distribution",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-yen-intervention-crypto-impact/"
+      "link": "https://cryptobriefing.com/google-android-developer-verification-crypto-implications/"
+    },
+    {
+      "headline": "China\u2019s AI model development raises questions over Nvidia\u2019s role in circumventing US export controls",
+      "take": "China's AI development raises questions about Nvidia's role bypassing US export controls",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-ai-nvidia-export-controls/"
+    },
+    {
+      "headline": "US Is Banning Foreign Robots\u2014Even Roombas",
+      "take": "US bans foreign robots including consumer devices over national security concerns",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas"
     }
   ]
 }

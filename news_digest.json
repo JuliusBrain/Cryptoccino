@@ -1,96 +1,95 @@
 {
-  "generated": "2026-07-31T14:39:39.420677+00:00",
-  "ts": 1785508779,
+  "generated": "2026-07-31T16:59:03.974616+00:00",
+  "ts": 1785517143,
   "market": [
     {
-      "headline": "Dow, S&P 500, and Nasdaq surge on chip-stock rally and South Korea rebound",
-      "take": "Dow, S&P 500, Nasdaq surge on chip stocks and South Korea rebound",
+      "headline": "Bitcoin price sinks to 2-week lows as US stocks diverge from Asia",
+      "take": "Bitcoin drops to two-week lows as US stocks diverge from Asian markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-surge-chip-stock-rally/"
+      "link": "https://cryptobriefing.com/bitcoin-sinks-two-week-lows-stocks-diverge/"
     },
     {
-      "headline": "Treasury yields rise as Fed officials back rate hike",
-      "take": "Treasury yields rise as Fed officials signal openness to rate hike",
+      "headline": "Over 94,000 crypto traders liquidated amid market volatility",
+      "take": "Over 94,000 crypto traders liquidated amid recent market volatility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-yields-rise-as-fed-officials-back-rate-hike/"
+      "link": "https://cryptobriefing.com/over-94000-crypto-traders-liquidated-amid-market-volatility/"
     },
     {
-      "headline": "Korean stocks are now more volatile than Bitcoin, and US bonds aren\u2019t far behind",
-      "take": "Korean stock volatility now exceeds Bitcoin; US bonds approaching similar levels",
+      "headline": "$700M in Bitcoin open interest added at recent lows signals aggressive positioning",
+      "take": "Seven hundred million dollars Bitcoin open interest added at recent lows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/korean-stocks-more-volatile-than-bitcoin-2026/"
+      "link": "https://cryptobriefing.com/bitcoin-open-interest-700m-recent-lows/"
     },
     {
-      "headline": "Chicago PMI climbs to 57.6, beating forecasts and signaling trouble for crypto\u2019s rate-cut dreams",
-      "take": "Chicago PMI reaches 57.6, beating forecasts and dampening rate-cut expectations",
+      "headline": "BlackRock clients net purchase $273M in Bitcoin this week",
+      "take": "BlackRock clients net purchased 273 million in Bitcoin this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chicago-pmi-rises-crypto-rate-cut-impact/"
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-purchase-273m-weekly-inflows/"
     },
     {
-      "headline": "Strategy boosts Bitcoin holdings, stabilizes STRC near par value amid market challenges",
-      "take": "MicroStrategy boosts Bitcoin holdings, stabilizes stock near par amid headwinds",
+      "headline": "US 30-year Treasury yield, highest since 2007 amid inflation concerns",
+      "take": "US 30-year Treasury yield highest since 2007 amid inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-boosts-bitcoin-holdings-stabilizes-strc-near-par-value-amid-market/"
+      "link": "https://cryptobriefing.com/us-30-year-treasury-yield-highest-since-2007-amid-inflation-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Circle secures New York trust charter as crypto regulatory push accelerates",
-      "take": "Circle secures New York trust charter for stablecoin regulatory expansion",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates"
+      "headline": "Solana Mobile allocates $27M in SKR tokens for Seeker Summer Round 2",
+      "take": "Solana Mobile allocates 27 million SKR tokens for Seeker Summer Round 2",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-mobile-skr-seeker-summer-round-2/"
     },
     {
-      "headline": "RedStone launches settlement layer to unlock $30 billion in idle tokenized assets for DeFi",
-      "take": "RedStone launches settlement layer to unlock thirty billion in idle tokenized assets",
+      "headline": "Uniswap launches Earn with Morpho to let users generate yield on idle crypto",
+      "take": "Uniswap launches Earn with Morpho for yield on idle crypto assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/redstone-settle-rwa-defi-settlement/"
+      "link": "https://cryptobriefing.com/uniswap-earn-morpho-yield-idle-crypto-2/"
     },
     {
-      "headline": "AMLBot launches AI Tracer for self-service blockchain investigations",
-      "take": "AMLBot launches AI Tracer tool for self-service blockchain investigation",
+      "headline": "Tether expands Treasury and gold holdings in strong second quarter",
+      "take": "Tether expands Treasury and gold holdings in strong second quarter",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amlbot-ai-tracer-blockchain-investigations/"
+      "link": "https://cryptobriefing.com/tether-q2-2026-profit-usdt-users/"
     },
     {
-      "headline": "Freedom Factory promotes AI verification of open-source hardware wallets with new quantum-resistant PQ1",
-      "take": "Freedom Factory promotes quantum-resistant hardware wallet verification technology PQ1",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/freedom-factory-pq1-ai-verification-hardware-wallet/"
-    },
-    {
-      "headline": "Westinghouse files for IPO nine years after bankruptcy, signaling nuclear energy\u2019s comeback",
-      "take": "Westinghouse files for IPO nine years after bankruptcy as nuclear energy rebounds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/westinghouse-ipo-filing-nuclear-energy/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "Claude Hacked Three Companies in Internal Testing: Anthropic",
-      "take": "Anthropic's Claude AI hacked three companies during internal red-team testing",
+      "headline": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
+      "take": "Circle lands New York Trust Charter as stablecoin issuer expands regulatory footprint",
       "source": "decrypt",
-      "link": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic"
+      "link": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer"
     },
     {
-      "headline": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-      "take": "Dubai crypto exchange linked to four billion dollar Iran sanctions-evasion network",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters"
+      "headline": "DeFi aggregators shift to intent-based trading as KyberSwap takes commanding lead",
+      "take": "DeFi aggregators shift to intent-based trading as KyberSwap takes commanding lead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/defi-aggregators-intent-based-trading-kyberswap/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "ECB says digital euro app will exceed EU accessibility standards",
-      "take": "ECB digital euro app will exceed EU accessibility standards upon launch",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
+      "take": "US Treasury sanctions Iranian firms accepting Bitcoin for Hormuz Passage",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage"
     },
     {
-      "headline": "Democrats demand details on Trump and Lutnick families\u2019 mineral deals worth billions",
-      "take": "Democrats demand transparency on Trump and Lutnick families' billion-dollar mineral deals",
+      "headline": "Clarity Act reportedly has votes to pass, but Senate hurdles remain",
+      "take": "Clarity Act reportedly has votes to pass despite remaining Senate hurdles",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/democrats-probe-trump-lutnick-mineral-deals/"
+      "link": "https://cryptobriefing.com/clarity-act-reportedly-has-votes-to-pass-but-senate-hurdles-remain/"
+    },
+    {
+      "headline": "China tightens exit rules to address tech security risks, raising fresh questions for crypto capital flows",
+      "take": "China tightens exit rules to address tech security risks, raising capital flow questions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-tightens-exit-rules-tech-security/"
+    },
+    {
+      "headline": "ECB says digital euro app will exceed EU accessibility standards",
+      "take": "ECB says digital euro app will exceed EU accessibility standards",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

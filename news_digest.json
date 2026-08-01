@@ -1,45 +1,33 @@
 {
-  "generated": "2026-08-01T19:37:12.577276+00:00",
-  "ts": 1785613032,
+  "generated": "2026-08-01T22:13:33.589859+00:00",
+  "ts": 1785622413,
   "market": [
     {
+      "headline": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "take": "Bitcoin cold-wallet attack spreads to 4,500 addresses, losses near $89 million",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"
+    },
+    {
       "headline": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "take": "Tokenized stock trading surged 288% in July, one QQQ token dominated",
+      "take": "Tokenized stock trading surged 288% in July, one QQQ token drove most gains",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
     },
     {
-      "headline": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "take": "Bitcoin mining difficulty fell 14% as operators face shrinking revenues",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot"
-    },
-    {
-      "headline": "30-year Treasury yield hits highest since 2007 amid fiscal concerns",
-      "take": "30-year Treasury yield hits highest since 2007 amid fiscal concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/30-year-treasury-yield-hits-highest-since-2007-amid-fiscal-concerns/"
-    },
-    {
       "headline": "SEC freezes Nasdaq\u2019s Bitcoin options approval as CME wages jurisdictional turf war",
-      "take": "SEC freezes Nasdaq Bitcoin options approval as CME disputes jurisdiction",
+      "take": "SEC freezes Nasdaq Bitcoin options approval amid CME jurisdictional dispute",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-freezes-nasdaq-bitcoin-options-cme-challenge/"
     },
     {
-      "headline": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "take": "Bank of Italy finds stablecoins not necessarily cheaper for remittances",
+      "headline": "Strategy holds STRC dividend at 12%",
+      "take": "Strategy holds STRC dividend at 12% despite market conditions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances"
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12"
     }
   ],
   "business": [
-    {
-      "headline": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
-      "take": "BNB Chain pursues legal action against former employee over memecoin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss"
-    },
     {
       "headline": "Circle and Hyperliquid identified as CLARITY Act infrastructure winners by Bob Diamond",
       "take": "Circle and Hyperliquid identified as CLARITY Act infrastructure winners",
@@ -47,48 +35,42 @@
       "link": "https://cryptobriefing.com/circle-hyperliquid-clarity-act-winners-bob-diamond/"
     },
     {
-      "headline": "FIFA kills $4.2B private equity deal after UEFA boycott threat, raising questions about sports finance future",
-      "take": "FIFA kills $4.2B private equity deal after UEFA boycott threat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-reverses-private-equity-sale-sports-crypto/"
+      "headline": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
+      "take": "BNB Chain pursuing legal action against former employee over memecoin launch",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Uber partners with 30 companies to build autonomous vehicle empire",
-      "take": "Uber partners with 30 companies to build autonomous vehicle empire",
+      "headline": "Anthropic\u2019s Claude Design can scan any website and rebuild its design system from scratch",
+      "take": "Anthropic's Claude Design can scan websites and rebuild design systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uber-autonomous-vehicle-partnerships/"
+      "link": "https://cryptobriefing.com/claude-design-scans-websites-rebuilds-design-systems/"
     }
   ],
   "security": [
     {
-      "headline": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-      "take": "CZ warns Bitcoin holders after $70 million wallet exploit detected",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit"
+      "headline": "Iran-linked exchange sent $676M to Binance in sanctions-evasion scheme: Reuters",
+      "take": "Iran-linked exchange sent $676M to Binance in sanctions-evasion scheme",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-linked-exchange-sent-676m-to-binance-in-sanctions-evasion-scheme-reuters/"
     },
     {
-      "headline": "Cyberattacks hit water systems in seven US states, Iran suspected",
-      "take": "Cyberattacks hit water systems in seven US states, Iran suspected",
+      "headline": "US soldier seeks to dismiss case over Polymarket predictions placed with classified intel",
+      "take": "US soldier seeks to dismiss case over classified intel used in Polymarket trades",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cyberattacks-water-supplies-seven-us-states-iran/"
-    },
-    {
-      "headline": "CEO allegedly steals $5M from blockchain firm, deletes 194 expense records to cover tracks",
-      "take": "CEO allegedly steals $5M from blockchain firm, deletes expense records",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ceo-steals-5m-blockchain-firm-deletes-evidence/"
+      "link": "https://cryptobriefing.com/us-soldier-dismiss-polymarket-classified-case/"
     }
   ],
   "policy": [
     {
-      "headline": "Jay Clayton, former SEC chair, set to become America\u2019s top spy on Monday",
-      "take": "Jay Clayton, former SEC chair, set to become America's top spy",
+      "headline": "New York sues Kalshi over illegal gambling violations, seeks up to $36 billion in penalties",
+      "take": "New York sues Kalshi over illegal gambling, seeks up to $36B penalties",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jay-clayton-dni-top-us-spy/"
+      "link": "https://cryptobriefing.com/new-york-sues-kalshi-gambling-violations/"
     },
     {
       "headline": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "take": "Minnesota crypto ATM ban takes effect after reported $1M losses",
+      "take": "Minnesota crypto ATM ban takes effect after reported $1M in losses",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
@@ -97,18 +79,6 @@
       "take": "Russian decree bans crypto mining across Moscow region through 2032",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US soldier seeks to dismiss case over Polymarket predictions placed with classified intel",
-      "take": "US soldier seeks to dismiss case over Polymarket predictions with classified intel",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-soldier-dismiss-polymarket-classified-case/"
-    },
-    {
-      "headline": "Crypto PAC pours another $1M into Michigan House race",
-      "take": "Crypto PAC pours another $1M into Michigan House race campaign",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,52 +1,76 @@
 {
-  "generated": "2026-08-01T16:16:29.592235+00:00",
-  "ts": 1785600989,
+  "generated": "2026-08-01T19:37:12.577276+00:00",
+  "ts": 1785613032,
   "market": [
     {
-      "headline": "Bitcoin dominance surges past 58% as institutional capital floods into BTC over altcoins",
-      "take": "Bitcoin dominance surges past 58% as institutional capital shifts from altcoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-dominance-surges-institutional-capital/"
+      "headline": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "take": "Tokenized stock trading surged 288% in July, one QQQ token dominated",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
     },
     {
       "headline": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "take": "Bitcoin mining difficulty drops 14% as plunging revenues force operator pivots",
+      "take": "Bitcoin mining difficulty fell 14% as operators face shrinking revenues",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot"
     },
     {
-      "headline": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "take": "Bank of Italy research suggests stablecoins may not reduce remittance costs",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances"
+      "headline": "30-year Treasury yield hits highest since 2007 amid fiscal concerns",
+      "take": "30-year Treasury yield hits highest since 2007 amid fiscal concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/30-year-treasury-yield-hits-highest-since-2007-amid-fiscal-concerns/"
     },
     {
-      "headline": "Bitcoin underperforms against US dollar amid recent rally, breaking pattern seen since 2015",
-      "take": "Bitcoin underperforms US dollar during rally, breaking pattern since 2015",
+      "headline": "SEC freezes Nasdaq\u2019s Bitcoin options approval as CME wages jurisdictional turf war",
+      "take": "SEC freezes Nasdaq Bitcoin options approval as CME disputes jurisdiction",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-underperforms-us-dollar-rally/"
+      "link": "https://cryptobriefing.com/sec-freezes-nasdaq-bitcoin-options-cme-challenge/"
+    },
+    {
+      "headline": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "take": "Bank of Italy finds stablecoins not necessarily cheaper for remittances",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances"
     }
   ],
   "business": [
     {
-      "headline": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "take": "Solana Foundation CISO warns AI is making crypto scams more convincing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing"
+      "headline": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
+      "take": "BNB Chain pursues legal action against former employee over memecoin",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "European Union rewrites merger rules to boost tech competition",
-      "take": "European Union rewrites merger rules to boost technology sector competition",
+      "headline": "Circle and Hyperliquid identified as CLARITY Act infrastructure winners by Bob Diamond",
+      "take": "Circle and Hyperliquid identified as CLARITY Act infrastructure winners",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-rewrites-merger-rules-tech-competition/"
+      "link": "https://cryptobriefing.com/circle-hyperliquid-clarity-act-winners-bob-diamond/"
+    },
+    {
+      "headline": "FIFA kills $4.2B private equity deal after UEFA boycott threat, raising questions about sports finance future",
+      "take": "FIFA kills $4.2B private equity deal after UEFA boycott threat",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fifa-reverses-private-equity-sale-sports-crypto/"
+    },
+    {
+      "headline": "Uber partners with 30 companies to build autonomous vehicle empire",
+      "take": "Uber partners with 30 companies to build autonomous vehicle empire",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uber-autonomous-vehicle-partnerships/"
     }
   ],
   "security": [
     {
       "headline": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-      "take": "CZ warns Bitcoin holders after $70M Coldcard wallet exploit surfaces",
+      "take": "CZ warns Bitcoin holders after $70 million wallet exploit detected",
       "source": "decrypt",
       "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit"
+    },
+    {
+      "headline": "Cyberattacks hit water systems in seven US states, Iran suspected",
+      "take": "Cyberattacks hit water systems in seven US states, Iran suspected",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cyberattacks-water-supplies-seven-us-states-iran/"
     },
     {
       "headline": "CEO allegedly steals $5M from blockchain firm, deletes 194 expense records to cover tracks",
@@ -57,20 +81,32 @@
   ],
   "policy": [
     {
+      "headline": "Jay Clayton, former SEC chair, set to become America\u2019s top spy on Monday",
+      "take": "Jay Clayton, former SEC chair, set to become America's top spy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jay-clayton-dni-top-us-spy/"
+    },
+    {
+      "headline": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+      "take": "Minnesota crypto ATM ban takes effect after reported $1M losses",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
       "headline": "Russian decree bans crypto mining across Moscow region through 2032",
-      "take": "Russia bans crypto mining across Moscow region through 2032",
+      "take": "Russian decree bans crypto mining across Moscow region through 2032",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "take": "SEC to review Nasdaq bitcoin options approval following CME challenge",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge"
+      "headline": "US soldier seeks to dismiss case over Polymarket predictions placed with classified intel",
+      "take": "US soldier seeks to dismiss case over Polymarket predictions with classified intel",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-soldier-dismiss-polymarket-classified-case/"
     },
     {
       "headline": "Crypto PAC pours another $1M into Michigan House race",
-      "take": "Crypto PAC invests additional $1M into Michigan House race campaign",
+      "take": "Crypto PAC pours another $1M into Michigan House race campaign",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

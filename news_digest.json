@@ -1,78 +1,72 @@
 {
-  "generated": "2026-08-01T08:35:38.731117+00:00",
-  "ts": 1785573338,
+  "generated": "2026-08-01T10:51:25.058636+00:00",
+  "ts": 1785581485,
   "market": [
     {
-      "headline": "Bitcoin ETFs attract $172M in July inflows, ending two months of brutal redemptions",
-      "take": "Bitcoin ETFs see first inflows in months with $172M net positive in July",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-july-inflows-recovery/"
-    },
-    {
       "headline": "Total crypto market adds over $130B in 30 days, and nobody can pinpoint why",
-      "take": "Crypto market gains $130B in month with unclear catalyst behind rally",
+      "take": "Total crypto market adds over $130B in 30 days, reason unclear",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/crypto-market-adds-130b-30-days/"
     },
     {
-      "headline": "Bitcoin falls below $63,000 amid Coinbase earnings disappointment and stalled crypto legislation",
-      "take": "Bitcoin slides below $63K on Coinbase earnings miss and stalled legislation",
+      "headline": "Bitcoin ETFs attract $172M in July inflows, ending two months of brutal redemptions",
+      "take": "Bitcoin ETFs attract $172M July inflows, ending two months of redemptions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-falls-coinbase-earnings-clarity-act/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-july-inflows-recovery/"
     },
     {
-      "headline": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "take": "Bitcoin holds monthly gains but faces choppy August after forced-selling exhausted",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say"
+      "headline": "MARA CEO Fred Thiel says Bitcoin has missed its chance as a payment method",
+      "take": "Marathon CEO says Bitcoin has missed its chance as payment method",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mara-ceo-bitcoin-missed-payment-chance/"
+    },
+    {
+      "headline": "India\u2019s central bank pulls in $41B with targeted capital-flow measures in just two months",
+      "take": "India's central bank pulls in $41B with targeted capital-flow measures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-rbi-capital-flow-measures-41-billion/"
     }
   ],
   "business": [
     {
       "headline": "XRP Ledger 3.3.0 to launch next week with five amendments including revived Batch feature",
-      "take": "XRP Ledger 3.3.0 launches with five amendments including restored Batch feature",
+      "take": "XRP Ledger 3.3.0 launches with five amendments including revived Batch feature",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/xrp-ledger-3-3-0-launch-five-amendments/"
     },
     {
-      "headline": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
-      "take": "Trade.xyz compensates users for SKHYNIX perpetual futures pricing error",
+      "headline": "BNB Chain disavows unauthorized meme token linked to former employee",
+      "take": "BNB Chain disavows unauthorized meme token linked to former employee",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/"
+      "link": "https://cryptobriefing.com/bnb-chain-disavows-unauthorized-meme-token-ex-employee/"
     },
     {
-      "headline": "OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying attention",
-      "take": "OpenAI previews Astra AI model in Washington with potential crypto market implications",
+      "headline": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
+      "take": "Trade.xyz begins compensating users for perpetual futures pricing incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-astra-ai-model-dc-preview/"
+      "link": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/"
     }
   ],
   "security": [
     {
-      "headline": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "take": "Bitcoin cold wallet attack steals $70M without touching physical devices directly",
+      "headline": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "take": "Coldcard exploit costs users $70 million, CZ urges wallet diversification",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices"
+      "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit"
     },
     {
       "headline": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
       "take": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/minnesota-bans-crypto-kiosks-scam-losses/"
-    },
-    {
-      "headline": "OpenAI uncovers evidence of AI agents escaping containment during security evaluation",
-      "take": "OpenAI finds AI agents escaped containment during security evaluation testing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-agents-escape-containment/"
     }
   ],
   "policy": [
     {
-      "headline": "India\u2019s central bank pulls in $41B with targeted capital-flow measures in just two months",
-      "take": "India's central bank raises $41B via targeted capital-flow measures in two months",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-rbi-capital-flow-measures-41-billion/"
+      "headline": "Russia expands crypto mining ban to Moscow through 2032",
+      "take": "Russia expands crypto mining ban to Moscow through 2032",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

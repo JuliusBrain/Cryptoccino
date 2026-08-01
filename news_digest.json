@@ -1,90 +1,78 @@
 {
-  "generated": "2026-08-01T03:54:13.382165+00:00",
-  "ts": 1785556453,
+  "generated": "2026-08-01T08:35:38.731117+00:00",
+  "ts": 1785573338,
   "market": [
     {
+      "headline": "Bitcoin ETFs attract $172M in July inflows, ending two months of brutal redemptions",
+      "take": "Bitcoin ETFs see first inflows in months with $172M net positive in July",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-july-inflows-recovery/"
+    },
+    {
+      "headline": "Total crypto market adds over $130B in 30 days, and nobody can pinpoint why",
+      "take": "Crypto market gains $130B in month with unclear catalyst behind rally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-market-adds-130b-30-days/"
+    },
+    {
       "headline": "Bitcoin falls below $63,000 amid Coinbase earnings disappointment and stalled crypto legislation",
-      "take": "Bitcoin falls below $63k on Coinbase earnings miss and stalled legislation",
+      "take": "Bitcoin slides below $63K on Coinbase earnings miss and stalled legislation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-falls-coinbase-earnings-clarity-act/"
     },
     {
-      "headline": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "take": "Tether posts $1.5B Q2 profit while reserve buffer shrinks by half",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
-    },
-    {
       "headline": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "take": "Bitcoin holds monthly gain facing choppy August as forced selling exhausts",
+      "take": "Bitcoin holds monthly gains but faces choppy August after forced-selling exhausted",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say"
-    },
-    {
-      "headline": "Colombia launches $4B reserve program to cool its red-hot peso",
-      "take": "Colombia launches $4B reserve program to cool overheating peso",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/colombia-4-billion-reserve-program-peso/"
     }
   ],
   "business": [
     {
-      "headline": "Circle showcases Agent Stack at Agentic AI Summit, betting USDC becomes money for machines",
-      "take": "Circle bets USDC becomes money for machines via Agent Stack platform",
+      "headline": "XRP Ledger 3.3.0 to launch next week with five amendments including revived Batch feature",
+      "take": "XRP Ledger 3.3.0 launches with five amendments including restored Batch feature",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-agent-stack-agentic-ai-summit/"
+      "link": "https://cryptobriefing.com/xrp-ledger-3-3-0-launch-five-amendments/"
     },
     {
-      "headline": "Data center players commit nearly $2.4 trillion in spending as AI race intensifies",
-      "take": "Data center players commit $2.4T spending as AI infrastructure race intensifies",
+      "headline": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
+      "take": "Trade.xyz compensates users for SKHYNIX perpetual futures pricing error",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/data-center-spending-2-4-trillion-ai/"
+      "link": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/"
     },
     {
-      "headline": "Index Ventures raises $2B to support startups across sectors, signaling where smart money is actually flowing",
-      "take": "Index Ventures raises $2B fund signaling smart money sector allocation shift",
+      "headline": "OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying attention",
+      "take": "OpenAI previews Astra AI model in Washington with potential crypto market implications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/index-ventures-raises-2b-startup-funding/"
-    },
-    {
-      "headline": "Coinbase reports delayed MultiversX transactions for some users",
-      "take": "Coinbase reports delayed MultiversX transactions for some users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-multiversx-egld-transaction-delays/"
+      "link": "https://cryptobriefing.com/openai-astra-ai-model-dc-preview/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
-      "take": "Coldcard vulnerability linked to $70M Bitcoin losses per Galaxy Research",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss"
+      "headline": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "take": "Bitcoin cold wallet attack steals $70M without touching physical devices directly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices"
+    },
+    {
+      "headline": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
+      "take": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/minnesota-bans-crypto-kiosks-scam-losses/"
     },
     {
       "headline": "OpenAI uncovers evidence of AI agents escaping containment during security evaluation",
-      "take": "OpenAI finds evidence of AI agents escaping containment during security testing",
+      "take": "OpenAI finds AI agents escaped containment during security evaluation testing",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-ai-agents-escape-containment/"
-    },
-    {
-      "headline": "Cybersecurity experts criticize Anthropic and OpenAI for security breaches that threaten national security",
-      "take": "Cybersecurity experts criticize Anthropic and OpenAI for breaches threatening security",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-openai-security-breaches-criticized/"
     }
   ],
   "policy": [
     {
-      "headline": "Russia bans crypto mining in Moscow and Kursk Region until 2032",
-      "take": "Russia bans crypto mining in Moscow and Kursk until 2032",
+      "headline": "India\u2019s central bank pulls in $41B with targeted capital-flow measures in just two months",
+      "take": "India's central bank raises $41B via targeted capital-flow measures in two months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-bans-crypto-mining-moscow-kursk-2032/"
-    },
-    {
-      "headline": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
-      "take": "Former Rep. Santos agrees to pay $35k CFTC fine over Kalshi SOTU bet",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/india-rbi-capital-flow-measures-41-billion/"
     }
   ]
 }

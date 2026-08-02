@@ -1,78 +1,66 @@
 {
-  "generated": "2026-08-02T10:52:07.107376+00:00",
-  "ts": 1785667927,
+  "generated": "2026-08-02T14:00:28.939709+00:00",
+  "ts": 1785679228,
   "market": [
     {
-      "headline": "South Korea stablecoin outflows hit $10.4B, rivaling the country\u2019s overseas stock investments",
-      "take": "South Korea stablecoin outflows reach $10.4B, matching overseas stock investment levels",
+      "headline": "Whales accumulate 240M ADA, fueling 22% price surge",
+      "take": "Whale accumulation of 240M ADA correlates with 22% price surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-stablecoin-outflows-10-billion/"
+      "link": "https://cryptobriefing.com/whales-accumulate-240m-ada-price-surge/"
     },
     {
-      "headline": "DEX spot volume hits record 24% of CEX volume in July 2026",
-      "take": "Decentralized exchange spot volume hits record 24% of centralized exchange volume",
+      "headline": "Wall Street\u2019s favorite bet falters as chip stocks whipsaw the market",
+      "take": "Chip stocks volatility ripples through broader Wall Street positioning",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dex-spot-volume-record-cex-ratio-july-2026/"
+      "link": "https://cryptobriefing.com/chip-stocks-bear-market-ai-trade-unwinds/"
     },
     {
-      "headline": "Tokyo and Washington coordinate on foreign exchange measures as yen weakness drives Japanese firms toward Bitcoin",
-      "take": "Yen weakness drives Japanese firms toward Bitcoin amid Tokyo-Washington forex coordination",
+      "headline": "Currency traders brace for potential US-Japan joint intervention Monday",
+      "take": "Currency traders prepare for potential US-Japan intervention Monday",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-us-coordinate-yen-bitcoin-treasury/"
+      "link": "https://cryptobriefing.com/us-japan-currency-intervention-monday/"
     },
     {
-      "headline": "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
-      "take": "Nvidia AI GPU demand outpaces supply 12-to-1, strengthening revenue outlook",
+      "headline": "Investors rotate into financial stocks as Fed\u2019s next move looms",
+      "take": "Investors rotate into financials ahead of Federal Reserve decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects/"
-    },
-    {
-      "headline": "OPEC+ plans September quota increase followed by three-month pause",
-      "take": "OPEC+ plans September quota increase followed by three-month production pause",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/opec-plus-september-quota-increase-pause/"
+      "link": "https://cryptobriefing.com/investors-rotate-financial-stocks-fed/"
     }
   ],
   "business": [
     {
+      "headline": "The reverse bridge: Crypto meets Wall Street using perps",
+      "take": "Cryptocurrency derivatives bridges connecting traditional finance infrastructure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps"
+    },
+    {
       "headline": "US government pushes $26B in African data center deals as digital infrastructure race heats up",
-      "take": "US government advances $26B in African data center deals for digital infrastructure",
+      "take": "US government backs $26B in African data center infrastructure deals",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-africa-data-center-deals-crypto-implications/"
     },
     {
       "headline": "Blackstone secures A$36B financing from ANZ and NAB for massive HSBC loan portfolio acquisition",
-      "take": "Blackstone secures A$36B financing for HSBC loan portfolio acquisition from ANZ, NAB",
+      "take": "Blackstone secures A$36B financing for major HSBC portfolio acquisition",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackstone-hsbc-australian-loan-portfolio/"
     }
   ],
   "security": [
     {
-      "headline": "The \u2018massive Bitcoin attack\u2019 warning is real, but it\u2019s not what you think",
-      "take": "Bitcoin network security concerns exist but differ from popular attack narratives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-attack-warning-phishing-wallet-exploits/"
+      "headline": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+      "take": "Coldcard $89M exploit prompts bitcoin holders to move funds to exchanges",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges"
     }
   ],
   "policy": [
     {
-      "headline": "Capital One closes Trump Organization\u2019s accounts after anti-money laundering probe",
-      "take": "Capital One closes Trump Organization accounts following anti-money laundering investigation",
+      "headline": "South Korea confirms 22% crypto tax for 2027; Russia bans mining in Moscow until 2032",
+      "take": "South Korea sets 22% crypto tax for 2027; Russia bans Moscow mining",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/capital-one-closes-trump-organization-accounts/"
-    },
-    {
-      "headline": "Trump announces deal parameters to end Iran war as US holds off on new strikes",
-      "take": "Trump announces Iran war deal parameters as US restrains further military strikes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-war-deal-crypto-impact/"
-    },
-    {
-      "headline": "Poilievre urges Canada to label Iran-backed group a terrorist organization",
-      "take": "Canadian lawmaker urges labeling Iran-backed group as terrorist organization",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/poilievre-urges-canada-to-label-iran-backed-group-a-terrorist-organization/"
+      "link": "https://cryptobriefing.com/south-korea-confirms-22-crypto-tax-for-2027-russia-bans-mining-in-moscow-until/"
     }
   ]
 }

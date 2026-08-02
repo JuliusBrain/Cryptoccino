@@ -1,96 +1,90 @@
 {
-  "generated": "2026-08-02T19:37:23.538899+00:00",
-  "ts": 1785699443,
+  "generated": "2026-08-02T22:13:05.614528+00:00",
+  "ts": 1785708785,
   "market": [
     {
-      "headline": "Big Tech\u2019s $2.4T AI shakeout reshapes capital markets and crypto miners",
-      "take": "Big Tech's $2.4T AI shakeup reshapes capital markets and crypto miners",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/big-tech-ai-shakeout-reshapes-capital-markets-crypto/"
-    },
-    {
       "headline": "BNB Chain surpasses Solana in 24-hour DEX volume as PancakeSwap drives trading surge",
-      "take": "BNB Chain surpasses Solana in 24-hour DEX volume via PancakeSwap surge",
+      "take": "BNB Chain surpasses Solana in daily DEX volume via PancakeSwap trading surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bnb-chain-surpasses-solana-dex-volume/"
     },
     {
-      "headline": "Michael Saylor hints at potential Strategy Bitcoin purchase after five-week pause",
-      "take": "Michael Saylor hints at potential Strategy Bitcoin purchase after five-week pause",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/michael-saylor-hints-at-potential-strategy-bitcoin-purchase-after-five-week/"
-    },
-    {
-      "headline": "AI-related ETFs now account for a record 19% of all US ETF trading volume",
-      "take": "AI-related ETFs now account for record 19% of US ETF trading volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-etfs-record-trading-volume/"
-    },
-    {
       "headline": "Bitcoin self-custody drops to roughly 49% from 78% in late 2022, marking a historic first",
-      "take": "Bitcoin self-custody drops to 49% from 78%, marking historic first",
+      "take": "Bitcoin self-custody drops to 49% from 78%, marking historic low in holdings",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-self-custody-rate-decline-2025/"
+    },
+    {
+      "headline": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: \u2018Bitcoin Drive engaged\u2019",
+      "take": "Saylor hints at Strategy bitcoin purchase after five-week pause in buying",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Big Tech\u2019s $2.4T AI shakeout reshapes capital markets and crypto miners",
+      "take": "Big Tech's $2.4 trillion AI transition reshapes capital markets and crypto miners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/big-tech-ai-shakeout-reshapes-capital-markets-crypto/"
+    },
+    {
+      "headline": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+      "take": "SEC holds Nasdaq bitcoin options review pending CME approval process completion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
       "headline": "Bitkey fast-tracks coin control feature after customer demand",
-      "take": "Bitkey fast-tracks coin control feature after customer demand",
+      "take": "Bitkey fast-tracks coin control feature in response to customer demand surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitkey-coin-control-utxo-feature/"
     },
     {
+      "headline": "Marc Andreessen calls for permanent US crypto regulatory framework",
+      "take": "Andreessen calls for permanent US crypto regulatory framework and clarity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/andreessen-permanent-us-crypto-regulatory-framework/"
+    },
+    {
       "headline": "AI tool recovers lost Bitcoin wallet after 11 years of failed attempts",
-      "take": "AI tool recovers lost Bitcoin wallet after 11 years of failed attempts",
+      "take": "AI tool recovers lost Bitcoin wallet after eleven years of failed attempts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/claude-ai-recovers-lost-bitcoin-wallet/"
     },
     {
-      "headline": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
-      "take": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fun-ceo-crypto-payments-on-ramps-obsolete/"
-    },
-    {
-      "headline": "The quiet DeFi pivot: why building for tech giants beats building for consumers",
-      "take": "DeFi platforms increasingly pivot toward serving tech giants over consumers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defi-pivot-backend-services-tech-giants/"
+      "headline": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "take": "DeFi platform pivots from consumer app to backend infrastructure for tech giants",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants"
     }
   ],
   "security": [
     {
       "headline": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
-      "take": "Coldcard Bitcoin exploit balloons to $88 million with ongoing wallet drains",
+      "take": "Coldcard Bitcoin exploit balloons to $88 million as attackers drain wallets",
       "source": "decrypt",
       "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets"
     },
     {
       "headline": "Chinese police researchers build AI model that spots illicit crypto transactions with 89.4% accuracy",
-      "take": "Chinese police AI model detects illicit crypto transactions with 89.4% accuracy",
+      "take": "Chinese police build AI model detecting illicit crypto transactions at 89.4% accuracy",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/china-ai-model-illicit-crypto-detection/"
-    },
-    {
-      "headline": "Bitkey addresses vulnerability flagged by researcher, confirms no risk to funds",
-      "take": "Bitkey addresses researcher-flagged vulnerability, confirms no fund risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitkey-patches-vulnerability-no-funds-at-risk/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate has 5 days to pass the Crypto Clarity Act before summer recess",
-      "take": "Senate has 5 days to pass Crypto Clarity Act before summer recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-crypto-clarity-act-recess-deadline/"
-    },
-    {
       "headline": "Iran nears shipping management deal with Oman for the Strait of Hormuz, with crypto tolls on the table",
-      "take": "Iran explores crypto toll mechanism for Oman shipping deal via Strait of Hormuz",
+      "take": "Iran nears shipping deal with Oman for Strait of Hormuz using crypto tolls",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/iran-oman-hormuz-shipping-crypto-tolls/"
+    },
+    {
+      "headline": "California Democrats back billionaire tax for November ballot",
+      "take": "California Democrats back billionaire tax proposal for November ballot measure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/california-democrats-back-billionaire-tax-for-november-ballot/"
     }
   ]
 }

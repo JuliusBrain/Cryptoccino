@@ -1,114 +1,90 @@
 {
-  "generated": "2026-08-02T03:57:11.792413+00:00",
-  "ts": 1785643031,
+  "generated": "2026-08-02T08:38:40.429671+00:00",
+  "ts": 1785659920,
   "market": [
     {
-      "headline": "US ETF industry sees record 390 launches in 2 months, and half of them use derivatives",
-      "take": "US ETF industry launched record 390 funds in two months, half using derivatives",
+      "headline": "South Korea stablecoin outflows hit $10.4B, rivaling the country\u2019s overseas stock investments",
+      "take": "South Korea stablecoin outflows hit $10.4B, major capital flight signal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-etf-record-launches-derivatives-leverage/"
+      "link": "https://cryptobriefing.com/south-korea-stablecoin-outflows-10-billion/"
     },
     {
-      "headline": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "take": "Tokenized stock trading surged 288% in July, mostly one QQQ token",
+      "headline": "DEX spot volume hits record 24% of CEX volume in July 2026",
+      "take": "DEX spot volume reaches record 24% of centralized exchange volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dex-spot-volume-record-cex-ratio-july-2026/"
+    },
+    {
+      "headline": "Tokyo and Washington coordinate on foreign exchange measures as yen weakness drives Japanese firms toward Bitcoin",
+      "take": "Japanese firms shift toward Bitcoin as yen weakness pressures currency stability",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-us-coordinate-yen-bitcoin-treasury/"
+    },
+    {
+      "headline": "Franklin Templeton dismisses skepticism on AI capital expenditures, calls spending cycle \u2018early innings\u2019",
+      "take": "Franklin Templeton defends AI capex cycle as sustainable long-term investment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/franklin-templeton-ai-capex-spending-early-innings/"
+    },
+    {
+      "headline": "Strategy holds STRC dividend at 12%",
+      "take": "Strategy maintains STRC dividend at 12% despite market conditions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
-    },
-    {
-      "headline": "Middle East turmoil drives US gas prices to $4.09 per gallon",
-      "take": "Middle East tensions pushed US gas prices to $4.09 per gallon",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/middle-east-turmoil-drives-us-gas-prices-to-409-per-gallon/"
-    },
-    {
-      "headline": "Chipmakers report record earnings, but stocks decline amid skepticism over AI spending",
-      "take": "Chipmakers report record earnings but stocks decline amid AI spending skepticism",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chipmakers-record-earnings-stocks-decline-ai-skepticism/"
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12"
     }
   ],
   "business": [
     {
       "headline": "Chainlink launches TWAP mainnet feeds for developers",
-      "take": "Chainlink launched TWAP mainnet feeds for developers",
+      "take": "Chainlink launches TWAP mainnet feeds for decentralized application developers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/chainlink-twap-mainnet-feeds-launch/"
     },
     {
       "headline": "Nvidia CEO showcases $249 desktop AI computer for local model running",
-      "take": "Nvidia CEO showcases $249 desktop AI computer for local model running",
+      "take": "Nvidia releases $249 desktop computer running AI models locally",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nvidia-249-desktop-ai-computer-local-models/"
-    },
-    {
-      "headline": "Blue Wallet adds custom entropy feature for Bitcoin key generation in version 8.0.0",
-      "take": "Blue Wallet adds custom entropy feature for Bitcoin key generation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bluewallet-custom-entropy-bitcoin-key-generation/"
-    },
-    {
-      "headline": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
-      "take": "BNB Chain pursuing legal action against former employee over memecoin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "take": "Bitcoin cold-wallet attack spreads to 4,500 addresses, losses near $89 million",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"
-    },
-    {
       "headline": "Anthropic discloses its AI models hacked into three organizations during testing",
-      "take": "Anthropic AI models hacked into three organizations during security testing",
+      "take": "Anthropic AI models breached three organizations' systems during authorized testing",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-ai-models-hacked-organizations/"
     },
     {
-      "headline": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
-      "take": "Iran-linked exchange sent $676 million to Binance in sanctions-evasion operation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss"
+      "headline": "The \u2018massive Bitcoin attack\u2019 warning is real, but it\u2019s not what you think",
+      "take": "Bitcoin network security threat exists but differs from mainstream interpretation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-attack-warning-phishing-wallet-exploits/"
     },
     {
-      "headline": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-      "take": "CZ warns Bitcoin holders after $70 million wallet exploit discovered",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit"
+      "headline": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
+      "take": "Iran-linked exchange allegedly sent $676M to Binance in sanctions evasion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
       "headline": "Capital One closes Trump Organization\u2019s accounts after anti-money laundering probe",
-      "take": "Capital One closed Trump Organization accounts after anti-money laundering probe",
+      "take": "Capital One closes Trump Organization accounts following anti-money laundering investigation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/capital-one-closes-trump-organization-accounts/"
     },
     {
-      "headline": "New York sues Kalshi over illegal gambling violations, seeks up to $36 billion in penalties",
-      "take": "New York sues Kalshi over illegal gambling, seeks up to $36 billion penalties",
+      "headline": "Poilievre urges Canada to label Iran-backed group a terrorist organization",
+      "take": "Poilievre urges Canada to designate Iran-backed group as terrorist organization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-york-sues-kalshi-gambling-violations/"
+      "link": "https://cryptobriefing.com/poilievre-urges-canada-to-label-iran-backed-group-a-terrorist-organization/"
     },
     {
-      "headline": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "take": "Minnesota crypto ATM ban takes effect after reported $1 million in losses",
+      "headline": "Onchain, in court: What happened in crypto legal news this week",
+      "take": "Crypto legal developments and court cases summarized in weekly roundup",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Russian decree bans crypto mining across Moscow region through 2032",
-      "take": "Russia bans crypto mining across Moscow region through 2032",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Deadline for classified US government benchmark for frontier AI models passes with no public announcement",
-      "take": "Deadline for classified US frontier AI benchmark passed with no announcement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/classified-ai-benchmark-deadline-passes/"
+      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

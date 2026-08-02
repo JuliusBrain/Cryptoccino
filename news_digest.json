@@ -1,56 +1,74 @@
 {
-  "generated": "2026-08-02T14:00:28.939709+00:00",
-  "ts": 1785679228,
+  "generated": "2026-08-02T16:15:25.426987+00:00",
+  "ts": 1785687325,
   "market": [
     {
       "headline": "Whales accumulate 240M ADA, fueling 22% price surge",
-      "take": "Whale accumulation of 240M ADA correlates with 22% price surge",
+      "take": "Whales accumulate 240M ADA, fueling significant price surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/whales-accumulate-240m-ada-price-surge/"
     },
     {
-      "headline": "Wall Street\u2019s favorite bet falters as chip stocks whipsaw the market",
-      "take": "Chip stocks volatility ripples through broader Wall Street positioning",
+      "headline": "AI-related ETFs now account for a record 19% of all US ETF trading volume",
+      "take": "AI-related ETFs reach record 19% of all US ETF trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chip-stocks-bear-market-ai-trade-unwinds/"
+      "link": "https://cryptobriefing.com/ai-etfs-record-trading-volume/"
+    },
+    {
+      "headline": "Investors rotate into financial stocks as Fed\u2019s next move looms",
+      "take": "Investors rotate into financial stocks as Fed decision approaches",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/investors-rotate-financial-stocks-fed/"
     },
     {
       "headline": "Currency traders brace for potential US-Japan joint intervention Monday",
-      "take": "Currency traders prepare for potential US-Japan intervention Monday",
+      "take": "Currency traders prepare for potential US-Japan joint intervention Monday",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-japan-currency-intervention-monday/"
     },
     {
-      "headline": "Investors rotate into financial stocks as Fed\u2019s next move looms",
-      "take": "Investors rotate into financials ahead of Federal Reserve decision",
+      "headline": "Wall Street\u2019s favorite bet falters as chip stocks whipsaw the market",
+      "take": "Wall Street's chip stock bets falter amid market whipsaw",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/investors-rotate-financial-stocks-fed/"
+      "link": "https://cryptobriefing.com/chip-stocks-bear-market-ai-trade-unwinds/"
     }
   ],
   "business": [
     {
-      "headline": "The reverse bridge: Crypto meets Wall Street using perps",
-      "take": "Cryptocurrency derivatives bridges connecting traditional finance infrastructure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps"
+      "headline": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
+      "take": "Fun CEO predicts future crypto payments will bypass bridges entirely",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fun-ceo-crypto-payments-on-ramps-obsolete/"
     },
     {
-      "headline": "US government pushes $26B in African data center deals as digital infrastructure race heats up",
-      "take": "US government backs $26B in African data center infrastructure deals",
+      "headline": "Apple launches hardware subscription program, and it tells us something about where consumer finance is heading",
+      "take": "Apple launches subscription hardware program signaling consumer finance shift",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-africa-data-center-deals-crypto-implications/"
+      "link": "https://cryptobriefing.com/apple-hardware-subscription-klarna-fintech/"
     },
     {
-      "headline": "Blackstone secures A$36B financing from ANZ and NAB for massive HSBC loan portfolio acquisition",
-      "take": "Blackstone secures A$36B financing for major HSBC portfolio acquisition",
+      "headline": "Foreign investors buy $5B in South Korean stocks, largest single purchase on record",
+      "take": "Foreign investors buy record $5B in South Korean stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackstone-hsbc-australian-loan-portfolio/"
+      "link": "https://cryptobriefing.com/foreign-investors-buy-5b-south-korean-stocks/"
     }
   ],
   "security": [
     {
+      "headline": "Illegal gambling network funnels $4B in crypto through unlicensed Dubai exchange",
+      "take": "Illegal gambling network launders $4B crypto through Dubai exchange",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/shelbit-dubai-4b-crypto-gambling-network/"
+    },
+    {
+      "headline": "Bitkey addresses vulnerability flagged by researcher, confirms no risk to funds",
+      "take": "Bitkey addresses vulnerability; confirms no risk to user funds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitkey-patches-vulnerability-no-funds-at-risk/"
+    },
+    {
       "headline": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-      "take": "Coldcard $89M exploit prompts bitcoin holders to move funds to exchanges",
+      "take": "Coldcard exploit prompts investors to move bitcoin back to exchanges",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges"
     }
@@ -58,9 +76,21 @@
   "policy": [
     {
       "headline": "South Korea confirms 22% crypto tax for 2027; Russia bans mining in Moscow until 2032",
-      "take": "South Korea sets 22% crypto tax for 2027; Russia bans Moscow mining",
+      "take": "South Korea confirms 22% crypto tax for 2027; Russia bans Moscow mining",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/south-korea-confirms-22-crypto-tax-for-2027-russia-bans-mining-in-moscow-until/"
+    },
+    {
+      "headline": "Trump pauses planned Iran strike, demands deal including Hormuz reopening as crypto markets watch closely",
+      "take": "Trump pauses Iran strike, demands deal including Strait reopening",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-iran-deal-crypto-sanctions-2/"
+    },
+    {
+      "headline": "Italian navy boards Russian tanker in international waters, raising questions about sanctions enforcement and shadow fleet economics",
+      "take": "Italian navy boards Russian tanker, raising shadow fleet sanctions questions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/italian-navy-boards-russian-tanker-sanctions/"
     }
   ]
 }

@@ -1,96 +1,96 @@
 {
-  "generated": "2026-08-02T16:15:25.426987+00:00",
-  "ts": 1785687325,
+  "generated": "2026-08-02T19:37:23.538899+00:00",
+  "ts": 1785699443,
   "market": [
     {
-      "headline": "Whales accumulate 240M ADA, fueling 22% price surge",
-      "take": "Whales accumulate 240M ADA, fueling significant price surge",
+      "headline": "Big Tech\u2019s $2.4T AI shakeout reshapes capital markets and crypto miners",
+      "take": "Big Tech's $2.4T AI shakeup reshapes capital markets and crypto miners",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whales-accumulate-240m-ada-price-surge/"
+      "link": "https://cryptobriefing.com/big-tech-ai-shakeout-reshapes-capital-markets-crypto/"
+    },
+    {
+      "headline": "BNB Chain surpasses Solana in 24-hour DEX volume as PancakeSwap drives trading surge",
+      "take": "BNB Chain surpasses Solana in 24-hour DEX volume via PancakeSwap surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bnb-chain-surpasses-solana-dex-volume/"
+    },
+    {
+      "headline": "Michael Saylor hints at potential Strategy Bitcoin purchase after five-week pause",
+      "take": "Michael Saylor hints at potential Strategy Bitcoin purchase after five-week pause",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/michael-saylor-hints-at-potential-strategy-bitcoin-purchase-after-five-week/"
     },
     {
       "headline": "AI-related ETFs now account for a record 19% of all US ETF trading volume",
-      "take": "AI-related ETFs reach record 19% of all US ETF trading",
+      "take": "AI-related ETFs now account for record 19% of US ETF trading volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ai-etfs-record-trading-volume/"
     },
     {
-      "headline": "Investors rotate into financial stocks as Fed\u2019s next move looms",
-      "take": "Investors rotate into financial stocks as Fed decision approaches",
+      "headline": "Bitcoin self-custody drops to roughly 49% from 78% in late 2022, marking a historic first",
+      "take": "Bitcoin self-custody drops to 49% from 78%, marking historic first",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/investors-rotate-financial-stocks-fed/"
-    },
-    {
-      "headline": "Currency traders brace for potential US-Japan joint intervention Monday",
-      "take": "Currency traders prepare for potential US-Japan joint intervention Monday",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-japan-currency-intervention-monday/"
-    },
-    {
-      "headline": "Wall Street\u2019s favorite bet falters as chip stocks whipsaw the market",
-      "take": "Wall Street's chip stock bets falter amid market whipsaw",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chip-stocks-bear-market-ai-trade-unwinds/"
+      "link": "https://cryptobriefing.com/bitcoin-self-custody-rate-decline-2025/"
     }
   ],
   "business": [
     {
+      "headline": "Bitkey fast-tracks coin control feature after customer demand",
+      "take": "Bitkey fast-tracks coin control feature after customer demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitkey-coin-control-utxo-feature/"
+    },
+    {
+      "headline": "AI tool recovers lost Bitcoin wallet after 11 years of failed attempts",
+      "take": "AI tool recovers lost Bitcoin wallet after 11 years of failed attempts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/claude-ai-recovers-lost-bitcoin-wallet/"
+    },
+    {
       "headline": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
-      "take": "Fun CEO predicts future crypto payments will bypass bridges entirely",
+      "take": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fun-ceo-crypto-payments-on-ramps-obsolete/"
     },
     {
-      "headline": "Apple launches hardware subscription program, and it tells us something about where consumer finance is heading",
-      "take": "Apple launches subscription hardware program signaling consumer finance shift",
+      "headline": "The quiet DeFi pivot: why building for tech giants beats building for consumers",
+      "take": "DeFi platforms increasingly pivot toward serving tech giants over consumers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-hardware-subscription-klarna-fintech/"
-    },
-    {
-      "headline": "Foreign investors buy $5B in South Korean stocks, largest single purchase on record",
-      "take": "Foreign investors buy record $5B in South Korean stocks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/foreign-investors-buy-5b-south-korean-stocks/"
+      "link": "https://cryptobriefing.com/defi-pivot-backend-services-tech-giants/"
     }
   ],
   "security": [
     {
-      "headline": "Illegal gambling network funnels $4B in crypto through unlicensed Dubai exchange",
-      "take": "Illegal gambling network launders $4B crypto through Dubai exchange",
+      "headline": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "take": "Coldcard Bitcoin exploit balloons to $88 million with ongoing wallet drains",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets"
+    },
+    {
+      "headline": "Chinese police researchers build AI model that spots illicit crypto transactions with 89.4% accuracy",
+      "take": "Chinese police AI model detects illicit crypto transactions with 89.4% accuracy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/shelbit-dubai-4b-crypto-gambling-network/"
+      "link": "https://cryptobriefing.com/china-ai-model-illicit-crypto-detection/"
     },
     {
       "headline": "Bitkey addresses vulnerability flagged by researcher, confirms no risk to funds",
-      "take": "Bitkey addresses vulnerability; confirms no risk to user funds",
+      "take": "Bitkey addresses researcher-flagged vulnerability, confirms no fund risk",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitkey-patches-vulnerability-no-funds-at-risk/"
-    },
-    {
-      "headline": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-      "take": "Coldcard exploit prompts investors to move bitcoin back to exchanges",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges"
     }
   ],
   "policy": [
     {
-      "headline": "South Korea confirms 22% crypto tax for 2027; Russia bans mining in Moscow until 2032",
-      "take": "South Korea confirms 22% crypto tax for 2027; Russia bans Moscow mining",
+      "headline": "Senate has 5 days to pass the Crypto Clarity Act before summer recess",
+      "take": "Senate has 5 days to pass Crypto Clarity Act before summer recess",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-confirms-22-crypto-tax-for-2027-russia-bans-mining-in-moscow-until/"
+      "link": "https://cryptobriefing.com/senate-crypto-clarity-act-recess-deadline/"
     },
     {
-      "headline": "Trump pauses planned Iran strike, demands deal including Hormuz reopening as crypto markets watch closely",
-      "take": "Trump pauses Iran strike, demands deal including Strait reopening",
+      "headline": "Iran nears shipping management deal with Oman for the Strait of Hormuz, with crypto tolls on the table",
+      "take": "Iran explores crypto toll mechanism for Oman shipping deal via Strait of Hormuz",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-deal-crypto-sanctions-2/"
-    },
-    {
-      "headline": "Italian navy boards Russian tanker in international waters, raising questions about sanctions enforcement and shadow fleet economics",
-      "take": "Italian navy boards Russian tanker, raising shadow fleet sanctions questions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/italian-navy-boards-russian-tanker-sanctions/"
+      "link": "https://cryptobriefing.com/iran-oman-hormuz-shipping-crypto-tolls/"
     }
   ]
 }

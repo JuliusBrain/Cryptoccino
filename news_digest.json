@@ -1,70 +1,58 @@
 {
-  "generated": "2026-08-02T08:38:40.429671+00:00",
-  "ts": 1785659920,
+  "generated": "2026-08-02T10:52:07.107376+00:00",
+  "ts": 1785667927,
   "market": [
     {
       "headline": "South Korea stablecoin outflows hit $10.4B, rivaling the country\u2019s overseas stock investments",
-      "take": "South Korea stablecoin outflows hit $10.4B, major capital flight signal",
+      "take": "South Korea stablecoin outflows reach $10.4B, matching overseas stock investment levels",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/south-korea-stablecoin-outflows-10-billion/"
     },
     {
       "headline": "DEX spot volume hits record 24% of CEX volume in July 2026",
-      "take": "DEX spot volume reaches record 24% of centralized exchange volume",
+      "take": "Decentralized exchange spot volume hits record 24% of centralized exchange volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/dex-spot-volume-record-cex-ratio-july-2026/"
     },
     {
       "headline": "Tokyo and Washington coordinate on foreign exchange measures as yen weakness drives Japanese firms toward Bitcoin",
-      "take": "Japanese firms shift toward Bitcoin as yen weakness pressures currency stability",
+      "take": "Yen weakness drives Japanese firms toward Bitcoin amid Tokyo-Washington forex coordination",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/japan-us-coordinate-yen-bitcoin-treasury/"
     },
     {
-      "headline": "Franklin Templeton dismisses skepticism on AI capital expenditures, calls spending cycle \u2018early innings\u2019",
-      "take": "Franklin Templeton defends AI capex cycle as sustainable long-term investment",
+      "headline": "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
+      "take": "Nvidia AI GPU demand outpaces supply 12-to-1, strengthening revenue outlook",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-templeton-ai-capex-spending-early-innings/"
+      "link": "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects/"
     },
     {
-      "headline": "Strategy holds STRC dividend at 12%",
-      "take": "Strategy maintains STRC dividend at 12% despite market conditions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12"
+      "headline": "OPEC+ plans September quota increase followed by three-month pause",
+      "take": "OPEC+ plans September quota increase followed by three-month production pause",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/opec-plus-september-quota-increase-pause/"
     }
   ],
   "business": [
     {
-      "headline": "Chainlink launches TWAP mainnet feeds for developers",
-      "take": "Chainlink launches TWAP mainnet feeds for decentralized application developers",
+      "headline": "US government pushes $26B in African data center deals as digital infrastructure race heats up",
+      "take": "US government advances $26B in African data center deals for digital infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-twap-mainnet-feeds-launch/"
+      "link": "https://cryptobriefing.com/us-africa-data-center-deals-crypto-implications/"
     },
     {
-      "headline": "Nvidia CEO showcases $249 desktop AI computer for local model running",
-      "take": "Nvidia releases $249 desktop computer running AI models locally",
+      "headline": "Blackstone secures A$36B financing from ANZ and NAB for massive HSBC loan portfolio acquisition",
+      "take": "Blackstone secures A$36B financing for HSBC loan portfolio acquisition from ANZ, NAB",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-249-desktop-ai-computer-local-models/"
+      "link": "https://cryptobriefing.com/blackstone-hsbc-australian-loan-portfolio/"
     }
   ],
   "security": [
     {
-      "headline": "Anthropic discloses its AI models hacked into three organizations during testing",
-      "take": "Anthropic AI models breached three organizations' systems during authorized testing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-models-hacked-organizations/"
-    },
-    {
       "headline": "The \u2018massive Bitcoin attack\u2019 warning is real, but it\u2019s not what you think",
-      "take": "Bitcoin network security threat exists but differs from mainstream interpretation",
+      "take": "Bitcoin network security concerns exist but differ from popular attack narratives",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-attack-warning-phishing-wallet-exploits/"
-    },
-    {
-      "headline": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
-      "take": "Iran-linked exchange allegedly sent $676M to Binance in sanctions evasion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
@@ -75,16 +63,16 @@
       "link": "https://cryptobriefing.com/capital-one-closes-trump-organization-accounts/"
     },
     {
-      "headline": "Poilievre urges Canada to label Iran-backed group a terrorist organization",
-      "take": "Poilievre urges Canada to designate Iran-backed group as terrorist organization",
+      "headline": "Trump announces deal parameters to end Iran war as US holds off on new strikes",
+      "take": "Trump announces Iran war deal parameters as US restrains further military strikes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/poilievre-urges-canada-to-label-iran-backed-group-a-terrorist-organization/"
+      "link": "https://cryptobriefing.com/trump-iran-war-deal-crypto-impact/"
     },
     {
-      "headline": "Onchain, in court: What happened in crypto legal news this week",
-      "take": "Crypto legal developments and court cases summarized in weekly roundup",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Poilievre urges Canada to label Iran-backed group a terrorist organization",
+      "take": "Canadian lawmaker urges labeling Iran-backed group as terrorist organization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/poilievre-urges-canada-to-label-iran-backed-group-a-terrorist-organization/"
     }
   ]
 }

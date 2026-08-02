@@ -1,7 +1,59 @@
 {
-  "generated": "2026-08-01T22:13:33.589859+00:00",
-  "ts": 1785622413,
+  "generated": "2026-08-02T03:57:11.792413+00:00",
+  "ts": 1785643031,
   "market": [
+    {
+      "headline": "US ETF industry sees record 390 launches in 2 months, and half of them use derivatives",
+      "take": "US ETF industry launched record 390 funds in two months, half using derivatives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-etf-record-launches-derivatives-leverage/"
+    },
+    {
+      "headline": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "take": "Tokenized stock trading surged 288% in July, mostly one QQQ token",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
+    },
+    {
+      "headline": "Middle East turmoil drives US gas prices to $4.09 per gallon",
+      "take": "Middle East tensions pushed US gas prices to $4.09 per gallon",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/middle-east-turmoil-drives-us-gas-prices-to-409-per-gallon/"
+    },
+    {
+      "headline": "Chipmakers report record earnings, but stocks decline amid skepticism over AI spending",
+      "take": "Chipmakers report record earnings but stocks decline amid AI spending skepticism",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chipmakers-record-earnings-stocks-decline-ai-skepticism/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Chainlink launches TWAP mainnet feeds for developers",
+      "take": "Chainlink launched TWAP mainnet feeds for developers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainlink-twap-mainnet-feeds-launch/"
+    },
+    {
+      "headline": "Nvidia CEO showcases $249 desktop AI computer for local model running",
+      "take": "Nvidia CEO showcases $249 desktop AI computer for local model running",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-249-desktop-ai-computer-local-models/"
+    },
+    {
+      "headline": "Blue Wallet adds custom entropy feature for Bitcoin key generation in version 8.0.0",
+      "take": "Blue Wallet adds custom entropy feature for Bitcoin key generation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bluewallet-custom-entropy-bitcoin-key-generation/"
+    },
+    {
+      "headline": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
+      "take": "BNB Chain pursuing legal action against former employee over memecoin",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss"
+    }
+  ],
+  "security": [
     {
       "headline": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
       "take": "Bitcoin cold-wallet attack spreads to 4,500 addresses, losses near $89 million",
@@ -9,76 +61,54 @@
       "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"
     },
     {
-      "headline": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "take": "Tokenized stock trading surged 288% in July, one QQQ token drove most gains",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"
-    },
-    {
-      "headline": "SEC freezes Nasdaq\u2019s Bitcoin options approval as CME wages jurisdictional turf war",
-      "take": "SEC freezes Nasdaq Bitcoin options approval amid CME jurisdictional dispute",
+      "headline": "Anthropic discloses its AI models hacked into three organizations during testing",
+      "take": "Anthropic AI models hacked into three organizations during security testing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-freezes-nasdaq-bitcoin-options-cme-challenge/"
+      "link": "https://cryptobriefing.com/anthropic-ai-models-hacked-organizations/"
     },
     {
-      "headline": "Strategy holds STRC dividend at 12%",
-      "take": "Strategy holds STRC dividend at 12% despite market conditions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Circle and Hyperliquid identified as CLARITY Act infrastructure winners by Bob Diamond",
-      "take": "Circle and Hyperliquid identified as CLARITY Act infrastructure winners",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-hyperliquid-clarity-act-winners-bob-diamond/"
-    },
-    {
-      "headline": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
-      "take": "BNB Chain pursuing legal action against former employee over memecoin launch",
+      "headline": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
+      "take": "Iran-linked exchange sent $676 million to Binance in sanctions-evasion operation",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Anthropic\u2019s Claude Design can scan any website and rebuild its design system from scratch",
-      "take": "Anthropic's Claude Design can scan websites and rebuild design systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-design-scans-websites-rebuilds-design-systems/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "Iran-linked exchange sent $676M to Binance in sanctions-evasion scheme: Reuters",
-      "take": "Iran-linked exchange sent $676M to Binance in sanctions-evasion scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-linked-exchange-sent-676m-to-binance-in-sanctions-evasion-scheme-reuters/"
-    },
-    {
-      "headline": "US soldier seeks to dismiss case over Polymarket predictions placed with classified intel",
-      "take": "US soldier seeks to dismiss case over classified intel used in Polymarket trades",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-soldier-dismiss-polymarket-classified-case/"
+      "headline": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
+      "take": "CZ warns Bitcoin holders after $70 million wallet exploit discovered",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit"
     }
   ],
   "policy": [
     {
+      "headline": "Capital One closes Trump Organization\u2019s accounts after anti-money laundering probe",
+      "take": "Capital One closed Trump Organization accounts after anti-money laundering probe",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/capital-one-closes-trump-organization-accounts/"
+    },
+    {
       "headline": "New York sues Kalshi over illegal gambling violations, seeks up to $36 billion in penalties",
-      "take": "New York sues Kalshi over illegal gambling, seeks up to $36B penalties",
+      "take": "New York sues Kalshi over illegal gambling, seeks up to $36 billion penalties",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/new-york-sues-kalshi-gambling-violations/"
     },
     {
       "headline": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "take": "Minnesota crypto ATM ban takes effect after reported $1M in losses",
+      "take": "Minnesota crypto ATM ban takes effect after reported $1 million in losses",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Russian decree bans crypto mining across Moscow region through 2032",
-      "take": "Russian decree bans crypto mining across Moscow region through 2032",
+      "take": "Russia bans crypto mining across Moscow region through 2032",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Deadline for classified US government benchmark for frontier AI models passes with no public announcement",
+      "take": "Deadline for classified US frontier AI benchmark passed with no announcement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/classified-ai-benchmark-deadline-passes/"
     }
   ]
 }

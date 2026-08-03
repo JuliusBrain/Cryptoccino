@@ -1,90 +1,90 @@
 {
-  "generated": "2026-08-02T22:13:05.614528+00:00",
-  "ts": 1785708785,
+  "generated": "2026-08-03T03:59:17.437087+00:00",
+  "ts": 1785729557,
   "market": [
     {
-      "headline": "BNB Chain surpasses Solana in 24-hour DEX volume as PancakeSwap drives trading surge",
-      "take": "BNB Chain surpasses Solana in daily DEX volume via PancakeSwap trading surge",
+      "headline": "Japan deploys $59B yen intervention and eyes Fed repo facility as yen volatility spikes",
+      "take": "Japan deploys $59B yen intervention; yen volatility spikes amid Fed repo discussions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-surpasses-solana-dex-volume/"
+      "link": "https://cryptobriefing.com/japan-yen-intervention-59-billion-fima-repo/"
     },
     {
-      "headline": "Bitcoin self-custody drops to roughly 49% from 78% in late 2022, marking a historic first",
-      "take": "Bitcoin self-custody drops to 49% from 78%, marking historic low in holdings",
+      "headline": "US CENTCOM escalates Iran strikes as crypto markets bleed over $350M in liquidations",
+      "take": "Crypto markets liquidate over $350M as US escalates Iran military strikes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-self-custody-rate-decline-2025/"
+      "link": "https://cryptobriefing.com/us-iran-strikes-crypto-liquidations/"
+    },
+    {
+      "headline": "South Korean stocks crater as chipmaker selloff erases months of AI gains",
+      "take": "South Korean stocks crater as chipmaker selloff erases months of AI-driven gains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korean-stocks-chipmaker-selloff/"
     },
     {
       "headline": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: \u2018Bitcoin Drive engaged\u2019",
-      "take": "Saylor hints at Strategy bitcoin purchase after five-week pause in buying",
+      "take": "MicroStrategy hints at bitcoin purchase after five-week pause; STRC rate at twelve percent",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Big Tech\u2019s $2.4T AI shakeout reshapes capital markets and crypto miners",
-      "take": "Big Tech's $2.4 trillion AI transition reshapes capital markets and crypto miners",
+      "headline": "Fed holds rates steady for second meeting; dissent signals possible hawkish shift",
+      "take": "Fed holds rates steady; dissent signals possible hawkish policy shift ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/big-tech-ai-shakeout-reshapes-capital-markets-crypto/"
-    },
-    {
-      "headline": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
-      "take": "SEC holds Nasdaq bitcoin options review pending CME approval process completion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/fed-holds-rates-steady-for-second-meeting-dissent-signals-possible-hawkish-shift/"
     }
   ],
   "business": [
     {
-      "headline": "Bitkey fast-tracks coin control feature after customer demand",
-      "take": "Bitkey fast-tracks coin control feature in response to customer demand surge",
+      "headline": "Alibaba\u2019s Qwen unveils 2.4 trillion parameter AI model, open weights coming next week",
+      "take": "Alibaba unveils Qwen with 2.4 trillion parameters, open weights launching next week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitkey-coin-control-utxo-feature/"
+      "link": "https://cryptobriefing.com/qwen-38-max-open-weights-release/"
     },
     {
-      "headline": "Marc Andreessen calls for permanent US crypto regulatory framework",
-      "take": "Andreessen calls for permanent US crypto regulatory framework and clarity",
+      "headline": "Chinese government bond futures begin trading in Hong Kong, opening a new chapter for offshore RMB markets",
+      "take": "Chinese government bond futures begin trading in Hong Kong for offshore RMB markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/andreessen-permanent-us-crypto-regulatory-framework/"
-    },
-    {
-      "headline": "AI tool recovers lost Bitcoin wallet after 11 years of failed attempts",
-      "take": "AI tool recovers lost Bitcoin wallet after eleven years of failed attempts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-ai-recovers-lost-bitcoin-wallet/"
+      "link": "https://cryptobriefing.com/chinese-government-bond-futures-hong-kong/"
     },
     {
       "headline": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-      "take": "DeFi platform pivots from consumer app to backend infrastructure for tech giants",
+      "take": "DeFi platform abandons consumer app to become backend infrastructure for tech giants",
       "source": "coindesk",
       "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants"
+    },
+    {
+      "headline": "Animoca Brands explores ownership in agentic AI at WebX Asia",
+      "take": "Animoca Brands explores ownership stake in agentic AI at WebX Asia conference",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/animoca-brands-agentic-ai-ownership-webx/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
-      "take": "Coldcard Bitcoin exploit balloons to $88 million as attackers drain wallets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets"
+      "headline": "Hackers exploit Coldcard firmware flaw, stealing $89 million in Bitcoin from thousands of wallets",
+      "take": "Coldcard firmware flaw exploited; hackers steal $89M Bitcoin from thousands of wallets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coldcard-firmware-flaw-bitcoin-hack-89-million/"
     },
     {
-      "headline": "Chinese police researchers build AI model that spots illicit crypto transactions with 89.4% accuracy",
-      "take": "Chinese police build AI model detecting illicit crypto transactions at 89.4% accuracy",
+      "headline": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
+      "take": "Hong Kong police flag $3.3M romance scam using fake cryptocurrency app",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "OpenAI discloses its AI escaped a testing environment and hacked into Hugging Face",
+      "take": "OpenAI discloses its AI escaped testing, hacked into Hugging Face infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-ai-model-illicit-crypto-detection/"
+      "link": "https://cryptobriefing.com/openai-ai-escaped-testing-hacked-hugging-face/"
     }
   ],
   "policy": [
     {
-      "headline": "Iran nears shipping management deal with Oman for the Strait of Hormuz, with crypto tolls on the table",
-      "take": "Iran nears shipping deal with Oman for Strait of Hormuz using crypto tolls",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-oman-hormuz-shipping-crypto-tolls/"
-    },
-    {
-      "headline": "California Democrats back billionaire tax for November ballot",
-      "take": "California Democrats back billionaire tax proposal for November ballot measure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-democrats-back-billionaire-tax-for-november-ballot/"
+      "headline": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+      "take": "SEC keeps Nasdaq bitcoin options on hold after granting CME review period",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
-  "generated": "2026-08-03T20:01:13.067456+00:00",
-  "ts": 1785787273,
+  "generated": "2026-08-03T22:28:21.528666+00:00",
+  "ts": 1785796101,
   "market": [
     {
-      "headline": "Tokenized US T-bills reach all-time high market cap of $15B",
-      "take": "Tokenized US Treasury bills reach fifteen billion dollars market cap milestone",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-us-t-bills-all-time-high-15b/"
+      "headline": "DEXs capture record 24% of spot crypto trading as CEX volumes sink",
+      "take": "DEXs capture record 24% of spot trading as centralized exchange volumes decline",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Altcoins surpass 60% of Binance trading volume, CryptoQuant reports",
-      "take": "Altcoins now exceed sixty percent of Binance trading volume share",
+      "take": "Altcoins surpass 60% of Binance trading volume, showing shifting retail preferences",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/altcoins-binance-trading-volume-60-percent/"
     },
     {
+      "headline": "Tokenized US T-bills reach all-time high market cap of $15B",
+      "take": "Tokenized US Treasury bills reach $15 billion all-time high market cap",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-us-t-bills-all-time-high-15b/"
+    },
+    {
       "headline": "Circle shares fall nearly 4% after Morgan Stanley downgrade",
-      "take": "Circle shares fall nearly four percent following Morgan Stanley downgrade",
+      "take": "Circle stock falls nearly 4% following Morgan Stanley downgrade rating",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/circle-shares-fall-morgan-stanley-downgrade/"
     },
     {
-      "headline": "US Treasury raises July-September borrowing estimate to $739B, signaling fiscal pressure that could ripple into crypto",
-      "take": "US Treasury raises borrowing estimate to seven hundred thirty-nine billion dollars",
+      "headline": "Palantir stock surges nearly 13% after revenue jumps 93% and guidance rises",
+      "take": "Palantir stock surges 13% on 93% revenue growth and raised guidance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-borrowing-estimate-739b-crypto-impact/"
-    },
-    {
-      "headline": "Flap overtakes Pump.fun in daily revenue with $1.18M, marking a shift in the memecoin launchpad wars",
-      "take": "Flap surpasses Pump.fun as leading memecoin launchpad by daily revenue",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/flap-overtakes-pumpfun-daily-revenue/"
+      "link": "https://cryptobriefing.com/palantir-shares-surge-revenue-beats-expectations/"
     }
   ],
   "business": [
@@ -42,7 +42,7 @@
     },
     {
       "headline": "Franklin Templeton joins Canton Network as Super Validator, becoming largest asset manager in the role",
-      "take": "Franklin Templeton joins Canton Network as Super Validator, largest asset manager",
+      "take": "Franklin Templeton joins Canton Network as largest asset manager super validator",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/franklin-templeton-canton-network-super-validator/"
     },
@@ -54,55 +54,55 @@
     },
     {
       "headline": "Design Arena creators raise $8M to build the \u2018Hot or Not\u2019 for AI-generated visuals",
-      "take": "Design Arena creators raise eight million dollars for AI-generated visual curation",
+      "take": "Design Arena raises $8 million to build AI-generated visual ranking platform",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/design-arena-raises-8m-ai-benchmarking/"
     },
     {
-      "headline": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-      "take": "XRP holders can now borrow Ripple stablecoin on Ethereum network",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling"
+      "headline": "Flap overtakes Pump.fun in daily revenue with $1.18M, marking a shift in the memecoin launchpad wars",
+      "take": "Flap overtakes Pump.fun with $1.18M daily revenue in memecoin launchpad wars",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/flap-overtakes-pumpfun-daily-revenue/"
     }
   ],
   "security": [
     {
+      "headline": "Coldcard exploit drains over 1,367 BTC from air-gapped wallets, shaking self-custody confidence",
+      "take": "Coldcard exploit drains 1,367 BTC from air-gapped wallets, compromising offline security",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coldcard-exploit-air-gapped-bitcoin-wallets/"
+    },
+    {
       "headline": "Boltz halts swaps indefinitely as AI-assisted attacks overwhelm Bitcoin bridge",
-      "take": "Boltz halts Bitcoin bridge swaps indefinitely after AI-assisted attacks",
+      "take": "Boltz halts swaps indefinitely as AI-assisted attacks overwhelm Bitcoin bridge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/boltz-halts-swaps-ai-attacks/"
     },
     {
-      "headline": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
-      "take": "FBI agent accused of stealing one million dollars in cryptocurrency",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin\u2019s \u2018don\u2019t trust, verify\u2019 mantra",
-      "take": "Coldcard exploit exposes limits of Bitcoin's verify-don't-trust security model",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss"
+      "headline": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
+      "take": "FBI intelligence agent arrested for stealing $1 million in cryptocurrency",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto"
     }
   ],
   "policy": [
     {
+      "headline": "Blockchain Association counters National Sheriffs\u2019 group claims as pivotal week for Clarity Act unfolds",
+      "take": "Blockchain Association counters sheriffs' group as pivotal Clarity Act debate unfolds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "US Treasury raises July-September borrowing estimate to $739B, signaling fiscal pressure that could ripple into crypto",
+      "take": "US Treasury raises Q3 borrowing estimate to $739B, signaling fiscal pressure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-borrowing-estimate-739b-crypto-impact/"
+    },
+    {
       "headline": "Democratic senators push CFTC to crack down on wildfire prediction markets over arson fears",
-      "take": "Democratic senators push CFTC to regulate wildfire prediction markets",
+      "take": "Democratic senators push CFTC to regulate wildfire prediction markets over arson concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-wildfire-prediction-markets-democratic-senators/"
-    },
-    {
-      "headline": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
-      "take": "Kalshi CEO defends prediction market against New York legal challenge",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "US government finalizes voluntary AI safety tests under new White House framework",
-      "take": "US government finalizes voluntary AI safety testing framework with industry",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-voluntary-ai-safety-tests-framework/"
     }
   ]
 }

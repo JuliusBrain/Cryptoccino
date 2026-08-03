@@ -1,90 +1,108 @@
 {
-  "generated": "2026-08-03T17:21:59.803263+00:00",
-  "ts": 1785777719,
+  "generated": "2026-08-03T20:01:13.067456+00:00",
+  "ts": 1785787273,
   "market": [
     {
-      "headline": "Bitcoin rebounds to $64K as Coldcard hack rattles self-custody confidence",
-      "take": "Bitcoin rebounds to $64K as self-custody confidence shaken by exploit",
+      "headline": "Tokenized US T-bills reach all-time high market cap of $15B",
+      "take": "Tokenized US Treasury bills reach fifteen billion dollars market cap milestone",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-rebounds-64k-coldcard-hack/"
+      "link": "https://cryptobriefing.com/tokenized-us-t-bills-all-time-high-15b/"
     },
     {
-      "headline": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-      "take": "U.S.-Japan currency intervention revives yen carry trade risks for bitcoin",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin"
-    },
-    {
-      "headline": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-      "take": "Ether outperformed Nasdaq 100 in July as major holder accumulates more",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bank of America warns US Treasuries may retreat if Fed fails to clarify inflation target",
-      "take": "Bank of America warns Treasury yields may fall if Fed lacks clarity",
+      "headline": "Altcoins surpass 60% of Binance trading volume, CryptoQuant reports",
+      "take": "Altcoins now exceed sixty percent of Binance trading volume share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-treasuries-fed-inflation-warning/"
+      "link": "https://cryptobriefing.com/altcoins-binance-trading-volume-60-percent/"
+    },
+    {
+      "headline": "Circle shares fall nearly 4% after Morgan Stanley downgrade",
+      "take": "Circle shares fall nearly four percent following Morgan Stanley downgrade",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-shares-fall-morgan-stanley-downgrade/"
+    },
+    {
+      "headline": "US Treasury raises July-September borrowing estimate to $739B, signaling fiscal pressure that could ripple into crypto",
+      "take": "US Treasury raises borrowing estimate to seven hundred thirty-nine billion dollars",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-borrowing-estimate-739b-crypto-impact/"
+    },
+    {
+      "headline": "Flap overtakes Pump.fun in daily revenue with $1.18M, marking a shift in the memecoin launchpad wars",
+      "take": "Flap surpasses Pump.fun as leading memecoin launchpad by daily revenue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/flap-overtakes-pumpfun-daily-revenue/"
     }
   ],
   "business": [
     {
-      "headline": "Visa acquires BioCatch for $2.4B to supercharge fraud detection with behavioral biometrics",
-      "take": "Visa acquires BioCatch for $2.4B to enhance fraud detection capabilities",
+      "headline": "BlackRock launches tokenized money market funds on Solana, Ethereum",
+      "take": "BlackRock launches tokenized money market funds on Solana and Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/visa-acquires-biocatch-fraud-detection/"
+      "link": "https://cryptobriefing.com/blackrock-launches-tokenized-money-market-funds-on-solana-ethereum/"
     },
     {
-      "headline": "Bithumb sets 2028 IPO target with listing review planned for next year",
-      "take": "Bithumb targets 2028 IPO with listing review planned for next year",
+      "headline": "Franklin Templeton joins Canton Network as Super Validator, becoming largest asset manager in the role",
+      "take": "Franklin Templeton joins Canton Network as Super Validator, largest asset manager",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bithumb-targets-2028-ipo/"
+      "link": "https://cryptobriefing.com/franklin-templeton-canton-network-super-validator/"
     },
     {
-      "headline": "SuperVega launches options trading in public beta on Starknet",
-      "take": "SuperVega launches options trading in public beta on Starknet network",
+      "headline": "Coinbase executive discusses banks\u2019 shift to stablecoin payment rails",
+      "take": "Coinbase executive discusses banks shifting to stablecoin payment infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/supervega-options-trading-starknet-beta/"
+      "link": "https://cryptobriefing.com/banks-shift-stablecoin-payment-rails/"
     },
     {
-      "headline": "FalconX slashes 10% of staff and revamps Singapore strategy",
-      "take": "FalconX cuts 10% of staff and revamps Singapore operational strategy",
+      "headline": "Design Arena creators raise $8M to build the \u2018Hot or Not\u2019 for AI-generated visuals",
+      "take": "Design Arena creators raise eight million dollars for AI-generated visual curation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/falconx-cuts-workforce-market-downturn/"
+      "link": "https://cryptobriefing.com/design-arena-raises-8m-ai-benchmarking/"
+    },
+    {
+      "headline": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+      "take": "XRP holders can now borrow Ripple stablecoin on Ethereum network",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling"
     }
   ],
   "security": [
     {
-      "headline": "FBI agent charged with stealing $1 million in crypto from foreign adversarial wallets",
-      "take": "FBI agent charged with stealing $1 million in crypto from foreign wallets",
+      "headline": "Boltz halts swaps indefinitely as AI-assisted attacks overwhelm Bitcoin bridge",
+      "take": "Boltz halts Bitcoin bridge swaps indefinitely after AI-assisted attacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fbi-agent-charged-stealing-cryptocurrency/"
+      "link": "https://cryptobriefing.com/boltz-halts-swaps-ai-attacks/"
+    },
+    {
+      "headline": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
+      "take": "FBI agent accused of stealing one million dollars in cryptocurrency",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin\u2019s \u2018don\u2019t trust, verify\u2019 mantra",
-      "take": "Coldcard exploit exposes practical limits of Bitcoin's decentralized security model",
+      "take": "Coldcard exploit exposes limits of Bitcoin's verify-don't-trust security model",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "CLARITY Act delayed as Senate prioritizes spending bill before August recess",
-      "take": "CLARITY Act delayed as Senate prioritizes spending bill before recess",
+      "headline": "Democratic senators push CFTC to crack down on wildfire prediction markets over arson fears",
+      "take": "Democratic senators push CFTC to regulate wildfire prediction markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-delayed-as-senate-prioritizes-spending-bill-before-august-recess/"
+      "link": "https://cryptobriefing.com/cftc-wildfire-prediction-markets-democratic-senators/"
     },
     {
-      "headline": "Donald Trump to attend mining executives roundtable at US State Department",
-      "take": "Trump to attend mining executives roundtable at U.S. State Department meeting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-mining-executives-roundtable-state-department/"
+      "headline": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
+      "take": "Kalshi CEO defends prediction market against New York legal challenge",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Britain signals willingness to regulate AI if voluntary safeguards fall short",
-      "take": "Britain signals willingness to regulate AI if voluntary safeguards prove inadequate",
+      "headline": "US government finalizes voluntary AI safety tests under new White House framework",
+      "take": "US government finalizes voluntary AI safety testing framework with industry",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-ai-regulation-voluntary-safeguards/"
+      "link": "https://cryptobriefing.com/us-government-voluntary-ai-safety-tests-framework/"
     }
   ]
 }

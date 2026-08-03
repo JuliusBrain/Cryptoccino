@@ -1,96 +1,90 @@
 {
-  "generated": "2026-08-03T15:20:15.744249+00:00",
-  "ts": 1785770415,
+  "generated": "2026-08-03T17:21:59.803263+00:00",
+  "ts": 1785777719,
   "market": [
     {
+      "headline": "Bitcoin rebounds to $64K as Coldcard hack rattles self-custody confidence",
+      "take": "Bitcoin rebounds to $64K as self-custody confidence shaken by exploit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-rebounds-64k-coldcard-hack/"
+    },
+    {
       "headline": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-      "take": "US-Japan intervention revives yen carry trade concerns for bitcoin",
+      "take": "U.S.-Japan currency intervention revives yen carry trade risks for bitcoin",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin"
     },
     {
       "headline": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-      "take": "Ether outperformed Nasdaq 100 in July as institutional buyers added",
+      "take": "Ether outperformed Nasdaq 100 in July as major holder accumulates more",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Circle slides after Morgan Stanley downgrade, cut in price target",
-      "take": "Circle slides after Morgan Stanley downgrade and price target cut",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target"
-    },
-    {
-      "headline": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-      "take": "Bernstein warns crypto markets face headwinds if Clarity Act stalls",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls"
-    },
-    {
-      "headline": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
-      "take": "Strategy sells $105M Bitcoin as dollar reserve approaches $4 billion",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b"
+      "headline": "Bank of America warns US Treasuries may retreat if Fed fails to clarify inflation target",
+      "take": "Bank of America warns Treasury yields may fall if Fed lacks clarity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-america-treasuries-fed-inflation-warning/"
     }
   ],
   "business": [
     {
-      "headline": "The DTCC just executed its first live tokenized asset trades, and Wall Street showed up in force",
-      "take": "DTCC executes first live tokenized asset trades with Wall Street participation",
+      "headline": "Visa acquires BioCatch for $2.4B to supercharge fraud detection with behavioral biometrics",
+      "take": "Visa acquires BioCatch for $2.4B to enhance fraud detection capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dtcc-tokenized-asset-trades-historic/"
+      "link": "https://cryptobriefing.com/visa-acquires-biocatch-fraud-detection/"
     },
     {
-      "headline": "Mastercard completes BVNK acquisition to deepen stablecoin strategy",
-      "take": "Mastercard completes BVNK acquisition to expand stablecoin payment strategy",
+      "headline": "Bithumb sets 2028 IPO target with listing review planned for next year",
+      "take": "Bithumb targets 2028 IPO with listing review planned for next year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mastercard-completes-bvnk-acquisition-to-deepen-stablecoin-strategy/"
+      "link": "https://cryptobriefing.com/bithumb-targets-2028-ipo/"
     },
     {
-      "headline": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-      "take": "BlackRock launches blockchain-based money market offerings for tokenized cash",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings"
+      "headline": "SuperVega launches options trading in public beta on Starknet",
+      "take": "SuperVega launches options trading in public beta on Starknet network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/supervega-options-trading-starknet-beta/"
     },
     {
-      "headline": "Cardano connects with Injective via IBC on testnet, enabling cross-chain asset transfers",
-      "take": "Cardano connects with Injective via IBC enabling cross-chain asset transfers",
+      "headline": "FalconX slashes 10% of staff and revamps Singapore strategy",
+      "take": "FalconX cuts 10% of staff and revamps Singapore operational strategy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-injective-ibc-testnet-integration/"
-    },
-    {
-      "headline": "American Bitcoin, backed by Trump family, continues aggressive Bitcoin treasury strategy",
-      "take": "American Bitcoin pursues aggressive Bitcoin treasury strategy with major holdings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/american-bitcoin-trump-family-btc-treasury/"
+      "link": "https://cryptobriefing.com/falconx-cuts-workforce-market-downturn/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin community responds swiftly to Coldcard exploit as 1,367 BTC drained from vulnerable wallets",
-      "take": "Coldcard exploit drains 1,367 BTC from vulnerable wallets; community responds",
+      "headline": "FBI agent charged with stealing $1 million in crypto from foreign adversarial wallets",
+      "take": "FBI agent charged with stealing $1 million in crypto from foreign wallets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-exploit-bitcoin-community-response/"
+      "link": "https://cryptobriefing.com/fbi-agent-charged-stealing-cryptocurrency/"
+    },
+    {
+      "headline": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin\u2019s \u2018don\u2019t trust, verify\u2019 mantra",
+      "take": "Coldcard exploit exposes practical limits of Bitcoin's decentralized security model",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "White House convenes AI companies Tuesday for framework review, keeping crypto-adjacent policy in focus",
-      "take": "White House convenes AI companies for framework review affecting crypto policy",
+      "headline": "CLARITY Act delayed as Senate prioritizes spending bill before August recess",
+      "take": "CLARITY Act delayed as Senate prioritizes spending bill before recess",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-ai-framework-review-tuesday/"
+      "link": "https://cryptobriefing.com/clarity-act-delayed-as-senate-prioritizes-spending-bill-before-august-recess/"
     },
     {
-      "headline": "Rep. Thomas Massie warns 10% of all US debt will be added in Trump\u2019s second term",
-      "take": "Rep. Massie warns 10% of US debt will be added under Trump",
+      "headline": "Donald Trump to attend mining executives roundtable at US State Department",
+      "take": "Trump to attend mining executives roundtable at U.S. State Department meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/massie-warns-10-percent-us-debt-trump-second-term/"
+      "link": "https://cryptobriefing.com/trump-mining-executives-roundtable-state-department/"
     },
     {
-      "headline": "Senators urge CFTC to restrict wildfire prediction market trading over arson fears",
-      "take": "Senators urge CFTC to restrict wildfire prediction market trading over arson concerns",
+      "headline": "Britain signals willingness to regulate AI if voluntary safeguards fall short",
+      "take": "Britain signals willingness to regulate AI if voluntary safeguards prove inadequate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senators-cftc-wildfire-prediction-markets/"
+      "link": "https://cryptobriefing.com/uk-ai-regulation-voluntary-safeguards/"
     }
   ]
 }

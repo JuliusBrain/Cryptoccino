@@ -1,90 +1,96 @@
 {
-  "generated": "2026-08-03T03:59:17.437087+00:00",
-  "ts": 1785729557,
+  "generated": "2026-08-03T10:08:13.039908+00:00",
+  "ts": 1785751693,
   "market": [
     {
-      "headline": "Japan deploys $59B yen intervention and eyes Fed repo facility as yen volatility spikes",
-      "take": "Japan deploys $59B yen intervention; yen volatility spikes amid Fed repo discussions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-yen-intervention-59-billion-fima-repo/"
+      "headline": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+      "take": "Bitcoin drops below $63k as Coldcard wallet losses unsettle traders",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market"
     },
     {
-      "headline": "US CENTCOM escalates Iran strikes as crypto markets bleed over $350M in liquidations",
-      "take": "Crypto markets liquidate over $350M as US escalates Iran military strikes",
+      "headline": "US backs yen in rare joint intervention with Japan, and crypto traders should pay attention",
+      "take": "US-Japan yen intervention signals macro shift crypto traders should monitor",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-strikes-crypto-liquidations/"
+      "link": "https://cryptobriefing.com/us-japan-yen-intervention-crypto-impact-2/"
     },
     {
-      "headline": "South Korean stocks crater as chipmaker selloff erases months of AI gains",
-      "take": "South Korean stocks crater as chipmaker selloff erases months of AI-driven gains",
+      "headline": "US Treasury yields fall as oil prices drop on Iran diplomacy hopes",
+      "take": "Treasury yields fall as oil prices drop on Iran diplomacy hopes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korean-stocks-chipmaker-selloff/"
+      "link": "https://cryptobriefing.com/us-treasury-yields-fall-as-oil-prices-drop-on-iran-diplomacy-hopes/"
     },
     {
-      "headline": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: \u2018Bitcoin Drive engaged\u2019",
-      "take": "MicroStrategy hints at bitcoin purchase after five-week pause; STRC rate at twelve percent",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss"
+      "headline": "Bitcoin percent unrealized loss falls below deep-stress band, but capitulation is nowhere in sight",
+      "take": "Bitcoin unrealized losses fall but capitulation nowhere in sight yet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-unrealized-loss-deep-stress-band/"
     },
     {
-      "headline": "Fed holds rates steady for second meeting; dissent signals possible hawkish shift",
-      "take": "Fed holds rates steady; dissent signals possible hawkish policy shift ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-holds-rates-steady-for-second-meeting-dissent-signals-possible-hawkish-shift/"
+      "headline": "Michael Saylor\u2019s Strategy is now tracking bitcoin\u2019s 200-week moving average",
+      "take": "Michael Saylor tracking bitcoin's 200-week moving average strategically",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average"
     }
   ],
   "business": [
     {
-      "headline": "Alibaba\u2019s Qwen unveils 2.4 trillion parameter AI model, open weights coming next week",
-      "take": "Alibaba unveils Qwen with 2.4 trillion parameters, open weights launching next week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/qwen-38-max-open-weights-release/"
+      "headline": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
+      "take": "Ripple invests in ZILO and Licuido for tokenized capital markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Chinese government bond futures begin trading in Hong Kong, opening a new chapter for offshore RMB markets",
-      "take": "Chinese government bond futures begin trading in Hong Kong for offshore RMB markets",
+      "headline": "Robinhood wins UK crypto registration ahead of new regulations",
+      "take": "Robinhood wins UK crypto registration ahead of new regulatory regime",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinese-government-bond-futures-hong-kong/"
+      "link": "https://cryptobriefing.com/robinhood-uk-crypto-fca-registration/"
     },
     {
-      "headline": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-      "take": "DeFi platform abandons consumer app to become backend infrastructure for tech giants",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants"
+      "headline": "June raises $20M in pre-seed round to simplify AI adoption as enterprise AI funding heats up",
+      "take": "June raises $20M pre-seed for enterprise AI adoption acceleration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/june-raises-20m-simplify-ai-adoption/"
     },
     {
-      "headline": "Animoca Brands explores ownership in agentic AI at WebX Asia",
-      "take": "Animoca Brands explores ownership stake in agentic AI at WebX Asia conference",
+      "headline": "South Korea\u2019s Bithumb officially targets 2028 IPO, outlines multi-year roadmap",
+      "take": "Bithumb officially targets 2028 IPO with multi-year roadmap",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Hyperliquid enhances TWAP orders with trigger prices, dynamic intervals, and week-long durations",
+      "take": "Hyperliquid enhances TWAP orders with trigger prices and longer durations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/animoca-brands-agentic-ai-ownership-webx/"
+      "link": "https://cryptobriefing.com/hyperliquid-twap-orders-onchain-upgrade/"
     }
   ],
   "security": [
     {
-      "headline": "Hackers exploit Coldcard firmware flaw, stealing $89 million in Bitcoin from thousands of wallets",
-      "take": "Coldcard firmware flaw exploited; hackers steal $89M Bitcoin from thousands of wallets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-firmware-flaw-bitcoin-hack-89-million/"
+      "headline": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
+      "take": "Coldcard wallet losses may approach $114 million in possible fourth sweep",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges"
     },
     {
-      "headline": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
-      "take": "Hong Kong police flag $3.3M romance scam using fake cryptocurrency app",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "OpenAI discloses its AI escaped a testing environment and hacked into Hugging Face",
-      "take": "OpenAI discloses its AI escaped testing, hacked into Hugging Face infrastructure",
+      "headline": "ZeroStack warns of survival risk amid $83M loss as 0G holdings crater 91%",
+      "take": "ZeroStack warns of survival risk after $83M loss and 0G crash",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-escaped-testing-hacked-hugging-face/"
+      "link": "https://cryptobriefing.com/zerostack-survival-risk-83m-loss/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
-      "take": "SEC keeps Nasdaq bitcoin options on hold after granting CME review period",
+      "headline": "Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking",
+      "take": "Clarity Act failure could accelerate SEC and CFTC crypto rulemaking",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Bitget exits Japan, will forcibly close all remaining positions after December 31",
+      "take": "Bitget exits Japan, will forcibly close all positions by December 31",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitget-exits-japan-closes-positions/"
     }
   ]
 }

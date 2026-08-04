@@ -1,102 +1,96 @@
 {
-  "generated": "2026-08-04T11:35:31.710020+00:00",
-  "ts": 1785843331,
+  "generated": "2026-08-04T14:42:27.044592+00:00",
+  "ts": 1785854547,
   "market": [
     {
-      "headline": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-      "take": "Bitcoin rises toward $64,000 as Coldcard exploit impact recedes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances"
-    },
-    {
-      "headline": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-      "take": "BlackRock debuts tokenized access to $311 billion money market funds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe"
-    },
-    {
-      "headline": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
-      "take": "First U.S. spot bitcoin ETF closing as inflows dwindle sharply",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns"
-    },
-    {
-      "headline": "Cathie Wood\u2019s Ark Invest snaps up nearly $10 million in Coinbase and Circle stock",
-      "take": "Ark Invest purchases nearly $10 million in Coinbase and Circle",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410558/cathie-woods-ark-invest-snaps-up-nearly-10-million-in-coinbase-and-circle-stock?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Sequans Communications sells 344 Bitcoin, plans to divest remaining 314 BTC as it exits treasury strategy",
-      "take": "Sequans Communications sells Bitcoin, plans full treasury strategy exit",
+      "headline": "Bitcoin remains above production cost at $54,939 as miners juggle crypto and AI",
+      "take": "Bitcoin holding above production cost at $54,939 as miners balance crypto and AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sequans-sells-bitcoin-exits-treasury-strategy/"
+      "link": "https://cryptobriefing.com/bitcoin-above-production-cost-miners-ai/"
+    },
+    {
+      "headline": "Dow hits record close, S&P 500 opens at all-time high as US-Iran deal hopes lift markets",
+      "take": "Dow hits record, S&P 500 at all-time high on US-Iran deal hopes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dow-sp500-record-high-us-iran-deal/"
+    },
+    {
+      "headline": "Perp DEX trading volume drops 34% to $21B as traders sit on their hands",
+      "take": "Perpetual DEX trading volume drops 34% to $21 billion amid trader caution",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/perp-dex-volume-drops-34-percent/"
+    },
+    {
+      "headline": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+      "take": "Intesa Sanpaolo cuts Bitcoin ETF stake 94%, triples ether holdings during slump",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped"
+    },
+    {
+      "headline": "Emerging-market stocks and currencies pressured by rising oil prices",
+      "take": "Emerging-market stocks and currencies pressured by rising oil prices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/emerging-market-stocks-currencies-oil-pressure/"
     }
   ],
   "business": [
     {
-      "headline": "DCG\u2019s Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million, expanding Zcash mining portfolio",
-      "take": "DCG's Fortitude acquires Nebraska mining facility for $4.7 million",
+      "headline": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+      "take": "Polymarket targets $20 billion valuation as prediction market competition intensifies",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets"
+    },
+    {
+      "headline": "Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway",
+      "take": "Bitdeer stock volatile on $4.7 billion AI data center lease deal in Norway",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410578/bitdeer-stock-pops-drops-4-7-billion-ai-data-center-lease-norway?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Backpack surpasses xStocksFi in monthly tokenized equities volume on Solana despite holding just 5% of supply",
-      "take": "Backpack surpasses xStocksFi in Solana tokenized equities volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-surpasses-xstocksfi-tokenized-equities-solana/"
+      "headline": "BNY to add crypto staking to digital asset custody platform",
+      "take": "BNY Mellon adds crypto staking to digital asset custody platform",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform"
     },
     {
-      "headline": "Changpeng Zhao argues crypto storage on exchanges is safer than self-custody, citing data on Bitcoin losses",
-      "take": "Changpeng Zhao argues exchange storage safer than self-custody",
+      "headline": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+      "take": "Dinari brings tokenized US stocks to American investors via Circle partnership",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up"
+    },
+    {
+      "headline": "Ether.fi Ventures backs Blockspace to professionalize Ethereum\u2019s off-protocol infrastructure",
+      "take": "Ether.fi Ventures backs Blockspace for Ethereum off-protocol infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-crypto-exchange-safer-self-custody/"
+      "link": "https://cryptobriefing.com/etherfi-ventures-backs-blockspace-ethereum/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin self-custody at risk after Coldcard exploit drains over $83 million",
-      "take": "Coldcard exploit drains over $83 million in Bitcoin holdings",
+      "headline": "Grayscale reports Bitcoin and crypto hacks at 9-year low",
+      "take": "Bitcoin and crypto hacks hit 9-year low, Grayscale reports",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-exploit-bitcoin-self-custody-risk/"
+      "link": "https://cryptobriefing.com/grayscale-bitcoin-crypto-hacks-nine-year-low/"
     },
     {
-      "headline": "Gemini agent-to-agent attack exposes secrets and enables pull request tampering",
-      "take": "Gemini agent-to-agent attack exposes secrets and enables tampering",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-agent-to-agent-attack-github-tokens/"
-    },
-    {
-      "headline": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
-      "take": "Five convicted of imprisoning crypto millionaires in London torture",
+      "headline": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
+      "take": "Apple's AI generated unreported $200K macOS security exploit vulnerability",
       "source": "decrypt",
-      "link": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal"
+      "link": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported"
     }
   ],
   "policy": [
     {
-      "headline": "South African lawmakers propose draft rules on cross-border crypto transactions",
-      "take": "South African lawmakers propose draft rules on cross-border crypto",
+      "headline": "Trump administration drafts ban on Chinese data center devices, raising supply chain questions for crypto miners",
+      "take": "Trump administration drafts ban on Chinese data center devices, affects crypto miners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-ban-chinese-data-center-devices/"
+    },
+    {
+      "headline": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+      "take": "Mystery group runs Washington ads against crypto as Clarity Act momentum stalls",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions"
-    },
-    {
-      "headline": "UAE bans Iranian vessels from its ports, spotlighting crypto\u2019s role in sanctions evasion",
-      "take": "UAE bans Iranian vessels, spotlighting crypto's sanctions evasion role",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uae-bans-iranian-vessels-crypto-sanctions/"
-    },
-    {
-      "headline": "India paves way for return of merchant fees on digital payments",
-      "take": "India paves way for return of merchant fees on digital payments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-merchant-fees-digital-payments-return/"
-    },
-    {
-      "headline": "Trump administration drafts ban on Chinese data center equipment, raising stakes for US tech supply chains",
-      "take": "Trump administration drafts ban on Chinese data center equipment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ban-chinese-data-center-equipment/"
+      "link": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads"
     }
   ]
 }

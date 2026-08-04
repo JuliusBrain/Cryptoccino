@@ -1,108 +1,96 @@
 {
-  "generated": "2026-08-04T17:05:36.986217+00:00",
-  "ts": 1785863136,
+  "generated": "2026-08-04T20:00:06.393955+00:00",
+  "ts": 1785873606,
   "market": [
     {
-      "headline": "Bitcoin\u2019s $63,000 zone emerges as key battleground for buyers: Glassnode",
-      "take": "Bitcoin consolidates around $63,000 as key support level for traders",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode"
+      "headline": "Morgan Stanley says Bitcoin is 2% of global money supply, sees room to run",
+      "take": "Morgan Stanley: Bitcoin represents 2% of global money supply with growth potential",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morgan-stanley-bitcoin-global-money-supply/"
     },
     {
-      "headline": "Perpetual futures quietly drain 10% per year from long positions, The Economist warns",
-      "take": "Perpetual futures impose hidden drag, costing long positions roughly 10% annually",
+      "headline": "TD Cowen reports Bitcoin treasury companies may reach 2.1M BTC in aggregate holdings",
+      "take": "Bitcoin treasury companies may aggregate 2.1M BTC in holdings going forward",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/perpetual-futures-funding-rate-cost-longs/"
+      "link": "https://cryptobriefing.com/td-cowen-bitcoin-treasury-companies-2-million-btc/"
     },
     {
-      "headline": "Job openings fall to three-month low, raising fresh questions about Fed policy and risk assets",
-      "take": "Job openings fall to three-month low, raising questions about Fed rate path",
+      "headline": "Tether generated $1.5B in profit in Q2 amid crypto market turmoil",
+      "take": "Tether generated $1.5B profit in Q2 despite broader crypto market turmoil",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/job-openings-fall-labor-market-fed-crypto/"
+      "link": "https://cryptobriefing.com/tether-usdt-profit-q2-2026-stablecoin/"
     },
     {
-      "headline": "S&P 500 breaches $70T market cap for first time as index tops 7,700",
-      "take": "S&P 500 reaches $70 trillion market cap milestone, crosses 7,700",
+      "headline": "Aerodrome captures 54% of BTC-USD volume on EVM DEXs in July",
+      "take": "Aerodrome captured 54% of BTC-USD volume on EVM DEXs in July",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-breaches-70-trillion-market-cap/"
+      "link": "https://cryptobriefing.com/aerodrome-btc-usd-volume-evm-dex-dominance/"
     },
     {
-      "headline": "Oil prices decline on Iran deal speculation as Rubio emphasizes denuclearization goal",
-      "take": "Oil prices decline as Iran nuclear deal talks generate renewed optimism",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-decline-on-iran-deal-speculation-as-rubio-emphasizes/"
+      "headline": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
+      "take": "Hashdex shutting down Bitcoin ETF after failing to attract sufficient assets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf"
     }
   ],
   "business": [
     {
-      "headline": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street\u2019s settlement rails",
-      "take": "Wells Fargo joins JPMorgan, Citi in race to tokenize Wall Street settlement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments"
-    },
-    {
-      "headline": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
-      "take": "Dinari launches tokenized S&P 500 stocks on blockchain for self-custody",
+      "headline": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content",
+      "take": "Cloudflare rolling out stablecoin wallet for AI agents to pay for APIs",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410629/cloudflare-kicks-off-stablecoin-wallet-rollout-ai-agents-pay-apis-online-content?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "BitGo partners with BNY Mellon to launch BLIQUID money market fund",
-      "take": "BitGo and BNY Mellon partner to launch BLIQUID money market fund",
+      "headline": "Volta secures $10B partnership and $300M raise, co-led by a16z, at a $2.4B valuation",
+      "take": "Volta raises $300M co-led by a16z at $2.4B valuation with $10B partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-bny-mellon-bliquid-money-market-fund/"
+      "link": "https://cryptobriefing.com/volta-10b-partnership-a16z-series-a-funding/"
     },
     {
-      "headline": "LayerZero\u2019s OFT standard accounts for 87% of cross-chain transfer volume",
-      "take": "LayerZero's OFT standard dominates cross-chain transfers at 87% market share",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/layerzero-oft-cross-chain-dominance/"
+      "headline": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "take": "Samsung positioned to become dominant stablecoin distributor, analysts report",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say"
     },
     {
-      "headline": "Canaan authorizes crypto sales to fund $30 million share repurchase program",
-      "take": "Canaan authorizes crypto sales to fund $30 million share repurchase program",
+      "headline": "Inside BC Engine: How BC.GAME is turning players into stakeholders",
+      "take": "BC.GAME converting players into stakeholders through platform participation model",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canaan-digital-asset-treasury-share-repurchase/"
+      "link": "https://cryptobriefing.com/inside-bc-engine-how-bc-game-is-turning-players-into-stakeholders/"
+    },
+    {
+      "headline": "Aster DEX launches Marscoin perpetuals as meme token trading expands across decentralized exchanges",
+      "take": "Aster DEX launches Marscoin perpetuals as meme token trading expands decentralized",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aster-dex-marscoin-perpetuals-trading/"
     }
   ],
   "security": [
     {
-      "headline": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
-      "take": "BitGo migrates $7.4 billion wrapped Bitcoin from LayerZero to Chainlink CCIP",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Fake World Assets revises buyback program after community backlash",
-      "take": "Fake World Assets revises buyback program following community backlash and concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fake-world-assets-revises-buyback-program-backlash/"
+      "headline": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
+      "take": "Coldcard Bitcoin exploit explained: entropy generation and key derivation flaws",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits"
     }
   ],
   "policy": [
     {
-      "headline": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-      "take": "Clarity Act stalled over Trump ethics question as Warren requests SEC probe",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him"
-    },
-    {
-      "headline": "Nigeria Approves Tokenized Assets to Boost Capital-Market Growth",
-      "take": "Nigeria approves tokenized assets framework to accelerate capital market development",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-04/nigeria-approves-tokenized-assets-to-boost-capital-market-growth"
-    },
-    {
-      "headline": "US Treasury\u2019s Bessent backs expanding Fed\u2019s FIMA facility, and crypto markets should pay attention",
-      "take": "Treasury expands Fed's FIMA facility; crypto markets should monitor capital flows",
+      "headline": "Former sen. pat toomey: \u201cIt\u2019s Essential the senate passes the legislation this week\u201d on the clarity act",
+      "take": "Former Senator Toomey urges Senate passage of crypto clarity bill this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-fima-expansion-crypto-liquidity/"
+      "link": "https://cryptobriefing.com/former-sen-pat-toomey-its-essential-the-senate-passes-the-legislation-this-week/"
     },
     {
-      "headline": "Trump administration plans price floor and tariffs on polysilicon to counter China\u2019s grip on solar and chip supply chains",
-      "take": "Trump administration proposes price floor and tariffs on polysilicon supply chain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-polysilicon-tariffs-price-floor/"
+      "headline": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+      "take": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410643/ethereum-researchers-propose-burning-validator-rewards-cap-staking-50?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Senators seek SEC probe of President Trump\u2019s memecoin as crypto bill enters into a pivotal week",
+      "take": "Senators seek SEC investigation of Trump's memecoin as crypto bill advances",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week?utm_source=rss&utm_medium=rss"
     }
   ]
 }

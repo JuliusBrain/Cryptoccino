@@ -1,90 +1,102 @@
 {
-  "generated": "2026-08-04T09:12:53.541666+00:00",
-  "ts": 1785834773,
+  "generated": "2026-08-04T11:35:31.710020+00:00",
+  "ts": 1785843331,
   "market": [
     {
-      "headline": "Live updates: Bitcoin at $63,600 as rare US-Japan yen action tests carry-trade fears",
-      "take": "Bitcoin holds near $64,000 as yen weakness tests carry-trade concerns",
+      "headline": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+      "take": "Bitcoin rises toward $64,000 as Coldcard exploit impact recedes",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears"
+      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances"
     },
     {
-      "headline": "Spot Bitcoin ETFs pull in $170M while Ether ETFs bleed $11M in a single session",
-      "take": "Spot Bitcoin ETFs gain $170M while Ether ETFs lose $11M in session",
+      "headline": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+      "take": "BlackRock debuts tokenized access to $311 billion money market funds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe"
+    },
+    {
+      "headline": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
+      "take": "First U.S. spot bitcoin ETF closing as inflows dwindle sharply",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns"
+    },
+    {
+      "headline": "Cathie Wood\u2019s Ark Invest snaps up nearly $10 million in Coinbase and Circle stock",
+      "take": "Ark Invest purchases nearly $10 million in Coinbase and Circle",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410558/cathie-woods-ark-invest-snaps-up-nearly-10-million-in-coinbase-and-circle-stock?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Sequans Communications sells 344 Bitcoin, plans to divest remaining 314 BTC as it exits treasury strategy",
+      "take": "Sequans Communications sells Bitcoin, plans full treasury strategy exit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etf-inflows-170m-ether-etf-outflows/"
-    },
-    {
-      "headline": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-      "take": "XRP holders can borrow RLUSD on Ethereum via $280 million pool",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault"
-    },
-    {
-      "headline": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
-      "take": "Solana proposal seeks to increase daily SOL burns thirteen-fold",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000"
-    },
-    {
-      "headline": "A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one",
-      "take": "Dormant Bitcoin wallet from 2013 moves $31 million, joining recent activity",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/04/a-bitcoin-wallet-dormant-since-2013-moved-usd31-million-and-it-s-not-the-only-one"
+      "link": "https://cryptobriefing.com/sequans-sells-bitcoin-exits-treasury-strategy/"
     }
   ],
   "business": [
     {
-      "headline": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-      "take": "Bhutan's GMC activates portion of 10,000 BTC treasury pledge",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge"
-    },
-    {
-      "headline": "Bernstein says Texas data center audit could boost value of existing bitcoin mining and AI sites",
-      "take": "Texas data center audit could strengthen value of Bitcoin mining sites",
+      "headline": "DCG\u2019s Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million, expanding Zcash mining portfolio",
+      "take": "DCG's Fortitude acquires Nebraska mining facility for $4.7 million",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410545/bernstein-texas-data-center-audit?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Anthropic commits $200B to Google Cloud in massive five-year spending deal",
-      "take": "Anthropic commits $200 billion to Google Cloud over five years",
+      "headline": "Backpack surpasses xStocksFi in monthly tokenized equities volume on Solana despite holding just 5% of supply",
+      "take": "Backpack surpasses xStocksFi in Solana tokenized equities volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-200b-google-cloud-spending-deal/"
+      "link": "https://cryptobriefing.com/backpack-surpasses-xstocksfi-tokenized-equities-solana/"
     },
     {
-      "headline": "NEAR co-founder proposes protocol sovereign fund for long-term sustainability",
-      "take": "NEAR co-founder proposes protocol sovereign fund for sustainability",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitmine stakes $278M in Ethereum, pushing total past 5 million staked ETH",
-      "take": "Bitmine stakes $278M in Ethereum, pushing total past 5M ETH",
+      "headline": "Changpeng Zhao argues crypto storage on exchanges is safer than self-custody, citing data on Bitcoin losses",
+      "take": "Changpeng Zhao argues exchange storage safer than self-custody",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmine-stakes-278m-ethereum-5-million-eth/"
+      "link": "https://cryptobriefing.com/cz-crypto-exchange-safer-self-custody/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin losses from Coldcard hack could swell to $130 million, Galaxy Research says",
-      "take": "Coldcard hack losses could reach $130 million according to Galaxy",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410533/coldcard-hack-130-million-galaxy-research?utm_source=rss&utm_medium=rss"
+      "headline": "Bitcoin self-custody at risk after Coldcard exploit drains over $83 million",
+      "take": "Coldcard exploit drains over $83 million in Bitcoin holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coldcard-exploit-bitcoin-self-custody-risk/"
     },
     {
-      "headline": "Kimi K2.5 maintains deception across nine rounds in social deduction benchmark, raising questions about AI safety guardrails",
-      "take": "AI deception across nine rounds raises questions about safety guardrails",
+      "headline": "Gemini agent-to-agent attack exposes secrets and enables pull request tampering",
+      "take": "Gemini agent-to-agent attack exposes secrets and enables tampering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kimi-k2-5-deception-social-deduction/"
+      "link": "https://cryptobriefing.com/gemini-agent-to-agent-attack-github-tokens/"
+    },
+    {
+      "headline": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
+      "take": "Five convicted of imprisoning crypto millionaires in London torture",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal"
     }
   ],
   "policy": [
     {
-      "headline": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
-      "take": "New York judge denies CFTC motion to halt Kalshi enforcement action",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "take": "South African lawmakers propose draft rules on cross-border crypto",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions"
+    },
+    {
+      "headline": "UAE bans Iranian vessels from its ports, spotlighting crypto\u2019s role in sanctions evasion",
+      "take": "UAE bans Iranian vessels, spotlighting crypto's sanctions evasion role",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uae-bans-iranian-vessels-crypto-sanctions/"
+    },
+    {
+      "headline": "India paves way for return of merchant fees on digital payments",
+      "take": "India paves way for return of merchant fees on digital payments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-merchant-fees-digital-payments-return/"
+    },
+    {
+      "headline": "Trump administration drafts ban on Chinese data center equipment, raising stakes for US tech supply chains",
+      "take": "Trump administration drafts ban on Chinese data center equipment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-ban-chinese-data-center-equipment/"
     }
   ]
 }

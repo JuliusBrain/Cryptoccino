@@ -1,108 +1,108 @@
 {
-  "generated": "2026-08-03T22:28:21.528666+00:00",
-  "ts": 1785796101,
+  "generated": "2026-08-04T03:42:23.975188+00:00",
+  "ts": 1785814943,
   "market": [
     {
       "headline": "DEXs capture record 24% of spot crypto trading as CEX volumes sink",
-      "take": "DEXs capture record 24% of spot trading as centralized exchange volumes decline",
+      "take": "DEXs captured record 24% of spot trading as centralized exchange volumes decline",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Altcoins surpass 60% of Binance trading volume, CryptoQuant reports",
-      "take": "Altcoins surpass 60% of Binance trading volume, showing shifting retail preferences",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/altcoins-binance-trading-volume-60-percent/"
-    },
-    {
-      "headline": "Tokenized US T-bills reach all-time high market cap of $15B",
-      "take": "Tokenized US Treasury bills reach $15 billion all-time high market cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-us-t-bills-all-time-high-15b/"
-    },
-    {
-      "headline": "Circle shares fall nearly 4% after Morgan Stanley downgrade",
-      "take": "Circle stock falls nearly 4% following Morgan Stanley downgrade rating",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-shares-fall-morgan-stanley-downgrade/"
-    },
-    {
       "headline": "Palantir stock surges nearly 13% after revenue jumps 93% and guidance rises",
-      "take": "Palantir stock surges 13% on 93% revenue growth and raised guidance",
+      "take": "Palantir stock surged 13% after 93% revenue jump and raised guidance",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/palantir-shares-surge-revenue-beats-expectations/"
+    },
+    {
+      "headline": "Trump calls US-Japan yen purchases a signal of friendship, and crypto markets are paying attention",
+      "take": "Trump's yen purchases signal draws crypto market attention to currency dynamics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-us-japan-yen-intervention-crypto-impact/"
+    },
+    {
+      "headline": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+      "take": "BlackRock launched tokenized money market funds on Solana and Ethereum",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum"
+    },
+    {
+      "headline": "Trading in leveraged ETFs tied to Samsung and SK Hynix shrinks sharply after regulatory crackdown",
+      "take": "Leveraged ETF trading tied to Samsung, SK Hynix fell after regulatory crackdown",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/samsung-sk-hynix-leveraged-etf-trading-shrinks/"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock launches tokenized money market funds on Solana, Ethereum",
-      "take": "BlackRock launches tokenized money market funds on Solana and Ethereum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-launches-tokenized-money-market-funds-on-solana-ethereum/"
+      "headline": "Mastercard completes BVNK acquisition to expand stablecoin payments infrastructure",
+      "take": "Mastercard completed BVNK acquisition to expand stablecoin payments infrastructure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410521/mastercard-completes-bvnk-acquisition?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Franklin Templeton joins Canton Network as Super Validator, becoming largest asset manager in the role",
-      "take": "Franklin Templeton joins Canton Network as largest asset manager super validator",
+      "headline": "NEAR co-founder proposes sovereign fund to hold treasury, generate yield, and potentially cap token supply",
+      "take": "NEAR co-founder proposes sovereign fund for treasury yield and token supply cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-templeton-canton-network-super-validator/"
+      "link": "https://cryptobriefing.com/near-sovereign-fund-proposal/"
     },
     {
-      "headline": "Coinbase executive discusses banks\u2019 shift to stablecoin payment rails",
-      "take": "Coinbase executive discusses banks shifting to stablecoin payment infrastructure",
+      "headline": "Vast considers initial public offering in Hong Kong as city courts global listings",
+      "take": "Vast considers Hong Kong IPO as city courts global listings and capital",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/banks-shift-stablecoin-payment-rails/"
+      "link": "https://cryptobriefing.com/vast-considers-ipo-hong-kong/"
     },
     {
-      "headline": "Design Arena creators raise $8M to build the \u2018Hot or Not\u2019 for AI-generated visuals",
-      "take": "Design Arena raises $8 million to build AI-generated visual ranking platform",
+      "headline": "Caleb & Brown expands to UK, targeting high-net-worth clients with white-glove crypto brokerage",
+      "take": "Caleb & Brown expanded to UK targeting high-net-worth clients with brokerage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/design-arena-raises-8m-ai-benchmarking/"
-    },
-    {
-      "headline": "Flap overtakes Pump.fun in daily revenue with $1.18M, marking a shift in the memecoin launchpad wars",
-      "take": "Flap overtakes Pump.fun with $1.18M daily revenue in memecoin launchpad wars",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/flap-overtakes-pumpfun-daily-revenue/"
+      "link": "https://cryptobriefing.com/caleb-brown-uk-expansion-high-net-worth/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard exploit drains over 1,367 BTC from air-gapped wallets, shaking self-custody confidence",
-      "take": "Coldcard exploit drains 1,367 BTC from air-gapped wallets, compromising offline security",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-exploit-air-gapped-bitcoin-wallets/"
-    },
-    {
-      "headline": "Boltz halts swaps indefinitely as AI-assisted attacks overwhelm Bitcoin bridge",
-      "take": "Boltz halts swaps indefinitely as AI-assisted attacks overwhelm Bitcoin bridge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boltz-halts-swaps-ai-attacks/"
-    },
-    {
       "headline": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-      "take": "FBI intelligence agent arrested for stealing $1 million in cryptocurrency",
+      "take": "FBI intelligence agent arrested for stealing nearly one million dollars in crypto",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto"
+    },
+    {
+      "headline": "Republican AGs urge OpenAI to preserve records on Hugging Face breach as AI agent escaped containment",
+      "take": "Republican AGs urge OpenAI to preserve records after AI agent containment breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/republican-ags-openai-hugging-face-breach/"
+    },
+    {
+      "headline": "UK regulator monitors AI agents after rogue models breach real systems",
+      "take": "UK regulator monitoring AI agents after rogue models breached real systems",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-regulator-monitors-rogue-ai-agent-hacks/"
+    },
+    {
+      "headline": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
+      "take": "Coldcard exploit changes conversation about offline air-gapped Bitcoin wallet security",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security"
     }
   ],
   "policy": [
     {
-      "headline": "Blockchain Association counters National Sheriffs\u2019 group claims as pivotal week for Clarity Act unfolds",
-      "take": "Blockchain Association counters sheriffs' group as pivotal Clarity Act debate unfolds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss"
+      "headline": "Apple files legal challenge against UK demand for encrypted data access",
+      "take": "Apple challenges UK demand for encrypted data access through legal filing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-legal-challenge-uk-encrypted-data/"
     },
     {
-      "headline": "US Treasury raises July-September borrowing estimate to $739B, signaling fiscal pressure that could ripple into crypto",
-      "take": "US Treasury raises Q3 borrowing estimate to $739B, signaling fiscal pressure",
+      "headline": "Blockchain Association rebuts National Sheriffs\u2019 claims on Clarity Act",
+      "take": "Blockchain Association rebuts National Sheriffs' claims on Clarity Act provisions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-borrowing-estimate-739b-crypto-impact/"
+      "link": "https://cryptobriefing.com/blockchain-association-rebuts-sheriffs-clarity-act/"
     },
     {
-      "headline": "Democratic senators push CFTC to crack down on wildfire prediction markets over arson fears",
-      "take": "Democratic senators push CFTC to regulate wildfire prediction markets over arson concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-wildfire-prediction-markets-democratic-senators/"
+      "headline": "Bessent\u2019s top crypto adviser Tyler Williams exits US Treasury: Report",
+      "take": "Tyler Williams, Treasury crypto adviser, exited US Treasury amid policy shifts",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

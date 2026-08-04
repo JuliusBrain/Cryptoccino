@@ -1,96 +1,108 @@
 {
-  "generated": "2026-08-04T14:42:27.044592+00:00",
-  "ts": 1785854547,
+  "generated": "2026-08-04T17:05:36.986217+00:00",
+  "ts": 1785863136,
   "market": [
     {
-      "headline": "Bitcoin remains above production cost at $54,939 as miners juggle crypto and AI",
-      "take": "Bitcoin holding above production cost at $54,939 as miners balance crypto and AI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-above-production-cost-miners-ai/"
-    },
-    {
-      "headline": "Dow hits record close, S&P 500 opens at all-time high as US-Iran deal hopes lift markets",
-      "take": "Dow hits record, S&P 500 at all-time high on US-Iran deal hopes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-sp500-record-high-us-iran-deal/"
-    },
-    {
-      "headline": "Perp DEX trading volume drops 34% to $21B as traders sit on their hands",
-      "take": "Perpetual DEX trading volume drops 34% to $21 billion amid trader caution",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/perp-dex-volume-drops-34-percent/"
-    },
-    {
-      "headline": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-      "take": "Intesa Sanpaolo cuts Bitcoin ETF stake 94%, triples ether holdings during slump",
+      "headline": "Bitcoin\u2019s $63,000 zone emerges as key battleground for buyers: Glassnode",
+      "take": "Bitcoin consolidates around $63,000 as key support level for traders",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped"
+      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode"
     },
     {
-      "headline": "Emerging-market stocks and currencies pressured by rising oil prices",
-      "take": "Emerging-market stocks and currencies pressured by rising oil prices",
+      "headline": "Perpetual futures quietly drain 10% per year from long positions, The Economist warns",
+      "take": "Perpetual futures impose hidden drag, costing long positions roughly 10% annually",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-stocks-currencies-oil-pressure/"
+      "link": "https://cryptobriefing.com/perpetual-futures-funding-rate-cost-longs/"
+    },
+    {
+      "headline": "Job openings fall to three-month low, raising fresh questions about Fed policy and risk assets",
+      "take": "Job openings fall to three-month low, raising questions about Fed rate path",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/job-openings-fall-labor-market-fed-crypto/"
+    },
+    {
+      "headline": "S&P 500 breaches $70T market cap for first time as index tops 7,700",
+      "take": "S&P 500 reaches $70 trillion market cap milestone, crosses 7,700",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-breaches-70-trillion-market-cap/"
+    },
+    {
+      "headline": "Oil prices decline on Iran deal speculation as Rubio emphasizes denuclearization goal",
+      "take": "Oil prices decline as Iran nuclear deal talks generate renewed optimism",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-prices-decline-on-iran-deal-speculation-as-rubio-emphasizes/"
     }
   ],
   "business": [
     {
-      "headline": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-      "take": "Polymarket targets $20 billion valuation as prediction market competition intensifies",
+      "headline": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street\u2019s settlement rails",
+      "take": "Wells Fargo joins JPMorgan, Citi in race to tokenize Wall Street settlement",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets"
+      "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments"
     },
     {
-      "headline": "Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway",
-      "take": "Bitdeer stock volatile on $4.7 billion AI data center lease deal in Norway",
+      "headline": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
+      "take": "Dinari launches tokenized S&P 500 stocks on blockchain for self-custody",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410578/bitdeer-stock-pops-drops-4-7-billion-ai-data-center-lease-norway?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "BNY to add crypto staking to digital asset custody platform",
-      "take": "BNY Mellon adds crypto staking to digital asset custody platform",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform"
-    },
-    {
-      "headline": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "take": "Dinari brings tokenized US stocks to American investors via Circle partnership",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up"
-    },
-    {
-      "headline": "Ether.fi Ventures backs Blockspace to professionalize Ethereum\u2019s off-protocol infrastructure",
-      "take": "Ether.fi Ventures backs Blockspace for Ethereum off-protocol infrastructure",
+      "headline": "BitGo partners with BNY Mellon to launch BLIQUID money market fund",
+      "take": "BitGo and BNY Mellon partner to launch BLIQUID money market fund",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etherfi-ventures-backs-blockspace-ethereum/"
+      "link": "https://cryptobriefing.com/bitgo-bny-mellon-bliquid-money-market-fund/"
+    },
+    {
+      "headline": "LayerZero\u2019s OFT standard accounts for 87% of cross-chain transfer volume",
+      "take": "LayerZero's OFT standard dominates cross-chain transfers at 87% market share",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/layerzero-oft-cross-chain-dominance/"
+    },
+    {
+      "headline": "Canaan authorizes crypto sales to fund $30 million share repurchase program",
+      "take": "Canaan authorizes crypto sales to fund $30 million share repurchase program",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/canaan-digital-asset-treasury-share-repurchase/"
     }
   ],
   "security": [
     {
-      "headline": "Grayscale reports Bitcoin and crypto hacks at 9-year low",
-      "take": "Bitcoin and crypto hacks hit 9-year low, Grayscale reports",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-bitcoin-crypto-hacks-nine-year-low/"
+      "headline": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
+      "take": "BitGo migrates $7.4 billion wrapped Bitcoin from LayerZero to Chainlink CCIP",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-      "take": "Apple's AI generated unreported $200K macOS security exploit vulnerability",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported"
+      "headline": "Fake World Assets revises buyback program after community backlash",
+      "take": "Fake World Assets revises buyback program following community backlash and concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fake-world-assets-revises-buyback-program-backlash/"
     }
   ],
   "policy": [
     {
-      "headline": "Trump administration drafts ban on Chinese data center devices, raising supply chain questions for crypto miners",
-      "take": "Trump administration drafts ban on Chinese data center devices, affects crypto miners",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ban-chinese-data-center-devices/"
+      "headline": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "take": "Clarity Act stalled over Trump ethics question as Warren requests SEC probe",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him"
     },
     {
-      "headline": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
-      "take": "Mystery group runs Washington ads against crypto as Clarity Act momentum stalls",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads"
+      "headline": "Nigeria Approves Tokenized Assets to Boost Capital-Market Growth",
+      "take": "Nigeria approves tokenized assets framework to accelerate capital market development",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-04/nigeria-approves-tokenized-assets-to-boost-capital-market-growth"
+    },
+    {
+      "headline": "US Treasury\u2019s Bessent backs expanding Fed\u2019s FIMA facility, and crypto markets should pay attention",
+      "take": "Treasury expands Fed's FIMA facility; crypto markets should monitor capital flows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bessent-fima-expansion-crypto-liquidity/"
+    },
+    {
+      "headline": "Trump administration plans price floor and tariffs on polysilicon to counter China\u2019s grip on solar and chip supply chains",
+      "take": "Trump administration proposes price floor and tariffs on polysilicon supply chain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-polysilicon-tariffs-price-floor/"
     }
   ]
 }

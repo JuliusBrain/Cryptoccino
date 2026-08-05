@@ -1,108 +1,102 @@
 {
-  "generated": "2026-08-05T16:54:29.446902+00:00",
-  "ts": 1785948869,
+  "generated": "2026-08-05T19:58:07.313341+00:00",
+  "ts": 1785959887,
   "market": [
     {
-      "headline": "Bitcoin rebounds past $64K as S&P 500 hits fresh all-time highs",
-      "take": "Bitcoin rebounds past $64K as stock market hits fresh all-time highs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-rebounds-64k-sp500-all-time-highs/"
+      "headline": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
+      "take": "Bitcoin, ether, XRP whales accumulating signals late-stage bear market consolidation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Strategy\u2019s STRC surges above $90 for first time since June 17",
-      "take": "Strategy's STRC surges above $90 for first time since mid-June",
+      "headline": "Circle\u2019s USDC adds $8B in market cap over the past year",
+      "take": "Circle's USDC gained $8 billion in market cap over twelve months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-strc-surges-above-90-2/"
+      "link": "https://cryptobriefing.com/circle-usdc-adds-8b-market-cap-year/"
     },
     {
-      "headline": "Circle shares fall as revenue miss overshadows profit beat",
-      "take": "Circle shares fall as revenue miss overshadows profit beat",
+      "headline": "Ethereum dominates USDC issuance with 70% of $72B market cap",
+      "take": "Ethereum hosts 70 percent of USDC's $72 billion total issuance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-shares-fall-revenue-miss-q1-2026/"
+      "link": "https://cryptobriefing.com/ethereum-dominates-usdc-issuance-72-billion/"
     },
     {
-      "headline": "Galaxy Digital shares fall 13% after $85 million quarterly loss",
-      "take": "Galaxy Digital shares fall 13% after $85 million quarterly loss",
+      "headline": "Cathie Wood sees stronger US dollar amid rising foreign Treasury holdings",
+      "take": "Cathie Wood expects stronger US dollar from rising foreign Treasury holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-digital-q2-revenue-miss-shares-fall-2/"
-    },
-    {
-      "headline": "ADP reports fewest new jobs added in six months as labor market cools",
-      "take": "ADP reports fewest new jobs in six months, labor market cooling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/adp-fewest-jobs-six-months-crypto-impact/"
+      "link": "https://cryptobriefing.com/cathie-wood-sees-stronger-us-dollar-amid-rising-foreign-treasury-holdings/"
     }
   ],
   "business": [
     {
-      "headline": "FORMS HK, Chainlink, Apex Group and CSpro launch tokenized securities framework in Hong Kong",
-      "take": "FORMS HK, Chainlink, Apex Group launch tokenized securities framework",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/forms-hk-chainlink-apex-tokenized-securities-hong-kong/"
-    },
-    {
-      "headline": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
-      "take": "Circle taps Visa, Mastercard, BlackRock as validators for Arc launch",
+      "headline": "Visa Widens Stablecoin Payouts via Zerohash Rails",
+      "take": "Visa expands stablecoin payouts through Zerohash infrastructure partnership",
       "source": "decrypt",
-      "link": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch"
+      "link": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash"
     },
     {
-      "headline": "Centrifuge highlights advantages of AAA CLOs over Treasuries as tokenized fund gains traction",
-      "take": "Centrifuge highlights tokenized fund advantages over Treasuries for AAA CLOs",
+      "headline": "Citibank hires crypto director to enhance digital asset solutions",
+      "take": "Citibank hires crypto director to develop digital asset solutions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-aaa-clos-vs-treasuries/"
+      "link": "https://cryptobriefing.com/citibank-hires-crypto-director-digital-assets/"
     },
     {
-      "headline": "Pirate Nation studio shuts down, open-sources all code and art under CC0 license",
-      "take": "Pirate Nation studio shuts down, open-sources all code and art",
+      "headline": "Fireblocks rebuilds transaction handling to prevent queue stalls",
+      "take": "Fireblocks upgrades transaction handling system to prevent queue failures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pirate-nation-studio-shuts-down-open-sources/"
+      "link": "https://cryptobriefing.com/fireblocks-rebuilds-transaction-handling/"
     },
     {
-      "headline": "Kraken parent Payward shifts position on tokenized equities and voting rights",
-      "take": "Kraken parent Payward shifts position on tokenized equities and voting",
+      "headline": "TeraWulf\u2019s HPC leasing revenue jumps 52%, widening lead over bitcoin mining",
+      "take": "TeraWulf HPC leasing revenue surges 52 percent, outpacing bitcoin mining",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin Red Team files 4,962 findings in 27.5 hours during massive open-source audit",
-      "take": "Bitcoin Red Team files 4,962 findings in 27.5 hours during audit",
+      "headline": "Hackers use rogue OpenAI, Anthropic models to breach companies, raising liability concerns",
+      "take": "Hackers breached companies using rogue OpenAI and Anthropic models, exposing liability gaps",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-red-team-audit-findings/"
+      "link": "https://cryptobriefing.com/hackers-use-rogue-openai-anthropic-models-to-breach-companies-raising-liability/"
     },
     {
-      "headline": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-      "take": "Coldcard exploit could boost demand for regulated bitcoin exposure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say"
+      "headline": "UK test reveals Anthropic AI engaged in phishing, faked identities",
+      "take": "UK test found Anthropic AI engaged in phishing and identity forgery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-test-reveals-anthropic-ai-engaged-in-phishing-faked-identities/"
+    },
+    {
+      "headline": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
+      "take": "NFT founder raised $10 million then spent it on gambling and DJing",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby"
     }
   ],
   "policy": [
     {
-      "headline": "Nigeria Tightens Rules on Virtual Assets to Boost Tax Revenue",
-      "take": "Nigeria tightens rules on virtual assets to boost tax revenue",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-05/nigeria-tightens-rules-on-virtual-assets-to-boost-tax-revenue"
+      "headline": "Senator Lummis still pushing for CLARITY vote before August recess",
+      "take": "Senator Lummis pushing for CLARITY Act vote before August Senate recess",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Argentina renews $19B currency swap with China\u2019s central bank, locking in reserves through 2027 election",
-      "take": "Argentina renews $19B currency swap with China through 2027 election",
+      "headline": "Putin signs crypto market structure bill into law in Russia",
+      "take": "Putin signs crypto market structure bill into Russian law",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-renews-19b-currency-swap-china/"
+      "link": "https://cryptobriefing.com/putin-signs-crypto-market-structure-bill-into-law-in-russia/"
     },
     {
-      "headline": "US Treasury retains debt issuance guidance through 2027, shifting more weight to short-term bills",
-      "take": "US Treasury retains debt issuance guidance, shifts weight to short-term bills",
+      "headline": "Republican and Democratic staff meet to finalize crypto market structure bill",
+      "take": "Republican and Democratic staff finalizing crypto market structure bill language",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-debt-issuance-guidance-2027/"
+      "link": "https://cryptobriefing.com/clarity-act-crypto-market-structure-bill-negotiations/"
     },
     {
-      "headline": "US removes sanctions from three IRGC-linked entities in targeted policy shift",
-      "take": "US removes sanctions from three IRGC-linked entities in policy shift",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-removes-sanctions-irgc-linked-entities/"
+      "headline": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+      "take": "SEC establishes dedicated financial reporting and accounting enforcement unit",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
     }
   ]
 }

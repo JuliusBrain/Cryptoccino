@@ -1,96 +1,84 @@
 {
-  "generated": "2026-08-04T22:31:12.391299+00:00",
-  "ts": 1785882672,
+  "generated": "2026-08-05T03:39:20.359416+00:00",
+  "ts": 1785901160,
   "market": [
     {
+      "headline": "Ethereum\u2019s staking ratio reaches all-time high of 34.4%, up from 30% earlier this year",
+      "take": "Ethereum staking ratio hits 34.4% all-time high, up from 30% earlier",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereums-staking-ratio-reaches-all-time-high-of-344-up-from-30-earlier-this/"
+    },
+    {
       "headline": "BlackRock\u2019s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
-      "take": "BlackRock's spot Ethereum ETF undergoes reverse split in October",
+      "take": "BlackRock's spot Ethereum ETF undergoes 1-for-3 reverse share split in October",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss"
     },
     {
+      "headline": "Trader opens 40x short on 1,600 Bitcoin via Hyperliquid",
+      "take": "Trader opens 40x short on 1,600 Bitcoin via Hyperliquid",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trader-40x-short-bitcoin-hyperliquid/"
+    },
+    {
       "headline": "Bitcoin bear market reveals shift from retail to professional investors",
-      "take": "Bitcoin bear market reveals structural shift toward professional investors",
+      "take": "Bitcoin bear market reveals shift from retail to professional investors",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-bear-market-institutional-shift/"
-    },
-    {
-      "headline": "TD Cowen analyst issues buy rating on Strive with $28 target, backing Bitcoin treasury strategy",
-      "take": "Analyst backs Strive Bitcoin treasury strategy with twenty-eight dollar target",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/td-cowen-buy-rating-strive-bitcoin-treasury/"
-    },
-    {
-      "headline": "Leverage Shares launches Tesla and SpaceX ETF under ticker ELOL on NASDAQ",
-      "take": "Leverage Shares launches Tesla and SpaceX ETF on Nasdaq",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/leverage-shares-tesla-spacex-etf-elol/"
     }
   ],
   "business": [
     {
       "headline": "GMX updates app with smart wallet support and one-click trading",
-      "take": "GMX adds smart wallet support and one-click trading features",
+      "take": "GMX updates app with smart wallet support and one-click trading",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gmx-smart-wallet-one-click-trading/"
     },
     {
-      "headline": "Kalshi\u2019s Stephen Curry next-team market hits $4M in volume as prediction platform deepens crypto ties",
-      "take": "Kalshi prediction market hits four million volume on sports bets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-curry-market-4m-volume-crypto/"
-    },
-    {
       "headline": "Fireblocks scales custody framework as Zerocap consolidates operations on Deribit",
-      "take": "Fireblocks expands custody framework as Zerocap consolidates on Deribit",
+      "take": "Fireblocks scales custody framework as Zerocap consolidates operations on Deribit",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fireblocks-custody-zerocap-deribit-operations/"
     },
     {
-      "headline": "Samsung Electronics launches next-gen AI memory technology as sales top $1 billion",
-      "take": "Samsung launches next-generation AI memory, sales exceed one billion",
+      "headline": "American Bitcoin settles PPP loan dispute for $2.5 million",
+      "take": "American Bitcoin settles PPP loan dispute for 2.5 million dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-hbm4-ai-memory-billion-sales/"
+      "link": "https://cryptobriefing.com/trump-bitcoin-venture-loan-settlement/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard Bitcoin exploit explained: How a firmware bug turned entropy into a ticking time bomb",
-      "take": "Coldcard firmware bug exposes Bitcoin private key generation to compromise",
+      "headline": "Boltz Bridge shuts down swap services indefinitely after AI-powered exploits overwhelm its team",
+      "take": "Boltz Bridge shuts down swap services after AI-powered exploits overwhelm team",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-bitcoin-exploit-entropy-key-generation/"
+      "link": "https://cryptobriefing.com/boltz-bridge-shuts-down-ai-exploits/"
     },
     {
-      "headline": "AI now drives more than half of all cybercrime in Africa, INTERPOL report finds",
-      "take": "AI now drives over half of all cybercrime across Africa",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-fuels-half-cybercrime-africa-interpol/"
+      "headline": "Three Missouri men charged over alleged plot to steal bitcoin through home invasion",
+      "take": "Three Missouri men charged over alleged plot to steal bitcoin via home invasion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-      "take": "Ledger warns Bitcoin wallet security must adapt to AI threats",
+      "take": "Ledger says Coldcard exploit shows Bitcoin wallet security must adapt to AI",
       "source": "decrypt",
       "link": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai"
     }
   ],
   "policy": [
     {
-      "headline": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-      "take": "US and UK reaffirm support for stablecoins and tokenization",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Senate democrats plan to block cloture on the clarity act, citing stalled crypto negotiations",
+      "take": "Senate Democrats plan to block cloture on Clarity Act crypto negotiations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-democrats-plan-to-block-cloture-on-the-clarity-act-citing-stalled-crypto/"
     },
     {
       "headline": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
-      "take": "Tribal regulators and senators push prediction markets into Clarity Act",
+      "take": "Tribal gaming regulators and senators push to add prediction markets to Clarity Act",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Governors and legislatures in U.S. states move to end data center tax breaks, impacting AI infrastructure costs",
-      "take": "US states move to end data center tax breaks for AI infrastructure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/governors-and-legislatures-in-us-states-move-to-end-data-center-tax-breaks/"
     }
   ]
 }

@@ -1,120 +1,77 @@
 {
-  "generated": "2026-08-05T11:31:47.223724+00:00",
-  "ts": 1785929507,
+  "generated": "2026-08-05T14:36:23.332973+00:00",
+  "ts": 1785940583,
   "market": [
     {
-      "headline": "Bitcoin spot ETFs pull in $381M this week as buying pressure builds near $64K",
-      "take": "Bitcoin spot ETFs attracted $381M inflows as prices approached $64K support",
+      "headline": "Tokenized equities volume explodes to $18.2B in July, a 4.4x surge from June",
+      "take": "Tokenized equities volume surged 4.4x to $18.2B in July",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-spot-etfs-381m-weekly-inflows/"
+      "link": "https://cryptobriefing.com/tokenized-equities-18b-july-binance-research/"
     },
     {
-      "headline": "Bitcoin lags as global equities reach record highs",
-      "take": "Bitcoin underperformed as global equities reached record highs this week",
+      "headline": "DAT companies surpass spot ETFs as largest ETH holders, with BitMine accounting for nearly 5% of supply",
+      "take": "DAT companies now largest ETH holders, surpassing spot ETFs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-lags-global-equities-record-highs/"
+      "link": "https://cryptobriefing.com/dat-companies-surpass-spot-etfs-eth-holders/"
     },
     {
-      "headline": "Reserve accounts hold 44% of tokenized ETF tokens as holder count surges 11,803%",
-      "take": "Reserve accounts now hold 44% of tokenized ETF tokens amid 11,803% holder surge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reserve-accounts-tokenized-etf-concentration-holders/"
+      "headline": "Galaxy Digital shares slip 5% after second-quarter results",
+      "take": "Galaxy Digital shares fell 5% following second-quarter results",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results"
     },
     {
-      "headline": "Tokenized stocks surpass $3B in onchain market cap",
-      "take": "Tokenized stocks crossed $3B in onchain market cap milestone",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-surpass-3b-onchain-market-cap/"
-    },
-    {
-      "headline": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
-      "take": "Ethereum proposal would reduce staking rewards if chain reaches 50% staked threshold",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked"
+      "headline": "AI agent token once worth $2.4 billion ends with founder calling it dead",
+      "take": "AI agent token collapses as founder declares the project dead",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead"
     }
   ],
   "business": [
     {
-      "headline": "Circle taps BlackRock, Visa, and DTCC as Arc validators ahead of September public mainnet",
-      "take": "Circle recruits BlackRock, Visa, DTCC as Arc blockchain mainnet validators",
+      "headline": "LayerZero joins Global Dollar Network to enhance dollar infrastructure with omnichain USDG",
+      "take": "LayerZero joins Global Dollar Network to advance omnichain USDG",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-taps-blackrock-visa-and-dtcc-as-arc-validators/"
+      "link": "https://cryptobriefing.com/layerzero-global-dollar-network-usdg/"
     },
     {
-      "headline": "XRP Ledger connects to Axelar\u2019s interoperability network for cross-chain transfers",
-      "take": "XRP Ledger integrated with Axelar for cross-chain token transfers",
+      "headline": "Alpaca sees 4x surge in API users as AI agents reshape trading infrastructure",
+      "take": "Alpaca API users surge 4x as AI agents reshape trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-ledger-axelar-cross-chain-integration/"
+      "link": "https://cryptobriefing.com/alpaca-4x-api-growth-ai-agents/"
     },
     {
-      "headline": "Uber projects Q3 gross bookings up to $60B as it eyes stablecoins for cross-border payments",
-      "take": "Uber exploring stablecoins for cross-border payments as gross bookings climb",
+      "headline": "Take-Two Interactive\u2019s $TTWO tokenized equity lists on Solana ahead of GTA VI launch",
+      "take": "Take-Two's tokenized equity lists on Solana before GTA VI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uber-q3-gross-bookings-stablecoin-payments/"
+      "link": "https://cryptobriefing.com/take-two-ttwo-tokenized-equity-solana-backpack-securities/"
     },
     {
-      "headline": "Kenya\u2019s stock exchange plans East Africa\u2019s first AI-focused ETF",
-      "take": "Kenya stock exchange launching East Africa's first AI-focused exchange-traded fund",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kenya-nse-east-africa-ai-etf/"
+      "headline": "Mastercard expands stablecoin push with Crypto Credential pilot",
+      "take": "Mastercard expands stablecoin adoption via Crypto Credential pilot",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410830/mastercard-expands-stablecoin-push-with-crypto-credential-pilot?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Taiyo Yuden boosts full-year earnings outlook by 50% as AI demand reshapes component markets",
-      "take": "Taiyo Yuden raised full-year earnings forecast 50% on AI component demand surge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taiyo-yuden-earnings-ai-demand/"
+      "headline": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
+      "take": "World Chain first production L2 to ship streaming block access lists",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [
-    {
-      "headline": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
-      "take": "$120M Coldcard hardware wallet hack exposed transaction memory pool vulnerabilities",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool"
-    },
-    {
-      "headline": "Binance claims RedotPay diverted users in $470M lawsuit",
-      "take": "Binance sued RedotPay for allegedly diverting $470M in user assets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-redotpay-470m-lawsuit/"
-    },
-    {
-      "headline": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
-      "take": "Former LAPD officer sentenced to life plus 15 years for $350K Bitcoin theft",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "St. Louis bets $25B on data centers while explicitly banning crypto mining from the party",
-      "take": "St. Louis invested $25B in data centers while explicitly banning crypto mining operations",
+      "headline": "Pat Toomey urges regulators to avoid bank-style rules for stablecoins as CLARITY Act heads to Senate floor",
+      "take": "Senator Toomey urges regulators to avoid bank rules for stablecoins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/st-louis-data-centers-ai-crypto-mining-ban/"
+      "link": "https://cryptobriefing.com/toomey-stablecoin-clarity-act-bank-rules/"
     },
     {
-      "headline": "US government\u2019s potential ban on Chinese optical parts could squeeze hyperscalers and slow AI buildout",
-      "take": "US optical parts ban on Chinese suppliers threatens hyperscaler AI infrastructure buildout",
+      "headline": "China sanctions US entities and tightens drone export controls as trade war escalates",
+      "take": "China sanctions US entities and tightens drone export controls",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-ban-chinese-optical-parts-hyperscalers/"
-    },
-    {
-      "headline": "Australia pushes for renewable energy laws for new data centers",
-      "take": "Australia advancing renewable energy requirements for new data center construction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-renewable-energy-laws-data-centers/"
-    },
-    {
-      "headline": "US Senate approves tariffs on India over Russian oil purchases",
-      "take": "US Senate approved tariffs on India over purchases of Russian oil",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-senate-approves-tariffs-on-india-over-russian-oil-purchases/"
-    },
-    {
-      "headline": "European Commission allocates \u20ac1.4B from frozen Russian assets to Ukraine",
-      "take": "European Commission allocated \u20ac1.4B from frozen Russian assets to Ukraine",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-frozen-russian-assets-ukraine-allocation/"
+      "link": "https://cryptobriefing.com/china-sanctions-us-drone-export-controls/"
     }
   ]
 }

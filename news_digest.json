@@ -1,102 +1,102 @@
 {
-  "generated": "2026-08-05T19:58:07.313341+00:00",
-  "ts": 1785959887,
+  "generated": "2026-08-05T22:29:17.224765+00:00",
+  "ts": 1785968957,
   "market": [
     {
-      "headline": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
-      "take": "Bitcoin, ether, XRP whales accumulating signals late-stage bear market consolidation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss"
+      "headline": "Bank of America expects three Fed rate hikes this year",
+      "take": "Bank of America expects three Federal Reserve rate hikes this year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-america-expects-three-fed-rate-hikes-this-year/"
     },
     {
-      "headline": "Circle\u2019s USDC adds $8B in market cap over the past year",
-      "take": "Circle's USDC gained $8 billion in market cap over twelve months",
+      "headline": "Bitcoin funding rate flips negative as spot buyers push BTC up 1%",
+      "take": "Bitcoin funding rate turns negative as spot buyers push BTC up one percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-usdc-adds-8b-market-cap-year/"
+      "link": "https://cryptobriefing.com/bitcoin-funding-rate-negative-spot-buyers/"
     },
     {
-      "headline": "Ethereum dominates USDC issuance with 70% of $72B market cap",
-      "take": "Ethereum hosts 70 percent of USDC's $72 billion total issuance",
+      "headline": "US dollar expected to maintain strength despite yen intervention: Reuters poll",
+      "take": "US dollar expected to maintain strength despite yen intervention efforts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-dominates-usdc-issuance-72-billion/"
+      "link": "https://cryptobriefing.com/us-dollar-expected-to-maintain-strength-despite-yen-intervention-reuters-poll/"
     },
     {
-      "headline": "Cathie Wood sees stronger US dollar amid rising foreign Treasury holdings",
-      "take": "Cathie Wood expects stronger US dollar from rising foreign Treasury holdings",
+      "headline": "Circle shares fall as revenue miss overshadows quarterly profit beat",
+      "take": "Circle shares fall after revenue miss despite quarterly profit beat",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cathie-wood-sees-stronger-us-dollar-amid-rising-foreign-treasury-holdings/"
+      "link": "https://cryptobriefing.com/circle-shares-fall-revenue-miss-profit-beat/"
+    },
+    {
+      "headline": "Block raises 2026 guidance despite 31% decline in Bitcoin ecosystem gross profit",
+      "take": "Block raises 2026 guidance despite thirty-one percent decline in Bitcoin ecosystem profit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/block-bitcoin-gross-profit-falls-cash-app-fee-cuts/"
     }
   ],
   "business": [
     {
+      "headline": "Securitize secures multiple investments from Blockchain Capital after tokenization partnership proves the model works",
+      "take": "Securitize secures multiple investments from Blockchain Capital after tokenization partnership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/securitize-blockchain-capital-investments/"
+    },
+    {
+      "headline": "Solana crypto cards report record $70M in volume as tokenized collectibles boom",
+      "take": "Solana crypto cards report record seventy million dollars in volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-crypto-cards-record-volume/"
+    },
+    {
       "headline": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-      "take": "Visa expands stablecoin payouts through Zerohash infrastructure partnership",
+      "take": "Visa widens stablecoin payouts through Zerohash rails infrastructure",
       "source": "decrypt",
       "link": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash"
     },
     {
-      "headline": "Citibank hires crypto director to enhance digital asset solutions",
-      "take": "Citibank hires crypto director to develop digital asset solutions",
+      "headline": "Circle\u2019s USDC adds $8B in market cap over the past year",
+      "take": "Circle USDC adds eight billion dollars in market cap over past year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citibank-hires-crypto-director-digital-assets/"
+      "link": "https://cryptobriefing.com/circle-usdc-adds-8b-market-cap-year/"
     },
     {
-      "headline": "Fireblocks rebuilds transaction handling to prevent queue stalls",
-      "take": "Fireblocks upgrades transaction handling system to prevent queue failures",
+      "headline": "AWS partners with Anthropic and OpenAI to build AI-native security platform for developers",
+      "take": "AWS partners with Anthropic and OpenAI on AI-native security platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fireblocks-rebuilds-transaction-handling/"
-    },
-    {
-      "headline": "TeraWulf\u2019s HPC leasing revenue jumps 52%, widening lead over bitcoin mining",
-      "take": "TeraWulf HPC leasing revenue surges 52 percent, outpacing bitcoin mining",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/aws-anthropic-openai-continuum-security/"
     }
   ],
   "security": [
     {
-      "headline": "Hackers use rogue OpenAI, Anthropic models to breach companies, raising liability concerns",
-      "take": "Hackers breached companies using rogue OpenAI and Anthropic models, exposing liability gaps",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hackers-use-rogue-openai-anthropic-models-to-breach-companies-raising-liability/"
+      "headline": "Crypto firm RedotPay says it will defend itself \u2018vigorously\u2019 against Binance lawsuit",
+      "take": "RedotPay says it will defend itself vigorously against Binance lawsuit",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users"
     },
     {
-      "headline": "UK test reveals Anthropic AI engaged in phishing, faked identities",
-      "take": "UK test found Anthropic AI engaged in phishing and identity forgery",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-test-reveals-anthropic-ai-engaged-in-phishing-faked-identities/"
-    },
-    {
-      "headline": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
-      "take": "NFT founder raised $10 million then spent it on gambling and DJing",
+      "headline": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+      "take": "OpenAI and Anthropic rogue models hacked real companies; law has no answer",
       "source": "decrypt",
-      "link": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby"
+      "link": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law"
     }
   ],
   "policy": [
     {
+      "headline": "\u2018At a standstill:\u2019 Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
+      "take": "Senate races to salvage Clarity Act before August recess amid ethics concerns",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Senator Lummis still pushing for CLARITY vote before August recess",
-      "take": "Senator Lummis pushing for CLARITY Act vote before August Senate recess",
+      "take": "Senator Lummis still pushing for CLARITY vote before August recess",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Putin signs crypto market structure bill into law in Russia",
-      "take": "Putin signs crypto market structure bill into Russian law",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/putin-signs-crypto-market-structure-bill-into-law-in-russia/"
-    },
-    {
-      "headline": "Republican and Democratic staff meet to finalize crypto market structure bill",
-      "take": "Republican and Democratic staff finalizing crypto market structure bill language",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-crypto-market-structure-bill-negotiations/"
-    },
-    {
-      "headline": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
-      "take": "SEC establishes dedicated financial reporting and accounting enforcement unit",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
+      "headline": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+      "take": "Senator Warren questions US AI chip policy after Trump crypto investment",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

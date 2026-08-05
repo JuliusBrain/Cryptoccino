@@ -1,77 +1,108 @@
 {
-  "generated": "2026-08-05T14:36:23.332973+00:00",
-  "ts": 1785940583,
+  "generated": "2026-08-05T16:54:29.446902+00:00",
+  "ts": 1785948869,
   "market": [
     {
-      "headline": "Tokenized equities volume explodes to $18.2B in July, a 4.4x surge from June",
-      "take": "Tokenized equities volume surged 4.4x to $18.2B in July",
+      "headline": "Bitcoin rebounds past $64K as S&P 500 hits fresh all-time highs",
+      "take": "Bitcoin rebounds past $64K as stock market hits fresh all-time highs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-equities-18b-july-binance-research/"
+      "link": "https://cryptobriefing.com/bitcoin-rebounds-64k-sp500-all-time-highs/"
     },
     {
-      "headline": "DAT companies surpass spot ETFs as largest ETH holders, with BitMine accounting for nearly 5% of supply",
-      "take": "DAT companies now largest ETH holders, surpassing spot ETFs",
+      "headline": "Strategy\u2019s STRC surges above $90 for first time since June 17",
+      "take": "Strategy's STRC surges above $90 for first time since mid-June",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dat-companies-surpass-spot-etfs-eth-holders/"
+      "link": "https://cryptobriefing.com/strategy-strc-surges-above-90-2/"
     },
     {
-      "headline": "Galaxy Digital shares slip 5% after second-quarter results",
-      "take": "Galaxy Digital shares fell 5% following second-quarter results",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results"
+      "headline": "Circle shares fall as revenue miss overshadows profit beat",
+      "take": "Circle shares fall as revenue miss overshadows profit beat",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-shares-fall-revenue-miss-q1-2026/"
     },
     {
-      "headline": "AI agent token once worth $2.4 billion ends with founder calling it dead",
-      "take": "AI agent token collapses as founder declares the project dead",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead"
+      "headline": "Galaxy Digital shares fall 13% after $85 million quarterly loss",
+      "take": "Galaxy Digital shares fall 13% after $85 million quarterly loss",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/galaxy-digital-q2-revenue-miss-shares-fall-2/"
+    },
+    {
+      "headline": "ADP reports fewest new jobs added in six months as labor market cools",
+      "take": "ADP reports fewest new jobs in six months, labor market cooling",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/adp-fewest-jobs-six-months-crypto-impact/"
     }
   ],
   "business": [
     {
-      "headline": "LayerZero joins Global Dollar Network to enhance dollar infrastructure with omnichain USDG",
-      "take": "LayerZero joins Global Dollar Network to advance omnichain USDG",
+      "headline": "FORMS HK, Chainlink, Apex Group and CSpro launch tokenized securities framework in Hong Kong",
+      "take": "FORMS HK, Chainlink, Apex Group launch tokenized securities framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/layerzero-global-dollar-network-usdg/"
+      "link": "https://cryptobriefing.com/forms-hk-chainlink-apex-tokenized-securities-hong-kong/"
     },
     {
-      "headline": "Alpaca sees 4x surge in API users as AI agents reshape trading infrastructure",
-      "take": "Alpaca API users surge 4x as AI agents reshape trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alpaca-4x-api-growth-ai-agents/"
+      "headline": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+      "take": "Circle taps Visa, Mastercard, BlackRock as validators for Arc launch",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch"
     },
     {
-      "headline": "Take-Two Interactive\u2019s $TTWO tokenized equity lists on Solana ahead of GTA VI launch",
-      "take": "Take-Two's tokenized equity lists on Solana before GTA VI",
+      "headline": "Centrifuge highlights advantages of AAA CLOs over Treasuries as tokenized fund gains traction",
+      "take": "Centrifuge highlights tokenized fund advantages over Treasuries for AAA CLOs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/take-two-ttwo-tokenized-equity-solana-backpack-securities/"
+      "link": "https://cryptobriefing.com/centrifuge-aaa-clos-vs-treasuries/"
     },
     {
-      "headline": "Mastercard expands stablecoin push with Crypto Credential pilot",
-      "take": "Mastercard expands stablecoin adoption via Crypto Credential pilot",
+      "headline": "Pirate Nation studio shuts down, open-sources all code and art under CC0 license",
+      "take": "Pirate Nation studio shuts down, open-sources all code and art",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pirate-nation-studio-shuts-down-open-sources/"
+    },
+    {
+      "headline": "Kraken parent Payward shifts position on tokenized equities and voting rights",
+      "take": "Kraken parent Payward shifts position on tokenized equities and voting",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410830/mastercard-expands-stablecoin-push-with-crypto-credential-pilot?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
-      "take": "World Chain first production L2 to ship streaming block access lists",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss"
     }
   ],
-  "security": [],
-  "policy": [
+  "security": [
     {
-      "headline": "Pat Toomey urges regulators to avoid bank-style rules for stablecoins as CLARITY Act heads to Senate floor",
-      "take": "Senator Toomey urges regulators to avoid bank rules for stablecoins",
+      "headline": "Bitcoin Red Team files 4,962 findings in 27.5 hours during massive open-source audit",
+      "take": "Bitcoin Red Team files 4,962 findings in 27.5 hours during audit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/toomey-stablecoin-clarity-act-bank-rules/"
+      "link": "https://cryptobriefing.com/bitcoin-red-team-audit-findings/"
     },
     {
-      "headline": "China sanctions US entities and tightens drone export controls as trade war escalates",
-      "take": "China sanctions US entities and tightens drone export controls",
+      "headline": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+      "take": "Coldcard exploit could boost demand for regulated bitcoin exposure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Nigeria Tightens Rules on Virtual Assets to Boost Tax Revenue",
+      "take": "Nigeria tightens rules on virtual assets to boost tax revenue",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-05/nigeria-tightens-rules-on-virtual-assets-to-boost-tax-revenue"
+    },
+    {
+      "headline": "Argentina renews $19B currency swap with China\u2019s central bank, locking in reserves through 2027 election",
+      "take": "Argentina renews $19B currency swap with China through 2027 election",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-sanctions-us-drone-export-controls/"
+      "link": "https://cryptobriefing.com/argentina-renews-19b-currency-swap-china/"
+    },
+    {
+      "headline": "US Treasury retains debt issuance guidance through 2027, shifting more weight to short-term bills",
+      "take": "US Treasury retains debt issuance guidance, shifts weight to short-term bills",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-debt-issuance-guidance-2027/"
+    },
+    {
+      "headline": "US removes sanctions from three IRGC-linked entities in targeted policy shift",
+      "take": "US removes sanctions from three IRGC-linked entities in policy shift",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-removes-sanctions-irgc-linked-entities/"
     }
   ]
 }

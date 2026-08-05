@@ -1,96 +1,120 @@
 {
-  "generated": "2026-08-05T09:09:37.473820+00:00",
-  "ts": 1785920977,
+  "generated": "2026-08-05T11:31:47.223724+00:00",
+  "ts": 1785929507,
   "market": [
     {
-      "headline": "Why bitcoin\u2019s \u2018500-day rule\u2019 faces its biggest test yet",
-      "take": "Bitcoin's 500-day cycle pattern tested as macro conditions shift significantly",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet"
-    },
-    {
-      "headline": "Bitcoin, Ethereum, Solana spot ETFs see inflows on August 4: Cointelegraph",
-      "take": "Spot ETFs for Bitcoin, Ethereum, Solana attracted inflows on August 4",
+      "headline": "Bitcoin spot ETFs pull in $381M this week as buying pressure builds near $64K",
+      "take": "Bitcoin spot ETFs attracted $381M inflows as prices approached $64K support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-solana-spot-etfs-see-inflows-on-august-4-cointelegraph/"
+      "link": "https://cryptobriefing.com/bitcoin-spot-etfs-381m-weekly-inflows/"
     },
     {
-      "headline": "Ethereum\u2019s staking ratio reaches all-time high of 34.4%, up from 30% earlier this year",
-      "take": "Ethereum staking ratio hits record 34.4%, up from 30% earlier this year",
+      "headline": "Bitcoin lags as global equities reach record highs",
+      "take": "Bitcoin underperformed as global equities reached record highs this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereums-staking-ratio-reaches-all-time-high-of-344-up-from-30-earlier-this/"
+      "link": "https://cryptobriefing.com/bitcoin-lags-global-equities-record-highs/"
     },
     {
-      "headline": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-      "take": "New Ethereum proposal would reduce issuance to zero at $112B staked threshold",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion"
+      "headline": "Reserve accounts hold 44% of tokenized ETF tokens as holder count surges 11,803%",
+      "take": "Reserve accounts now hold 44% of tokenized ETF tokens amid 11,803% holder surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/reserve-accounts-tokenized-etf-concentration-holders/"
+    },
+    {
+      "headline": "Tokenized stocks surpass $3B in onchain market cap",
+      "take": "Tokenized stocks crossed $3B in onchain market cap milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-stocks-surpass-3b-onchain-market-cap/"
+    },
+    {
+      "headline": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
+      "take": "Ethereum proposal would reduce staking rewards if chain reaches 50% staked threshold",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked"
     }
   ],
   "business": [
     {
-      "headline": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
-      "take": "Forgd launches crypto market-maker leaderboard integration with DefiLlama",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Circle taps BlackRock, Visa, and DTCC as Arc validators ahead of September public mainnet",
+      "take": "Circle recruits BlackRock, Visa, DTCC as Arc blockchain mainnet validators",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-taps-blackrock-visa-and-dtcc-as-arc-validators/"
     },
     {
-      "headline": "Bybit\u2019s EU payments arm secures Austrian e-money license",
-      "take": "Bybit's EU payments arm secures Austrian e-money license for operations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "XRP Ledger connects to Axelar\u2019s interoperability network for cross-chain transfers",
+      "take": "XRP Ledger integrated with Axelar for cross-chain token transfers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-ledger-axelar-cross-chain-integration/"
     },
     {
-      "headline": "Eliza Labs founder declares native token \u2018dead,\u2019 winds down foundation after Burwick Law settlement",
-      "take": "Eliza Labs founder declares native token dead, winds down after settlement",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410774/eliza-labs-native-token-dead?utm_source=rss&utm_medium=rss"
+      "headline": "Uber projects Q3 gross bookings up to $60B as it eyes stablecoins for cross-border payments",
+      "take": "Uber exploring stablecoins for cross-border payments as gross bookings climb",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uber-q3-gross-bookings-stablecoin-payments/"
+    },
+    {
+      "headline": "Kenya\u2019s stock exchange plans East Africa\u2019s first AI-focused ETF",
+      "take": "Kenya stock exchange launching East Africa's first AI-focused exchange-traded fund",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kenya-nse-east-africa-ai-etf/"
+    },
+    {
+      "headline": "Taiyo Yuden boosts full-year earnings outlook by 50% as AI demand reshapes component markets",
+      "take": "Taiyo Yuden raised full-year earnings forecast 50% on AI component demand surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/taiyo-yuden-earnings-ai-demand/"
     }
   ],
   "security": [
     {
-      "headline": "Hacked Bitcoin Wallet Maker Warns AI Failed to Detect Bug",
-      "take": "Bitcoin wallet maker Coldcard warns AI failed to detect critical bug",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-05/hacked-bitcoin-wallet-maker-warns-of-ai-failure-to-detect-bug"
+      "headline": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
+      "take": "$120M Coldcard hardware wallet hack exposed transaction memory pool vulnerabilities",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool"
     },
     {
-      "headline": "Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report",
-      "take": "Former LAPD officer sentenced to life for kidnapping teen in Bitcoin robbery",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss"
+      "headline": "Binance claims RedotPay diverted users in $470M lawsuit",
+      "take": "Binance sued RedotPay for allegedly diverting $470M in user assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-redotpay-470m-lawsuit/"
     },
     {
-      "headline": "Three Missouri men charged over alleged plot to steal bitcoin through home invasion",
-      "take": "Three Missouri men charged in alleged plot to steal Bitcoin via home invasion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&utm_medium=rss"
+      "headline": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
+      "take": "Former LAPD officer sentenced to life plus 15 years for $350K Bitcoin theft",
+      "source": "decrypt",
+      "link": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery"
     }
   ],
   "policy": [
     {
-      "headline": "Senate expected to pass Crypto Clarity Act within a week: SEC\u2019s Peirce",
-      "take": "Senate expected to pass Crypto Clarity Act within a week per SEC's Peirce",
+      "headline": "St. Louis bets $25B on data centers while explicitly banning crypto mining from the party",
+      "take": "St. Louis invested $25B in data centers while explicitly banning crypto mining operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-expected-to-pass-crypto-clarity-act-within-a-week-secs-peirce/"
+      "link": "https://cryptobriefing.com/st-louis-data-centers-ai-crypto-mining-ban/"
     },
     {
-      "headline": "Taiwan plans Travel Rule for domestic crypto transfers from October",
-      "take": "Taiwan plans Travel Rule for domestic crypto transfers starting October",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US government\u2019s potential ban on Chinese optical parts could squeeze hyperscalers and slow AI buildout",
+      "take": "US optical parts ban on Chinese suppliers threatens hyperscaler AI infrastructure buildout",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-ban-chinese-optical-parts-hyperscalers/"
     },
     {
-      "headline": "MiCA list expands with 12 companies in fourth post-deadline update",
-      "take": "MiCA list expands to include 12 companies in fourth post-deadline update",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Australia pushes for renewable energy laws for new data centers",
+      "take": "Australia advancing renewable energy requirements for new data center construction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-renewable-energy-laws-data-centers/"
     },
     {
-      "headline": "Crypto PAC Fairshake scores primary wins in Michigan and Washington",
-      "take": "Crypto PAC Fairshake achieves primary wins in Michigan and Washington races",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410744/fairshake-michigan-washington-primaries?utm_source=rss&utm_medium=rss"
+      "headline": "US Senate approves tariffs on India over Russian oil purchases",
+      "take": "US Senate approved tariffs on India over purchases of Russian oil",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-senate-approves-tariffs-on-india-over-russian-oil-purchases/"
+    },
+    {
+      "headline": "European Commission allocates \u20ac1.4B from frozen Russian assets to Ukraine",
+      "take": "European Commission allocated \u20ac1.4B from frozen Russian assets to Ukraine",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-frozen-russian-assets-ukraine-allocation/"
     }
   ]
 }

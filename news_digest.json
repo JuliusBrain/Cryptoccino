@@ -1,84 +1,96 @@
 {
-  "generated": "2026-08-05T03:39:20.359416+00:00",
-  "ts": 1785901160,
+  "generated": "2026-08-05T09:09:37.473820+00:00",
+  "ts": 1785920977,
   "market": [
     {
+      "headline": "Why bitcoin\u2019s \u2018500-day rule\u2019 faces its biggest test yet",
+      "take": "Bitcoin's 500-day cycle pattern tested as macro conditions shift significantly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet"
+    },
+    {
+      "headline": "Bitcoin, Ethereum, Solana spot ETFs see inflows on August 4: Cointelegraph",
+      "take": "Spot ETFs for Bitcoin, Ethereum, Solana attracted inflows on August 4",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-solana-spot-etfs-see-inflows-on-august-4-cointelegraph/"
+    },
+    {
       "headline": "Ethereum\u2019s staking ratio reaches all-time high of 34.4%, up from 30% earlier this year",
-      "take": "Ethereum staking ratio hits 34.4% all-time high, up from 30% earlier",
+      "take": "Ethereum staking ratio hits record 34.4%, up from 30% earlier this year",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereums-staking-ratio-reaches-all-time-high-of-344-up-from-30-earlier-this/"
     },
     {
-      "headline": "BlackRock\u2019s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
-      "take": "BlackRock's spot Ethereum ETF undergoes 1-for-3 reverse share split in October",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Trader opens 40x short on 1,600 Bitcoin via Hyperliquid",
-      "take": "Trader opens 40x short on 1,600 Bitcoin via Hyperliquid",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trader-40x-short-bitcoin-hyperliquid/"
-    },
-    {
-      "headline": "Bitcoin bear market reveals shift from retail to professional investors",
-      "take": "Bitcoin bear market reveals shift from retail to professional investors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-bear-market-institutional-shift/"
+      "headline": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+      "take": "New Ethereum proposal would reduce issuance to zero at $112B staked threshold",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion"
     }
   ],
   "business": [
     {
-      "headline": "GMX updates app with smart wallet support and one-click trading",
-      "take": "GMX updates app with smart wallet support and one-click trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gmx-smart-wallet-one-click-trading/"
+      "headline": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
+      "take": "Forgd launches crypto market-maker leaderboard integration with DefiLlama",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Fireblocks scales custody framework as Zerocap consolidates operations on Deribit",
-      "take": "Fireblocks scales custody framework as Zerocap consolidates operations on Deribit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fireblocks-custody-zerocap-deribit-operations/"
+      "headline": "Bybit\u2019s EU payments arm secures Austrian e-money license",
+      "take": "Bybit's EU payments arm secures Austrian e-money license for operations",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "American Bitcoin settles PPP loan dispute for $2.5 million",
-      "take": "American Bitcoin settles PPP loan dispute for 2.5 million dollars",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-bitcoin-venture-loan-settlement/"
+      "headline": "Eliza Labs founder declares native token \u2018dead,\u2019 winds down foundation after Burwick Law settlement",
+      "take": "Eliza Labs founder declares native token dead, winds down after settlement",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410774/eliza-labs-native-token-dead?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Boltz Bridge shuts down swap services indefinitely after AI-powered exploits overwhelm its team",
-      "take": "Boltz Bridge shuts down swap services after AI-powered exploits overwhelm team",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boltz-bridge-shuts-down-ai-exploits/"
+      "headline": "Hacked Bitcoin Wallet Maker Warns AI Failed to Detect Bug",
+      "take": "Bitcoin wallet maker Coldcard warns AI failed to detect critical bug",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-05/hacked-bitcoin-wallet-maker-warns-of-ai-failure-to-detect-bug"
+    },
+    {
+      "headline": "Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report",
+      "take": "Former LAPD officer sentenced to life for kidnapping teen in Bitcoin robbery",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Three Missouri men charged over alleged plot to steal bitcoin through home invasion",
-      "take": "Three Missouri men charged over alleged plot to steal bitcoin via home invasion",
+      "take": "Three Missouri men charged in alleged plot to steal Bitcoin via home invasion",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-      "take": "Ledger says Coldcard exploit shows Bitcoin wallet security must adapt to AI",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai"
     }
   ],
   "policy": [
     {
-      "headline": "Senate democrats plan to block cloture on the clarity act, citing stalled crypto negotiations",
-      "take": "Senate Democrats plan to block cloture on Clarity Act crypto negotiations",
+      "headline": "Senate expected to pass Crypto Clarity Act within a week: SEC\u2019s Peirce",
+      "take": "Senate expected to pass Crypto Clarity Act within a week per SEC's Peirce",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-democrats-plan-to-block-cloture-on-the-clarity-act-citing-stalled-crypto/"
+      "link": "https://cryptobriefing.com/senate-expected-to-pass-crypto-clarity-act-within-a-week-secs-peirce/"
     },
     {
-      "headline": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
-      "take": "Tribal gaming regulators and senators push to add prediction markets to Clarity Act",
+      "headline": "Taiwan plans Travel Rule for domestic crypto transfers from October",
+      "take": "Taiwan plans Travel Rule for domestic crypto transfers starting October",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "MiCA list expands with 12 companies in fourth post-deadline update",
+      "take": "MiCA list expands to include 12 companies in fourth post-deadline update",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Crypto PAC Fairshake scores primary wins in Michigan and Washington",
+      "take": "Crypto PAC Fairshake achieves primary wins in Michigan and Washington races",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410744/fairshake-michigan-washington-primaries?utm_source=rss&utm_medium=rss"
     }
   ]
 }

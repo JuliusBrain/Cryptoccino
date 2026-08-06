@@ -1,70 +1,82 @@
 {
-  "generated": "2026-08-06T03:43:23.943703+00:00",
-  "ts": 1785987803,
+  "generated": "2026-08-06T09:09:43.400998+00:00",
+  "ts": 1786007383,
   "market": [
     {
-      "headline": "United States holds largest national Bitcoin reserves at 328,372 BTC",
-      "take": "US government holds 328,372 BTC, largest national Bitcoin reserves globally",
+      "headline": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+      "take": "S&P 500 gained crypto's $2 trillion market cap this month; Bitcoin unmoved",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why"
+    },
+    {
+      "headline": "Fed\u2019s August inflation forecast raises Wall Street concerns, impacts gold markets",
+      "take": "Fed's August inflation forecast raises Wall Street concerns, impacts gold markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-largest-national-bitcoin-reserves/"
+      "link": "https://cryptobriefing.com/feds-august-inflation-forecast-raises-wall-street-concerns-impacts-gold-markets/"
     },
     {
-      "headline": "Cathie Wood\u2019s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
-      "take": "Ark Invest adds $17M Circle, $20M SpaceX following Q2 results",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss"
+      "headline": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+      "take": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock"
     },
     {
-      "headline": "Bank of America expects three Fed rate hikes this year",
-      "take": "Bank of America expects three Federal Reserve rate hikes this year",
+      "headline": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+      "take": "XRP whales keep buying dip; ether shows deeper capitulation signals",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation"
+    },
+    {
+      "headline": "Oil prices slip as Iran-Oman talks boost hopes for US-Iran peace deal",
+      "take": "Oil prices slip as Iran-Oman talks boost hopes for US-Iran peace",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-expects-three-fed-rate-hikes-this-year/"
-    },
-    {
-      "headline": "Block\u2019s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains",
-      "take": "Block's bitcoin gross profit falls 31% after Cash App fee cuts",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Circle shares fall as revenue miss overshadows quarterly profit beat",
-      "take": "Circle shares fall as revenue miss overshadows quarterly profit beat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-shares-fall-revenue-miss-profit-beat/"
+      "link": "https://cryptobriefing.com/oil-prices-slip-as-iran-oman-talks-boost-hopes-for-us-iran-peace-deal/"
     }
   ],
   "business": [
     {
-      "headline": "Trump signals US readiness for action in Iran negotiations amid 2026 conflict",
-      "take": "Uniswap launches Pools token launchpad for Robinhood Chain",
+      "headline": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
+      "take": "Coinbase launches 24/5 US stock trading for UK users via single app",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
+      "take": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410959/jpyc-stablecoin-raises-38-million?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Uniswap launches Pools token launchpad for Robinhood Chain",
+      "take": "Uniswap launches Pools token launchpad for Robinhood Chain ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-signals-us-readiness-for-action-in-iran-negotiations-amid-2026-conflict/"
+      "link": "https://cryptobriefing.com/uniswap-launches-pools-token-launchpad-for-robinhood-chain/"
+    },
+    {
+      "headline": "Cathie Wood\u2019s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
+      "take": "Cathie Wood's Ark Invest buys $17M Circle, $20M SpaceX shares",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Mysten Labs co-founder Sam Blackshear joins Anthropic to focus on defensive security research",
       "take": "Mysten Labs co-founder Sam Blackshear joins Anthropic for security research",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/mysten-labs-co-founder-sam-blackshear-joins-anthropic-to-focus-on-defensive-security-research/"
-    },
-    {
-      "headline": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-      "take": "Visa widens stablecoin payouts via Zerohash Rails infrastructure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash"
-    },
-    {
-      "headline": "Prime Intellect unveils Prime Agent, a self-improving coding harness that outperforms human experts on key AI benchmark",
-      "take": "Prime Intellect unveils Prime Agent, self-improving AI coding harness",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/prime-intellect-prime-agent-self-improving-rlm/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto firm RedotPay says it will defend itself \u2018vigorously\u2019 against Binance lawsuit",
-      "take": "RedotPay vows vigorous defense against Binance lawsuit allegations",
+      "headline": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+      "take": "Bitcoin developers flag 85 critical bugs in extremely bad situation",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users"
+      "link": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation"
+    },
+    {
+      "headline": "AI models from Anthropic, OpenAI act independently in tests: AI Security Institute",
+      "take": "AI models from Anthropic, OpenAI act independently in security tests",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-models-from-anthropic-openai-act-independently-in-tests-ai-security-institute/"
     }
   ],
   "policy": [
@@ -75,22 +87,16 @@
       "link": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Trump administration imposes 15% tariff on polysilicon imports from China",
-      "take": "Trump administration imposes 15% tariff on polysilicon imports from China",
+      "headline": "Fed\u2019s Cook ready to raise rates if inflation doesn\u2019t ease",
+      "take": "Fed's Cook ready to raise rates if inflation doesn't ease soon",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-administration-imposes-15-tariff-on-polysilicon-imports-from-china/"
+      "link": "https://cryptobriefing.com/feds-cook-ready-to-raise-rates-if-inflation-doesnt-ease/"
     },
     {
-      "headline": "\u2018At a standstill:\u2019 Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
-      "take": "Senate races to salvage Clarity Act before August recess amid concerns",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
-      "take": "Senator Warren questions US AI chip policy after Trump crypto investment",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Fed\u2019s Daly supports holding rates steady amid mixed FOMC signals",
+      "take": "Fed's Daly supports holding rates steady amid mixed FOMC signals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/feds-daly-supports-holding-rates-steady-amid-mixed-fomc-signals/"
     }
   ]
 }

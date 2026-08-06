@@ -1,7 +1,19 @@
 {
-  "generated": "2026-08-05T22:29:17.224765+00:00",
-  "ts": 1785968957,
+  "generated": "2026-08-06T03:43:23.943703+00:00",
+  "ts": 1785987803,
   "market": [
+    {
+      "headline": "United States holds largest national Bitcoin reserves at 328,372 BTC",
+      "take": "US government holds 328,372 BTC, largest national Bitcoin reserves globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-largest-national-bitcoin-reserves/"
+    },
+    {
+      "headline": "Cathie Wood\u2019s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
+      "take": "Ark Invest adds $17M Circle, $20M SpaceX following Q2 results",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss"
+    },
     {
       "headline": "Bank of America expects three Fed rate hikes this year",
       "take": "Bank of America expects three Federal Reserve rate hikes this year",
@@ -9,88 +21,70 @@
       "link": "https://cryptobriefing.com/bank-of-america-expects-three-fed-rate-hikes-this-year/"
     },
     {
-      "headline": "Bitcoin funding rate flips negative as spot buyers push BTC up 1%",
-      "take": "Bitcoin funding rate turns negative as spot buyers push BTC up one percent",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-funding-rate-negative-spot-buyers/"
-    },
-    {
-      "headline": "US dollar expected to maintain strength despite yen intervention: Reuters poll",
-      "take": "US dollar expected to maintain strength despite yen intervention efforts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-expected-to-maintain-strength-despite-yen-intervention-reuters-poll/"
+      "headline": "Block\u2019s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains",
+      "take": "Block's bitcoin gross profit falls 31% after Cash App fee cuts",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Circle shares fall as revenue miss overshadows quarterly profit beat",
-      "take": "Circle shares fall after revenue miss despite quarterly profit beat",
+      "take": "Circle shares fall as revenue miss overshadows quarterly profit beat",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/circle-shares-fall-revenue-miss-profit-beat/"
-    },
-    {
-      "headline": "Block raises 2026 guidance despite 31% decline in Bitcoin ecosystem gross profit",
-      "take": "Block raises 2026 guidance despite thirty-one percent decline in Bitcoin ecosystem profit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/block-bitcoin-gross-profit-falls-cash-app-fee-cuts/"
     }
   ],
   "business": [
     {
-      "headline": "Securitize secures multiple investments from Blockchain Capital after tokenization partnership proves the model works",
-      "take": "Securitize secures multiple investments from Blockchain Capital after tokenization partnership",
+      "headline": "Trump signals US readiness for action in Iran negotiations amid 2026 conflict",
+      "take": "Uniswap launches Pools token launchpad for Robinhood Chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-blockchain-capital-investments/"
+      "link": "https://cryptobriefing.com/trump-signals-us-readiness-for-action-in-iran-negotiations-amid-2026-conflict/"
     },
     {
-      "headline": "Solana crypto cards report record $70M in volume as tokenized collectibles boom",
-      "take": "Solana crypto cards report record seventy million dollars in volume",
+      "headline": "Mysten Labs co-founder Sam Blackshear joins Anthropic to focus on defensive security research",
+      "take": "Mysten Labs co-founder Sam Blackshear joins Anthropic for security research",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-crypto-cards-record-volume/"
+      "link": "https://cryptobriefing.com/mysten-labs-co-founder-sam-blackshear-joins-anthropic-to-focus-on-defensive-security-research/"
     },
     {
       "headline": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-      "take": "Visa widens stablecoin payouts through Zerohash rails infrastructure",
+      "take": "Visa widens stablecoin payouts via Zerohash Rails infrastructure",
       "source": "decrypt",
       "link": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash"
     },
     {
-      "headline": "Circle\u2019s USDC adds $8B in market cap over the past year",
-      "take": "Circle USDC adds eight billion dollars in market cap over past year",
+      "headline": "Prime Intellect unveils Prime Agent, a self-improving coding harness that outperforms human experts on key AI benchmark",
+      "take": "Prime Intellect unveils Prime Agent, self-improving AI coding harness",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-usdc-adds-8b-market-cap-year/"
-    },
-    {
-      "headline": "AWS partners with Anthropic and OpenAI to build AI-native security platform for developers",
-      "take": "AWS partners with Anthropic and OpenAI on AI-native security platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aws-anthropic-openai-continuum-security/"
+      "link": "https://cryptobriefing.com/prime-intellect-prime-agent-self-improving-rlm/"
     }
   ],
   "security": [
     {
       "headline": "Crypto firm RedotPay says it will defend itself \u2018vigorously\u2019 against Binance lawsuit",
-      "take": "RedotPay says it will defend itself vigorously against Binance lawsuit",
+      "take": "RedotPay vows vigorous defense against Binance lawsuit allegations",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users"
-    },
-    {
-      "headline": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-      "take": "OpenAI and Anthropic rogue models hacked real companies; law has no answer",
-      "source": "decrypt",
-      "link": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law"
     }
   ],
   "policy": [
     {
-      "headline": "\u2018At a standstill:\u2019 Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
-      "take": "Senate races to salvage Clarity Act before August recess amid ethics concerns",
+      "headline": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
+      "take": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Senator Lummis still pushing for CLARITY vote before August recess",
-      "take": "Senator Lummis still pushing for CLARITY vote before August recess",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Trump administration imposes 15% tariff on polysilicon imports from China",
+      "take": "Trump administration imposes 15% tariff on polysilicon imports from China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-administration-imposes-15-tariff-on-polysilicon-imports-from-china/"
+    },
+    {
+      "headline": "\u2018At a standstill:\u2019 Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
+      "take": "Senate races to salvage Clarity Act before August recess amid concerns",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",

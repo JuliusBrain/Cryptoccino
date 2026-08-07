@@ -1,60 +1,48 @@
 {
-  "generated": "2026-08-07T03:20:35.279559+00:00",
-  "ts": 1786072835,
+  "generated": "2026-08-07T07:45:12.691184+00:00",
+  "ts": 1786088712,
   "market": [
     {
-      "headline": "Solana moves $650B in stablecoins onchain in one month, surpassing Ethereum",
-      "take": "Solana processed $650B stablecoins monthly, exceeding Ethereum volume",
+      "headline": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "take": "Bitcoin whales accumulate $1.2B as ETFs see $750M inflows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million"
+    },
+    {
+      "headline": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "take": "Bitcoin holds $64,300 ahead of US jobs data; oil headwinds persist",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind"
+    },
+    {
+      "headline": "MARA\u2019s Bitcoin stash fell 34% to under 36,000 BTC in H1",
+      "take": "Marathon Digital's Bitcoin holdings fell 34% to under 36,000 BTC in H1",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-650-billion-stablecoin-volume-record/"
+      "link": "https://cryptobriefing.com/maras-bitcoin-stash-fell-34-to-under-36000-btc-in-h1/"
     },
     {
       "headline": "Ethereum\u2019s DeFi lending dominance rises to 67% of onchain borrowing",
-      "take": "Ethereum DeFi lending dominance climbed to 67% of onchain borrowing",
+      "take": "Ethereum DeFi lending dominance rises to 67% of onchain borrowing",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-defi-lending-dominance-67-percent/"
     },
     {
-      "headline": "Fed\u2019s Musalem favored rate hike, joins three others breaking from July hold",
-      "take": "Fed official Musalem favored rate hike, breaking from July hold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-musalem-favored-rate-hike-joins-three-others-breaking-from-july-hold/"
-    },
-    {
-      "headline": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues",
-      "take": "Bitcoin miners MARA and CleanSpark report double-digit revenue declines",
+      "headline": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
+      "take": "Ark Invest buys $21M in Block despite 6% stock decline",
       "source": "theblock",
-      "link": "https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Reality-issued assets reach $138M market cap on Arbitrum One",
-      "take": "Reality-issued assets reached $138M market cap on Arbitrum One",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reality-assets-138m-arbitrum-one/"
+      "link": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
       "headline": "Sui to add post-quantum signature schemes for quantum-safe accounts",
-      "take": "Sui adds post-quantum signature schemes for quantum-resistant accounts",
+      "take": "Sui adds post-quantum signature schemes for quantum-safe accounts",
       "source": "theblock",
       "link": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
-      "take": "Wintermute registered as SEC broker-dealer for stocks and crypto ETFs",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Power struggle erupts at Ondo Finance after founder\u2019s death",
-      "take": "Power struggle erupts at Ondo Finance following founder's death",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death"
-    },
-    {
       "headline": "Pendle Finance adds PT-USDai and PT-sUSDD on Morpho with up to 27% APY",
-      "take": "Pendle Finance launches PT-USDai and PT-sUSDD on Morpho platform",
+      "take": "Pendle Finance launches PT-USDai and PT-sUSDD on Morpho with up to 27% APY",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/pendle-finance-pt-usdai-pt-susdd-morpho-27-apy/"
     }
@@ -65,32 +53,26 @@
       "take": "Coldcard maker Coinkite preparing technical post-mortem on wallet hack",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinkite-coldcard-bitcoin-hack-130m/"
-    },
-    {
-      "headline": "Meta AI model hacks company systems during cybersecurity test",
-      "take": "Meta AI model hacked company systems during cybersecurity test",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-ai-model-hacks-company-systems-during-cybersecurity-test/"
     }
   ],
   "policy": [
     {
       "headline": "Senate delays Clarity Act vote until after August recess, Thune confirms",
-      "take": "Senate delays Clarity Act vote until after August recess",
+      "take": "Senate delays CLARITY Act vote until after August recess",
       "source": "theblock",
       "link": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
-      "take": "Crypto bill ethics provision could allow Trump to defer tax millions",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss"
+      "headline": "White House to cut unnecessary Bitcoin, crypto regulations",
+      "take": "White House plans to cut unnecessary Bitcoin and crypto regulations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/white-house-to-cut-unnecessary-bitcoin-crypto-regulations/"
     },
     {
-      "headline": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
-      "take": "Crypto PACs invest $1.5M in three US state races after primary loss",
+      "headline": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+      "take": "Japan FSA asks crypto exchanges to impose withdrawal delays against scams",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

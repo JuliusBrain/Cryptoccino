@@ -1,96 +1,96 @@
 {
-  "generated": "2026-08-07T19:18:39.928627+00:00",
-  "ts": 1786130319,
+  "generated": "2026-08-07T21:58:00.203699+00:00",
+  "ts": 1786139880,
   "market": [
     {
-      "headline": "Treasuries rally as soft jobs data trims Fed rate-hike bets",
-      "take": "Treasury yields fall as weak jobs data reduces Fed rate-hike expectations",
+      "headline": "BlackRock CEO Larry Fink predicts Bitcoin could reach $700K",
+      "take": "BlackRock CEO predicts Bitcoin could reach $700,000 eventually",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets/"
+      "link": "https://cryptobriefing.com/blackrock-fink-bitcoin-700k-prediction/"
     },
     {
-      "headline": "Binance accounts for 37% of crypto trading volume as top 6 exchanges control over 60%",
-      "take": "Binance dominates crypto trading with 37% volume; top six exchanges control 60%",
+      "headline": "Fed survey shows improved US job market outlook, slight dip in inflation expectations",
+      "take": "Fed survey shows improved US job outlook, slight dip in inflation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-crypto-trading-volume-concentration/"
+      "link": "https://cryptobriefing.com/fed-survey-shows-improved-us-job-market-outlook-slight-dip-in-inflation/"
     },
     {
-      "headline": "SpaceX stock nears IPO price, down 4% after lockup expiration",
-      "take": "SpaceX stock down 4% after lockup expiration, still near IPO pricing",
+      "headline": "CleanSpark grows Bitcoin treasury to 13,931 BTC despite active sales in July",
+      "take": "CleanSpark grows Bitcoin treasury to 13,931 BTC despite July sales",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-stock-nears-ipo-price-lockup-expiration/"
+      "link": "https://cryptobriefing.com/cleanspark-bitcoin-treasury-13931-btc-july/"
+    },
+    {
+      "headline": "Nvidia stock surges on endorsements and strong customer spending",
+      "take": "Nvidia stock surges on strong customer spending and endorsements",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-stock-surges-ai-spending-endorsements/"
+    },
+    {
+      "headline": "Citi raises Brent crude forecast to $80 per barrel as US-Iran conflict outlasts expectations",
+      "take": "Citi raises Brent crude forecast to $80 as conflict concerns persist",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/citi-raises-brent-crude-forecast-80/"
     }
   ],
   "business": [
     {
-      "headline": "Capital B grows Europe\u2019s first Bitcoin treasury to 3,140 BTC in one year",
-      "take": "Capital B grows Europe's first Bitcoin treasury to 3,140 BTC in one year",
+      "headline": "Trump Media and Crypto.com terminate planned CRO treasury deal",
+      "take": "Trump Media and Crypto.com terminate planned CRO treasury deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/capital-b-europe-bitcoin-treasury-3140-btc/"
+      "link": "https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/"
     },
     {
-      "headline": "El Salvador buys 1 bitcoin daily to advance cryptocurrency strategy",
-      "take": "El Salvador continues daily Bitcoin purchases to advance cryptocurrency strategy",
+      "headline": "Circle launches Agent Stack to make USDC the default currency for AI agents",
+      "take": "Circle launches Agent Stack to make USDC default for AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/el-salvador-buys-bitcoin-daily-strategy/"
+      "link": "https://cryptobriefing.com/circle-agent-stack-usdc-ai-agents/"
     },
     {
-      "headline": "WonderFi founder says Canadian crypto rules led to Robinhood deal",
-      "take": "WonderFi founder credits Canadian crypto rules as reason for Robinhood deal",
+      "headline": "BNB Chain boosts BSC Testnet throughput by 88% with BEP-675 upgrade",
+      "take": "BNB Chain boosts BSC throughput by 88% with BEP-675 upgrade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wonderfi-canadian-crypto-rules-robinhood-deal/"
+      "link": "https://cryptobriefing.com/bnb-chain-bep-675-testnet-throughput/"
     },
     {
-      "headline": "Harvey seeks $500M funding at $15.5B valuation as Lightspeed eyes lead investor role",
-      "take": "Harvey raises $500M funding round at $15.5B valuation with Lightspeed lead",
+      "headline": "Veda CEO Sun Raghupathi highlights growth from Kraken partnership as deposits top $600M",
+      "take": "Veda reports $600M deposits from Kraken partnership growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/harvey-500m-funding-16b-valuation-lightspeed/"
+      "link": "https://cryptobriefing.com/veda-kraken-partnership-600m-deposits/"
+    },
+    {
+      "headline": "Danneskjold and Galt Acquisition files for $150M IPO targeting fintech and AI",
+      "take": "Danneskjold and Galt Acquisition files $150M IPO targeting fintech",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/danneskjold-galt-acquisition-150m-spac-ipo-fintech-ai/"
     }
   ],
   "security": [
     {
-      "headline": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-      "take": "Bybit sues North Korea's Lazarus Group over $1.5B hack, wins asset freeze",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze"
+      "headline": "Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says",
+      "take": "Iran-linked crypto exchange handled $6.3 billion, TRM reports",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/iran-linked-crypto-exchange-handled-6-3-billion-trm-says"
     },
     {
-      "headline": "BTCPay warns of actively exploited vulnerability that could drain funds",
-      "take": "BTCPay warns of actively exploited vulnerability that could drain user funds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-      "take": "Hackers use BNB Chain to spread malware through fake CAPTCHA schemes",
+      "headline": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
+      "take": "BTCPay warns critical flaw is under active attack, patch needed",
       "source": "decrypt",
-      "link": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas"
+      "link": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-      "take": "US widens Iran crypto crackdown with new sanctions on two exchanges",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
+      "headline": "US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges",
+      "take": "US Treasury sanctions two Iran-linked crypto exchanges under OFAC",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US Senate passes Graham Act, intensifying sanctions on Russia and Iran",
-      "take": "US Senate passes Graham Act, intensifying sanctions on Russia and Iran",
+      "headline": "CFTC reminds prediction markets to clean up their pricing disclosures",
+      "take": "CFTC reminds prediction markets to improve pricing disclosures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-senate-passes-graham-act-intensifying-sanctions-on-russia-and-iran/"
-    },
-    {
-      "headline": "Clarity Act stalls as Senate Republicans raise concerns over stablecoin yield",
-      "take": "Clarity Act stalls as Senate Republicans raise concerns over stablecoin yield",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-stalls-stablecoin-yield-concerns/"
-    },
-    {
-      "headline": "CFTC cautions prediction markets over using American-style \u2018moneyline\u2019 betting odds: Bloomberg",
-      "take": "CFTC warns prediction markets against using American-style moneyline betting odds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss"
+      "link": "https://cryptobriefing.com/cftc-prediction-markets-pricing-advisory/"
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
-  "generated": "2026-08-07T00:18:03.793407+00:00",
-  "ts": 1786061883,
+  "generated": "2026-08-07T03:20:35.279559+00:00",
+  "ts": 1786072835,
   "market": [
     {
       "headline": "Solana moves $650B in stablecoins onchain in one month, surpassing Ethereum",
-      "take": "Solana processed $650B in stablecoins monthly, surpassing Ethereum volume",
+      "take": "Solana processed $650B stablecoins monthly, exceeding Ethereum volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-650-billion-stablecoin-volume-record/"
     },
     {
-      "headline": "US Federal Reserve balance sheet reaches $6.7T as of August 5",
-      "take": "Federal Reserve balance sheet expanded to $6.7 trillion as of August",
+      "headline": "Ethereum\u2019s DeFi lending dominance rises to 67% of onchain borrowing",
+      "take": "Ethereum DeFi lending dominance climbed to 67% of onchain borrowing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-balance-sheet-6-7-trillion-august/"
+      "link": "https://cryptobriefing.com/ethereum-defi-lending-dominance-67-percent/"
     },
     {
-      "headline": "Oil prices fall for second week, boosting gold amid US-Iran diplomacy",
-      "take": "Oil prices fell second week; gold rises amid US-Iran diplomacy",
+      "headline": "Fed\u2019s Musalem favored rate hike, joins three others breaking from July hold",
+      "take": "Fed official Musalem favored rate hike, breaking from July hold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-fall-for-second-week-boosting-gold-amid-us-iran-diplomacy/"
+      "link": "https://cryptobriefing.com/feds-musalem-favored-rate-hike-joins-three-others-breaking-from-july-hold/"
     },
     {
       "headline": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues",
-      "take": "Bitcoin miners post double-digit revenue drops continuing AI infrastructure shift",
+      "take": "Bitcoin miners MARA and CleanSpark report double-digit revenue declines",
       "source": "theblock",
       "link": "https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Reality-issued assets reach $138M market cap on Arbitrum One",
+      "take": "Reality-issued assets reached $138M market cap on Arbitrum One",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/reality-assets-138m-arbitrum-one/"
     }
   ],
   "business": [
     {
+      "headline": "Sui to add post-quantum signature schemes for quantum-safe accounts",
+      "take": "Sui adds post-quantum signature schemes for quantum-resistant accounts",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
-      "take": "Wintermute registered as SEC broker-dealer for stocks, options, crypto ETFs",
+      "take": "Wintermute registered as SEC broker-dealer for stocks and crypto ETFs",
       "source": "theblock",
       "link": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Canaan authorized to sell part of digital asset treasury for $30M buyback",
-      "take": "Canaan authorized $30M digital asset treasury sale for buyback",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canaan-digital-asset-treasury-30m-buyback/"
-    },
-    {
-      "headline": "Alibaba unveils Qwen3.8-Max AI model with 2.4 trillion parameters in bid to challenge US dominance",
-      "take": "Alibaba unveils Qwen 3.8-Max AI model with 2.4 trillion parameters",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-qwen-ai-model-compete-globally/"
     },
     {
       "headline": "Power struggle erupts at Ondo Finance after founder\u2019s death",
@@ -53,16 +53,16 @@
       "link": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death"
     },
     {
-      "headline": "Alphabet returns to bond market as AI spending accelerates",
-      "take": "Alphabet returns to bond market as AI spending accelerates",
+      "headline": "Pendle Finance adds PT-USDai and PT-sUSDD on Morpho with up to 27% APY",
+      "take": "Pendle Finance launches PT-USDai and PT-sUSDD on Morpho platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphabet-bond-market-ai-spending-2026/"
+      "link": "https://cryptobriefing.com/pendle-finance-pt-usdai-pt-susdd-morpho-27-apy/"
     }
   ],
   "security": [
     {
-      "headline": "Coinkite declines to estimate Bitcoin loss from $130M Coldcard hack",
-      "take": "Coinkite declines to estimate Bitcoin loss from $130M Coldcard hack",
+      "headline": "Coldcard maker Coinkite preparing technical post-mortem on wallet hack: Report",
+      "take": "Coldcard maker Coinkite preparing technical post-mortem on wallet hack",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinkite-coldcard-bitcoin-hack-130m/"
     },
@@ -75,8 +75,14 @@
   ],
   "policy": [
     {
+      "headline": "Senate delays Clarity Act vote until after August recess, Thune confirms",
+      "take": "Senate delays Clarity Act vote until after August recess",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss"
+    },
+    {
       "headline": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
-      "take": "Crypto bill ethics provision could let Trump defer millions in taxes",
+      "take": "Crypto bill ethics provision could allow Trump to defer tax millions",
       "source": "theblock",
       "link": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss"
     },
@@ -85,12 +91,6 @@
       "take": "Crypto PACs invest $1.5M in three US state races after primary loss",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "SEC Bought a Billion Airline Records to Track Travelers\u2014Likely Without a Warrant",
-      "take": "SEC bought billion airline records to track travelers likely without warrant",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers"
     }
   ]
 }

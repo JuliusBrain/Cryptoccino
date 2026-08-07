@@ -1,108 +1,96 @@
 {
-  "generated": "2026-08-06T14:38:08.665830+00:00",
-  "ts": 1786027088,
+  "generated": "2026-08-07T00:18:03.793407+00:00",
+  "ts": 1786061883,
   "market": [
     {
-      "headline": "Bitcoin, Ethereum ETFs see rising inflows, BlackRock\u2019s IBIT leads: August 6 update",
-      "take": "Bitcoin and Ethereum ETFs see rising inflows; BlackRock's IBIT leads",
+      "headline": "Solana moves $650B in stablecoins onchain in one month, surpassing Ethereum",
+      "take": "Solana processed $650B in stablecoins monthly, surpassing Ethereum volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etfs-see-rising-inflows-blackrocks-ibit-leads-august-6-update/"
+      "link": "https://cryptobriefing.com/solana-650-billion-stablecoin-volume-record/"
     },
     {
-      "headline": "US services sector signals stagflation with rising prices, weak employment index",
-      "take": "US services sector signals stagflation with rising prices and weak employment",
+      "headline": "US Federal Reserve balance sheet reaches $6.7T as of August 5",
+      "take": "Federal Reserve balance sheet expanded to $6.7 trillion as of August",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-services-sector-signals-stagflation-with-rising-prices-weak-employment-index/"
+      "link": "https://cryptobriefing.com/fed-balance-sheet-6-7-trillion-august/"
     },
     {
-      "headline": "Forge expands into 15-minute volatility forecasting for Bitcoin, Ethereum, Solana, and XRP",
-      "take": "Forge expands volatility forecasting for Bitcoin, Ethereum, Solana, XRP",
+      "headline": "Oil prices fall for second week, boosting gold amid US-Iran diplomacy",
+      "take": "Oil prices fell second week; gold rises amid US-Iran diplomacy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/forge-volatility-forecasting-btc-eth-sol-xrp/"
+      "link": "https://cryptobriefing.com/oil-prices-fall-for-second-week-boosting-gold-amid-us-iran-diplomacy/"
     },
     {
-      "headline": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "take": "JPMorgan says Hyperliquid ETF inflows have stalled amid competition",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts"
+      "headline": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues",
+      "take": "Bitcoin miners post double-digit revenue drops continuing AI infrastructure shift",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Maple Finance selects Ethena\u2019s USDtb as core liquidity buffer asset",
-      "take": "Maple Finance selects Ethena's USDe as core liquidity buffer asset",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/maple-finance-ethena-usdtb-liquidity-buffer/"
+      "headline": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
+      "take": "Wintermute registered as SEC broker-dealer for stocks, options, crypto ETFs",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "SpaceX holds 18,712 Bitcoin as first-ever earnings reveal $101B lockup looming",
-      "take": "SpaceX holds 18,712 Bitcoin; first earnings reveal $101B lockup looming",
+      "headline": "Canaan authorized to sell part of digital asset treasury for $30M buyback",
+      "take": "Canaan authorized $30M digital asset treasury sale for buyback",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-bitcoin-holdings-first-earnings-lockup/"
+      "link": "https://cryptobriefing.com/canaan-digital-asset-treasury-30m-buyback/"
     },
     {
-      "headline": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-      "take": "Circle launches Arc, a stablecoin blockchain for USDC ecosystem",
-      "source": "decrypt",
-      "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle"
+      "headline": "Alibaba unveils Qwen3.8-Max AI model with 2.4 trillion parameters in bid to challenge US dominance",
+      "take": "Alibaba unveils Qwen 3.8-Max AI model with 2.4 trillion parameters",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alibaba-qwen-ai-model-compete-globally/"
     },
     {
-      "headline": "Blockchain.com gains Cayman approval for custody and exchange services",
-      "take": "Blockchain.com gains Cayman approval for custody and exchange services",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-com-cayman-custody-license/"
+      "headline": "Power struggle erupts at Ondo Finance after founder\u2019s death",
+      "take": "Power struggle erupts at Ondo Finance following founder's death",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death"
     },
     {
-      "headline": "Apollo sharpens focus on AI chip-backed loans for tech projects",
-      "take": "Apollo sharpens focus on AI chip-backed loans for tech projects",
+      "headline": "Alphabet returns to bond market as AI spending accelerates",
+      "take": "Alphabet returns to bond market as AI spending accelerates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apollo-ai-chip-backed-loans/"
+      "link": "https://cryptobriefing.com/alphabet-bond-market-ai-spending-2026/"
     }
   ],
   "security": [
     {
-      "headline": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
-      "take": "Estimated $30 million stolen in violent crypto attacks in 2026",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/"
-    },
-    {
-      "headline": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
-      "take": "Scammers pose as EU regulators to prey on MiCA deadline fallout",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout"
-    },
-    {
-      "headline": "Israel launches Project Nexus to build sovereign quantum computer, raising fresh questions for crypto security",
-      "take": "Israel launches Project Nexus for sovereign quantum computer; raises crypto security questions",
+      "headline": "Coinkite declines to estimate Bitcoin loss from $130M Coldcard hack",
+      "take": "Coinkite declines to estimate Bitcoin loss from $130M Coldcard hack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israel-project-nexus-quantum-computer-crypto/"
+      "link": "https://cryptobriefing.com/coinkite-coldcard-bitcoin-hack-130m/"
+    },
+    {
+      "headline": "Meta AI model hacks company systems during cybersecurity test",
+      "take": "Meta AI model hacked company systems during cybersecurity test",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-ai-model-hacks-company-systems-during-cybersecurity-test/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate has one day to pass the Crypto Clarity Act before recess",
-      "take": "Senate has one day to pass Crypto Clarity Act before recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-crypto-clarity-act-recess-deadline-2/"
+      "headline": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
+      "take": "Crypto bill ethics provision could let Trump defer millions in taxes",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Japan\u2019s FSA and National Police Agency demand stronger fraud controls from crypto exchanges",
-      "take": "Japan's FSA and National Police demand stronger fraud controls from exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-fsa-npa-crypto-fraud-controls/"
+      "headline": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
+      "take": "Crypto PACs invest $1.5M in three US state races after primary loss",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Luxembourg\u2019s new anti-fraud law pulls crypto exchanges into real-time fraud alerts",
-      "take": "Luxembourg's anti-fraud law pulls crypto exchanges into real-time fraud alerts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/luxembourg-bill-8722-crypto-fraud-alerts/"
-    },
-    {
-      "headline": "Trump holds calls with Fed Chair Warsh amid push to reshape Fed",
-      "take": "Trump holds calls with Fed Chair Warsh amid push to reshape Fed",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-calls-fed-chair-warsh-reshape-fed/"
+      "headline": "SEC Bought a Billion Airline Records to Track Travelers\u2014Likely Without a Warrant",
+      "take": "SEC bought billion airline records to track travelers likely without warrant",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers"
     }
   ]
 }

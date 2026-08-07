@@ -1,66 +1,78 @@
 {
-  "generated": "2026-08-07T07:45:12.691184+00:00",
-  "ts": 1786088712,
+  "generated": "2026-08-07T10:13:25.922065+00:00",
+  "ts": 1786097605,
   "market": [
     {
       "headline": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "take": "Bitcoin whales accumulate $1.2B as ETFs see $750M inflows",
+      "take": "Bitcoin whales accumulate $1.2 billion as spot ETFs see $750 million inflows",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million"
     },
     {
       "headline": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
-      "take": "Bitcoin holds $64,300 ahead of US jobs data; oil headwinds persist",
+      "take": "Bitcoin flat at $64,300 ahead of US jobs report as oil prices rise",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind"
+    },
+    {
+      "headline": "ONDO Finance leads tokenized stock market with 34% share as sector hits $2.3 billion",
+      "take": "Tokenized stocks hit $2.3 billion market cap, ONDO Finance leads with 34% share",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ondo-finance-tokenized-stocks-market-share/"
+    },
+    {
+      "headline": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "take": "Ethereum staking token weETH splits from restaking as rewards structure debate intensifies",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up"
     },
     {
       "headline": "MARA\u2019s Bitcoin stash fell 34% to under 36,000 BTC in H1",
       "take": "Marathon Digital's Bitcoin holdings fell 34% to under 36,000 BTC in H1",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/maras-bitcoin-stash-fell-34-to-under-36000-btc-in-h1/"
-    },
-    {
-      "headline": "Ethereum\u2019s DeFi lending dominance rises to 67% of onchain borrowing",
-      "take": "Ethereum DeFi lending dominance rises to 67% of onchain borrowing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-defi-lending-dominance-67-percent/"
-    },
-    {
-      "headline": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
-      "take": "Ark Invest buys $21M in Block despite 6% stock decline",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss"
     }
   ],
   "business": [
     {
-      "headline": "Sui to add post-quantum signature schemes for quantum-safe accounts",
-      "take": "Sui adds post-quantum signature schemes for quantum-safe accounts",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss"
+      "headline": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "take": "Wintermute crypto market maker gains SEC approval to trade equities and ETF blocks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push"
     },
     {
-      "headline": "Pendle Finance adds PT-USDai and PT-sUSDD on Morpho with up to 27% APY",
-      "take": "Pendle Finance launches PT-USDai and PT-sUSDD on Morpho with up to 27% APY",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-finance-pt-usdai-pt-susdd-morpho-27-apy/"
+      "headline": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+      "take": "Stripe-owned Bridge completes EU MiCA registration following Luxembourg approval",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
+      "take": "Cathie Wood's Ark Invest buys $21 million in Block as stock drops 6%",
+      "source": "theblock",
+      "link": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard maker Coinkite preparing technical post-mortem on wallet hack: Report",
-      "take": "Coldcard maker Coinkite preparing technical post-mortem on wallet hack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinkite-coldcard-bitcoin-hack-130m/"
+      "headline": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+      "take": "Coldcard security fallout triggers 210,000 bitcoin movement from old wallets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets"
+    },
+    {
+      "headline": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+      "take": "Coldcard exploit pushes July crypto losses to $247 million, second-worst month of 2026",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "Senate delays Clarity Act vote until after August recess, Thune confirms",
-      "take": "Senate delays CLARITY Act vote until after August recess",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss"
+      "headline": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
+      "take": "Senate delays Crypto Clarity Act vote to September as Democrats block immediate passage",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out"
     },
     {
       "headline": "White House to cut unnecessary Bitcoin, crypto regulations",
@@ -70,9 +82,21 @@
     },
     {
       "headline": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-      "take": "Japan FSA asks crypto exchanges to impose withdrawal delays against scams",
+      "take": "Japan FSA requires crypto exchanges to impose withdrawal delays to combat scams",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+      "take": "Proposed Clarity Act ethics deal could save Trump millions in taxes per Bloomberg",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Norway\u2019s $2 trillion sovereign fund opposes SEC plan to scrap climate reporting rules",
+      "take": "Norway's $2 trillion sovereign fund opposes SEC plan scrapping climate reporting rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/norway-sovereign-fund-opposes-sec-climate-reporting/"
     }
   ]
 }

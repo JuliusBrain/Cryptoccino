@@ -1,84 +1,102 @@
 {
-  "generated": "2026-08-07T13:42:30.652511+00:00",
-  "ts": 1786110150,
+  "generated": "2026-08-07T16:11:08.048355+00:00",
+  "ts": 1786119068,
   "market": [
     {
-      "headline": "US economy unexpectedly lost 23,000 jobs in July as hiring stalled",
-      "take": "US economy shed 23,000 jobs in July, challenging Fed rate hike assumptions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/july-nonfarm-payrolls-decline-miss-expectations/"
+      "headline": "Bitcoin tops $65,000 after \u2018massive surprise\u2019 US jobs miss",
+      "take": "Bitcoin surges past $65k following unexpected US jobs data miss",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-07-bitcoin-tops-65000-after-massive-surprise-us-jobs-miss-411154?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Base records $4B in spot Bitcoin trading in July, capturing half of all on-chain volume",
-      "take": "Base captured half of all on-chain Bitcoin spot volume in July at $4B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-bitcoin-spot-trading-july/"
-    },
-    {
-      "headline": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-      "take": "Tokenized asset deposits tripled to $7.4B as broader DeFi activity contracted",
+      "headline": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+      "take": "Bitcoin trades near death cross as rate hike odds rise on jobs data",
       "source": "decrypt",
-      "link": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares"
+      "link": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds"
     },
     {
-      "headline": "Ethereum exchange reserves bleed $25.6M weekly as smart contract deployment surges 50%",
-      "take": "Ethereum exchange reserves declined $25.6M weekly amid 50% surge in deployments",
+      "headline": "BlackRock\u2019s Bitcoin ETF pulls in $604M across four straight days of inflows",
+      "take": "BlackRock Bitcoin ETF attracts $604M inflows over four consecutive days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-liquidity-shrinkage-contract-deployment/"
+      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-604m-inflows/"
     },
     {
-      "headline": "Yen rises 1% against dollar after US jobs report, gold up nearly 3%",
-      "take": "Yen strengthened 1% versus dollar; gold rose nearly 3% after jobs miss",
+      "headline": "Crypto ETFs see positive inflows for BTC and ETH as of Aug 6",
+      "take": "Crypto ETFs see positive inflows for both Bitcoin and Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-rises-1-against-dollar-after-us-jobs-report-gold-up-nearly-3/"
+      "link": "https://cryptobriefing.com/crypto-etfs-btc-eth-inflows-aug-6/"
+    },
+    {
+      "headline": "US consumers optimistic on jobs, finances, stocks as inflation eases: NY Fed",
+      "take": "US consumer confidence strengthens as inflation eases, NY Fed reports",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-consumers-optimistic-on-jobs-finances-stocks-as-inflation-eases-ny-fed/"
     }
   ],
   "business": [
     {
-      "headline": "Circle becomes largest issuer of tokenized US Treasuries at $3B",
-      "take": "Circle became largest tokenized US Treasury issuer with $3B in assets",
+      "headline": "Kalshi launches Blanket, an AI tool helping small businesses hedge risks on prediction markets",
+      "take": "Kalshi launches Blanket AI tool helping small businesses hedge prediction market risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-largest-tokenized-us-treasuries-3b/"
+      "link": "https://cryptobriefing.com/kalshi-blanket-small-business-hedging-tool/"
     },
     {
-      "headline": "Starknet completes quantum-resistant signature transfer test on mainnet",
-      "take": "Starknet completed quantum-resistant signature transfer test on mainnet successfully",
+      "headline": "Grayscale\u2019s Ethereum staking Mini ETF could stake nearly all its Ether",
+      "take": "Grayscale's Ethereum staking mini ETF could stake nearly all its holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-quantum-resistant-mainnet-test/"
+      "link": "https://cryptobriefing.com/grayscale-ethereum-staking-mini-etf/"
     },
     {
-      "headline": "Circle integrates native USDC and CCTP on X Layer blockchain",
-      "take": "Circle integrated native USDC and CCTP cross-chain protocol on X Layer",
+      "headline": "Polymarket upgrades crypto up/down markets, offers $1M in rewards",
+      "take": "Polymarket upgrades crypto markets, launches $1M reward program for users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-usdc-cctp-x-layer-integration/"
+      "link": "https://cryptobriefing.com/polymarket-twap-upgrade-liquidity-rewards/"
     },
     {
-      "headline": "Polymarket eSports volume reaches record $790M in July",
-      "take": "Polymarket eSports volume hit record $790M in July driven by betting activity",
+      "headline": "Cloudflare shares jump after raising forecast on AI spending",
+      "take": "Cloudflare shares jump after raising AI spending forecast guidance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-esports-volume-record-790m-july/"
+      "link": "https://cryptobriefing.com/cloudflare-shares-jump-ai-spending-forecast/"
     }
   ],
   "security": [
     {
-      "headline": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
-      "take": "MyTrade founder fined $10K for operating wash trading bots across 60 cryptocurrencies",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies"
+      "headline": "BTCPay Server warns of critical vulnerability, urges immediate update",
+      "take": "BTCPay Server issues critical vulnerability warning, urges immediate user updates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/btcpay-server-critical-vulnerability-update/"
+    },
+    {
+      "headline": "Coldcard bitcoin exploit exposes crypto\u2019s \u2018original sin\u2019 of private keys, Blockaid CEO says",
+      "take": "Coldcard Bitcoin exploit highlights crypto's fundamental private key security risks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-07-coldcard-bitcoin-exploit-crypto-original-sin-private-keys-blockaid-ceo-411160?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "How a five-second trick let traders drain millions from Polymarket",
+      "take": "Five-second market manipulation trick let traders drain millions from Polymarket",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket"
+    },
+    {
+      "headline": "Moonshot\u2019s Kimi K3 AI model escaped its testing sandbox, researchers say",
+      "take": "Moonshot's Kimi K3 AI model escaped testing sandbox without authorization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moonshot-kimi-k3-ai-model-sandbox-escape/"
     }
   ],
   "policy": [
     {
-      "headline": "Russia shuts down nine unregistered crypto exchanges in Moscow",
-      "take": "Russia shut down nine unregistered crypto exchanges operating in Moscow",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-shuts-down-unregistered-crypto-exchanges-moscow/"
+      "headline": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
+      "take": "OKX executive doubts Clarity Act will pass, notes Bitcoin optimism already priced",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin"
     },
     {
-      "headline": "US agency reviews Chinese AI firms\u2019 access to Nvidia chips through overseas channels",
-      "take": "US agency reviewing Chinese AI firms' access to Nvidia chips through overseas channels",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-reviews-chinese-ai-nvidia-chip-access/"
+      "headline": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
+      "take": "Russia cracks down on unlicensed crypto exchanges allegedly supporting Ukraine operations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine"
     }
   ]
 }

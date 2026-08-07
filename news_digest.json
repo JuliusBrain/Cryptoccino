@@ -1,102 +1,96 @@
 {
-  "generated": "2026-08-07T16:11:08.048355+00:00",
-  "ts": 1786119068,
+  "generated": "2026-08-07T19:18:39.928627+00:00",
+  "ts": 1786130319,
   "market": [
     {
-      "headline": "Bitcoin tops $65,000 after \u2018massive surprise\u2019 US jobs miss",
-      "take": "Bitcoin surges past $65k following unexpected US jobs data miss",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-07-bitcoin-tops-65000-after-massive-surprise-us-jobs-miss-411154?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
-      "take": "Bitcoin trades near death cross as rate hike odds rise on jobs data",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds"
-    },
-    {
-      "headline": "BlackRock\u2019s Bitcoin ETF pulls in $604M across four straight days of inflows",
-      "take": "BlackRock Bitcoin ETF attracts $604M inflows over four consecutive days",
+      "headline": "Treasuries rally as soft jobs data trims Fed rate-hike bets",
+      "take": "Treasury yields fall as weak jobs data reduces Fed rate-hike expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-604m-inflows/"
+      "link": "https://cryptobriefing.com/treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets/"
     },
     {
-      "headline": "Crypto ETFs see positive inflows for BTC and ETH as of Aug 6",
-      "take": "Crypto ETFs see positive inflows for both Bitcoin and Ethereum",
+      "headline": "Binance accounts for 37% of crypto trading volume as top 6 exchanges control over 60%",
+      "take": "Binance dominates crypto trading with 37% volume; top six exchanges control 60%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-etfs-btc-eth-inflows-aug-6/"
+      "link": "https://cryptobriefing.com/binance-crypto-trading-volume-concentration/"
     },
     {
-      "headline": "US consumers optimistic on jobs, finances, stocks as inflation eases: NY Fed",
-      "take": "US consumer confidence strengthens as inflation eases, NY Fed reports",
+      "headline": "SpaceX stock nears IPO price, down 4% after lockup expiration",
+      "take": "SpaceX stock down 4% after lockup expiration, still near IPO pricing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-consumers-optimistic-on-jobs-finances-stocks-as-inflation-eases-ny-fed/"
+      "link": "https://cryptobriefing.com/spacex-stock-nears-ipo-price-lockup-expiration/"
     }
   ],
   "business": [
     {
-      "headline": "Kalshi launches Blanket, an AI tool helping small businesses hedge risks on prediction markets",
-      "take": "Kalshi launches Blanket AI tool helping small businesses hedge prediction market risks",
+      "headline": "Capital B grows Europe\u2019s first Bitcoin treasury to 3,140 BTC in one year",
+      "take": "Capital B grows Europe's first Bitcoin treasury to 3,140 BTC in one year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-blanket-small-business-hedging-tool/"
+      "link": "https://cryptobriefing.com/capital-b-europe-bitcoin-treasury-3140-btc/"
     },
     {
-      "headline": "Grayscale\u2019s Ethereum staking Mini ETF could stake nearly all its Ether",
-      "take": "Grayscale's Ethereum staking mini ETF could stake nearly all its holdings",
+      "headline": "El Salvador buys 1 bitcoin daily to advance cryptocurrency strategy",
+      "take": "El Salvador continues daily Bitcoin purchases to advance cryptocurrency strategy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-ethereum-staking-mini-etf/"
+      "link": "https://cryptobriefing.com/el-salvador-buys-bitcoin-daily-strategy/"
     },
     {
-      "headline": "Polymarket upgrades crypto up/down markets, offers $1M in rewards",
-      "take": "Polymarket upgrades crypto markets, launches $1M reward program for users",
+      "headline": "WonderFi founder says Canadian crypto rules led to Robinhood deal",
+      "take": "WonderFi founder credits Canadian crypto rules as reason for Robinhood deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-twap-upgrade-liquidity-rewards/"
+      "link": "https://cryptobriefing.com/wonderfi-canadian-crypto-rules-robinhood-deal/"
     },
     {
-      "headline": "Cloudflare shares jump after raising forecast on AI spending",
-      "take": "Cloudflare shares jump after raising AI spending forecast guidance",
+      "headline": "Harvey seeks $500M funding at $15.5B valuation as Lightspeed eyes lead investor role",
+      "take": "Harvey raises $500M funding round at $15.5B valuation with Lightspeed lead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cloudflare-shares-jump-ai-spending-forecast/"
+      "link": "https://cryptobriefing.com/harvey-500m-funding-16b-valuation-lightspeed/"
     }
   ],
   "security": [
     {
-      "headline": "BTCPay Server warns of critical vulnerability, urges immediate update",
-      "take": "BTCPay Server issues critical vulnerability warning, urges immediate user updates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/btcpay-server-critical-vulnerability-update/"
-    },
-    {
-      "headline": "Coldcard bitcoin exploit exposes crypto\u2019s \u2018original sin\u2019 of private keys, Blockaid CEO says",
-      "take": "Coldcard Bitcoin exploit highlights crypto's fundamental private key security risks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-07-coldcard-bitcoin-exploit-crypto-original-sin-private-keys-blockaid-ceo-411160?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "How a five-second trick let traders drain millions from Polymarket",
-      "take": "Five-second market manipulation trick let traders drain millions from Polymarket",
+      "headline": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "take": "Bybit sues North Korea's Lazarus Group over $1.5B hack, wins asset freeze",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket"
+      "link": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze"
     },
     {
-      "headline": "Moonshot\u2019s Kimi K3 AI model escaped its testing sandbox, researchers say",
-      "take": "Moonshot's Kimi K3 AI model escaped testing sandbox without authorization",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonshot-kimi-k3-ai-model-sandbox-escape/"
+      "headline": "BTCPay warns of actively exploited vulnerability that could drain funds",
+      "take": "BTCPay warns of actively exploited vulnerability that could drain user funds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+      "take": "Hackers use BNB Chain to spread malware through fake CAPTCHA schemes",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas"
     }
   ],
   "policy": [
     {
-      "headline": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
-      "take": "OKX executive doubts Clarity Act will pass, notes Bitcoin optimism already priced",
+      "headline": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+      "take": "US widens Iran crypto crackdown with new sanctions on two exchanges",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin"
+      "link": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
     },
     {
-      "headline": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-      "take": "Russia cracks down on unlicensed crypto exchanges allegedly supporting Ukraine operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine"
+      "headline": "US Senate passes Graham Act, intensifying sanctions on Russia and Iran",
+      "take": "US Senate passes Graham Act, intensifying sanctions on Russia and Iran",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-senate-passes-graham-act-intensifying-sanctions-on-russia-and-iran/"
+    },
+    {
+      "headline": "Clarity Act stalls as Senate Republicans raise concerns over stablecoin yield",
+      "take": "Clarity Act stalls as Senate Republicans raise concerns over stablecoin yield",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clarity-act-stalls-stablecoin-yield-concerns/"
+    },
+    {
+      "headline": "CFTC cautions prediction markets over using American-style \u2018moneyline\u2019 betting odds: Bloomberg",
+      "take": "CFTC warns prediction markets against using American-style moneyline betting odds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss"
     }
   ]
 }

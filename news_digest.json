@@ -1,102 +1,84 @@
 {
-  "generated": "2026-08-07T10:13:25.922065+00:00",
-  "ts": 1786097605,
+  "generated": "2026-08-07T13:42:30.652511+00:00",
+  "ts": 1786110150,
   "market": [
     {
-      "headline": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "take": "Bitcoin whales accumulate $1.2 billion as spot ETFs see $750 million inflows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million"
-    },
-    {
-      "headline": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
-      "take": "Bitcoin flat at $64,300 ahead of US jobs report as oil prices rise",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind"
-    },
-    {
-      "headline": "ONDO Finance leads tokenized stock market with 34% share as sector hits $2.3 billion",
-      "take": "Tokenized stocks hit $2.3 billion market cap, ONDO Finance leads with 34% share",
+      "headline": "US economy unexpectedly lost 23,000 jobs in July as hiring stalled",
+      "take": "US economy shed 23,000 jobs in July, challenging Fed rate hike assumptions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-finance-tokenized-stocks-market-share/"
+      "link": "https://cryptobriefing.com/july-nonfarm-payrolls-decline-miss-expectations/"
     },
     {
-      "headline": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-      "take": "Ethereum staking token weETH splits from restaking as rewards structure debate intensifies",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up"
-    },
-    {
-      "headline": "MARA\u2019s Bitcoin stash fell 34% to under 36,000 BTC in H1",
-      "take": "Marathon Digital's Bitcoin holdings fell 34% to under 36,000 BTC in H1",
+      "headline": "Base records $4B in spot Bitcoin trading in July, capturing half of all on-chain volume",
+      "take": "Base captured half of all on-chain Bitcoin spot volume in July at $4B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/maras-bitcoin-stash-fell-34-to-under-36000-btc-in-h1/"
+      "link": "https://cryptobriefing.com/base-bitcoin-spot-trading-july/"
+    },
+    {
+      "headline": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+      "take": "Tokenized asset deposits tripled to $7.4B as broader DeFi activity contracted",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares"
+    },
+    {
+      "headline": "Ethereum exchange reserves bleed $25.6M weekly as smart contract deployment surges 50%",
+      "take": "Ethereum exchange reserves declined $25.6M weekly amid 50% surge in deployments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-liquidity-shrinkage-contract-deployment/"
+    },
+    {
+      "headline": "Yen rises 1% against dollar after US jobs report, gold up nearly 3%",
+      "take": "Yen strengthened 1% versus dollar; gold rose nearly 3% after jobs miss",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/yen-rises-1-against-dollar-after-us-jobs-report-gold-up-nearly-3/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
-      "take": "Wintermute crypto market maker gains SEC approval to trade equities and ETF blocks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push"
+      "headline": "Circle becomes largest issuer of tokenized US Treasuries at $3B",
+      "take": "Circle became largest tokenized US Treasury issuer with $3B in assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-largest-tokenized-us-treasuries-3b/"
     },
     {
-      "headline": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
-      "take": "Stripe-owned Bridge completes EU MiCA registration following Luxembourg approval",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Starknet completes quantum-resistant signature transfer test on mainnet",
+      "take": "Starknet completed quantum-resistant signature transfer test on mainnet successfully",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/starknet-quantum-resistant-mainnet-test/"
     },
     {
-      "headline": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
-      "take": "Cathie Wood's Ark Invest buys $21 million in Block as stock drops 6%",
-      "source": "theblock",
-      "link": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss"
+      "headline": "Circle integrates native USDC and CCTP on X Layer blockchain",
+      "take": "Circle integrated native USDC and CCTP cross-chain protocol on X Layer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-usdc-cctp-x-layer-integration/"
+    },
+    {
+      "headline": "Polymarket eSports volume reaches record $790M in July",
+      "take": "Polymarket eSports volume hit record $790M in July driven by betting activity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-esports-volume-record-790m-july/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
-      "take": "Coldcard security fallout triggers 210,000 bitcoin movement from old wallets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets"
-    },
-    {
-      "headline": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-      "take": "Coldcard exploit pushes July crypto losses to $247 million, second-worst month of 2026",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
+      "take": "MyTrade founder fined $10K for operating wash trading bots across 60 cryptocurrencies",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies"
     }
   ],
   "policy": [
     {
-      "headline": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
-      "take": "Senate delays Crypto Clarity Act vote to September as Democrats block immediate passage",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out"
-    },
-    {
-      "headline": "White House to cut unnecessary Bitcoin, crypto regulations",
-      "take": "White House plans to cut unnecessary Bitcoin and crypto regulations",
+      "headline": "Russia shuts down nine unregistered crypto exchanges in Moscow",
+      "take": "Russia shut down nine unregistered crypto exchanges operating in Moscow",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-to-cut-unnecessary-bitcoin-crypto-regulations/"
+      "link": "https://cryptobriefing.com/russia-shuts-down-unregistered-crypto-exchanges-moscow/"
     },
     {
-      "headline": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-      "take": "Japan FSA requires crypto exchanges to impose withdrawal delays to combat scams",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-      "take": "Proposed Clarity Act ethics deal could save Trump millions in taxes per Bloomberg",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Norway\u2019s $2 trillion sovereign fund opposes SEC plan to scrap climate reporting rules",
-      "take": "Norway's $2 trillion sovereign fund opposes SEC plan scrapping climate reporting rules",
+      "headline": "US agency reviews Chinese AI firms\u2019 access to Nvidia chips through overseas channels",
+      "take": "US agency reviewing Chinese AI firms' access to Nvidia chips through overseas channels",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/norway-sovereign-fund-opposes-sec-climate-reporting/"
+      "link": "https://cryptobriefing.com/us-reviews-chinese-ai-nvidia-chip-access/"
     }
   ]
 }

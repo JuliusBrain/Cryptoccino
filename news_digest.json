@@ -1,74 +1,68 @@
 {
-  "generated": "2026-08-08T19:02:09.611834+00:00",
-  "ts": 1786215729,
+  "generated": "2026-08-08T21:48:55.041027+00:00",
+  "ts": 1786225735,
   "market": [
     {
-      "headline": "BlackRock\u2019s IBIT captures 81% of $853M Bitcoin ETF inflow streak",
-      "take": "BlackRock's Bitcoin ETF captures majority of institutional inflow",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflows/"
-    },
-    {
-      "headline": "Bitcoin surpasses 20 million mined, reaching 95% of total supply",
-      "take": "Bitcoin reaches 95% of total supply milestone at 20M coins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surpasses-20-million-mined/"
-    },
-    {
       "headline": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
-      "take": "Bitcoin and ether ETFs attract $1.1B in best week since April",
+      "take": "Bitcoin and ether ETFs attract $1.1B inflow in strongest week since April",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Fed may hold rates steady after weak July jobs report, cooling inflation",
-      "take": "Federal Reserve likely to hold rates steady after soft jobs data",
+      "headline": "Bitcoin surpasses 20 million mined, reaching 95% of total supply",
+      "take": "Bitcoin supply reaches 95% of total as 20 million coins now mined",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-may-hold-rates-steady-after-weak-july-jobs-report-cooling-inflation/"
+      "link": "https://cryptobriefing.com/bitcoin-surpasses-20-million-mined/"
+    },
+    {
+      "headline": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
+      "take": "Crypto spot trading volume drops to $15B amid thinning liquidity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-spot-volume-drops-liquidity-concerns/"
+    },
+    {
+      "headline": "Federal Reserve may hold interest rates steady after weak jobs report",
+      "take": "Federal Reserve likely to hold interest rates steady after weak jobs data",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-hold-rates-weak-jobs-report/"
     },
     {
       "headline": "USD Coin sees $1.5B reduction in circulation over 30 days as stablecoin liquidity tightens",
-      "take": "USD Coin circulation drops $1.5B as stablecoin liquidity tightens",
+      "take": "USDC circulation falls $1.5B in month as stablecoin liquidity contracts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/usdc-billion-supply-reduction-30-days/"
     }
   ],
   "business": [
     {
-      "headline": "World Liberty Financial hits $1B valuation after deal with Trump family",
-      "take": "World Liberty Financial reaches $1B valuation via Trump family partnership",
+      "headline": "Circle\u2019s USDC deployment on Stellar sees 35% market cap growth in 30 days",
+      "take": "Circle's USDC on Stellar grows 35% in market cap over 30 days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financial-1b-valuation-trump/"
+      "link": "https://cryptobriefing.com/usdc-stellar-market-cap-growth/"
     },
     {
-      "headline": "KyberSwap unveils unified interface for trading and earning features",
-      "take": "KyberSwap launches unified interface for decentralized trading and yields",
+      "headline": "Jack Dorsey\u2019s Block boosts Bitcoin holdings to 9,117 BTC",
+      "take": "Block increases Bitcoin holdings to 9,117 BTC, strengthening reserves",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kyberswap-unified-interface-trading-earning/"
+      "link": "https://cryptobriefing.com/jack-dorseys-block-boosts-bitcoin-holdings-to-9117-btc/"
     },
     {
-      "headline": "Alphabet boosts 2026 capex to $195B-$205B, benefiting Nvidia, Broadcom",
-      "take": "Alphabet increases 2026 capex to $195-205B for AI infrastructure",
+      "headline": "Texas governor freezes data center rollout amid ERCOT power strain",
+      "take": "Texas governor pauses data center expansion due to grid power constraints",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphabet-boosts-2026-capex-to-195b-205b-benefiting-nvidia-broadcom/"
+      "link": "https://cryptobriefing.com/texas-governor-freezes-data-center-ercot-audit/"
     },
     {
-      "headline": "BitMart processes 300 ETH withdrawals per hour amid wind-down chaos",
-      "take": "BitMart processes mass withdrawals as exchange enters wind-down phase",
+      "headline": "Hardware wallet sales in Russia more than double ahead of new crypto rules",
+      "take": "Russian hardware wallet sales double ahead of incoming crypto regulations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmart-eth-withdrawals-shutdown/"
-    },
-    {
-      "headline": "Nebius valued at 55 times revenue amid AI infrastructure growth",
-      "take": "Nebius valued at 55x revenue amid AI data center infrastructure boom",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nebius-55x-revenue-valuation-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/russia-hardware-wallet-sales-double-crypto-rules/"
     }
   ],
   "security": [
     {
       "headline": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-      "take": "AI systems discovering critical exploits in major blockchain core projects",
+      "take": "AI systems finding critical exploits across major cryptocurrency core projects",
       "source": "decrypt",
       "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
     }
@@ -76,15 +70,21 @@
   "policy": [
     {
       "headline": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-      "take": "Senate schedules September 15 vote on Clarity Act crypto regulation bill",
+      "take": "Senate majority leader advances Crypto Clarity Act toward September 15 vote",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Brazil central bank orders delay on large crypto transfers abroad",
-      "take": "Brazil's central bank orders delays on large cryptocurrency transfers abroad",
+      "headline": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "take": "Brazil's central bank orders exchanges to delay large outbound crypto transfers",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"
+    },
+    {
+      "headline": "Iran\u2019s central bank chief rejects US claims on cryptocurrency links",
+      "take": "Iran's central bank denies US allegations linking nation to cryptocurrency activity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-central-bank-orders-delay-on-large-crypto-transfers-abroad/"
+      "link": "https://cryptobriefing.com/iran-central-bank-rejects-us-crypto-sanctions/"
     }
   ]
 }

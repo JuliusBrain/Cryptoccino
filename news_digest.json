@@ -1,80 +1,56 @@
 {
-  "generated": "2026-08-08T09:56:22.234810+00:00",
-  "ts": 1786182982,
+  "generated": "2026-08-08T13:15:14.033617+00:00",
+  "ts": 1786194914,
   "market": [
     {
-      "headline": "Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle",
-      "take": "Bitcoin ETF inflows reach $102M while Ethereum adds $50M, Solana stalls",
+      "headline": "Bitcoin ETFs pull in $1B in weekly inflows, best performance since April",
+      "take": "Bitcoin ETFs attract $1B weekly inflows, strongest performance since April",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-august-7/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-1b-inflows-best-week-since-april/"
     },
     {
-      "headline": "BlackRock clients purchase $38M worth of Ethereum through spot ETF",
-      "take": "BlackRock clients purchased $38M in Ethereum through spot ETF",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-purchase-38m-ethereum-etf/"
+      "headline": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "take": "T. Rowe Price adds memecoins to its crypto ETF offerings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf"
     },
     {
-      "headline": "ONDO Perps hits $7B in volume weeks after launch",
-      "take": "ONDO Perps exceeded $7B volume within weeks of launch",
+      "headline": "US ETF assets projected to exceed $20T by 2030, but less than $700M lives onchain",
+      "take": "US ETF assets projected to exceed $20T by 2030, onchain portion minimal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-perps-7b-volume-after-launch/"
-    },
-    {
-      "headline": "Whale boosts Bitcoin long exposure on Hyperliquid amid HYPE token transfers",
-      "take": "Whale increases Bitcoin long positions on Hyperliquid amid token transfers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whale-boosts-bitcoin-long-exposure-on-hyperliquid-amid-hype-token-transfers/"
-    },
-    {
-      "headline": "IMF highlights potential for domestic stablecoins to increase demand for dollar-backed tokens",
-      "take": "IMF sees domestic stablecoins driving demand for dollar-backed tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/imf-stablecoins-dollar-demand-emerging-markets/"
+      "link": "https://cryptobriefing.com/us-etf-assets-20-trillion-2030-onchain/"
     }
   ],
   "business": [
     {
       "headline": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
-      "take": "XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "take": "XRP Ledger amendments target $530M in tokenized Wall Street assets",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
     },
     {
-      "headline": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
-      "take": "Lido post-mortem reveals Staking Router v3 bug stemmed from accounting oracle",
+      "headline": "Virtuals Protocol enhances AI agent transparency on Robinhood Chain",
+      "take": "Virtuals Protocol enhances AI agent transparency on Robinhood Chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/"
+      "link": "https://cryptobriefing.com/virtuals-protocol-ai-transparency-robinhood-chain/"
     },
     {
-      "headline": "Situational Awareness invests $400M in Source Foundry after near-collapse",
-      "take": "Situational Awareness invests $400M in Source Foundry after near-collapse",
+      "headline": "Veda CEO discusses challenges of DeFi insurance amid growing interest",
+      "take": "DeFi insurance adoption grows despite coverage and claims challenges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/situational-awareness-400m-source-foundry-investment/"
-    },
-    {
-      "headline": "Nvidia could boost Lancium stake to 30% with $1B investment",
-      "take": "Nvidia considering $1B investment to boost Lancium stake to 30%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-lancium-stake-1b-investment/"
-    },
-    {
-      "headline": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
-      "take": "Trump Media ends token and prediction market deals with Crypto.com",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com"
+      "link": "https://cryptobriefing.com/veda-ceo-defi-insurance-challenges/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin infrastructure exploit drains merchant Lightning nodes",
-      "take": "Bitcoin Lightning infrastructure exploit drains merchant payment nodes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/btcpay-lightning-node-exploit/"
+      "headline": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "take": "Bitcoin Lightning payment servers exploited, infrastructure vulnerability exposed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes"
     },
     {
       "headline": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "take": "Bitcoin holders risk losing coins from BIP-110 fork, developer warns",
+      "take": "BIP-110 fork poses risk of real BTC loss for selling holders",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer"
     }
@@ -82,21 +58,9 @@
   "policy": [
     {
       "headline": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-      "take": "Senate opens voting on Clarity Act to advance crypto regulation framework",
+      "take": "US Senate advances Clarity Act voting as first formal crypto regulation step",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
-    },
-    {
-      "headline": "New Mexico judge orders Meta to pay $567M for child harm remediation",
-      "take": "New Mexico judge orders Meta pay $567M for child harm remediation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-mexico-meta-567-million-child-harm-ruling/"
-    },
-    {
-      "headline": "US Senate advances Russia sanctions bill targeting energy importers",
-      "take": "Senate advances Russia sanctions bill targeting energy importers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-senate-advances-russia-sanctions-bill-targeting-energy-importers/"
     }
   ]
 }

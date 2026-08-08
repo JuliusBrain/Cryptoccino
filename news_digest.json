@@ -1,42 +1,48 @@
 {
-  "generated": "2026-08-08T07:18:05.425438+00:00",
-  "ts": 1786173485,
+  "generated": "2026-08-08T09:56:22.234810+00:00",
+  "ts": 1786182982,
   "market": [
     {
       "headline": "Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle",
-      "take": "Bitcoin ETF inflows reach $102M while Ethereum adds $50M, Solana and XRP stagnant",
+      "take": "Bitcoin ETF inflows reach $102M while Ethereum adds $50M, Solana stalls",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-august-7/"
     },
     {
       "headline": "BlackRock clients purchase $38M worth of Ethereum through spot ETF",
-      "take": "BlackRock clients purchase $38M in Ethereum through spot ETF",
+      "take": "BlackRock clients purchased $38M in Ethereum through spot ETF",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackrock-clients-purchase-38m-ethereum-etf/"
     },
     {
       "headline": "ONDO Perps hits $7B in volume weeks after launch",
-      "take": "ONDO Perps volume hits $7B in weeks after launch",
+      "take": "ONDO Perps exceeded $7B volume within weeks of launch",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ondo-perps-7b-volume-after-launch/"
     },
     {
-      "headline": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
-      "take": "XRP Ledger amendments target $530M in tokenized Wall Street assets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
-    },
-    {
       "headline": "Whale boosts Bitcoin long exposure on Hyperliquid amid HYPE token transfers",
-      "take": "Whale increases Bitcoin long exposure on Hyperliquid amid token transfers",
+      "take": "Whale increases Bitcoin long positions on Hyperliquid amid token transfers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/whale-boosts-bitcoin-long-exposure-on-hyperliquid-amid-hype-token-transfers/"
+    },
+    {
+      "headline": "IMF highlights potential for domestic stablecoins to increase demand for dollar-backed tokens",
+      "take": "IMF sees domestic stablecoins driving demand for dollar-backed tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/imf-stablecoins-dollar-demand-emerging-markets/"
     }
   ],
   "business": [
     {
+      "headline": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "take": "XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
+    },
+    {
       "headline": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
-      "take": "Lido publishes post-mortem on Staking Router v3 accounting oracle bug",
+      "take": "Lido post-mortem reveals Staking Router v3 bug stemmed from accounting oracle",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/"
     },
@@ -48,59 +54,47 @@
     },
     {
       "headline": "Nvidia could boost Lancium stake to 30% with $1B investment",
-      "take": "Nvidia may boost Lancium stake to 30% with $1B investment",
+      "take": "Nvidia considering $1B investment to boost Lancium stake to 30%",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nvidia-lancium-stake-1b-investment/"
     },
     {
-      "headline": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "take": "American Bitcoin director Justin Mateen buys nearly $2M of ABTC stock",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock"
+      "headline": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
+      "take": "Trump Media ends token and prediction market deals with Crypto.com",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com"
     }
   ],
   "security": [
     {
-      "headline": "Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says",
-      "take": "Iran-linked crypto exchange handled $6.3B according to TRM analysis",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/iran-linked-crypto-exchange-handled-6-3-billion-trm-says"
-    },
-    {
-      "headline": "OpenAI flags critical cybersecurity risk in upcoming Astra model, pauses internal development",
-      "take": "OpenAI flags critical cybersecurity risk in Astra model, pauses development",
+      "headline": "Bitcoin infrastructure exploit drains merchant Lightning nodes",
+      "take": "Bitcoin Lightning infrastructure exploit drains merchant payment nodes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-astra-critical-cybersecurity-risk/"
+      "link": "https://cryptobriefing.com/btcpay-lightning-node-exploit/"
     },
     {
       "headline": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "take": "Bitcoin holders risk losing real BTC selling coins from BIP-110 fork",
+      "take": "Bitcoin holders risk losing coins from BIP-110 fork, developer warns",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges",
-      "take": "US Treasury's OFAC sanctions two Iran-linked crypto exchanges",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "take": "Senate opens voting on Clarity Act to advance crypto regulation framework",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
     },
     {
-      "headline": "IMF highlights potential for domestic stablecoins to increase demand for dollar-backed tokens",
-      "take": "IMF highlights potential for domestic stablecoins to boost dollar-backed demand",
+      "headline": "New Mexico judge orders Meta to pay $567M for child harm remediation",
+      "take": "New Mexico judge orders Meta pay $567M for child harm remediation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/imf-stablecoins-dollar-demand-emerging-markets/"
-    },
-    {
-      "headline": "Senate fails to pass Crypto Clarity Act before summer recess",
-      "take": "Senate fails to pass Crypto Clarity Act before summer recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/"
+      "link": "https://cryptobriefing.com/new-mexico-meta-567-million-child-harm-ruling/"
     },
     {
       "headline": "US Senate advances Russia sanctions bill targeting energy importers",
-      "take": "US Senate advances Russia sanctions bill targeting energy importers",
+      "take": "Senate advances Russia sanctions bill targeting energy importers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-senate-advances-russia-sanctions-bill-targeting-energy-importers/"
     }

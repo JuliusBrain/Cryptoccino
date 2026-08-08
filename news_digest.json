@@ -1,96 +1,90 @@
 {
-  "generated": "2026-08-08T15:49:05.459056+00:00",
-  "ts": 1786204145,
+  "generated": "2026-08-08T19:02:09.611834+00:00",
+  "ts": 1786215729,
   "market": [
     {
+      "headline": "BlackRock\u2019s IBIT captures 81% of $853M Bitcoin ETF inflow streak",
+      "take": "BlackRock's Bitcoin ETF captures majority of institutional inflow",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflows/"
+    },
+    {
+      "headline": "Bitcoin surpasses 20 million mined, reaching 95% of total supply",
+      "take": "Bitcoin reaches 95% of total supply milestone at 20M coins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-surpasses-20-million-mined/"
+    },
+    {
       "headline": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
-      "take": "Bitcoin and ether ETFs saw $1.1B inflows in best week since April",
+      "take": "Bitcoin and ether ETFs attract $1.1B in best week since April",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-      "take": "Institutional money expected to flow into bitcoin in significant amounts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan"
-    },
-    {
-      "headline": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "take": "T. Rowe Price added memecoins to its cryptocurrency ETF offering",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf"
-    },
-    {
-      "headline": "Alphabet boosts 2026 capex to $195B-$205B, benefiting Nvidia, Broadcom",
-      "take": "Alphabet increases capex to $195B\u2013$205B, benefiting chip vendors",
+      "headline": "Fed may hold rates steady after weak July jobs report, cooling inflation",
+      "take": "Federal Reserve likely to hold rates steady after soft jobs data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphabet-boosts-2026-capex-to-195b-205b-benefiting-nvidia-broadcom/"
+      "link": "https://cryptobriefing.com/fed-may-hold-rates-steady-after-weak-july-jobs-report-cooling-inflation/"
+    },
+    {
+      "headline": "USD Coin sees $1.5B reduction in circulation over 30 days as stablecoin liquidity tightens",
+      "take": "USD Coin circulation drops $1.5B as stablecoin liquidity tightens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdc-billion-supply-reduction-30-days/"
     }
   ],
   "business": [
     {
-      "headline": "GSR report reveals DAOs hold 70% of treasury in native tokens, creating dangerous feedback loops",
-      "take": "DAOs hold 70% of treasuries in native tokens, creating risky feedback loops",
+      "headline": "World Liberty Financial hits $1B valuation after deal with Trump family",
+      "take": "World Liberty Financial reaches $1B valuation via Trump family partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/daos-native-token-treasury-concentration-risk/"
+      "link": "https://cryptobriefing.com/world-liberty-financial-1b-valuation-trump/"
     },
     {
-      "headline": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-      "take": "Robinhood explains strategy behind its independently managed blockchain",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins"
+      "headline": "KyberSwap unveils unified interface for trading and earning features",
+      "take": "KyberSwap launches unified interface for decentralized trading and yields",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kyberswap-unified-interface-trading-earning/"
     },
     {
-      "headline": "OpenAI acquires presentation startup NextSlide",
-      "take": "OpenAI acquires presentation software startup NextSlide",
+      "headline": "Alphabet boosts 2026 capex to $195B-$205B, benefiting Nvidia, Broadcom",
+      "take": "Alphabet increases 2026 capex to $195-205B for AI infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-acquires-nextslide-chatgpt/"
+      "link": "https://cryptobriefing.com/alphabet-boosts-2026-capex-to-195b-205b-benefiting-nvidia-broadcom/"
     },
     {
-      "headline": "Data center construction spend rises 900% in past five years as AI demand reshapes US infrastructure",
-      "take": "US data center construction spending surged 900% in five years on AI demand",
+      "headline": "BitMart processes 300 ETH withdrawals per hour amid wind-down chaos",
+      "take": "BitMart processes mass withdrawals as exchange enters wind-down phase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/data-center-construction-spend-900-percent-rise/"
+      "link": "https://cryptobriefing.com/bitmart-eth-withdrawals-shutdown/"
+    },
+    {
+      "headline": "Nebius valued at 55 times revenue amid AI infrastructure growth",
+      "take": "Nebius valued at 55x revenue amid AI data center infrastructure boom",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nebius-55x-revenue-valuation-ai-infrastructure/"
     }
   ],
   "security": [
     {
-      "headline": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-      "take": "Bitcoin Lightning payment servers exploited, drained in infrastructure attack",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes"
-    },
-    {
-      "headline": "Apple sues OpenAI, ex-employees over alleged trade secret theft",
-      "take": "Apple sues OpenAI and ex-employees over alleged trade secret theft",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-sues-openai-ex-employees-over-alleged-trade-secret-theft/"
-    },
-    {
-      "headline": "OpenAI, Anthropic, and Meta incidents reveal dangerous gap in AI oversight",
-      "take": "OpenAI, Anthropic, Meta incidents expose gaps in AI safety oversight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-meta-ai-oversight-gap/"
+      "headline": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+      "take": "AI systems discovering critical exploits in major blockchain core projects",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
     }
   ],
   "policy": [
     {
-      "headline": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-      "take": "US Senate advances CLARITY Act toward September vote on crypto regulation",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+      "take": "Senate schedules September 15 vote on Clarity Act crypto regulation bill",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss"
     },
     {
       "headline": "Brazil central bank orders delay on large crypto transfers abroad",
-      "take": "Brazil's central bank orders delays on large international crypto transfers",
+      "take": "Brazil's central bank orders delays on large cryptocurrency transfers abroad",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/brazil-central-bank-orders-delay-on-large-crypto-transfers-abroad/"
-    },
-    {
-      "headline": "Trump open to blind trust for family\u2019s crypto business, opposes targeted legislation",
-      "take": "Trump open to blind trust structure for family crypto business dealings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-blind-trust-crypto-business/"
     }
   ]
 }

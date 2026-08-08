@@ -1,96 +1,102 @@
 {
-  "generated": "2026-08-07T21:58:00.203699+00:00",
-  "ts": 1786139880,
+  "generated": "2026-08-08T02:23:42.070957+00:00",
+  "ts": 1786155822,
   "market": [
     {
-      "headline": "BlackRock CEO Larry Fink predicts Bitcoin could reach $700K",
-      "take": "BlackRock CEO predicts Bitcoin could reach $700,000 eventually",
+      "headline": "ONDO Perps hits $7B in volume weeks after launch",
+      "take": "ONDO Perps surpasses $7B volume weeks after launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-fink-bitcoin-700k-prediction/"
+      "link": "https://cryptobriefing.com/ondo-perps-7b-volume-after-launch/"
+    },
+    {
+      "headline": "Solana\u2019s daily burn could surge from $47K to $650K if SIMD-0553 passes",
+      "take": "Solana daily burn could increase tenfold if SIMD-0553 passes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-simd-0553-daily-burn-increase/"
     },
     {
       "headline": "Fed survey shows improved US job market outlook, slight dip in inflation expectations",
-      "take": "Fed survey shows improved US job outlook, slight dip in inflation",
+      "take": "Fed survey shows job market improvement, slight inflation expectation decline",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fed-survey-shows-improved-us-job-market-outlook-slight-dip-in-inflation/"
     },
     {
-      "headline": "CleanSpark grows Bitcoin treasury to 13,931 BTC despite active sales in July",
-      "take": "CleanSpark grows Bitcoin treasury to 13,931 BTC despite July sales",
+      "headline": "JPMorgan forecasts technology bond sales to exceed $500B in 2026",
+      "take": "JPMorgan forecasts tech bond sales exceeding $500B in 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cleanspark-bitcoin-treasury-13931-btc-july/"
-    },
-    {
-      "headline": "Nvidia stock surges on endorsements and strong customer spending",
-      "take": "Nvidia stock surges on strong customer spending and endorsements",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-stock-surges-ai-spending-endorsements/"
-    },
-    {
-      "headline": "Citi raises Brent crude forecast to $80 per barrel as US-Iran conflict outlasts expectations",
-      "take": "Citi raises Brent crude forecast to $80 as conflict concerns persist",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citi-raises-brent-crude-forecast-80/"
+      "link": "https://cryptobriefing.com/jpmorgan-tech-bond-sales-500b-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Trump Media and Crypto.com terminate planned CRO treasury deal",
-      "take": "Trump Media and Crypto.com terminate planned CRO treasury deal",
+      "headline": "Nvidia could boost Lancium stake to 30% with $1B investment",
+      "take": "Nvidia considers boosting Lancium stake to 30% with $1B investment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/"
+      "link": "https://cryptobriefing.com/nvidia-lancium-stake-1b-investment/"
     },
     {
-      "headline": "Circle launches Agent Stack to make USDC the default currency for AI agents",
-      "take": "Circle launches Agent Stack to make USDC default for AI agents",
+      "headline": "Switch files confidentially for US IPO amid AI demand, eyes $80B valuation",
+      "take": "Switch files confidentially for US IPO, targeting $80B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-agent-stack-usdc-ai-agents/"
+      "link": "https://cryptobriefing.com/switch-confidential-ipo-filing-ai-demand/"
     },
     {
-      "headline": "BNB Chain boosts BSC Testnet throughput by 88% with BEP-675 upgrade",
-      "take": "BNB Chain boosts BSC throughput by 88% with BEP-675 upgrade",
+      "headline": "Ant Group\u2019s Ling 3.0 Flash packs 124B parameters into a model built for speed, not size",
+      "take": "Ant Group launches Ling 3.0 Flash with 124B parameters optimized for speed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-bep-675-testnet-throughput/"
+      "link": "https://cryptobriefing.com/ant-group-ling-3-flash-124b-open-weights/"
     },
     {
-      "headline": "Veda CEO Sun Raghupathi highlights growth from Kraken partnership as deposits top $600M",
-      "take": "Veda reports $600M deposits from Kraken partnership growth",
+      "headline": "Meta\u2019s Manus desktop app brings AI agent capabilities to macOS and Windows",
+      "take": "Meta launches Manus desktop app bringing AI agents to Mac and Windows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/veda-kraken-partnership-600m-deposits/"
+      "link": "https://cryptobriefing.com/meta-manus-desktop-ai-app-macos/"
     },
     {
-      "headline": "Danneskjold and Galt Acquisition files for $150M IPO targeting fintech and AI",
-      "take": "Danneskjold and Galt Acquisition files $150M IPO targeting fintech",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/danneskjold-galt-acquisition-150m-spac-ipo-fintech-ai/"
+      "headline": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
+      "take": "Trump Media ends token and prediction market partnerships with Crypto.com",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com"
     }
   ],
   "security": [
     {
-      "headline": "Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says",
-      "take": "Iran-linked crypto exchange handled $6.3 billion, TRM reports",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/iran-linked-crypto-exchange-handled-6-3-billion-trm-says"
+      "headline": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
+      "take": "Lido traces Staking Router v3 bug to accounting oracle oversight",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/"
+    },
+    {
+      "headline": "OpenAI flags critical cybersecurity risk in upcoming Astra model, pauses internal development",
+      "take": "OpenAI flags critical cybersecurity risk in Astra model, pauses development",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-astra-critical-cybersecurity-risk/"
     },
     {
       "headline": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-      "take": "BTCPay warns critical flaw is under active attack, patch needed",
+      "take": "BTCPay warns critical vulnerability actively exploited in the wild",
       "source": "decrypt",
       "link": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges",
-      "take": "US Treasury sanctions two Iran-linked crypto exchanges under OFAC",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Senate fails to pass Crypto Clarity Act before summer recess",
+      "take": "Senate fails to pass Crypto Clarity Act before summer recess",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/"
     },
     {
-      "headline": "CFTC reminds prediction markets to clean up their pricing disclosures",
-      "take": "CFTC reminds prediction markets to improve pricing disclosures",
+      "headline": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+      "take": "US Treasury sanctions two Iranian crypto exchanges for money laundering",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran"
+    },
+    {
+      "headline": "Reform UK calls for probe into $50K SBF-linked donation to UK Defence Secretary",
+      "take": "Reform UK seeks probe into $50K SBF-linked donation to Defence Secretary",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-prediction-markets-pricing-advisory/"
+      "link": "https://cryptobriefing.com/reform-uk-sbf-donation-probe-defence-secretary/"
     }
   ]
 }

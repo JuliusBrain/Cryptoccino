@@ -1,102 +1,114 @@
 {
-  "generated": "2026-08-08T02:23:42.070957+00:00",
-  "ts": 1786155822,
+  "generated": "2026-08-08T04:30:59.733099+00:00",
+  "ts": 1786163459,
   "market": [
     {
+      "headline": "Whale boosts Bitcoin long exposure on Hyperliquid amid HYPE token transfers",
+      "take": "Whale increases Bitcoin long positions on Hyperliquid amid HYPE token activity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/whale-boosts-bitcoin-long-exposure-on-hyperliquid-amid-hype-token-transfers/"
+    },
+    {
       "headline": "ONDO Perps hits $7B in volume weeks after launch",
-      "take": "ONDO Perps surpasses $7B volume weeks after launch",
+      "take": "ONDO Perps reaches $7 billion in volume weeks after launch",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ondo-perps-7b-volume-after-launch/"
     },
     {
       "headline": "Solana\u2019s daily burn could surge from $47K to $650K if SIMD-0553 passes",
-      "take": "Solana daily burn could increase tenfold if SIMD-0553 passes",
+      "take": "Solana daily burn could increase thirteen-fold if SIMD-0553 protocol passes",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-simd-0553-daily-burn-increase/"
     },
     {
-      "headline": "Fed survey shows improved US job market outlook, slight dip in inflation expectations",
-      "take": "Fed survey shows job market improvement, slight inflation expectation decline",
+      "headline": "Australian mining stocks see biggest weekly gain since 2024 on copper, gold rally",
+      "take": "Australian mining stocks post biggest weekly gain of year on commodity strength",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-survey-shows-improved-us-job-market-outlook-slight-dip-in-inflation/"
+      "link": "https://cryptobriefing.com/australian-mining-stocks-see-biggest-weekly-gain-since-2024-on-copper-gold-rally/"
     },
     {
-      "headline": "JPMorgan forecasts technology bond sales to exceed $500B in 2026",
-      "take": "JPMorgan forecasts tech bond sales exceeding $500B in 2026",
+      "headline": "Oil prices drop as US-Iran peace talks hint at de-escalation",
+      "take": "Oil prices fall as US-Iran peace negotiations suggest de-escalation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-tech-bond-sales-500b-2026/"
+      "link": "https://cryptobriefing.com/oil-prices-drop-as-us-iran-peace-talks-hint-at-de-escalation/"
     }
   ],
   "business": [
     {
+      "headline": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "take": "XRP Ledger amendments target five hundred thirty million in tokenized assets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
+    },
+    {
+      "headline": "Situational Awareness invests $400M in Source Foundry after near-collapse",
+      "take": "Situational Awareness invests four hundred million in Source Foundry recovery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/situational-awareness-400m-source-foundry-investment/"
+    },
+    {
       "headline": "Nvidia could boost Lancium stake to 30% with $1B investment",
-      "take": "Nvidia considers boosting Lancium stake to 30% with $1B investment",
+      "take": "Nvidia considers raising Lancium stake to thirty percent with billion dollar investment",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nvidia-lancium-stake-1b-investment/"
     },
     {
-      "headline": "Switch files confidentially for US IPO amid AI demand, eyes $80B valuation",
-      "take": "Switch files confidentially for US IPO, targeting $80B valuation",
+      "headline": "Goldman Sachs reports 7.2% passive stake in Nebius Group, the AI infrastructure company that used to be Yandex",
+      "take": "Goldman Sachs takes seven point two percent stake in Nebius AI infrastructure company",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/switch-confidential-ipo-filing-ai-demand/"
-    },
-    {
-      "headline": "Ant Group\u2019s Ling 3.0 Flash packs 124B parameters into a model built for speed, not size",
-      "take": "Ant Group launches Ling 3.0 Flash with 124B parameters optimized for speed",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ant-group-ling-3-flash-124b-open-weights/"
+      "link": "https://cryptobriefing.com/goldman-sachs-passive-stake-nebius-group/"
     },
     {
       "headline": "Meta\u2019s Manus desktop app brings AI agent capabilities to macOS and Windows",
-      "take": "Meta launches Manus desktop app bringing AI agents to Mac and Windows",
+      "take": "Meta launches Manus AI agent capabilities for macOS and Windows desktops",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/meta-manus-desktop-ai-app-macos/"
-    },
-    {
-      "headline": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
-      "take": "Trump Media ends token and prediction market partnerships with Crypto.com",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com"
     }
   ],
   "security": [
     {
       "headline": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
-      "take": "Lido traces Staking Router v3 bug to accounting oracle oversight",
+      "take": "Lido publishes post-mortem on Staking Router v3 accounting oracle bug",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/"
     },
     {
       "headline": "OpenAI flags critical cybersecurity risk in upcoming Astra model, pauses internal development",
-      "take": "OpenAI flags critical cybersecurity risk in Astra model, pauses development",
+      "take": "OpenAI identifies critical cybersecurity risk in Astra model, pauses development",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-astra-critical-cybersecurity-risk/"
     },
     {
-      "headline": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-      "take": "BTCPay warns critical vulnerability actively exploited in the wild",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack"
+      "headline": "US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges",
+      "take": "US Treasury sanctions two Iran-linked crypto exchanges for money laundering",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
       "headline": "Senate fails to pass Crypto Clarity Act before summer recess",
-      "take": "Senate fails to pass Crypto Clarity Act before summer recess",
+      "take": "Senate fails to pass Crypto Clarity Act before summer recess deadline",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/"
     },
     {
-      "headline": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-      "take": "US Treasury sanctions two Iranian crypto exchanges for money laundering",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran"
+      "headline": "US Senate advances Russia sanctions bill targeting energy importers",
+      "take": "US Senate advances Russia sanctions bill targeting energy sector importers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-senate-advances-russia-sanctions-bill-targeting-energy-importers/"
     },
     {
-      "headline": "Reform UK calls for probe into $50K SBF-linked donation to UK Defence Secretary",
-      "take": "Reform UK seeks probe into $50K SBF-linked donation to Defence Secretary",
+      "headline": "US imposes new sanctions on Iranian digital asset exchanges amid talks",
+      "take": "US imposes new sanctions on Iranian digital asset exchanges amid negotiations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reform-uk-sbf-donation-probe-defence-secretary/"
+      "link": "https://cryptobriefing.com/us-imposes-new-sanctions-on-iranian-digital-asset-exchanges-amid-talks/"
+    },
+    {
+      "headline": "New Mexico judge declares Meta a public nuisance, orders $942M in penalties",
+      "take": "New Mexico judge declares Meta public nuisance, orders nine hundred forty-two million penalty",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-mexico-meta-public-nuisance-942m-penalties/"
     }
   ]
 }

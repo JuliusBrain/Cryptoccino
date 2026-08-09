@@ -1,59 +1,71 @@
 {
-  "generated": "2026-08-09T13:18:22.090557+00:00",
-  "ts": 1786281502,
+  "generated": "2026-08-09T15:49:37.686932+00:00",
+  "ts": 1786290577,
   "market": [
     {
+      "headline": "Bitcoin investors pour $853 million into spot ETFs. BlackRock\u2019s IBIT claims the bulk",
+      "take": "Bitcoin spot ETF inflows hit $853M, BlackRock's IBIT leads the surge",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk"
+    },
+    {
+      "headline": "Stacks ranks first in Bitfinex report on Bitcoin usage",
+      "take": "Stacks ranks first in Bitfinex report measuring Bitcoin layer-two usage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stacks-ranks-first-bitfinex-bitcoin-usage/"
+    },
+    {
+      "headline": "Hyperliquid\u2019s RWA perps boom is eating into the revenue that backs HYPE",
+      "take": "Hyperliquid's RWA perpetuals growth is eroding HYPE token revenue backing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
+    },
+    {
+      "headline": "Santiment reports 2.27M new Bitcoin wallets amid Coldcard custody concerns",
+      "take": "Bitcoin wallet growth accelerates with 2.27M new addresses created",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/santiment-bitcoin-wallets-coldcard-custody-concerns/"
+    },
+    {
       "headline": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-      "take": "Crypto projects face dot-com style shakeout with over 100 folding in 2026",
+      "take": "Over 100 crypto projects failed in 2026 amid dot-com style market shakeout",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026"
-    },
-    {
-      "headline": "Fomo overtakes Hyperliquid in 24-hour revenue, signaling a shift in DeFi\u2019s competitive landscape",
-      "take": "Fomo overtakes Hyperliquid in daily revenue, shifting DeFi competitive dynamics",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomo-overtakes-hyperliquid-24-hour-revenue/"
-    },
-    {
-      "headline": "US inflation outlook raises questions on September rate decision",
-      "take": "US inflation outlook creates uncertainty around September Federal Reserve rate decision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-inflation-september-rate-decision/"
-    },
-    {
-      "headline": "Moore Threads plans Hong Kong listing after 420% share surge on Shanghai debut",
-      "take": "Moore Threads targets Hong Kong listing after 420% Shanghai share surge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moore-threads-hong-kong-listing-share-surge/"
     }
   ],
   "business": [
     {
       "headline": "Firmus transforms from Bitcoin miner to $10.5B AI infrastructure company after raising $2B",
-      "take": "Firmus raises $2B to transform Bitcoin mining into $10.5B AI infrastructure company",
+      "take": "Firmus shifts from Bitcoin mining to AI infrastructure with $2B raise",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/firmus-bitcoin-miner-ai-infrastructure-company/"
     },
     {
-      "headline": "Robinhood unlikely to launch its own token as Ethereum already powers its new chain",
-      "take": "Robinhood declines own token, leveraging Ethereum for its new blockchain instead",
+      "headline": "OpenAI\u2019s Sam Altman predicts exponential growth in AI token usage, framing intelligence as a utility",
+      "take": "Sam Altman predicts exponential growth in AI token usage as utility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-unlikely-launch-token/"
+      "link": "https://cryptobriefing.com/openai-altman-ai-token-usage-growth/"
     },
     {
-      "headline": "Sequoia pursues AI investments more aggressively under Lin and Grady",
-      "take": "Sequoia intensifies AI investment strategy under new leadership Lin and Grady",
+      "headline": "Robinhood unlikely to launch its own token as Ethereum already powers its new chain",
+      "take": "Robinhood skips own token launch, Ethereum powers its new blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sequoia-ai-investments-lin-grady/"
+      "link": "https://cryptobriefing.com/robinhood-unlikely-launch-token/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "US government advances new trade measures to counter China\u2019s solar supply chain",
-      "take": "US government advances trade measures targeting China's solar supply chain dominance",
+      "headline": "Ether.fi CEO warns EIP-8363 could harm small LSTs and consolidate power toward Lido",
+      "take": "Ether.fi CEO warns EIP-8363 could consolidate staking power toward Lido",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-tariffs-china-solar-supply-chain/"
+      "link": "https://cryptobriefing.com/eip-8363-small-lst-lido-centralization/"
+    },
+    {
+      "headline": "Trump signals willingness to end Iran conflict if Strait of Hormuz reopens",
+      "take": "Trump signals willingness to end Iran conflict if Strait reopens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-iran-strait-of-hormuz-conflict/"
     }
   ]
 }

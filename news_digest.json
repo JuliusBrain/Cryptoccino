@@ -1,39 +1,45 @@
 {
-  "generated": "2026-08-09T07:25:47.659215+00:00",
-  "ts": 1786260347,
+  "generated": "2026-08-09T09:59:09.669888+00:00",
+  "ts": 1786269549,
   "market": [
     {
-      "headline": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
-      "take": "Tron stablecoin supply surpasses $91B after $2B July inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-adds-2b-stablecoins-july/"
-    },
-    {
       "headline": "MARA secures $600M in Bitcoin-backed loans, pledges 18,750 BTC for AI and energy push",
-      "take": "Marathon Digital secures $600M in Bitcoin-backed loans for AI expansion",
+      "take": "Marathon Digital secures $600M in Bitcoin-backed loans for AI and energy",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/mara-600m-bitcoin-backed-loans-ai-energy-expansion/"
     },
     {
+      "headline": "Jamie Dimon warns US dollar could lose reserve currency status in 25 years",
+      "take": "Jamie Dimon warns US dollar could lose reserve status within 25 years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jamie-dimon-warns-us-dollar-could-lose-reserve-currency-status-in-25-years/"
+    },
+    {
+      "headline": "US payroll drop raises job market concerns as Fed rate hike odds fall",
+      "take": "US payroll drop raises job concerns as Fed rate hike odds decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-payroll-drop-job-market-concerns-fed/"
+    },
+    {
       "headline": "Whale opens 20x long on 500K SOL worth $23M",
-      "take": "Large trader opens leveraged long position on 500K SOL tokens",
+      "take": "Whale opens 20x leveraged long position on 500K Solana tokens",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/whale-20x-long-500k-sol-23m/"
     },
     {
-      "headline": "China adds 20 tonnes of gold in July, largest purchase since 2023",
-      "take": "China purchases 20 tonnes of gold, largest monthly addition since 2023",
+      "headline": "Ark Invest boosts stakes in Nvidia, Taiwan Semiconductor after Meta\u2019s earnings miss",
+      "take": "Ark Invest increases Nvidia and TSMC stakes after Meta earnings miss",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-adds-20-tonnes-of-gold-in-july-largest-purchase-since-2023/"
-    },
-    {
-      "headline": "South Korea\u2019s stock market turmoil may be easing after historic selloff",
-      "take": "South Korean equity market stabilizing after major recent decline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-kospi-selloff-stabilization/"
+      "link": "https://cryptobriefing.com/ark-invest-nvidia-tsmc-meta-earnings/"
     }
   ],
   "business": [
+    {
+      "headline": "Moore Threads plans Hong Kong listing after 420% share surge on Shanghai debut",
+      "take": "Moore Threads plans Hong Kong listing after 420% Shanghai debut surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moore-threads-hong-kong-listing-share-surge/"
+    },
     {
       "headline": "Virtuals Protocol bets on physical AI and robotics with Eastworlds accelerator",
       "take": "Virtuals Protocol launches Eastworlds accelerator for physical AI robotics",
@@ -42,19 +48,13 @@
     },
     {
       "headline": "Intel Foundry secures Fortinet as its first named corporate client under new CEO",
-      "take": "Intel Foundry signs Fortinet as first named customer under new leadership",
+      "take": "Intel Foundry lands Fortinet as first named corporate client",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/intel-foundry-fortinet-first-named-client/"
     },
     {
-      "headline": "GMGN overtakes Axiom Exchange in 24-hour revenue as memecoin trading wars heat up",
-      "take": "GMGN surpasses Axiom Exchange in memecoin trading platform revenue race",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gmgn-overtakes-axiom-24-hour-revenue/"
-    },
-    {
       "headline": "Eliza Labs founder sells $25M in ElizaOS tokens as project collapses after lawsuit",
-      "take": "Eliza Labs founder exits $25M ElizaOS tokens as project faces legal collapse",
+      "take": "Eliza Labs founder sells $25M ElizaOS tokens as project faces lawsuit",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/elizaos-token-dead-founder-sells-lawsuit/"
     }
@@ -65,12 +65,18 @@
       "take": "SK Hynix employee sentenced for leaking semiconductor technology to China",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sk-hynix-employee-sentenced-technology-leak/"
+    },
+    {
+      "headline": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "take": "Controversial Bitcoin fork BIP-110 mines two blocks then stops",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops"
     }
   ],
   "policy": [
     {
       "headline": "Grayscale\u2019s Zach Pandl says Crypto Clarity Act unlikely to pass this year",
-      "take": "Grayscale analyst predicts Crypto Clarity Act unlikely to pass this year",
+      "take": "Grayscale analyst says Crypto Clarity Act unlikely to pass this year",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/grayscale-pandl-clarity-act-unlikely-pass/"
     }

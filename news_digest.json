@@ -1,36 +1,30 @@
 {
-  "generated": "2026-08-08T21:48:55.041027+00:00",
-  "ts": 1786225735,
+  "generated": "2026-08-09T02:31:36.920913+00:00",
+  "ts": 1786242696,
   "market": [
     {
       "headline": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
-      "take": "Bitcoin and ether ETFs attract $1.1B inflow in strongest week since April",
+      "take": "Bitcoin and ether ETFs attract $1.1B inflows in best week since April",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Bitcoin surpasses 20 million mined, reaching 95% of total supply",
-      "take": "Bitcoin supply reaches 95% of total as 20 million coins now mined",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surpasses-20-million-mined/"
-    },
-    {
       "headline": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
-      "take": "Crypto spot trading volume drops to $15B amid thinning liquidity",
+      "take": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/crypto-spot-volume-drops-liquidity-concerns/"
     },
     {
-      "headline": "Federal Reserve may hold interest rates steady after weak jobs report",
-      "take": "Federal Reserve likely to hold interest rates steady after weak jobs data",
+      "headline": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
+      "take": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-hold-rates-weak-jobs-report/"
+      "link": "https://cryptobriefing.com/tron-adds-2b-stablecoins-july/"
     },
     {
-      "headline": "USD Coin sees $1.5B reduction in circulation over 30 days as stablecoin liquidity tightens",
-      "take": "USDC circulation falls $1.5B in month as stablecoin liquidity contracts",
+      "headline": "Whale opens 20x long on 500K SOL worth $23M",
+      "take": "Whale opens 20x leveraged long on 500K SOL worth $23M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-billion-supply-reduction-30-days/"
+      "link": "https://cryptobriefing.com/whale-20x-long-500k-sol-23m/"
     }
   ],
   "business": [
@@ -42,37 +36,37 @@
     },
     {
       "headline": "Jack Dorsey\u2019s Block boosts Bitcoin holdings to 9,117 BTC",
-      "take": "Block increases Bitcoin holdings to 9,117 BTC, strengthening reserves",
+      "take": "Block increases Bitcoin holdings to 9,117 BTC, boosting corporate position",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/jack-dorseys-block-boosts-bitcoin-holdings-to-9117-btc/"
     },
     {
-      "headline": "Texas governor freezes data center rollout amid ERCOT power strain",
-      "take": "Texas governor pauses data center expansion due to grid power constraints",
+      "headline": "GMGN overtakes Axiom Exchange in 24-hour revenue as memecoin trading wars heat up",
+      "take": "GMGN overtakes Axiom Exchange in 24-hour revenue as memecoin trading intensifies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-governor-freezes-data-center-ercot-audit/"
-    },
-    {
-      "headline": "Hardware wallet sales in Russia more than double ahead of new crypto rules",
-      "take": "Russian hardware wallet sales double ahead of incoming crypto regulations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-hardware-wallet-sales-double-crypto-rules/"
+      "link": "https://cryptobriefing.com/gmgn-overtakes-axiom-24-hour-revenue/"
     }
   ],
   "security": [
     {
       "headline": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-      "take": "AI systems finding critical exploits across major cryptocurrency core projects",
+      "take": "AI systems finding critical exploits across Bitcoin and core crypto projects",
       "source": "decrypt",
       "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
+    },
+    {
+      "headline": "Polymarket sued for $170K over Trump prediction bet",
+      "take": "Polymarket sued for $170K over disputed Trump prediction market bet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-sued-trump-prediction-bet/"
     }
   ],
   "policy": [
     {
-      "headline": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-      "take": "Senate majority leader advances Crypto Clarity Act toward September 15 vote",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss"
+      "headline": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "take": "US Senate schedules September vote on Clarity Act after cloture filing",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
@@ -81,10 +75,16 @@
       "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"
     },
     {
-      "headline": "Iran\u2019s central bank chief rejects US claims on cryptocurrency links",
-      "take": "Iran's central bank denies US allegations linking nation to cryptocurrency activity",
+      "headline": "Trump revives threat to fire Fed Governor Lisa Cook",
+      "take": "Trump threatens to fire Federal Reserve Governor Lisa Cook over policy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-central-bank-rejects-us-crypto-sanctions/"
+      "link": "https://cryptobriefing.com/trump-fire-fed-governor-lisa-cook/"
+    },
+    {
+      "headline": "Texas governor freezes data center rollout amid ERCOT power strain",
+      "take": "Texas governor freezes data center expansion amid ERCOT power strain concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/texas-governor-freezes-data-center-ercot-audit/"
     }
   ]
 }

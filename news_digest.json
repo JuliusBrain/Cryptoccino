@@ -1,88 +1,94 @@
 {
-  "generated": "2026-08-09T02:31:36.920913+00:00",
-  "ts": 1786242696,
+  "generated": "2026-08-09T04:39:34.682197+00:00",
+  "ts": 1786250374,
   "market": [
     {
-      "headline": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
-      "take": "Bitcoin and ether ETFs attract $1.1B inflows in best week since April",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
-      "take": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-spot-volume-drops-liquidity-concerns/"
-    },
-    {
-      "headline": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
-      "take": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-adds-2b-stablecoins-july/"
-    },
-    {
-      "headline": "Whale opens 20x long on 500K SOL worth $23M",
-      "take": "Whale opens 20x leveraged long on 500K SOL worth $23M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whale-20x-long-500k-sol-23m/"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Circle\u2019s USDC deployment on Stellar sees 35% market cap growth in 30 days",
-      "take": "Circle's USDC on Stellar grows 35% in market cap over 30 days",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-stellar-market-cap-growth/"
-    },
-    {
       "headline": "Jack Dorsey\u2019s Block boosts Bitcoin holdings to 9,117 BTC",
-      "take": "Block increases Bitcoin holdings to 9,117 BTC, boosting corporate position",
+      "take": "Jack Dorsey's Block increases Bitcoin holdings to over 9,100 coins",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/jack-dorseys-block-boosts-bitcoin-holdings-to-9117-btc/"
     },
     {
+      "headline": "Whale opens 20x long on 500K SOL worth $23M",
+      "take": "Whale opens leveraged long position on half million Solana tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/whale-20x-long-500k-sol-23m/"
+    },
+    {
+      "headline": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
+      "take": "Tron stablecoin supply surpasses $91 billion after $2B July inflow",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tron-adds-2b-stablecoins-july/"
+    },
+    {
+      "headline": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
+      "take": "Crypto spot trading volume drops sharply to $15 billion daily",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-spot-volume-drops-liquidity-concerns/"
+    },
+    {
+      "headline": "South Korea\u2019s stock market turmoil may be easing after historic selloff",
+      "take": "South Korea stock market stabilizing after recent historic selloff period",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-kospi-selloff-stabilization/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Eliza Labs founder sells $25M in ElizaOS tokens as project collapses after lawsuit",
+      "take": "Eliza Labs founder exits $25M in tokens as ElizaOS project collapses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/elizaos-token-dead-founder-sells-lawsuit/"
+    },
+    {
       "headline": "GMGN overtakes Axiom Exchange in 24-hour revenue as memecoin trading wars heat up",
-      "take": "GMGN overtakes Axiom Exchange in 24-hour revenue as memecoin trading intensifies",
+      "take": "GMGN surpasses Axiom Exchange in daily revenue during memecoin trading surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gmgn-overtakes-axiom-24-hour-revenue/"
+    },
+    {
+      "headline": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "take": "Russian hardware wallet sales double ahead of new cryptocurrency regulations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-      "take": "AI systems finding critical exploits across Bitcoin and core crypto projects",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
+      "headline": "SK Hynix employee sentenced to 18 months for leaking chip technology to Chinese firm",
+      "take": "SK Hynix employee sentenced for leaking semiconductor technology to China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sk-hynix-employee-sentenced-technology-leak/"
     },
     {
-      "headline": "Polymarket sued for $170K over Trump prediction bet",
-      "take": "Polymarket sued for $170K over disputed Trump prediction market bet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-sued-trump-prediction-bet/"
+      "headline": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+      "take": "Bitcoin Red Team AI finds critical exploits across multiple core projects",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
     }
   ],
   "policy": [
     {
-      "headline": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-      "take": "US Senate schedules September vote on Clarity Act after cloture filing",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+      "take": "Senate Majority Leader advances Crypto Clarity Act vote for September 15",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-      "take": "Brazil's central bank orders exchanges to delay large outbound crypto transfers",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"
-    },
-    {
-      "headline": "Trump revives threat to fire Fed Governor Lisa Cook",
-      "take": "Trump threatens to fire Federal Reserve Governor Lisa Cook over policy",
+      "headline": "Grayscale\u2019s Zach Pandl says Crypto Clarity Act unlikely to pass this year",
+      "take": "Grayscale analyst forecasts Crypto Clarity Act unlikely to pass this year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-fire-fed-governor-lisa-cook/"
+      "link": "https://cryptobriefing.com/grayscale-pandl-clarity-act-unlikely-pass/"
+    },
+    {
+      "headline": "Democrats block Crypto Clarity Act vote before summer recess",
+      "take": "Democrats block Crypto Clarity Act vote before summer congressional recess",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/democrats-block-crypto-clarity-act-vote-before-summer-recess/"
     },
     {
       "headline": "Texas governor freezes data center rollout amid ERCOT power strain",
-      "take": "Texas governor freezes data center expansion amid ERCOT power strain concerns",
+      "take": "Texas governor halts data center expansion amid grid power strain concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/texas-governor-freezes-data-center-ercot-audit/"
     }

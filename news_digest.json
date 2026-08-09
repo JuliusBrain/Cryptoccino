@@ -1,78 +1,72 @@
 {
-  "generated": "2026-08-09T19:04:37.153610+00:00",
-  "ts": 1786302277,
+  "generated": "2026-08-09T21:50:40.440156+00:00",
+  "ts": 1786312240,
   "market": [
     {
       "headline": "Bitcoin investors pour $853 million into spot ETFs. BlackRock\u2019s IBIT claims the bulk",
-      "take": "Bitcoin spot ETFs attracted $853M inflows; BlackRock's IBIT led",
+      "take": "Bitcoin spot ETFs attracted $853M inflows, BlackRock's IBIT leading",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk"
     },
     {
-      "headline": "Hyperliquid\u2019s RWA perps boom is eating into the revenue that backs HYPE",
-      "take": "Hyperliquid RWA perps growth pressuring HYPE token revenue",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
+      "headline": "Hyperliquid reaches 263,419 active perpetual traders, commanding nearly 70% of on-chain perp activity",
+      "take": "Hyperliquid controls nearly 70% on-chain perpetual activity with 263k traders",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-263k-active-perp-traders/"
     },
     {
-      "headline": "EURe\u2019s share of crypto card spending drops to 2% as USDC leads",
-      "take": "EURe stablecoin market share fell to 2% as USDC dominates",
+      "headline": "Pump.fun surpasses Hyperliquid in 30-day revenue as $PUMP rises 12%",
+      "take": "Pump.fun surpassed Hyperliquid in 30-day revenue as PUMP token rose",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eure-crypto-card-spending-usdc-dominance/"
-    },
-    {
-      "headline": "Stacks ranks first in Bitfinex report on Bitcoin usage",
-      "take": "Stacks ranked first for Bitcoin usage according to Bitfinex",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-ranks-first-bitfinex-bitcoin-usage/"
-    },
-    {
-      "headline": "Santiment reports 2.27M new Bitcoin wallets amid Coldcard custody concerns",
-      "take": "2.27M new Bitcoin wallets emerged amid custody security discussions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/santiment-bitcoin-wallets-coldcard-custody-concerns/"
+      "link": "https://cryptobriefing.com/pump-fun-surpasses-hyperliquid-revenue/"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI blocks researcher Rob Hamilton from Bitcoin security analysis, pushing team toward Chinese AI models",
-      "take": "OpenAI blocked researcher from Bitcoin security work; team considering Chinese AI",
+      "headline": "Core Scientific shareholders reject $9B sale amid AMD partnership",
+      "take": "Core Scientific shareholders rejected $9B sale despite AMD partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-blocks-bitcoin-security-researcher/"
+      "link": "https://cryptobriefing.com/core-scientific-rejects-sale-amd-partnership/"
     },
     {
-      "headline": "Ether.fi CEO warns EIP-8363 could harm small LSTs and consolidate power toward Lido",
-      "take": "Ether.fi CEO warns EIP-8363 risks consolidating LST power toward Lido",
+      "headline": "World Liberty Financial received $100M from businessman under UK money laundering investigation",
+      "take": "World Liberty Financial received $100M from UK-investigated businessman",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eip-8363-small-lst-lido-centralization/"
+      "link": "https://cryptobriefing.com/world-liberty-100m-zhou-investigation/"
     }
   ],
   "security": [
     {
-      "headline": "World Liberty Financial received $100M from businessman under UK money laundering investigation",
-      "take": "World Liberty Financial received $100M from UK money laundering investigation subject",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-100m-zhou-investigation/"
-    },
-    {
       "headline": "Meta AI model breach intensifies calls for stronger cybersecurity safeguards",
-      "take": "Meta AI model breach intensifies cybersecurity safeguard calls",
+      "take": "Meta AI model breach sparks renewed cybersecurity safeguard demands",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/meta-ai-model-breach-intensifies-calls-for-stronger-cybersecurity-safeguards/"
     },
     {
       "headline": "Shenzhen employee sentenced to prison for $87K Bitcoin extortion after posing as overseas hacker",
-      "take": "Shenzhen employee imprisoned for $87K Bitcoin extortion via false hacker posture",
+      "take": "Shenzhen employee imprisoned for $87K Bitcoin extortion scheme",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/shenzhen-employee-bitcoin-extortion-sentence/"
+    },
+    {
+      "headline": "OpenAI blocks researcher Rob Hamilton from Bitcoin security analysis, pushing team toward Chinese AI models",
+      "take": "OpenAI blocked researcher from Bitcoin security work, favoring Chinese AI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-blocks-bitcoin-security-researcher/"
     }
   ],
   "policy": [
     {
-      "headline": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
-      "take": "Brazil imposing 24-hour hold on self-custody wallet transfers to combat fraud",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss"
+      "headline": "Crypto lobby fails to secure Clarity Act vote before August recess",
+      "take": "Crypto lobby failed to secure Clarity Act vote before Senate recess",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clarity-act-vote-delayed-august-recess/"
+    },
+    {
+      "headline": "Brazil mandates 24-hour delay on crypto transfers over $10K starting 2027",
+      "take": "Brazil mandates 24-hour delay on crypto transfers over $10K from 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brazil-crypto-transfer-delay-2027/"
     }
   ]
 }

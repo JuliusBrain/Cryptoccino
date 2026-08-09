@@ -1,56 +1,62 @@
 {
-  "generated": "2026-08-09T04:39:34.682197+00:00",
-  "ts": 1786250374,
+  "generated": "2026-08-09T07:25:47.659215+00:00",
+  "ts": 1786260347,
   "market": [
     {
-      "headline": "Jack Dorsey\u2019s Block boosts Bitcoin holdings to 9,117 BTC",
-      "take": "Jack Dorsey's Block increases Bitcoin holdings to over 9,100 coins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jack-dorseys-block-boosts-bitcoin-holdings-to-9117-btc/"
-    },
-    {
-      "headline": "Whale opens 20x long on 500K SOL worth $23M",
-      "take": "Whale opens leveraged long position on half million Solana tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whale-20x-long-500k-sol-23m/"
-    },
-    {
       "headline": "Tron adds $2B in stablecoins in July, pushing total supply past $91B",
-      "take": "Tron stablecoin supply surpasses $91 billion after $2B July inflow",
+      "take": "Tron stablecoin supply surpasses $91B after $2B July inflows",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/tron-adds-2b-stablecoins-july/"
     },
     {
-      "headline": "Crypto spot volume drops to $15B as liquidity thins across exchanges",
-      "take": "Crypto spot trading volume drops sharply to $15 billion daily",
+      "headline": "MARA secures $600M in Bitcoin-backed loans, pledges 18,750 BTC for AI and energy push",
+      "take": "Marathon Digital secures $600M in Bitcoin-backed loans for AI expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-spot-volume-drops-liquidity-concerns/"
+      "link": "https://cryptobriefing.com/mara-600m-bitcoin-backed-loans-ai-energy-expansion/"
+    },
+    {
+      "headline": "Whale opens 20x long on 500K SOL worth $23M",
+      "take": "Large trader opens leveraged long position on 500K SOL tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/whale-20x-long-500k-sol-23m/"
+    },
+    {
+      "headline": "China adds 20 tonnes of gold in July, largest purchase since 2023",
+      "take": "China purchases 20 tonnes of gold, largest monthly addition since 2023",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-adds-20-tonnes-of-gold-in-july-largest-purchase-since-2023/"
     },
     {
       "headline": "South Korea\u2019s stock market turmoil may be easing after historic selloff",
-      "take": "South Korea stock market stabilizing after recent historic selloff period",
+      "take": "South Korean equity market stabilizing after major recent decline",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/south-korea-kospi-selloff-stabilization/"
     }
   ],
   "business": [
     {
-      "headline": "Eliza Labs founder sells $25M in ElizaOS tokens as project collapses after lawsuit",
-      "take": "Eliza Labs founder exits $25M in tokens as ElizaOS project collapses",
+      "headline": "Virtuals Protocol bets on physical AI and robotics with Eastworlds accelerator",
+      "take": "Virtuals Protocol launches Eastworlds accelerator for physical AI robotics",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/elizaos-token-dead-founder-sells-lawsuit/"
+      "link": "https://cryptobriefing.com/virtuals-protocol-eastworlds-robotics-ai/"
+    },
+    {
+      "headline": "Intel Foundry secures Fortinet as its first named corporate client under new CEO",
+      "take": "Intel Foundry signs Fortinet as first named customer under new leadership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/intel-foundry-fortinet-first-named-client/"
     },
     {
       "headline": "GMGN overtakes Axiom Exchange in 24-hour revenue as memecoin trading wars heat up",
-      "take": "GMGN surpasses Axiom Exchange in daily revenue during memecoin trading surge",
+      "take": "GMGN surpasses Axiom Exchange in memecoin trading platform revenue race",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gmgn-overtakes-axiom-24-hour-revenue/"
     },
     {
-      "headline": "Hardware wallet sales in Russia more than double as new crypto rules near",
-      "take": "Russian hardware wallet sales double ahead of new cryptocurrency regulations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near"
+      "headline": "Eliza Labs founder sells $25M in ElizaOS tokens as project collapses after lawsuit",
+      "take": "Eliza Labs founder exits $25M ElizaOS tokens as project faces legal collapse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/elizaos-token-dead-founder-sells-lawsuit/"
     }
   ],
   "security": [
@@ -59,38 +65,14 @@
       "take": "SK Hynix employee sentenced for leaking semiconductor technology to China",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sk-hynix-employee-sentenced-technology-leak/"
-    },
-    {
-      "headline": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-      "take": "Bitcoin Red Team AI finds critical exploits across multiple core projects",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"
     }
   ],
   "policy": [
     {
-      "headline": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-      "take": "Senate Majority Leader advances Crypto Clarity Act vote for September 15",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss"
-    },
-    {
       "headline": "Grayscale\u2019s Zach Pandl says Crypto Clarity Act unlikely to pass this year",
-      "take": "Grayscale analyst forecasts Crypto Clarity Act unlikely to pass this year",
+      "take": "Grayscale analyst predicts Crypto Clarity Act unlikely to pass this year",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/grayscale-pandl-clarity-act-unlikely-pass/"
-    },
-    {
-      "headline": "Democrats block Crypto Clarity Act vote before summer recess",
-      "take": "Democrats block Crypto Clarity Act vote before summer congressional recess",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/democrats-block-crypto-clarity-act-vote-before-summer-recess/"
-    },
-    {
-      "headline": "Texas governor freezes data center rollout amid ERCOT power strain",
-      "take": "Texas governor halts data center expansion amid grid power strain concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-governor-freezes-data-center-ercot-audit/"
     }
   ]
 }

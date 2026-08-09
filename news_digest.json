@@ -1,71 +1,78 @@
 {
-  "generated": "2026-08-09T15:49:37.686932+00:00",
-  "ts": 1786290577,
+  "generated": "2026-08-09T19:04:37.153610+00:00",
+  "ts": 1786302277,
   "market": [
     {
       "headline": "Bitcoin investors pour $853 million into spot ETFs. BlackRock\u2019s IBIT claims the bulk",
-      "take": "Bitcoin spot ETF inflows hit $853M, BlackRock's IBIT leads the surge",
+      "take": "Bitcoin spot ETFs attracted $853M inflows; BlackRock's IBIT led",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk"
     },
     {
-      "headline": "Stacks ranks first in Bitfinex report on Bitcoin usage",
-      "take": "Stacks ranks first in Bitfinex report measuring Bitcoin layer-two usage",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-ranks-first-bitfinex-bitcoin-usage/"
-    },
-    {
       "headline": "Hyperliquid\u2019s RWA perps boom is eating into the revenue that backs HYPE",
-      "take": "Hyperliquid's RWA perpetuals growth is eroding HYPE token revenue backing",
+      "take": "Hyperliquid RWA perps growth pressuring HYPE token revenue",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
     },
     {
-      "headline": "Santiment reports 2.27M new Bitcoin wallets amid Coldcard custody concerns",
-      "take": "Bitcoin wallet growth accelerates with 2.27M new addresses created",
+      "headline": "EURe\u2019s share of crypto card spending drops to 2% as USDC leads",
+      "take": "EURe stablecoin market share fell to 2% as USDC dominates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/santiment-bitcoin-wallets-coldcard-custody-concerns/"
+      "link": "https://cryptobriefing.com/eure-crypto-card-spending-usdc-dominance/"
     },
     {
-      "headline": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-      "take": "Over 100 crypto projects failed in 2026 amid dot-com style market shakeout",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026"
+      "headline": "Stacks ranks first in Bitfinex report on Bitcoin usage",
+      "take": "Stacks ranked first for Bitcoin usage according to Bitfinex",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stacks-ranks-first-bitfinex-bitcoin-usage/"
+    },
+    {
+      "headline": "Santiment reports 2.27M new Bitcoin wallets amid Coldcard custody concerns",
+      "take": "2.27M new Bitcoin wallets emerged amid custody security discussions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/santiment-bitcoin-wallets-coldcard-custody-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Firmus transforms from Bitcoin miner to $10.5B AI infrastructure company after raising $2B",
-      "take": "Firmus shifts from Bitcoin mining to AI infrastructure with $2B raise",
+      "headline": "OpenAI blocks researcher Rob Hamilton from Bitcoin security analysis, pushing team toward Chinese AI models",
+      "take": "OpenAI blocked researcher from Bitcoin security work; team considering Chinese AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/firmus-bitcoin-miner-ai-infrastructure-company/"
+      "link": "https://cryptobriefing.com/openai-blocks-bitcoin-security-researcher/"
     },
-    {
-      "headline": "OpenAI\u2019s Sam Altman predicts exponential growth in AI token usage, framing intelligence as a utility",
-      "take": "Sam Altman predicts exponential growth in AI token usage as utility",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-altman-ai-token-usage-growth/"
-    },
-    {
-      "headline": "Robinhood unlikely to launch its own token as Ethereum already powers its new chain",
-      "take": "Robinhood skips own token launch, Ethereum powers its new blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-unlikely-launch-token/"
-    }
-  ],
-  "security": [],
-  "policy": [
     {
       "headline": "Ether.fi CEO warns EIP-8363 could harm small LSTs and consolidate power toward Lido",
-      "take": "Ether.fi CEO warns EIP-8363 could consolidate staking power toward Lido",
+      "take": "Ether.fi CEO warns EIP-8363 risks consolidating LST power toward Lido",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/eip-8363-small-lst-lido-centralization/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "World Liberty Financial received $100M from businessman under UK money laundering investigation",
+      "take": "World Liberty Financial received $100M from UK money laundering investigation subject",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-liberty-100m-zhou-investigation/"
     },
     {
-      "headline": "Trump signals willingness to end Iran conflict if Strait of Hormuz reopens",
-      "take": "Trump signals willingness to end Iran conflict if Strait reopens",
+      "headline": "Meta AI model breach intensifies calls for stronger cybersecurity safeguards",
+      "take": "Meta AI model breach intensifies cybersecurity safeguard calls",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-strait-of-hormuz-conflict/"
+      "link": "https://cryptobriefing.com/meta-ai-model-breach-intensifies-calls-for-stronger-cybersecurity-safeguards/"
+    },
+    {
+      "headline": "Shenzhen employee sentenced to prison for $87K Bitcoin extortion after posing as overseas hacker",
+      "take": "Shenzhen employee imprisoned for $87K Bitcoin extortion via false hacker posture",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/shenzhen-employee-bitcoin-extortion-sentence/"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
+      "take": "Brazil imposing 24-hour hold on self-custody wallet transfers to combat fraud",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss"
     }
   ]
 }

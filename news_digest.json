@@ -1,96 +1,102 @@
 {
-  "generated": "2026-08-10T04:57:37.970797+00:00",
-  "ts": 1786337857,
+  "generated": "2026-08-10T08:07:23.454977+00:00",
+  "ts": 1786349243,
   "market": [
     {
-      "headline": "Bitcoin tops $65,000 with US inflation data due this week",
-      "take": "Bitcoin tops $65,000 as US inflation data approaches this week",
+      "headline": "Bitcoin tops $65,000 with U.S. inflation data due this week",
+      "take": "Bitcoin tops $65,000 as US inflation data due this week",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week"
     },
     {
-      "headline": "US dollar nears two-month low ahead of inflation data as weak jobs report reshapes Fed expectations",
-      "take": "Dollar nears two-month low ahead of inflation data on weak jobs",
+      "headline": "Tether mints another 1B USDT as stablecoin supply approaches 189 billion",
+      "take": "Tether mints another 1B USDT, stablecoin supply approaches 189 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-two-month-low-inflation-data/"
+      "link": "https://cryptobriefing.com/tether-mints-1b-usdt-treasury/"
     },
     {
-      "headline": "US stocks\u2019 open interest hits $2B on crypto exchanges, surpassing precious metals for the first time",
-      "take": "US stocks open interest hits $2B on crypto exchanges, surpassing precious metals",
+      "headline": "Bitcoin perpetual futures volume on Binance hits 6th-lowest day in five years",
+      "take": "Bitcoin perpetual futures volume on Binance hits 6th-lowest in five years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-stocks-open-interest-surpasses-precious-metals-crypto/"
+      "link": "https://cryptobriefing.com/bitcoin-binance-perps-volume-five-year-low/"
     },
     {
-      "headline": "Emerging-market stocks rise as Federal Reserve eases rate hike expectations",
-      "take": "Emerging-market stocks rise as Fed eases rate hike expectations",
+      "headline": "BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion",
+      "take": "BStocks captures 85% of tokenized equity DEX volume, trading hits $9.4B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-stocks-rise-fed-rate-expectations/"
+      "link": "https://cryptobriefing.com/bstocks-tokenized-equity-dex-volume-july/"
     },
     {
-      "headline": "$TUT sees $44M in liquidations, outpacing $BTC and $ETH",
-      "take": "TUT token sees $44M in liquidations, outpacing Bitcoin and Ethereum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tut-44m-liquidations-outpace-btc-eth/"
+      "headline": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+      "take": "XRP lagging in crypto bounce despite steady ETF investor inflows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money"
     }
   ],
   "business": [
     {
-      "headline": "NYSE builds onchain settlement platform for tokenized securities",
-      "take": "NYSE builds onchain settlement platform for tokenized securities trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nyse-onchain-settlement-tokenized-securities/"
+      "headline": "Inside stablecoin firm BVNK\u2019s journey to a $1.8B acquisition by Mastercard",
+      "take": "Mastercard acquires stablecoin firm BVNK for $1.8 billion",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard"
     },
     {
-      "headline": "Grayscale withdraws ETF registration applications for ADA, HBAR, and DOT",
-      "take": "Grayscale withdraws ETF registration applications for ADA, HBAR, DOT",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-withdraws-etf-ada-hbar-dot/"
+      "headline": "Robinhood to Offer Access to Crypto Trading in UK From This Week",
+      "take": "Robinhood brings crypto trading to UK app via Bitstamp partnership",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-10/robinhood-to-offer-access-to-crypto-trading-in-uk-from-this-week"
     },
     {
-      "headline": "Strategy\u2019s $4B reserve backs STRC at $95, eyes $18B capacity reopening",
-      "take": "Strategy's $4B reserve backs STRC at $95, eyes $18B capacity reopening",
+      "headline": "Solana Foundation open-sources tokens directory and API for verified assets",
+      "take": "Solana Foundation open-sources tokens directory and API for verified assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategys-4b-reserve-backs-strc-at-95-eyes-18b-capacity-reopening/"
+      "link": "https://cryptobriefing.com/solana-foundation-open-sources-tokens-directory/"
+    },
+    {
+      "headline": "H100 Group completes world\u2019s first Bitcoin-for-Bitcoin M&A deal",
+      "take": "H100 Group completes world's first Bitcoin-for-Bitcoin M&A deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/h100-group-bitcoin-for-bitcoin-ma-deal/"
+    },
+    {
+      "headline": "Pumpfun surpasses Hyperliquid in 30-day revenue, now 3rd in crypto earnings",
+      "take": "Pumpfun surpasses Hyperliquid in 30-day revenue, now third in crypto earnings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pumpfun-surpasses-hyperliquid-in-30-day-revenue-now-3rd-in-crypto-earnings/"
     }
   ],
   "security": [
     {
-      "headline": "North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showing up in the wild",
-      "take": "North Korean hacking groups building AI-powered cyberattack tools actively deployed",
+      "headline": "Coinsbuy loses over $8M in funds drained by attacker who laundered proceeds through Monero",
+      "take": "Coinsbuy loses over $8M in funds drained, attacker laundered via Monero",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korean-hackers-ai-cyberattack-tools/"
+      "link": "https://cryptobriefing.com/coinsbuy-hack-8m-funds-drained/"
     },
     {
-      "headline": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
-      "take": "World Liberty received $100M from businessman investigated for money laundering",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss"
+      "headline": "Pump.fun faces pressure as 6.875B PUMP unlock approaches",
+      "take": "Pump.fun faces pressure as 6.875 billion PUMP token unlock approaches",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pump-fun-pump-token-unlock-pressure/"
     }
   ],
   "policy": [
     {
-      "headline": "Australia suspends Cryptolink\u2019s registration over reporting failures",
-      "take": "Australia suspends Cryptolink registration over reporting failures at Bitcoin ATMs",
+      "headline": "UK Financial Conduct Authority plans regulatory framework for tokenized gold",
+      "take": "UK Financial Conduct Authority plans regulatory framework for tokenized gold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-suspends-cryptolink-registration-reporting-failures/"
+      "link": "https://cryptobriefing.com/uk-fca-tokenized-gold-regulatory-framework/"
     },
     {
-      "headline": "Beijing rules out launch of yuan stablecoin, doubles down on state-controlled digital currency",
-      "take": "Beijing rules out yuan stablecoin, doubles down on state-controlled digital currency",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/beijing-bans-yuan-stablecoin-issuance/"
+      "headline": "Australia orders Cryptolink Bitcoin ATMs offline over \u2018basic reporting\u2019 failures",
+      "take": "Australia orders Cryptolink Bitcoin ATMs offline over reporting failures",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US congressman proposes strategic Bitcoin reserve, no capital gains tax",
-      "take": "US congressman proposes strategic Bitcoin reserve with no capital gains tax",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-congressman-proposes-strategic-bitcoin-reserve-no-capital-gains-tax/"
-    },
-    {
-      "headline": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
-      "take": "Brazil tightens crypto fraud controls with new 24-hour wait on self-custody transfers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss"
+      "headline": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+      "take": "Senate postpones CLARITY Act crypto rules vote to fall session",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall"
     }
   ]
 }

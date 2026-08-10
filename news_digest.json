@@ -1,108 +1,66 @@
 {
-  "generated": "2026-08-10T10:38:21.946330+00:00",
-  "ts": 1786358301,
+  "generated": "2026-08-10T13:48:02.949257+00:00",
+  "ts": 1786369682,
   "market": [
     {
-      "headline": "US Bitcoin exchange-traded funds see strongest weekly inflows since April",
-      "take": "Bitcoin ETFs see strongest weekly inflows since April",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-weekly-inflows-strongest-since-april/"
-    },
-    {
-      "headline": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
-      "take": "Hedge funds abandon structural shorts, betting on bitcoin rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally"
-    },
-    {
-      "headline": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
-      "take": "Bitcoin volatility drops but downside protection remains expensive",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium"
-    },
-    {
-      "headline": "US markets eye CPI release for inflation, rate hike clues this week",
-      "take": "US markets await CPI data for inflation and rate signals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-markets-eye-cpi-release-for-inflation-rate-hike-clues-this-week/"
-    },
-    {
-      "headline": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
-      "take": "Standard Chartered sees tokenization driving Chainlink to $200 by 2030",
+      "headline": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
+      "take": "Bitcoin ETFs draw $854M inflows as rate-hike expectations decline",
       "source": "decrypt",
-      "link": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030"
+      "link": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade"
+    },
+    {
+      "headline": "Michael Saylor boosts Strategy cash reserves to $5B through asset sales",
+      "take": "Michael Saylor raises Strategy cash reserves to $5B through asset sales",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/michael-saylor-boosts-strategy-cash-reserves-to-5b-through-asset-sales/"
+    },
+    {
+      "headline": "Emerging-market stocks fall below half the valuation of US equities for first time in two decades",
+      "take": "Emerging-market stocks fall below half US equity valuation for first time in two decades",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/emerging-market-stocks-valuation-gap-us-equities/"
     }
   ],
   "business": [
     {
-      "headline": "Fomo surpasses Polymarket in 24-hour revenue as social trading heats up on Solana",
-      "take": "Fomo surpasses Polymarket in daily revenue as Solana social trading grows",
+      "headline": "Solana integrates first Strategy STRC product via Solstice Finance",
+      "take": "Solana integrates first Strategy STRC product through Solstice Finance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomo-surpasses-polymarket-24-hour-revenue/"
+      "link": "https://cryptobriefing.com/solana-strategy-strc-solstice-finance/"
     },
     {
-      "headline": "Inside stablecoin firm BVNK\u2019s journey to a $1.8B acquisition by Mastercard",
-      "take": "Mastercard acquires stablecoin firm BVNK for $1.8 billion",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard"
-    },
-    {
-      "headline": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-      "take": "Robinhood launches AI-powered crypto trading app in UK",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance"
-    },
-    {
-      "headline": "Kalshi adopts Nasdaq-inspired surveillance systems to court institutional traders",
-      "take": "Kalshi adopts Nasdaq-style surveillance to attract institutional traders",
+      "headline": "Centrifuge tokenizes JAAA fund, featuring 36 CLOs with no defaults",
+      "take": "Centrifuge tokenizes JAAA fund with 36 CLOs and zero defaults",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-nasdaq-trade-surveillance/"
+      "link": "https://cryptobriefing.com/centrifuge-tokenizes-jaaa-clo-fund/"
     },
     {
-      "headline": "IBM bStock dividends now available in Spot Wallets, $1.69 per share",
-      "take": "IBM stock dividends now available in Spot Wallets at $1.69 share",
+      "headline": "Pendle brings srUSDat fixed-yield trading to Monad, hits $111M TVL",
+      "take": "Pendle brings fixed-yield trading to Monad, reaches $111M TVL",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ibm-bstock-dividends-spot-wallets/"
+      "link": "https://cryptobriefing.com/pendle-srusd%d0%b0%d1%82-fixed-yield-monad/"
+    },
+    {
+      "headline": "Discovered Materials raises $9M to build AI agents that find better chip materials in months, not decades",
+      "take": "Discovered Materials raises $9M for AI agents to accelerate chip material discovery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/discovered-materials-raises-9m-ai-chip-materials/"
     }
   ],
   "security": [
     {
-      "headline": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
-      "take": "Bybit sues North Korea over $1.5B hack, freezes assets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets"
-    },
-    {
-      "headline": "North Korea\u2019s Kimsuky integrates AI into cyberattacks targeting crypto and finance",
-      "take": "North Korea's Kimsuky integrates AI into crypto and finance cyberattacks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Bitcoin (BTC) ETF Inflows Hit $850 Million After Coldcard Wallet Hack",
-      "take": "Bitcoin ETF inflows surge after Coldcard wallet security incident",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack"
+      "headline": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
+      "take": "Crypto exchange Coinsbuy loses $8M in coordinated two-blockchain attack",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack"
     }
   ],
   "policy": [
     {
-      "headline": "UK regulators to prepare tokenized gold framework: Report",
-      "take": "UK regulators prepare framework for tokenized gold trading",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Key Republican urges US to block advanced chips to China",
-      "take": "Republican lawmaker urges US to restrict advanced chip exports to China",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/republican-urges-us-block-advanced-chips-china/"
-    },
-    {
-      "headline": "Sanders urges OpenAI, Anthropic, Meta to pause AI development amid regulatory push",
-      "take": "Senator Sanders pushes OpenAI, Anthropic, Meta to pause AI development",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sanders-urges-openai-anthropic-meta-to-pause-ai-development-amid-regulatory-push/"
+      "headline": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+      "take": "UK financial watchdog drafts new rules for tokenized gold trading",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold"
     }
   ]
 }

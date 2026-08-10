@@ -1,72 +1,120 @@
 {
-  "generated": "2026-08-09T21:50:40.440156+00:00",
-  "ts": 1786312240,
+  "generated": "2026-08-10T02:37:05.819774+00:00",
+  "ts": 1786329425,
   "market": [
     {
-      "headline": "Bitcoin investors pour $853 million into spot ETFs. BlackRock\u2019s IBIT claims the bulk",
-      "take": "Bitcoin spot ETFs attracted $853M inflows, BlackRock's IBIT leading",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk"
+      "headline": "China injects 18 billion yuan via 7-day reverse repos at 1.40% as PBOC keeps liquidity taps open",
+      "take": "China injects liquidity via reverse repos as PBOC keeps money supply open",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-pboc-reverse-repo-injection-liquidity/"
     },
     {
-      "headline": "Hyperliquid reaches 263,419 active perpetual traders, commanding nearly 70% of on-chain perp activity",
-      "take": "Hyperliquid controls nearly 70% on-chain perpetual activity with 263k traders",
+      "headline": "BOJ signals potential faster rate hikes amid rising inflation risks",
+      "take": "BOJ signals potential faster rate hikes amid rising inflation pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-263k-active-perp-traders/"
+      "link": "https://cryptobriefing.com/boj-signals-potential-faster-rate-hikes-amid-rising-inflation-risks/"
     },
     {
-      "headline": "Pump.fun surpasses Hyperliquid in 30-day revenue as $PUMP rises 12%",
-      "take": "Pump.fun surpassed Hyperliquid in 30-day revenue as PUMP token rose",
+      "headline": "Gold steadies near $4,345 as US jobs data dampens Fed rate hike outlook",
+      "take": "Gold steadies near $4,345 as US jobs data damps Fed rate hike bets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-surpasses-hyperliquid-revenue/"
+      "link": "https://cryptobriefing.com/gold-steadies-near-4345-as-us-jobs-data-dampens-fed-rate-hike-outlook/"
+    },
+    {
+      "headline": "US-Japan yen intervention signals waning dollar dominance, boosts gold demand",
+      "take": "US-Japan yen intervention signals waning dollar dominance, boosts gold",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-japan-yen-intervention-signals-waning-dollar-dominance-boosts-gold-demand/"
+    },
+    {
+      "headline": "$TUT sees $44M in liquidations, outpacing $BTC and $ETH",
+      "take": "$TUT sees $44M in liquidations, outpacing $BTC and $ETH volatility",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tut-44m-liquidations-outpace-btc-eth/"
     }
   ],
   "business": [
     {
-      "headline": "Core Scientific shareholders reject $9B sale amid AMD partnership",
-      "take": "Core Scientific shareholders rejected $9B sale despite AMD partnership",
+      "headline": "Solana leads all blockchains with 6 million monthly USDC senders, setting a new record",
+      "take": "Solana leads blockchains with 6 million monthly USDC senders record",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/core-scientific-rejects-sale-amd-partnership/"
+      "link": "https://cryptobriefing.com/solana-record-usdc-monthly-senders/"
     },
     {
-      "headline": "World Liberty Financial received $100M from businessman under UK money laundering investigation",
-      "take": "World Liberty Financial received $100M from UK-investigated businessman",
+      "headline": "Shein valued at $22B to $25B ahead of major IPO: Bloomberg Intelligence",
+      "take": "Shein valued at $22B to $25B ahead of major IPO filing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-100m-zhou-investigation/"
+      "link": "https://cryptobriefing.com/shein-ipo-valuation-bloomberg-intelligence/"
+    },
+    {
+      "headline": "Sony and TSMC plan 2029 mass production of next-gen image sensors",
+      "take": "Sony and TSMC plan 2029 mass production of next-gen sensors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sony-tsmc-2029-image-sensors-joint-venture/"
+    },
+    {
+      "headline": "Strategy\u2019s $4B reserve backs STRC at $95, eyes $18B capacity reopening",
+      "take": "Strategy's $4B reserve backs STRC at $95, eyes $18B capacity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategys-4b-reserve-backs-strc-at-95-eyes-18b-capacity-reopening/"
+    },
+    {
+      "headline": "Hyperliquid\u2019s RWA perps boom is eating into the revenue that backs HYPE",
+      "take": "Hyperliquid's RWA perps boom eroding revenue backing HYPE token",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
     }
   ],
   "security": [
     {
-      "headline": "Meta AI model breach intensifies calls for stronger cybersecurity safeguards",
-      "take": "Meta AI model breach sparks renewed cybersecurity safeguard demands",
+      "headline": "North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showing up in the wild",
+      "take": "North Korean hackers building AI-powered cyberattack tools in wild",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-ai-model-breach-intensifies-calls-for-stronger-cybersecurity-safeguards/"
+      "link": "https://cryptobriefing.com/north-korean-hackers-ai-cyberattack-tools/"
     },
     {
-      "headline": "Shenzhen employee sentenced to prison for $87K Bitcoin extortion after posing as overseas hacker",
-      "take": "Shenzhen employee imprisoned for $87K Bitcoin extortion scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/shenzhen-employee-bitcoin-extortion-sentence/"
+      "headline": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
+      "take": "World Liberty received $100 million from money laundering-investigated businessman",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss"
     },
     {
-      "headline": "OpenAI blocks researcher Rob Hamilton from Bitcoin security analysis, pushing team toward Chinese AI models",
-      "take": "OpenAI blocked researcher from Bitcoin security work, favoring Chinese AI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-blocks-bitcoin-security-researcher/"
+      "headline": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
+      "take": "Brazil tightens crypto fraud controls with 24-hour self-custody transfer wait",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto lobby fails to secure Clarity Act vote before August recess",
-      "take": "Crypto lobby failed to secure Clarity Act vote before Senate recess",
+      "headline": "US congressman proposes strategic Bitcoin reserve, no capital gains tax",
+      "take": "US congressman proposes strategic Bitcoin reserve, no capital gains tax",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-vote-delayed-august-recess/"
+      "link": "https://cryptobriefing.com/us-congressman-proposes-strategic-bitcoin-reserve-no-capital-gains-tax/"
     },
     {
-      "headline": "Brazil mandates 24-hour delay on crypto transfers over $10K starting 2027",
-      "take": "Brazil mandates 24-hour delay on crypto transfers over $10K from 2027",
+      "headline": "Ex-US defense secretary calls CLARITY Act a \u2018national security bill\u2019",
+      "take": "Ex-US defense secretary calls CLARITY Act a national security bill",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Federal Reserve Chair Kevin Warsh\u2019s talks with Trump raise independence concerns",
+      "take": "Federal Reserve Chair Warsh's Trump talks raise Fed independence concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazil-crypto-transfer-delay-2027/"
+      "link": "https://cryptobriefing.com/fed-chair-warsh-trump-independence-concerns/"
+    },
+    {
+      "headline": "Japan\u2019s Cabinet Office pressures Bank of Japan to sync monetary policy with government growth agenda",
+      "take": "Japan's Cabinet Office pressures Bank of Japan to sync growth agenda",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-cabinet-office-boj-monetary-policy-coordination/"
+    },
+    {
+      "headline": "Washington lobbyists skeptical of prediction market limits before Congress ends",
+      "take": "Washington lobbyists skeptical of prediction market limits before Congress ends",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lobbyists-skeptical-prediction-market-limits-congress/"
     }
   ]
 }

@@ -1,39 +1,45 @@
 {
-  "generated": "2026-08-10T08:07:23.454977+00:00",
-  "ts": 1786349243,
+  "generated": "2026-08-10T10:38:21.946330+00:00",
+  "ts": 1786358301,
   "market": [
     {
-      "headline": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-      "take": "Bitcoin tops $65,000 as US inflation data due this week",
+      "headline": "US Bitcoin exchange-traded funds see strongest weekly inflows since April",
+      "take": "Bitcoin ETFs see strongest weekly inflows since April",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-weekly-inflows-strongest-since-april/"
+    },
+    {
+      "headline": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "take": "Hedge funds abandon structural shorts, betting on bitcoin rally",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week"
+      "link": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally"
     },
     {
-      "headline": "Tether mints another 1B USDT as stablecoin supply approaches 189 billion",
-      "take": "Tether mints another 1B USDT, stablecoin supply approaches 189 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-mints-1b-usdt-treasury/"
-    },
-    {
-      "headline": "Bitcoin perpetual futures volume on Binance hits 6th-lowest day in five years",
-      "take": "Bitcoin perpetual futures volume on Binance hits 6th-lowest in five years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-binance-perps-volume-five-year-low/"
-    },
-    {
-      "headline": "BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion",
-      "take": "BStocks captures 85% of tokenized equity DEX volume, trading hits $9.4B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bstocks-tokenized-equity-dex-volume-july/"
-    },
-    {
-      "headline": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-      "take": "XRP lagging in crypto bounce despite steady ETF investor inflows",
+      "headline": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+      "take": "Bitcoin volatility drops but downside protection remains expensive",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money"
+      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium"
+    },
+    {
+      "headline": "US markets eye CPI release for inflation, rate hike clues this week",
+      "take": "US markets await CPI data for inflation and rate signals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-markets-eye-cpi-release-for-inflation-rate-hike-clues-this-week/"
+    },
+    {
+      "headline": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
+      "take": "Standard Chartered sees tokenization driving Chainlink to $200 by 2030",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030"
     }
   ],
   "business": [
+    {
+      "headline": "Fomo surpasses Polymarket in 24-hour revenue as social trading heats up on Solana",
+      "take": "Fomo surpasses Polymarket in daily revenue as Solana social trading grows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fomo-surpasses-polymarket-24-hour-revenue/"
+    },
     {
       "headline": "Inside stablecoin firm BVNK\u2019s journey to a $1.8B acquisition by Mastercard",
       "take": "Mastercard acquires stablecoin firm BVNK for $1.8 billion",
@@ -41,62 +47,62 @@
       "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard"
     },
     {
-      "headline": "Robinhood to Offer Access to Crypto Trading in UK From This Week",
-      "take": "Robinhood brings crypto trading to UK app via Bitstamp partnership",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/robinhood-to-offer-access-to-crypto-trading-in-uk-from-this-week"
+      "headline": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "take": "Robinhood launches AI-powered crypto trading app in UK",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance"
     },
     {
-      "headline": "Solana Foundation open-sources tokens directory and API for verified assets",
-      "take": "Solana Foundation open-sources tokens directory and API for verified assets",
+      "headline": "Kalshi adopts Nasdaq-inspired surveillance systems to court institutional traders",
+      "take": "Kalshi adopts Nasdaq-style surveillance to attract institutional traders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-foundation-open-sources-tokens-directory/"
+      "link": "https://cryptobriefing.com/kalshi-nasdaq-trade-surveillance/"
     },
     {
-      "headline": "H100 Group completes world\u2019s first Bitcoin-for-Bitcoin M&A deal",
-      "take": "H100 Group completes world's first Bitcoin-for-Bitcoin M&A deal",
+      "headline": "IBM bStock dividends now available in Spot Wallets, $1.69 per share",
+      "take": "IBM stock dividends now available in Spot Wallets at $1.69 share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/h100-group-bitcoin-for-bitcoin-ma-deal/"
-    },
-    {
-      "headline": "Pumpfun surpasses Hyperliquid in 30-day revenue, now 3rd in crypto earnings",
-      "take": "Pumpfun surpasses Hyperliquid in 30-day revenue, now third in crypto earnings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-surpasses-hyperliquid-in-30-day-revenue-now-3rd-in-crypto-earnings/"
+      "link": "https://cryptobriefing.com/ibm-bstock-dividends-spot-wallets/"
     }
   ],
   "security": [
     {
-      "headline": "Coinsbuy loses over $8M in funds drained by attacker who laundered proceeds through Monero",
-      "take": "Coinsbuy loses over $8M in funds drained, attacker laundered via Monero",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinsbuy-hack-8m-funds-drained/"
+      "headline": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
+      "take": "Bybit sues North Korea over $1.5B hack, freezes assets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets"
     },
     {
-      "headline": "Pump.fun faces pressure as 6.875B PUMP unlock approaches",
-      "take": "Pump.fun faces pressure as 6.875 billion PUMP token unlock approaches",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-pump-token-unlock-pressure/"
+      "headline": "North Korea\u2019s Kimsuky integrates AI into cyberattacks targeting crypto and finance",
+      "take": "North Korea's Kimsuky integrates AI into crypto and finance cyberattacks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss"
+    },
+    {
+      "headline": "Bitcoin (BTC) ETF Inflows Hit $850 Million After Coldcard Wallet Hack",
+      "take": "Bitcoin ETF inflows surge after Coldcard wallet security incident",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack"
     }
   ],
   "policy": [
     {
-      "headline": "UK Financial Conduct Authority plans regulatory framework for tokenized gold",
-      "take": "UK Financial Conduct Authority plans regulatory framework for tokenized gold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-fca-tokenized-gold-regulatory-framework/"
-    },
-    {
-      "headline": "Australia orders Cryptolink Bitcoin ATMs offline over \u2018basic reporting\u2019 failures",
-      "take": "Australia orders Cryptolink Bitcoin ATMs offline over reporting failures",
+      "headline": "UK regulators to prepare tokenized gold framework: Report",
+      "take": "UK regulators prepare framework for tokenized gold trading",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
-      "take": "Senate postpones CLARITY Act crypto rules vote to fall session",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall"
+      "headline": "Key Republican urges US to block advanced chips to China",
+      "take": "Republican lawmaker urges US to restrict advanced chip exports to China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/republican-urges-us-block-advanced-chips-china/"
+    },
+    {
+      "headline": "Sanders urges OpenAI, Anthropic, Meta to pause AI development amid regulatory push",
+      "take": "Senator Sanders pushes OpenAI, Anthropic, Meta to pause AI development",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sanders-urges-openai-anthropic-meta-to-pause-ai-development-amid-regulatory-push/"
     }
   ]
 }

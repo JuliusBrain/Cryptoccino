@@ -1,120 +1,96 @@
 {
-  "generated": "2026-08-10T02:37:05.819774+00:00",
-  "ts": 1786329425,
+  "generated": "2026-08-10T04:57:37.970797+00:00",
+  "ts": 1786337857,
   "market": [
     {
-      "headline": "China injects 18 billion yuan via 7-day reverse repos at 1.40% as PBOC keeps liquidity taps open",
-      "take": "China injects liquidity via reverse repos as PBOC keeps money supply open",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-pboc-reverse-repo-injection-liquidity/"
+      "headline": "Bitcoin tops $65,000 with US inflation data due this week",
+      "take": "Bitcoin tops $65,000 as US inflation data approaches this week",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week"
     },
     {
-      "headline": "BOJ signals potential faster rate hikes amid rising inflation risks",
-      "take": "BOJ signals potential faster rate hikes amid rising inflation pressure",
+      "headline": "US dollar nears two-month low ahead of inflation data as weak jobs report reshapes Fed expectations",
+      "take": "Dollar nears two-month low ahead of inflation data on weak jobs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boj-signals-potential-faster-rate-hikes-amid-rising-inflation-risks/"
+      "link": "https://cryptobriefing.com/us-dollar-two-month-low-inflation-data/"
     },
     {
-      "headline": "Gold steadies near $4,345 as US jobs data dampens Fed rate hike outlook",
-      "take": "Gold steadies near $4,345 as US jobs data damps Fed rate hike bets",
+      "headline": "US stocks\u2019 open interest hits $2B on crypto exchanges, surpassing precious metals for the first time",
+      "take": "US stocks open interest hits $2B on crypto exchanges, surpassing precious metals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-steadies-near-4345-as-us-jobs-data-dampens-fed-rate-hike-outlook/"
+      "link": "https://cryptobriefing.com/us-stocks-open-interest-surpasses-precious-metals-crypto/"
     },
     {
-      "headline": "US-Japan yen intervention signals waning dollar dominance, boosts gold demand",
-      "take": "US-Japan yen intervention signals waning dollar dominance, boosts gold",
+      "headline": "Emerging-market stocks rise as Federal Reserve eases rate hike expectations",
+      "take": "Emerging-market stocks rise as Fed eases rate hike expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-japan-yen-intervention-signals-waning-dollar-dominance-boosts-gold-demand/"
+      "link": "https://cryptobriefing.com/emerging-market-stocks-rise-fed-rate-expectations/"
     },
     {
       "headline": "$TUT sees $44M in liquidations, outpacing $BTC and $ETH",
-      "take": "$TUT sees $44M in liquidations, outpacing $BTC and $ETH volatility",
+      "take": "TUT token sees $44M in liquidations, outpacing Bitcoin and Ethereum",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/tut-44m-liquidations-outpace-btc-eth/"
     }
   ],
   "business": [
     {
-      "headline": "Solana leads all blockchains with 6 million monthly USDC senders, setting a new record",
-      "take": "Solana leads blockchains with 6 million monthly USDC senders record",
+      "headline": "NYSE builds onchain settlement platform for tokenized securities",
+      "take": "NYSE builds onchain settlement platform for tokenized securities trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-record-usdc-monthly-senders/"
+      "link": "https://cryptobriefing.com/nyse-onchain-settlement-tokenized-securities/"
     },
     {
-      "headline": "Shein valued at $22B to $25B ahead of major IPO: Bloomberg Intelligence",
-      "take": "Shein valued at $22B to $25B ahead of major IPO filing",
+      "headline": "Grayscale withdraws ETF registration applications for ADA, HBAR, and DOT",
+      "take": "Grayscale withdraws ETF registration applications for ADA, HBAR, DOT",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/shein-ipo-valuation-bloomberg-intelligence/"
-    },
-    {
-      "headline": "Sony and TSMC plan 2029 mass production of next-gen image sensors",
-      "take": "Sony and TSMC plan 2029 mass production of next-gen sensors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sony-tsmc-2029-image-sensors-joint-venture/"
+      "link": "https://cryptobriefing.com/grayscale-withdraws-etf-ada-hbar-dot/"
     },
     {
       "headline": "Strategy\u2019s $4B reserve backs STRC at $95, eyes $18B capacity reopening",
-      "take": "Strategy's $4B reserve backs STRC at $95, eyes $18B capacity",
+      "take": "Strategy's $4B reserve backs STRC at $95, eyes $18B capacity reopening",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/strategys-4b-reserve-backs-strc-at-95-eyes-18b-capacity-reopening/"
-    },
-    {
-      "headline": "Hyperliquid\u2019s RWA perps boom is eating into the revenue that backs HYPE",
-      "take": "Hyperliquid's RWA perps boom eroding revenue backing HYPE token",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype"
     }
   ],
   "security": [
     {
       "headline": "North Korean hacking groups are building AI-powered cyberattack tools, and the results are already showing up in the wild",
-      "take": "North Korean hackers building AI-powered cyberattack tools in wild",
+      "take": "North Korean hacking groups building AI-powered cyberattack tools actively deployed",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/north-korean-hackers-ai-cyberattack-tools/"
     },
     {
       "headline": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
-      "take": "World Liberty received $100 million from money laundering-investigated businessman",
+      "take": "World Liberty received $100M from businessman investigated for money laundering",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
-      "take": "Brazil tightens crypto fraud controls with 24-hour self-custody transfer wait",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss"
     }
   ],
   "policy": [
     {
+      "headline": "Australia suspends Cryptolink\u2019s registration over reporting failures",
+      "take": "Australia suspends Cryptolink registration over reporting failures at Bitcoin ATMs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-suspends-cryptolink-registration-reporting-failures/"
+    },
+    {
+      "headline": "Beijing rules out launch of yuan stablecoin, doubles down on state-controlled digital currency",
+      "take": "Beijing rules out yuan stablecoin, doubles down on state-controlled digital currency",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/beijing-bans-yuan-stablecoin-issuance/"
+    },
+    {
       "headline": "US congressman proposes strategic Bitcoin reserve, no capital gains tax",
-      "take": "US congressman proposes strategic Bitcoin reserve, no capital gains tax",
+      "take": "US congressman proposes strategic Bitcoin reserve with no capital gains tax",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-congressman-proposes-strategic-bitcoin-reserve-no-capital-gains-tax/"
     },
     {
-      "headline": "Ex-US defense secretary calls CLARITY Act a \u2018national security bill\u2019",
-      "take": "Ex-US defense secretary calls CLARITY Act a national security bill",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Federal Reserve Chair Kevin Warsh\u2019s talks with Trump raise independence concerns",
-      "take": "Federal Reserve Chair Warsh's Trump talks raise Fed independence concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chair-warsh-trump-independence-concerns/"
-    },
-    {
-      "headline": "Japan\u2019s Cabinet Office pressures Bank of Japan to sync monetary policy with government growth agenda",
-      "take": "Japan's Cabinet Office pressures Bank of Japan to sync growth agenda",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-cabinet-office-boj-monetary-policy-coordination/"
-    },
-    {
-      "headline": "Washington lobbyists skeptical of prediction market limits before Congress ends",
-      "take": "Washington lobbyists skeptical of prediction market limits before Congress ends",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lobbyists-skeptical-prediction-market-limits-congress/"
+      "headline": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
+      "take": "Brazil tightens crypto fraud controls with new 24-hour wait on self-custody transfers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss"
     }
   ]
 }

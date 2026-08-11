@@ -1,102 +1,108 @@
 {
-  "generated": "2026-08-11T16:12:30.746196+00:00",
-  "ts": 1786464750,
+  "generated": "2026-08-11T19:28:20.354985+00:00",
+  "ts": 1786476500,
   "market": [
     {
-      "headline": "Bitcoin slips toward $64,000 as traders await Wednesday\u2019s inflation test",
-      "take": "Bitcoin slides toward $64k as inflation data looms this week",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-11-bitcoin-slips-toward-64000-as-traders-await-wednesdays-inflation-test-411418"
+      "headline": "XRP drops below $1 for the first time in nearly two years",
+      "take": "XRP drops below $1 for first time in nearly two years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-drops-below-1-dollar-coreum-bridge-exploit/"
     },
     {
-      "headline": "Strategy\u2019s MSTR daily trading volume now surpasses JP Morgan\u2019s",
-      "take": "Microstrategy's daily trading volume now exceeds JPMorgan's",
+      "headline": "Ethereum buyers accumulate at 7x normal pace ahead of US CPI report",
+      "take": "Ethereum buyers accumulate at 7x normal pace before US CPI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mstr-trading-volume-surpasses-jp-morgan/"
+      "link": "https://cryptobriefing.com/ethereum-accumulation-us-cpi-report/"
     },
     {
-      "headline": "Record short bets against global bonds raise stakes for US inflation reports",
-      "take": "Record short bets against global bonds signal heightened inflation sensitivity",
+      "headline": "Bitcoin taker sell volume spikes to $161.8M in one minute",
+      "take": "Bitcoin taker sell volume spikes to $161.8M in single minute",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/record-short-bets-bonds-inflation-report-stakes/"
+      "link": "https://cryptobriefing.com/bitcoin-taker-sell-volume-spike-162m/"
     },
     {
-      "headline": "US stock futures rise as traders brace for July inflation data",
-      "take": "US stock futures climb as traders prepare for July inflation report",
+      "headline": "Solana daily transactions reach record 172M on August 10",
+      "take": "Solana daily transactions reach record 172M on August 10",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-stock-futures-rise-inflation-data-fed/"
+      "link": "https://cryptobriefing.com/solana-record-172m-daily-transactions/"
     },
     {
-      "headline": "NY Fed reports credit-card balances rise by $21B to $1.26T in Q2",
-      "take": "US credit card balances jumped $21B to $1.26T in Q2",
+      "headline": "Large bank enables 25% LTV borrowing on Bitwise Solana Staking ETF",
+      "take": "Large bank enables 25% LTV borrowing on Bitwise Solana ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ny-fed-credit-card-balances-q2-2026/"
+      "link": "https://cryptobriefing.com/bank-enables-ltv-borrowing-bsol-etf/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "take": "Crypto-friendly bank Erebor seeks $1.5B funding at $9.5B valuation",
+      "headline": "ENS Foundation gains control of $65M endowment after tokenholder vote",
+      "take": "ENS Foundation gains control of $65M endowment after tokenholder vote",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ens-foundation-65m-endowment-tokenholder-vote/"
+    },
+    {
+      "headline": "CME Group launches compute futures for trading on October 5",
+      "take": "CME Group launches compute futures for trading on October 5",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cme-group-compute-futures-launch/"
+    },
+    {
+      "headline": "Stacks launches Genesis Bond, opens enrollment on Sept 10",
+      "take": "Stacks launches Genesis Bond, opens enrollment on September 10",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stacks-genesis-bond-bitcoin-staking/"
+    },
+    {
+      "headline": "Brazil's largest lender Ita\u00fa is stepping deeper into the tokenization",
+      "take": "Brazil's largest lender Ita\u00fa steps deeper into tokenization",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft"
+      "link": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization"
     },
     {
-      "headline": "eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth",
-      "take": "eToro acquires TradeZero for up to $231M to expand US equities",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-11-etoro-to-buy-tradezero-for-231-million-equities-drive-q2-growth-411417"
-    },
-    {
-      "headline": "Optimism\u2019s OP Mainnet posts 3x transaction growth since early 2024",
-      "take": "Optimism OP Mainnet achieves 3x transaction growth since early 2024",
+      "headline": "Nasdaq acquires off-exchange trading venue LeveL to expand market role",
+      "take": "Nasdaq acquires off-exchange trading venue LeveL to expand market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/optimism-op-mainnet-3x-transaction-growth/"
-    },
-    {
-      "headline": "Lido Earn enables instant withdrawals with new buffer system",
-      "take": "Lido Earn enables instant withdrawals via new buffer system",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-earn-instant-withdrawals-buffer-system/"
-    },
-    {
-      "headline": "Blockchain platforms tokenize Pok\u00e9mon cards as trading volume hits $124.5M",
-      "take": "Blockchain platforms tokenize Pok\u00e9mon cards, reach $124.5M trading volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-tokenization-collectibles-market/"
+      "link": "https://cryptobriefing.com/nasdaq-acquires-level-dark-pool/"
     }
   ],
   "security": [
     {
-      "headline": "Spark Finance navigates $633M spUSDT stress window with yield and liquidity intact",
-      "take": "Spark Finance navigates $633M spUSDT stress event, yields intact",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-finance-spusdt-633m-stress-window-analysis/"
+      "headline": "CFTC Charges Goliath Ventures Inc. and CEO with $400 Million Fraud Scheme",
+      "take": "CFTC charges Goliath Ventures and CEO with $400M fraud scheme",
+      "source": "cftc_enforcement",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9280-26"
     },
     {
-      "headline": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-      "take": "OpenAI's only dedicated ethicist departs with no replacement planned",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft"
+      "headline": "cbETH remediation reaches third round as Moonwell distributes 147 ETH to affected users",
+      "take": "cbETH remediation reaches third round, Moonwell distributes 147 ETH",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cbeth-remediation-third-round-moonwell-147-eth/"
     }
   ],
   "policy": [
     {
-      "headline": "Democratic lawmakers prepare to oppose Republican crypto bills",
-      "take": "Democratic lawmakers prepare opposition to Republican-backed crypto bills",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/democratic-lawmakers-oppose-republican-crypto-bills/"
-    },
-    {
-      "headline": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-      "take": "Three Democratic women lawmakers emerge as influential crypto negotiators",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large"
-    },
-    {
-      "headline": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
-      "take": "Luke Dashjr removed as BIP editor after BIP-110 Bitcoin fork stalls",
+      "headline": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+      "take": "Russia approves trading of Bitcoin, Ethereum and USDT but not XRP",
       "source": "decrypt",
-      "link": "https://decrypt.co/375310/luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls"
+      "link": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp"
+    },
+    {
+      "headline": "ARP Digital secures Dubai VARA broker-dealer license",
+      "take": "ARP Digital secures Dubai VARA broker-dealer license approval",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SEC could propose \u2018pivotal\u2019 crypto rules that may start with token safe harbor, TD Cowen says",
+      "take": "SEC could propose pivotal crypto rules starting with token safe harbor",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-11-sec-crypto-rules-token-safe-harbor-td-cowen-411455"
+    },
+    {
+      "headline": "What\u2019s next for the Clarity Act as September brings a tough road ahead",
+      "take": "Clarity Act faces tough road ahead as September approaches",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465"
     }
   ]
 }

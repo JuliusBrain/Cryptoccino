@@ -1,120 +1,102 @@
 {
-  "generated": "2026-08-11T02:30:34.413743+00:00",
-  "ts": 1786415434,
+  "generated": "2026-08-11T04:42:50.432413+00:00",
+  "ts": 1786423370,
   "market": [
     {
-      "headline": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
-      "take": "Riot Platforms stock surges 25% after-hours on reported $9.1B Anthropic AI deal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358"
-    },
-    {
-      "headline": "Strategy builds $4.75 billion cash cushion as only bitcoin isn\u2019t enough for investors",
-      "take": "Strategy accumulates $4.75B cash as Bitcoin alone insufficient for investor demands",
+      "headline": "Bitcoin's 'strongest hands' are back, on-chain data show",
+      "take": "Bitcoin's strongest holders accumulating again, on-chain metrics indicate",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
+      "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show"
     },
     {
       "headline": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361 million",
-      "take": "Trump Media's Bitcoin holdings decline, posting $361M in crypto losses",
+      "take": "Trump Media's bitcoin holdings down $361 million in losses",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
     },
     {
-      "headline": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "take": "Bitwise analyst flags Circle as undervalued amid stablecoin growth trajectory",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions"
+      "headline": "Bitwise\u2019s Rasmussen says Circle is mispriced amid stablecoin growth",
+      "take": "Circle positioned for growth as stablecoin adoption accelerates globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-circle-mispriced-stablecoin-growth/"
     },
     {
-      "headline": "Cathie Wood predicts Federal Reserve will not tighten in 2026",
-      "take": "Cathie Wood predicts Federal Reserve will pause rate increases through 2026",
+      "headline": "Gold prices surge as central banks buy record 289 tonnes in Q2 2026: WSJ",
+      "take": "Central banks bought record gold as macro uncertainty persists",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cathie-wood-fed-no-tightening-2026/"
+      "link": "https://cryptobriefing.com/gold-prices-surge-as-central-banks-buy-record-289-tonnes-in-q2-2026-wsj/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic secures $9B deal with Riot for AI computing power",
-      "take": "Anthropic secures $9B computing power deal with Riot Platforms for AI infrastructure",
+      "headline": "Riot Platforms shares soar 25% after-hours on news of $9.1B Anthropic deal",
+      "take": "Riot Platforms agrees $9.1B deal with Anthropic for AI computing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-secures-9b-deal-with-riot-for-ai-computing-power/"
+      "link": "https://cryptobriefing.com/riot-platforms-shares-soar-25-after-hours-on-news-of-9-1b-anthropic-deal/"
+    },
+    {
+      "headline": "Anthropic targets October IPO amid competition with OpenAI",
+      "take": "Anthropic targeting October IPO amid intense AI sector competition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-targets-october-ipo-amid-competition-with-openai/"
     },
     {
       "headline": "Nvidia secures over $500B in funding commitments from six major financial groups for AI infrastructure",
-      "take": "Nvidia receives $500B+ funding commitments from six major financial groups for AI",
+      "take": "Nvidia secures over $500B in funding commitments for AI infrastructure",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nvidia-500b-ai-infrastructure-funding/"
     },
     {
-      "headline": "Anthropic embeds invisible watermarks in Claude models worldwide",
-      "take": "Anthropic embeds invisible watermarks across Claude AI models for identification",
+      "headline": "Fireplace shuts down: users have until September 30 to withdraw funds and migrate positions",
+      "take": "Fireplace platform shutting down, users must withdraw by September 30",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
-    },
-    {
-      "headline": "AWS embeds security into OpenAI, Anthropic coding tools with new Continuum integrations",
-      "take": "AWS integrates security into OpenAI and Anthropic coding tools via Continuum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aws-continuum-security-openai-anthropic-coding/"
-    },
-    {
-      "headline": "KICK files for AI and space-themed ETFs as thematic fund race heats up",
-      "take": "KICK files for AI and space-themed ETFs as thematic fund competition intensifies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kick-files-ai-space-etfs/"
+      "link": "https://cryptobriefing.com/fireplace-shuts-down-september-30-withdrawal-deadline/"
     }
   ],
   "security": [
     {
       "headline": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
-      "take": "BTCPay Server offers 3 BTC bounty after critical exploit discovery and patching",
+      "take": "BTCPay Server critical exploit prompts 3 BTC recovery bounty",
       "source": "theblock",
       "link": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353"
     },
     {
-      "headline": "SEC charges Adit Ventures Management and CEO Eric Munson for fraud",
-      "take": "SEC charges Adit Ventures Management and CEO Eric Munson for investment fraud",
+      "headline": "Ghostjacking attack uses poisoned logs to compromise AI agents",
+      "take": "Ghostjacking attack exploits poisoned logs to compromise AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-charges-adit-ventures-eric-munson-fraud/"
+      "link": "https://cryptobriefing.com/ghostjacking-attack-poisoned-logs-ai-agents/"
     },
     {
-      "headline": "Fireplace shuts down: users have until September 30 to withdraw funds and migrate positions",
-      "take": "Fireplace platform shuts down; users must withdraw funds by September 30",
+      "headline": "Anthropic embeds invisible watermarks in Claude models worldwide",
+      "take": "Anthropic embeds invisible watermarks across Claude models worldwide",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fireplace-shuts-down-september-30-withdrawal-deadline/"
-    },
-    {
-      "headline": "Hidden Text in PDFs Is Hijacking This AI Assistant",
-      "take": "Hidden text in PDFs is exploiting AI assistants, creating security vulnerability",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection"
-    },
-    {
-      "headline": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-      "take": "Australian regulators signal crackdown, prompting Bitcoin ATM removals",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"
+      "link": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC to weigh tailored crypto offering rules Friday after CLARITY Act hits gridlock",
-      "take": "SEC to consider tailored crypto offering rules Friday after CLARITY Act stalls",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-to-weigh-tailored-crypto-offering-rules-friday-after-clarity-act-hits-gridlock/"
+      "headline": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "take": "SEC proposing tailored rules for certain digital asset offerings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings"
+    },
+    {
+      "headline": "White House vows to get CLARITY across \u2018finish line\u2019 in September",
+      "take": "White House targeting September deadline for crypto regulatory clarity",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Judge stays CFTC\u2019s case against US soldier over prediction market bets",
-      "take": "Judge stays CFTC case against US soldier over prediction market wagers",
+      "take": "Judge temporarily halts CFTC case against US soldier over prediction market",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
-      "take": "UK money laundering suspect purchased $100M stake in Trump crypto business",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC charges Adit Ventures Management and CEO Eric Munson for fraud",
+      "take": "SEC charges Adit Ventures and CEO Eric Munson with fraud",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-charges-adit-ventures-eric-munson-fraud/"
     }
   ]
 }

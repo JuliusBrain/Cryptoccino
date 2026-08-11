@@ -1,112 +1,118 @@
 {
-  "generated": "2026-08-10T22:00:55.929929+00:00",
-  "ts": 1786399255,
+  "generated": "2026-08-11T02:30:34.413743+00:00",
+  "ts": 1786415434,
   "market": [
     {
-      "headline": "BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold",
-      "take": "Bitcoin sentiment improving as it decouples from stock market movements",
+      "headline": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
+      "take": "Riot Platforms stock surges 25% after-hours on reported $9.1B Anthropic AI deal",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333?utm_source=rss&utm_medium=rss"
-    },
-    {
-      "headline": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361 million",
-      "take": "Trump Media's crypto portfolio down $361 million in unrealized losses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
+      "link": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358"
     },
     {
       "headline": "Strategy builds $4.75 billion cash cushion as only bitcoin isn\u2019t enough for investors",
-      "take": "Strategy builds $4.75B cash reserve signaling investors want more than Bitcoin",
+      "take": "Strategy accumulates $4.75B cash as Bitcoin alone insufficient for investor demands",
       "source": "coindesk",
       "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
     },
     {
+      "headline": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361 million",
+      "take": "Trump Media's Bitcoin holdings decline, posting $361M in crypto losses",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
+    },
+    {
       "headline": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "take": "Bitwise analyst says Circle stablecoin undervalued amid sector growth",
+      "take": "Bitwise analyst flags Circle as undervalued amid stablecoin growth trajectory",
       "source": "coindesk",
       "link": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions"
     },
     {
       "headline": "Cathie Wood predicts Federal Reserve will not tighten in 2026",
-      "take": "Cathie Wood predicts Federal Reserve won't raise rates in 2026",
+      "take": "Cathie Wood predicts Federal Reserve will pause rate increases through 2026",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cathie-wood-fed-no-tightening-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood Chain reaches 200M transactions in 30 days, outpacing Base at its peak",
-      "take": "Robinhood Chain reaches 200M transactions in month, surpassing Base's peak",
+      "headline": "Anthropic secures $9B deal with Riot for AI computing power",
+      "take": "Anthropic secures $9B computing power deal with Riot Platforms for AI infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-200m-transactions-30-days/"
+      "link": "https://cryptobriefing.com/anthropic-secures-9b-deal-with-riot-for-ai-computing-power/"
     },
     {
-      "headline": "Hyperliquid expands markets, boosting demand for HYPE token",
-      "take": "Hyperliquid expands market offerings, increasing demand for HYPE token",
+      "headline": "Nvidia secures over $500B in funding commitments from six major financial groups for AI infrastructure",
+      "take": "Nvidia receives $500B+ funding commitments from six major financial groups for AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-expands-markets-boosting-demand-for-hype-token/"
+      "link": "https://cryptobriefing.com/nvidia-500b-ai-infrastructure-funding/"
     },
     {
-      "headline": "Fireplace shuts down: users have until September 30 to withdraw funds and migrate positions",
-      "take": "Fireplace protocol shutting down, users must withdraw by September 30",
+      "headline": "Anthropic embeds invisible watermarks in Claude models worldwide",
+      "take": "Anthropic embeds invisible watermarks across Claude AI models for identification",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fireplace-shuts-down-september-30-withdrawal-deadline/"
+      "link": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
     },
     {
-      "headline": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-      "take": "Ethereum betting its future on quantum security and AI resistance",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai"
+      "headline": "AWS embeds security into OpenAI, Anthropic coding tools with new Continuum integrations",
+      "take": "AWS integrates security into OpenAI and Anthropic coding tools via Continuum",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aws-continuum-security-openai-anthropic-coding/"
     },
     {
-      "headline": "Spark CEO Sam Macpherson makes the case for sub-DAOs as a governance fix",
-      "take": "Spark CEO proposes sub-DAOs as potential solution for governance issues",
+      "headline": "KICK files for AI and space-themed ETFs as thematic fund race heats up",
+      "take": "KICK files for AI and space-themed ETFs as thematic fund competition intensifies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-sub-dao-governance-model/"
+      "link": "https://cryptobriefing.com/kick-files-ai-space-etfs/"
     }
   ],
   "security": [
     {
       "headline": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
-      "take": "BTCPay Server offers up to 3 BTC bounty for critical exploit recovery",
+      "take": "BTCPay Server offers 3 BTC bounty after critical exploit discovery and patching",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss"
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353"
     },
-    {
-      "headline": "Hidden Text in PDFs Is Hijacking This AI Assistant",
-      "take": "Hidden text in PDFs can hijack AI assistants through prompt injection",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection"
-    },
-    {
-      "headline": "Spark Protocol\u2019s rate limits turned a $294M exploit into a growth story",
-      "take": "Spark Protocol's rate limits contained $294M exploit, enabled recovery",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-protocol-rate-limits-kelpdao-hack/"
-    }
-  ],
-  "policy": [
     {
       "headline": "SEC charges Adit Ventures Management and CEO Eric Munson for fraud",
-      "take": "SEC charges Adit Ventures Management and CEO Eric Munson with fraud",
+      "take": "SEC charges Adit Ventures Management and CEO Eric Munson for investment fraud",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-charges-adit-ventures-eric-munson-fraud/"
     },
     {
+      "headline": "Fireplace shuts down: users have until September 30 to withdraw funds and migrate positions",
+      "take": "Fireplace platform shuts down; users must withdraw funds by September 30",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fireplace-shuts-down-september-30-withdrawal-deadline/"
+    },
+    {
+      "headline": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+      "take": "Hidden text in PDFs is exploiting AI assistants, creating security vulnerability",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection"
+    },
+    {
+      "headline": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+      "take": "Australian regulators signal crackdown, prompting Bitcoin ATM removals",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "SEC to weigh tailored crypto offering rules Friday after CLARITY Act hits gridlock",
+      "take": "SEC to consider tailored crypto offering rules Friday after CLARITY Act stalls",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-to-weigh-tailored-crypto-offering-rules-friday-after-clarity-act-hits-gridlock/"
+    },
+    {
       "headline": "Judge stays CFTC\u2019s case against US soldier over prediction market bets",
-      "take": "Judge halts CFTC case against US soldier for prediction market trading",
+      "take": "Judge stays CFTC case against US soldier over prediction market wagers",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-      "take": "Australian regulators signal broader crackdown, pulling Bitcoin ATMs",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"
-    },
-    {
       "headline": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
-      "take": "UK money laundering suspect purchased $100M stake in Trump crypto venture",
+      "take": "UK money laundering suspect purchased $100M stake in Trump crypto business",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

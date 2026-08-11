@@ -1,88 +1,100 @@
 {
-  "generated": "2026-08-11T07:40:45.588673+00:00",
-  "ts": 1786434045,
+  "generated": "2026-08-11T10:13:40.165012+00:00",
+  "ts": 1786443220,
   "market": [
     {
-      "headline": "A $2 trillion asset class is getting a new blockchain rail",
-      "take": "Two trillion dollar asset class launching new blockchain infrastructure layer",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail"
-    },
-    {
-      "headline": "Broadridge\u2019s Distributed Ledger Repo platform processes $8 trillion in July volume",
-      "take": "Broadridge processes eight trillion in repo volume via distributed ledger",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365"
-    },
-    {
       "headline": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-      "take": "XRP and ether decline as traders anticipate seventy thousand bitcoin level",
+      "take": "XRP and ether decline as traders watch bitcoin approach $70,000",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next"
     },
     {
-      "headline": "Bitcoin's 'strongest hands' are back, on-chain data show",
-      "take": "On-chain analysis shows bitcoin's strongest holders accumulating again",
+      "headline": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+      "take": "Riot Platforms surges 20% on $9.1 billion Anthropic funding announcement",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show"
+      "link": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal"
+    },
+    {
+      "headline": "Hyperliquid handles 44% of on-chain perpetual volume with $10B open interest",
+      "take": "Hyperliquid captures 44% of on-chain perpetual volume with $10B open interest",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-handles-44-of-on-chain-perpetual-volume-with-10b-open-interest/"
+    },
+    {
+      "headline": "Gold prices surge as central banks buy record 289 tonnes in Q2 2026: WSJ",
+      "take": "Gold prices surge as central banks purchase record 289 tonnes in Q2",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-prices-surge-as-central-banks-buy-record-289-tonnes-in-q2-2026-wsj/"
+    },
+    {
+      "headline": "US Treasury securities weaken in bond-market scorecard: MarketWatch",
+      "take": "US Treasury securities weaken in latest bond market performance assessment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-securities-weaken-in-bond-market-scorecard-marketwatch/"
     }
   ],
   "business": [
     {
+      "headline": "Coinbase establishes tokenization hub in Abu Dhabi after FSRA approval",
+      "take": "Coinbase establishes tokenization hub in Abu Dhabi with regulatory approval",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-tokenization-hub-abu-dhabi/"
+    },
+    {
+      "headline": "Coinbase opens UK derivatives trading with up to 50x leverage for professional investors",
+      "take": "Coinbase launches UK derivatives trading with up to 50x leverage for professionals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-uk-derivatives-trading-50x-leverage/"
+    },
+    {
+      "headline": "Anthropic targets September-October IPO ahead of OpenAI: WSJ",
+      "take": "Anthropic targets September-October IPO ahead of OpenAI's public market debut",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-targets-september-october-ipo-ahead-of-openai-wsj/"
+    },
+    {
       "headline": "Zama brings its blockchain-privacy token to Revolut\u2019s 70 million users",
-      "take": "Zama privacy token gains access to Revolut's seventy million users",
+      "take": "Zama brings privacy token to Revolut's 70 million users on blockchain",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-11-zama-brings-blockchain-privacy-token-to-revoluts-70-million-users-411290"
     },
     {
-      "headline": "Anthropic secures $9B deal with Riot for AI computing power",
-      "take": "Anthropic secures nine billion dollar computing deal with Riot Platforms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-secures-9b-deal-with-riot-for-ai-computing-power/"
-    },
-    {
-      "headline": "Anthropic targets October IPO amid competition with OpenAI",
-      "take": "Anthropic targets October IPO amid generative AI market competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-targets-october-ipo-amid-competition-with-openai/"
-    },
-    {
-      "headline": "Nvidia secures over $500B in funding commitments from six major financial groups for AI infrastructure",
-      "take": "Nvidia secures five hundred billion in infrastructure funding commitments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-500b-ai-infrastructure-funding/"
+      "headline": "Broadridge\u2019s Distributed Ledger Repo platform processes $8 trillion in July volume",
+      "take": "Broadridge's distributed ledger repo platform processes $8 trillion in July volume",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365"
     }
   ],
   "security": [
     {
       "headline": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-      "take": "BTCPay offers one hundred ninety thousand bounty after server exploit",
+      "take": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit"
     },
     {
-      "headline": "Ghostjacking attack uses poisoned logs to compromise AI agents",
-      "take": "Ghostjacking attack uses poisoned logs to compromise AI systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ghostjacking-attack-poisoned-logs-ai-agents/"
-    },
-    {
-      "headline": "Anthropic embeds invisible watermarks in Claude models worldwide",
-      "take": "Anthropic embeds invisible watermarks across all Claude model deployments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
+      "headline": "FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets",
+      "take": "FlightAware sues Kalshi over alleged unauthorized data use for prediction markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370"
     }
   ],
   "policy": [
     {
+      "headline": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "take": "SEC sets meeting to propose Reg Crypto framework for digital asset offerings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings"
+    },
+    {
       "headline": "White House vows to get CLARITY across \u2018finish line\u2019 in September",
-      "take": "White House aims to finalize CLARITY crypto framework by September",
+      "take": "White House vows to advance CLARITY crypto framework across finish line in September",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "South Korea drops Travel Rule threshold for crypto transfers",
-      "take": "South Korea lowers Travel Rule threshold for cryptocurrency transfers",
+      "take": "South Korea drops Travel Rule threshold requirement for crypto transfers",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

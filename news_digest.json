@@ -1,102 +1,96 @@
 {
-  "generated": "2026-08-12T16:11:37.332508+00:00",
-  "ts": 1786551097,
+  "generated": "2026-08-12T19:29:48.858651+00:00",
+  "ts": 1786562988,
   "market": [
     {
-      "headline": "Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts",
-      "take": "Bitcoin dips below $64k as inflation data reduces immediate Fed pressure",
+      "headline": "JPMorgan buys $400M of iShares Bitcoin ETF in Q2, bringing total position to $650M",
+      "take": "JPMorgan accumulates $650M in Bitcoin ETF holdings by Q2 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-buys-400m-bitcoin-etf-q2/"
+    },
+    {
+      "headline": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
+      "take": "Ethereum staking reaches 34% as proposal targets validator rewards",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-dips-under-64000-in-line-cpi-buys-fed-time-not-conviction-analysts-411594"
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312"
     },
     {
-      "headline": "Binance bStocks hit $500M in assets as after-hours earnings trades surge",
-      "take": "Binance tokenized stocks reach $500M in assets amid earnings trade surge",
+      "headline": "JPMorgan strategist expects Fed to keep interest rates unchanged",
+      "take": "JPMorgan strategist expects Federal Reserve to maintain interest rates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-bstocks-after-hours-earnings-trading/"
+      "link": "https://cryptobriefing.com/jpmorgan-strategist-fed-hold-rates/"
     },
     {
-      "headline": "Ethereum staking ratio hits record 34%, boosting network security",
-      "take": "Ethereum staking reaches record 34%, strengthening network security posture",
+      "headline": "US federal budget deficit widens to $432B, exceeds forecast",
+      "take": "US federal budget deficit widens to $432B, exceeding forecasts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-boosting-network-security/"
+      "link": "https://cryptobriefing.com/us-federal-budget-deficit-widens-432-billion/"
     },
     {
-      "headline": "BUIDL and BENJI lead tokenized US Treasury bill growth as market balloons past early estimates",
-      "take": "Tokenized US Treasury bills grow past early estimates led by BUIDL",
+      "headline": "Rumble increases Bitcoin holdings by 82.32 BTC to 293.14 BTC in Q2 2026",
+      "take": "Rumble increases Bitcoin holdings by 82 BTC to 293 total",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/buidl-benji-tokenized-treasury-growth/"
+      "link": "https://cryptobriefing.com/rumble-increases-bitcoin-holdings-293-btc/"
     }
   ],
   "business": [
     {
-      "headline": "SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket",
-      "take": "SKALE launches Agent Pit for AI agent testing before live Polymarket deployment",
+      "headline": "Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition",
+      "take": "Goldman Sachs acquires NEOS for $2.25B to gain Bitcoin and Ethereum income ETFs",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580"
+      "link": "https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618"
     },
     {
-      "headline": "Binance expands tokenized stock offering with GameStop listing",
-      "take": "Binance expands tokenized stock offerings by adding GameStop listing",
+      "headline": "Circle launches cirBTC as neutral wrapped Bitcoin infrastructure for institutions",
+      "take": "Circle launches cirBTC as neutral wrapped Bitcoin infrastructure for institutions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-tokenized-stock-gamestop-bstocks/"
+      "link": "https://cryptobriefing.com/circle-launches-cirbtc-wrapped-bitcoin/"
     },
     {
-      "headline": "Miden introduces USDCx to bring default privacy to stablecoins",
-      "take": "Miden introduces USDCx to bring default privacy to stablecoin transactions",
+      "headline": "Kraken adds S&P 500 to funded trading program, with commodities on the roadmap",
+      "take": "Kraken adds S&P 500 to funded trading program, commodities planned",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/miden-usdcx-privacy-stablecoin/"
+      "link": "https://cryptobriefing.com/kraken-sp500-funded-trading-program/"
     },
     {
-      "headline": "Polygon joins Bank of England\u2019s Digital Pound Lab to explore onchain use cases",
-      "take": "Polygon joins Bank of England Digital Pound Lab exploring onchain applications",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-bank-of-england-digital-pound-lab/"
+      "headline": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+      "take": "Fidelity files to let Ethereum ETF stake and distribute rewards",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors"
     },
     {
-      "headline": "Kalshi launches institutional grade market data feed on DoubleZero Edge",
-      "take": "Kalshi launches institutional-grade market data feed on DoubleZero Edge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-doublezero-order-books-institutional/"
+      "headline": "Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth",
+      "take": "Polymarket hires Travis VanderZanden as chief growth officer",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631"
     }
   ],
   "security": [
     {
-      "headline": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-      "take": "XRP Bridge drained after software incorrectly treats fake deposits as valid",
+      "headline": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+      "take": "After Coldcard hardware wallet compromise, $15B Bitcoin moved to safety",
       "source": "decrypt",
-      "link": "https://decrypt.co/375441/xrp-drained-tx-bridge"
+      "link": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety"
     },
     {
-      "headline": "Harmony\u2019s ONE plunges 40% after attacker mints 4 billion tokens",
-      "take": "Harmony ONE plunges 40% after attacker mints 4 billion tokens maliciously",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/harmony-traces-transfers-fraudulent-token-minting-exploit/"
+      "headline": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
+      "take": "AI successfully built critical Zoom exploit in a single day",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day"
     }
   ],
   "policy": [
     {
-      "headline": "Hyperliquid seeks compliant path for US perpetual contracts",
-      "take": "Hyperliquid seeks compliant regulatory path for US perpetual contracts offering",
+      "headline": "SEC set to unveil innovation exemption for tokenized stocks",
+      "take": "SEC set to unveil innovation exemption for tokenized stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-us-perpetual-contracts-compliance/"
+      "link": "https://cryptobriefing.com/sec-innovation-exemption-tokenized-stocks/"
     },
     {
-      "headline": "Mexico mandates full KYC for Bitcoin and crypto transfers by March 2027",
-      "take": "Mexico mandates full KYC for Bitcoin and crypto transfers by March 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mexico-kyc-bitcoin-crypto-transfers-2027/"
-    },
-    {
-      "headline": "New York City Council opens probe into prediction market platforms",
-      "take": "New York City Council opens investigation into prediction market platforms",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604"
-    },
-    {
-      "headline": "MEMX files with SEC to launch prediction contracts tied to corporate earnings",
-      "take": "MEMX files with SEC to launch prediction contracts on corporate earnings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/memx-prediction-contracts-sec-filing/"
+      "headline": "FlightAware drops Kalshi lawsuit one day after filing",
+      "take": "FlightAware drops Kalshi lawsuit one day after filing against regulator",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

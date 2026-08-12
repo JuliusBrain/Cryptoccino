@@ -1,36 +1,42 @@
 {
-  "generated": "2026-08-12T05:07:23.587029+00:00",
-  "ts": 1786511243,
+  "generated": "2026-08-12T07:55:10.295164+00:00",
+  "ts": 1786521310,
   "market": [
     {
-      "headline": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-      "take": "Dogecoin and BNB rally while Bitcoin consolidates near $63,700",
+      "headline": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "take": "Bitcoin at $63,600 as major holder Metaplanet moves significant holdings",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700"
+      "link": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets"
+    },
+    {
+      "headline": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+      "take": "Traders position ahead of US CPI inflation data release, awaiting market catalyst",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print"
     },
     {
       "headline": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-      "take": "Bitcoin ETF inflows offset selling pressure; inflation data may trigger movement",
+      "take": "Bitcoin range-bound as ETF inflows balance selling pressure before inflation print",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move"
-    },
-    {
-      "headline": "Barclays reports shift in US Treasuries buyer base drives yields to multi-decade highs",
-      "take": "US Treasury yields hit multi-decade highs as buyer base shifts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/barclays-treasury-buyer-base-shift-yields/"
     }
   ],
   "business": [
     {
+      "headline": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "take": "Crypto.com launches tokenized stock derivatives as exchanges expand into equities",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities"
+    },
+    {
       "headline": "Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth",
-      "take": "Robinhood Chain processes 11.6M daily transactions, TVL growing with USDe",
+      "take": "Robinhood Chain processes 11.6M daily transactions fueled by USDe growth",
       "source": "theblock",
       "link": "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310"
     },
     {
       "headline": "CoreWeave raises FY2026 sales guidance to $12.4B-$13.2B as AI infrastructure demand surges",
-      "take": "CoreWeave raises FY2026 guidance to $12.4\u2013$13.2B on AI infrastructure surge",
+      "take": "CoreWeave raises FY2026 guidance to $12.4B-$13.2B on surging AI infrastructure demand",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coreweave-raises-fy2026-revenue-guidance/"
     },
@@ -39,58 +45,40 @@
       "take": "Ita\u00fa Unibanco pilots tokenized bonds and funds on blockchain in Brazil",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ita-unibanco-tests-tokenized-bonds-and-funds-on-blockchain-in-brazil-pilot/"
-    },
-    {
-      "headline": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
-      "take": "OpenAI executive departs as company prepares for potential IPO",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo"
     }
   ],
   "security": [
     {
+      "headline": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
+      "take": "Harmony exploit mints 4 billion ONE tokens through unauthorized minting vulnerability",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527"
+    },
+    {
       "headline": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-      "take": "XRP bridge drained of $200K after software misidentified fake deposits",
+      "take": "XRP bridge drained $200,000 when software accepted fake deposits as legitimate",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones"
-    },
-    {
-      "headline": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-      "take": "BTCPay offers Bitcoin bounty following wallet exploit discovery",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit"
-    },
-    {
-      "headline": "Microsoft Plugs Nearly 400 Security Holes",
-      "take": "Microsoft patches nearly 400 security vulnerabilities",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
-    }
-  ],
-  "policy": [
-    {
-      "headline": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-      "take": "CFTC invokes emergency powers to keep Kalshi operating amid New York lawsuit",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
       "take": "SEC and CFTC sue Goliath Ventures over alleged $400M crypto Ponzi scheme",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+      "take": "CFTC invokes emergency powers to allow Kalshi to operate during New York legal battle",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "US bank regulator opens national bank charters to Bitcoin, crypto firms",
       "take": "US bank regulator opens national bank charters to Bitcoin and crypto firms",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-bank-regulator-opens-national-bank-charters-to-bitcoin-crypto-firms/"
-    },
-    {
-      "headline": "India\u2019s SEBI proposes opening commodity derivatives to foreign investors",
-      "take": "India's SEBI proposes opening commodity derivatives to foreign investors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-sebi-foreign-investors-commodity-derivatives/"
     }
   ]
 }

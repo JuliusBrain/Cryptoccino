@@ -1,74 +1,74 @@
 {
-  "generated": "2026-08-11T22:07:46.973253+00:00",
-  "ts": 1786486066,
+  "generated": "2026-08-12T02:47:38.021059+00:00",
+  "ts": 1786502858,
   "market": [
     {
       "headline": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-      "take": "Bitcoin stable as ETF inflows balance selling pressure; inflation data may trigger movement",
+      "take": "Bitcoin ETF inflows offset selling pressure; inflation data may trigger volatility",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move"
     },
     {
-      "headline": "CoreWeave stock jumps 14% as revenue doubles and backlog tops $104 billion",
-      "take": "CoreWeave stock surges 14% on doubled revenue and massive $104 billion backlog",
+      "headline": "China sets yuan midpoint at strongest level since February 2023",
+      "take": "China sets yuan midpoint at strongest level since February 2023",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-stock-jumps-14-as-revenue-doubles-and-ai-backlog-tops-104-billion/"
+      "link": "https://cryptobriefing.com/china-sets-yuan-midpoint-at-strongest-level-since-february-2023/"
+    },
+    {
+      "headline": "Oil prices climb as doubts over US-Iran peace deal fuel supply fears",
+      "take": "Oil prices climb on doubts over US-Iran peace deal and supply fears",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-prices-climb-as-doubts-over-us-iran-peace-deal-fuel-supply-fears/"
     },
     {
       "headline": "Barclays reports shift in US Treasuries buyer base drives yields to multi-decade highs",
-      "take": "US Treasury yields hit multi-decade highs as foreign buyer base shifts away",
+      "take": "US Treasury yields reach multi-decade highs as buyer base composition shifts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/barclays-treasury-buyer-base-shift-yields/"
     },
     {
-      "headline": "S&P 500 AI companies account for 58% of index risk, report finds",
-      "take": "AI companies now represent 58% of S&P 500 index risk concentration",
+      "headline": "US crude oil inventories surge by 9 million barrels in latest API report",
+      "take": "US crude oil inventories surge nine million barrels in latest API report",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-ai-companies-58-percent-index-risk/"
-    },
-    {
-      "headline": "AI hyperscalers disrupt traditional earnings stock patterns as options straddles surge 23%",
-      "take": "AI hyperscaler earnings volatility drives 23% surge in options straddle positions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-hyperscalers-disrupt-earnings-stock-patterns/"
+      "link": "https://cryptobriefing.com/api-crude-oil-inventory-build-9-million/"
     }
   ],
   "business": [
     {
+      "headline": "CoreWeave raises FY2026 sales guidance to $12.4B-$13.2B as AI infrastructure demand surges",
+      "take": "CoreWeave raises FY2026 guidance to $12.4\u201313.2B on surging AI infrastructure demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-raises-fy2026-revenue-guidance/"
+    },
+    {
+      "headline": "Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth",
+      "take": "Robinhood Chain hits 11.6M daily transactions; USDe fuels TVL growth",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310"
+    },
+    {
       "headline": "Ita\u00fa Unibanco tests tokenized bonds and funds on blockchain in Brazil pilot",
-      "take": "Ita\u00fa Unibanco pilots tokenized bonds and funds on blockchain in Brazil",
+      "take": "Ita\u00fa Unibanco tests tokenized bonds and funds on blockchain in Brazil pilot",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ita-unibanco-tests-tokenized-bonds-and-funds-on-blockchain-in-brazil-pilot/"
     },
     {
-      "headline": "Microsoft\u2019s Maia 200 chips cut operational costs 30% to 40% vs Nvidia for some models",
-      "take": "Microsoft's Maia 200 chips cut AI operational costs 30-40% versus Nvidia",
+      "headline": "US bank regulator opens national bank charters to Bitcoin, crypto firms",
+      "take": "US bank regulator opens national bank charters to Bitcoin and crypto firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-maia-200-cuts-costs-nvidia/"
+      "link": "https://cryptobriefing.com/us-bank-regulator-opens-national-bank-charters-to-bitcoin-crypto-firms/"
     },
     {
       "headline": "OpenAI enables project and chat synchronization across platforms",
-      "take": "OpenAI enables project and chat synchronization across multiple platforms",
+      "take": "OpenAI enables project and chat synchronization across platforms for users",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-project-chat-sync-across-platforms/"
-    },
-    {
-      "headline": "Quantinuum advances hybrid quantum computing with Helios launch and global partnerships",
-      "take": "Quantinuum launches Helios and expands hybrid quantum computing partnerships globally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantinuum-helios-hybrid-quantum-computing/"
-    },
-    {
-      "headline": "SpaceX and Tesla plan 100M-square-foot chip plant in Texas",
-      "take": "SpaceX and Tesla plan 100 million square foot chip manufacturing plant in Texas",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-tesla-terafab-chip-plant-texas/"
     }
   ],
   "security": [
     {
       "headline": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-      "take": "BTCPay backers offer Bitcoin bounty following wallet exploit discovery",
+      "take": "BTCPay wallet exploit prompts bounty offer from backers for information",
       "source": "decrypt",
       "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit"
     },
@@ -77,36 +77,30 @@
       "take": "Microsoft patches nearly 400 security vulnerabilities in latest update",
       "source": "krebsonsecurity",
       "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
-    },
-    {
-      "headline": "Florida man charged by CFTC over $397 million crypto Ponzi scheme",
-      "take": "Florida man charged by CFTC for operating $397 million crypto Ponzi scheme",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
-      "take": "CFTC invokes emergency authority to keep Kalshi operating despite New York lawsuit",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507"
-    },
-    {
-      "headline": "SEC to discuss easing crypto regulations at August 2026 meeting",
-      "take": "SEC plans to discuss easing crypto regulations at August 2026 meeting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-to-discuss-easing-crypto-regulations-at-august-2026-meeting/"
-    },
-    {
-      "headline": "Following Senate delay, crypto bill has a narrow window to become law",
-      "take": "Crypto bill faces narrow legislative window after Senate delay holds progress",
+      "headline": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
+      "take": "SEC and CFTC sue Goliath Ventures over alleged $400M crypto Ponzi scheme",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC orders Kalshi to continue operating as New York seeks $36 billion in damages",
+      "take": "CFTC orders Kalshi to continue operating amid New York's $36B damages lawsuit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-kalshi-new-york-gambling-lawsuit/"
+    },
+    {
+      "headline": "SEC to address crypto regulations in absence of CLARITY passage",
+      "take": "SEC to address crypto regulations in absence of CLARITY act passage",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "India\u2019s SEBI proposes opening commodity derivatives to foreign investors",
-      "take": "India's SEBI proposes opening commodity derivatives trading to foreign investors",
+      "take": "India's SEBI proposes opening commodity derivatives to foreign investors",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/india-sebi-foreign-investors-commodity-derivatives/"
     }

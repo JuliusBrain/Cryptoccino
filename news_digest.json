@@ -1,85 +1,79 @@
 {
-  "generated": "2026-08-12T02:47:38.021059+00:00",
-  "ts": 1786502858,
+  "generated": "2026-08-12T05:07:23.587029+00:00",
+  "ts": 1786511243,
   "market": [
     {
+      "headline": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+      "take": "Dogecoin and BNB rally while Bitcoin consolidates near $63,700",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700"
+    },
+    {
       "headline": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-      "take": "Bitcoin ETF inflows offset selling pressure; inflation data may trigger volatility",
+      "take": "Bitcoin ETF inflows offset selling pressure; inflation data may trigger movement",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move"
     },
     {
-      "headline": "China sets yuan midpoint at strongest level since February 2023",
-      "take": "China sets yuan midpoint at strongest level since February 2023",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-sets-yuan-midpoint-at-strongest-level-since-february-2023/"
-    },
-    {
-      "headline": "Oil prices climb as doubts over US-Iran peace deal fuel supply fears",
-      "take": "Oil prices climb on doubts over US-Iran peace deal and supply fears",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-climb-as-doubts-over-us-iran-peace-deal-fuel-supply-fears/"
-    },
-    {
       "headline": "Barclays reports shift in US Treasuries buyer base drives yields to multi-decade highs",
-      "take": "US Treasury yields reach multi-decade highs as buyer base composition shifts",
+      "take": "US Treasury yields hit multi-decade highs as buyer base shifts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/barclays-treasury-buyer-base-shift-yields/"
-    },
-    {
-      "headline": "US crude oil inventories surge by 9 million barrels in latest API report",
-      "take": "US crude oil inventories surge nine million barrels in latest API report",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/api-crude-oil-inventory-build-9-million/"
     }
   ],
   "business": [
     {
-      "headline": "CoreWeave raises FY2026 sales guidance to $12.4B-$13.2B as AI infrastructure demand surges",
-      "take": "CoreWeave raises FY2026 guidance to $12.4\u201313.2B on surging AI infrastructure demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-raises-fy2026-revenue-guidance/"
-    },
-    {
       "headline": "Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth",
-      "take": "Robinhood Chain hits 11.6M daily transactions; USDe fuels TVL growth",
+      "take": "Robinhood Chain processes 11.6M daily transactions, TVL growing with USDe",
       "source": "theblock",
       "link": "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310"
     },
     {
+      "headline": "CoreWeave raises FY2026 sales guidance to $12.4B-$13.2B as AI infrastructure demand surges",
+      "take": "CoreWeave raises FY2026 guidance to $12.4\u2013$13.2B on AI infrastructure surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-raises-fy2026-revenue-guidance/"
+    },
+    {
       "headline": "Ita\u00fa Unibanco tests tokenized bonds and funds on blockchain in Brazil pilot",
-      "take": "Ita\u00fa Unibanco tests tokenized bonds and funds on blockchain in Brazil pilot",
+      "take": "Ita\u00fa Unibanco pilots tokenized bonds and funds on blockchain in Brazil",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ita-unibanco-tests-tokenized-bonds-and-funds-on-blockchain-in-brazil-pilot/"
     },
     {
-      "headline": "US bank regulator opens national bank charters to Bitcoin, crypto firms",
-      "take": "US bank regulator opens national bank charters to Bitcoin and crypto firms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-bank-regulator-opens-national-bank-charters-to-bitcoin-crypto-firms/"
-    },
-    {
-      "headline": "OpenAI enables project and chat synchronization across platforms",
-      "take": "OpenAI enables project and chat synchronization across platforms for users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-project-chat-sync-across-platforms/"
+      "headline": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+      "take": "OpenAI executive departs as company prepares for potential IPO",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo"
     }
   ],
   "security": [
     {
+      "headline": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+      "take": "XRP bridge drained of $200K after software misidentified fake deposits",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones"
+    },
+    {
       "headline": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-      "take": "BTCPay wallet exploit prompts bounty offer from backers for information",
+      "take": "BTCPay offers Bitcoin bounty following wallet exploit discovery",
       "source": "decrypt",
       "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit"
     },
     {
       "headline": "Microsoft Plugs Nearly 400 Security Holes",
-      "take": "Microsoft patches nearly 400 security vulnerabilities in latest update",
+      "take": "Microsoft patches nearly 400 security vulnerabilities",
       "source": "krebsonsecurity",
       "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
     }
   ],
   "policy": [
+    {
+      "headline": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+      "take": "CFTC invokes emergency powers to keep Kalshi operating amid New York lawsuit",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
     {
       "headline": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
       "take": "SEC and CFTC sue Goliath Ventures over alleged $400M crypto Ponzi scheme",
@@ -87,16 +81,10 @@
       "link": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC orders Kalshi to continue operating as New York seeks $36 billion in damages",
-      "take": "CFTC orders Kalshi to continue operating amid New York's $36B damages lawsuit",
+      "headline": "US bank regulator opens national bank charters to Bitcoin, crypto firms",
+      "take": "US bank regulator opens national bank charters to Bitcoin and crypto firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-kalshi-new-york-gambling-lawsuit/"
-    },
-    {
-      "headline": "SEC to address crypto regulations in absence of CLARITY passage",
-      "take": "SEC to address crypto regulations in absence of CLARITY act passage",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/us-bank-regulator-opens-national-bank-charters-to-bitcoin-crypto-firms/"
     },
     {
       "headline": "India\u2019s SEBI proposes opening commodity derivatives to foreign investors",

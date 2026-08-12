@@ -1,102 +1,102 @@
 {
-  "generated": "2026-08-12T13:51:00.704638+00:00",
-  "ts": 1786542660,
+  "generated": "2026-08-12T16:11:37.332508+00:00",
+  "ts": 1786551097,
   "market": [
     {
-      "headline": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
-      "take": "US CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected"
+      "headline": "Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts",
+      "take": "Bitcoin dips below $64k as inflation data reduces immediate Fed pressure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-dips-under-64000-in-line-cpi-buys-fed-time-not-conviction-analysts-411594"
     },
     {
-      "headline": "S&P 500 opens at record high as Dow and NASDAQ climb after CPI data",
-      "take": "S&P 500 opens at record high as Dow and NASDAQ climb after CPI data",
+      "headline": "Binance bStocks hit $500M in assets as after-hours earnings trades surge",
+      "take": "Binance tokenized stocks reach $500M in assets amid earnings trade surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-record-high-cpi-data/"
+      "link": "https://cryptobriefing.com/binance-bstocks-after-hours-earnings-trading/"
     },
     {
-      "headline": "Nebius surges 18% after earnings blow past estimates, outperforming CoreWeave and Cloudflare",
-      "take": "Nebius surges 18% after earnings blow past estimates, outperforming CoreWeave",
+      "headline": "Ethereum staking ratio hits record 34%, boosting network security",
+      "take": "Ethereum staking reaches record 34%, strengthening network security posture",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nebius-surges-outperforming-ai-cloud-stocks/"
+      "link": "https://cryptobriefing.com/ethereum-staking-ratio-hits-record-34-boosting-network-security/"
     },
     {
-      "headline": "Traders see 45% chance of September Fed rate hike",
-      "take": "Traders see 45% chance of September Federal Reserve rate hike",
+      "headline": "BUIDL and BENJI lead tokenized US Treasury bill growth as market balloons past early estimates",
+      "take": "Tokenized US Treasury bills grow past early estimates led by BUIDL",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/traders-45-percent-chance-september-fed-rate-hike/"
-    },
-    {
-      "headline": "Cost of insuring against default by AI hyperscalers hits record levels",
-      "take": "Cost of insuring against default by AI hyperscalers hits record levels",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-hyperscaler-credit-default-swaps-record/"
+      "link": "https://cryptobriefing.com/buidl-benji-tokenized-treasury-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Standard Chartered, Animoca Brands, HKT launch Hong Kong\u2019s first regulated HKD stablecoin",
-      "take": "Standard Chartered and Animoca Brands launch Hong Kong's first regulated HKD stablecoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-hkd-stablecoin-standard-chartered-animoca/"
+      "headline": "SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket",
+      "take": "SKALE launches Agent Pit for AI agent testing before live Polymarket deployment",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580"
     },
     {
-      "headline": "Interbank partners with Anthropic to deploy Claude AI across banking operations in Peru",
-      "take": "Interbank partners with Anthropic to deploy Claude AI across banking operations in Peru",
+      "headline": "Binance expands tokenized stock offering with GameStop listing",
+      "take": "Binance expands tokenized stock offerings by adding GameStop listing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/interbank-anthropic-claude-ai-peru/"
+      "link": "https://cryptobriefing.com/binance-tokenized-stock-gamestop-bstocks/"
     },
     {
-      "headline": "Mindgard raises $30M to protect AI systems from the threats nobody\u2019s patching",
-      "take": "Mindgard raises $30M to protect AI systems from unpatched threats",
+      "headline": "Miden introduces USDCx to bring default privacy to stablecoins",
+      "take": "Miden introduces USDCx to bring default privacy to stablecoin transactions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mindgard-raises-30m-ai-security/"
+      "link": "https://cryptobriefing.com/miden-usdcx-privacy-stablecoin/"
     },
     {
-      "headline": "Bitwise slashes 14% of workforce amid prolonged crypto winter",
-      "take": "Bitwise slashes 14% of workforce amid prolonged crypto market downturn",
+      "headline": "Polygon joins Bank of England\u2019s Digital Pound Lab to explore onchain use cases",
+      "take": "Polygon joins Bank of England Digital Pound Lab exploring onchain applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-slashes-14-of-workforce-amid-prolonged-crypto-winter/"
+      "link": "https://cryptobriefing.com/polygon-bank-of-england-digital-pound-lab/"
     },
     {
-      "headline": "Charles Schwab launches single stock futures for over 50 US stocks",
-      "take": "Charles Schwab launches single stock futures for over 50 US stocks",
+      "headline": "Kalshi launches institutional grade market data feed on DoubleZero Edge",
+      "take": "Kalshi launches institutional-grade market data feed on DoubleZero Edge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/schwab-single-stock-futures-launch/"
+      "link": "https://cryptobriefing.com/kalshi-doublezero-order-books-institutional/"
     }
   ],
   "security": [
     {
-      "headline": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "take": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says"
+      "headline": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+      "take": "XRP Bridge drained after software incorrectly treats fake deposits as valid",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375441/xrp-drained-tx-bridge"
+    },
+    {
+      "headline": "Harmony\u2019s ONE plunges 40% after attacker mints 4 billion tokens",
+      "take": "Harmony ONE plunges 40% after attacker mints 4 billion tokens maliciously",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/harmony-traces-transfers-fraudulent-token-minting-exploit/"
     }
   ],
   "policy": [
     {
-      "headline": "Slovenia joins EU\u2019s MiCA stablecoin register with first issuer",
-      "take": "Slovenia joins EU's MiCA stablecoin register with first issuer approved",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "South Korea mandates 5 days of paper trading for leveraged ETF investors after 90% volume crash",
-      "take": "South Korea mandates 5 days of paper trading for leveraged ETF investors",
+      "headline": "Hyperliquid seeks compliant path for US perpetual contracts",
+      "take": "Hyperliquid seeks compliant regulatory path for US perpetual contracts offering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-paper-trading-leveraged-etfs/"
+      "link": "https://cryptobriefing.com/hyperliquid-us-perpetual-contracts-compliance/"
     },
     {
-      "headline": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-      "take": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
+      "headline": "Mexico mandates full KYC for Bitcoin and crypto transfers by March 2027",
+      "take": "Mexico mandates full KYC for Bitcoin and crypto transfers by March 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mexico-kyc-bitcoin-crypto-transfers-2027/"
     },
     {
-      "headline": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-      "take": "CFTC allows Kalshi prediction market platform to operate in New York",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny"
+      "headline": "New York City Council opens probe into prediction market platforms",
+      "take": "New York City Council opens investigation into prediction market platforms",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604"
+    },
+    {
+      "headline": "MEMX files with SEC to launch prediction contracts tied to corporate earnings",
+      "take": "MEMX files with SEC to launch prediction contracts on corporate earnings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/memx-prediction-contracts-sec-filing/"
     }
   ]
 }

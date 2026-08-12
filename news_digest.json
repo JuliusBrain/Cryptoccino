@@ -1,108 +1,102 @@
 {
-  "generated": "2026-08-12T10:29:04.546617+00:00",
-  "ts": 1786530544,
+  "generated": "2026-08-12T13:51:00.704638+00:00",
+  "ts": 1786542660,
   "market": [
     {
-      "headline": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
-      "take": "Bitcoin holds around $63,600 as Metaplanet moves significant BTC holdings",
+      "headline": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
+      "take": "US CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets"
+      "link": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected"
     },
     {
-      "headline": "Bitcoin miners earn under 1% of revenue from fees, hitting 10-year low",
-      "take": "Bitcoin miners earn under 1% revenue from fees, hitting decade low",
+      "headline": "S&P 500 opens at record high as Dow and NASDAQ climb after CPI data",
+      "take": "S&P 500 opens at record high as Dow and NASDAQ climb after CPI data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-miners-fee-revenue-10-year-low/"
+      "link": "https://cryptobriefing.com/sp500-record-high-cpi-data/"
     },
     {
-      "headline": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-      "take": "Fidelity adds staking and quarterly payouts to near $900M ether ETF",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf"
-    },
-    {
-      "headline": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-      "take": "Crypto.com launches tokenized stock derivatives as exchanges expand into equities",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities"
-    },
-    {
-      "headline": "Bitget supports 128 stock tokens as collateral for borrowing",
-      "take": "Bitget supports 128 stock tokens as collateral for borrowing",
+      "headline": "Nebius surges 18% after earnings blow past estimates, outperforming CoreWeave and Cloudflare",
+      "take": "Nebius surges 18% after earnings blow past estimates, outperforming CoreWeave",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-128-stock-tokens-collateral-borrowing/"
+      "link": "https://cryptobriefing.com/nebius-surges-outperforming-ai-cloud-stocks/"
+    },
+    {
+      "headline": "Traders see 45% chance of September Fed rate hike",
+      "take": "Traders see 45% chance of September Federal Reserve rate hike",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/traders-45-percent-chance-september-fed-rate-hike/"
+    },
+    {
+      "headline": "Cost of insuring against default by AI hyperscalers hits record levels",
+      "take": "Cost of insuring against default by AI hyperscalers hits record levels",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-hyperscaler-credit-default-swaps-record/"
     }
   ],
   "business": [
     {
-      "headline": "Centrifuge finalizes ERC-8161, letting multi-asset vault positions trade before settlement",
-      "take": "Centrifuge finalizes ERC-8161 standard enabling multi-asset vault position trading",
+      "headline": "Standard Chartered, Animoca Brands, HKT launch Hong Kong\u2019s first regulated HKD stablecoin",
+      "take": "Standard Chartered and Animoca Brands launch Hong Kong's first regulated HKD stablecoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-erc-8161-multi-asset-vaults/"
+      "link": "https://cryptobriefing.com/hong-kong-hkd-stablecoin-standard-chartered-animoca/"
     },
     {
-      "headline": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-      "take": "CoreWeave surges 16% on $2.58B quarterly revenue from AI infrastructure demand",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto"
-    },
-    {
-      "headline": "Strategy unveils Bitcoin credit model to enhance financial transparency",
-      "take": "Strategy unveils Bitcoin credit model to enhance financial transparency",
+      "headline": "Interbank partners with Anthropic to deploy Claude AI across banking operations in Peru",
+      "take": "Interbank partners with Anthropic to deploy Claude AI across banking operations in Peru",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-unveils-bitcoin-credit-model-to-enhance-financial-transparency/"
+      "link": "https://cryptobriefing.com/interbank-anthropic-claude-ai-peru/"
     },
     {
-      "headline": "Bitwise cuts 14% of staff as crypto layoffs mount during market downturn",
-      "take": "Bitwise cuts 14% of staff amid mounting crypto industry layoffs",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522"
+      "headline": "Mindgard raises $30M to protect AI systems from the threats nobody\u2019s patching",
+      "take": "Mindgard raises $30M to protect AI systems from unpatched threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mindgard-raises-30m-ai-security/"
+    },
+    {
+      "headline": "Bitwise slashes 14% of workforce amid prolonged crypto winter",
+      "take": "Bitwise slashes 14% of workforce amid prolonged crypto market downturn",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-slashes-14-of-workforce-amid-prolonged-crypto-winter/"
+    },
+    {
+      "headline": "Charles Schwab launches single stock futures for over 50 US stocks",
+      "take": "Charles Schwab launches single stock futures for over 50 US stocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/schwab-single-stock-futures-launch/"
     }
   ],
   "security": [
     {
-      "headline": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
-      "take": "Harmony suffers exploit enabling unauthorized minting of 4 billion ONE tokens",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527"
-    },
-    {
-      "headline": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-      "take": "XRP bridge drained $200,000 after software mistook fake deposits for real",
+      "headline": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "take": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones"
-    },
-    {
-      "headline": "Australian regulator takes down Yepbit websites as investors report blocked withdrawals",
-      "take": "Australian regulator shuts Yepbit websites as investors report blocked withdrawals",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538"
-    },
-    {
-      "headline": "US sanctions Dubai crypto exchange Shelbit over Iran financial transactions",
-      "take": "US sanctions Dubai crypto exchange Shelbit over Iran financial transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-sanctions-dubai-crypto-exchange-shelbit-over-iran-financial-transactions/"
+      "link": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says"
     }
   ],
   "policy": [
     {
-      "headline": "Bank of England tests stablecoin and digital currency in trade finance",
-      "take": "Bank of England tests stablecoin and digital currency in trade finance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-england-digital-pound-stablecoin-trade-finance/"
+      "headline": "Slovenia joins EU\u2019s MiCA stablecoin register with first issuer",
+      "take": "Slovenia joins EU's MiCA stablecoin register with first issuer approved",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-      "take": "CFTC invokes emergency powers to keep Kalshi trading despite New York suit",
+      "headline": "South Korea mandates 5 days of paper trading for leveraged ETF investors after 90% volume crash",
+      "take": "South Korea mandates 5 days of paper trading for leveraged ETF investors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-paper-trading-leveraged-etfs/"
+    },
+    {
+      "headline": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+      "take": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
+    },
+    {
+      "headline": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+      "take": "CFTC allows Kalshi prediction market platform to operate in New York",
       "source": "decrypt",
-      "link": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit"
-    },
-    {
-      "headline": "Bank of England taps NOBO, Polygon Labs and Dun & Bradstreet to pilot SME credit data in Digital Pound Lab",
-      "take": "Bank of England pilots SME credit data with NOBO, Polygon Labs, Dun & Bradstreet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-england-taps-polygon-labs-and-dun-bradstreet-for-digital-pound-trial/"
+      "link": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny"
     }
   ]
 }

@@ -1,51 +1,85 @@
 {
-  "generated": "2026-08-13T07:56:32.582530+00:00",
-  "ts": 1786607792,
+  "generated": "2026-08-13T10:30:33.599162+00:00",
+  "ts": 1786617033,
   "market": [
     {
       "headline": "Bitcoin slips near $63,500 as traders look past CPI to Fed\u2019s next tests",
-      "take": "Bitcoin slips near $63,500 as traders await Fed's next policy decision",
+      "take": "Bitcoin slips near $63,500 as traders assess Fed policy ahead",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests"
     },
     {
       "headline": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
-      "take": "Dogecoin speculation retreats to October 2025 levels, price down seventy percent",
+      "take": "Dogecoin speculation retreats to October 2025 levels amid 70% decline",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70"
     },
     {
-      "headline": "Gen Z traders lean into ETFs as risk appetite cools amid market slowdown, Binance Research finds",
-      "take": "Gen Z traders shift toward ETFs as risk appetite cools amid slowdown",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gen-z-traders-lean-into-etfs-as-risk-appetite-cools-binance-research/"
-    },
-    {
-      "headline": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-      "take": "Crypto valuations could double if protocols link revenue directly to tokens",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Live Markets: U.S. inflation is stickier than July\u2019s mild CPI reading suggests",
+      "take": "U.S. inflation data suggests stickier price pressures than July reading",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests"
     },
     {
       "headline": "Fed likely to hold rates as market lowers September hike odds",
-      "take": "Fed likely to hold rates as market lowers September interest rate hike odds",
+      "take": "Fed likely to hold rates as market lowers September hike odds",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fed-likely-to-hold-rates-as-market-lowers-september-hike-odds/"
+    },
+    {
+      "headline": "Gen Z traders lean into ETFs as risk appetite cools amid market slowdown, Binance Research finds",
+      "take": "Gen Z traders shift to ETFs as risk appetite cools market-wide",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gen-z-traders-lean-into-etfs-as-risk-appetite-cools-binance-research/"
     }
   ],
   "business": [
     {
+      "headline": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+      "take": "MUFG tests real-time blockchain settlement for Japanese government bonds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades"
+    },
+    {
+      "headline": "Brazil\u2019s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
+      "take": "Brazil's largest bitcoin treasury firm plans ETF with 95% STRC allocation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc"
+    },
+    {
+      "headline": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
+      "take": "Metaplanet unveils BitBonds with $1.3 million private debt sale",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale"
+    },
+    {
       "headline": "Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report",
-      "take": "Mirae Asset injects additional thirty-five million into Korbit exchange post-acquisition",
+      "take": "Mirae Asset injects $35 million into Korbit exchange post-acquisition",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-13-mirae-asset-35-million-korbit-411677"
     },
     {
-      "headline": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
-      "take": "BitGo revenue jumps eighty percent to four point three billion but posts net loss",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664"
+      "headline": "BaiBai launches as first PropAMM aggregator on Base, promising to pay double if you find a better price",
+      "take": "BaiBai launches as first PropAMM aggregator on Base network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/baibai-propamm-aggregator-base-launch/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
+      "take": "Delio CEO sentenced to 15 years for $49 million fraud scheme",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud"
     },
+    {
+      "headline": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "take": "Bitcoin firms request AI tools from labs to counter attacker access",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have"
+    }
+  ],
+  "policy": [
     {
       "headline": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
       "take": "Copper US arm becomes FINRA member and SEC-registered broker-dealer",
@@ -53,44 +87,10 @@
       "link": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "BaiBai launches as first PropAMM aggregator on Base, promising to pay double if you find a better price",
-      "take": "BaiBai launches as first PropAMM aggregator on Base with price guarantee",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/baibai-propamm-aggregator-base-launch/"
-    },
-    {
-      "headline": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-      "take": "Zerohash rebuffed in bid to become US trust bank despite Morgan Stanley partnership",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank"
-    }
-  ],
-  "security": [
-    {
-      "headline": "Bitcoin firms ask AI labs for same tools attackers already have",
-      "take": "Bitcoin firms request AI tools from labs to match existing attacker capabilities",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have"
-    },
-    {
-      "headline": "Arizona crypto ATM law helps 35 scam victims recover $171K",
-      "take": "Arizona crypto ATM law helps thirty-five scam victims recover one hundred seventy-one thousand",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    }
-  ],
-  "policy": [
-    {
       "headline": "Blockchain Association backs Custodia\u2019s Supreme Court bid over Fed master account access",
-      "take": "Blockchain Association backs Custodia's Supreme Court bid for Fed master account access",
+      "take": "Blockchain Association backs Custodia's Supreme Court bid for Fed access",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672"
-    },
-    {
-      "headline": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-      "take": "CFTC urges prediction markets to reduce filings for trading incentives",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc"
     }
   ]
 }

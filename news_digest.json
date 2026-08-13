@@ -1,108 +1,114 @@
 {
-  "generated": "2026-08-13T16:11:42.047760+00:00",
-  "ts": 1786637502,
+  "generated": "2026-08-13T19:28:21.427314+00:00",
+  "ts": 1786649301,
   "market": [
     {
-      "headline": "Binance dominates TradFi equity perps with 76% market share as Gate sees 308% monthly growth",
-      "take": "Binance dominates crypto equity perpetuals with 76% market share",
+      "headline": "Hedge funds scoop up $6.8B in US equities, the largest weekly haul in 18 years",
+      "take": "Hedge funds bought $6.8B in US equities, largest weekly haul in 18 years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-dominates-tradfi-equity-perps-gate-growth/"
+      "link": "https://cryptobriefing.com/hedge-funds-buy-7b-us-equities/"
     },
     {
-      "headline": "Bullish shares rise 10% as Q2 adjusted EBITDA triples",
-      "take": "Bullish shares rise 10% as Q2 adjusted EBITDA triples",
+      "headline": "US corporate bond sales hit $130B in August, blowing past $95B seasonal average",
+      "take": "US corporate bond sales hit $130B in August, well above seasonal average",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bullish-q2-ebitda-triples-shares-rise/"
+      "link": "https://cryptobriefing.com/us-corporate-bond-sales-130b-august/"
     },
     {
-      "headline": "Onchain lender Figure nearly triples quarterly profits as loan marketplace volume surges to $4.3 billion",
-      "take": "Figure triples quarterly profits as loan marketplace hits $4.3B volume",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736"
-    },
-    {
-      "headline": "Standard Chartered says $100 UNI target may be too low as Robinhood Chain burns accelerate",
-      "take": "Standard Chartered suggests $100 UNI price target may be low",
+      "headline": "Traders cut Fed hike bets as oil and inflation cool",
+      "take": "Traders reduce Fed rate hike bets as oil prices and inflation moderate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-uni-price-target-robinhood-chain/"
+      "link": "https://cryptobriefing.com/bond-traders-fed-rate-expectations-oil-prices/"
     },
     {
-      "headline": "Bitcoin continues ranging as crowded longs meet soft inflation, the quietest tape since 2019: analysts",
-      "take": "Bitcoin ranging between crowded longs and soft inflation pressures",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-13-bitcoin-continues-ranging-as-crowded-longs-meet-soft-inflation-the-quietest-tape-since-2019-analysts-411708"
+      "headline": "MSCI could remove Strategy and Metaplanet from indexes in November, triggering billions in passive outflows",
+      "take": "MSCI may remove Strategy and Metaplanet from indexes, risking billions in passive outflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/msci-strategy-metaplanet-index-removal/"
+    },
+    {
+      "headline": "SanDisk rallies 16% on AI memory growth outlook",
+      "take": "SanDisk rallies 16% on strong AI memory growth outlook",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sandisk-rallies-ai-memory-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Ether.fi adds tokenized stocks, metals and Aave-powered portfolio loans in latest \u2018neobank\u2019 expansion",
-      "take": "Ether.fi expands neobank features with tokenized stocks and portfolio loans",
+      "headline": "Tether says KPMG issued \u2018clean\u2019 opinion in first full audit of USDT issuer\u2019s financials",
+      "take": "Tether receives clean KPMG audit opinion on $180B USDT stablecoin reserves",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-13-ether-fi-adds-tokenized-stocks-metals-and-aave-powered-portfolio-loans-in-latest-neobank-expansion-411704"
+      "link": "https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760"
     },
     {
-      "headline": "Vals AI secures $40M Series A funding led by a16z, unveils new products",
-      "take": "Vals AI raises $40M Series A led by a16z",
+      "headline": "Aptos Labs develops Shelby to tackle AI\u2019s biggest infrastructure bottleneck",
+      "take": "Aptos Labs develops Shelby to address AI infrastructure bottleneck challenges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vals-ai-40m-series-a-a16z/"
+      "link": "https://cryptobriefing.com/aptos-labs-shelby-ai-data-storage/"
     },
     {
-      "headline": "21Shares files prospectus update for TSUI, its spot SUI ETF on Nasdaq",
-      "take": "21Shares files prospectus for spot SUI ETF on Nasdaq",
+      "headline": "Stacks initiates 90-day incentive program distributing BTC rewards",
+      "take": "Stacks launches 90-day incentive program distributing Bitcoin rewards to participants",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/21shares-tsui-spot-sui-etf-424b3-filing/"
+      "link": "https://cryptobriefing.com/stacks-90-day-btc-incentive-program/"
     },
     {
-      "headline": "B2C2 hires Schroders veteran to expand in Asia\u2019s crypto market",
-      "take": "B2C2 hires Schroders veteran to expand in Asia's crypto market",
+      "headline": "JPMorgan hires Executive Director for digital assets as bank doubles down on blockchain strategy",
+      "take": "JPMorgan hires Executive Director for digital assets, expanding blockchain strategy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/b2c2-hires-schroders-veteran-asia-crypto/"
+      "link": "https://cryptobriefing.com/jpmorgan-hires-executive-director-digital-assets/"
     },
     {
-      "headline": "Suno releases Studio 2.0 with MIDI support, pushing AI music toward real production tool",
-      "take": "Suno releases Studio 2.0 with MIDI support for production workflows",
+      "headline": "Bitget expands beyond crypto as market liquidity fades",
+      "take": "Bitget expands business beyond crypto amid declining market liquidity conditions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/suno-studio-2-midi-music-production/"
+      "link": "https://cryptobriefing.com/bitget-gracy-chen-universal-exchange-strategy/"
     }
   ],
   "security": [
     {
-      "headline": "Trezor shipping provider breach exposes personal data of nearly 14,000 customers",
-      "take": "Trezor shipping provider breach exposes data of nearly 14,000 customers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702"
+      "headline": "Academic study links 65,340 high-risk crypto addresses to $575M in losses from exposed private keys",
+      "take": "Study links 65,340 high-risk addresses to $575M losses from exposed private keys",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usenix-study-high-risk-crypto-addresses-losses/"
     },
     {
-      "headline": "256 Foundation conducts first firmware security audit of Bitcoin miners, finds 41 vulnerabilities in third-party software",
-      "take": "256 Foundation audit finds 41 vulnerabilities in Bitcoin miner firmware",
+      "headline": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
+      "take": "Google ad phishing scam drains $550,000 from Hyperliquid user account",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755"
+    },
+    {
+      "headline": "Polymarket linked to Solidus Labs HALO surveillance amid market integrity scrutiny",
+      "take": "Polymarket linked to Solidus Labs surveillance amid market integrity concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/256-foundation-bitcoin-miner-firmware-security-audit/"
+      "link": "https://cryptobriefing.com/polymarket-solidus-labs-halo-surveillance/"
     }
   ],
   "policy": [
     {
-      "headline": "Baltimore sues Kalshi and Polymarket for unlicensed sports betting",
-      "take": "Baltimore sues Kalshi and Polymarket for unlicensed sports betting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/baltimore-sues-kalshi-polymarket-sports-betting/"
+      "headline": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "take": "Delio CEO sentenced to 15 years in prison for crypto fraud in South Korea",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
-      "take": "Hawaii bans cash deposits at crypto ATMs starting October",
+      "headline": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
+      "take": "Baltimore sues Kalshi and Polymarket, involves Coinbase, Robinhood, and Webull",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746"
+    },
+    {
+      "headline": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+      "take": "CFTC to join SEC exploring crypto regulations without CLARITY bill framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
+      "take": "White House permits private firms to hack cybercriminals at their own legal risk",
       "source": "decrypt",
-      "link": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october"
-    },
-    {
-      "headline": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
-      "take": "FCA and HTX in settlement talks over illegal UK crypto promotions",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report"
-    },
-    {
-      "headline": "California mandates digital fingerprints for AI-generated media",
-      "take": "California mandates digital fingerprints for all AI-generated media",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-ai-transparency-act-digital-fingerprints/"
+      "link": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals"
     }
   ]
 }

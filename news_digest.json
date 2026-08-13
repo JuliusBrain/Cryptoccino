@@ -1,96 +1,90 @@
 {
-  "generated": "2026-08-13T10:30:33.599162+00:00",
-  "ts": 1786617033,
+  "generated": "2026-08-13T13:51:27.566576+00:00",
+  "ts": 1786629087,
   "market": [
     {
-      "headline": "Bitcoin slips near $63,500 as traders look past CPI to Fed\u2019s next tests",
-      "take": "Bitcoin slips near $63,500 as traders assess Fed policy ahead",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests"
-    },
-    {
-      "headline": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
-      "take": "Dogecoin speculation retreats to October 2025 levels amid 70% decline",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70"
-    },
-    {
-      "headline": "Live Markets: U.S. inflation is stickier than July\u2019s mild CPI reading suggests",
-      "take": "U.S. inflation data suggests stickier price pressures than July reading",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests"
-    },
-    {
-      "headline": "Fed likely to hold rates as market lowers September hike odds",
-      "take": "Fed likely to hold rates as market lowers September hike odds",
+      "headline": "Bullish retains 19,990 Bitcoin worth $1.28B through Q2, cementing its treasury strategy",
+      "take": "Bullish retains $1.28B Bitcoin treasury despite Q2 net loss of $280M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-likely-to-hold-rates-as-market-lowers-september-hike-odds/"
+      "link": "https://cryptobriefing.com/bullish-retains-19990-bitcoin-q2-treasury/"
     },
     {
-      "headline": "Gen Z traders lean into ETFs as risk appetite cools amid market slowdown, Binance Research finds",
-      "take": "Gen Z traders shift to ETFs as risk appetite cools market-wide",
+      "headline": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
+      "take": "Swissquote cuts guidance as first-half crypto income declines sharply",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide"
+    },
+    {
+      "headline": "Market pricing shows ~68% chance Fed holds rates in September",
+      "take": "Fed funds futures pricing shows 68% probability of September rate hold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gen-z-traders-lean-into-etfs-as-risk-appetite-cools-binance-research/"
+      "link": "https://cryptobriefing.com/fed-rate-hold-probability-september/"
+    },
+    {
+      "headline": "Crypto\u2019s Wall Street Era Arrives as Retail Buzz, Liquidity Fade",
+      "take": "Institutional capital flows into crypto while retail engagement and volatility fade",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/crypto-s-wall-street-era-arrives-as-retail-buzz-liquidity-fade"
     }
   ],
   "business": [
     {
-      "headline": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-      "take": "MUFG tests real-time blockchain settlement for Japanese government bonds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades"
-    },
-    {
-      "headline": "Brazil\u2019s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-      "take": "Brazil's largest bitcoin treasury firm plans ETF with 95% STRC allocation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc"
-    },
-    {
-      "headline": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
-      "take": "Metaplanet unveils BitBonds with $1.3 million private debt sale",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale"
-    },
-    {
-      "headline": "Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report",
-      "take": "Mirae Asset injects $35 million into Korbit exchange post-acquisition",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-13-mirae-asset-35-million-korbit-411677"
-    },
-    {
-      "headline": "BaiBai launches as first PropAMM aggregator on Base, promising to pay double if you find a better price",
-      "take": "BaiBai launches as first PropAMM aggregator on Base network",
+      "headline": "Figure revenue doubles as blockchain loan marketplace volumes surge past $2.9B in Q1",
+      "take": "Figure's blockchain loan marketplace revenue doubles, volumes exceed $2.9B in Q1",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/baibai-propamm-aggregator-base-launch/"
+      "link": "https://cryptobriefing.com/figure-revenue-doubles-blockchain-loan-marketplace/"
+    },
+    {
+      "headline": "Riot Platforms sells 4,300 BTC to fund operations and its pivot toward AI infrastructure",
+      "take": "Riot Platforms sells 4,300 Bitcoin to fund operations and AI infrastructure pivot",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/riot-platforms-sells-btc-ai-expansion/"
+    },
+    {
+      "headline": "Flare enables XRP holders to trade options using FXRP as collateral on Derive",
+      "take": "Flare enables XRP holders to trade options using FXRP as collateral",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/flare-fxrp-options-collateral-derive/"
+    },
+    {
+      "headline": "Robinhood Ventures Fund II prices $200M IPO at $25 per share",
+      "take": "Robinhood Ventures Fund II IPO prices at $25 per share, raises $200M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-ventures-fund-ii-ipo/"
+    },
+    {
+      "headline": "Hyperliquid seeks US regulatory approval for perpetual futures offering",
+      "take": "Hyperliquid seeks US regulatory approval for perpetual futures platform offering",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-seeks-us-regulatory-approval-for-perpetual-futures-offering/"
     }
   ],
   "security": [
     {
-      "headline": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
-      "take": "Delio CEO sentenced to 15 years for $49 million fraud scheme",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud"
+      "headline": "Trezor discloses data breach affecting 13,689 customers",
+      "take": "Trezor hardware wallet breach exposes 13,689 customer data via shipping partner",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trezor-data-breach-13689-customers/"
     },
     {
-      "headline": "Bitcoin firms ask AI labs for same tools attackers already have",
-      "take": "Bitcoin firms request AI tools from labs to counter attacker access",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have"
+      "headline": "Jewelbug runs espionage and cryptocurrency fraud operations, says Symantec",
+      "take": "Jewelbug group conducts espionage and cryptocurrency fraud operations globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jewelbug-espionage-crypto-fraud-symantec/"
     }
   ],
   "policy": [
     {
-      "headline": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
-      "take": "Copper US arm becomes FINRA member and SEC-registered broker-dealer",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
+      "take": "South Korean platform operator sentenced to 15 years for $50M cryptocurrency scam",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam"
     },
     {
-      "headline": "Blockchain Association backs Custodia\u2019s Supreme Court bid over Fed master account access",
-      "take": "Blockchain Association backs Custodia's Supreme Court bid for Fed access",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672"
+      "headline": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+      "take": "SEC plans new regulatory framework for tokenized stocks and digital securities",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks"
     }
   ]
 }

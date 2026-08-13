@@ -1,114 +1,90 @@
 {
-  "generated": "2026-08-13T03:02:04.662216+00:00",
-  "ts": 1786590124,
+  "generated": "2026-08-13T05:10:39.918137+00:00",
+  "ts": 1786597839,
   "market": [
     {
-      "headline": "Goldman Sachs reports record $21.6B sale of Nasdaq futures by institutional investors",
-      "take": "Goldman Sachs reports record institutional selling of Nasdaq futures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-record-nasdaq-futures-sale/"
+      "headline": "Bitcoin slips near $63,500 as traders look past CPI to Fed\u2019s next tests",
+      "take": "Bitcoin slides to $63,500 as traders await Federal Reserve's next policy move",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests"
     },
     {
-      "headline": "Fed likely to hold rates as market lowers September hike odds",
-      "take": "Fed expected to hold rates as market lowers September hike odds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-likely-to-hold-rates-as-market-lowers-september-hike-odds/"
+      "headline": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
+      "take": "Dogecoin speculation reverts to October 2025 levels despite seventy percent price decline",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70"
     },
     {
       "headline": "Gen Z traders lean into ETFs as risk appetite cools amid market slowdown, Binance Research finds",
-      "take": "Gen Z traders shift to ETFs as risk appetite cools amid slowdown",
+      "take": "Gen Z traders shift toward ETFs as market risk appetite cools noticeably",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gen-z-traders-lean-into-etfs-as-risk-appetite-cools-binance-research/"
     },
     {
-      "headline": "China\u2019s bond yields dip amid looser monetary policy expectations",
-      "take": "China's bond yields dip on looser monetary policy expectations",
+      "headline": "Fed likely to hold rates as market lowers September hike odds",
+      "take": "Federal Reserve expected to hold rates; market lowers odds for September rate hike",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinas-bond-yields-dip-amid-looser-monetary-policy-expectations/"
+      "link": "https://cryptobriefing.com/fed-likely-to-hold-rates-as-market-lowers-september-hike-odds/"
     },
     {
-      "headline": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
-      "take": "Hyperliquid treasury Hyperion triples quarterly profits via HYPE appreciation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652"
+      "headline": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+      "take": "Bitwise CIO projects crypto valuations could double if protocols link revenue to tokens",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "business": [
     {
+      "headline": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
+      "take": "BitGo revenue surges eighty percent to $4.3 billion in Q2 but reports net loss",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664"
+    },
+    {
       "headline": "BaiBai launches as first PropAMM aggregator on Base, promising to pay double if you find a better price",
-      "take": "BaiBai launches as first PropAMM aggregator on Base chain",
+      "take": "BaiBai launches first PropAMM aggregator on Base with competitive price-match guarantee",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/baibai-propamm-aggregator-base-launch/"
     },
     {
       "headline": "xAI and Databricks partner to bring Grok natively into Agent Bricks platform",
-      "take": "xAI and Databricks bring Grok natively into Agent Bricks platform",
+      "take": "xAI and Databricks partner to integrate Grok natively into Agent Bricks platform",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/grok-leads-ai-document-understanding-databricks/"
     },
     {
-      "headline": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
-      "take": "SEC clears Franklin Templeton funds to use onchain BENJI system",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654"
-    },
-    {
       "headline": "Fermi appoints Lee McIntire as new CEO after months of leadership turmoil",
-      "take": "Fermi appoints Lee McIntire CEO after prolonged leadership turmoil",
+      "take": "Fermi appoints Lee McIntire as CEO following months of leadership instability",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fermi-appoints-lee-mcintire-ceo/"
     },
     {
-      "headline": "Hyperliquid eyes US expansion amid regulatory hurdles",
-      "take": "Hyperliquid eyes US expansion despite regulatory obstacles ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-eyes-us-expansion-amid-regulatory-hurdles/"
+      "headline": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+      "take": "Securitize drops twenty percent after earnings miss as tokenization revenue disappoints",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short"
     }
   ],
   "security": [
     {
-      "headline": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-      "take": "Major AI model internal thoughts exposed in massive exploit disclosed",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit"
-    },
-    {
-      "headline": "ShieldFont disrupts AI scrapers by serving them nonsense while humans read normally",
-      "take": "ShieldFont disrupts AI scrapers by serving nonsense to bots",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/shieldfont-disrupts-ai-scrapers-altered-text/"
-    },
-    {
       "headline": "Arizona crypto ATM law helps 35 scam victims recover $171K",
-      "take": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "take": "Arizona crypto ATM law enables thirty-five scam victims to recover $171,000",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "NYC council announces probe into \u2018predatory marketing practices\u2019 on prediction markets",
-      "take": "NYC council probes predatory marketing practices on prediction markets",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "Hawaii crypto ATM ban to take effect on Oct. 1",
-      "take": "Hawaii crypto ATM ban takes effect October first",
+      "take": "Hawaii crypto ATM ban takes effect October 1, restricting access to digital assets",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-      "take": "CFTC urges prediction markets to reduce faulty filings for incentives",
+      "take": "CFTC urges prediction markets to reduce faulty filings that incentivize speculative trading",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc"
-    },
-    {
-      "headline": "Securities and Exchange Commission denies Egan-Jones bid to expand ratings business",
-      "take": "SEC denies Egan-Jones bid to expand credit ratings business",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-denies-egan-jones-ratings-expansion/"
     }
   ]
 }

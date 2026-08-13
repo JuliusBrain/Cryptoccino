@@ -1,114 +1,90 @@
 {
-  "generated": "2026-08-13T19:28:21.427314+00:00",
-  "ts": 1786649301,
+  "generated": "2026-08-13T22:05:46.152354+00:00",
+  "ts": 1786658746,
   "market": [
     {
-      "headline": "Hedge funds scoop up $6.8B in US equities, the largest weekly haul in 18 years",
-      "take": "Hedge funds bought $6.8B in US equities, largest weekly haul in 18 years",
+      "headline": "Tokenized stocks\u2019 share of total RWA market cap rises to over 15%",
+      "take": "Tokenized stocks now represent over fifteen percent of RWA market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hedge-funds-buy-7b-us-equities/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-rwa-market-cap-share/"
+    },
+    {
+      "headline": "S&P 500 closes at record high as tame inflation data fuels tech rally",
+      "take": "S&P 500 hits record high as inflation data stays moderate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-record-high-tame-inflation-data/"
     },
     {
       "headline": "US corporate bond sales hit $130B in August, blowing past $95B seasonal average",
-      "take": "US corporate bond sales hit $130B in August, well above seasonal average",
+      "take": "US corporate bond sales surge to $130B, well above seasonal trend",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-corporate-bond-sales-130b-august/"
     },
     {
-      "headline": "Traders cut Fed hike bets as oil and inflation cool",
-      "take": "Traders reduce Fed rate hike bets as oil prices and inflation moderate",
+      "headline": "China ETFs see $3.4B in outflows as US investor demand weakens sharply",
+      "take": "China ETFs see $3.4B outflows as US investor interest weakens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bond-traders-fed-rate-expectations-oil-prices/"
-    },
-    {
-      "headline": "MSCI could remove Strategy and Metaplanet from indexes in November, triggering billions in passive outflows",
-      "take": "MSCI may remove Strategy and Metaplanet from indexes, risking billions in passive outflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/msci-strategy-metaplanet-index-removal/"
-    },
-    {
-      "headline": "SanDisk rallies 16% on AI memory growth outlook",
-      "take": "SanDisk rallies 16% on strong AI memory growth outlook",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandisk-rallies-ai-memory-growth/"
+      "link": "https://cryptobriefing.com/china-etfs-record-outflows-investor-demand/"
     }
   ],
   "business": [
     {
+      "headline": "Norway\u2019s $1.7T wealth fund discloses $82M stake in BitMine Immersion Technologies",
+      "take": "Norway's $1.7T wealth fund discloses $82M stake in BitMine",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/norway-wealth-fund-bitmine-ethereum-stake/"
+    },
+    {
       "headline": "Tether says KPMG issued \u2018clean\u2019 opinion in first full audit of USDT issuer\u2019s financials",
-      "take": "Tether receives clean KPMG audit opinion on $180B USDT stablecoin reserves",
+      "take": "KPMG issues clean audit opinion on Tether's USDT reserves",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760"
     },
     {
-      "headline": "Aptos Labs develops Shelby to tackle AI\u2019s biggest infrastructure bottleneck",
-      "take": "Aptos Labs develops Shelby to address AI infrastructure bottleneck challenges",
+      "headline": "TRON goes live on Fireblocks Flow, enabling stablecoin payments for 2,400+ institutions",
+      "take": "TRON launches on Fireblocks Flow for institutional stablecoin payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-labs-shelby-ai-data-storage/"
+      "link": "https://cryptobriefing.com/tron-fireblocks-flow-stablecoin-payments/"
     },
     {
-      "headline": "Stacks initiates 90-day incentive program distributing BTC rewards",
-      "take": "Stacks launches 90-day incentive program distributing Bitcoin rewards to participants",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-90-day-btc-incentive-program/"
-    },
-    {
-      "headline": "JPMorgan hires Executive Director for digital assets as bank doubles down on blockchain strategy",
-      "take": "JPMorgan hires Executive Director for digital assets, expanding blockchain strategy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-hires-executive-director-digital-assets/"
-    },
-    {
-      "headline": "Bitget expands beyond crypto as market liquidity fades",
-      "take": "Bitget expands business beyond crypto amid declining market liquidity conditions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-gracy-chen-universal-exchange-strategy/"
+      "headline": "Gemini shares slide after $108 million loss as Winklevoss says \u2018we still have work to do\u2019",
+      "take": "Gemini reports $108M loss but maintains operational progress",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775"
     }
   ],
   "security": [
     {
-      "headline": "Academic study links 65,340 high-risk crypto addresses to $575M in losses from exposed private keys",
-      "take": "Study links 65,340 high-risk addresses to $575M losses from exposed private keys",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usenix-study-high-risk-crypto-addresses-losses/"
+      "headline": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
+      "take": "SEC charges three in $47M fraud targeting Orthodox Jewish communities",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish"
     },
     {
-      "headline": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
-      "take": "Google ad phishing scam drains $550,000 from Hyperliquid user account",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755"
-    },
-    {
-      "headline": "Polymarket linked to Solidus Labs HALO surveillance amid market integrity scrutiny",
-      "take": "Polymarket linked to Solidus Labs surveillance amid market integrity concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-solidus-labs-halo-surveillance/"
+      "headline": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "take": "Delio CEO sentenced to fifteen years for crypto fraud in Korea",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
-      "take": "Delio CEO sentenced to 15 years in prison for crypto fraud in South Korea",
+      "headline": "White House to host crypto and prediction market executives next week",
+      "take": "White House to meet with crypto and prediction market executives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/white-house-crypto-prediction-market-meeting/"
+    },
+    {
+      "headline": "SEC reportedly cancels Friday meeting on proposed crypto regulation framework",
+      "take": "SEC reportedly cancels Friday meeting on crypto regulation framework",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-cancels-crypto-rules-meeting/"
+    },
+    {
+      "headline": "City of Baltimore goes after prediction markets for sports betting",
+      "take": "Baltimore targets prediction markets for sports betting enforcement",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
-      "take": "Baltimore sues Kalshi and Polymarket, involves Coinbase, Robinhood, and Webull",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746"
-    },
-    {
-      "headline": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
-      "take": "CFTC to join SEC exploring crypto regulations without CLARITY bill framework",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
-      "take": "White House permits private firms to hack cybercriminals at their own legal risk",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals"
+      "link": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

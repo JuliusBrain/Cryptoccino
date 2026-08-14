@@ -1,18 +1,12 @@
 {
-  "generated": "2026-08-14T07:53:34.702168+00:00",
-  "ts": 1786694014,
+  "generated": "2026-08-14T10:26:02.290817+00:00",
+  "ts": 1786703162,
   "market": [
     {
-      "headline": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "take": "Bitcoin faces headwinds while XRP hovers near one-dollar support level",
+      "headline": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
+      "take": "Bitcoin slips below $63,000 as oil prices and yields climb higher",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1"
-    },
-    {
-      "headline": "Emerging-market assets rally as US inflation data suggests Fed rate hike delay",
-      "take": "Emerging-market assets rally as US inflation data signals Fed rate hike delay",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-assets-rally-as-us-inflation-data-suggests-fed-rate-hike-delay/"
+      "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb"
     },
     {
       "headline": "Bitcoin miners sell 28,000 BTC worth $2B amid rising costs",
@@ -21,50 +15,62 @@
       "link": "https://cryptobriefing.com/bitcoin-miners-sell-28000-btc-rising-costs/"
     },
     {
-      "headline": "Gemini increases Bitcoin treasury holdings to 5,528 BTC worth $324M",
-      "take": "Gemini increases Bitcoin treasury to 5,528 BTC valued at $324M",
+      "headline": "TradFi perps volume surges 117-fold to $387B in 18 months as crypto exchanges eat Wall Street\u2019s lunch",
+      "take": "TradFi perpetuals volume surges 117-fold to $387B as crypto exchanges gain share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-bitcoin-treasury-324m/"
+      "link": "https://cryptobriefing.com/tradfi-perps-volume-surges-387-billion/"
     },
     {
-      "headline": "US producer prices unchanged in July, dimming rate hike odds",
-      "take": "US producer prices flat in July, dimming odds for Fed rate increases",
+      "headline": "Emerging-market assets rally as US inflation data suggests Fed rate hike delay",
+      "take": "Emerging-market assets rally on signs Fed may delay rate hike decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-producer-prices-unchanged-july-rate-hike-odds/"
+      "link": "https://cryptobriefing.com/emerging-market-assets-rally-as-us-inflation-data-suggests-fed-rate-hike-delay/"
+    },
+    {
+      "headline": "Gemini increases Bitcoin treasury holdings to 5,528 BTC worth $324M",
+      "take": "Gemini increases Bitcoin treasury to 5,528 BTC worth approximately $324M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gemini-bitcoin-treasury-324m/"
     }
   ],
   "business": [
     {
+      "headline": "MSCI proposes removing Bitcoin treasury companies Strategy and Metaplanet from indexes",
+      "take": "MSCI proposes removing Bitcoin treasury companies Strategy and Metaplanet from indexes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/msci-bitcoin-treasury-companies-index-removal/"
+    },
+    {
       "headline": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-      "take": "Bitwise explores tokenizing Solana staking ETF through Superstate partnership",
+      "take": "Bitwise explores tokenizing Solana staking ETF through Superstate partnership agreement",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790"
     },
     {
       "headline": "Plume signs MOU with Shinhan Asset Management for KRW-denominated tokenized fund",
-      "take": "Plume signs MOU with Shinhan Asset Management for tokenized KRW fund",
+      "take": "Plume signs MOU with Shinhan Asset Management for KRW-denominated tokenized fund",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/plume-shinhan-krw-tokenized-fund-mou/"
     },
     {
-      "headline": "NFTs gain traction as Pok\u00e9mon trading cards drive interest in tokenized collectibles",
-      "take": "NFTs gain traction as Pok\u00e9mon trading cards drive tokenized collectibles interest",
+      "headline": "Quantinuum and Quanta Computer sign deal to build quantum computing hardware at scale",
+      "take": "Quantinuum and Quanta Computer partner to scale quantum computing hardware production",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pokemon-cards-nfts-tokenized-collectibles/"
-    },
-    {
-      "headline": "Reddit leaps 12% after-hours on S&P 500 inclusion news",
-      "take": "Reddit jumps 12% after-hours following S&P 500 inclusion announcement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reddit-joins-sp-500/"
+      "link": "https://cryptobriefing.com/quantinuum-quanta-quantum-manufacturing-deal/"
     }
   ],
   "security": [
     {
       "headline": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-      "take": "Neutrl pauses NUSD redemptions due to undisclosed reserve issue",
+      "take": "Neutrl pauses NUSD redemptions over undisclosed reserve issue requiring investigation",
       "source": "cointelegraph_defi",
       "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "take": "JPMorgan ended banking relationship with predictions platform Polymarket per reports",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft"
     },
     {
       "headline": "Coinbase CEO warns rogue AI could unleash a \u2018Morris Worm\u2019 moment within two years",
@@ -75,34 +81,22 @@
   ],
   "policy": [
     {
-      "headline": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "take": "JPMorgan ends banking relationship with prediction platform Polymarket",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft"
+      "headline": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
+      "take": "Kalshi ordered to block Washington prediction market bets after CFTC support",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it"
     },
     {
-      "headline": "Washington court orders Kalshi to halt most prediction market offerings in state",
-      "take": "Washington court orders Kalshi to halt most prediction market offerings in state",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785"
+      "headline": "SEC cancels key crypto regulatory meeting",
+      "take": "SEC cancels key crypto regulatory meeting, timing unclear on rescheduling plans",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "take": "SEC delays tokenization innovation exemption amid Wall Street and White House concerns",
+      "take": "SEC delays tokenization innovation exemption again amid Wall Street and White House concerns",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns"
-    },
-    {
-      "headline": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "take": "SEC cancels Reg Crypto proposal indefinitely, postponing meeting without new date",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date"
-    },
-    {
-      "headline": "Trump imposes up to 100% tariffs on drone imports, citing national security",
-      "take": "Trump imposes up to 100% tariffs on drone imports citing national security",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-drone-tariffs-national-security/"
     }
   ]
 }

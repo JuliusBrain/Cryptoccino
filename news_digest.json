@@ -1,102 +1,90 @@
 {
-  "generated": "2026-08-14T10:26:02.290817+00:00",
-  "ts": 1786703162,
+  "generated": "2026-08-14T13:47:18.953519+00:00",
+  "ts": 1786715238,
   "market": [
     {
-      "headline": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
-      "take": "Bitcoin slips below $63,000 as oil prices and yields climb higher",
+      "headline": "Bitcoin futures open interest surges $1.2B in eight hours, signaling a wave of fresh positioning",
+      "take": "Bitcoin futures open interest surges $1.2B in eight hours signaling fresh positioning",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-futures-open-interest-surges-1b/"
+    },
+    {
+      "headline": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
+      "take": "Bitcoin slips as US inflation fails to spark gains, ETFs see drawdown",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb"
+      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown"
     },
     {
-      "headline": "Bitcoin miners sell 28,000 BTC worth $2B amid rising costs",
-      "take": "Bitcoin miners sell 28,000 BTC worth $2B amid rising operational costs",
+      "headline": "Market pricing shows declining probability of Fed rate hikes before mid-2027",
+      "take": "Market pricing shows declining probability of Fed rate hikes before mid-2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-miners-sell-28000-btc-rising-costs/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-probability-declining-2027/"
     },
     {
-      "headline": "TradFi perps volume surges 117-fold to $387B in 18 months as crypto exchanges eat Wall Street\u2019s lunch",
-      "take": "TradFi perpetuals volume surges 117-fold to $387B as crypto exchanges gain share",
+      "headline": "ETFs see $100B inflows for 14 consecutive months, becoming the new normal",
+      "take": "ETFs see $100B inflows for 14 consecutive months becoming the new normal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradfi-perps-volume-surges-387-billion/"
+      "link": "https://cryptobriefing.com/etfs-100b-inflows-14-consecutive-months/"
     },
     {
-      "headline": "Emerging-market assets rally as US inflation data suggests Fed rate hike delay",
-      "take": "Emerging-market assets rally on signs Fed may delay rate hike decision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-assets-rally-as-us-inflation-data-suggests-fed-rate-hike-delay/"
-    },
-    {
-      "headline": "Gemini increases Bitcoin treasury holdings to 5,528 BTC worth $324M",
-      "take": "Gemini increases Bitcoin treasury to 5,528 BTC worth approximately $324M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-bitcoin-treasury-324m/"
+      "headline": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
+      "take": "Fear fading across markets including bitcoin stocks gold and bonds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises"
     }
   ],
   "business": [
     {
-      "headline": "MSCI proposes removing Bitcoin treasury companies Strategy and Metaplanet from indexes",
-      "take": "MSCI proposes removing Bitcoin treasury companies Strategy and Metaplanet from indexes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/msci-bitcoin-treasury-companies-index-removal/"
-    },
-    {
-      "headline": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-      "take": "Bitwise explores tokenizing Solana staking ETF through Superstate partnership agreement",
+      "headline": "Kraken parent Payward posts $508 million in Q2 adjusted revenue as growth broadens beyond crypto trading",
+      "take": "Kraken parent Payward posts $508M Q2 revenue as growth broadens beyond trading",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790"
+      "link": "https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818"
     },
     {
-      "headline": "Plume signs MOU with Shinhan Asset Management for KRW-denominated tokenized fund",
-      "take": "Plume signs MOU with Shinhan Asset Management for KRW-denominated tokenized fund",
+      "headline": "Temple goes live on Token Terminal, becoming Canton Network\u2019s top revenue app",
+      "take": "Temple goes live on Token Terminal becoming Canton Network's top revenue app",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/plume-shinhan-krw-tokenized-fund-mou/"
+      "link": "https://cryptobriefing.com/temple-token-terminal-canton-network/"
     },
     {
-      "headline": "Quantinuum and Quanta Computer sign deal to build quantum computing hardware at scale",
-      "take": "Quantinuum and Quanta Computer partner to scale quantum computing hardware production",
+      "headline": "Leumi Bank to offer Bitcoin trading for 2.5M clients in 2027",
+      "take": "Leumi Bank to offer Bitcoin trading for 2.5M clients starting in 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantinuum-quanta-quantum-manufacturing-deal/"
+      "link": "https://cryptobriefing.com/leumi-bank-bitcoin-trading-galaxy-digital-2027/"
+    },
+    {
+      "headline": "Peso integrates with Yango Food to enable USDT payments for food delivery in Bolivia",
+      "take": "Peso integrates with Yango Food enabling USDT payments for food delivery Bolivia",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/peso-yango-food-usdt-payments-bolivia/"
+    },
+    {
+      "headline": "OKX sees 5x inflow from unlicensed exchanges as traders shift to regulated platforms",
+      "take": "OKX sees 5x inflow from unlicensed exchanges as traders shift to regulated platforms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/okx-5x-inflow-mica-regulated-exchanges/"
     }
   ],
   "security": [
     {
-      "headline": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-      "take": "Neutrl pauses NUSD redemptions over undisclosed reserve issue requiring investigation",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "take": "JPMorgan ended banking relationship with predictions platform Polymarket per reports",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft"
-    },
-    {
-      "headline": "Coinbase CEO warns rogue AI could unleash a \u2018Morris Worm\u2019 moment within two years",
-      "take": "Coinbase CEO warns rogue AI could trigger Morris Worm-scale incident within two years",
+      "headline": "Binance to block transactions with HTX, EXMO and other crypto platforms over compliance rules",
+      "take": "Binance to block transactions with HTX EXMO and other platforms over compliance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-ceo-ai-risks-rogue-model/"
+      "link": "https://cryptobriefing.com/binance-stops-transactions-11-crypto-platforms/"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
-      "take": "Kalshi ordered to block Washington prediction market bets after CFTC support",
+      "headline": "Ireland\u2019s New AML Strategy Brings \u2018Enhanced Checks\u2019 on Private Crypto Wallets",
+      "take": "Ireland's new AML strategy brings enhanced checks on private crypto wallets",
       "source": "decrypt",
-      "link": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it"
+      "link": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets"
     },
     {
-      "headline": "SEC cancels key crypto regulatory meeting",
-      "take": "SEC cancels key crypto regulatory meeting, timing unclear on rescheduling plans",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "take": "SEC delays tokenization innovation exemption again amid Wall Street and White House concerns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns"
+      "headline": "JPMorgan ended Polymarket banking ties but may seek IPO role",
+      "take": "JPMorgan ended Polymarket banking ties but may seek IPO role",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-terminates-banking-relationship-polymarket/"
     }
   ]
 }

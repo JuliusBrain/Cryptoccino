@@ -1,80 +1,74 @@
 {
-  "generated": "2026-08-14T05:07:33.653471+00:00",
-  "ts": 1786684053,
+  "generated": "2026-08-14T07:53:34.702168+00:00",
+  "ts": 1786694014,
   "market": [
     {
+      "headline": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "take": "Bitcoin faces headwinds while XRP hovers near one-dollar support level",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1"
+    },
+    {
+      "headline": "Emerging-market assets rally as US inflation data suggests Fed rate hike delay",
+      "take": "Emerging-market assets rally as US inflation data signals Fed rate hike delay",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/emerging-market-assets-rally-as-us-inflation-data-suggests-fed-rate-hike-delay/"
+    },
+    {
       "headline": "Bitcoin miners sell 28,000 BTC worth $2B amid rising costs",
-      "take": "Bitcoin miners sell $2B worth amid rising operational costs",
+      "take": "Bitcoin miners sell 28,000 BTC worth $2B amid rising operational costs",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-miners-sell-28000-btc-rising-costs/"
     },
     {
       "headline": "Gemini increases Bitcoin treasury holdings to 5,528 BTC worth $324M",
-      "take": "Gemini increases Bitcoin treasury holdings to $324M",
+      "take": "Gemini increases Bitcoin treasury to 5,528 BTC valued at $324M",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gemini-bitcoin-treasury-324m/"
     },
     {
-      "headline": "TradFi perps volume surges 117-fold to $387B in 18 months as crypto exchanges eat Wall Street\u2019s lunch",
-      "take": "TradFi perpetuals volume surges as crypto exchanges gain share",
+      "headline": "US producer prices unchanged in July, dimming rate hike odds",
+      "take": "US producer prices flat in July, dimming odds for Fed rate increases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradfi-perps-volume-surges-387-billion/"
-    },
-    {
-      "headline": "Asian stocks poised for weekly gain as US rate hike bets fade",
-      "take": "Asian stocks poised for weekly gain as rate hike bets fade",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asian-stocks-weekly-gain-rate-hike-fade/"
-    },
-    {
-      "headline": "Tokenized stocks\u2019 share of total RWA market cap rises to over 15%",
-      "take": "Tokenized stocks now exceed 15% of total RWA market cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-rwa-market-cap-share/"
+      "link": "https://cryptobriefing.com/us-producer-prices-unchanged-july-rate-hike-odds/"
     }
   ],
   "business": [
     {
       "headline": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-      "take": "Bitwise explores tokenizing Solana staking ETF via Superstate",
+      "take": "Bitwise explores tokenizing Solana staking ETF through Superstate partnership",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790"
     },
     {
       "headline": "Plume signs MOU with Shinhan Asset Management for KRW-denominated tokenized fund",
-      "take": "Plume signs MOU with Shinhan for KRW-denominated tokenized fund",
+      "take": "Plume signs MOU with Shinhan Asset Management for tokenized KRW fund",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/plume-shinhan-krw-tokenized-fund-mou/"
     },
     {
       "headline": "NFTs gain traction as Pok\u00e9mon trading cards drive interest in tokenized collectibles",
-      "take": "NFTs gain traction as Pok\u00e9mon cards drive tokenized collectible interest",
+      "take": "NFTs gain traction as Pok\u00e9mon trading cards drive tokenized collectibles interest",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/pokemon-cards-nfts-tokenized-collectibles/"
     },
     {
-      "headline": "Norway\u2019s $1.7T wealth fund discloses $82M stake in BitMine Immersion Technologies",
-      "take": "Norway's $1.7T wealth fund discloses $82M stake in BitMine",
+      "headline": "Reddit leaps 12% after-hours on S&P 500 inclusion news",
+      "take": "Reddit jumps 12% after-hours following S&P 500 inclusion announcement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/norway-wealth-fund-bitmine-ethereum-stake/"
-    },
-    {
-      "headline": "Gemini shares slide after $108 million loss as Winklevoss says \u2018we still have work to do\u2019",
-      "take": "Gemini shares slide after $108M loss; Winklevoss says more work ahead",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775"
+      "link": "https://cryptobriefing.com/reddit-joins-sp-500/"
     }
   ],
   "security": [
     {
       "headline": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-      "take": "Neutrl pauses NUSD redemptions over undisclosed reserve concerns",
+      "take": "Neutrl pauses NUSD redemptions due to undisclosed reserve issue",
       "source": "cointelegraph_defi",
       "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Coinbase CEO warns rogue AI could unleash a \u2018Morris Worm\u2019 moment within two years",
-      "take": "Coinbase CEO warns rogue AI could trigger major security crisis",
+      "take": "Coinbase CEO warns rogue AI could trigger Morris Worm-scale incident within two years",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-ceo-ai-risks-rogue-model/"
     }
@@ -88,21 +82,27 @@
     },
     {
       "headline": "Washington court orders Kalshi to halt most prediction market offerings in state",
-      "take": "Washington court orders Kalshi to halt most prediction market offerings",
+      "take": "Washington court orders Kalshi to halt most prediction market offerings in state",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785"
     },
     {
       "headline": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "take": "SEC delays tokenization innovation exemption amid Wall Street concerns",
+      "take": "SEC delays tokenization innovation exemption amid Wall Street and White House concerns",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns"
     },
     {
       "headline": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "take": "SEC cancels long-awaited Reg Crypto proposal without new meeting date",
+      "take": "SEC cancels Reg Crypto proposal indefinitely, postponing meeting without new date",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date"
+    },
+    {
+      "headline": "Trump imposes up to 100% tariffs on drone imports, citing national security",
+      "take": "Trump imposes up to 100% tariffs on drone imports citing national security",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-drone-tariffs-national-security/"
     }
   ]
 }

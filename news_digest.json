@@ -1,114 +1,102 @@
 {
-  "generated": "2026-08-14T16:07:39.006380+00:00",
-  "ts": 1786723659,
+  "generated": "2026-08-14T19:16:47.143527+00:00",
+  "ts": 1786735007,
   "market": [
     {
-      "headline": "Crypto\u2019s $1 Trillion Rout Hits Funds Built for Day-Trader Crowd",
-      "take": "Crypto funds for active traders hit hard during trillion-dollar market downturn",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/crypto-s-1-trillion-rout-hits-funds-built-for-day-trader-crowd"
+      "headline": "Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs",
+      "take": "Cboe seeks SEC approval for first US 3x leveraged bitcoin and ether ETFs",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879"
     },
     {
-      "headline": "JPMorgan strategist warns US corporate equity exceeds 400% of GDP, dwarfing dot-com bubble peak",
-      "take": "US corporate equity valuation now dwarfs dot-com bubble at 400% of GDP",
+      "headline": "UAE sovereign funds hold $764M in BlackRock\u2019s Bitcoin ETF, SEC filings reveal",
+      "take": "UAE sovereign funds hold $764M in BlackRock's Bitcoin ETF per SEC filings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-us-equity-400-percent-gdp/"
+      "link": "https://cryptobriefing.com/uae-mubadala-abu-dhabi-bitcoin-etf-holdings/"
     },
     {
-      "headline": "Atlanta Fed GDPNow model projects Q3 2026 growth near 6%, a sharp acceleration from Q2",
-      "take": "Atlanta Fed projects Q3 growth near 6%, sharp acceleration from prior quarter",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/atlanta-fed-gdpnow-q3-2026-growth/"
+      "headline": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto\u2019s Wall Street push",
+      "take": "Tokenization stocks slip as SEC delay creates speed bump for crypto Wall Street",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push"
     },
     {
-      "headline": "US retail sales drop 0.6% in July, biggest monthly decline since May 2025",
-      "take": "US retail sales fell 0.6% in July, largest monthly decline since May 2025",
+      "headline": "US consumer sentiment drops to 51.0 as inflation expectations climb higher",
+      "take": "US consumer sentiment drops to 51.0 as inflation expectations climb higher",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-retail-sales-drop-july-2026/"
+      "link": "https://cryptobriefing.com/us-consumer-sentiment-declines-inflation/"
     },
     {
-      "headline": "Dunamu reports 73% drop in Q2 operating profit for Upbit",
-      "take": "Upbit operator Dunamu reports 73% drop in Q2 operating profit",
+      "headline": "Wells Fargo increases Strategy position by 150% to $185M",
+      "take": "Wells Fargo increases Strategy position by 150% to $185M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dunamu-upbit-q2-operating-profit-drop/"
+      "link": "https://cryptobriefing.com/wells-fargo-increases-strategy-mstr-position-185-million/"
     }
   ],
   "business": [
     {
-      "headline": "H100 completes historic Bitcoin-for-Bitcoin M&A, triples holdings to 3,506 BTC",
-      "take": "H100 completes Bitcoin-for-Bitcoin M&A, triples holdings to 3,506 BTC",
+      "headline": "Israel\u2019s largest bank partners with Galaxy to offer BTC, ETH, and SOL trading",
+      "take": "Israel's largest bank partners with Galaxy for BTC, ETH, SOL trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/h100-bitcoin-for-bitcoin-merger-europe-treasury/"
+      "link": "https://cryptobriefing.com/israels-largest-bank-partners-with-galaxy-to-offer-btc-eth-and-sol-trading/"
     },
     {
-      "headline": "Nvidia partners with six Wall Street giants to raise $500B for AI infrastructure",
-      "take": "Nvidia partners with six Wall Street firms to raise $500B for AI infrastructure",
+      "headline": "Aave V4 deposits surpass $400M, setting a new all-time high",
+      "take": "Aave V4 deposits surpass $400M, setting new all-time high",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-500b-wall-street-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/aave-v4-deposits-surpass-400m-record/"
     },
     {
-      "headline": "NEST automated LDO buyback mechanism goes live on mainnet",
-      "take": "NEST automated LDO buyback mechanism launches on mainnet",
+      "headline": "NEAR AI lets users stake tokens for private AI compute, crossing 500,000 NEAR staked",
+      "take": "NEAR AI lets users stake tokens for private compute, exceeds 500K NEAR",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nest-ldo-buyback-mechanism-live/"
+      "link": "https://cryptobriefing.com/near-ai-staking-confidential-inference/"
     },
     {
-      "headline": "Israel\u2019s largest bank to offer crypto trading with Galaxy",
-      "take": "Israel's largest bank to offer crypto trading services via Galaxy partnership",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading"
+      "headline": "Stellar adds MoneyGram, Figure, and Range as Tier 1 validators",
+      "take": "Stellar adds MoneyGram, Figure, Range as Tier 1 validators",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stellar-moneygram-figure-range-tier-1-validators/"
     },
     {
-      "headline": "Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center",
-      "take": "Hyperscale Data sells 685 bitcoin for $43M to fund Michigan data center",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827"
+      "headline": "AftermathFi\u2019s Perpetuals V2 launches on mainnet after 12-week security review clears all major issues",
+      "take": "AftermathFi's Perpetuals V2 launches on mainnet after security review",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aftermathfi-perpetuals-v2-mainnet-launch-ottersec-audit/"
     }
   ],
   "security": [
     {
-      "headline": "Trader loses $550,000 to Google ad scam impersonating Hyperliquid",
-      "take": "Trader loses $550,000 to Google ad scam impersonating Hyperliquid exchange",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trader-loses-550k-google-ad-hyperliquid-scam/"
+      "headline": "French tax breach exposes nearly 678,000 people as crypto wrench attacks pile up",
+      "take": "French tax breach exposes 678,000 people amid rising crypto wrench attacks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
     },
     {
-      "headline": "Fake LinkedIn crypto job scams cost $11.8M in Singapore",
-      "take": "Fake LinkedIn crypto job scams cost $11.8M in Singapore",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fake-linkedin-crypto-job-scams-singapore/"
+      "headline": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+      "take": "Coldcard Bitcoin thefts slow but losses could exceed $150 million total",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million"
     },
     {
-      "headline": "Machine Learning Has a Specific Role in Blockchain Intelligence",
-      "take": "Machine learning plays specific role in blockchain intelligence and detection",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ml-role-in-blockchain-intelligence/"
+      "headline": "OpenAI employees blame product pressure after agents breached Hugging Face",
+      "take": "OpenAI employees blamed for product pressure after agents breached Hugging Face",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-rogue-agent-hack-safety-culture/"
     }
   ],
   "policy": [
     {
-      "headline": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
-      "take": "Binance to block transactions with HTX and 10 exchanges under EU Russia sanctions",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858"
-    },
-    {
-      "headline": "Montenegro aims to become Europe\u2019s next crypto hub amid regulatory challenges",
-      "take": "Montenegro aims to become Europe's next crypto hub despite regulatory headwinds",
+      "headline": "Trump to attend prediction market meeting with Paradigm ahead of key CFTC decision",
+      "take": "Trump to attend prediction market meeting with Paradigm before CFTC decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/montenegro-crypto-hub-regulatory-challenges/"
+      "link": "https://cryptobriefing.com/trump-paradigm-prediction-market-meeting/"
     },
     {
-      "headline": "Ireland\u2019s New AML Strategy Brings \u2018Enhanced Checks\u2019 on Private Crypto Wallets",
-      "take": "Ireland's new AML strategy brings enhanced checks on private crypto wallets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets"
-    },
-    {
-      "headline": "Citigroup CEO Jane Fraser pushes for changes to CLARITY Act, warns of unintended banking consequences",
-      "take": "Citigroup CEO warns CLARITY Act could have unintended banking consequences",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citigroup-ceo-clarity-act-stablecoin-concerns/"
+      "headline": "UK authorities continue probe into Nigel Farage\u2019s crypto \u2018gifts\u2019 after by-election win",
+      "take": "UK authorities continue probe into Nigel Farage's crypto gifts after by-election",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

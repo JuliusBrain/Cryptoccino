@@ -1,96 +1,71 @@
 {
-  "generated": "2026-08-15T18:50:05.453343+00:00",
-  "ts": 1786819805,
+  "generated": "2026-08-15T21:38:41.667924+00:00",
+  "ts": 1786829921,
   "market": [
     {
-      "headline": "Paul Tudor Jones\u2019 investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "take": "Paul Tudor Jones increases BlackRock bitcoin ETF stake after year of selling",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling"
+      "headline": "Solana leads growth in tokenized US T-bills with $378M increase",
+      "take": "Solana leads growth in tokenized US Treasury bills with $378M increase",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-tokenized-treasury-bills-growth/"
     },
     {
       "headline": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-      "take": "UBS surges bitcoin exposure with 24-fold increase in ETF call options",
+      "take": "UBS surges Bitcoin ETF call options 24-fold, signaling institutional demand rise",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options"
     },
     {
       "headline": "XRP nears 52-week low amid regulatory uncertainty and market sell-off",
-      "take": "XRP nears 52-week low amid regulatory uncertainty and market sell-off",
+      "take": "XRP nears 52-week low amid regulatory uncertainty and market sell-off pressure",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/xrp-nears-52-week-low-amid-regulatory-uncertainty-and-market-sell-off/"
     },
     {
-      "headline": "US energy sector ETFs see $4B in outflows as investor sentiment flips after record year",
-      "take": "US energy sector ETFs see $4B outflows as investor sentiment flips",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-energy-etf-outflows-4-billion/"
+      "headline": "Paul Tudor Jones\u2019 investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "take": "Paul Tudor Jones increases BlackRock Bitcoin ETF stake after year of selling",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling"
     },
     {
-      "headline": "CBOE extends options trading hours for select stocks to 7:30 AM ET starting Monday",
-      "take": "CBOE extends options trading hours to 7:30 AM ET for select stocks",
+      "headline": "Nillion rises 22% following integration of Chainlink\u2019s CCIP",
+      "take": "Nillion rises 22% following integration of Chainlink's CCIP cross-chain protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cboe-extends-options-trading-hours/"
+      "link": "https://cryptobriefing.com/nillion-rises-chainlink-ccip-integration/"
     }
   ],
   "business": [
     {
-      "headline": "Multicoin Capital invests over $100M in Hyperliquid\u2019s HYPE token",
-      "take": "Multicoin Capital invests over $100M in Hyperliquid's HYPE token",
+      "headline": "Bybit adds Unitree Robotics and Moonshot AI to growing pre-IPO perpetuals lineup",
+      "take": "Bybit adds Unitree Robotics and Moonshot AI to pre-IPO perpetuals lineup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multicoin-capital-invests-over-100m-in-hyperliquids-hype-token/"
+      "link": "https://cryptobriefing.com/bybit-pre-ipo-perpetuals-unitree-moonshot/"
     },
     {
-      "headline": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "take": "Unitree robot maker going public; Hyperliquid traders see 4x upside potential",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price"
+      "headline": "Craft Ventures targets $1B for new fund after David Sacks\u2019 return from White House",
+      "take": "Craft Ventures targets $1B for new fund after David Sacks White House role",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/craft-ventures-billion-dollar-fund-sacks-return/"
     },
     {
-      "headline": "Anthropic eyes $1T+ IPO as market confidence grows",
-      "take": "Anthropic eyes $1 trillion-plus IPO as market confidence grows",
+      "headline": "Nvidia in talks to invest $3B in SB Energy for OpenAI data center agreement",
+      "take": "Nvidia in talks to invest $3B in SB Energy for OpenAI data center agreement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-eyes-1t-ipo-as-market-confidence-grows/"
+      "link": "https://cryptobriefing.com/nvidia-sb-energy-openai-data-center/"
     },
-    {
-      "headline": "Binance plans return to UK market amid allegations it facilitated billions in transfers for Iran",
-      "take": "Binance plans return to UK market amid Iran transfer allegations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-uk-return-iran-allegations/"
-    },
-    {
-      "headline": "Matchbook targets US market with prediction markets and sports betting",
-      "take": "Matchbook targets US market with prediction markets and sports betting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/matchbook-us-prediction-markets-sports-betting/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "DeFiLlama exposes scam app by deliberately letting it drain a wallet",
-      "take": "DeFiLlama exposes scam app by deliberately letting it drain wallet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defillama-exposes-scam-app-wallet-drain/"
-    }
-  ],
-  "policy": [
     {
       "headline": "CLARITY ACT: America\u2019s push to become the \u201ccrypto capital of the world\u201d has three parts, per Noah CEO Shah Ramezani",
-      "take": "CLARITY ACT aims to make America crypto capital with three-part framework",
+      "take": "CLARITY ACT aims to position America as crypto capital with three-part strategy",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/clarity-act-americas-push-to-become-the-crypto-capital-of-the-world-has-three/"
-    },
+    }
+  ],
+  "security": [],
+  "policy": [
     {
       "headline": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
-      "take": "Trump, CFTC Chair Selig meet crypto and prediction market executives Wednesday",
+      "take": "Trump, CFTC Chair Selig meet Wednesday with crypto and prediction market executives",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919"
-    },
-    {
-      "headline": "Kalshi disputes Nevada regulator\u2019s geofencing fine, calls contempt motion a \u2018PR stunt\u2019",
-      "take": "Kalshi disputes Nevada regulator's geofencing fine, calls motion PR stunt",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-disputes-nevada-geofencing-fine/"
     }
   ]
 }

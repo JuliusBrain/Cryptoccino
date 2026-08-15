@@ -1,77 +1,90 @@
 {
-  "generated": "2026-08-15T13:01:13.947151+00:00",
-  "ts": 1786798873,
+  "generated": "2026-08-15T15:38:14.804051+00:00",
+  "ts": 1786808294,
   "market": [
     {
-      "headline": "Tudor Investment increases IBIT holdings to 688,529 shares valued at $22.9M",
-      "take": "Tudor Investment boosts Bitcoin ETF holdings to nearly $23 million",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tudor-investment-increases-ibit-holdings-688529-shares/"
+      "headline": "Paul Tudor Jones\u2019 investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "take": "Paul Tudor Jones increases BlackRock Bitcoin ETF stake after year of selling",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling"
     },
     {
-      "headline": "US inflation remains above Fed target, rate cuts unlikely soon: Bloomberg",
-      "take": "US inflation stays elevated; Federal Reserve unlikely to cut rates soon",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-inflation-remains-above-fed-target-rate-cuts-unlikely-soon-bloomberg/"
+      "headline": "Bitcoin could bottom in October, altcoins are \u2018basically dead,\u2019 Swan CEO says",
+      "take": "Swan CEO predicts Bitcoin bottom in October, calls altcoins basically dead",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Jump Crypto transfers 286.83 Bitcoin to Binance, total deposits reach 1.56K BTC in a single week",
-      "take": "Jump Crypto deposited 1,560 Bitcoin to Binance over single week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jump-crypto-bitcoin-binance-deposits/"
+      "headline": "The $11.2 billion in 2026 funding that killed crypto\u2019s permissionless era",
+      "take": "Eleven point two billion in 2026 funding marked crypto's permissionless era end",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era"
     },
     {
-      "headline": "Demand for chips remains strong, raising questions on Taiwan Semiconductor valuation",
-      "take": "Strong chip demand raises questions about Taiwan Semiconductor's valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-chip-demand-valuation-questions/"
+      "headline": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+      "take": "Mastercard's one point eight billion deal reveals crypto week's untold stories",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories"
     }
   ],
   "business": [
     {
-      "headline": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "take": "Mastercard completes $1.8 billion deal; crypto regulation bill survival uncertain",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories"
+      "headline": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "take": "Trump-linked World Liberty gets conditional bank charter for USD stablecoin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin"
     },
     {
-      "headline": "Etherealize CEO warns Wall Street\u2019s private blockchain push is a race to the bottom",
-      "take": "Wall Street's private blockchain push lacks genuine innovation, lacks substance",
+      "headline": "Binance plans return to UK market amid allegations it facilitated billions in transfers for Iran",
+      "take": "Binance plans UK market return amid Iran transfer facilitation allegations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etherealize-ceo-private-blockchain-race-to-bottom/"
+      "link": "https://cryptobriefing.com/binance-uk-return-iran-allegations/"
     },
     {
-      "headline": "Cosmostation to shut down wallet services starting September 1",
-      "take": "Cosmostation shuts down wallet services effective September first",
+      "headline": "Matchbook targets US market with prediction markets and sports betting",
+      "take": "Matchbook targets US market with prediction markets and sports betting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cosmostation-wallet-shutdown-september/"
+      "link": "https://cryptobriefing.com/matchbook-us-prediction-markets-sports-betting/"
     },
     {
-      "headline": "Alibaba reports Qwen surpasses 3 billion global downloads",
-      "take": "Alibaba's Qwen AI surpasses three billion downloads globally",
+      "headline": "Meta FAIR paper reveals limitations in Chinchilla scaling law, proposes fix that cuts compute costs by 10x",
+      "take": "Meta FAIR reveals Chinchilla scaling law fix reducing compute costs tenfold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-qwen-3-billion-downloads/"
+      "link": "https://cryptobriefing.com/meta-fair-skaling-chinchilla-scaling-law/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "DeFiLlama exposes scam app by deliberately letting it drain a wallet",
+      "take": "DeFiLlama exposes scam app by deliberately draining a wallet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/defillama-exposes-scam-app-wallet-drain/"
+    },
+    {
+      "headline": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "take": "Meta patents cameras that recognize faces and log user actions",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions"
+    }
+  ],
   "policy": [
     {
-      "headline": "Odds of CLARITY Act passing this year drop to 10%, Galaxy Research warns",
-      "take": "CLARITY Act passage odds drop to ten percent this year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-passing-odds-drop-galaxy-research/"
+      "headline": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
+      "take": "Trump, CFTC Chair expected at White House crypto and prediction market meeting",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919"
     },
     {
-      "headline": "$600B of Biden\u2019s clean energy funding survives Trump\u2019s cuts",
-      "take": "Six hundred billion dollars Biden clean energy funding survives Trump cuts",
+      "headline": "Kalshi disputes Nevada regulator\u2019s geofencing fine, calls contempt motion a \u2018PR stunt\u2019",
+      "take": "Kalshi disputes Nevada regulator fine, calls contempt motion public relations stunt",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/600-billion-biden-clean-energy-funding-survives-trump-cuts/"
+      "link": "https://cryptobriefing.com/kalshi-disputes-nevada-geofencing-fine/"
     },
     {
-      "headline": "Kalshi ordered to stop broad range of prediction markets in Washington",
-      "take": "Kalshi ordered to halt prediction market operations by regulators",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Why the world\u2019s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+      "take": "World's second-largest Bitcoin mining power shuts down rigs in capital city",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city"
     }
   ]
 }

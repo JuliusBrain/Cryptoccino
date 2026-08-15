@@ -1,86 +1,86 @@
 {
-  "generated": "2026-08-15T03:57:03.200832+00:00",
-  "ts": 1786766223,
+  "generated": "2026-08-15T07:00:30.713348+00:00",
+  "ts": 1786777230,
   "market": [
     {
-      "headline": "Jane Street posts roughly $15 billion July loss after AI market turmoil",
-      "take": "Jane Street posts roughly $15B loss after AI market turmoil",
+      "headline": "Fed rate hike expectations drop after weak retail sales, sentiment data",
+      "take": "Fed rate hike expectations decline following weak retail sales and sentiment data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jane-street-15b-loss-claim-debunked/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-expectations-drop-after-weak-retail-sales-sentiment-data/"
     },
     {
-      "headline": "Institutional investors show caution toward tech favorites in US 13F filings",
-      "take": "Institutional investors show caution toward tech favorites in recent filings",
+      "headline": "Berkshire Hathaway boosts Alphabet stake by 83% to $38B",
+      "take": "Berkshire Hathaway increases Alphabet stake by eighty-three percent to thirty-eight billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutional-investors-caution-tech-13f-filings/"
+      "link": "https://cryptobriefing.com/berkshire-hathaway-alphabet-stake-38-billion/"
     },
     {
       "headline": "Bitwise Chainlink ETF pulls in $1.5M in weekly inflows despite brutal returns since launch",
-      "take": "Bitwise Chainlink ETF attracts $1.5M weekly inflows despite weak launch performance",
+      "take": "Bitwise Chainlink ETF attracts one point five million in weekly inflows",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitwise-chainlink-etf-weekly-inflows/"
     },
     {
-      "headline": "HIVE Digital Technologies misses Q1 earnings and revenue estimates",
-      "take": "HIVE Digital Technologies misses Q1 earnings and revenue targets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hive-digital-misses-q1-earnings-revenue/"
-    },
-    {
       "headline": "Hedge funds reduce bearish bets against yen after US-Japan intervention",
-      "take": "Hedge funds reduce bearish yen bets after US-Japan intervention",
+      "take": "Hedge funds reduce yen bearish bets after US-Japan intervention",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hedge-funds-reduce-yen-bearish-bets-intervention/"
+    },
+    {
+      "headline": "Wall Street\u2019s speculative trades rebound after sharp losses",
+      "take": "Wall Street speculative trades rebound following sharp recent losses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wall-street-speculative-trades-rebound/"
     }
   ],
   "business": [
     {
-      "headline": "Donald Trump expected to meet with crypto executives at White House next week",
-      "take": "Trump expected to meet with crypto executives at White House next week",
+      "headline": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "take": "Anthropic IPO valuation hinges on one-ninety to two-hundred billion dollar twenty-twenty-eight revenue forecast",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-crypto-executives-white-house-meeting/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-valuation-hinges-on-190-200b-2028-revenue-forecast/"
     },
     {
-      "headline": "Anthropic reports 14-fold revenue increase in Q2, signals first profitable quarter ahead of potential IPO",
-      "take": "Anthropic reports 14x revenue growth, signals profitable quarter ahead of IPO",
+      "headline": "Anthropic in talks to acquire Decart AI for $6B: Bloomberg",
+      "take": "Anthropic in talks to acquire Decart AI for six billion dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-14-fold-revenue-increase-q2/"
+      "link": "https://cryptobriefing.com/anthropic-in-talks-to-acquire-decart-ai-for-6b-bloomberg/"
     },
     {
-      "headline": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-      "take": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906"
-    },
-    {
-      "headline": "OpenAI parts ways with chief revenue officer Denise Dresser amid executive changes",
-      "take": "OpenAI parts ways with chief revenue officer Denise Dresser",
+      "headline": "Nvidia discloses $21B stake in SpaceX, signaling deepening AI alliance",
+      "take": "Nvidia discloses twenty-one billion dollar stake in SpaceX, deepening AI alliance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-cro-denise-dresser-leadership-changes/"
+      "link": "https://cryptobriefing.com/nvidia-21b-spacex-stake-ai-alliance/"
     },
     {
       "headline": "Bitwise to announce first product in new alpha strategies line next week",
-      "take": "Bitwise to announce first product in new alpha strategies line",
+      "take": "Bitwise to announce first product in new alpha strategies line next week",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitwise-alpha-strategies-product-launch/"
+    },
+    {
+      "headline": "India bets $13B on semiconductor plants and nuclear reactors in twin industrialization push",
+      "take": "India invests thirteen billion on semiconductor plants and nuclear reactors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-semiconductor-plants-nuclear-expansion/"
     }
   ],
   "security": [
     {
-      "headline": "French tax breach exposes nearly 678,000 people as crypto wrench attacks pile up",
-      "take": "French tax breach exposes nearly 678K people to crypto wrench attacks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
-    },
-    {
       "headline": "GLM-5.3 identifies serious vulnerability in Cursor code editor",
-      "take": "GLM-5.3 identifies serious vulnerability in Cursor code editor",
+      "take": "GLM-five point three identifies serious vulnerability in Cursor code editor",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/glm-5-3-cursor-vulnerability-cybersecurity/"
     },
     {
+      "headline": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+      "take": "France tax data leak could fuel scams and attacks targeting Bitcoin holders",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"
+    },
+    {
       "headline": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-      "take": "SEC charges boiler room operator defrauding investors in $74M pre-IPO scam",
+      "take": "SEC charges boiler room operator with seventy-four million dollar pre-IPO investment fraud",
       "source": "sec_press",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
     },
@@ -93,14 +93,26 @@
   ],
   "policy": [
     {
+      "headline": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
+      "take": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906"
+    },
+    {
       "headline": "Ireland plans industry standards for illicit crypto use",
-      "take": "Ireland plans industry standards for illicit crypto use detection",
+      "take": "Ireland plans industry standards for illicit cryptocurrency use detection",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
+      "headline": "Donald Trump expected to meet with crypto executives at White House next week",
+      "take": "Donald Trump expected to meet with crypto executives at White House",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-crypto-executives-white-house-meeting/"
+    },
+    {
       "headline": "US SEC extends hands-off policy on shareholder proposals, raising governance concerns",
-      "take": "US SEC extends hands-off policy on shareholder proposals",
+      "take": "US SEC extends hands-off policy on shareholder proposals, raising governance concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-shareholder-proposals-policy-concerns/"
     }

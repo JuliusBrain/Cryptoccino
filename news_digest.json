@@ -1,120 +1,108 @@
 {
-  "generated": "2026-08-15T07:00:30.713348+00:00",
-  "ts": 1786777230,
+  "generated": "2026-08-15T09:43:40.895168+00:00",
+  "ts": 1786787020,
   "market": [
     {
       "headline": "Fed rate hike expectations drop after weak retail sales, sentiment data",
-      "take": "Fed rate hike expectations decline following weak retail sales and sentiment data",
+      "take": "Fed rate hike expectations fall after weak retail sales and sentiment data",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fed-rate-hike-expectations-drop-after-weak-retail-sales-sentiment-data/"
     },
     {
       "headline": "Berkshire Hathaway boosts Alphabet stake by 83% to $38B",
-      "take": "Berkshire Hathaway increases Alphabet stake by eighty-three percent to thirty-eight billion",
+      "take": "Berkshire Hathaway increases Alphabet stake by 83 percent to 38 billion dollars",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/berkshire-hathaway-alphabet-stake-38-billion/"
     },
     {
-      "headline": "Bitwise Chainlink ETF pulls in $1.5M in weekly inflows despite brutal returns since launch",
-      "take": "Bitwise Chainlink ETF attracts one point five million in weekly inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-chainlink-etf-weekly-inflows/"
-    },
-    {
       "headline": "Hedge funds reduce bearish bets against yen after US-Japan intervention",
-      "take": "Hedge funds reduce yen bearish bets after US-Japan intervention",
+      "take": "Hedge funds trim bearish yen bets following US-Japan intervention",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hedge-funds-reduce-yen-bearish-bets-intervention/"
     },
     {
+      "headline": "Bitwise Chainlink ETF pulls in $1.5M in weekly inflows despite brutal returns since launch",
+      "take": "Bitwise Chainlink ETF attracts 1.5M weekly inflows despite poor post-launch returns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-chainlink-etf-weekly-inflows/"
+    },
+    {
       "headline": "Wall Street\u2019s speculative trades rebound after sharp losses",
-      "take": "Wall Street speculative trades rebound following sharp recent losses",
+      "take": "Wall Street speculative trades rebound after sharp losses",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/wall-street-speculative-trades-rebound/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "take": "Anthropic IPO valuation hinges on one-ninety to two-hundred billion dollar twenty-twenty-eight revenue forecast",
+      "headline": "Anthropic reports 14-fold revenue increase in Q2, signals first profitable quarter ahead of potential IPO",
+      "take": "Anthropic reports 14-fold Q2 revenue gain, signals first profitable quarter before IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-valuation-hinges-on-190-200b-2028-revenue-forecast/"
+      "link": "https://cryptobriefing.com/anthropic-14-fold-revenue-increase-q2/"
     },
     {
       "headline": "Anthropic in talks to acquire Decart AI for $6B: Bloomberg",
-      "take": "Anthropic in talks to acquire Decart AI for six billion dollars",
+      "take": "Anthropic in talks to acquire Decart AI for approximately six billion dollars",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-in-talks-to-acquire-decart-ai-for-6b-bloomberg/"
     },
     {
-      "headline": "Nvidia discloses $21B stake in SpaceX, signaling deepening AI alliance",
-      "take": "Nvidia discloses twenty-one billion dollar stake in SpaceX, deepening AI alliance",
+      "headline": "India bets $13B on semiconductor plants and nuclear reactors in twin industrialization push",
+      "take": "India invests 13 billion dollars in semiconductor plants and nuclear reactors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-21b-spacex-stake-ai-alliance/"
+      "link": "https://cryptobriefing.com/india-semiconductor-plants-nuclear-expansion/"
     },
     {
       "headline": "Bitwise to announce first product in new alpha strategies line next week",
-      "take": "Bitwise to announce first product in new alpha strategies line next week",
+      "take": "Bitwise announces first product in new alpha strategies line next week",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitwise-alpha-strategies-product-launch/"
     },
     {
-      "headline": "India bets $13B on semiconductor plants and nuclear reactors in twin industrialization push",
-      "take": "India invests thirteen billion on semiconductor plants and nuclear reactors",
+      "headline": "Nvidia scales back financial guarantee to under $120B for OpenAI data center project",
+      "take": "Nvidia scales back financial guarantee to under 120 billion for OpenAI data center",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-semiconductor-plants-nuclear-expansion/"
+      "link": "https://cryptobriefing.com/nvidia-reduces-guarantee-openai-data-center/"
     }
   ],
   "security": [
     {
       "headline": "GLM-5.3 identifies serious vulnerability in Cursor code editor",
-      "take": "GLM-five point three identifies serious vulnerability in Cursor code editor",
+      "take": "GLM-5.3 identifies serious vulnerability in Cursor code editor",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/glm-5-3-cursor-vulnerability-cybersecurity/"
     },
     {
-      "headline": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-      "take": "France tax data leak could fuel scams and attacks targeting Bitcoin holders",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"
-    },
-    {
-      "headline": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-      "take": "SEC charges boiler room operator with seventy-four million dollar pre-IPO investment fraud",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
-    },
-    {
       "headline": "Fermi receives subpoena from US District Court for Project Matador documents",
-      "take": "Fermi receives subpoena from US District Court for Project Matador documents",
+      "take": "Fermi receives subpoena for Project Matador documents from US District Court",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fermi-subpoena-project-matador-documents/"
     }
   ],
   "policy": [
     {
-      "headline": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-      "take": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906"
-    },
-    {
-      "headline": "Ireland plans industry standards for illicit crypto use",
-      "take": "Ireland plans industry standards for illicit cryptocurrency use detection",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "Donald Trump expected to meet with crypto executives at White House next week",
-      "take": "Donald Trump expected to meet with crypto executives at White House",
+      "take": "Trump expected to meet with crypto executives at White House next week",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-crypto-executives-white-house-meeting/"
+    },
+    {
+      "headline": "Elon Musk pledges to make government censorship requests more visible on X",
+      "take": "Elon Musk pledges to make government censorship requests more visible on X",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/musk-x-government-censorship-requests-visible-algorithm/"
     },
     {
       "headline": "US SEC extends hands-off policy on shareholder proposals, raising governance concerns",
       "take": "US SEC extends hands-off policy on shareholder proposals, raising governance concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-shareholder-proposals-policy-concerns/"
+    },
+    {
+      "headline": "UK Ministry of Defence tightens supply chain rules after naval drones pinged China",
+      "take": "UK Ministry of Defence tightens supply chain rules after naval drones pinged China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-mod-supply-chain-drone-signals-china/"
     }
   ]
 }

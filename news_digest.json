@@ -1,71 +1,66 @@
 {
-  "generated": "2026-08-16T09:45:09.201656+00:00",
-  "ts": 1786873509,
+  "generated": "2026-08-16T13:03:18.785256+00:00",
+  "ts": 1786885398,
   "market": [
     {
-      "headline": "Bitcoin drops 47% in a year, Strategy\u2019s $STRC gains 9% amid market volatility",
-      "take": "Bitcoin down 47% year-over-year amid broader crypto market volatility",
+      "headline": "Riot Platforms signs $9B AI compute deal with Anthropic, shifts from Bitcoin mining",
+      "take": "Riot Platforms pivots to AI compute with nine billion dollar Anthropic deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-drops-47-in-a-year-strategys-strc-gains-9-amid-market-volatility/"
+      "link": "https://cryptobriefing.com/riot-platforms-signs-9b-ai-compute-deal-with-anthropic-shifts-from-bitcoin/"
     },
     {
-      "headline": "Real-world assets drive 32% of Hyperliquid\u2019s new users in early 2026",
-      "take": "Real-world assets now drive one-third of Hyperliquid's new user growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/real-world-assets-drive-32-of-hyperliquids-new-users-in-early-2026/"
+      "headline": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "take": "Traditional finance institutions now embrace digital assets mainstream adoption",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets"
     },
     {
-      "headline": "Nomura\u2019s McElligott highlights $300B market chaos potential from autocallable structures",
-      "take": "Nomura warns autocallable structures pose $300B market disruption risk",
+      "headline": "Federal Reserve holds rates as divided FOMC vote fuels rate hike expectations",
+      "take": "Federal Reserve holds rates steady despite divided committee vote signals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-debate-investors/"
     },
     {
-      "headline": "CoreWeave co-founders have sold billions in stock since lockup expired",
-      "take": "CoreWeave co-founders sold billions in stock after lockup expiration",
+      "headline": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "take": "Banks and crypto compete over stablecoin yields in ongoing dispute",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition"
+    },
+    {
+      "headline": "Roundhill\u2019s memory chip ETF parks more than a quarter of its assets in a single stock",
+      "take": "Memory chip ETF concentrates over quarter assets in single holding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-insider-stock-sales-analysis/"
+      "link": "https://cryptobriefing.com/roundhill-dram-etf-micron-allocation/"
     }
   ],
   "business": [
     {
-      "headline": "Tether CEO Paolo Ardoino denies plans to build blockchain",
-      "take": "Tether CEO denies plans to build proprietary blockchain infrastructure",
+      "headline": "OpenAI updates privacy policy for ad personalization on ChatGPT",
+      "take": "OpenAI updates ChatGPT privacy policy to enable ad personalization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-ceo-denies-blockchain-plans/"
+      "link": "https://cryptobriefing.com/openai-privacy-policy-chatgpt-ad-personalization/"
     },
     {
-      "headline": "Malaysia emerges as key AI hub amid data centre boom",
-      "take": "Malaysia positioning itself as emerging hub for AI data center expansion",
+      "headline": "Chelsea co-owner Mark Walter open to selling stake amid US federal investigation",
+      "take": "Chelsea co-owner Mark Walter considers stake sale amid federal investigation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/malaysia-ai-hub-data-centre-boom/"
-    },
-    {
-      "headline": "JPMorgan cut Polymarket\u2019s banking ties in October but still wants a role in a potential IPO: FT",
-      "take": "JPMorgan maintains interest in Polymarket IPO despite ending banking services",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929"
+      "link": "https://cryptobriefing.com/chelsea-co-owner-walter-selling-stake-investigation/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Bits of Gold reported to have suffered data breach affecting 200,000 customers",
+      "take": "Bits of Gold suffers data breach exposing two hundred thousand customers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bits-of-gold-data-breach-200000-customers/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Policymakers push for profit-sharing from AI data centers as states revolt against Big Tech\u2019s energy appetite",
-      "take": "States push policymakers to share AI data center profits amid energy concerns",
+      "headline": "Trump considers more sanctions on Iran to influence nuclear policy",
+      "take": "Trump considers additional Iran sanctions to shape nuclear policy outcomes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/policymakers-profit-sharing-ai-data-centers/"
-    },
-    {
-      "headline": "German companies cut US investment to three-year low as tariff uncertainty bites",
-      "take": "German companies slash US investment to three-year low over tariff uncertainty",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/german-companies-cut-us-investment-three-year-low/"
-    },
-    {
-      "headline": "China revises timing for July economic data release to 3 p.m. Monday",
-      "take": "China reschedules July economic data release to Monday afternoon",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-revises-july-economic-data-release-timing/"
+      "link": "https://cryptobriefing.com/trump-considers-more-sanctions-on-iran-to-influence-nuclear-policy/"
     }
   ]
 }

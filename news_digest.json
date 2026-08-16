@@ -1,77 +1,83 @@
 {
-  "generated": "2026-08-16T04:02:20.420868+00:00",
-  "ts": 1786852940,
+  "generated": "2026-08-16T07:02:20.433992+00:00",
+  "ts": 1786863740,
   "market": [
     {
       "headline": "Solana leads growth in tokenized US T-bills with $378M increase",
-      "take": "Solana leads tokenized US Treasury bill growth with $378M increase",
+      "take": "Solana leads tokenized US Treasury growth with $378M increase",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-tokenized-treasury-bills-growth/"
     },
     {
       "headline": "Nomura\u2019s McElligott highlights $300B market chaos potential from autocallable structures",
-      "take": "$300B market chaos potential from autocallable derivatives structures",
+      "take": "Nomura warns autocallable structures pose $300B market chaos risk",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/"
     },
     {
       "headline": "Block EPS surges 65%, stock drops despite strong earnings",
-      "take": "Block earnings surge 65% but stock drops despite strong results",
+      "take": "Block EPS surges 65% but stock falls despite strong results",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/block-eps-surges-stock-drops-earnings/"
     },
     {
       "headline": "XRP social sentiment hits 3-month low, active addresses surge",
-      "take": "XRP sentiment hits three-month low while active addresses increase",
+      "take": "XRP sentiment hits three-month low while active addresses rise",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/xrp-social-sentiment-hits-3-month-low-active-addresses-surge/"
+    },
+    {
+      "headline": "Pump.fun ranks third in 7-day revenue among all protocols, trailing only Tether and Circle",
+      "take": "Pump.fun ranks third in protocol revenue after Tether, Circle",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pumpfun-third-7-day-revenue-protocols/"
     }
   ],
   "business": [
     {
-      "headline": "Pump.fun ranks third in 7-day revenue among all protocols, trailing only Tether and Circle",
-      "take": "Pump.fun ranks third in protocol revenue after Tether and Circle",
+      "headline": "Real-world assets drive 32% of Hyperliquid\u2019s new users in early 2026",
+      "take": "Real-world assets drive 32% of Hyperliquid's new users early 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-third-7-day-revenue-protocols/"
+      "link": "https://cryptobriefing.com/real-world-assets-drive-32-of-hyperliquids-new-users-in-early-2026/"
     },
     {
-      "headline": "Craft Ventures targets $1B for new fund after David Sacks\u2019 return from White House",
-      "take": "Craft Ventures targets $1B fund after David Sacks White House exit",
+      "headline": "Palantir makes its case against frontier AI with 93% revenue growth as ammunition",
+      "take": "Palantir posts 93% revenue growth arguing against frontier AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/craft-ventures-billion-dollar-fund-sacks-return/"
+      "link": "https://cryptobriefing.com/palantir-case-against-frontier-ai/"
+    },
+    {
+      "headline": "Anthropic CEO: AI could cure most diseases within next decade",
+      "take": "Anthropic CEO says AI could cure most diseases within decade",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ceo-ai-could-cure-most-diseases-within-next-decade/"
     },
     {
       "headline": "JPMorgan cut Polymarket\u2019s banking ties in October but still wants a role in a potential IPO: FT",
-      "take": "JPMorgan cut Polymarket banking ties but seeks role in IPO",
+      "take": "JPMorgan cut Polymarket banking ties in October, eyes IPO role",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929"
     },
     {
-      "headline": "Nillion rises 22% following integration of Chainlink\u2019s CCIP",
-      "take": "Nillion rises 22% following Chainlink CCIP integration",
+      "headline": "Tesla ends Sweden\u2019s longest strike by buying out remaining workers",
+      "take": "Tesla ends Sweden's longest strike by buying out remaining workers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nillion-rises-chainlink-ccip-integration/"
-    },
-    {
-      "headline": "Palantir makes its case against frontier AI with 93% revenue growth as ammunition",
-      "take": "Palantir reports 93% revenue growth in frontier AI expansion case",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/palantir-case-against-frontier-ai/"
+      "link": "https://cryptobriefing.com/tesla-ends-sweden-longest-strike-buyout/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Trump administration discourages Apple from sourcing memory chips from Chinese firms",
-      "take": "Trump administration discourages Apple from Chinese memory chip sourcing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-admin-apple-chinese-memory-chips/"
-    },
-    {
       "headline": "Mark Cuban warns California billionaire tax could drive founders out of state",
-      "take": "Mark Cuban warns California billionaire tax could push founders out",
+      "take": "Mark Cuban warns California billionaire tax may drive founders away",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/mark-cuban-warns-california-billionaire-tax-could-drive-founders-out-of-state/"
+    },
+    {
+      "headline": "Iran ties Strait of Hormuz reopening to US compliance with June agreement",
+      "take": "Iran ties Strait of Hormuz reopening to US agreement compliance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-ties-strait-of-hormuz-reopening-to-us-compliance-with-june-agreement/"
     }
   ]
 }

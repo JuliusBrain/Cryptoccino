@@ -1,68 +1,74 @@
 {
-  "generated": "2026-08-16T18:49:15.573078+00:00",
-  "ts": 1786906155,
+  "generated": "2026-08-16T21:37:08.028978+00:00",
+  "ts": 1786916228,
   "market": [
     {
-      "headline": "Tokenized ETF market cap surges 826% to $611M in one year",
-      "take": "Tokenized ETF market cap surged 826% to $611M in one year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-etf-market-cap-surges-826-percent/"
-    },
-    {
-      "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "take": "Crypto investors shift focus from market-cap rankings back to fundamentals",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
-    },
-    {
       "headline": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "take": "Traditional finance giants now embrace digital assets alongside cryptocurrency",
+      "take": "Traditional finance institutions now embrace digital assets alongside crypto",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets"
     },
     {
-      "headline": "72% of US consumers expect inflation to outpace income growth",
-      "take": "72% of US consumers expect inflation to outpace income growth",
+      "headline": "Federal Reserve expected to hold rates steady this year, BMO economist says, with cuts seen in 2027",
+      "take": "Federal Reserve expected to hold rates steady through 2026, then cut in 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-consumers-inflation-income-growth-pessimism/"
+      "link": "https://cryptobriefing.com/fed-hold-rates-steady-bmo-economist/"
     },
     {
-      "headline": "Fed minutes reveal division on rate hike decision",
-      "take": "Fed minutes reveal internal division on rate hike decision ahead",
+      "headline": "Tether Gold leads market cap growth in tokenized gold assets, adding $237M",
+      "take": "Tether Gold leads tokenized gold assets with $237M market cap addition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-minutes-reveal-division-on-rate-hike-decision/"
+      "link": "https://cryptobriefing.com/tether-gold-leads-tokenized-gold-growth/"
+    },
+    {
+      "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "take": "Crypto investors shift focus from market cap rankings to fundamental analysis",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
+    },
+    {
+      "headline": "Nvidia H100 GPU rental costs surge 50% in six months as AI demand outpaces supply",
+      "take": "Nvidia H100 GPU rental costs surge 50% in six months due to AI demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-h100-gpu-rental-costs-surge/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic eyes largest 2026 IPO with $965B valuation, no date set",
-      "take": "Anthropic eyes largest 2026 IPO with $965B valuation, no date set",
+      "headline": "Stripe in advanced talks to acquire OpenRouter for around $10B",
+      "take": "Stripe in advanced talks to acquire OpenRouter for approximately $10B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-eyes-largest-2026-ipo-with-965b-valuation-no-date-set/"
+      "link": "https://cryptobriefing.com/stripe-acquires-openrouter-7-billion/"
     },
     {
-      "headline": "OpenAI appoints former Wiz president Dali Rajic as chief revenue officer",
-      "take": "OpenAI appoints former Wiz president Dali Rajic as chief revenue officer",
+      "headline": "Aave becomes the dominant DeFi venue for tokenized gold deposits",
+      "take": "Aave becomes dominant DeFi venue for tokenized gold deposits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-appoints-former-wiz-president-dali-rajic-as-chief-revenue-officer/"
+      "link": "https://cryptobriefing.com/aave-leading-defi-tokenized-gold/"
     },
     {
-      "headline": "Tokenized stocks reach 1.4M holders, up 448% in six months",
-      "take": "Tokenized stocks reach 1.4M holders, up 448% in six months",
+      "headline": "OpenAI ships multi-agent v2 update adding support for Luna model",
+      "take": "OpenAI releases multi-agent v2 update with Luna model support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-1-4m-holders-growth/"
+      "link": "https://cryptobriefing.com/openai-multi-agent-v2-luna-model/"
     },
     {
-      "headline": "CZ donates BNB and \u5e01\u5b89\u4eba\u751f tokens to Giggle Academy, plans to abandon wallet entirely",
-      "take": "CZ donates BNB tokens to Giggle Academy, plans wallet abandonment",
+      "headline": "Meta\u2019s custom silicon poses challenge to Nvidia\u2019s AI dominance",
+      "take": "Meta's custom silicon challenges Nvidia's dominance in AI hardware",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-donates-bnb-giggle-academy-abandons-wallet/"
+      "link": "https://cryptobriefing.com/meta-custom-silicon-nvidia-ai-challenge/"
+    },
+    {
+      "headline": "US labs cut AI inference costs nearly 25% amid price war",
+      "take": "US labs cut AI inference costs nearly 25% amid intensifying price competition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-labs-ai-inference-price-war/"
     }
   ],
   "security": [
     {
       "headline": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
-      "take": "SafePal wallet breach exposed personal info of nearly 40,000 customers",
+      "take": "SafePal wallet breach exposes personal information of nearly 40,000 customers",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934"
     },
@@ -71,26 +77,26 @@
       "take": "Hackers exploited macOS Screen Sharing flaw to install Monero miners",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932"
+    },
+    {
+      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "take": "MiCA compliance cleanup spawning new scam wave across European Union",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
     }
   ],
   "policy": [
     {
-      "headline": "CLARITY Act faces Senate vote as banks oppose stablecoin rewards",
-      "take": "CLARITY Act faces Senate vote as banks oppose stablecoin rewards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-faces-senate-vote-as-banks-oppose-stablecoin-rewards/"
-    },
-    {
-      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "take": "MiCA's cleanup is creating a new scam wave across European Union",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
-    },
-    {
       "headline": "The SEC meeting that wasn't: State of Crypto",
-      "take": "SEC meeting addresses state of cryptocurrency regulation and oversight",
+      "take": "SEC meeting addresses current state of crypto regulation and oversight",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
+    },
+    {
+      "headline": "California billionaires add millions to fight wealth tax on 2026 ballot",
+      "take": "California billionaires fund campaign against wealth tax on 2026 ballot",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/california-billionaires-add-millions-to-fight-wealth-tax-on-2026-ballot/"
     }
   ]
 }

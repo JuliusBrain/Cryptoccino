@@ -1,7 +1,13 @@
 {
-  "generated": "2026-08-15T21:38:41.667924+00:00",
-  "ts": 1786829921,
+  "generated": "2026-08-16T01:59:24.281656+00:00",
+  "ts": 1786845564,
   "market": [
+    {
+      "headline": "Nomura\u2019s McElligott highlights $300B market chaos potential from autocallable structures",
+      "take": "Nomura analyst warns of $300B market chaos from autocallable structures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/"
+    },
     {
       "headline": "Solana leads growth in tokenized US T-bills with $378M increase",
       "take": "Solana leads growth in tokenized US Treasury bills with $378M increase",
@@ -10,62 +16,68 @@
     },
     {
       "headline": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-      "take": "UBS surges Bitcoin ETF call options 24-fold, signaling institutional demand rise",
+      "take": "UBS surges Bitcoin ETF call options 24-fold, signaling increased exposure",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options"
     },
     {
-      "headline": "XRP nears 52-week low amid regulatory uncertainty and market sell-off",
-      "take": "XRP nears 52-week low amid regulatory uncertainty and market sell-off pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-nears-52-week-low-amid-regulatory-uncertainty-and-market-sell-off/"
-    },
-    {
       "headline": "Paul Tudor Jones\u2019 investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "take": "Paul Tudor Jones increases BlackRock Bitcoin ETF stake after year of selling",
+      "take": "Paul Tudor Jones increases BlackRock Bitcoin ETF stake after year selling",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling"
     },
     {
-      "headline": "Nillion rises 22% following integration of Chainlink\u2019s CCIP",
-      "take": "Nillion rises 22% following integration of Chainlink's CCIP cross-chain protocol",
+      "headline": "XRP social sentiment hits 3-month low, active addresses surge",
+      "take": "XRP sentiment hits three-month low despite rising active addresses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nillion-rises-chainlink-ccip-integration/"
+      "link": "https://cryptobriefing.com/xrp-social-sentiment-hits-3-month-low-active-addresses-surge/"
     }
   ],
   "business": [
     {
-      "headline": "Bybit adds Unitree Robotics and Moonshot AI to growing pre-IPO perpetuals lineup",
-      "take": "Bybit adds Unitree Robotics and Moonshot AI to pre-IPO perpetuals lineup",
+      "headline": "Pump.fun ranks third in 7-day revenue among all protocols, trailing only Tether and Circle",
+      "take": "Pump.fun ranks third in protocol revenue behind Tether and Circle",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bybit-pre-ipo-perpetuals-unitree-moonshot/"
+      "link": "https://cryptobriefing.com/pumpfun-third-7-day-revenue-protocols/"
     },
     {
       "headline": "Craft Ventures targets $1B for new fund after David Sacks\u2019 return from White House",
-      "take": "Craft Ventures targets $1B for new fund after David Sacks White House role",
+      "take": "Craft Ventures targets $1B fund after David Sacks leaves White House",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/craft-ventures-billion-dollar-fund-sacks-return/"
     },
     {
-      "headline": "Nvidia in talks to invest $3B in SB Energy for OpenAI data center agreement",
-      "take": "Nvidia in talks to invest $3B in SB Energy for OpenAI data center agreement",
+      "headline": "Nillion rises 22% following integration of Chainlink\u2019s CCIP",
+      "take": "Nillion rises 22% following Chainlink CCIP integration announcement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-sb-energy-openai-data-center/"
+      "link": "https://cryptobriefing.com/nillion-rises-chainlink-ccip-integration/"
     },
     {
-      "headline": "CLARITY ACT: America\u2019s push to become the \u201ccrypto capital of the world\u201d has three parts, per Noah CEO Shah Ramezani",
-      "take": "CLARITY ACT aims to position America as crypto capital with three-part strategy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-americas-push-to-become-the-crypto-capital-of-the-world-has-three/"
+      "headline": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+      "take": "Robot maker Unitree IPO draws 4x upside from Hyperliquid traders",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price"
+    },
+    {
+      "headline": "Apple Turns to Alibaba to Help Build AI Model for China",
+      "take": "Apple partners with Alibaba to build AI model for China market",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china"
     }
   ],
   "security": [],
   "policy": [
     {
       "headline": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
-      "take": "Trump, CFTC Chair Selig meet Wednesday with crypto and prediction market executives",
+      "take": "Trump and CFTC chair meet crypto and prediction market executives Wednesday",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919"
+    },
+    {
+      "headline": "Trump administration discourages Apple from sourcing memory chips from Chinese firms",
+      "take": "Trump administration discourages Apple from sourcing chips from China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-admin-apple-chinese-memory-chips/"
     }
   ]
 }

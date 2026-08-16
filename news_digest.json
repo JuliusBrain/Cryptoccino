@@ -1,102 +1,96 @@
 {
-  "generated": "2026-08-16T15:40:03.684695+00:00",
-  "ts": 1786894803,
+  "generated": "2026-08-16T18:49:15.573078+00:00",
+  "ts": 1786906155,
   "market": [
     {
+      "headline": "Tokenized ETF market cap surges 826% to $611M in one year",
+      "take": "Tokenized ETF market cap surged 826% to $611M in one year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-etf-market-cap-surges-826-percent/"
+    },
+    {
+      "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "take": "Crypto investors shift focus from market-cap rankings back to fundamentals",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
+    },
+    {
       "headline": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "take": "Traditional finance institutions now embracing bitcoin and digital assets mainstream",
+      "take": "Traditional finance giants now embrace digital assets alongside cryptocurrency",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets"
     },
     {
-      "headline": "Big Tech drives stock market to record highs amid AI enthusiasm",
-      "take": "Big Tech stocks reach record highs driven by artificial intelligence enthusiasm",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/big-tech-stock-market-record-highs-ai/"
-    },
-    {
-      "headline": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "take": "Banks and crypto platforms competing over stablecoin yield market share",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition"
-    },
-    {
-      "headline": "US dollar marks 55 years as fiat currency, boosting gold\u2019s safe haven appeal",
-      "take": "US dollar fiat system at 55 years; gold attracts safe haven demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-marks-55-years-as-fiat-currency-boosting-golds-safe-haven-appeal/"
-    },
-    {
       "headline": "72% of US consumers expect inflation to outpace income growth",
-      "take": "Majority of US consumers expect inflation to exceed income growth rates",
+      "take": "72% of US consumers expect inflation to outpace income growth",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-consumers-inflation-income-growth-pessimism/"
+    },
+    {
+      "headline": "Fed minutes reveal division on rate hike decision",
+      "take": "Fed minutes reveal internal division on rate hike decision ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-minutes-reveal-division-on-rate-hike-decision/"
     }
   ],
   "business": [
     {
-      "headline": "Kraken builds vertically integrated financial empire with $3B in acquisitions",
-      "take": "Kraken executes vertical integration strategy via three billion dollar acquisitions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-vertical-integration-acquisitions/"
-    },
-    {
       "headline": "Anthropic eyes largest 2026 IPO with $965B valuation, no date set",
-      "take": "Anthropic targets largest 2026 IPO with near one trillion dollar valuation",
+      "take": "Anthropic eyes largest 2026 IPO with $965B valuation, no date set",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-eyes-largest-2026-ipo-with-965b-valuation-no-date-set/"
     },
     {
-      "headline": "CZ donates BNB and \u5e01\u5b89\u4eba\u751f tokens to Giggle Academy, plans to abandon wallet entirely",
-      "take": "Binance founder donates tokens to academy, plans to exit wallet management",
+      "headline": "OpenAI appoints former Wiz president Dali Rajic as chief revenue officer",
+      "take": "OpenAI appoints former Wiz president Dali Rajic as chief revenue officer",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-donates-bnb-giggle-academy-abandons-wallet/"
+      "link": "https://cryptobriefing.com/openai-appoints-former-wiz-president-dali-rajic-as-chief-revenue-officer/"
     },
     {
-      "headline": "OpenAI introduces Computer History feature in ChatGPT desktop app",
-      "take": "OpenAI adds conversation history feature to ChatGPT desktop application",
+      "headline": "Tokenized stocks reach 1.4M holders, up 448% in six months",
+      "take": "Tokenized stocks reach 1.4M holders, up 448% in six months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-chatgpt-computer-history-macos/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-1-4m-holders-growth/"
+    },
+    {
+      "headline": "CZ donates BNB and \u5e01\u5b89\u4eba\u751f tokens to Giggle Academy, plans to abandon wallet entirely",
+      "take": "CZ donates BNB tokens to Giggle Academy, plans wallet abandonment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cz-donates-bnb-giggle-academy-abandons-wallet/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "take": "SafePal wallet breach exposes order information for nearly forty thousand users",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
+      "headline": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
+      "take": "SafePal wallet breach exposed personal info of nearly 40,000 customers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934"
     },
     {
       "headline": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
-      "take": "Hackers exploited macOS flaw to covertly install Monero mining malware",
+      "take": "Hackers exploited macOS Screen Sharing flaw to install Monero miners",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932"
-    },
-    {
-      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "take": "MiCA compliance cleanup spawning new wave of scams across EU",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
     }
   ],
   "policy": [
     {
-      "headline": "Trump wins legal battle to maintain tariffs on cheap imports",
-      "take": "Trump prevails in court battle preserving tariffs on imported goods",
+      "headline": "CLARITY Act faces Senate vote as banks oppose stablecoin rewards",
+      "take": "CLARITY Act faces Senate vote as banks oppose stablecoin rewards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-tariffs-de-minimis-court-ruling/"
+      "link": "https://cryptobriefing.com/clarity-act-faces-senate-vote-as-banks-oppose-stablecoin-rewards/"
     },
     {
-      "headline": "US-Iran nuclear talks stall as 60-day deadline passes without deal",
-      "take": "US-Iran nuclear negotiations stall past sixty day deadline without agreement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-iran-nuclear-talks-stall-as-60-day-deadline-passes-without-deal/"
+      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "take": "MiCA's cleanup is creating a new scam wave across European Union",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
     },
     {
-      "headline": "Iran criminalizes interviews with US, Israeli media amid tensions",
-      "take": "Iran criminalizes media interviews with United States and Israeli journalists",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-criminalizes-interviews-with-us-israeli-media-amid-tensions/"
+      "headline": "The SEC meeting that wasn't: State of Crypto",
+      "take": "SEC meeting addresses state of cryptocurrency regulation and oversight",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
     }
   ]
 }

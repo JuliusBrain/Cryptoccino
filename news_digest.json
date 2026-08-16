@@ -1,66 +1,102 @@
 {
-  "generated": "2026-08-16T13:03:18.785256+00:00",
-  "ts": 1786885398,
+  "generated": "2026-08-16T15:40:03.684695+00:00",
+  "ts": 1786894803,
   "market": [
     {
-      "headline": "Riot Platforms signs $9B AI compute deal with Anthropic, shifts from Bitcoin mining",
-      "take": "Riot Platforms pivots to AI compute with nine billion dollar Anthropic deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/riot-platforms-signs-9b-ai-compute-deal-with-anthropic-shifts-from-bitcoin/"
-    },
-    {
       "headline": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "take": "Traditional finance institutions now embrace digital assets mainstream adoption",
+      "take": "Traditional finance institutions now embracing bitcoin and digital assets mainstream",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets"
     },
     {
-      "headline": "Federal Reserve holds rates as divided FOMC vote fuels rate hike expectations",
-      "take": "Federal Reserve holds rates steady despite divided committee vote signals",
+      "headline": "Big Tech drives stock market to record highs amid AI enthusiasm",
+      "take": "Big Tech stocks reach record highs driven by artificial intelligence enthusiasm",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-debate-investors/"
+      "link": "https://cryptobriefing.com/big-tech-stock-market-record-highs-ai/"
     },
     {
       "headline": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "take": "Banks and crypto compete over stablecoin yields in ongoing dispute",
+      "take": "Banks and crypto platforms competing over stablecoin yield market share",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition"
     },
     {
-      "headline": "Roundhill\u2019s memory chip ETF parks more than a quarter of its assets in a single stock",
-      "take": "Memory chip ETF concentrates over quarter assets in single holding",
+      "headline": "US dollar marks 55 years as fiat currency, boosting gold\u2019s safe haven appeal",
+      "take": "US dollar fiat system at 55 years; gold attracts safe haven demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/roundhill-dram-etf-micron-allocation/"
+      "link": "https://cryptobriefing.com/us-dollar-marks-55-years-as-fiat-currency-boosting-golds-safe-haven-appeal/"
+    },
+    {
+      "headline": "72% of US consumers expect inflation to outpace income growth",
+      "take": "Majority of US consumers expect inflation to exceed income growth rates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-consumers-inflation-income-growth-pessimism/"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI updates privacy policy for ad personalization on ChatGPT",
-      "take": "OpenAI updates ChatGPT privacy policy to enable ad personalization",
+      "headline": "Kraken builds vertically integrated financial empire with $3B in acquisitions",
+      "take": "Kraken executes vertical integration strategy via three billion dollar acquisitions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-privacy-policy-chatgpt-ad-personalization/"
+      "link": "https://cryptobriefing.com/kraken-vertical-integration-acquisitions/"
     },
     {
-      "headline": "Chelsea co-owner Mark Walter open to selling stake amid US federal investigation",
-      "take": "Chelsea co-owner Mark Walter considers stake sale amid federal investigation",
+      "headline": "Anthropic eyes largest 2026 IPO with $965B valuation, no date set",
+      "take": "Anthropic targets largest 2026 IPO with near one trillion dollar valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chelsea-co-owner-walter-selling-stake-investigation/"
+      "link": "https://cryptobriefing.com/anthropic-eyes-largest-2026-ipo-with-965b-valuation-no-date-set/"
+    },
+    {
+      "headline": "CZ donates BNB and \u5e01\u5b89\u4eba\u751f tokens to Giggle Academy, plans to abandon wallet entirely",
+      "take": "Binance founder donates tokens to academy, plans to exit wallet management",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cz-donates-bnb-giggle-academy-abandons-wallet/"
+    },
+    {
+      "headline": "OpenAI introduces Computer History feature in ChatGPT desktop app",
+      "take": "OpenAI adds conversation history feature to ChatGPT desktop application",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-chatgpt-computer-history-macos/"
     }
   ],
   "security": [
     {
-      "headline": "Bits of Gold reported to have suffered data breach affecting 200,000 customers",
-      "take": "Bits of Gold suffers data breach exposing two hundred thousand customers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bits-of-gold-data-breach-200000-customers/"
+      "headline": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "take": "SafePal wallet breach exposes order information for nearly forty thousand users",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
+    },
+    {
+      "headline": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
+      "take": "Hackers exploited macOS flaw to covertly install Monero mining malware",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932"
+    },
+    {
+      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "take": "MiCA compliance cleanup spawning new wave of scams across EU",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
     }
   ],
   "policy": [
     {
-      "headline": "Trump considers more sanctions on Iran to influence nuclear policy",
-      "take": "Trump considers additional Iran sanctions to shape nuclear policy outcomes",
+      "headline": "Trump wins legal battle to maintain tariffs on cheap imports",
+      "take": "Trump prevails in court battle preserving tariffs on imported goods",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-considers-more-sanctions-on-iran-to-influence-nuclear-policy/"
+      "link": "https://cryptobriefing.com/trump-tariffs-de-minimis-court-ruling/"
+    },
+    {
+      "headline": "US-Iran nuclear talks stall as 60-day deadline passes without deal",
+      "take": "US-Iran nuclear negotiations stall past sixty day deadline without agreement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-iran-nuclear-talks-stall-as-60-day-deadline-passes-without-deal/"
+    },
+    {
+      "headline": "Iran criminalizes interviews with US, Israeli media amid tensions",
+      "take": "Iran criminalizes media interviews with United States and Israeli journalists",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-criminalizes-interviews-with-us-israeli-media-amid-tensions/"
     }
   ]
 }

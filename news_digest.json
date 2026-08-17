@@ -1,68 +1,44 @@
 {
-  "generated": "2026-08-16T21:37:08.028978+00:00",
-  "ts": 1786916228,
+  "generated": "2026-08-17T01:57:10.731040+00:00",
+  "ts": 1786931830,
   "market": [
     {
-      "headline": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "take": "Traditional finance institutions now embrace digital assets alongside crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets"
+      "headline": "British Pound nears three-month high as Fed rate hike bets fade",
+      "take": "British pound and Asian currencies strengthen as Fed rate hike bets fade",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/british-pound-nears-three-month-high-as-fed-rate-hike-bets-fade/"
     },
     {
-      "headline": "Federal Reserve expected to hold rates steady this year, BMO economist says, with cuts seen in 2027",
-      "take": "Federal Reserve expected to hold rates steady through 2026, then cut in 2027",
+      "headline": "Gold prices rise as investors embrace risk-on sentiment: WSJ",
+      "take": "Gold prices rise as investors embrace broader risk-on sentiment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-hold-rates-steady-bmo-economist/"
-    },
-    {
-      "headline": "Tether Gold leads market cap growth in tokenized gold assets, adding $237M",
-      "take": "Tether Gold leads tokenized gold assets with $237M market cap addition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-gold-leads-tokenized-gold-growth/"
+      "link": "https://cryptobriefing.com/gold-prices-rise-as-investors-embrace-risk-on-sentiment-wsj/"
     },
     {
       "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "take": "Crypto investors shift focus from market cap rankings to fundamental analysis",
+      "take": "Crypto investors shift focus from market-cap rankings to fundamental analysis",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
-    },
-    {
-      "headline": "Nvidia H100 GPU rental costs surge 50% in six months as AI demand outpaces supply",
-      "take": "Nvidia H100 GPU rental costs surge 50% in six months due to AI demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-h100-gpu-rental-costs-surge/"
     }
   ],
   "business": [
     {
-      "headline": "Stripe in advanced talks to acquire OpenRouter for around $10B",
-      "take": "Stripe in advanced talks to acquire OpenRouter for approximately $10B",
+      "headline": "Alibaba sells gaming arm for at least $1.5B as AI pivot accelerates",
+      "take": "Alibaba sells gaming arm for at least $1.5B accelerating AI pivot",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stripe-acquires-openrouter-7-billion/"
+      "link": "https://cryptobriefing.com/alibaba-sells-gaming-arm-ai-pivot/"
     },
     {
-      "headline": "Aave becomes the dominant DeFi venue for tokenized gold deposits",
-      "take": "Aave becomes dominant DeFi venue for tokenized gold deposits",
+      "headline": "OpenAI and AWS release guide on x402 payment flow via Base",
+      "take": "OpenAI and AWS release payment flow guide via Base blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-leading-defi-tokenized-gold/"
+      "link": "https://cryptobriefing.com/openai-x402-payment-flow-base/"
     },
     {
-      "headline": "OpenAI ships multi-agent v2 update adding support for Luna model",
-      "take": "OpenAI releases multi-agent v2 update with Luna model support",
+      "headline": "Google releases Gemini 3.7 Flash as EU AI rules kick in",
+      "take": "Google releases Gemini 3.7 Flash model as EU AI rules take effect",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-multi-agent-v2-luna-model/"
-    },
-    {
-      "headline": "Meta\u2019s custom silicon poses challenge to Nvidia\u2019s AI dominance",
-      "take": "Meta's custom silicon challenges Nvidia's dominance in AI hardware",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-custom-silicon-nvidia-ai-challenge/"
-    },
-    {
-      "headline": "US labs cut AI inference costs nearly 25% amid price war",
-      "take": "US labs cut AI inference costs nearly 25% amid intensifying price competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-labs-ai-inference-price-war/"
+      "link": "https://cryptobriefing.com/google-gemini-flash-eu-ai-regulation/"
     }
   ],
   "security": [
@@ -74,29 +50,35 @@
     },
     {
       "headline": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
-      "take": "Hackers exploited macOS Screen Sharing flaw to install Monero miners",
+      "take": "Hackers exploited macOS flaw to install Monero miners on systems",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932"
     },
     {
-      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "take": "MiCA compliance cleanup spawning new scam wave across European Union",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
+      "headline": "Israeli Air Force officer charged with betting on Polymarket using classified military intel",
+      "take": "Israeli Air Force officer charged with trading on classified military intelligence",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/israeli-officer-polymarket-classified-info-betting/"
     }
   ],
   "policy": [
     {
-      "headline": "The SEC meeting that wasn't: State of Crypto",
-      "take": "SEC meeting addresses current state of crypto regulation and oversight",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
+      "headline": "Match Act poised for inclusion in Senate NDAA as US tightens chip export controls",
+      "take": "Match Act poised for Senate inclusion tightening US chip export controls",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/match-act-senate-ndaa-chip-export-controls/"
     },
     {
-      "headline": "California billionaires add millions to fight wealth tax on 2026 ballot",
-      "take": "California billionaires fund campaign against wealth tax on 2026 ballot",
+      "headline": "Senators Moreno and Lummis endorse Credit Card Competition Act, taking aim at Visa and Mastercard dominance",
+      "take": "Senators endorse Credit Card Competition Act challenging Visa and Mastercard dominance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-billionaires-add-millions-to-fight-wealth-tax-on-2026-ballot/"
+      "link": "https://cryptobriefing.com/moreno-lummis-credit-card-competition-act/"
+    },
+    {
+      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "take": "MiCA compliance cleanup creating new scam wave across European Union",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
     }
   ]
 }

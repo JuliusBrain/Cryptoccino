@@ -1,84 +1,96 @@
 {
-  "generated": "2026-08-17T07:18:54.615731+00:00",
-  "ts": 1786951134,
+  "generated": "2026-08-17T10:00:06.697372+00:00",
+  "ts": 1786960806,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs see largest outflows since June as August gains vanish",
-      "take": "Bitcoin ETFs see largest outflows since June as gains fade",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-largest-outflows-since-june/"
+      "headline": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+      "take": "Bitcoin flat near $63,500 as US-Iran ceasefire expiration revives oil threat",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned"
     },
     {
-      "headline": "Bitcoin futures market faces risks from concentrated trader participation",
-      "take": "Concentrated Bitcoin futures participation creates significant market risk",
+      "headline": "Coinbase Premium Index negative for 102 days, signals weak US Bitcoin demand",
+      "take": "Coinbase Premium Index negative for 102 days signals weak US Bitcoin demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-futures-concentrated-trader-risks/"
+      "link": "https://cryptobriefing.com/coinbase-premium-index-negative-for-102-days-signals-weak-us-bitcoin-demand/"
     },
     {
-      "headline": "Emerging-market currencies hit record high as traders dial back Fed rate hike expectations",
-      "take": "Emerging-market currencies hit record highs as Fed rate hike bets ease",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-currencies-record-high-fed/"
+      "headline": "Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates",
+      "take": "Bitcoin ETFs see largest outflow in six weeks as token stagnates",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates"
     },
     {
-      "headline": "Central banks favor gold over US Treasuries amid geopolitical tensions",
-      "take": "Central banks shift preference toward gold amid geopolitical uncertainty",
+      "headline": "Dollar falls to three-month low as Fed rate hike expectations wane",
+      "take": "Dollar falls to three-month low as Fed rate hike expectations fade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-banks-favor-gold-over-us-treasuries-amid-geopolitical-tensions/"
+      "link": "https://cryptobriefing.com/dollar-falls-three-month-low-fed-rate-hike/"
     },
     {
-      "headline": "Federal Reserve holds rates steady at 3.5%-3.75% as Japan signals more hikes ahead",
-      "take": "Federal Reserve holds rates steady while Japan signals further increases",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-holds-rates-japan-signals-hikes/"
+      "headline": "The bitcoin futures market looks like a crowded club with a tiny exit \u2013 and it could cause pain",
+      "take": "Bitcoin futures market crowded with limited exit routes, potential pain ahead",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain"
     }
   ],
   "business": [
     {
-      "headline": "Crypto card sector expands with over 250 projects as monthly spending nears $760M",
-      "take": "Crypto card sector expands to 250 projects with monthly spending near 760M",
+      "headline": "HIVE\u2019s BUZZ HPC signs $350M GPU cloud deal, pushing contracted AI revenue to $180M annually",
+      "take": "HIVE's BUZZ HPC signs $350M GPU cloud deal, contracted AI revenue hits $180M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-card-sector-250-projects-monthly-spending/"
+      "link": "https://cryptobriefing.com/hive-buzz-hpc-350m-gpu-cloud-deal/"
     },
     {
-      "headline": "Higgsfield reportedly in talks to raise up to $500M at $5B valuation",
-      "take": "Higgsfield reportedly raises up to 500M at 5B valuation",
+      "headline": "Blockstream launches Blockstream Swaps for Bitcoin, Lightning, and Liquid networks",
+      "take": "Blockstream launches Swaps for Bitcoin, Lightning, and Liquid networks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/higgsfield-raises-400m-5b-valuation/"
+      "link": "https://cryptobriefing.com/blockstream-swaps-bitcoin-lightning-liquid/"
     },
     {
-      "headline": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive",
-      "take": "Robotera plans Hong Kong IPO as humanoid robot funding accelerates",
+      "headline": "Alibaba sells Lingxi Games in over $2B deal as it doubles down on AI",
+      "take": "Alibaba sells Lingxi Games in over $2B deal doubling down on AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robotera-ipo-hong-kong-humanoid-robots/"
+      "link": "https://cryptobriefing.com/alibaba-sells-lingxi-games-2b-deal/"
+    },
+    {
+      "headline": "Duquesne Family Office dumps Micron and Intel, loads up on Bitcoin miners and AI plays",
+      "take": "Duquesne Family Office loads up on Bitcoin miners and AI plays",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/duquesne-exits-intel-micron-buys-bitcoin-miners/"
     }
   ],
   "security": [
     {
-      "headline": "Binance provided Russian authorities with crypto donation details that led to terrorism financing charges",
-      "take": "Binance provided Russian authorities crypto donation data leading to charges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-russia-crypto-terrorism-data-sharing/"
+      "headline": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
+      "take": "SafePal Bitcoin Wallet data breach stokes fears of physical attacks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach"
+    },
+    {
+      "headline": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "take": "Binance handed user data to Russia leading to Ukrainian donor's arrest",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest"
     }
   ],
   "policy": [
     {
-      "headline": "EU to expand Russia sanctions, potential impact on oil prices",
-      "take": "EU expands Russia sanctions with potential impact on oil prices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-to-expand-russia-sanctions-potential-impact-on-oil-prices/"
+      "headline": "Bitpanda fined in Austria\u2019s first published MiCA penalty",
+      "take": "Bitpanda fined in Austria's first published MiCA regulatory penalty",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "South Africa to finalize rules for $2.5T OTC derivatives market by 2028",
-      "take": "South Africa to finalize 2.5T OTC derivatives market rules by 2028",
+      "headline": "Donald Trump threatens new Iran sanctions, heightens oil market risks",
+      "take": "Donald Trump threatens new Iran sanctions heightening oil market risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-africa-otc-derivatives-rules-2028/"
+      "link": "https://cryptobriefing.com/trump-iran-sanctions-oil-market-risks/"
     },
     {
-      "headline": "Europe\u2019s stablecoin debate centers on fungibility issue",
-      "take": "Europe's stablecoin debate centers on fungibility regulatory concerns",
+      "headline": "House AI rules left unenforced, individual offices left to police themselves",
+      "take": "House AI rules left unenforced, individual offices left to self-police",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/europe-stablecoin-fungibility-mica-debate/"
+      "link": "https://cryptobriefing.com/house-office-overwhelmed-ai-content/"
     }
   ]
 }

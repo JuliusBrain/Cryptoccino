@@ -1,32 +1,50 @@
 {
-  "generated": "2026-08-17T01:57:10.731040+00:00",
-  "ts": 1786931830,
+  "generated": "2026-08-17T04:05:33.325005+00:00",
+  "ts": 1786939533,
   "market": [
     {
+      "headline": "US banks officially permitted to buy and sell crypto for customers",
+      "take": "US banks now officially permitted to buy and sell crypto for customers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-banks-permitted-buy-sell-crypto/"
+    },
+    {
       "headline": "British Pound nears three-month high as Fed rate hike bets fade",
-      "take": "British pound and Asian currencies strengthen as Fed rate hike bets fade",
+      "take": "British pound nears three-month high as Fed rate hike bets fade",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/british-pound-nears-three-month-high-as-fed-rate-hike-bets-fade/"
     },
     {
-      "headline": "Gold prices rise as investors embrace risk-on sentiment: WSJ",
-      "take": "Gold prices rise as investors embrace broader risk-on sentiment",
+      "headline": "China\u2019s PBOC injects 565.5B yuan via overnight reverse repos",
+      "take": "China's central bank injects 565.5 billion yuan via overnight reverse repos",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-rise-as-investors-embrace-risk-on-sentiment-wsj/"
+      "link": "https://cryptobriefing.com/chinas-pboc-injects-5655b-yuan-via-overnight-reverse-repos/"
     },
     {
-      "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "take": "Crypto investors shift focus from market-cap rankings to fundamental analysis",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
+      "headline": "Oil steady as US-Iran talks stall, Hormuz shipping slows",
+      "take": "Oil steady as US-Iran talks stall and Hormuz shipping slows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-steady-as-us-iran-talks-stall-hormuz-shipping-slows/"
+    },
+    {
+      "headline": "NuScale\u2019s TVA deal could yield 6 to 8 gigawatts, CEO says",
+      "take": "NuScale's TVA nuclear deal could yield six to eight gigawatts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nuscale-tva-deal-6-8-gigawatts/"
     }
   ],
   "business": [
     {
       "headline": "Alibaba sells gaming arm for at least $1.5B as AI pivot accelerates",
-      "take": "Alibaba sells gaming arm for at least $1.5B accelerating AI pivot",
+      "take": "Alibaba sells gaming arm for at least 1.5 billion dollars",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/alibaba-sells-gaming-arm-ai-pivot/"
+    },
+    {
+      "headline": "Alphabet hires banks for debut Australian dollar bond offering",
+      "take": "Alphabet hires banks for debut Australian dollar bond offering",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alphabet-debut-australian-dollar-bond/"
     },
     {
       "headline": "OpenAI and AWS release guide on x402 payment flow via Base",
@@ -35,50 +53,38 @@
       "link": "https://cryptobriefing.com/openai-x402-payment-flow-base/"
     },
     {
-      "headline": "Google releases Gemini 3.7 Flash as EU AI rules kick in",
-      "take": "Google releases Gemini 3.7 Flash model as EU AI rules take effect",
+      "headline": "Senators Moreno and Lummis endorse Credit Card Competition Act, taking aim at Visa and Mastercard dominance",
+      "take": "Senators endorse Credit Card Competition Act targeting Visa and Mastercard",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-gemini-flash-eu-ai-regulation/"
+      "link": "https://cryptobriefing.com/moreno-lummis-credit-card-competition-act/"
     }
   ],
   "security": [
     {
       "headline": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
-      "take": "SafePal wallet breach exposes personal information of nearly 40,000 customers",
+      "take": "SafePal wallet breach exposes personal info of nearly forty thousand customers",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934"
     },
     {
-      "headline": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
-      "take": "Hackers exploited macOS flaw to install Monero miners on systems",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932"
-    },
-    {
       "headline": "Israeli Air Force officer charged with betting on Polymarket using classified military intel",
-      "take": "Israeli Air Force officer charged with trading on classified military intelligence",
+      "take": "Israeli Air Force officer charged with betting on Polymarket using classified intelligence",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/israeli-officer-polymarket-classified-info-betting/"
+    },
+    {
+      "headline": "Chainalysis sues US government over procurement contract awarded to TRM Labs",
+      "take": "Chainalysis sues US government over procurement contract awarded to TRM Labs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainalysis-sues-us-government-trm-labs/"
     }
   ],
   "policy": [
     {
-      "headline": "Match Act poised for inclusion in Senate NDAA as US tightens chip export controls",
-      "take": "Match Act poised for Senate inclusion tightening US chip export controls",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/match-act-senate-ndaa-chip-export-controls/"
-    },
-    {
-      "headline": "Senators Moreno and Lummis endorse Credit Card Competition Act, taking aim at Visa and Mastercard dominance",
-      "take": "Senators endorse Credit Card Competition Act challenging Visa and Mastercard dominance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moreno-lummis-credit-card-competition-act/"
-    },
-    {
-      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "take": "MiCA compliance cleanup creating new scam wave across European Union",
+      "headline": "The SEC meeting that wasn't: State of Crypto",
+      "take": "SEC meeting on cryptocurrency policy state postponed or cancelled",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
+      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
     }
   ]
 }

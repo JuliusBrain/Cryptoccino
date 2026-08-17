@@ -1,96 +1,96 @@
 {
-  "generated": "2026-08-17T19:00:44.247938+00:00",
-  "ts": 1786993244,
+  "generated": "2026-08-17T21:44:04.108602+00:00",
+  "ts": 1787003044,
   "market": [
     {
-      "headline": "Jane Street buys $630M in Bitcoin ETFs, total holdings reach $1B",
-      "take": "Jane Street Bitcoin ETF purchases bring holdings to $1 billion milestone",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jane-street-bitcoin-etf-holdings-1-billion/"
+      "headline": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+      "take": "Fed futures market pricing 74% probability of holding rates steady in September",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375821/prediction-fed-rate-change-september"
     },
     {
-      "headline": "Schonfeld Advisors sells 20% of Bitcoin ETF holdings, drops to $384M",
-      "take": "Schonfeld Advisors reduces Bitcoin ETF position by twenty percent to $384M",
+      "headline": "Euro-denominated stablecoins add $17M in market cap in seven days",
+      "take": "Euro stablecoins gained $17M market cap over seven-day period",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/schonfeld-advisors-sells-bitcoin-etf-holdings-384m/"
+      "link": "https://cryptobriefing.com/euro-stablecoins-market-cap-mica-growth/"
     },
     {
-      "headline": "US 30-year bond yield hits highest level in over 19 years",
-      "take": "US thirty-year bond yields reach highest level in over nineteen years",
+      "headline": "Macquarie Group dumps 62% of its Bitcoin ETF position, trimming holdings to $55M",
+      "take": "Macquarie Group cut Bitcoin ETF holdings by 62% to $55M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-30-year-bond-yield-hits-highest-level-in-over-19-years/"
+      "link": "https://cryptobriefing.com/macquarie-group-sells-bitcoin-etf-position/"
     },
     {
-      "headline": "Aerodrome Slipstream leads euro stablecoin trading with nearly $10B in monthly volume",
-      "take": "Aerodrome Slipstream leads euro stablecoin trading with ten billion monthly volume",
+      "headline": "Brent crude tops $90 amid Middle East tensions, US stocks decline",
+      "take": "Brent crude topped $90 amid Middle East tensions; US stocks declined",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-slipstream-euro-stablecoin-volume/"
+      "link": "https://cryptobriefing.com/brent-crude-tops-90-amid-middle-east-tensions-us-stocks-decline/"
+    },
+    {
+      "headline": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+      "take": "XRP held near two-year streak but technical charts show warning signals",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning"
     }
   ],
   "business": [
     {
-      "headline": "Wispr Flow raises $280 million at $2 billion valuation",
-      "take": "Wispr Flow raises $280 million at $2 billion valuation",
+      "headline": "Securitize, J.P. Morgan, Franklin Templeton drive $65M in tokenized Treasury market cap growth in one week",
+      "take": "Tokenized Treasury market grew $65M in one week led by major firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wispr-flow-2b-valuation-ai-startup/"
+      "link": "https://cryptobriefing.com/securitize-jpmorgan-franklin-templeton-tokenized-treasury-growth/"
     },
     {
-      "headline": "Neynar acquires Farcaster as founding team steps back from operations",
-      "take": "Neynar acquires Farcaster as founding team steps back from operations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/farcaster-neynar-takeover-founding-team-departs/"
+      "headline": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
+      "take": "Tokenized equities tripled market share as Ondo, Binance, xStocks expanded",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996"
     },
     {
-      "headline": "Robinhood rolls out Agentic Trading for crypto and equities",
-      "take": "Robinhood launches Agentic Trading platform for crypto and equities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-agentic-trading-crypto-equities/"
+      "headline": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
+      "take": "IREN delivering AI cloud deployments to Microsoft under $9.7B agreement",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016"
     },
     {
-      "headline": "Venice crosses $100M in annualized revenue as privacy-first AI model gains traction",
-      "take": "Venice privacy-first AI model crosses $100M in annualized revenue",
+      "headline": "Centrifuge proposes token-to-equity conversion for CFG holders",
+      "take": "Centrifuge proposes token-to-equity conversion mechanism for CFG token holders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/venice-ai-100m-annualized-revenue/"
+      "link": "https://cryptobriefing.com/centrifuge-cfg-token-equity-conversion/"
     },
     {
-      "headline": "BNB Chain reports 124K increase in RWA holders in 72 hours",
-      "take": "BNB Chain sees 124K increase in real-world asset holders in seventy-two hours",
+      "headline": "Anthropic revenue run rate hits $65B ahead of IPO: Axios",
+      "take": "Anthropic revenue run rate reached $65B ahead of planned IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-rwa-holders-surge/"
+      "link": "https://cryptobriefing.com/anthropic-revenue-run-rate-hits-65b-ahead-of-ipo-axios/"
     }
   ],
   "security": [
     {
-      "headline": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-      "take": "BitMart founder dismisses audit calls as users report blocked funds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees"
+      "headline": "Payward joins Anthropic\u2019s Project Glasswing to hunt software vulnerabilities with Claude Mythos 5",
+      "take": "Payward joined Anthropic initiative hunting software vulnerabilities with AI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/payward-anthropic-glasswing-claude-mythos-5/"
     }
   ],
   "policy": [
     {
+      "headline": "OCC approves Trump family crypto company for trust charter",
+      "take": "OCC approved Trump family crypto company for trust charter",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+      "take": "Treasury proposed rules defining legal requirements for stablecoin sellers",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us"
+    },
+    {
       "headline": "Binance to plan UK relaunch with FCA license application: Report",
-      "take": "Binance plans UK relaunch with FCA license application filing",
+      "take": "Binance planning UK relaunch with FCA license application",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "President Trump to resume negotiations on the Crypto Clarity Act within the next 2 days",
-      "take": "Trump to resume negotiations on Crypto Clarity Act within two days",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/president-trump-to-resume-negotiations-on-the-crypto-clarity-act-within-the/"
-    },
-    {
-      "headline": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
-      "take": "CFTC seeks public input on AI compute futures contracts for October launch",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
-      "take": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987"
     }
   ]
 }

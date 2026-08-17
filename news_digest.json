@@ -1,102 +1,102 @@
 {
-  "generated": "2026-08-17T13:08:59.853186+00:00",
-  "ts": 1786972139,
+  "generated": "2026-08-17T15:43:36.539651+00:00",
+  "ts": 1786981416,
   "market": [
     {
-      "headline": "Bitcoin drops below 200-week moving average for first time since 2022 bear market",
-      "take": "Bitcoin drops below 200-week moving average for first time since 2022",
+      "headline": "Soft dollar lifts crypto as Strait of Hormuz tensions simmer",
+      "take": "Soft dollar and geopolitical tensions lift crypto prices modestly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-200-week-moving-average-breakdown/"
+      "link": "https://cryptobriefing.com/soft-dollar-lifts-crypto-hormuz-tensions/"
     },
     {
-      "headline": "US 30-year Treasury yields, highest since 2007",
-      "take": "US 30-year Treasury yields hit highest level since 2007",
+      "headline": "MOVE Index drops to 2026 lows as Fed holds steady and inflation cools",
+      "take": "Volatility index drops to 2026 lows as Fed holds rates steady",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-30-year-treasury-yields-highest-since-2007/"
+      "link": "https://cryptobriefing.com/move-index-volatility-declines-fed-pause/"
     },
     {
-      "headline": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
-      "take": "Bitcoin options remain expensive despite recent summer market calm",
+      "headline": "CleanSpark, BitFuFu, Canaan report July Bitcoin production declines as prices climbed",
+      "take": "Bitcoin miners report July production declines despite rising BTC prices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cleanspark-bitfufu-canaan-july-bitcoin-production-decline/"
+    },
+    {
+      "headline": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "take": "Bitmine accumulates significant Ethereum holdings worth approximately eleven billion",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters"
-    },
-    {
-      "headline": "Strive buys 79 Bitcoin, increasing total holdings to 20,246 BTC",
-      "take": "Strive acquires 79 Bitcoin, raising total holdings to 20,246",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-buys-79-bitcoin-20246-btc/"
-    },
-    {
-      "headline": "SOL Strategies reports $1.1M CAD in swap aggregator revenue for Q3 2026",
-      "take": "SOL Strategies reports $1.1M CAD swap aggregator revenue for Q3",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sol-strategies-houdini-swap-q3-2026/"
+      "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase"
     }
   ],
   "business": [
     {
-      "headline": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-      "take": "Trump scheduled to meet with crypto and prediction market CEOs this week",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week"
-    },
-    {
-      "headline": "Ethereum\u2019s next big upgrade has 66 proposals, including a major privacy fix",
-      "take": "Ethereum upgrade includes 66 proposals with major privacy improvements planned",
+      "headline": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "take": "Compound invests fifty-two million in leadership shift toward institutions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix"
+      "link": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus"
     },
     {
-      "headline": "Alibaba launches beta AI music-generation model that creates full songs from text prompts",
-      "take": "Alibaba launches beta AI music generation model from text prompts",
+      "headline": "Stacks to launch Genesis Bond, self-custodial Bitcoin yield mechanism in 24 days",
+      "take": "Stacks launches self-custodial Bitcoin yield product Genesis Bond soon",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-fun-music-ai-song-generation/"
+      "link": "https://cryptobriefing.com/stacks-to-launch-genesis-bond-self-custodial-bitcoin-yield-mechanism-in-24-days/"
     },
     {
-      "headline": "Duos Technologies signs $500M hosting deal with Axe Compute for 55 MW of AI data center capacity",
-      "take": "Duos Technologies signs $500M data center hosting deal with Axe Compute",
+      "headline": "Cap launches cross-chain deposits and mints with LayerZero\u2019s OVault standard",
+      "take": "Cap enables cross-chain deposits using LayerZero's new OVault standard",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/duos-technologies-500m-axe-compute-deal/"
+      "link": "https://cryptobriefing.com/cap-cross-chain-deposits-ovault/"
     },
     {
-      "headline": "WhiteFiber Inc. agrees to acquire North Carolina property for up to $60M as it pivots from crypto mining to AI data centers",
-      "take": "WhiteFiber pivots from crypto mining to AI data centers, acquires NC property",
+      "headline": "Cardano outlines two-phase Dijkstra upgrade for 2026 and 2027",
+      "take": "Cardano outlines two-phase upgrade spanning 2026 and 2027 timeline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whitefiber-north-carolina-ai-data-center-acquisition/"
+      "link": "https://cryptobriefing.com/cardano-dijkstra-upgrade-q4-2026/"
     }
   ],
   "security": [
     {
-      "headline": "Israel\u2019s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "take": "Israel's largest crypto broker Bits of Gold breached, 200,000 customers affected",
+      "headline": "The Coldcard hack proves reputation is not a security model",
+      "take": "Coldcard vulnerability exposed years-long code bug causing major losses",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers"
+      "link": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model"
     },
     {
-      "headline": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-      "take": "Harmony plans rollback of 109,000 transactions following ONE token exploit",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
+      "take": "Harmony plans rollback after attacker forged three trillion ONE tokens",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976"
     },
     {
-      "headline": "Bitdefender warns of Lumma Stealer malware hiding in pirated copies of The Odyssey",
-      "take": "Lumma Stealer malware discovered hiding in pirated copies of The Odyssey",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lumma-stealer-malware-odyssey-crypto-wallets/"
+      "headline": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+      "take": "macOS screen sharing flaw exploited for secret Monero cryptocurrency mining",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero"
     }
   ],
   "policy": [
     {
-      "headline": "US enacts GENIUS Act, setting stablecoin regulatory framework",
-      "take": "US enacts GENIUS Act establishing regulatory framework for stablecoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-enacts-genius-act-setting-stablecoin-regulatory-framework/"
+      "headline": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "take": "US Treasury proposes GENIUS Act to regulate stablecoin issuance rules",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule"
     },
     {
-      "headline": "Austria\u2019s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
-      "take": "Austria's FMA fines Bitpanda $81,000 in first published MiCA penalty",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960"
+      "headline": "CFTC seeks public comment on derivatives for computing capacity as GPU futures near launch",
+      "take": "CFTC seeks comments on GPU computing capacity derivatives framework",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-public-comment-computing-capacity-derivatives/"
+    },
+    {
+      "headline": "US slashes Wall Street red tape, prompting European banks to demand the same treatment",
+      "take": "US deregulates Wall Street, prompting European banks to seek parity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-deregulation-european-banks-reform/"
+    },
+    {
+      "headline": "OpenAI, Anthropic limit access to top models amid US regulatory pressure",
+      "take": "OpenAI and Anthropic restrict top model access under US regulatory scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-anthropic-limit-access-to-top-models-amid-us-regulatory-pressure/"
     }
   ]
 }

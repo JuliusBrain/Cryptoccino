@@ -1,96 +1,102 @@
 {
-  "generated": "2026-08-17T10:00:06.697372+00:00",
-  "ts": 1786960806,
+  "generated": "2026-08-17T13:08:59.853186+00:00",
+  "ts": 1786972139,
   "market": [
     {
-      "headline": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
-      "take": "Bitcoin flat near $63,500 as US-Iran ceasefire expiration revives oil threat",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned"
-    },
-    {
-      "headline": "Coinbase Premium Index negative for 102 days, signals weak US Bitcoin demand",
-      "take": "Coinbase Premium Index negative for 102 days signals weak US Bitcoin demand",
+      "headline": "Bitcoin drops below 200-week moving average for first time since 2022 bear market",
+      "take": "Bitcoin drops below 200-week moving average for first time since 2022",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-premium-index-negative-for-102-days-signals-weak-us-bitcoin-demand/"
+      "link": "https://cryptobriefing.com/bitcoin-200-week-moving-average-breakdown/"
     },
     {
-      "headline": "Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates",
-      "take": "Bitcoin ETFs see largest outflow in six weeks as token stagnates",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates"
-    },
-    {
-      "headline": "Dollar falls to three-month low as Fed rate hike expectations wane",
-      "take": "Dollar falls to three-month low as Fed rate hike expectations fade",
+      "headline": "US 30-year Treasury yields, highest since 2007",
+      "take": "US 30-year Treasury yields hit highest level since 2007",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-falls-three-month-low-fed-rate-hike/"
+      "link": "https://cryptobriefing.com/us-30-year-treasury-yields-highest-since-2007/"
     },
     {
-      "headline": "The bitcoin futures market looks like a crowded club with a tiny exit \u2013 and it could cause pain",
-      "take": "Bitcoin futures market crowded with limited exit routes, potential pain ahead",
+      "headline": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
+      "take": "Bitcoin options remain expensive despite recent summer market calm",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain"
+      "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters"
+    },
+    {
+      "headline": "Strive buys 79 Bitcoin, increasing total holdings to 20,246 BTC",
+      "take": "Strive acquires 79 Bitcoin, raising total holdings to 20,246",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-buys-79-bitcoin-20246-btc/"
+    },
+    {
+      "headline": "SOL Strategies reports $1.1M CAD in swap aggregator revenue for Q3 2026",
+      "take": "SOL Strategies reports $1.1M CAD swap aggregator revenue for Q3",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sol-strategies-houdini-swap-q3-2026/"
     }
   ],
   "business": [
     {
-      "headline": "HIVE\u2019s BUZZ HPC signs $350M GPU cloud deal, pushing contracted AI revenue to $180M annually",
-      "take": "HIVE's BUZZ HPC signs $350M GPU cloud deal, contracted AI revenue hits $180M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hive-buzz-hpc-350m-gpu-cloud-deal/"
+      "headline": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+      "take": "Trump scheduled to meet with crypto and prediction market CEOs this week",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week"
     },
     {
-      "headline": "Blockstream launches Blockstream Swaps for Bitcoin, Lightning, and Liquid networks",
-      "take": "Blockstream launches Swaps for Bitcoin, Lightning, and Liquid networks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockstream-swaps-bitcoin-lightning-liquid/"
+      "headline": "Ethereum\u2019s next big upgrade has 66 proposals, including a major privacy fix",
+      "take": "Ethereum upgrade includes 66 proposals with major privacy improvements planned",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix"
     },
     {
-      "headline": "Alibaba sells Lingxi Games in over $2B deal as it doubles down on AI",
-      "take": "Alibaba sells Lingxi Games in over $2B deal doubling down on AI",
+      "headline": "Alibaba launches beta AI music-generation model that creates full songs from text prompts",
+      "take": "Alibaba launches beta AI music generation model from text prompts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-sells-lingxi-games-2b-deal/"
+      "link": "https://cryptobriefing.com/alibaba-fun-music-ai-song-generation/"
     },
     {
-      "headline": "Duquesne Family Office dumps Micron and Intel, loads up on Bitcoin miners and AI plays",
-      "take": "Duquesne Family Office loads up on Bitcoin miners and AI plays",
+      "headline": "Duos Technologies signs $500M hosting deal with Axe Compute for 55 MW of AI data center capacity",
+      "take": "Duos Technologies signs $500M data center hosting deal with Axe Compute",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/duquesne-exits-intel-micron-buys-bitcoin-miners/"
+      "link": "https://cryptobriefing.com/duos-technologies-500m-axe-compute-deal/"
+    },
+    {
+      "headline": "WhiteFiber Inc. agrees to acquire North Carolina property for up to $60M as it pivots from crypto mining to AI data centers",
+      "take": "WhiteFiber pivots from crypto mining to AI data centers, acquires NC property",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/whitefiber-north-carolina-ai-data-center-acquisition/"
     }
   ],
   "security": [
     {
-      "headline": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-      "take": "SafePal Bitcoin Wallet data breach stokes fears of physical attacks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach"
+      "headline": "Israel\u2019s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+      "take": "Israel's largest crypto broker Bits of Gold breached, 200,000 customers affected",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers"
     },
     {
-      "headline": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-      "take": "Binance handed user data to Russia leading to Ukrainian donor's arrest",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest"
+      "headline": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
+      "take": "Harmony plans rollback of 109,000 transactions following ONE token exploit",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Bitdefender warns of Lumma Stealer malware hiding in pirated copies of The Odyssey",
+      "take": "Lumma Stealer malware discovered hiding in pirated copies of The Odyssey",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lumma-stealer-malware-odyssey-crypto-wallets/"
     }
   ],
   "policy": [
     {
-      "headline": "Bitpanda fined in Austria\u2019s first published MiCA penalty",
-      "take": "Bitpanda fined in Austria's first published MiCA regulatory penalty",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US enacts GENIUS Act, setting stablecoin regulatory framework",
+      "take": "US enacts GENIUS Act establishing regulatory framework for stablecoins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-enacts-genius-act-setting-stablecoin-regulatory-framework/"
     },
     {
-      "headline": "Donald Trump threatens new Iran sanctions, heightens oil market risks",
-      "take": "Donald Trump threatens new Iran sanctions heightening oil market risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-sanctions-oil-market-risks/"
-    },
-    {
-      "headline": "House AI rules left unenforced, individual offices left to police themselves",
-      "take": "House AI rules left unenforced, individual offices left to self-police",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-office-overwhelmed-ai-content/"
+      "headline": "Austria\u2019s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
+      "take": "Austria's FMA fines Bitpanda $81,000 in first published MiCA penalty",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960"
     }
   ]
 }

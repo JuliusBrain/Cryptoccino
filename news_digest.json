@@ -1,102 +1,96 @@
 {
-  "generated": "2026-08-17T15:43:36.539651+00:00",
-  "ts": 1786981416,
+  "generated": "2026-08-17T19:00:44.247938+00:00",
+  "ts": 1786993244,
   "market": [
     {
-      "headline": "Soft dollar lifts crypto as Strait of Hormuz tensions simmer",
-      "take": "Soft dollar and geopolitical tensions lift crypto prices modestly",
+      "headline": "Jane Street buys $630M in Bitcoin ETFs, total holdings reach $1B",
+      "take": "Jane Street Bitcoin ETF purchases bring holdings to $1 billion milestone",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/soft-dollar-lifts-crypto-hormuz-tensions/"
+      "link": "https://cryptobriefing.com/jane-street-bitcoin-etf-holdings-1-billion/"
     },
     {
-      "headline": "MOVE Index drops to 2026 lows as Fed holds steady and inflation cools",
-      "take": "Volatility index drops to 2026 lows as Fed holds rates steady",
+      "headline": "Schonfeld Advisors sells 20% of Bitcoin ETF holdings, drops to $384M",
+      "take": "Schonfeld Advisors reduces Bitcoin ETF position by twenty percent to $384M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/move-index-volatility-declines-fed-pause/"
+      "link": "https://cryptobriefing.com/schonfeld-advisors-sells-bitcoin-etf-holdings-384m/"
     },
     {
-      "headline": "CleanSpark, BitFuFu, Canaan report July Bitcoin production declines as prices climbed",
-      "take": "Bitcoin miners report July production declines despite rising BTC prices",
+      "headline": "US 30-year bond yield hits highest level in over 19 years",
+      "take": "US thirty-year bond yields reach highest level in over nineteen years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cleanspark-bitfufu-canaan-july-bitcoin-production-decline/"
+      "link": "https://cryptobriefing.com/us-30-year-bond-yield-hits-highest-level-in-over-19-years/"
     },
     {
-      "headline": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "take": "Bitmine accumulates significant Ethereum holdings worth approximately eleven billion",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase"
+      "headline": "Aerodrome Slipstream leads euro stablecoin trading with nearly $10B in monthly volume",
+      "take": "Aerodrome Slipstream leads euro stablecoin trading with ten billion monthly volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aerodrome-slipstream-euro-stablecoin-volume/"
     }
   ],
   "business": [
     {
-      "headline": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "take": "Compound invests fifty-two million in leadership shift toward institutions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus"
+      "headline": "Wispr Flow raises $280 million at $2 billion valuation",
+      "take": "Wispr Flow raises $280 million at $2 billion valuation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wispr-flow-2b-valuation-ai-startup/"
     },
     {
-      "headline": "Stacks to launch Genesis Bond, self-custodial Bitcoin yield mechanism in 24 days",
-      "take": "Stacks launches self-custodial Bitcoin yield product Genesis Bond soon",
+      "headline": "Neynar acquires Farcaster as founding team steps back from operations",
+      "take": "Neynar acquires Farcaster as founding team steps back from operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-to-launch-genesis-bond-self-custodial-bitcoin-yield-mechanism-in-24-days/"
+      "link": "https://cryptobriefing.com/farcaster-neynar-takeover-founding-team-departs/"
     },
     {
-      "headline": "Cap launches cross-chain deposits and mints with LayerZero\u2019s OVault standard",
-      "take": "Cap enables cross-chain deposits using LayerZero's new OVault standard",
+      "headline": "Robinhood rolls out Agentic Trading for crypto and equities",
+      "take": "Robinhood launches Agentic Trading platform for crypto and equities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cap-cross-chain-deposits-ovault/"
+      "link": "https://cryptobriefing.com/robinhood-agentic-trading-crypto-equities/"
     },
     {
-      "headline": "Cardano outlines two-phase Dijkstra upgrade for 2026 and 2027",
-      "take": "Cardano outlines two-phase upgrade spanning 2026 and 2027 timeline",
+      "headline": "Venice crosses $100M in annualized revenue as privacy-first AI model gains traction",
+      "take": "Venice privacy-first AI model crosses $100M in annualized revenue",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-dijkstra-upgrade-q4-2026/"
+      "link": "https://cryptobriefing.com/venice-ai-100m-annualized-revenue/"
+    },
+    {
+      "headline": "BNB Chain reports 124K increase in RWA holders in 72 hours",
+      "take": "BNB Chain sees 124K increase in real-world asset holders in seventy-two hours",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bnb-chain-rwa-holders-surge/"
     }
   ],
   "security": [
     {
-      "headline": "The Coldcard hack proves reputation is not a security model",
-      "take": "Coldcard vulnerability exposed years-long code bug causing major losses",
+      "headline": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "take": "BitMart founder dismisses audit calls as users report blocked funds",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model"
-    },
-    {
-      "headline": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
-      "take": "Harmony plans rollback after attacker forged three trillion ONE tokens",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976"
-    },
-    {
-      "headline": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "take": "macOS screen sharing flaw exploited for secret Monero cryptocurrency mining",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero"
+      "link": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "take": "US Treasury proposes GENIUS Act to regulate stablecoin issuance rules",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule"
+      "headline": "Binance to plan UK relaunch with FCA license application: Report",
+      "take": "Binance plans UK relaunch with FCA license application filing",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC seeks public comment on derivatives for computing capacity as GPU futures near launch",
-      "take": "CFTC seeks comments on GPU computing capacity derivatives framework",
+      "headline": "President Trump to resume negotiations on the Crypto Clarity Act within the next 2 days",
+      "take": "Trump to resume negotiations on Crypto Clarity Act within two days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-public-comment-computing-capacity-derivatives/"
+      "link": "https://cryptobriefing.com/president-trump-to-resume-negotiations-on-the-crypto-clarity-act-within-the/"
     },
     {
-      "headline": "US slashes Wall Street red tape, prompting European banks to demand the same treatment",
-      "take": "US deregulates Wall Street, prompting European banks to seek parity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-deregulation-european-banks-reform/"
+      "headline": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+      "take": "CFTC seeks public input on AI compute futures contracts for October launch",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "OpenAI, Anthropic limit access to top models amid US regulatory pressure",
-      "take": "OpenAI and Anthropic restrict top model access under US regulatory scrutiny",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-limit-access-to-top-models-amid-us-regulatory-pressure/"
+      "headline": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
+      "take": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987"
     }
   ]
 }

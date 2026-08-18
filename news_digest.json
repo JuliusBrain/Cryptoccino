@@ -1,120 +1,77 @@
 {
-  "generated": "2026-08-18T04:01:24.933296+00:00",
-  "ts": 1787025684,
+  "generated": "2026-08-18T07:07:34.223286+00:00",
+  "ts": 1787036854,
   "market": [
     {
-      "headline": "Gold holds above $4,000 as rate hike bets retreat",
-      "take": "Gold holds above $4,000 as rate hike expectations ease",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-gains-dollar-weakens-fed-rate-hike/"
+      "headline": "Bitcoin climbs above $64,000 while most majors slip",
+      "take": "Bitcoin climbs above $64,000 while most major altcoins decline",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip"
     },
     {
-      "headline": "Dollar weakens as Fed rate hike bets dwindle, Iran tensions rise",
-      "take": "Dollar weakens as Fed rate hike bets dwindle, Iran tensions rise",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-weakens-as-fed-rate-hike-bets-dwindle-iran-tensions-rise/"
+      "headline": "The bitcoin price level where leveraged bulls could get whacked",
+      "take": "Leveraged bull positions face liquidation pressure at key bitcoin price level",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked"
     },
     {
       "headline": "Fundstrat predicts Bitcoin is overdue for 30% price moves",
-      "take": "Fundstrat predicts Bitcoin is overdue for 30% price moves",
+      "take": "Fundstrat predicts Bitcoin is overdue for significant 30% directional moves",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fundstrat-bitcoin-30-percent-price-moves/"
     },
     {
-      "headline": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
-      "take": "Robinhood Chain TVL surges 45% in August, tokenized RWAs weaken",
+      "headline": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
+      "take": "Korean exchanges Upbit and Bithumb report 50% revenue declines in H1",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998"
+      "link": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034"
     },
     {
-      "headline": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
-      "take": "Tokenized equities triple market share as Ondo, Binance dominate",
+      "headline": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
+      "take": "Robinhood Chain TVL surges 45% in August as RWA tokens decline",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996"
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998"
     }
   ],
   "business": [
     {
+      "headline": "Ripple partners with South Korea\u2019s Jeonbuk Bank for cross-border payments",
+      "take": "Ripple partners with South Korea's Jeonbuk Bank for cross-border payments",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049"
+    },
+    {
+      "headline": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "take": "Monad Ethereum rival offered early investors $60M exits, nearly all declined",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no"
+    },
+    {
+      "headline": "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
+      "take": "Moscow Exchange plans Bitcoin and Ethereum perpetual futures launch next month",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moscow-exchange-bitcoin-ethereum-perpetual-futures/"
+    },
+    {
       "headline": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "take": "Kraken parent Payward joins Anthropic's Project Glasswing for security",
+      "take": "Kraken parent Payward joins Glasswing, accesses Claude Mythos for security",
       "source": "decrypt",
       "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos"
-    },
-    {
-      "headline": "Anthropic nears $6B deal for Israeli AI startup Decart, creating new billionaires",
-      "take": "Anthropic nears $6B deal for Israeli AI startup Decart",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-nears-6b-deal-for-israeli-ai-startup-decart-creating-new-billionaires/"
-    },
-    {
-      "headline": "Kbank, not Jeonbuk Bank, is leading South Korea\u2019s Ripple Payments push",
-      "take": "Kbank leads South Korea's Ripple Payments push, not Jeonbuk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-ripple-payments-kbank/"
-    },
-    {
-      "headline": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
-      "take": "IREN delivers first AI cloud deployment to Microsoft on $9.7B deal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016"
-    },
-    {
-      "headline": "Reddit turns text posts into podcasts and short videos using AI",
-      "take": "Reddit turns text posts into podcasts and short videos using AI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reddit-ai-text-to-video-podcasts/"
     }
   ],
-  "security": [
-    {
-      "headline": "Music publisher Round Hill sues Anthropic and Suno over AI training with 500+ songs",
-      "take": "Music publisher Round Hill sues Anthropic and Suno over AI training",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/round-hill-music-sues-anthropic-suno-ai-training/"
-    },
-    {
-      "headline": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-      "take": "Minnesota says xAI's Grok created marketplace for digital sexual violence",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence"
-    },
-    {
-      "headline": "OpenAI\u2019s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "take": "OpenAI addresses rogue agents and hacks with more AI oversight",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-      "take": "Treasury proposes rules defining who can legally sell stablecoins",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us"
-    },
-    {
-      "headline": "OCC approves Trump family crypto company for trust charter",
-      "take": "OCC approves Trump family crypto company for trust charter",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Citadel Securities urges SEC to reconsider stock-trading rule proposal",
-      "take": "Citadel Securities urges SEC to reconsider stock-trading rule proposal",
+      "headline": "Dollar weakens as Fed rate hike bets dwindle, Iran tensions rise",
+      "take": "Dollar weakens as Fed rate hike bets fade amid US-Iran tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citadel-securities-sec-stock-trading-rule/"
+      "link": "https://cryptobriefing.com/dollar-weakens-as-fed-rate-hike-bets-dwindle-iran-tensions-rise/"
     },
     {
-      "headline": "Hong Kong cuts taxes for hedge funds, sparking financial sector maneuvering",
-      "take": "Hong Kong cuts taxes for hedge funds, sparking financial sector shifts",
+      "headline": "Oil prices climb, bond yields rise as US-Iran ceasefire ends",
+      "take": "Oil prices climb and bond yields rise as US-Iran ceasefire ends",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-hedge-fund-tax-cuts/"
-    },
-    {
-      "headline": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "take": "Prediction markets give Fed 74% odds of holding rates in September",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375821/prediction-fed-rate-change-september"
+      "link": "https://cryptobriefing.com/oil-prices-climb-bond-yields-rise-as-us-iran-ceasefire-ends/"
     }
   ]
 }

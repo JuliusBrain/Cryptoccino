@@ -1,36 +1,36 @@
 {
-  "generated": "2026-08-18T07:07:34.223286+00:00",
-  "ts": 1787036854,
+  "generated": "2026-08-18T09:51:28.043848+00:00",
+  "ts": 1787046688,
   "market": [
     {
-      "headline": "Bitcoin climbs above $64,000 while most majors slip",
-      "take": "Bitcoin climbs above $64,000 while most major altcoins decline",
+      "headline": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+      "take": "Bitcoin holds $64,000 as Treasury yields rise, draining risk appetite",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip"
+      "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite"
     },
     {
-      "headline": "The bitcoin price level where leveraged bulls could get whacked",
-      "take": "Leveraged bull positions face liquidation pressure at key bitcoin price level",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked"
-    },
-    {
-      "headline": "Fundstrat predicts Bitcoin is overdue for 30% price moves",
-      "take": "Fundstrat predicts Bitcoin is overdue for significant 30% directional moves",
+      "headline": "30-year US Treasury yield, highest since 2007",
+      "take": "30-year US Treasury yield reaches highest level since 2007",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fundstrat-bitcoin-30-percent-price-moves/"
+      "link": "https://cryptobriefing.com/30-year-us-treasury-yield-highest-since-2007/"
     },
     {
       "headline": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
-      "take": "Korean exchanges Upbit and Bithumb report 50% revenue declines in H1",
+      "take": "Upbit and Bithumb report 50% revenue declines in first half",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034"
     },
     {
-      "headline": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
-      "take": "Robinhood Chain TVL surges 45% in August as RWA tokens decline",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998"
+      "headline": "Unitree Crypto Futures Indicate More Than 300% Debut Pop",
+      "take": "Unitree Crypto Futures indicate over 300% debut pop on listing",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-crypto-futures-indicate-more-than-300-debut-pop"
+    },
+    {
+      "headline": "Central banks\u2019 gold reserves near Bretton Woods peak amid geopolitical tensions",
+      "take": "Central banks' gold reserves near Bretton Woods peak amid tensions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/central-banks-gold-reserves-near-bretton-woods-peak-amid-geopolitical-tensions/"
     }
   ],
   "business": [
@@ -41,8 +41,14 @@
       "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049"
     },
     {
+      "headline": "Kraken brings US stock trading to European Economic Area customers",
+      "take": "Kraken launches US stock trading for European Economic Area customers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027"
+    },
+    {
       "headline": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-      "take": "Monad Ethereum rival offered early investors $60M exits, nearly all declined",
+      "take": "Monad offered early investors up to $60M to cash out; nearly all declined",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no"
     },
@@ -53,25 +59,32 @@
       "link": "https://cryptobriefing.com/moscow-exchange-bitcoin-ethereum-perpetual-futures/"
     },
     {
-      "headline": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "take": "Kraken parent Payward joins Glasswing, accesses Claude Mythos for security",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos"
+      "headline": "Cathie Wood\u2019s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
+      "take": "Ark Invest acquires $15 million in Block Inc shares after 3% dip",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "take": "Bitpanda hit with Europe's first published MiCA penalty in Austria",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty"
+    }
+  ],
   "policy": [
     {
-      "headline": "Dollar weakens as Fed rate hike bets dwindle, Iran tensions rise",
-      "take": "Dollar weakens as Fed rate hike bets fade amid US-Iran tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-weakens-as-fed-rate-hike-bets-dwindle-iran-tensions-rise/"
+      "headline": "Blockchain Association backs SEC\u2019s proposal to scrap outdated NMS rules, citing tokenization benefits",
+      "take": "Blockchain Association backs SEC proposal to scrap outdated NMS rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069"
     },
     {
-      "headline": "Oil prices climb, bond yields rise as US-Iran ceasefire ends",
-      "take": "Oil prices climb and bond yields rise as US-Iran ceasefire ends",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-climb-bond-yields-rise-as-us-iran-ceasefire-ends/"
+      "headline": "South Korea moves to block Polymarket over gambling concerns",
+      "take": "South Korea moves to block Polymarket over gambling concerns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

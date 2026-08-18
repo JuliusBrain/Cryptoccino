@@ -1,90 +1,102 @@
 {
-  "generated": "2026-08-18T09:51:28.043848+00:00",
-  "ts": 1787046688,
+  "generated": "2026-08-18T13:11:31.469609+00:00",
+  "ts": 1787058691,
   "market": [
     {
-      "headline": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
-      "take": "Bitcoin holds $64,000 as Treasury yields rise, draining risk appetite",
+      "headline": "US spot Bitcoin ETFs pull in $298M on Monday, snapping three-day outflow streak",
+      "take": "Bitcoin ETFs attracted $298M on Monday, ending three consecutive days of outflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-spot-bitcoin-etfs-298m-inflows-monday/"
+    },
+    {
+      "headline": "Bitcoin taker buy volume signals historical exhaustion zone",
+      "take": "Bitcoin taker buy volume signals historically elevated exhaustion, warrants monitoring",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-taker-buy-volume-exhaustion-zone/"
+    },
+    {
+      "headline": "Futures slide as market reacts to soaring bond yields and diesel prices",
+      "take": "Futures declined as bond yields and diesel prices surged sharply",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/futures-slide-bond-yields-diesel-prices/"
+    },
+    {
+      "headline": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+      "take": "PUMP token prints golden cross as revenue hits seven-month high",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high"
+    },
+    {
+      "headline": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+      "take": "Energy market volatility widening; Bitcoin mining economics may face headwinds",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite"
-    },
-    {
-      "headline": "30-year US Treasury yield, highest since 2007",
-      "take": "30-year US Treasury yield reaches highest level since 2007",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/30-year-us-treasury-yield-highest-since-2007/"
-    },
-    {
-      "headline": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
-      "take": "Upbit and Bithumb report 50% revenue declines in first half",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034"
-    },
-    {
-      "headline": "Unitree Crypto Futures Indicate More Than 300% Debut Pop",
-      "take": "Unitree Crypto Futures indicate over 300% debut pop on listing",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-crypto-futures-indicate-more-than-300-debut-pop"
-    },
-    {
-      "headline": "Central banks\u2019 gold reserves near Bretton Woods peak amid geopolitical tensions",
-      "take": "Central banks' gold reserves near Bretton Woods peak amid tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-banks-gold-reserves-near-bretton-woods-peak-amid-geopolitical-tensions/"
+      "link": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it"
     }
   ],
   "business": [
     {
-      "headline": "Ripple partners with South Korea\u2019s Jeonbuk Bank for cross-border payments",
-      "take": "Ripple partners with South Korea's Jeonbuk Bank for cross-border payments",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049"
-    },
-    {
-      "headline": "Kraken brings US stock trading to European Economic Area customers",
-      "take": "Kraken launches US stock trading for European Economic Area customers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027"
-    },
-    {
-      "headline": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-      "take": "Monad offered early investors up to $60M to cash out; nearly all declined",
+      "headline": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "take": "Cash App expands crypto support beyond Bitcoin and USDC via MoonPay",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no"
+      "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay"
     },
     {
-      "headline": "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
-      "take": "Moscow Exchange plans Bitcoin and Ethereum perpetual futures launch next month",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moscow-exchange-bitcoin-ethereum-perpetual-futures/"
-    },
-    {
-      "headline": "Cathie Wood\u2019s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
-      "take": "Ark Invest acquires $15 million in Block Inc shares after 3% dip",
+      "headline": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
+      "take": "Citi plans to launch Bitcoin custody under Custody+ platform later this year",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060"
+      "link": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090"
+    },
+    {
+      "headline": "Visa seeks new partner for stablecoin settlement after Mastercard snags BVNK",
+      "take": "Visa seeks new stablecoin settlement partner after Mastercard acquired BVNK",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/visa-stablecoin-partner-bvnk-mastercard/"
+    },
+    {
+      "headline": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
+      "take": "Cypherpunk Technologies launches Zcash mining fleet via $33M Winklevoss deal",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071"
+    },
+    {
+      "headline": "Witsand adopts Bitcoin for everyday transactions as tiny South African town goes all in on crypto payments",
+      "take": "South African town Witsand adopts Bitcoin for everyday transactions and payments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/witsand-south-africa-bitcoin-adoption/"
     }
   ],
   "security": [
     {
-      "headline": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
-      "take": "Bitpanda hit with Europe's first published MiCA penalty in Austria",
+      "headline": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+      "take": "Chainalysis sues US government over $94.6M ICE contract awarded to TRM Labs",
       "source": "decrypt",
-      "link": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty"
+      "link": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs"
+    },
+    {
+      "headline": "\u2018The Crypto Program\u2019 promoter deported from Fiji over alleged $165 million Ponzi scheme",
+      "take": "Fiji deports promoter of alleged $165M crypto Ponzi scheme called Crypto Program",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083"
     }
   ],
   "policy": [
     {
-      "headline": "Blockchain Association backs SEC\u2019s proposal to scrap outdated NMS rules, citing tokenization benefits",
-      "take": "Blockchain Association backs SEC proposal to scrap outdated NMS rules",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069"
+      "headline": "South Korea blocks Polymarket, citing illegal crypto gambling",
+      "take": "South Korea blocks Polymarket, citing illegal crypto gambling concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-blocks-polymarket-illegal-gambling/"
     },
     {
-      "headline": "South Korea moves to block Polymarket over gambling concerns",
-      "take": "South Korea moves to block Polymarket over gambling concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Ethereum\u2019s Glamsterdam upgrade rewrites the \u201821,000 gas\u2019 rule that wallets have used since day one",
+      "take": "Ethereum's Glamsterdam upgrade rewrites fundamental 21,000 gas rule for wallets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-glamsterdam-upgrade-gas-rule/"
+    },
+    {
+      "headline": "Reserve Bank of India warns digital payments fail to reduce cash demand",
+      "take": "Reserve Bank of India warns digital payments fail to reduce cash demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/india-cash-paradox-digital-payments/"
     }
   ]
 }

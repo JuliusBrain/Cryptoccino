@@ -1,84 +1,108 @@
 {
-  "generated": "2026-08-18T15:49:10.435023+00:00",
-  "ts": 1787068150,
+  "generated": "2026-08-18T18:59:40.546535+00:00",
+  "ts": 1787079580,
   "market": [
     {
-      "headline": "Bitcoin\u2019s spot demand set to turn positive for first time since February",
-      "take": "Bitcoin spot demand turning positive for first time since February",
+      "headline": "XRP open interest on Binance hits two month high at $461 million, CryptoQuant analyst says",
+      "take": "XRP open interest on Binance hits two-month high at $461 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-spot-demand-turns-positive/"
+      "link": "https://cryptobriefing.com/binance-xrp-open-interest-two-month-high/"
     },
     {
-      "headline": "Global bond yields surge as debt fears test bitcoin\u2019s hedge narrative",
-      "take": "Global bond yields surge as debt concerns test bitcoin hedge narrative",
+      "headline": "Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says",
+      "take": "Bitcoin correction may be nearing end with eight capitulation signals flashing",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130"
+    },
+    {
+      "headline": "Bitcoin has gone quiet as traders chase \u20185x or 10x\u2019 payoffs elsewhere",
+      "take": "Bitcoin traders chase larger payoffs in alternative assets amid quiet market",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative"
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere"
     },
     {
-      "headline": "Global bond markets warn governments over fiscal and inflation risks",
-      "take": "Bond markets warn governments over fiscal and inflation risks ahead",
+      "headline": "Tom Lee names Ethereum as top Layer 1 for AI and robotics, sets $250K price target",
+      "take": "Tom Lee names Ethereum top Layer 1 for AI, sets $250K price target",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-bond-markets-fiscal-inflation-warning/"
+      "link": "https://cryptobriefing.com/tom-lee-ethereum-ai-robotics-layer-1/"
     },
     {
-      "headline": "US national debt set to exceed $40 trillion this week as tariff refunds accelerate fiscal timeline",
-      "take": "US national debt set to exceed forty trillion this week",
+      "headline": "Fabrinet drops after earnings, dragging down Marvell and Amphenol in AI stock sell-off",
+      "take": "Fabrinet drops after earnings, dragging down AI-exposed semiconductor stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-national-debt-exceeds-40-trillion/"
+      "link": "https://cryptobriefing.com/fabrinet-earnings-drop-marvell-amphenol/"
     }
   ],
   "business": [
     {
-      "headline": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-      "take": "Metaplanet launches US bitcoin treasury firm with one-hundred-thirty-two million deal",
+      "headline": "Metaplanet to acquire Superplanet in $134.6M Bitcoin-funded deal, stock surges ahead of Q4 2026 close",
+      "take": "Metaplanet acquires Superplanet in $134.6M Bitcoin-funded deal closing Q4 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/metaplanet-acquires-superplanet-bitcoin-deal/"
+    },
+    {
+      "headline": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "take": "Wyoming pursues state stablecoin following $15 billion LayerZero migration",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move"
+    },
+    {
+      "headline": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+      "take": "Kraken adds U.S. stocks in Europe as traditional finance and crypto converge",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs"
+    },
+    {
+      "headline": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "take": "Citi to launch Bitcoin custody as Wall Street deepens crypto integration",
       "source": "decrypt",
-      "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal"
+      "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto"
     },
     {
-      "headline": "Ripple closes $275M private placement to fund US expansion",
-      "take": "Ripple closes two-hundred-seventy-five million private placement for US expansion",
+      "headline": "Plume Vaults settles over $600M in real-world asset volume",
+      "take": "Plume Vaults settles over $600M in real-world asset transaction volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-275m-private-placement-us-expansion/"
-    },
-    {
-      "headline": "Krak launches multi-asset debit card in US with up to 2% cashback",
-      "take": "Krak launches multi-asset debit card in US offering cashback rewards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/krak-multi-asset-debit-card-us-launch/"
-    },
-    {
-      "headline": "Cypherpunk Technologies launches largest Zcash mining operation with $33M Winklevoss backing",
-      "take": "Cypherpunk Technologies launches largest Zcash mining with Winklevoss backing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cypherpunk-mining-zcash-winklevoss-deal/"
-    },
-    {
-      "headline": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
-      "take": "Securitize brings Neuberger's fixed-income platform onchain as tokenized fund",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102"
+      "link": "https://cryptobriefing.com/plume-vaults-600m-rwa-volume-settled/"
     }
   ],
   "security": [
     {
-      "headline": "Laura Shin interviews North Korean crypto hacker Justin Lim undercover",
-      "take": "Laura Shin interviews alleged North Korean crypto hacker undercover",
+      "headline": "BitBox fixes severe wallet firmware flaws found during AI-assisted audits",
+      "take": "BitBox fixes severe wallet firmware flaws found during AI-assisted security audit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/laura-shin-north-korean-crypto-hacker-interview/"
+      "link": "https://cryptobriefing.com/bitbox-ai-firmware-flaws-bitcoin-wallets/"
+    },
+    {
+      "headline": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+      "take": "Trump Family Crypto Firm linked to Chinese AI models US government deems risky",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk"
+    },
+    {
+      "headline": "US State Department offers $10M reward for tips on Iranian hackers",
+      "take": "US State Department offers $10M reward for information on Iranian hackers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-state-department-10m-reward-iranian-hackers/"
     }
   ],
   "policy": [
     {
-      "headline": "Four states seek $1.4T from Meta in federal trial over youth harms",
-      "take": "Four states seek one-point-four trillion from Meta over youth harms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-trial-four-states-seek-1-4-trillion/"
+      "headline": "Federal prosecutors blast ex-Celsius CEO\u2019s motion to vacate as \u2018without merit\u2019",
+      "take": "Federal prosecutors oppose ex-Celsius CEO's motion to vacate conviction",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
-      "take": "HashKey taps Hong Kong's first regulated stablecoin for settlement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals"
+      "headline": "SEC Proposes New Regulation Crypto Assets",
+      "take": "SEC proposes new regulation addressing crypto assets",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+    },
+    {
+      "headline": "Pennsylvania tightens data-center rules under Shapiro\u2019s GRID standards",
+      "take": "Pennsylvania tightens data-center rules under Shapiro's GRID standards",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/shapiro-data-center-regulations-pennsylvania/"
     }
   ]
 }

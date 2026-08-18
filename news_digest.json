@@ -1,96 +1,114 @@
 {
-  "generated": "2026-08-17T21:44:04.108602+00:00",
-  "ts": 1787003044,
+  "generated": "2026-08-18T01:53:15.685652+00:00",
+  "ts": 1787017995,
   "market": [
     {
-      "headline": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "take": "Fed futures market pricing 74% probability of holding rates steady in September",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375821/prediction-fed-rate-change-september"
+      "headline": "Wall Street indexes fall as oil prices rise amid US-Iran tensions",
+      "take": "Wall Street falls as oil prices rise amid US-Iran tensions escalate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wall-street-indexes-fall-as-oil-prices-rise-amid-us-iran-tensions/"
     },
     {
-      "headline": "Euro-denominated stablecoins add $17M in market cap in seven days",
-      "take": "Euro stablecoins gained $17M market cap over seven-day period",
+      "headline": "Gold holds above $4,000 as rate hike bets retreat",
+      "take": "Gold holds above $4,000 as Fed rate-hike expectations ease",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/euro-stablecoins-market-cap-mica-growth/"
+      "link": "https://cryptobriefing.com/gold-gains-dollar-weakens-fed-rate-hike/"
     },
     {
-      "headline": "Macquarie Group dumps 62% of its Bitcoin ETF position, trimming holdings to $55M",
-      "take": "Macquarie Group cut Bitcoin ETF holdings by 62% to $55M",
+      "headline": "30-year US Treasury yield hits highest level in nearly 20 years",
+      "take": "30-year US Treasury yield hits highest level in nearly 20 years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/macquarie-group-sells-bitcoin-etf-position/"
-    },
-    {
-      "headline": "Brent crude tops $90 amid Middle East tensions, US stocks decline",
-      "take": "Brent crude topped $90 amid Middle East tensions; US stocks declined",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-tops-90-amid-middle-east-tensions-us-stocks-decline/"
-    },
-    {
-      "headline": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "take": "XRP held near two-year streak but technical charts show warning signals",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Securitize, J.P. Morgan, Franklin Templeton drive $65M in tokenized Treasury market cap growth in one week",
-      "take": "Tokenized Treasury market grew $65M in one week led by major firms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-jpmorgan-franklin-templeton-tokenized-treasury-growth/"
+      "link": "https://cryptobriefing.com/30-year-treasury-yield-highest-20-years/"
     },
     {
       "headline": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
-      "take": "Tokenized equities tripled market share as Ondo, Binance, xStocks expanded",
+      "take": "Tokenized equities triple market share led by Ondo, Binance, xStocks",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996"
     },
     {
-      "headline": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
-      "take": "IREN delivering AI cloud deployments to Microsoft under $9.7B agreement",
+      "headline": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
+      "take": "Robinhood Chain TVL surges 45% in August as RWA tokens decline",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016"
-    },
-    {
-      "headline": "Centrifuge proposes token-to-equity conversion for CFG holders",
-      "take": "Centrifuge proposes token-to-equity conversion mechanism for CFG token holders",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-cfg-token-equity-conversion/"
-    },
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998"
+    }
+  ],
+  "business": [
     {
       "headline": "Anthropic revenue run rate hits $65B ahead of IPO: Axios",
-      "take": "Anthropic revenue run rate reached $65B ahead of planned IPO",
+      "take": "Anthropic revenue run rate hits $65B ahead of planned IPO",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-revenue-run-rate-hits-65b-ahead-of-ipo-axios/"
+    },
+    {
+      "headline": "EURC surpasses \u20ac400M in circulation, marking euro liquidity milestone",
+      "take": "EURC stablecoin surpasses \u20ac400M circulation, marking euro liquidity milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eurc-surpasses-400m-euro-stablecoin-milestone/"
+    },
+    {
+      "headline": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "take": "Kraken parent Payward joins Anthropic security project to hunt flaws",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos"
+    },
+    {
+      "headline": "General Atlantic revives IPO plans as US listings rebound",
+      "take": "General Atlantic revives IPO plans as US listings market rebounds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/general-atlantic-jpmorgan-ipo-2026/"
+    },
+    {
+      "headline": "Omnichain launchpad Printr to cease operations Aug. 31 and cancel planned TGE and airdrop",
+      "take": "Omnichain launchpad Printr ceases operations, cancels TGE and airdrop",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/printr-shuts-down-cancels-token-airdrop/"
     }
   ],
   "security": [
     {
-      "headline": "Payward joins Anthropic\u2019s Project Glasswing to hunt software vulnerabilities with Claude Mythos 5",
-      "take": "Payward joined Anthropic initiative hunting software vulnerabilities with AI",
+      "headline": "The White House hires cyber privateers to combat pig butchering scams",
+      "take": "White House hires cyber privateers to combat pig butchering scams",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/payward-anthropic-glasswing-claude-mythos-5/"
+      "link": "https://cryptobriefing.com/white-house-cyber-privateers-pig-butchering-scams/"
+    },
+    {
+      "headline": "Music publisher Round Hill sues Anthropic and Suno over AI training with 500+ songs",
+      "take": "Music publisher sues Anthropic and Suno over AI training with songs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/round-hill-music-sues-anthropic-suno-ai-training/"
+    },
+    {
+      "headline": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "take": "Minnesota alleges xAI's Grok created marketplace for sexual abuse content",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence"
     }
   ],
   "policy": [
     {
       "headline": "OCC approves Trump family crypto company for trust charter",
-      "take": "OCC approved Trump family crypto company for trust charter",
+      "take": "OCC approves Trump family crypto company for bank trust charter",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-      "take": "Treasury proposed rules defining legal requirements for stablecoin sellers",
+      "take": "Treasury proposes rules defining who can legally sell stablecoins",
       "source": "decrypt",
       "link": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us"
     },
     {
-      "headline": "Binance to plan UK relaunch with FCA license application: Report",
-      "take": "Binance planning UK relaunch with FCA license application",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Hong Kong cuts taxes for hedge funds, sparking financial sector maneuvering",
+      "take": "Hong Kong cuts taxes for hedge funds, sparking financial sector shifts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-hedge-fund-tax-cuts/"
+    },
+    {
+      "headline": "JD Vance emphasizes strategic importance of Bitcoin for US government",
+      "take": "JD Vance emphasizes strategic importance of Bitcoin for US government",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jd-vance-bitcoin-strategic-importance-us/"
     }
   ]
 }

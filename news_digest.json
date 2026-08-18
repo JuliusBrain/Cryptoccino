@@ -1,102 +1,84 @@
 {
-  "generated": "2026-08-18T13:11:31.469609+00:00",
-  "ts": 1787058691,
+  "generated": "2026-08-18T15:49:10.435023+00:00",
+  "ts": 1787068150,
   "market": [
     {
-      "headline": "US spot Bitcoin ETFs pull in $298M on Monday, snapping three-day outflow streak",
-      "take": "Bitcoin ETFs attracted $298M on Monday, ending three consecutive days of outflows",
+      "headline": "Bitcoin\u2019s spot demand set to turn positive for first time since February",
+      "take": "Bitcoin spot demand turning positive for first time since February",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-spot-bitcoin-etfs-298m-inflows-monday/"
+      "link": "https://cryptobriefing.com/bitcoin-spot-demand-turns-positive/"
     },
     {
-      "headline": "Bitcoin taker buy volume signals historical exhaustion zone",
-      "take": "Bitcoin taker buy volume signals historically elevated exhaustion, warrants monitoring",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-taker-buy-volume-exhaustion-zone/"
-    },
-    {
-      "headline": "Futures slide as market reacts to soaring bond yields and diesel prices",
-      "take": "Futures declined as bond yields and diesel prices surged sharply",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/futures-slide-bond-yields-diesel-prices/"
-    },
-    {
-      "headline": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
-      "take": "PUMP token prints golden cross as revenue hits seven-month high",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high"
-    },
-    {
-      "headline": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-      "take": "Energy market volatility widening; Bitcoin mining economics may face headwinds",
+      "headline": "Global bond yields surge as debt fears test bitcoin\u2019s hedge narrative",
+      "take": "Global bond yields surge as debt concerns test bitcoin hedge narrative",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it"
+      "link": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative"
+    },
+    {
+      "headline": "Global bond markets warn governments over fiscal and inflation risks",
+      "take": "Bond markets warn governments over fiscal and inflation risks ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/global-bond-markets-fiscal-inflation-warning/"
+    },
+    {
+      "headline": "US national debt set to exceed $40 trillion this week as tariff refunds accelerate fiscal timeline",
+      "take": "US national debt set to exceed forty trillion this week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-national-debt-exceeds-40-trillion/"
     }
   ],
   "business": [
     {
-      "headline": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-      "take": "Cash App expands crypto support beyond Bitcoin and USDC via MoonPay",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay"
+      "headline": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
+      "take": "Metaplanet launches US bitcoin treasury firm with one-hundred-thirty-two million deal",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal"
     },
     {
-      "headline": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
-      "take": "Citi plans to launch Bitcoin custody under Custody+ platform later this year",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090"
-    },
-    {
-      "headline": "Visa seeks new partner for stablecoin settlement after Mastercard snags BVNK",
-      "take": "Visa seeks new stablecoin settlement partner after Mastercard acquired BVNK",
+      "headline": "Ripple closes $275M private placement to fund US expansion",
+      "take": "Ripple closes two-hundred-seventy-five million private placement for US expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/visa-stablecoin-partner-bvnk-mastercard/"
+      "link": "https://cryptobriefing.com/ripple-275m-private-placement-us-expansion/"
     },
     {
-      "headline": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
-      "take": "Cypherpunk Technologies launches Zcash mining fleet via $33M Winklevoss deal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071"
-    },
-    {
-      "headline": "Witsand adopts Bitcoin for everyday transactions as tiny South African town goes all in on crypto payments",
-      "take": "South African town Witsand adopts Bitcoin for everyday transactions and payments",
+      "headline": "Krak launches multi-asset debit card in US with up to 2% cashback",
+      "take": "Krak launches multi-asset debit card in US offering cashback rewards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/witsand-south-africa-bitcoin-adoption/"
+      "link": "https://cryptobriefing.com/krak-multi-asset-debit-card-us-launch/"
+    },
+    {
+      "headline": "Cypherpunk Technologies launches largest Zcash mining operation with $33M Winklevoss backing",
+      "take": "Cypherpunk Technologies launches largest Zcash mining with Winklevoss backing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cypherpunk-mining-zcash-winklevoss-deal/"
+    },
+    {
+      "headline": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
+      "take": "Securitize brings Neuberger's fixed-income platform onchain as tokenized fund",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102"
     }
   ],
   "security": [
     {
-      "headline": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
-      "take": "Chainalysis sues US government over $94.6M ICE contract awarded to TRM Labs",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs"
-    },
-    {
-      "headline": "\u2018The Crypto Program\u2019 promoter deported from Fiji over alleged $165 million Ponzi scheme",
-      "take": "Fiji deports promoter of alleged $165M crypto Ponzi scheme called Crypto Program",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083"
+      "headline": "Laura Shin interviews North Korean crypto hacker Justin Lim undercover",
+      "take": "Laura Shin interviews alleged North Korean crypto hacker undercover",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/laura-shin-north-korean-crypto-hacker-interview/"
     }
   ],
   "policy": [
     {
-      "headline": "South Korea blocks Polymarket, citing illegal crypto gambling",
-      "take": "South Korea blocks Polymarket, citing illegal crypto gambling concerns",
+      "headline": "Four states seek $1.4T from Meta in federal trial over youth harms",
+      "take": "Four states seek one-point-four trillion from Meta over youth harms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-blocks-polymarket-illegal-gambling/"
+      "link": "https://cryptobriefing.com/meta-trial-four-states-seek-1-4-trillion/"
     },
     {
-      "headline": "Ethereum\u2019s Glamsterdam upgrade rewrites the \u201821,000 gas\u2019 rule that wallets have used since day one",
-      "take": "Ethereum's Glamsterdam upgrade rewrites fundamental 21,000 gas rule for wallets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-glamsterdam-upgrade-gas-rule/"
-    },
-    {
-      "headline": "Reserve Bank of India warns digital payments fail to reduce cash demand",
-      "take": "Reserve Bank of India warns digital payments fail to reduce cash demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-cash-paradox-digital-payments/"
+      "headline": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+      "take": "HashKey taps Hong Kong's first regulated stablecoin for settlement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals"
     }
   ]
 }

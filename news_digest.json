@@ -1,108 +1,96 @@
 {
-  "generated": "2026-08-19T15:48:59.780193+00:00",
-  "ts": 1787154539,
+  "generated": "2026-08-19T18:56:03.317182+00:00",
+  "ts": 1787165763,
   "market": [
     {
-      "headline": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-      "take": "Bitcoin approaches technical breakout potentially targeting seventy-six thousand dollars",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000"
+      "headline": "Total crypto market cap adds $113B as Bitcoin, Ethereum rally",
+      "take": "Total crypto market cap gains $113B as Bitcoin and Ethereum rally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-market-cap-113b-bitcoin-ethereum-rally/"
     },
     {
-      "headline": "Strategy surges over $103 as analyst predicts $570 target by year-end",
-      "take": "Strategy token surges above one hundred three dollars on analyst year-end target",
+      "headline": "US and Canadian funds hedge FX risks at highest levels in three years",
+      "take": "US and Canadian funds hedge FX risks at highest levels in three years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-mstr-surges-analyst-570-target/"
+      "link": "https://cryptobriefing.com/us-canadian-funds-hedge-fx-risks/"
     },
     {
-      "headline": "US dollar index hits 3-month low amid softer economic data, Fed rate outlook",
-      "take": "Dollar index hits three-month low as economic data softens and rates outlook shifts",
+      "headline": "FOMC minutes highlight AI-driven inflation risks, reducing rate cut odds",
+      "take": "FOMC minutes highlight AI-driven inflation risks, reducing rate cut odds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-index-hits-3-month-low-amid-softer-economic-data-fed-rate-outlook/"
-    },
-    {
-      "headline": "US 10-year Treasury yield expected to exceed 5% this year",
-      "take": "US ten-year Treasury yield expected to exceed five percent this year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-10-year-treasury-yield-5-percent-2026/"
-    },
-    {
-      "headline": "US government borrowing costs reach highest level since 2007",
-      "take": "Government borrowing costs reach highest level since two thousand seven",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-borrowing-costs-highest-since-2007/"
+      "link": "https://cryptobriefing.com/fomc-minutes-highlight-ai-driven-inflation-risks-reducing-rate-cut-odds/"
     }
   ],
   "business": [
     {
-      "headline": "Self launches stablecoin distribution program for USA\u20ae on Celo",
-      "take": "Self launches stablecoin distribution program for USA\u20ae on Celo network",
+      "headline": "Stripe agrees to acquire OpenRouter in deal reportedly worth over $7 billion",
+      "take": "Stripe acquires OpenRouter in deal reportedly worth over $7 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/self-usadt-stablecoin-faucet-celo/"
+      "link": "https://cryptobriefing.com/stripe-acquires-openrouter-ai-developers/"
     },
     {
-      "headline": "Amazon\u2019s AgentCore Payments lets AWS AI agents transact autonomously on Base",
-      "take": "Amazon AgentCore Payments enables AWS AI agents autonomous transactions on Base",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/agentcore-payments-aws-agents-base/"
+      "headline": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
+      "take": "Coinbase Base launches $1 million startup accelerator for AI agents",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator"
     },
     {
-      "headline": "Virtuals Protocol launches Eastworlds, a robotics data lab built to feed its tokenized AI economy",
-      "take": "Virtuals Protocol launches Eastworlds robotics data lab for tokenized AI economy",
+      "headline": "Prosus invests $100M in Indian fintech company Navi at $1.3B valuation",
+      "take": "Prosus invests $100M in Indian fintech Navi at $1.3B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/virtuals-eastworlds-robotics-data-initiative/"
+      "link": "https://cryptobriefing.com/prosus-invests-100m-navi-india-fintech/"
     },
     {
-      "headline": "Gnosis approves plan to transition Chain into an Ethereum-based rollup",
-      "take": "Gnosis approves transition of Chain into Ethereum-based rollup architecture",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gnosis-chain-ethereum-rollup-transition/"
+      "headline": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
+      "take": "Injective becomes SEC-registered transfer agent for tokenization expansion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225"
     },
     {
-      "headline": "HSBC, Standard Chartered execute first live banking transaction on Swift\u2019s 24/7 ledger",
-      "take": "HSBC and Standard Chartered execute first live banking on Swift twenty-four-seven ledger",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger"
+      "headline": "Goldman sounds out investors for $1.15 billion CoreWeave data center bond",
+      "take": "Goldman sounds out investors for $1.15B CoreWeave data center bond",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-sachs-junk-bond-coreweave-data-center/"
     }
   ],
   "security": [
     {
-      "headline": "Solana Identity shuts down services, will delete all user data by year-end",
-      "take": "Solana Identity shuts down services and deletes all user data by year-end",
+      "headline": "Maya Protocol halts operations after $1.7M Bitcoin exploit",
+      "take": "Maya Protocol halts operations after $1.7M Bitcoin exploit discovered",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-identity-shuts-down-deletes-data/"
+      "link": "https://cryptobriefing.com/maya-protocol-halts-bitcoin-exploit/"
     },
     {
-      "headline": "Galaxy reports $11B decline in crypto-collateralized lending in Q2 2026",
-      "take": "Galaxy reports eleven billion dollar decline in crypto-collateralized lending in Q2",
+      "headline": "Rapid7 uncovers Operation ASTERIX: AI-powered phishing tools targeting crypto wallet recovery phrases",
+      "take": "Operation ASTERIX uses AI-powered phishing tools targeting crypto wallet recovery phrases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-crypto-lending-q2-2026-decline/"
+      "link": "https://cryptobriefing.com/rapid7-operation-asterix-crypto-phishing/"
+    },
+    {
+      "headline": "T-Mobile cuts cable to expel Chinese hackers from network",
+      "take": "T-Mobile cuts cable to expel Chinese hackers from network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/t-mobile-cuts-cable-chinese-hackers-salt-typhoon/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC imposes trading and registration bans on former FTX executives Caroline Ellison, Gary Wang",
-      "take": "CFTC imposes trading and registration bans on former FTX executives Ellison and Wang",
+      "headline": "OCC races to finalize GENIUS Act stablecoin rules by November",
+      "take": "OCC races to finalize GENIUS Act stablecoin rules by November",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240"
+    },
+    {
+      "headline": "CFTC seeks public comment on derivatives markets for AI compute",
+      "take": "CFTC seeks public comment on derivatives markets for AI compute",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-resolves-actions-alameda-ftx/"
+      "link": "https://cryptobriefing.com/cftc-computing-power-derivatives-comment/"
     },
     {
-      "headline": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
-      "take": "Coinbase, Circle and Bullish surge as Clarity Act supporters express bill optimism",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill"
-    },
-    {
-      "headline": "White House excludes prediction market firms from Trump tech event: Report",
-      "take": "White House excludes prediction market firms from Trump tech event attendance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-excludes-prediction-markets-trump-tech-event/"
-    },
-    {
-      "headline": "SEC regulatory proposal marks \u2018important\u2019 step forward from \u2018inapt\u2019 crypto rules: Commissioner Peirce",
-      "take": "SEC regulatory proposal marks important step forward from inapt crypto rules",
+      "headline": "Crypto PAC notches primary wins, but loses $2M Florida race",
+      "take": "Crypto PAC notches primary wins but loses $2M Florida race",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "generated": "2026-08-19T01:55:18.675086+00:00",
-  "ts": 1787104518,
+  "generated": "2026-08-19T04:02:21.846499+00:00",
+  "ts": 1787112141,
   "market": [
     {
       "headline": "63,222 crypto traders liquidated in past 24 hours as leverage continues to bite",
-      "take": "63,222 crypto traders liquidated in 24 hours as leverage pressure continues",
+      "take": "63,222 crypto traders liquidated in 24 hours as leverage pressure mounts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/crypto-traders-liquidated-24-hours-2/"
     },
     {
-      "headline": "Hyperliquid hits open interest of over $12B for first time since October",
-      "take": "Hyperliquid opens interest surpasses $12B, highest level since October",
+      "headline": "ARK Invest highlights exploding volumes amid collapsing token prices",
+      "take": "Trading volumes surge while token prices collapse across crypto markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-open-interest-12b-milestone/"
+      "link": "https://cryptobriefing.com/ark-invest-ai-token-volumes-prices/"
     },
     {
-      "headline": "US margin debt drops $85B in July, largest monthly decline on record",
-      "take": "US margin debt fell $85B in July, largest monthly decline ever",
+      "headline": "Hyperliquid hits open interest of over $12B for first time since October",
+      "take": "Hyperliquid open interest reaches $12B, highest level since October",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-margin-debt-record-decline-july/"
+      "link": "https://cryptobriefing.com/hyperliquid-open-interest-12b-milestone/"
     },
     {
       "headline": "PUMP surpasses $3B fully diluted valuation for first time since January",
@@ -27,69 +27,75 @@
       "link": "https://cryptobriefing.com/pump-token-3b-fdv-milestone/"
     },
     {
-      "headline": "China\u2019s long-end yields drop to lowest since mid-2025, driving aggressive curve flattening",
-      "take": "China long-end yields drop to mid-2025 lows, bond curve flattens aggressively",
+      "headline": "Oil rises amid Middle East supply disruption concerns: WSJ",
+      "take": "Oil rises amid Middle East supply disruption concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-long-end-yields-curve-flattening/"
+      "link": "https://cryptobriefing.com/oil-rises-amid-middle-east-supply-disruption-concerns-wsj/"
     }
   ],
   "business": [
     {
-      "headline": "Casey Askar wins Florida 22nd GOP primary: Decision Desk HQ",
-      "take": "Robinhood CEO pushes US to enable tokenized stocks as overseas advance",
+      "headline": "Erebor Bank raises $8B valuation as it targets SVB\u2019s tech lending market",
+      "take": "Erebor Bank reaches $8B valuation targeting SVB's tech lending niche",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/casey-askar-wins-florida-22nd-gop-primary-decision-desk-hq/"
+      "link": "https://cryptobriefing.com/erebor-bank-silicon-valley-bank-market-share/"
     },
     {
-      "headline": "Paxos\u2019 USDG reaches $929M in deposits across DeFi venues",
-      "take": "Paxos stablecoin USDG reaches $929M in DeFi deposits",
+      "headline": "BounceBit launches Borobudur with 0% credit against Franklin Templeton\u2019s BENJI",
+      "take": "BounceBit launches Borobudur offering zero-percent credit with Franklin Templeton",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paxos-usdg-929m-defi-deposits/"
+      "link": "https://cryptobriefing.com/bouncebit-borobudur-credit-layer-benji/"
     },
     {
-      "headline": "Anthropic\u2019s pre-IPO credit facility set to exceed $10B as banks scramble for a seat at the table",
-      "take": "Anthropic secures $10B+ pre-IPO credit facility from competing banks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-pre-ipo-credit-facility-exceeds-10b/"
+      "headline": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+      "take": "Kalshi files to launch perpetual futures on US stock index and copper",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176"
     },
     {
-      "headline": "Strategy reports $1.2B increase in MSTR positions from top shareholders in Q2",
-      "take": "Top shareholders increase MSTR positions by $1.2B in Q2",
+      "headline": "Fortinet acquires AI security startup Virtue AI to bolster its autonomous agent defenses",
+      "take": "Fortinet acquires AI security startup Virtue AI for autonomous defenses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-mstr-institutional-shareholders-q2-increase/"
+      "link": "https://cryptobriefing.com/fortinet-acquires-virtue-ai-security/"
     },
     {
-      "headline": "CZ says stablecoins could cut cross-border remittance fees to near zero",
-      "take": "CZ suggests stablecoins could reduce cross-border remittance fees dramatically",
+      "headline": "Anthropic plans super-voting shares for CEO ahead of potential IPO this year",
+      "take": "Anthropic plans super-voting shares for CEO ahead of potential IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-stablecoins-remittance-fees-near-zero/"
+      "link": "https://cryptobriefing.com/anthropic-plans-super-voting-shares-for-ceo-ahead-of-potential-ipo-this-year/"
     }
   ],
   "security": [],
   "policy": [
     {
       "headline": "\u2018It has to pass\u2019: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "take": "Former NY governor warns US must pass crypto rules to stay competitive",
+      "take": "Andrew Cuomo warns US falling behind on crypto regulation and rules",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules"
     },
     {
-      "headline": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "take": "SEC proposes new crypto rules amid stalled CLARITY Act in Congress",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
       "headline": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-      "take": "US accounting standards body proposes stablecoin recognition as cash equivalent",
+      "take": "US accounting group proposes classifying stablecoins as cash equivalent",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent"
     },
     {
-      "headline": "Solana Policy Institute CEO says Clarity Act in \u2018August recess purgatory,\u2019 gives it 10% odds before midterms",
-      "take": "Solana Policy chief estimates CLARITY Act has 10% chance before midterms",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171"
+      "headline": "SEC proposes new crypto rules in absence of CLARITY Act",
+      "take": "SEC proposes new crypto rules absent comprehensive Clarity Act legislation",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "take": "Robinhood CEO urges US to clear path for tokenized equity trading",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance"
+    },
+    {
+      "headline": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "take": "Pennsylvania cracks down on power-intensive AI data centers amid backlash",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash"
     }
   ]
 }

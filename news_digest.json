@@ -1,94 +1,99 @@
 {
-  "generated": "2026-08-19T18:56:03.317182+00:00",
-  "ts": 1787165763,
+  "generated": "2026-08-19T21:43:39.016740+00:00",
+  "ts": 1787175819,
   "market": [
     {
-      "headline": "Total crypto market cap adds $113B as Bitcoin, Ethereum rally",
-      "take": "Total crypto market cap gains $113B as Bitcoin and Ethereum rally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-cap-113b-bitcoin-ethereum-rally/"
+      "headline": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
+      "take": "Bitcoin hits $69k, ether jumps 10% on Treasury buybacks and SEC proposals",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248"
     },
     {
-      "headline": "US and Canadian funds hedge FX risks at highest levels in three years",
-      "take": "US and Canadian funds hedge FX risks at highest levels in three years",
+      "headline": "Crypto short liquidations surge past $2B in 24 hours as bears get obliterated",
+      "take": "Crypto short liquidations surge past $2B in 24 hours as bears capitulate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-canadian-funds-hedge-fx-risks/"
+      "link": "https://cryptobriefing.com/crypto-short-liquidations-surge-2b/"
     },
     {
-      "headline": "FOMC minutes highlight AI-driven inflation risks, reducing rate cut odds",
-      "take": "FOMC minutes highlight AI-driven inflation risks, reducing rate cut odds",
+      "headline": "Ethereum exchange balances drop 10% as Bitcoin sees inflow",
+      "take": "Ethereum exchange balances drop 10% while Bitcoin sees inflow",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomc-minutes-highlight-ai-driven-inflation-risks-reducing-rate-cut-odds/"
+      "link": "https://cryptobriefing.com/ethereum-exchange-balances-drop-bitcoin-inflow/"
+    },
+    {
+      "headline": "Webull reports record Q2 earnings of $199M, up 51% year over year",
+      "take": "Webull reports record Q2 earnings of $199M, up 51% year over year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/webull-record-q2-earnings-revenue-growth/"
+    },
+    {
+      "headline": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
+      "take": "Crypto stocks jump higher; Coinbase climbs 9%, Strategy up 12%",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin"
     }
   ],
   "business": [
     {
-      "headline": "Stripe agrees to acquire OpenRouter in deal reportedly worth over $7 billion",
-      "take": "Stripe acquires OpenRouter in deal reportedly worth over $7 billion",
+      "headline": "Fractile in talks for $6.5B valuation, a sixfold jump from its May round",
+      "take": "Fractile in talks for $6.5B valuation, sixfold jump from May round",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stripe-acquires-openrouter-ai-developers/"
+      "link": "https://cryptobriefing.com/fractile-valuation-sixfold-jump-anthropic/"
     },
     {
-      "headline": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
-      "take": "Coinbase Base launches $1 million startup accelerator for AI agents",
+      "headline": "Bitcoin.com integrates USDU, the UAE\u2019s first central bank-registered dollar stablecoin, into its wallet",
+      "take": "Bitcoin.com integrates USDU, UAE's first central bank-registered stablecoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-com-integrates-usdu-uae-stablecoin/"
+    },
+    {
+      "headline": "OKX rolls out new perks for card users in Europe, offering 50% cashback on Netflix and ChatGPT subscriptions",
+      "take": "OKX launches European card perks including 50% cashback on subscriptions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/okx-europe-card-cashback-netflix-chatgpt/"
+    },
+    {
+      "headline": "Core Scientific reports 440 megawatts of AI capacity ahead of schedule",
+      "take": "Core Scientific reports 440 megawatts of AI capacity ahead of schedule",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/core-scientific-440mw-ai-capacity-ahead-schedule/"
+    },
+    {
+      "headline": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+      "take": "Kalshi expands beyond prediction markets with copper perpetual futures",
       "source": "decrypt",
-      "link": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator"
-    },
-    {
-      "headline": "Prosus invests $100M in Indian fintech company Navi at $1.3B valuation",
-      "take": "Prosus invests $100M in Indian fintech Navi at $1.3B valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/prosus-invests-100m-navi-india-fintech/"
-    },
-    {
-      "headline": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
-      "take": "Injective becomes SEC-registered transfer agent for tokenization expansion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225"
-    },
-    {
-      "headline": "Goldman sounds out investors for $1.15 billion CoreWeave data center bond",
-      "take": "Goldman sounds out investors for $1.15B CoreWeave data center bond",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-junk-bond-coreweave-data-center/"
+      "link": "https://decrypt.co/375987/kalshi-copper-perpetual-futures"
     }
   ],
-  "security": [
-    {
-      "headline": "Maya Protocol halts operations after $1.7M Bitcoin exploit",
-      "take": "Maya Protocol halts operations after $1.7M Bitcoin exploit discovered",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/maya-protocol-halts-bitcoin-exploit/"
-    },
-    {
-      "headline": "Rapid7 uncovers Operation ASTERIX: AI-powered phishing tools targeting crypto wallet recovery phrases",
-      "take": "Operation ASTERIX uses AI-powered phishing tools targeting crypto wallet recovery phrases",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rapid7-operation-asterix-crypto-phishing/"
-    },
-    {
-      "headline": "T-Mobile cuts cable to expel Chinese hackers from network",
-      "take": "T-Mobile cuts cable to expel Chinese hackers from network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/t-mobile-cuts-cable-chinese-hackers-salt-typhoon/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "OCC races to finalize GENIUS Act stablecoin rules by November",
-      "take": "OCC races to finalize GENIUS Act stablecoin rules by November",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240"
+      "headline": "Trump: US considers buying sizable Bitcoin amounts",
+      "take": "Trump says US considers buying sizable Bitcoin amounts for national reserve",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-us-considers-buying-sizable-bitcoin-amounts/"
     },
     {
-      "headline": "CFTC seeks public comment on derivatives markets for AI compute",
-      "take": "CFTC seeks public comment on derivatives markets for AI compute",
+      "headline": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
+      "take": "Trump calls on Congress to pass fair version of Clarity Act",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting"
+    },
+    {
+      "headline": "Hyperliquid surges 19% as Trump confirms CFTC works to onshore exchange",
+      "take": "Hyperliquid surges 19% as Trump confirms CFTC works to onshore exchange",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-computing-power-derivatives-comment/"
+      "link": "https://cryptobriefing.com/hyperliquid-surges-trump-cftc-onshore/"
+    },
+    {
+      "headline": "US codifies GENIUS Act, establishes Bitcoin reserve under Trump",
+      "take": "US codifies GENIUS Act, establishes Bitcoin reserve under Trump administration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-codifies-genius-act-establishes-bitcoin-reserve-under-trump/"
     },
     {
       "headline": "Crypto PAC notches primary wins, but loses $2M Florida race",
-      "take": "Crypto PAC notches primary wins but loses $2M Florida race",
+      "take": "Crypto PAC wins primary races but loses $2M Florida contest",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

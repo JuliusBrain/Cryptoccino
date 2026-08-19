@@ -1,96 +1,90 @@
 {
-  "generated": "2026-08-19T09:51:48.942589+00:00",
-  "ts": 1787133108,
+  "generated": "2026-08-19T13:12:45.939024+00:00",
+  "ts": 1787145165,
   "market": [
     {
-      "headline": "BlackRock clients buy $143.57M in Bitcoin through IBIT ETF",
-      "take": "BlackRock clients bought $143.57M Bitcoin via IBIT ETF; institutional demand remains strong",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-clients-buy-144m-bitcoin/"
-    },
-    {
-      "headline": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
-      "take": "Bitcoin holds above $64,000 as oil rises and Korean chip stocks decline sharply",
+      "headline": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+      "take": "Bitcoin shows eight capitulation signals but sellers may not have finished yet",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8"
+      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet"
     },
     {
-      "headline": "Global bond yields hit multi-decade highs amid inflation fears, AI debt expansion",
-      "take": "Global bond yields hit multi-decade highs amid inflation fears and AI debt expansion",
+      "headline": "Bitcoin ETFs snap brutal outflow streak with $487M in net inflows",
+      "take": "Bitcoin ETFs reversed outflow trend with $487M in net inflows this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-bond-yields-hit-multi-decade-highs-amid-inflation-fears-ai-debt-expansion/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-487m-net-inflows-week/"
     },
     {
-      "headline": "US dollar dips to C$1.3877 as Trump hits pause on 50% Canadian tariffs",
-      "take": "US dollar weakens to C$1.3877 after Trump pauses aggressive Canadian tariff plans",
+      "headline": "Curve Finance\u2019s yield basis markets generate $2B in trading volume during first half of 2026",
+      "take": "Curve Finance yield basis markets hit $2B trading volume in first half 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-dips-trump-pauses-canadian-tariffs/"
+      "link": "https://cryptobriefing.com/curve-yield-basis-2b-volume-h1-2026/"
     },
     {
-      "headline": "Cathie Wood highlights AI token price collapse as demand surges in \u2018virtuous cycle\u2019",
-      "take": "AI token prices collapse despite surging demand in what some call virtuous cycle",
+      "headline": "Tokenized equities reach $9B in onchain trading volume this year, up 800% from January",
+      "take": "Tokenized equities reached $9B onchain trading volume, up 800% since January",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cathie-wood-ai-token-prices-demand-surge/"
+      "link": "https://cryptobriefing.com/tokenized-equities-9b-onchain-trading-volume/"
+    },
+    {
+      "headline": "Returning traders make up 61% of Solana\u2019s weekly traders, highest since June 2024",
+      "take": "Solana weekly traders returning at 61%, highest rate since June 2024",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-returning-traders-61-percent/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic Q2 revenue doubles to $12B, surpasses OpenAI for first time",
-      "take": "Anthropic Q2 revenue doubles to $12B, surpassing OpenAI for first time",
+      "headline": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+      "take": "Ethena diversifies USDe backing with $1 billion FalconX facility arrangement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility"
+    },
+    {
+      "headline": "Centrifuge integrates Symbiotic liquidity network across $2B in tokenized funds",
+      "take": "Centrifuge integrates Symbiotic liquidity network across $2B tokenized funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-q2-revenue-doubles-to-12b-surpasses-openai-for-first-time/"
+      "link": "https://cryptobriefing.com/centrifuge-symbiotic-liquidity-tokenized-funds/"
     },
     {
-      "headline": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-      "take": "Winklevoss-backed Cypherpunk launches claimed world's largest Zcash mining fleet",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet"
-    },
-    {
-      "headline": "BounceBit launches Borobudur with 0% credit against Franklin Templeton\u2019s BENJI",
-      "take": "BounceBit launches Borobudur offering zero-percent credit against Franklin Templeton's BENJI",
+      "headline": "Citigroup plans Bitcoin custody service for institutional clients through new Custody+ platform",
+      "take": "Citigroup launching Custody+ platform for institutional Bitcoin custody services",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bouncebit-borobudur-credit-layer-benji/"
+      "link": "https://cryptobriefing.com/citigroup-bitcoin-custody-institutional-2026/"
     },
     {
-      "headline": "Kalshi files to launch perpetual futures tied to US stock index, copper",
-      "take": "Kalshi files to launch perpetual futures tied to US stock index and copper",
+      "headline": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
+      "take": "Ex-Signature chair warns blockchain could help large banks outcompete smaller rivals",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176"
+      "link": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202"
     },
     {
-      "headline": "Revolut allows CEO Nik Storonsky to borrow up to $250M against his stake",
-      "take": "Revolut CEO Storonsky allowed to borrow up to $250M against his company stake",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/revolut-storonsky-borrow-250m-stake/"
+      "headline": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
+      "take": "Bitwise CIO predicts 10-100x blockchain transaction growth as AI meets markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196"
     }
   ],
   "security": [
     {
-      "headline": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
-      "take": "Maya Protocol exploit drains assets; pool value drops approximately $11 million",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million"
+      "headline": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
+      "take": "Alleged $165M crypto Ponzi scheme mastermind extradited from Fiji to US",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us"
     }
   ],
   "policy": [
     {
-      "headline": "\u2018It has to pass\u2019: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "take": "Andrew Cuomo warns US falling behind on crypto regulation; calls rules overdue",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules"
+      "headline": "China triples digital yuan bank roster as eight more banks join network",
+      "take": "China tripled digital yuan bank network, adding eight banks to CBDC system",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-triples-digital-yuan-bank-roster/"
     },
     {
-      "headline": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "take": "Robinhood CEO urges US to clear regulatory path for tokenized stocks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance"
-    },
-    {
-      "headline": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-      "take": "Pennsylvania cracks down on AI data centers as public backlash intensifies",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash"
+      "headline": "Poll: 63% of Americans find Trump\u2019s crypto profits inappropriate",
+      "take": "Poll shows 63% of Americans view Trump's crypto profits as inappropriate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/poll-americans-trump-crypto-profits-inappropriate/"
     }
   ]
 }

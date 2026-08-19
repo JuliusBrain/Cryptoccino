@@ -1,66 +1,66 @@
 {
-  "generated": "2026-08-19T07:08:23.704890+00:00",
-  "ts": 1787123303,
+  "generated": "2026-08-19T09:51:48.942589+00:00",
+  "ts": 1787133108,
   "market": [
     {
       "headline": "BlackRock clients buy $143.57M in Bitcoin through IBIT ETF",
-      "take": "BlackRock clients purchased $143.57M in Bitcoin through IBIT ETF",
+      "take": "BlackRock clients bought $143.57M Bitcoin via IBIT ETF; institutional demand remains strong",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackrock-clients-buy-144m-bitcoin/"
     },
     {
-      "headline": "Fidelity clients purchase $23.92M worth of Bitcoin as institutional appetite stays hot",
-      "take": "Fidelity clients bought $23.92M Bitcoin as institutional appetite remains strong",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-clients-purchase-24m-bitcoin/"
-    },
-    {
-      "headline": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
-      "take": "Solana leads bitcoin and ether higher while equities decline",
+      "headline": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+      "take": "Bitcoin holds above $64,000 as oil rises and Korean chip stocks decline sharply",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7"
+      "link": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8"
     },
     {
-      "headline": "63,222 crypto traders liquidated in past 24 hours as leverage continues to bite",
-      "take": "Over 63,000 crypto traders liquidated in 24 hours from leverage",
+      "headline": "Global bond yields hit multi-decade highs amid inflation fears, AI debt expansion",
+      "take": "Global bond yields hit multi-decade highs amid inflation fears and AI debt expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-traders-liquidated-24-hours-2/"
+      "link": "https://cryptobriefing.com/global-bond-yields-hit-multi-decade-highs-amid-inflation-fears-ai-debt-expansion/"
     },
     {
-      "headline": "Nikkei drops 2.5% as chip stocks crater and bond yields hit multi-decade highs",
-      "take": "Nikkei drops 2.5% as chip stocks crater and yields surge",
+      "headline": "US dollar dips to C$1.3877 as Trump hits pause on 50% Canadian tariffs",
+      "take": "US dollar weakens to C$1.3877 after Trump pauses aggressive Canadian tariff plans",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nikkei-declines-chip-stock-selloff-bond-yields/"
+      "link": "https://cryptobriefing.com/us-dollar-dips-trump-pauses-canadian-tariffs/"
+    },
+    {
+      "headline": "Cathie Wood highlights AI token price collapse as demand surges in \u2018virtuous cycle\u2019",
+      "take": "AI token prices collapse despite surging demand in what some call virtuous cycle",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cathie-wood-ai-token-prices-demand-surge/"
     }
   ],
   "business": [
     {
       "headline": "Anthropic Q2 revenue doubles to $12B, surpasses OpenAI for first time",
-      "take": "Anthropic Q2 revenue doubles to $12B, surpasses OpenAI first time",
+      "take": "Anthropic Q2 revenue doubles to $12B, surpassing OpenAI for first time",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-q2-revenue-doubles-to-12b-surpasses-openai-for-first-time/"
     },
     {
-      "headline": "Robot maker Unitree\u2019s IPO surges 600%, outpacing crypto traders\u2019 premarket bets",
-      "take": "Robot maker Unitree's IPO surges 600% in debut trading",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets"
+      "headline": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+      "take": "Winklevoss-backed Cypherpunk launches claimed world's largest Zcash mining fleet",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet"
     },
     {
       "headline": "BounceBit launches Borobudur with 0% credit against Franklin Templeton\u2019s BENJI",
-      "take": "BounceBit launches Borobudur offering zero percent credit against BENJI",
+      "take": "BounceBit launches Borobudur offering zero-percent credit against Franklin Templeton's BENJI",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bouncebit-borobudur-credit-layer-benji/"
     },
     {
-      "headline": "Erebor Bank raises $8B valuation as it targets SVB\u2019s tech lending market",
-      "take": "Erebor Bank raises $8B valuation targeting SVB's tech lending market",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/erebor-bank-silicon-valley-bank-market-share/"
+      "headline": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+      "take": "Kalshi files to launch perpetual futures tied to US stock index and copper",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176"
     },
     {
       "headline": "Revolut allows CEO Nik Storonsky to borrow up to $250M against his stake",
-      "take": "Revolut CEO approved to borrow up to $250M against stake",
+      "take": "Revolut CEO Storonsky allowed to borrow up to $250M against his company stake",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/revolut-storonsky-borrow-250m-stake/"
     }
@@ -68,39 +68,27 @@
   "security": [
     {
       "headline": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
-      "take": "Maya Protocol exploit drains assets, pool value drops $11 million",
+      "take": "Maya Protocol exploit drains assets; pool value drops approximately $11 million",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million"
-    },
-    {
-      "headline": "Estonia investigates possible Russian sabotage at Milrem Robotics facility fire",
-      "take": "Estonia investigates possible Russian sabotage at Milrem Robotics facility",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/estonia-investigates-possible-russian-sabotage-at-milrem-robotics-facility-fire/"
     }
   ],
   "policy": [
     {
       "headline": "\u2018It has to pass\u2019: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "take": "Andrew Cuomo warns US falling behind on cryptocurrency regulatory framework",
+      "take": "Andrew Cuomo warns US falling behind on crypto regulation; calls rules overdue",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules"
     },
     {
-      "headline": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-      "take": "US accounting group proposes stablecoins be treated as cash equivalent",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent"
-    },
-    {
       "headline": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "take": "Robinhood CEO urges US to clear path for tokenized stocks",
+      "take": "Robinhood CEO urges US to clear regulatory path for tokenized stocks",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance"
     },
     {
       "headline": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-      "take": "Pennsylvania cracks down on AI data centers amid growing backlash",
+      "take": "Pennsylvania cracks down on AI data centers as public backlash intensifies",
       "source": "decrypt",
       "link": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash"
     }

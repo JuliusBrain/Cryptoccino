@@ -1,84 +1,90 @@
 {
-  "generated": "2026-08-20T09:52:18.785915+00:00",
-  "ts": 1787219538,
+  "generated": "2026-08-20T13:14:26.322627+00:00",
+  "ts": 1787231666,
   "market": [
     {
-      "headline": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
-      "take": "Bitcoin hits $71,000 with $700 million in spot ETF inflows this week",
+      "headline": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+      "take": "Bitcoin breaks six-week range, tops $71k; $3B in shorts liquidated",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months"
+      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out"
     },
     {
-      "headline": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
-      "take": "Bearish crypto bets lose record $3 billion as bitcoin rallies past $71,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000"
-    },
-    {
-      "headline": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-      "take": "Ether jumps 18% to $2,250 amid broad crypto market rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally"
-    },
-    {
-      "headline": "Bitcoin eyes key short-term holder cost basis, signaling potential bullish trend",
-      "take": "Bitcoin approaches key short-term holder cost basis, signaling potential bullish trend",
+      "headline": "Bitcoin ETFs accumulate $1B in three days as bulls return",
+      "take": "Bitcoin ETFs accumulate $1B in three days as institutional demand returns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-short-term-holder-cost-basis-bullish/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-accumulate-1b-three-days/"
     },
     {
-      "headline": "US Treasury doubles bond buybacks to $4B, impacting Fed rate hike odds",
-      "take": "US Treasury doubles bond buybacks to $4B, impacting Fed rate hike odds",
+      "headline": "Retail investor demand for Bitcoin rises 9% in 30 days",
+      "take": "Retail investor demand for Bitcoin rises 9 percent in thirty days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-doubles-bond-buybacks-to-4b-impacting-fed-rate-hike-odds/"
+      "link": "https://cryptobriefing.com/retail-bitcoin-demand-rises-30-days/"
+    },
+    {
+      "headline": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+      "take": "XRP jumps 15 percent amid onchain activity pattern observations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern"
+    },
+    {
+      "headline": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+      "take": "Fed liquidity, dollar weakness could determine bitcoin's directional next move",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move"
     }
   ],
   "business": [
     {
-      "headline": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
-      "take": "BitGo secures South Korea virtual asset license, first global crypto firm",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so"
-    },
-    {
-      "headline": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-      "take": "Elon Musk's X exploring stablecoins to pay influencers and content creators",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers"
-    },
-    {
-      "headline": "Multicoin Capital moves millions in HYPE to Coinbase Prime, raising sell pressure questions",
-      "take": "Multicoin Capital moves millions in HYPE token to Coinbase Prime",
+      "headline": "Ode reportedly in talks to acquire AI consultancy Casper Studios",
+      "take": "Ode in talks to acquire AI consultancy Casper Studios",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multicoin-capital-hype-coinbase-prime-deposits/"
+      "link": "https://cryptobriefing.com/ode-acquires-casper-studios-ai-consultancy/"
+    },
+    {
+      "headline": "OpenAI CFO Sarah Friar announces IPO plans for 2027",
+      "take": "OpenAI CFO Sarah Friar announces IPO plans for 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-ipo-plans-2027-sarah-friar/"
+    },
+    {
+      "headline": "Alibaba expects AI product revenue to reach $10B next quarter",
+      "take": "Alibaba expects AI product revenue to reach $10B next quarter",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alibaba-ai-product-revenue-10-billion/"
+    },
+    {
+      "headline": "Cerebras partners with Callosum to deliver ultra-low-latency inference for financial AI workloads",
+      "take": "Cerebras partners with Callosum for ultra-low-latency financial AI inference",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cerebras-callosum-low-latency-inference/"
     }
   ],
   "security": [
     {
-      "headline": "AI agents could make today\u2019s billion-dollar crypto hacks look like \u2018pennies,\u2019 industry leaders warn",
-      "take": "AI agents could amplify crypto hack losses to billions, experts warn",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278"
+      "headline": "Alation confirms cyberattack and investigates unauthorized access to its systems",
+      "take": "Alation confirms cyberattack; investigates unauthorized system access",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alation-confirms-cyberattack-unauthorized-access/"
     }
   ],
   "policy": [
     {
-      "headline": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
-      "take": "Banking regulator races to finalize GENIUS Act stablecoin rules",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november"
-    },
-    {
-      "headline": "Trump: CFTC working to bring HyperliquidX into US market",
-      "take": "Trump directs CFTC to bring HyperliquidX into US market",
+      "headline": "CFTC chair: Crypto market structure framework coming with or without CLARITY Act",
+      "take": "CFTC chair: crypto market structure framework coming with or without Congress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-cftc-working-to-bring-hyperliquidx-into-us-market/"
+      "link": "https://cryptobriefing.com/cftc-chair-crypto-market-structure-framework-coming-with-or-without-clarity-act/"
     },
     {
-      "headline": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
-      "take": "Rushed CLARITY Act vote could set crypto legislation back, lawmaker warns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Fed\u2019s Mary Daly warns overlapping economic shocks could keep inflation elevated for years",
+      "take": "Fed's Daly warns overlapping economic shocks could elevate inflation for years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-daly-inflation-economic-shocks-rates/"
+    },
+    {
+      "headline": "Fed\u2019s Daly sees no evidence for preemptive rate hikes, supports current policy",
+      "take": "Fed's Daly sees no evidence for preemptive rate hikes currently",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/feds-daly-sees-no-evidence-for-preemptive-rate-hikes-supports-current-policy/"
     }
   ]
 }

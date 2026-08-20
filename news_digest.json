@@ -1,90 +1,50 @@
 {
-  "generated": "2026-08-20T01:54:12.145984+00:00",
-  "ts": 1787190852,
+  "generated": "2026-08-20T04:01:56.548187+00:00",
+  "ts": 1787198516,
   "market": [
     {
-      "headline": "Bitcoin surpasses Meta, Tesla, and Vanguard ETF to become 13th largest asset",
-      "take": "Bitcoin now ranks 13th largest asset globally, surpassing Meta, Tesla, Vanguard ETF",
+      "headline": "Bitcoin tops $70,000 as $3 billion in leveraged bets get wiped out",
+      "take": "Bitcoin tops $70,000 as $3 billion in leveraged positions liquidate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-13th-largest-asset-surpasses-meta-tesla/"
+      "link": "https://cryptobriefing.com/crypto-liquidation-174350-traders-3-billion/"
     },
     {
-      "headline": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
-      "take": "Bitcoin briefly tops $70,000 for first time since June on rally momentum",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why"
+      "headline": "Over 173,000 crypto traders liquidated in 24 hours as $2.98B evaporates",
+      "take": "173,000 crypto traders liquidated in 24 hours, $2.98B in value evaporates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/173000-crypto-traders-liquidated-3b/"
     },
     {
-      "headline": "Goldman Sachs flags record low correlation between AI and non-AI trades as hedge funds retreat",
-      "take": "Record low correlation between AI and non-AI trades as hedge funds reallocate",
+      "headline": "Bitcoin eyes key short-term holder cost basis, signaling potential bullish trend",
+      "take": "Bitcoin eyes key short-term holder cost basis, signaling potential bullish trend",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-record-low-ai-correlation/"
+      "link": "https://cryptobriefing.com/bitcoin-short-term-holder-cost-basis-bullish/"
     },
     {
-      "headline": "Fed minutes: Inflation risks persist, some officials support rate hikes",
-      "take": "Fed officials signal inflation risks persist, some support potential rate hikes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-minutes-inflation-risks-persist-some-officials-support-rate-hikes/"
+      "headline": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
+      "take": "Crypto stocks rally sharply, Strategy up 12%, Coinbase climbs 9%",
+      "source": "decrypt",
+      "link": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin"
     },
     {
-      "headline": "Foreign investors sell \u00a51.25T in Japanese bonds while snapping up \u00a5621B in stocks",
-      "take": "Foreign investors sell $9.6B in Japanese bonds, buy $4.8B in stocks",
+      "headline": "Global funds brace for US Treasury yield rise, potential Asian bond outflows",
+      "take": "Global funds brace for US Treasury yield rise, potential Asian bond outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/foreign-investors-sell-japanese-bonds-buy-stocks/"
+      "link": "https://cryptobriefing.com/global-funds-brace-for-us-treasury-yield-rise-potential-asian-bond-outflows/"
     }
   ],
   "business": [
     {
-      "headline": "Aave Horizon to onboard fixed-income fund from Neuberger Berman and Securitize",
-      "take": "Aave Horizon onboards fixed-income fund from Neuberger Berman and Securitize",
+      "headline": "Trump: CFTC working to bring HyperliquidX into US market",
+      "take": "Trump says CFTC working to bring Hyperliquid into US market compliant",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-horizon-neuberger-securitize-hinc-fund/"
+      "link": "https://cryptobriefing.com/trump-cftc-working-to-bring-hyperliquidx-into-us-market/"
     },
     {
-      "headline": "Anthropic expands credit facility to $10B ahead of IPO",
-      "take": "Anthropic expands credit facility to $10B ahead of planned IPO",
+      "headline": "BitGo Korea secures VASP registration, opening door to institutional custody in South Korea",
+      "take": "BitGo Korea secures VASP registration, enabling institutional custody in South Korea",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-expands-credit-facility-to-10b-ahead-of-ipo/"
-    },
-    {
-      "headline": "XStocks tokenized equities hit $186M AUM, with Ethereum\u2019s STRCx leading by market cap",
-      "take": "Tokenized equities reach $186M AUM, Ethereum's STRCx leads by market cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xstocks-tokenized-equities-solana-strcx-ethereum/"
-    },
-    {
-      "headline": "Big Tech set to spend $735B on AI data centers in 2026",
-      "take": "Big Tech poised to spend $735B on AI data centers throughout 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/big-tech-735b-ai-data-centers-2026/"
-    },
-    {
-      "headline": "OKX restricts Claude use for Hong Kong employees, spends $6 million\u2013$8 million monthly on AI models",
-      "take": "OKX spends $6M\u2013$8M monthly on AI models, restricts Claude for Hong Kong staff",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okx-restricts-claude-use-for-hong-kong-employees-spends-6-million8-million/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "JPMorgan entity barred in India for auction manipulation",
-      "take": "JPMorgan entity barred in India for auction manipulation violations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-barred-india-auction-manipulation/"
-    }
-  ],
-  "policy": [
-    {
-      "headline": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-      "take": "Trump pushes Congress to pass Clarity Act at White House crypto event",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event"
-    },
-    {
-      "headline": "CFTC Chairman Selig signals agency pivot toward financial innovation ahead of landmark advisory meeting",
-      "take": "CFTC chairman signals pivot toward financial innovation, landmark meeting planned",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chairman-selig-financial-innovation-advisory-committee/"
+      "link": "https://cryptobriefing.com/bitgo-korea-vasp-registration-kofiu-custody/"
     },
     {
       "headline": "CFTC seeks public input on futures contracts for AI computing power",
@@ -93,10 +53,44 @@
       "link": "https://cryptobriefing.com/cftc-public-input-ai-futures-contracts/"
     },
     {
+      "headline": "TrueFoundry\u2019s TrueForge harness cuts AI agent task costs by 30% to 75%",
+      "take": "TrueForge harness cuts AI agent task costs by 30% to 75%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/truefoundry-trueforge-cuts-ai-agent-costs/"
+    },
+    {
+      "headline": "Anthropic expands credit facility to $10B ahead of IPO",
+      "take": "Anthropic expands credit facility to $10B ahead of IPO filing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-expands-credit-facility-to-10b-ahead-of-ipo/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "AI agents could make today\u2019s billion-dollar crypto hacks look like \u2018pennies,\u2019 industry leaders warn",
+      "take": "AI agents could make billion-dollar crypto hacks look trivial by comparison",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278"
+    }
+  ],
+  "policy": [
+    {
       "headline": "Trump urges Congress to enhance cryptocurrency legitimacy with new legislation",
       "take": "Trump urges Congress to enhance cryptocurrency legitimacy with new legislation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-urges-congress-to-enhance-cryptocurrency-legitimacy-with-new-legislation/"
+    },
+    {
+      "headline": "Trump pushes for CLARITY Act passage alongside crypto leaders",
+      "take": "Trump pushes for CLARITY Act passage alongside crypto industry leaders",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC Chairman Selig signals agency pivot toward financial innovation ahead of landmark advisory meeting",
+      "take": "CFTC Chairman signals agency pivot toward financial innovation and compliance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-chairman-selig-financial-innovation-advisory-committee/"
     }
   ]
 }

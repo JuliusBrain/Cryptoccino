@@ -1,96 +1,72 @@
 {
-  "generated": "2026-08-20T04:01:56.548187+00:00",
-  "ts": 1787198516,
+  "generated": "2026-08-20T07:09:24.059834+00:00",
+  "ts": 1787209764,
   "market": [
     {
-      "headline": "Bitcoin tops $70,000 as $3 billion in leveraged bets get wiped out",
-      "take": "Bitcoin tops $70,000 as $3 billion in leveraged positions liquidate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-liquidation-174350-traders-3-billion/"
+      "headline": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months",
+      "take": "Spot Bitcoin ETFs draw $517M in inflows, largest amount in 3.5 months",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291"
+    },
+    {
+      "headline": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
+      "take": "Bearish crypto bets lose record $2.7B as Bitcoin surges toward $70,000",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000"
+    },
+    {
+      "headline": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+      "take": "Ether jumps 18% to $2,250; Bitcoin tops $69,000 in broad rally",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally"
     },
     {
       "headline": "Over 173,000 crypto traders liquidated in 24 hours as $2.98B evaporates",
-      "take": "173,000 crypto traders liquidated in 24 hours, $2.98B in value evaporates",
+      "take": "Over 173,000 crypto traders liquidated in 24 hours; $2.98B evaporates",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/173000-crypto-traders-liquidated-3b/"
     },
     {
-      "headline": "Bitcoin eyes key short-term holder cost basis, signaling potential bullish trend",
-      "take": "Bitcoin eyes key short-term holder cost basis, signaling potential bullish trend",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-short-term-holder-cost-basis-bullish/"
-    },
-    {
-      "headline": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-      "take": "Crypto stocks rally sharply, Strategy up 12%, Coinbase climbs 9%",
-      "source": "decrypt",
-      "link": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin"
-    },
-    {
-      "headline": "Global funds brace for US Treasury yield rise, potential Asian bond outflows",
-      "take": "Global funds brace for US Treasury yield rise, potential Asian bond outflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-funds-brace-for-us-treasury-yield-rise-potential-asian-bond-outflows/"
+      "headline": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "take": "Trader who made $49M shorting crypto lost $24M on ether in 12 seconds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds"
     }
   ],
   "business": [
     {
-      "headline": "Trump: CFTC working to bring HyperliquidX into US market",
-      "take": "Trump says CFTC working to bring Hyperliquid into US market compliant",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-cftc-working-to-bring-hyperliquidx-into-us-market/"
-    },
-    {
       "headline": "BitGo Korea secures VASP registration, opening door to institutional custody in South Korea",
-      "take": "BitGo Korea secures VASP registration, enabling institutional custody in South Korea",
+      "take": "BitGo Korea secures VASP registration, enabling institutional custody offerings",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitgo-korea-vasp-registration-kofiu-custody/"
     },
     {
-      "headline": "CFTC seeks public input on futures contracts for AI computing power",
-      "take": "CFTC seeks public input on futures contracts for AI computing power",
+      "headline": "Trump: CFTC working to bring HyperliquidX into US market",
+      "take": "Trump says CFTC working to bring HyperliquidX into US market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-public-input-ai-futures-contracts/"
-    },
-    {
-      "headline": "TrueFoundry\u2019s TrueForge harness cuts AI agent task costs by 30% to 75%",
-      "take": "TrueForge harness cuts AI agent task costs by 30% to 75%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/truefoundry-trueforge-cuts-ai-agent-costs/"
-    },
-    {
-      "headline": "Anthropic expands credit facility to $10B ahead of IPO",
-      "take": "Anthropic expands credit facility to $10B ahead of IPO filing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-expands-credit-facility-to-10b-ahead-of-ipo/"
+      "link": "https://cryptobriefing.com/trump-cftc-working-to-bring-hyperliquidx-into-us-market/"
     }
   ],
   "security": [
     {
       "headline": "AI agents could make today\u2019s billion-dollar crypto hacks look like \u2018pennies,\u2019 industry leaders warn",
-      "take": "AI agents could make billion-dollar crypto hacks look trivial by comparison",
+      "take": "AI agents could make billion-dollar crypto hacks look insignificant, leaders warn",
       "source": "theblock",
       "link": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278"
     }
   ],
   "policy": [
     {
+      "headline": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
+      "take": "Rushed CLARITY Act vote could set crypto legislation back, senator warns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
       "headline": "Trump urges Congress to enhance cryptocurrency legitimacy with new legislation",
       "take": "Trump urges Congress to enhance cryptocurrency legitimacy with new legislation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-urges-congress-to-enhance-cryptocurrency-legitimacy-with-new-legislation/"
-    },
-    {
-      "headline": "Trump pushes for CLARITY Act passage alongside crypto leaders",
-      "take": "Trump pushes for CLARITY Act passage alongside crypto industry leaders",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC Chairman Selig signals agency pivot toward financial innovation ahead of landmark advisory meeting",
-      "take": "CFTC Chairman signals agency pivot toward financial innovation and compliance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chairman-selig-financial-innovation-advisory-committee/"
     }
   ]
 }

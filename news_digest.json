@@ -1,102 +1,90 @@
 {
-  "generated": "2026-08-20T15:50:57.312970+00:00",
-  "ts": 1787241057,
+  "generated": "2026-08-20T19:03:09.759355+00:00",
+  "ts": 1787252589,
   "market": [
     {
-      "headline": "Bitcoin posts best day since February 2026 amid $1B short squeeze",
-      "take": "Bitcoin posts best day since February 2026 amid short squeeze",
+      "headline": "Bitcoin\u2019s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
+      "take": "Bitcoin rallies past $72,000 as demand extends beyond short squeeze",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337"
+    },
+    {
+      "headline": "XRP jumps 30% in strongest weekly rally in months",
+      "take": "XRP jumps 30% in strongest weekly rally in months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-best-day-short-squeeze-billion/"
+      "link": "https://cryptobriefing.com/xrp-best-week-bitcoin-short-squeeze/"
     },
     {
-      "headline": "Bitcoin's jump above $72,000 sets up bullish golden cross pattern",
-      "take": "Bitcoin jumps above $72,000, setting up bullish golden cross pattern",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern"
-    },
-    {
-      "headline": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
-      "take": "XRP jumps 15% as onchain data shows banker hours trading pattern",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern"
-    },
-    {
-      "headline": "Hyperliquid whale drops $7.4M on HYPE right before Trump\u2019s CFTC remarks sent the price soaring",
-      "take": "Whale deposits $7.4M into HYPE before Trump CFTC remarks spark rally",
+      "headline": "Tokenized stock market reaches $3B across 3,374 assets",
+      "take": "Tokenized stock market reaches $3B across 3,374 assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-whale-hype-trump-cftc-remarks/"
+      "link": "https://cryptobriefing.com/tokenized-stock-market-reaches-3b-3374-assets/"
     },
     {
-      "headline": "Fed\u2019s Musalem: Forward guidance strategic when rates near zero",
-      "take": "Fed official suggests forward guidance most effective when rates are zero",
+      "headline": "US Treasury bond yields rise, impacting borrowing costs and Fed rate outlook",
+      "take": "US Treasury bond yields rise, impacting borrowing costs and Fed outlook",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-musalem-forward-guidance-strategic-when-rates-near-zero/"
+      "link": "https://cryptobriefing.com/us-treasury-bond-yields-rise-impacting-borrowing-costs-and-fed-rate-outlook/"
+    },
+    {
+      "headline": "Block and Tesla remain profitable on Bitcoin treasuries while peers bleed",
+      "take": "Block and Tesla remain profitable on Bitcoin treasuries while peers bleed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/block-tesla-profitable-bitcoin-treasuries/"
     }
   ],
   "business": [
     {
-      "headline": "Franklin Templeton gets SEC clearance to bring tokenized assets into traditional funds",
-      "take": "Franklin Templeton gets SEC clearance for tokenized assets in traditional funds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-templeton-gets-sec-clearance-to-bring-tokenized-assets-into-traditional-funds/"
-    },
-    {
-      "headline": "Intercontinental Exchange considers further investment in Polymarket",
-      "take": "Intercontinental Exchange considers further investment in Polymarket prediction platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ice-polymarket-further-investment/"
-    },
-    {
-      "headline": "Crypto, AI and betting firms drive record spending in 2026 midterms",
-      "take": "Crypto, AI and betting firms drive record spending in 2026 midterms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-ai-betting-record-midterm-spending/"
-    },
-    {
-      "headline": "\u2018Star Wars vibes:\u2019 Chainlink\u2019s McCormick sees AI agents, robots driving blockchain transactions",
-      "take": "Chainlink executive sees AI agents and robots driving blockchain transactions",
+      "headline": "Inside the Oval Office meeting: Trump appears \u2018bullish\u2019 on Clarity Act as he solicits feedback from crypto, finance CEOs",
+      "take": "Trump appears bullish on Clarity Act during Oval Office crypto CEO meeting",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327"
+      "link": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340"
+    },
+    {
+      "headline": "Anthropic preparing IPO filing as soon as the end of August, sources say",
+      "take": "Anthropic preparing IPO filing as soon as end of August",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-preparing-ipo-filing-as-soon-as-the-end-of-august-sources-say/"
+    },
+    {
+      "headline": "Solana\u2019s tokenized equity market reaches $465M as Sunrise lists healthcare stocks",
+      "take": "Solana's tokenized equity market reaches $465M as Sunrise lists healthcare stocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-tokenized-equity-market-465m-sunrise-healthcare/"
+    },
+    {
+      "headline": "Kalshi releases largest study on prediction markets\u2019 reliability",
+      "take": "Kalshi releases largest study on prediction markets' reliability",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-prediction-markets-reliability-study/"
     }
   ],
   "security": [
     {
-      "headline": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
-      "take": "Fake crypto AML checkers attempting to drain user wallets via phishing",
+      "headline": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
+      "take": "Iranian hackers tied to $6M Bitcoin extortion charged in cyber campaign",
       "source": "decrypt",
-      "link": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets"
+      "link": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged"
+    },
+    {
+      "headline": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+      "take": "Nearly 2,000 hacked WordPress sites turned into criminal infrastructure",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure"
     }
   ],
   "policy": [
     {
-      "headline": "Clarity Act procedural vote set for Sept. 15, Coinbase CEO confident",
-      "take": "Clarity Act procedural vote set for September 15, Coinbase CEO confident",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-procedural-vote-set-for-sept-15-coinbase-ceo-confident/"
+      "headline": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "take": "CFTC chief directs staff to create crypto rules if Clarity Act fails",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails"
     },
     {
-      "headline": "Scott Bessent urges G20 to refocus on core mission of growth, with digital assets on the agenda",
-      "take": "Treasury Secretary urges G20 to refocus on growth, digital assets included",
+      "headline": "US sanctions Hezbollah, citing Iran ties; targets cash smuggling network",
+      "take": "US sanctions Hezbollah, targets cash smuggling network citing Iran ties",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-g20-growth-digital-assets/"
-    },
-    {
-      "headline": "US to impose toughest sanctions on countries trading with Iran",
-      "take": "US to impose toughest sanctions on countries trading with Iran regime",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-to-impose-toughest-sanctions-on-countries-trading-with-iran/"
-    },
-    {
-      "headline": "White House unveils National Security Science and Technology Strategy targeting AI, semiconductors, and defense innovation",
-      "take": "White House unveils strategy targeting AI, semiconductors, defense innovation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-national-security-science-technology-strategy/"
-    },
-    {
-      "headline": "MiCA cracks down on USDT in Europe... but no one else cares",
-      "take": "MiCA regulation cracks down on USDT in Europe with limited market reaction",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/us-sanctions-hezbollah-citing-iran-ties-targets-cash-smuggling-network/"
     }
   ]
 }

@@ -1,90 +1,102 @@
 {
-  "generated": "2026-08-20T13:14:26.322627+00:00",
-  "ts": 1787231666,
+  "generated": "2026-08-20T15:50:57.312970+00:00",
+  "ts": 1787241057,
   "market": [
     {
-      "headline": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
-      "take": "Bitcoin breaks six-week range, tops $71k; $3B in shorts liquidated",
+      "headline": "Bitcoin posts best day since February 2026 amid $1B short squeeze",
+      "take": "Bitcoin posts best day since February 2026 amid short squeeze",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-best-day-short-squeeze-billion/"
+    },
+    {
+      "headline": "Bitcoin's jump above $72,000 sets up bullish golden cross pattern",
+      "take": "Bitcoin jumps above $72,000, setting up bullish golden cross pattern",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out"
-    },
-    {
-      "headline": "Bitcoin ETFs accumulate $1B in three days as bulls return",
-      "take": "Bitcoin ETFs accumulate $1B in three days as institutional demand returns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-accumulate-1b-three-days/"
-    },
-    {
-      "headline": "Retail investor demand for Bitcoin rises 9% in 30 days",
-      "take": "Retail investor demand for Bitcoin rises 9 percent in thirty days",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/retail-bitcoin-demand-rises-30-days/"
+      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern"
     },
     {
       "headline": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
-      "take": "XRP jumps 15 percent amid onchain activity pattern observations",
+      "take": "XRP jumps 15% as onchain data shows banker hours trading pattern",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern"
     },
     {
-      "headline": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
-      "take": "Fed liquidity, dollar weakness could determine bitcoin's directional next move",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move"
+      "headline": "Hyperliquid whale drops $7.4M on HYPE right before Trump\u2019s CFTC remarks sent the price soaring",
+      "take": "Whale deposits $7.4M into HYPE before Trump CFTC remarks spark rally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-whale-hype-trump-cftc-remarks/"
+    },
+    {
+      "headline": "Fed\u2019s Musalem: Forward guidance strategic when rates near zero",
+      "take": "Fed official suggests forward guidance most effective when rates are zero",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/feds-musalem-forward-guidance-strategic-when-rates-near-zero/"
     }
   ],
   "business": [
     {
-      "headline": "Ode reportedly in talks to acquire AI consultancy Casper Studios",
-      "take": "Ode in talks to acquire AI consultancy Casper Studios",
+      "headline": "Franklin Templeton gets SEC clearance to bring tokenized assets into traditional funds",
+      "take": "Franklin Templeton gets SEC clearance for tokenized assets in traditional funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ode-acquires-casper-studios-ai-consultancy/"
+      "link": "https://cryptobriefing.com/franklin-templeton-gets-sec-clearance-to-bring-tokenized-assets-into-traditional-funds/"
     },
     {
-      "headline": "OpenAI CFO Sarah Friar announces IPO plans for 2027",
-      "take": "OpenAI CFO Sarah Friar announces IPO plans for 2027",
+      "headline": "Intercontinental Exchange considers further investment in Polymarket",
+      "take": "Intercontinental Exchange considers further investment in Polymarket prediction platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ipo-plans-2027-sarah-friar/"
+      "link": "https://cryptobriefing.com/ice-polymarket-further-investment/"
     },
     {
-      "headline": "Alibaba expects AI product revenue to reach $10B next quarter",
-      "take": "Alibaba expects AI product revenue to reach $10B next quarter",
+      "headline": "Crypto, AI and betting firms drive record spending in 2026 midterms",
+      "take": "Crypto, AI and betting firms drive record spending in 2026 midterms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-ai-product-revenue-10-billion/"
+      "link": "https://cryptobriefing.com/crypto-ai-betting-record-midterm-spending/"
     },
     {
-      "headline": "Cerebras partners with Callosum to deliver ultra-low-latency inference for financial AI workloads",
-      "take": "Cerebras partners with Callosum for ultra-low-latency financial AI inference",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cerebras-callosum-low-latency-inference/"
+      "headline": "\u2018Star Wars vibes:\u2019 Chainlink\u2019s McCormick sees AI agents, robots driving blockchain transactions",
+      "take": "Chainlink executive sees AI agents and robots driving blockchain transactions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327"
     }
   ],
   "security": [
     {
-      "headline": "Alation confirms cyberattack and investigates unauthorized access to its systems",
-      "take": "Alation confirms cyberattack; investigates unauthorized system access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alation-confirms-cyberattack-unauthorized-access/"
+      "headline": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
+      "take": "Fake crypto AML checkers attempting to drain user wallets via phishing",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC chair: Crypto market structure framework coming with or without CLARITY Act",
-      "take": "CFTC chair: crypto market structure framework coming with or without Congress",
+      "headline": "Clarity Act procedural vote set for Sept. 15, Coinbase CEO confident",
+      "take": "Clarity Act procedural vote set for September 15, Coinbase CEO confident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chair-crypto-market-structure-framework-coming-with-or-without-clarity-act/"
+      "link": "https://cryptobriefing.com/clarity-act-procedural-vote-set-for-sept-15-coinbase-ceo-confident/"
     },
     {
-      "headline": "Fed\u2019s Mary Daly warns overlapping economic shocks could keep inflation elevated for years",
-      "take": "Fed's Daly warns overlapping economic shocks could elevate inflation for years",
+      "headline": "Scott Bessent urges G20 to refocus on core mission of growth, with digital assets on the agenda",
+      "take": "Treasury Secretary urges G20 to refocus on growth, digital assets included",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-daly-inflation-economic-shocks-rates/"
+      "link": "https://cryptobriefing.com/bessent-g20-growth-digital-assets/"
     },
     {
-      "headline": "Fed\u2019s Daly sees no evidence for preemptive rate hikes, supports current policy",
-      "take": "Fed's Daly sees no evidence for preemptive rate hikes currently",
+      "headline": "US to impose toughest sanctions on countries trading with Iran",
+      "take": "US to impose toughest sanctions on countries trading with Iran regime",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-daly-sees-no-evidence-for-preemptive-rate-hikes-supports-current-policy/"
+      "link": "https://cryptobriefing.com/us-to-impose-toughest-sanctions-on-countries-trading-with-iran/"
+    },
+    {
+      "headline": "White House unveils National Security Science and Technology Strategy targeting AI, semiconductors, and defense innovation",
+      "take": "White House unveils strategy targeting AI, semiconductors, defense innovation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-national-security-science-technology-strategy/"
+    },
+    {
+      "headline": "MiCA cracks down on USDT in Europe... but no one else cares",
+      "take": "MiCA regulation cracks down on USDT in Europe with limited market reaction",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,68 +1,74 @@
 {
-  "generated": "2026-08-21T07:10:24.270849+00:00",
-  "ts": 1787296224,
+  "generated": "2026-08-21T09:54:03.082144+00:00",
+  "ts": 1787306043,
   "market": [
     {
-      "headline": "Bitcoin on Track for Biggest Weekly Gain in More Than Two Years",
-      "take": "Bitcoin posts biggest weekly gain in over two years amid rally",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia"
-    },
-    {
-      "headline": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
-      "take": "Bitcoin and ether ETFs attract $800M inflows for second consecutive day",
+      "headline": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
+      "take": "Bitcoin tops $79,500 with $800M inflows across major assets",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day"
     },
     {
+      "headline": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "take": "BTC, ETH, SOL climb as $1B in short positions liquidated",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out"
+    },
+    {
+      "headline": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
+      "take": "Upbit volume surges 273% as South Korean investors return to crypto",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435"
+    },
+    {
+      "headline": "US spot Solana ETFs see $15M inflow, largest in three weeks",
+      "take": "Solana spot ETFs see $15M inflow, largest in three weeks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-spot-solana-etfs-see-15m-inflow-largest-in-three-weeks/"
+    },
+    {
       "headline": "Ethereum spot ETFs purchase $189M in ETH, largest single-day inflow in 10 months",
-      "take": "Ethereum spot ETFs see largest single-day inflow in ten months at $189M",
+      "take": "Ethereum spot ETFs record $189M inflow, largest in ten months",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-spot-etfs-189m-largest-10-months/"
-    },
-    {
-      "headline": "Hyperliquid fee revenue up 31% in August, HYPE price rises amid market optimism",
-      "take": "Hyperliquid fee revenue rises 31% in August; HYPE token gains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-fee-revenue-up-31-in-august-hype-price-rises-amid-market-optimism/"
-    },
-    {
-      "headline": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-      "take": "XRP volatility bet of $2M placed as token prices surge significantly",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge"
     }
   ],
   "business": [
     {
+      "headline": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "take": "Binance launches AI agents capable of autonomous crypto trading",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376161/binance-ai-agents-trade-crypto"
+    },
+    {
       "headline": "South Korea\u2019s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-      "take": "South Korea's Shinhan bank partners with Solana ecosystem for tokenized funds",
+      "take": "Shinhan partners with Solana Foundation for tokenized fund issuance",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420"
     },
     {
+      "headline": "Nomura-backed Laser Digital wins key approval to offer crypto services in Japan",
+      "take": "Laser Digital wins approval to offer crypto services in Japan",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nomura-backed-laser-digital-wins-key-approval-to-offer-crypto-services-in-japan/"
+    },
+    {
       "headline": "Ripple backs RLUSD credit fund as XRP surges 26% this week",
-      "take": "Ripple backs RLUSD credit fund as XRP posts strong weekly gains",
+      "take": "Ripple backs RLUSD credit fund as XRP gains 26% weekly",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ripple-backs-rlusd-credit-fund-as-xrp-surges-26-this-week/"
     },
     {
       "headline": "Clearpool develops lending protocol on XRP Ledger with XLS-66 and XLS-65",
-      "take": "Clearpool launches lending protocol on XRP Ledger using new standards",
+      "take": "Clearpool develops XRP Ledger lending protocol with new standards",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/clearpool-develops-lending-protocol-on-xrp-ledger-with-xls-66-and-xls-65/"
-    },
-    {
-      "headline": "Upbit lists BTC and USDT trading pairs for BICO, BMT, NIL, and GWEI",
-      "take": "Upbit adds trading pairs for BICO, BMT, NIL, and GWEI tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-bico-bmt-nil-gwei/"
     }
   ],
   "security": [
     {
       "headline": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "take": "MANTRA token crashes 18% after blockchain halts following exploit",
+      "take": "MANTRA token plunges 18% after blockchain exploit forces halt",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit"
     }
@@ -70,21 +76,15 @@
   "policy": [
     {
       "headline": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-      "take": "South Korean lawmakers seek expanded FIU authority over unregistered crypto firms",
+      "take": "South Korea seeks expanded Financial Intelligence Unit powers over crypto",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "take": "Capital.com plans UAE spot crypto services after affiliate obtains license",
+      "take": "Capital.com plans UAE spot crypto services after regulatory approval",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC weighs tighter rules for prediction markets",
-      "take": "CFTC considers implementing tighter regulatory rules for prediction markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-innovation-committee-prediction-market-risks/"
     }
   ]
 }

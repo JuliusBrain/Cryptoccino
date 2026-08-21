@@ -1,90 +1,102 @@
 {
-  "generated": "2026-08-21T09:54:03.082144+00:00",
-  "ts": 1787306043,
+  "generated": "2026-08-21T13:14:03.470603+00:00",
+  "ts": 1787318043,
   "market": [
     {
-      "headline": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
-      "take": "Bitcoin tops $79,500 with $800M inflows across major assets",
+      "headline": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+      "take": "Bitcoin tops $77K in best week since 2023, altcoins follow surge",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day"
+      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride"
     },
     {
-      "headline": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "take": "BTC, ETH, SOL climb as $1B in short positions liquidated",
+      "headline": "TD Securities\u2019 Molly Brooks warns of asymmetric risks from Fed comments at Jackson Hole",
+      "take": "Fed comments at Jackson Hole present asymmetric risks for markets ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/td-securities-brooks-asymmetric-risks-fed-jackson-hole/"
+    },
+    {
+      "headline": "Bank of America reports US K-shaped economy is converging as lower-income spending catches up",
+      "take": "K-shaped economy converging as lower-income spending catches up to wealthier",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-america-k-shaped-economy-converging/"
+    },
+    {
+      "headline": "Solana records $2.3M in daily revenue, its second-biggest day since September 2025",
+      "take": "Solana records $2.3M daily revenue, second-biggest day since September",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-2m-revenue-second-biggest-day/"
+    },
+    {
+      "headline": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+      "take": "Analysts divided on whether Bitcoin surge past key levels starts bull run",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out"
-    },
-    {
-      "headline": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
-      "take": "Upbit volume surges 273% as South Korean investors return to crypto",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435"
-    },
-    {
-      "headline": "US spot Solana ETFs see $15M inflow, largest in three weeks",
-      "take": "Solana spot ETFs see $15M inflow, largest in three weeks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-spot-solana-etfs-see-15m-inflow-largest-in-three-weeks/"
-    },
-    {
-      "headline": "Ethereum spot ETFs purchase $189M in ETH, largest single-day inflow in 10 months",
-      "take": "Ethereum spot ETFs record $189M inflow, largest in ten months",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-spot-etfs-189m-largest-10-months/"
+      "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run"
     }
   ],
   "business": [
     {
-      "headline": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-      "take": "Binance launches AI agents capable of autonomous crypto trading",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376161/binance-ai-agents-trade-crypto"
-    },
-    {
-      "headline": "South Korea\u2019s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-      "take": "Shinhan partners with Solana Foundation for tokenized fund issuance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420"
-    },
-    {
-      "headline": "Nomura-backed Laser Digital wins key approval to offer crypto services in Japan",
-      "take": "Laser Digital wins approval to offer crypto services in Japan",
+      "headline": "China unveils plan to advance AI, blockchain, and key technologies through 2030",
+      "take": "China unveils plan advancing AI, blockchain, and key tech through 2030",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nomura-backed-laser-digital-wins-key-approval-to-offer-crypto-services-in-japan/"
+      "link": "https://cryptobriefing.com/china-accelerates-ai-blockchain-legislation/"
     },
     {
-      "headline": "Ripple backs RLUSD credit fund as XRP surges 26% this week",
-      "take": "Ripple backs RLUSD credit fund as XRP gains 26% weekly",
+      "headline": "Cardano Foundation partners with UNDP on 2026 SDG Blockchain Accelerator",
+      "take": "Cardano Foundation partners with UNDP on 2026 SDG Blockchain Accelerator",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-backs-rlusd-credit-fund-as-xrp-surges-26-this-week/"
+      "link": "https://cryptobriefing.com/cardano-undp-sdg-blockchain-accelerator-2026/"
     },
     {
-      "headline": "Clearpool develops lending protocol on XRP Ledger with XLS-66 and XLS-65",
-      "take": "Clearpool develops XRP Ledger lending protocol with new standards",
+      "headline": "Robinhood Chain supports USDG deposits and withdrawals via Aster integration",
+      "take": "Robinhood Chain enables USDG deposits and withdrawals via Aster integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clearpool-develops-lending-protocol-on-xrp-ledger-with-xls-66-and-xls-65/"
+      "link": "https://cryptobriefing.com/aster-usdg-robinhood-chain-integration/"
+    },
+    {
+      "headline": "Nvidia plans to invest several hundred million dollars in Cloverleaf Infrastructure",
+      "take": "Nvidia plans several hundred million dollar investment in Cloverleaf Infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-invests-cloverleaf-infrastructure/"
+    },
+    {
+      "headline": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "take": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years"
     }
   ],
   "security": [
     {
-      "headline": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "take": "MANTRA token plunges 18% after blockchain exploit forces halt",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit"
+      "headline": "COLDCARD releases firmware 5.6.1 after $114M exploit drained 1,816 BTC from hardware wallets",
+      "take": "COLDCARD releases firmware after $114M exploit drained 1,816 BTC from wallets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coldcard-firmware-update-114m-exploit/"
+    },
+    {
+      "headline": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
+      "take": "AI adoption in crypto crime rose 40 percent over the past year",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
     }
   ],
   "policy": [
     {
-      "headline": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-      "take": "South Korea seeks expanded Financial Intelligence Unit powers over crypto",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "The hard truth is that the Clarity Act is an anti-crypto bill",
+      "take": "Analysts argue Clarity Act functions as anti-crypto legislation despite framing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill"
     },
     {
-      "headline": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "take": "Capital.com plans UAE spot crypto services after regulatory approval",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
+      "take": "Most Americans say Trump's crypto profits cross ethical and legal lines",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line"
+    },
+    {
+      "headline": "UK government commits \u00a31.1 billion to chip startups in bid to build domestic AI hardware sector",
+      "take": "UK government commits \u00a31.1 billion to chip startups for domestic AI hardware",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-government-funds-chip-startups-ai/"
     }
   ]
 }

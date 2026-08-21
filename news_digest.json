@@ -1,108 +1,102 @@
 {
-  "generated": "2026-08-21T15:50:53.580155+00:00",
-  "ts": 1787327453,
+  "generated": "2026-08-21T18:59:52.177269+00:00",
+  "ts": 1787338792,
   "market": [
     {
-      "headline": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "take": "Bitcoin tops $77,000 in best week since 2023, altcoins rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride"
-    },
-    {
       "headline": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-      "take": "$1.2 billion in Bitcoin shorts liquidated as price climbs higher",
+      "take": "Bitcoin rises as $1.2 billion in short positions liquidated",
       "source": "decrypt",
       "link": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated"
     },
     {
-      "headline": "Coinbase stock surges 30% in 48 hours as Bitcoin rally and White House meeting ignite crypto equities",
-      "take": "Coinbase stock surges 30% on Bitcoin rally and White House meeting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-stock-surges-30-percent-48-hours/"
+      "headline": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
+      "take": "Bitcoin ETFs post biggest day since May; BlackRock captures 83%",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may"
     },
     {
-      "headline": "BlackRock adds 11,098 Bitcoin and 132,769 Ethereum through ETF operations in two-day stretch",
-      "take": "BlackRock adds 11,098 Bitcoin and 132,769 Ethereum via ETF operations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-ethereum-billion-purchase/"
+      "headline": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+      "take": "XRP leads altcoin rally on bitcoin's strongest week in two years",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483"
     },
     {
-      "headline": "ENA open interest doubles to $237M as price rises 69%",
-      "take": "ENA open interest doubles to $237M as price rises 69%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ena-open-interest-doubles-237m-price-surges/"
+      "headline": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+      "take": "Ethena's ENA token surges 48% amid broader altcoin strength",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
+    },
+    {
+      "headline": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
+      "take": "Solana network speed improvements may benefit SOL price momentum",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
     }
   ],
   "business": [
     {
-      "headline": "Ankr launches institutional-grade RPC infrastructure for XRP Ledger",
-      "take": "Ankr launches institutional-grade RPC infrastructure for XRP Ledger",
+      "headline": "Paxos-issued USDG adds $94M on Robinhood Chain in 30 days",
+      "take": "Paxos USDG stablecoin adds $94 million on Robinhood Chain monthly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ankr-rpc-infrastructure-xrp-ledger/"
+      "link": "https://cryptobriefing.com/usdg-paxos-robinhood-chain-growth/"
     },
     {
-      "headline": "HIVE Digital Technologies reports 62% increase in monthly Bitcoin production",
-      "take": "HIVE Digital reports 62% increase in monthly Bitcoin production",
+      "headline": "Tether\u2019s USDT deposits on Aave V3 rise by $526M in 90 days as DeFi lending demand surges",
+      "take": "USDT deposits on Aave V3 surge $526M in 90 days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hive-digital-bitcoin-production-62-percent-increase/"
+      "link": "https://cryptobriefing.com/usdt-deposits-aave-v3-surge-526m/"
     },
     {
-      "headline": "67 million Americans now own crypto, with more holders in construction than finance",
-      "take": "67 million Americans now own crypto across diverse industries",
+      "headline": "TRON now supported in Bitcoin.com Wallet for direct asset access",
+      "take": "TRON now integrated into Bitcoin.com Wallet for easier access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/67m-americans-own-crypto-construction-finance/"
+      "link": "https://cryptobriefing.com/tron-bitcoin-com-wallet-integration/"
     },
     {
-      "headline": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "take": "Laser Digital wins Japan's first crypto approval in four years",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years"
+      "headline": "Anthropic launches $35 million cyber defense fund alongside Mythos 5 expansion",
+      "take": "Anthropic launches $35 million cyber defense fund alongside expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-35m-open-source-cyber-defense/"
     },
     {
-      "headline": "Illuvium team cuts wages to extend operational runway into 2027",
-      "take": "Illuvium team cuts wages to extend operational runway into 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/illuvium-wage-cuts-runway-2027/"
+      "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+      "take": "BounceBit sunsetting blockchain after $3M exploit, migrating to BNB Chain",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
-      "take": "Coldcard ships firmware after $114M Bitcoin theft; AI aided debugging",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs"
+      "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+      "take": "BounceBit blockchain suffers $3 million exploit, team sunsetting network",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
     },
     {
-      "headline": "BounceBit to shut down its L1 chain and migrate to BNB Chain after 286.5M BB exploit",
-      "take": "BounceBit shuts down L1 chain, migrates to BNB Chain after 286.5M BB exploit",
+      "headline": "Jim Cramer says he sold all Bitcoin holdings amid quantum computing concerns",
+      "take": "Jim Cramer sells all Bitcoin holdings citing quantum computing risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bouncebit-l1-shutdown-286m-bb-exploit/"
+      "link": "https://cryptobriefing.com/cramer-sells-bitcoin-quantum-computing/"
     }
   ],
   "policy": [
     {
-      "headline": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "take": "Laser Digital wins Japan's first crypto approval in four years",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years"
-    },
-    {
-      "headline": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "take": "Clarity Act functions as anti-crypto legislation despite stated intent",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill"
-    },
-    {
-      "headline": "European Union reviews crypto lending regulations under MiCA",
-      "take": "European Union reviews crypto lending regulations under MiCA framework",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-reviews-crypto-lending-mica/"
-    },
-    {
-      "headline": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won\u2019t",
-      "take": "CFTC positioned to provide crypto clarity if Congress remains inactive",
+      "headline": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+      "take": "Trump administration pushes crypto clarity, SEC rules, CFTC warnings",
       "source": "decrypt",
-      "link": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act"
+      "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings"
+    },
+    {
+      "headline": "Coinbase CEO Armstrong confident in Clarity Act passage ahead of Senate vote",
+      "take": "Coinbase CEO confident Clarity Act will pass Senate vote soon",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-ceo-armstrong-confident-in-clarity-act-passage-ahead-of-senate-vote/"
+    },
+    {
+      "headline": "EIP-8363 sparks debate on ETH\u2019s identity as sound money or productive asset",
+      "take": "EIP-8363 debate questions whether Ethereum is sound money or productive asset",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eip-8363-ethereum-sound-money-productive-asset-debate/"
     }
   ]
 }

@@ -1,102 +1,108 @@
 {
-  "generated": "2026-08-21T13:14:03.470603+00:00",
-  "ts": 1787318043,
+  "generated": "2026-08-21T15:50:53.580155+00:00",
+  "ts": 1787327453,
   "market": [
     {
       "headline": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "take": "Bitcoin tops $77K in best week since 2023, altcoins follow surge",
+      "take": "Bitcoin tops $77,000 in best week since 2023, altcoins rally",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride"
     },
     {
-      "headline": "TD Securities\u2019 Molly Brooks warns of asymmetric risks from Fed comments at Jackson Hole",
-      "take": "Fed comments at Jackson Hole present asymmetric risks for markets ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/td-securities-brooks-asymmetric-risks-fed-jackson-hole/"
+      "headline": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
+      "take": "$1.2 billion in Bitcoin shorts liquidated as price climbs higher",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated"
     },
     {
-      "headline": "Bank of America reports US K-shaped economy is converging as lower-income spending catches up",
-      "take": "K-shaped economy converging as lower-income spending catches up to wealthier",
+      "headline": "Coinbase stock surges 30% in 48 hours as Bitcoin rally and White House meeting ignite crypto equities",
+      "take": "Coinbase stock surges 30% on Bitcoin rally and White House meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-k-shaped-economy-converging/"
+      "link": "https://cryptobriefing.com/coinbase-stock-surges-30-percent-48-hours/"
     },
     {
-      "headline": "Solana records $2.3M in daily revenue, its second-biggest day since September 2025",
-      "take": "Solana records $2.3M daily revenue, second-biggest day since September",
+      "headline": "BlackRock adds 11,098 Bitcoin and 132,769 Ethereum through ETF operations in two-day stretch",
+      "take": "BlackRock adds 11,098 Bitcoin and 132,769 Ethereum via ETF operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-2m-revenue-second-biggest-day/"
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-ethereum-billion-purchase/"
     },
     {
-      "headline": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-      "take": "Analysts divided on whether Bitcoin surge past key levels starts bull run",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run"
+      "headline": "ENA open interest doubles to $237M as price rises 69%",
+      "take": "ENA open interest doubles to $237M as price rises 69%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ena-open-interest-doubles-237m-price-surges/"
     }
   ],
   "business": [
     {
-      "headline": "China unveils plan to advance AI, blockchain, and key technologies through 2030",
-      "take": "China unveils plan advancing AI, blockchain, and key tech through 2030",
+      "headline": "Ankr launches institutional-grade RPC infrastructure for XRP Ledger",
+      "take": "Ankr launches institutional-grade RPC infrastructure for XRP Ledger",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-accelerates-ai-blockchain-legislation/"
+      "link": "https://cryptobriefing.com/ankr-rpc-infrastructure-xrp-ledger/"
     },
     {
-      "headline": "Cardano Foundation partners with UNDP on 2026 SDG Blockchain Accelerator",
-      "take": "Cardano Foundation partners with UNDP on 2026 SDG Blockchain Accelerator",
+      "headline": "HIVE Digital Technologies reports 62% increase in monthly Bitcoin production",
+      "take": "HIVE Digital reports 62% increase in monthly Bitcoin production",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-undp-sdg-blockchain-accelerator-2026/"
+      "link": "https://cryptobriefing.com/hive-digital-bitcoin-production-62-percent-increase/"
     },
     {
-      "headline": "Robinhood Chain supports USDG deposits and withdrawals via Aster integration",
-      "take": "Robinhood Chain enables USDG deposits and withdrawals via Aster integration",
+      "headline": "67 million Americans now own crypto, with more holders in construction than finance",
+      "take": "67 million Americans now own crypto across diverse industries",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aster-usdg-robinhood-chain-integration/"
-    },
-    {
-      "headline": "Nvidia plans to invest several hundred million dollars in Cloverleaf Infrastructure",
-      "take": "Nvidia plans several hundred million dollar investment in Cloverleaf Infrastructure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-invests-cloverleaf-infrastructure/"
+      "link": "https://cryptobriefing.com/67m-americans-own-crypto-construction-finance/"
     },
     {
       "headline": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "take": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "take": "Laser Digital wins Japan's first crypto approval in four years",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years"
+    },
+    {
+      "headline": "Illuvium team cuts wages to extend operational runway into 2027",
+      "take": "Illuvium team cuts wages to extend operational runway into 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/illuvium-wage-cuts-runway-2027/"
     }
   ],
   "security": [
     {
-      "headline": "COLDCARD releases firmware 5.6.1 after $114M exploit drained 1,816 BTC from hardware wallets",
-      "take": "COLDCARD releases firmware after $114M exploit drained 1,816 BTC from wallets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-firmware-update-114m-exploit/"
+      "headline": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "take": "Coldcard ships firmware after $114M Bitcoin theft; AI aided debugging",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs"
     },
     {
-      "headline": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
-      "take": "AI adoption in crypto crime rose 40 percent over the past year",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297"
+      "headline": "BounceBit to shut down its L1 chain and migrate to BNB Chain after 286.5M BB exploit",
+      "take": "BounceBit shuts down L1 chain, migrates to BNB Chain after 286.5M BB exploit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bouncebit-l1-shutdown-286m-bb-exploit/"
     }
   ],
   "policy": [
     {
+      "headline": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "take": "Laser Digital wins Japan's first crypto approval in four years",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years"
+    },
+    {
       "headline": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "take": "Analysts argue Clarity Act functions as anti-crypto legislation despite framing",
+      "take": "Clarity Act functions as anti-crypto legislation despite stated intent",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill"
     },
     {
-      "headline": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
-      "take": "Most Americans say Trump's crypto profits cross ethical and legal lines",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line"
+      "headline": "European Union reviews crypto lending regulations under MiCA",
+      "take": "European Union reviews crypto lending regulations under MiCA framework",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-reviews-crypto-lending-mica/"
     },
     {
-      "headline": "UK government commits \u00a31.1 billion to chip startups in bid to build domestic AI hardware sector",
-      "take": "UK government commits \u00a31.1 billion to chip startups for domestic AI hardware",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-government-funds-chip-startups-ai/"
+      "headline": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won\u2019t",
+      "take": "CFTC positioned to provide crypto clarity if Congress remains inactive",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act"
     }
   ]
 }

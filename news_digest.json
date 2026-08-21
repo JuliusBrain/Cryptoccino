@@ -1,108 +1,96 @@
 {
-  "generated": "2026-08-20T21:46:26.209777+00:00",
-  "ts": 1787262386,
+  "generated": "2026-08-21T02:00:08.224718+00:00",
+  "ts": 1787277608,
   "market": [
     {
-      "headline": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
-      "take": "XRP posts best week since election on Bitcoin short squeeze dynamics",
+      "headline": "Bitcoin pushes past $75,000 as rally continues.",
+      "take": "Bitcoin rallies past $75,000 as momentum continues upward",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues"
+    },
+    {
+      "headline": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "take": "$2M volatility bet on XRP reflects trader conviction amid price surge",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge"
+    },
+    {
+      "headline": "CoinGecko study finds altcoin traders outperform large cap traders, but there\u2019s a catch",
+      "take": "Altcoin traders outperform large caps, though persistence uncertain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coingecko-altcoin-traders-outperform-large-cap/"
+    },
+    {
+      "headline": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+      "take": "Bitcoin rallies but prediction market traders remain skeptical",
       "source": "decrypt",
-      "link": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump"
-    },
-    {
-      "headline": "Interactive Brokers\u2019 margin loans grow 49% to $100.7B as investors pile into leverage",
-      "take": "Interactive Brokers margin loans surge 49% to $100.7B as leverage demand accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/interactive-brokers-margin-loans-growth/"
-    },
-    {
-      "headline": "$DRAM ETF assets surge 20% to $28B amid strong retail demand",
-      "take": "DRAM ETF assets climb 20% to $28B driven by retail investor interest",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dram-etf-assets-surge-28b-retail-demand/"
-    },
-    {
-      "headline": "Dow falls 700 points as Treasury\u2019s bond buyback plan fails to calm markets",
-      "take": "Dow drops 700 points as Treasury bond buyback plan fails to stabilize markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-falls-treasury-buyback-plan-fails/"
-    },
-    {
-      "headline": "Citigroup strategists bearish on US dollar amid Fed, Treasury moves",
-      "take": "Citigroup strategists turn bearish on US dollar amid Fed and Treasury policy shifts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citigroup-strategists-bearish-on-us-dollar-amid-fed-treasury-moves/"
+      "link": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move"
     }
   ],
   "business": [
     {
+      "headline": "Upbit lists BTC and USDT trading pairs for BICO, BMT, NIL, and GWEI",
+      "take": "Upbit expands trading pairs for BICO, BMT, NIL, GWEI tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-lists-bico-bmt-nil-gwei/"
+    },
+    {
+      "headline": "Nvidia pays $6B to license AI models from Poolside, invests $1B in the startup",
+      "take": "Nvidia invests $1B in Poolside, licenses AI models for $6B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-6b-poolside-ai-licensing-deal/"
+    },
+    {
+      "headline": "Arbitrum activates ArbOS 61 Elara with optional compliance filters for Orbit chains",
+      "take": "Arbitrum activates ArbOS 61 with optional compliance filters for chains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arbitrum-arbos-61-elara-compliance-filters/"
+    },
+    {
+      "headline": "Rothera powers Robinhood\u2019s prediction market exchange, processing 3.5 billion contracts in Q2",
+      "take": "Rothera powers Robinhood prediction market, processed 3.5B contracts Q2",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rothera-powers-robinhood-prediction-market/"
+    },
+    {
       "headline": "Kraken parent Payward explores becoming a \u2018full bank\u2019 outside the US",
-      "take": "Kraken parent Payward explores expansion into full banking outside the United States",
+      "take": "Kraken parent Payward explores becoming full bank outside US",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390"
-    },
-    {
-      "headline": "VanEck sets $500K Bitcoin target for 2029 amid Treasury accumulation plans",
-      "take": "VanEck sets $500K Bitcoin price target for 2029 citing Treasury accumulation trends",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vaneck-500k-bitcoin-target-2029/"
-    },
-    {
-      "headline": "Ondo executive says tokenization is following the same path as early ETFs",
-      "take": "Ondo executive draws parallel between tokenization adoption and early ETF market trajectory",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346"
-    },
-    {
-      "headline": "Stanley Druckenmiller dumps Broadcom, follows Berkshire into Alphabet with $120M bet",
-      "take": "Stanley Druckenmiller exits Broadcom position, shifts $120M into Alphabet stake",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/druckenmiller-sells-broadcom-buys-alphabet/"
-    },
-    {
-      "headline": "Aerodrome PGF executes 325K AERO buyback worth ~$140K this week",
-      "take": "Aerodrome PGF executes 325K AERO token buyback worth approximately $140K this week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-pgf-aero-buyback-325k/"
     }
   ],
   "security": [
     {
       "headline": "Hack of Coldcard Bitcoin Wallet Brings Back the Middleman",
-      "take": "Coldcard Bitcoin wallet hack exposes vulnerability, reintroduces middleman risk concerns",
+      "take": "Coldcard Bitcoin wallet hack highlights persistent custody risks",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/hack-of-coldcard-bitcoin-wallet-brings-back-the-middleman"
     },
     {
-      "headline": "Hackers used fake crypto conference to target security researchers",
-      "take": "Hackers used fake crypto conference to target and compromise security researchers",
+      "headline": "MANTRA Chain halts operations amid investigation of unspecified incident",
+      "take": "MANTRA Chain halts operations pending investigation of unspecified incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hacker-fake-crypto-conference-cybersecurity/"
-    },
-    {
-      "headline": "China cyberattack simulation raises US infrastructure security concerns",
-      "take": "China cyberattack simulation exercise highlights critical US infrastructure security gaps",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-cyberattack-simulation-raises-us-infrastructure-security-concerns/"
+      "link": "https://cryptobriefing.com/mantra-chain-halts-operations-investigation/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
-      "take": "CFTC chair signals agency will create crypto regulations if Clarity Act fails in Congress",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC to set crypto regulations if Clarity Act stalls, says chairman",
+      "take": "CFTC chair vows crypto rules if Clarity Act stalls progress",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-to-set-crypto-regulations-if-clarity-act-stalls-says-chairman/"
     },
     {
-      "headline": "Justin Sun scores partial court win in World Liberty Financial lawsuit",
-      "take": "Justin Sun achieves partial court victory in World Liberty Financial lawsuit proceedings",
+      "headline": "CFTC weighs tighter rules for prediction markets",
+      "take": "CFTC weighs stricter oversight rules for prediction markets ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/justin-sun-scores-partial-court-win-in-world-liberty-financial-lawsuit/"
+      "link": "https://cryptobriefing.com/cftc-innovation-committee-prediction-market-risks/"
     },
     {
-      "headline": "Tyler Winklevoss urges crypto rules written under Atkins and Selig, not a \u2018new Gensler\u2019",
-      "take": "Tyler Winklevoss calls for crypto rules under Atkins and Selig, not new Gensler approach",
+      "headline": "Texas approves ERCOT\u2019s request to delay grid reviews for data centers and crypto miners",
+      "take": "Texas approves ERCOT delay on grid reviews for crypto miners",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/winklevoss-crypto-rules-atkins-selig-clarity-act/"
+      "link": "https://cryptobriefing.com/texas-regulators-december-deadline-data-center-crypto-mining/"
     }
   ]
 }

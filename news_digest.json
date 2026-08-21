@@ -1,102 +1,102 @@
 {
-  "generated": "2026-08-21T18:59:52.177269+00:00",
-  "ts": 1787338792,
+  "generated": "2026-08-21T21:42:26.607071+00:00",
+  "ts": 1787348546,
   "market": [
     {
-      "headline": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-      "take": "Bitcoin rises as $1.2 billion in short positions liquidated",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated"
-    },
-    {
-      "headline": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
-      "take": "Bitcoin ETFs post biggest day since May; BlackRock captures 83%",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may"
-    },
-    {
       "headline": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
-      "take": "XRP leads altcoin rally on bitcoin's strongest week in two years",
+      "take": "Bitcoin posts biggest weekly gain in two years, lifting altcoins broadly",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483"
     },
     {
-      "headline": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "take": "Ethena's ENA token surges 48% amid broader altcoin strength",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
+      "headline": "Bitcoin seeks support near $77K as gold approaches highs",
+      "take": "Bitcoin seeks support near $77K as gold approaches historical highs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-support-77k-gold-approaches-highs/"
     },
     {
-      "headline": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
-      "take": "Solana network speed improvements may benefit SOL price momentum",
+      "headline": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+      "take": "Strategy swings from $13B Bitcoin loss to $1.4B profit as BTC rallies",
       "source": "decrypt",
-      "link": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
+      "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies"
+    },
+    {
+      "headline": "Institutions leverage Coinbase staking, boosting Ethereum confidence",
+      "take": "Institutions leverage Coinbase staking, boosting Ethereum confidence",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/institutions-leverage-coinbase-staking-boosting-ethereum-confidence/"
+    },
+    {
+      "headline": "Robinhood Chain crosses $1B in total value locked",
+      "take": "Robinhood Chain crosses $1 billion in total value locked milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-crosses-1-billion-tvl/"
     }
   ],
   "business": [
     {
-      "headline": "Paxos-issued USDG adds $94M on Robinhood Chain in 30 days",
-      "take": "Paxos USDG stablecoin adds $94 million on Robinhood Chain monthly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdg-paxos-robinhood-chain-growth/"
+      "headline": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+      "take": "Grayscale moves closer to launching first US Zcash ETF with SEC filing",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517"
     },
     {
-      "headline": "Tether\u2019s USDT deposits on Aave V3 rise by $526M in 90 days as DeFi lending demand surges",
-      "take": "USDT deposits on Aave V3 surge $526M in 90 days",
+      "headline": "Ionic Digital increases Bitcoin holdings by 21 BTC to 2,882 BTC as AI revenue dominates",
+      "take": "Ionic Digital increases Bitcoin holdings to 2,882 BTC as AI revenue dominates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdt-deposits-aave-v3-surge-526m/"
+      "link": "https://cryptobriefing.com/ionic-digital-bitcoin-holdings-2882-btc/"
     },
     {
-      "headline": "TRON now supported in Bitcoin.com Wallet for direct asset access",
-      "take": "TRON now integrated into Bitcoin.com Wallet for easier access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-bitcoin-com-wallet-integration/"
-    },
-    {
-      "headline": "Anthropic launches $35 million cyber defense fund alongside Mythos 5 expansion",
-      "take": "Anthropic launches $35 million cyber defense fund alongside expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-35m-open-source-cyber-defense/"
+      "headline": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
+      "take": "Solana network speed increases, potential bullish impact on SOL price",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
     },
     {
       "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-      "take": "BounceBit sunsetting blockchain after $3M exploit, migrating to BNB Chain",
+      "take": "BounceBit sunsetting blockchain, migrating to BNB Chain after exploit",
       "source": "theblock",
       "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
     }
   ],
   "security": [
     {
-      "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-      "take": "BounceBit blockchain suffers $3 million exploit, team sunsetting network",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
+      "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "take": "Coldcard adds new security measures after $130 million Bitcoin exploit",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     },
     {
-      "headline": "Jim Cramer says he sold all Bitcoin holdings amid quantum computing concerns",
-      "take": "Jim Cramer sells all Bitcoin holdings citing quantum computing risk",
+      "headline": "Apollo Global Management reports unauthorized access to cloud platforms",
+      "take": "Apollo Global Management reports unauthorized access to cloud platforms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cramer-sells-bitcoin-quantum-computing/"
+      "link": "https://cryptobriefing.com/apollo-global-management-cloud-data-breach/"
+    },
+    {
+      "headline": "Binance faces UAE scrutiny over account used to hold customer funds",
+      "take": "Binance faces UAE scrutiny over account used to hold customer funds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-uae-police-inquiry-bank-account/"
     }
   ],
   "policy": [
     {
       "headline": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-      "take": "Trump administration pushes crypto clarity, SEC rules, CFTC warnings",
+      "take": "Trump administration pushes Clarity Act, SEC rules, and CFTC warnings on crypto",
       "source": "decrypt",
       "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings"
     },
     {
-      "headline": "Coinbase CEO Armstrong confident in Clarity Act passage ahead of Senate vote",
-      "take": "Coinbase CEO confident Clarity Act will pass Senate vote soon",
+      "headline": "Crypto rules can advance even if the Clarity Act stalls",
+      "take": "Crypto rules can advance even if the Clarity Act stalls in Congress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-ceo-armstrong-confident-in-clarity-act-passage-ahead-of-senate-vote/"
+      "link": "https://cryptobriefing.com/clarity-act-stalls-crypto-regulators-authority/"
     },
     {
-      "headline": "EIP-8363 sparks debate on ETH\u2019s identity as sound money or productive asset",
-      "take": "EIP-8363 debate questions whether Ethereum is sound money or productive asset",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eip-8363-ethereum-sound-money-productive-asset-debate/"
+      "headline": "Onchain, in court: What happened in crypto legal news this week",
+      "take": "Weekly roundup of crypto legal developments and court cases",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

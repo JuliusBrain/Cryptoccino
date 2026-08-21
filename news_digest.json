@@ -1,60 +1,48 @@
 {
-  "generated": "2026-08-21T02:00:08.224718+00:00",
-  "ts": 1787277608,
+  "generated": "2026-08-21T04:04:26.658910+00:00",
+  "ts": 1787285066,
   "market": [
     {
-      "headline": "Bitcoin pushes past $75,000 as rally continues.",
-      "take": "Bitcoin rallies past $75,000 as momentum continues upward",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues"
+      "headline": "Ethereum spot ETFs purchase $189M in ETH, largest single-day inflow in 10 months",
+      "take": "Ethereum spot ETFs see largest single-day inflow in ten months at $189M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-spot-etfs-189m-largest-10-months/"
+    },
+    {
+      "headline": "Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia",
+      "take": "Bitcoin rallies past $75,000 as crypto momentum continues across Asia",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia"
     },
     {
       "headline": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-      "take": "$2M volatility bet on XRP reflects trader conviction amid price surge",
+      "take": "Trader places $2 million volatility bet on XRP as prices surge",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge"
-    },
-    {
-      "headline": "CoinGecko study finds altcoin traders outperform large cap traders, but there\u2019s a catch",
-      "take": "Altcoin traders outperform large caps, though persistence uncertain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coingecko-altcoin-traders-outperform-large-cap/"
-    },
-    {
-      "headline": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-      "take": "Bitcoin rallies but prediction market traders remain skeptical",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move"
     }
   ],
   "business": [
     {
+      "headline": "Capital.com plans UAE spot crypto services after affiliate wins licence",
+      "take": "Capital.com plans to launch UAE spot crypto services after affiliate licensing",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
       "headline": "Upbit lists BTC and USDT trading pairs for BICO, BMT, NIL, and GWEI",
-      "take": "Upbit expands trading pairs for BICO, BMT, NIL, GWEI tokens",
+      "take": "Upbit adds BTC and USDT trading pairs for four new tokens",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/upbit-lists-bico-bmt-nil-gwei/"
     },
     {
-      "headline": "Nvidia pays $6B to license AI models from Poolside, invests $1B in the startup",
-      "take": "Nvidia invests $1B in Poolside, licenses AI models for $6B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-6b-poolside-ai-licensing-deal/"
-    },
-    {
       "headline": "Arbitrum activates ArbOS 61 Elara with optional compliance filters for Orbit chains",
-      "take": "Arbitrum activates ArbOS 61 with optional compliance filters for chains",
+      "take": "Arbitrum activates ArbOS 61 Elara with optional compliance filters for chains",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/arbitrum-arbos-61-elara-compliance-filters/"
     },
     {
-      "headline": "Rothera powers Robinhood\u2019s prediction market exchange, processing 3.5 billion contracts in Q2",
-      "take": "Rothera powers Robinhood prediction market, processed 3.5B contracts Q2",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rothera-powers-robinhood-prediction-market/"
-    },
-    {
       "headline": "Kraken parent Payward explores becoming a \u2018full bank\u2019 outside the US",
-      "take": "Kraken parent Payward explores becoming full bank outside US",
+      "take": "Kraken parent Payward explores becoming full bank outside United States",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390"
     }
@@ -62,7 +50,7 @@
   "security": [
     {
       "headline": "Hack of Coldcard Bitcoin Wallet Brings Back the Middleman",
-      "take": "Coldcard Bitcoin wallet hack highlights persistent custody risks",
+      "take": "Coldcard Bitcoin wallet hack highlights security risks in hardware custody",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/hack-of-coldcard-bitcoin-wallet-brings-back-the-middleman"
     },
@@ -76,19 +64,19 @@
   "policy": [
     {
       "headline": "CFTC to set crypto regulations if Clarity Act stalls, says chairman",
-      "take": "CFTC chair vows crypto rules if Clarity Act stalls progress",
+      "take": "CFTC chair signals agency will regulate crypto if Clarity Act stalls",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-to-set-crypto-regulations-if-clarity-act-stalls-says-chairman/"
     },
     {
-      "headline": "CFTC weighs tighter rules for prediction markets",
-      "take": "CFTC weighs stricter oversight rules for prediction markets ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-innovation-committee-prediction-market-risks/"
+      "headline": "CME CEO Terrence Duffy trades barbs with CFTC\u2019s Selig and Kalshi\u2019s COO over prediction market oversight",
+      "take": "CME and Kalshi executives clash with CFTC over prediction market rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397"
     },
     {
       "headline": "Texas approves ERCOT\u2019s request to delay grid reviews for data centers and crypto miners",
-      "take": "Texas approves ERCOT delay on grid reviews for crypto miners",
+      "take": "Texas approves ERCOT request to delay grid reviews for data center miners",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/texas-regulators-december-deadline-data-center-crypto-mining/"
     }

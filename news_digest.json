@@ -1,96 +1,84 @@
 {
-  "generated": "2026-08-22T18:51:22.119324+00:00",
-  "ts": 1787424682,
+  "generated": "2026-08-22T21:39:39.350888+00:00",
+  "ts": 1787434779,
   "market": [
     {
-      "headline": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "take": "Zcash hits eight-year high near $850 amid Grayscale ETF push",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528"
+      "headline": "Bitcoin, Ether ETFs draw $3B in strongest inflow week since October",
+      "take": "Bitcoin and Ether ETFs drew $3B inflows in strongest week since October",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-ether-etfs-3b-inflow-week/"
+    },
+    {
+      "headline": "Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase",
+      "take": "Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/"
+    },
+    {
+      "headline": "Circle\u2019s USDC daily DEX trading volume hits $2.8B as DeFi activity surges to multi-month highs",
+      "take": "USDC daily DEX trading volume hits $2.8B as DeFi activity surges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdc-dex-trading-volume-defi-surge/"
+    },
+    {
+      "headline": "Aave deposits hit $30B as Stani Kulechov declares \u2018liquidity is back\u2019",
+      "take": "Aave deposits hit $30B as liquidity returns to lending protocols",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aave-deposits-hit-30-billion-kulechov/"
     },
     {
       "headline": "Open interest on perp DEXs hits 2026 high as traders hold leveraged bets longer",
-      "take": "Open interest on perp DEXs hits 2026 high as traders extend leveraged positions",
+      "take": "Open interest on perp DEXs hits 2026 high as traders extend bets",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/perp-dex-open-interest-2026-high/"
-    },
-    {
-      "headline": "US Treasury buyback plan boosts gold, bitcoin prices",
-      "take": "US Treasury buyback plan boosts gold and bitcoin prices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-buyback-plan-boosts-gold-bitcoin-prices/"
-    },
-    {
-      "headline": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "take": "Solana cuts mainnet slot time to 350 milliseconds toward 200ms goal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
     }
   ],
   "business": [
     {
-      "headline": "Stacks enables AI agents to transact with BTC onchain",
-      "take": "Stacks enables AI agents to transact with Bitcoin onchain",
+      "headline": "Nvidia\u2019s data center revenue surges to $75.2B as AI infrastructure demand rewrites the playbook",
+      "take": "Nvidia data center revenue surges to $75.2B on AI infrastructure demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-ai-agents-btc-onchain-transactions/"
+      "link": "https://cryptobriefing.com/nvidia-data-center-revenue-75-billion-q1/"
+    },
+    {
+      "headline": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+      "take": "Solana cuts mainnet slot time to 350ms in step toward 200ms goal",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
     },
     {
       "headline": "CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M",
-      "take": "CoreWeave CEO sells over 13,000 shares for $1.2 million",
+      "take": "CoreWeave CEO sells over 13,000 shares for $1.2M amid infrastructure boom",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coreweave-ceo-sells-shares-insider-selling/"
-    },
-    {
-      "headline": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "take": "BitMart weighs partial restart and creditor payouts after shutdown announcement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
-    },
-    {
-      "headline": "Citadel\u2019s Ken Griffin turns AI meltdown into $4B masterclass",
-      "take": "Citadel's Ken Griffin turns AI market volatility into $4 billion opportunity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citadel-griffin-ai-meltdown-4b-masterclass/"
     }
   ],
   "security": [
     {
-      "headline": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "take": "Sandbox stops Base and BNB chain bridging after exploit discovered",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
-    },
-    {
       "headline": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "take": "Microsoft fixes critical remote code execution exploit in security update",
+      "take": "Microsoft patches perfect 10 exploit allowing remote code execution",
       "source": "decrypt",
       "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"
     },
     {
-      "headline": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
-      "take": "AI has made Bitcoin software a target for attackers and defenders",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back"
+      "headline": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+      "take": "Sandbox stops Base and BNB bridging after exploit, security incident",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
     }
   ],
   "policy": [
     {
-      "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "take": "MiCA regulation coming for DeFi vaults with difficult implementation ahead",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC leaders agree outdated rules hinder crypto regulation, says Garlinghouse",
+      "take": "CFTC leaders agree outdated rules hinder crypto regulation, says Garlinghouse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-crypto-regulation-garlinghouse-outdated-rules/"
     },
     {
       "headline": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "take": "Kalshi prediction market banned in multiple states amid CFTC regulatory battle",
+      "take": "Kalshi off-limits in multiple states as prediction markets battle CFTC",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle"
-    },
-    {
-      "headline": "Rashida Tlaib reveals Ethereum ETF in personal IRA despite voting against crypto in Congress",
-      "take": "Rashida Tlaib holds Ethereum ETF in IRA despite voting against crypto",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tlaib-ethereum-etf-ira-holdings/"
     }
   ]
 }

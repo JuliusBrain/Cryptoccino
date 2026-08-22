@@ -1,90 +1,84 @@
 {
-  "generated": "2026-08-22T03:59:18.929708+00:00",
-  "ts": 1787371158,
+  "generated": "2026-08-22T07:02:24.292492+00:00",
+  "ts": 1787382144,
   "market": [
     {
-      "headline": "Zcash surges over 42% to surpass $800 as Grayscale files for ZEC ETF",
-      "take": "Zcash surges 42% to $800 as Grayscale files for ZEC ETF",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-surges-42-percent-past-800-grayscale-etf/"
+      "headline": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+      "take": "Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days"
     },
     {
-      "headline": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
-      "take": "Bitcoin ETFs post biggest day since May with BlackRock dominating inflows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may"
+      "headline": "Over $476M in long positions liquidated from crypto market in 60 minutes",
+      "take": "Over $476M in long positions liquidated from crypto market in 60 minutes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/476m-crypto-long-liquidations-one-hour/"
+    },
+    {
+      "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to \u2018next bitcoin\u2019 buzz",
+      "take": "Zcash jumps 48% to over $800 as Grayscale spot ETF push gains traction",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
     },
     {
       "headline": "Over $33M in Solana short positions liquidated as SOL nears $95",
-      "take": "Over $33M in Solana shorts liquidated as SOL approaches $95",
+      "take": "Over $33M in Solana short positions liquidated as SOL nears $95",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-short-liquidations-sol-nears-95/"
     },
     {
-      "headline": "Bitwise Solana staking ETF pulls in $20M this week as institutional appetite grows",
-      "take": "Bitwise Solana staking ETF attracts $20M weekly amid institutional demand",
+      "headline": "Dollar weakness lifts emerging-market currencies to fresh records",
+      "take": "Dollar weakness lifts emerging-market currencies to fresh records",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-20m-inflows/"
-    },
-    {
-      "headline": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "take": "Ethena ENA token surges 48% percent but altcoin season remains elusive",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
+      "link": "https://cryptobriefing.com/dollar-weakness-lifts-emerging-market-currencies-to-fresh-records/"
     }
   ],
   "business": [
     {
+      "headline": "OpenAI absorbs Instant team to enhance AI application infrastructure",
+      "take": "OpenAI absorbs Instant team to enhance AI application infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-acquires-instantdb-team/"
+    },
+    {
       "headline": "Fomo app surpasses Cash App in US iPhone finance rankings",
-      "take": "Fomo app surpasses Cash App in US iPhone finance app rankings",
+      "take": "Fomo app surpasses Cash App in US iPhone finance rankings",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fomo-app-surpasses-cash-app-in-us-iphone-finance-rankings/"
     },
     {
-      "headline": "Coinbase defends ETH holdings amid community criticism: Jesse Pollak",
-      "take": "Coinbase defends ETH holdings amid community criticism from Jesse Pollak",
+      "headline": "Uniswap sets all-time high daily burn value of $590K for UNI on August 21",
+      "take": "Uniswap sets all-time high daily burn value of $590K for UNI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-defends-eth-holdings-pollak/"
-    },
-    {
-      "headline": "The Sandbox faces security breach as 500M SAND minted on Base network",
-      "take": "Sandbox faces security breach with 500M SAND minted on Base network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/"
+      "link": "https://cryptobriefing.com/uniswap-uni-daily-burn-record/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-      "take": "Coldcard adds new security measures following $130M Bitcoin exploit",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
+      "headline": "The Sandbox faces security breach as 500M SAND minted on Base network",
+      "take": "The Sandbox faces security breach as 500M SAND minted on Base",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/"
     },
     {
-      "headline": "Anthropic\u2019s Opus 4.6 model bypasses content restrictions, tests show",
-      "take": "Anthropic's Opus 4.6 model bypasses content restrictions in tests",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-opus-4-6-content-restrictions-bypass/"
+      "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "take": "Coldcard adds new security measures after $130 million Bitcoin exploit",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     }
   ],
   "policy": [
     {
-      "headline": "SEC outlines steps to reverse Biden-era crypto enforcement",
-      "take": "SEC outlines steps to reverse Biden-era crypto enforcement actions",
+      "headline": "Donald Trump implements 50% tariffs after US-Canada trade talks collapse",
+      "take": "Donald Trump implements 50% tariffs after US-Canada trade talks collapse",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-reverses-biden-crypto-enforcement/"
+      "link": "https://cryptobriefing.com/trump-50-percent-tariffs-canada-trade/"
     },
     {
       "headline": "Crypto advocates join in suing Illinois over digital asset tax",
-      "take": "Crypto advocates join lawsuit against Illinois over digital asset tax",
+      "take": "Crypto advocates join in suing Illinois over digital asset tax",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
-    },
-    {
-      "headline": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-      "take": "Trump administration pushes crypto clarity act, SEC rules, CFTC warnings",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings"
     }
   ]
 }

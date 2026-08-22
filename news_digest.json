@@ -1,50 +1,30 @@
 {
-  "generated": "2026-08-22T07:02:24.292492+00:00",
-  "ts": 1787382144,
+  "generated": "2026-08-22T09:45:33.885869+00:00",
+  "ts": 1787391933,
   "market": [
     {
-      "headline": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-      "take": "Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days"
-    },
-    {
-      "headline": "Over $476M in long positions liquidated from crypto market in 60 minutes",
-      "take": "Over $476M in long positions liquidated from crypto market in 60 minutes",
+      "headline": "Bitcoin surges nearly 25% after US Treasury doubles buyback operations",
+      "take": "Bitcoin surges nearly 25% after US Treasury doubles buyback operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/476m-crypto-long-liquidations-one-hour/"
+      "link": "https://cryptobriefing.com/bitcoin-surges-treasury-buyback-change/"
     },
     {
       "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to \u2018next bitcoin\u2019 buzz",
-      "take": "Zcash jumps 48% to over $800 as Grayscale spot ETF push gains traction",
+      "take": "Zcash jumps 48% to over $800 as Grayscale spot ETF push gains momentum",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
     },
     {
-      "headline": "Over $33M in Solana short positions liquidated as SOL nears $95",
-      "take": "Over $33M in Solana short positions liquidated as SOL nears $95",
+      "headline": "Crypto open interest drops $3B, triggering $308M in liquidations",
+      "take": "Crypto open interest drops $3B, triggering $308M in liquidations across markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-short-liquidations-sol-nears-95/"
+      "link": "https://cryptobriefing.com/crypto-open-interest-drops-3b-liquidations/"
     },
     {
-      "headline": "Dollar weakness lifts emerging-market currencies to fresh records",
-      "take": "Dollar weakness lifts emerging-market currencies to fresh records",
+      "headline": "XRP futures open interest rebounds to pre-crash levels in August 2026",
+      "take": "XRP futures open interest rebounds to pre-crash levels in August 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-weakness-lifts-emerging-market-currencies-to-fresh-records/"
-    }
-  ],
-  "business": [
-    {
-      "headline": "OpenAI absorbs Instant team to enhance AI application infrastructure",
-      "take": "OpenAI absorbs Instant team to enhance AI application infrastructure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-acquires-instantdb-team/"
-    },
-    {
-      "headline": "Fomo app surpasses Cash App in US iPhone finance rankings",
-      "take": "Fomo app surpasses Cash App in US iPhone finance rankings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomo-app-surpasses-cash-app-in-us-iphone-finance-rankings/"
+      "link": "https://cryptobriefing.com/xrp-futures-open-interest-rebounds-to-pre-crash-levels-in-august-2026/"
     },
     {
       "headline": "Uniswap sets all-time high daily burn value of $590K for UNI on August 21",
@@ -53,18 +33,32 @@
       "link": "https://cryptobriefing.com/uniswap-uni-daily-burn-record/"
     }
   ],
-  "security": [
+  "business": [
     {
-      "headline": "The Sandbox faces security breach as 500M SAND minted on Base network",
-      "take": "The Sandbox faces security breach as 500M SAND minted on Base",
+      "headline": "OpenAI absorbs Instant team to enhance AI application infrastructure",
+      "take": "OpenAI absorbs Instant team to enhance AI application infrastructure capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/"
+      "link": "https://cryptobriefing.com/openai-acquires-instantdb-team/"
     },
     {
-      "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-      "take": "Coldcard adds new security measures after $130 million Bitcoin exploit",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
+      "headline": "Vertiv\u2019s David Cote transforms AC maker into AI powerhouse worth over $100B",
+      "take": "Vertiv transforms into AI powerhouse worth over $100B under new leadership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vertiv-cote-ai-data-center-powerhouse/"
+    },
+    {
+      "headline": "Ormat Technologies pivots to AI-driven geothermal power with EGS projects",
+      "take": "Ormat Technologies pivots to AI-driven geothermal power with EGS projects",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ormat-egs-geothermal-ai-data-centers/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "The Sandbox apparently hit by ongoing exploit as hackers mint billions in SAND",
+      "take": "The Sandbox hit by ongoing exploit as hackers mint billions in SAND tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/"
     }
   ],
   "policy": [
@@ -79,6 +73,12 @@
       "take": "Crypto advocates join in suing Illinois over digital asset tax",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
+    },
+    {
+      "headline": "Ukraine sanctions five Rusal aluminum enterprises over military ties",
+      "take": "Ukraine sanctions five Rusal aluminum enterprises over military ties",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ukraine-sanctions-rusal-aluminum-military-ties/"
     }
   ]
 }

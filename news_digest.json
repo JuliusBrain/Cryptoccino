@@ -1,50 +1,44 @@
 {
-  "generated": "2026-08-22T15:39:07.213233+00:00",
-  "ts": 1787413147,
+  "generated": "2026-08-22T18:51:22.119324+00:00",
+  "ts": 1787424682,
   "market": [
     {
-      "headline": "Bitcoin ETFs buy $1.92B this week, largest stash in 10 months",
-      "take": "Bitcoin ETFs accumulated $1.92B this week, largest ten-month inflow",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-buy-2b-largest-10-months/"
+      "headline": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
+      "take": "Zcash hits eight-year high near $850 amid Grayscale ETF push",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528"
     },
     {
-      "headline": "Bitcoin reaches most overbought level in nearly 2 years",
-      "take": "Bitcoin reaches most overbought level in nearly two years",
+      "headline": "Open interest on perp DEXs hits 2026 high as traders hold leveraged bets longer",
+      "take": "Open interest on perp DEXs hits 2026 high as traders extend leveraged positions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-most-overbought-two-years/"
+      "link": "https://cryptobriefing.com/perp-dex-open-interest-2026-high/"
     },
     {
-      "headline": "Crypto market erases $110 billion in 20 minutes after sharp rally",
-      "take": "Crypto market shed $110 billion in twenty minutes after sharp rally",
+      "headline": "US Treasury buyback plan boosts gold, bitcoin prices",
+      "take": "US Treasury buyback plan boosts gold and bitcoin prices",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-500b-surge-110b-drop-volatility/"
+      "link": "https://cryptobriefing.com/us-treasury-buyback-plan-boosts-gold-bitcoin-prices/"
     },
     {
-      "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to \u2018next bitcoin\u2019 buzz",
-      "take": "Zcash jumps 48% as Grayscale spot ETF push fuels momentum",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
-    },
-    {
-      "headline": "US Treasury faces growing competition as foreign bonds offer higher yields and debt tops $40 trillion",
-      "take": "US Treasury faces competition as foreign bonds offer higher yields",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-competition-foreign-bonds-yields/"
+      "headline": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+      "take": "Solana cuts mainnet slot time to 350 milliseconds toward 200ms goal",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
     }
   ],
   "business": [
     {
-      "headline": "Stacks enables Bitcoin staking in 19 days with PoX-5 hardfork",
-      "take": "Stacks enables Bitcoin staking in nineteen days with PoX-5 hardfork",
+      "headline": "Stacks enables AI agents to transact with BTC onchain",
+      "take": "Stacks enables AI agents to transact with Bitcoin onchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-bitcoin-staking-pox5/"
+      "link": "https://cryptobriefing.com/stacks-ai-agents-btc-onchain-transactions/"
     },
     {
-      "headline": "USDC Treasury mints $250M in USDC on Solana to boost liquidity",
-      "take": "Circle mints $250M USDC on Solana to boost liquidity",
+      "headline": "CoreWeave CEO Michael Intrator sells over 13,000 shares for $1.2M",
+      "take": "CoreWeave CEO sells over 13,000 shares for $1.2 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-solana-liquidity/"
+      "link": "https://cryptobriefing.com/coreweave-ceo-sells-shares-insider-selling/"
     },
     {
       "headline": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
@@ -53,44 +47,50 @@
       "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
     },
     {
-      "headline": "Fairmint CEO warns tokenized stocks may repeat 1960s paper crisis",
-      "take": "Tokenized stocks may repeat 1960s paper crisis, Fairmint CEO warns",
+      "headline": "Citadel\u2019s Ken Griffin turns AI meltdown into $4B masterclass",
+      "take": "Citadel's Ken Griffin turns AI market volatility into $4 billion opportunity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fairmint-ceo-tokenized-stocks-1960s-paper-crisis/"
+      "link": "https://cryptobriefing.com/citadel-griffin-ai-meltdown-4b-masterclass/"
     }
   ],
   "security": [
     {
-      "headline": "Sandbox halts Base and BNB Chain bridging after exploit mints billions of unbacked SAND tokens",
-      "take": "Sandbox exploit mints billions of unbacked SAND tokens, halts bridging",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandbox-halts-bridging-sand-exploit/"
+      "headline": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+      "take": "Sandbox stops Base and BNB chain bridging after exploit discovered",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
+    },
+    {
+      "headline": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+      "take": "Microsoft fixes critical remote code execution exploit in security update",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"
     },
     {
       "headline": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
-      "take": "AI made Bitcoin software target; security group mobilizes defensive response",
+      "take": "AI has made Bitcoin software a target for attackers and defenders",
       "source": "decrypt",
       "link": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "take": "Kalshi prediction markets restricted in multiple states amid regulatory battle",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle"
-    },
-    {
       "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "take": "MiCA regulation coming for DeFi vaults but implementation will be difficult",
+      "take": "MiCA regulation coming for DeFi vaults with difficult implementation ahead",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Canada\u2019s PM Carney announces retaliatory measures against US effective September 8",
-      "take": "Canada's PM Carney announces retaliatory measures against US September eighth",
+      "headline": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "take": "Kalshi prediction market banned in multiple states amid CFTC regulatory battle",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle"
+    },
+    {
+      "headline": "Rashida Tlaib reveals Ethereum ETF in personal IRA despite voting against crypto in Congress",
+      "take": "Rashida Tlaib holds Ethereum ETF in IRA despite voting against crypto",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canada-carney-measures-against-us-september/"
+      "link": "https://cryptobriefing.com/tlaib-ethereum-etf-ira-holdings/"
     }
   ]
 }

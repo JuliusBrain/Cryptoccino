@@ -1,80 +1,68 @@
 {
-  "generated": "2026-08-22T01:53:23.172773+00:00",
-  "ts": 1787363603,
+  "generated": "2026-08-22T03:59:18.929708+00:00",
+  "ts": 1787371158,
   "market": [
     {
+      "headline": "Zcash surges over 42% to surpass $800 as Grayscale files for ZEC ETF",
+      "take": "Zcash surges 42% to $800 as Grayscale files for ZEC ETF",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zcash-surges-42-percent-past-800-grayscale-etf/"
+    },
+    {
       "headline": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
-      "take": "Bitcoin ETFs record biggest day since May, BlackRock dominates inflows",
+      "take": "Bitcoin ETFs post biggest day since May with BlackRock dominating inflows",
       "source": "decrypt",
       "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may"
     },
     {
-      "headline": "Dow surges 559 points as US business activity hits four-year high",
-      "take": "US stocks surge as business activity hits four-year high",
+      "headline": "Over $33M in Solana short positions liquidated as SOL nears $95",
+      "take": "Over $33M in Solana shorts liquidated as SOL approaches $95",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-surges-559-points-business-activity-high/"
-    },
-    {
-      "headline": "Dollar weakness lifts emerging-market currencies to fresh records",
-      "take": "Dollar weakness pushes emerging-market currencies to fresh records",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-weakness-lifts-emerging-market-currencies-to-fresh-records/"
+      "link": "https://cryptobriefing.com/solana-short-liquidations-sol-nears-95/"
     },
     {
       "headline": "Bitwise Solana staking ETF pulls in $20M this week as institutional appetite grows",
-      "take": "Solana staking ETF attracts $20M weekly amid institutional demand growth",
+      "take": "Bitwise Solana staking ETF attracts $20M weekly amid institutional demand",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-20m-inflows/"
     },
     {
       "headline": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "take": "Ethena token jumps 48% but broader altcoin season remains delayed",
+      "take": "Ethena ENA token surges 48% percent but altcoin season remains elusive",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
     }
   ],
   "business": [
     {
-      "headline": "Solana activates 350-ms slots on mainnet, boosting transaction speeds",
-      "take": "Solana activates faster 350-millisecond slots on mainnet",
+      "headline": "Fomo app surpasses Cash App in US iPhone finance rankings",
+      "take": "Fomo app surpasses Cash App in US iPhone finance app rankings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-activates-350-ms-slots-on-mainnet-boosting-transaction-speeds/"
+      "link": "https://cryptobriefing.com/fomo-app-surpasses-cash-app-in-us-iphone-finance-rankings/"
     },
     {
-      "headline": "Tokenized equity on Solana nears $470M, driven by xStocks growth",
-      "take": "Tokenized equity on Solana approaches $470M driven by xStocks",
+      "headline": "Coinbase defends ETH holdings amid community criticism: Jesse Pollak",
+      "take": "Coinbase defends ETH holdings amid community criticism from Jesse Pollak",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-equity-on-solana-nears-470m-driven-by-xstocks-growth/"
+      "link": "https://cryptobriefing.com/coinbase-defends-eth-holdings-pollak/"
     },
     {
-      "headline": "Robinhood Chain crosses $1B in total value locked",
-      "take": "Robinhood Chain crosses $1 billion in total value locked",
+      "headline": "The Sandbox faces security breach as 500M SAND minted on Base network",
+      "take": "Sandbox faces security breach with 500M SAND minted on Base network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-crosses-1-billion-tvl/"
-    },
-    {
-      "headline": "Coinbase app enables instant access to Base, Solana tokens post-launch",
-      "take": "Coinbase app enables instant access to Base and Solana tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-app-enables-instant-access-to-base-solana-tokens-post-launch/"
-    },
-    {
-      "headline": "Digital infrastructure operator Bitari targets $30 million raise in Nasdaq IPO filing",
-      "take": "Digital infrastructure operator Bitari targets $30M Nasdaq IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitari-files-30m-ipo-nasdaq-bitcoin-mining/"
+      "link": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/"
     }
   ],
   "security": [
     {
       "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-      "take": "Coldcard adds security measures following $130M Bitcoin exploit",
+      "take": "Coldcard adds new security measures following $130M Bitcoin exploit",
       "source": "decrypt",
       "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     },
     {
       "headline": "Anthropic\u2019s Opus 4.6 model bypasses content restrictions, tests show",
-      "take": "Anthropic Opus model bypasses content restrictions in tests",
+      "take": "Anthropic's Opus 4.6 model bypasses content restrictions in tests",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-opus-4-6-content-restrictions-bypass/"
     }
@@ -87,22 +75,16 @@
       "link": "https://cryptobriefing.com/sec-reverses-biden-crypto-enforcement/"
     },
     {
-      "headline": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-      "take": "Trump administration pushes crypto clarity, SEC rules, CFTC warnings",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings"
-    },
-    {
       "headline": "Crypto advocates join in suing Illinois over digital asset tax",
-      "take": "Crypto advocates sue Illinois over digital asset tax treatment",
+      "take": "Crypto advocates join lawsuit against Illinois over digital asset tax",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
     },
     {
-      "headline": "Singapore and Hong Kong compete to cut taxes for investors in escalating financial hub rivalry",
-      "take": "Singapore and Hong Kong cut investor taxes in financial hub rivalry",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/singapore-hong-kong-tax-competition-investors/"
+      "headline": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+      "take": "Trump administration pushes crypto clarity act, SEC rules, CFTC warnings",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings"
     }
   ]
 }

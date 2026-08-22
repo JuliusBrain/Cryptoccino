@@ -1,102 +1,108 @@
 {
-  "generated": "2026-08-21T21:42:26.607071+00:00",
-  "ts": 1787348546,
+  "generated": "2026-08-22T01:53:23.172773+00:00",
+  "ts": 1787363603,
   "market": [
     {
-      "headline": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
-      "take": "Bitcoin posts biggest weekly gain in two years, lifting altcoins broadly",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483"
-    },
-    {
-      "headline": "Bitcoin seeks support near $77K as gold approaches highs",
-      "take": "Bitcoin seeks support near $77K as gold approaches historical highs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-support-77k-gold-approaches-highs/"
-    },
-    {
-      "headline": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-      "take": "Strategy swings from $13B Bitcoin loss to $1.4B profit as BTC rallies",
+      "headline": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
+      "take": "Bitcoin ETFs record biggest day since May, BlackRock dominates inflows",
       "source": "decrypt",
-      "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies"
+      "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may"
     },
     {
-      "headline": "Institutions leverage Coinbase staking, boosting Ethereum confidence",
-      "take": "Institutions leverage Coinbase staking, boosting Ethereum confidence",
+      "headline": "Dow surges 559 points as US business activity hits four-year high",
+      "take": "US stocks surge as business activity hits four-year high",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutions-leverage-coinbase-staking-boosting-ethereum-confidence/"
+      "link": "https://cryptobriefing.com/dow-surges-559-points-business-activity-high/"
     },
     {
-      "headline": "Robinhood Chain crosses $1B in total value locked",
-      "take": "Robinhood Chain crosses $1 billion in total value locked milestone",
+      "headline": "Dollar weakness lifts emerging-market currencies to fresh records",
+      "take": "Dollar weakness pushes emerging-market currencies to fresh records",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-crosses-1-billion-tvl/"
+      "link": "https://cryptobriefing.com/dollar-weakness-lifts-emerging-market-currencies-to-fresh-records/"
+    },
+    {
+      "headline": "Bitwise Solana staking ETF pulls in $20M this week as institutional appetite grows",
+      "take": "Solana staking ETF attracts $20M weekly amid institutional demand growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-20m-inflows/"
+    },
+    {
+      "headline": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+      "take": "Ethena token jumps 48% but broader altcoin season remains delayed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin"
     }
   ],
   "business": [
     {
-      "headline": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
-      "take": "Grayscale moves closer to launching first US Zcash ETF with SEC filing",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517"
-    },
-    {
-      "headline": "Ionic Digital increases Bitcoin holdings by 21 BTC to 2,882 BTC as AI revenue dominates",
-      "take": "Ionic Digital increases Bitcoin holdings to 2,882 BTC as AI revenue dominates",
+      "headline": "Solana activates 350-ms slots on mainnet, boosting transaction speeds",
+      "take": "Solana activates faster 350-millisecond slots on mainnet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ionic-digital-bitcoin-holdings-2882-btc/"
+      "link": "https://cryptobriefing.com/solana-activates-350-ms-slots-on-mainnet-boosting-transaction-speeds/"
     },
     {
-      "headline": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
-      "take": "Solana network speed increases, potential bullish impact on SOL price",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
+      "headline": "Tokenized equity on Solana nears $470M, driven by xStocks growth",
+      "take": "Tokenized equity on Solana approaches $470M driven by xStocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-equity-on-solana-nears-470m-driven-by-xstocks-growth/"
     },
     {
-      "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-      "take": "BounceBit sunsetting blockchain, migrating to BNB Chain after exploit",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485"
+      "headline": "Robinhood Chain crosses $1B in total value locked",
+      "take": "Robinhood Chain crosses $1 billion in total value locked",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-crosses-1-billion-tvl/"
+    },
+    {
+      "headline": "Coinbase app enables instant access to Base, Solana tokens post-launch",
+      "take": "Coinbase app enables instant access to Base and Solana tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-app-enables-instant-access-to-base-solana-tokens-post-launch/"
+    },
+    {
+      "headline": "Digital infrastructure operator Bitari targets $30 million raise in Nasdaq IPO filing",
+      "take": "Digital infrastructure operator Bitari targets $30M Nasdaq IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitari-files-30m-ipo-nasdaq-bitcoin-mining/"
     }
   ],
   "security": [
     {
       "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-      "take": "Coldcard adds new security measures after $130 million Bitcoin exploit",
+      "take": "Coldcard adds security measures following $130M Bitcoin exploit",
       "source": "decrypt",
       "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"
     },
     {
-      "headline": "Apollo Global Management reports unauthorized access to cloud platforms",
-      "take": "Apollo Global Management reports unauthorized access to cloud platforms",
+      "headline": "Anthropic\u2019s Opus 4.6 model bypasses content restrictions, tests show",
+      "take": "Anthropic Opus model bypasses content restrictions in tests",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apollo-global-management-cloud-data-breach/"
-    },
-    {
-      "headline": "Binance faces UAE scrutiny over account used to hold customer funds",
-      "take": "Binance faces UAE scrutiny over account used to hold customer funds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-uae-police-inquiry-bank-account/"
+      "link": "https://cryptobriefing.com/anthropic-opus-4-6-content-restrictions-bypass/"
     }
   ],
   "policy": [
     {
+      "headline": "SEC outlines steps to reverse Biden-era crypto enforcement",
+      "take": "SEC outlines steps to reverse Biden-era crypto enforcement actions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-reverses-biden-crypto-enforcement/"
+    },
+    {
       "headline": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-      "take": "Trump administration pushes Clarity Act, SEC rules, and CFTC warnings on crypto",
+      "take": "Trump administration pushes crypto clarity, SEC rules, CFTC warnings",
       "source": "decrypt",
       "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings"
     },
     {
-      "headline": "Crypto rules can advance even if the Clarity Act stalls",
-      "take": "Crypto rules can advance even if the Clarity Act stalls in Congress",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-stalls-crypto-regulators-authority/"
+      "headline": "Crypto advocates join in suing Illinois over digital asset tax",
+      "take": "Crypto advocates sue Illinois over digital asset tax treatment",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
     },
     {
-      "headline": "Onchain, in court: What happened in crypto legal news this week",
-      "take": "Weekly roundup of crypto legal developments and court cases",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Singapore and Hong Kong compete to cut taxes for investors in escalating financial hub rivalry",
+      "take": "Singapore and Hong Kong cut investor taxes in financial hub rivalry",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/singapore-hong-kong-tax-competition-investors/"
     }
   ]
 }

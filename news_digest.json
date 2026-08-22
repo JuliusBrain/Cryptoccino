@@ -1,66 +1,96 @@
 {
-  "generated": "2026-08-22T13:03:32.505490+00:00",
-  "ts": 1787403812,
+  "generated": "2026-08-22T15:39:07.213233+00:00",
+  "ts": 1787413147,
   "market": [
     {
-      "headline": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-      "take": "Bitcoin surged 25% to nearly $80k on Treasury buyback policy shift",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days"
+      "headline": "Bitcoin ETFs buy $1.92B this week, largest stash in 10 months",
+      "take": "Bitcoin ETFs accumulated $1.92B this week, largest ten-month inflow",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-buy-2b-largest-10-months/"
     },
     {
-      "headline": "J.P. Morgan\u2019s tokenized US T-bill products surge to $885M market cap",
-      "take": "J.P. Morgan's tokenized US Treasury bills reach $885M in market cap",
+      "headline": "Bitcoin reaches most overbought level in nearly 2 years",
+      "take": "Bitcoin reaches most overbought level in nearly two years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-tokenized-treasury-885m-market-cap/"
+      "link": "https://cryptobriefing.com/bitcoin-most-overbought-two-years/"
     },
     {
-      "headline": "Circle\u2019s USDC adds $2B in market cap, leading stablecoins in weekly growth",
-      "take": "Circle's USDC adds $2B in market cap, leads stablecoins weekly growth",
+      "headline": "Crypto market erases $110 billion in 20 minutes after sharp rally",
+      "take": "Crypto market shed $110 billion in twenty minutes after sharp rally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-market-cap-growth-stablecoins/"
+      "link": "https://cryptobriefing.com/crypto-market-500b-surge-110b-drop-volatility/"
     },
     {
       "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to \u2018next bitcoin\u2019 buzz",
-      "take": "Zcash jumps 48% above $800 amid Grayscale spot ETF expansion",
+      "take": "Zcash jumps 48% as Grayscale spot ETF push fuels momentum",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
     },
     {
-      "headline": "S&P 500 pulls back amid rising Treasury yields and inflation concerns",
-      "take": "S&P 500 pulls back amid rising Treasury yields and inflation",
+      "headline": "US Treasury faces growing competition as foreign bonds offer higher yields and debt tops $40 trillion",
+      "take": "US Treasury faces competition as foreign bonds offer higher yields",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-pullback-treasury-yields-inflation/"
+      "link": "https://cryptobriefing.com/us-treasury-competition-foreign-bonds-yields/"
     }
   ],
   "business": [
     {
-      "headline": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-      "take": "Musk's X plans to pay creators using stablecoins",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories"
+      "headline": "Stacks enables Bitcoin staking in 19 days with PoX-5 hardfork",
+      "take": "Stacks enables Bitcoin staking in nineteen days with PoX-5 hardfork",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stacks-bitcoin-staking-pox5/"
     },
     {
-      "headline": "Algorand sees $841K increase in euro stablecoin market cap",
-      "take": "Algorand's euro stablecoin market cap grows by $841K",
+      "headline": "USDC Treasury mints $250M in USDC on Solana to boost liquidity",
+      "take": "Circle mints $250M USDC on Solana to boost liquidity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/algorand-euro-stablecoin-market-cap-growth/"
+      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-solana-liquidity/"
+    },
+    {
+      "headline": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "take": "BitMart weighs partial restart and creditor payouts after shutdown announcement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
+    },
+    {
+      "headline": "Fairmint CEO warns tokenized stocks may repeat 1960s paper crisis",
+      "take": "Tokenized stocks may repeat 1960s paper crisis, Fairmint CEO warns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fairmint-ceo-tokenized-stocks-1960s-paper-crisis/"
     }
   ],
   "security": [
     {
-      "headline": "Humidifi halts trading after internal network incident hits platform funds",
-      "take": "Humidifi halts trading after internal network incident hits funds",
+      "headline": "Sandbox halts Base and BNB Chain bridging after exploit mints billions of unbacked SAND tokens",
+      "take": "Sandbox exploit mints billions of unbacked SAND tokens, halts bridging",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/humidifi-halts-trading-internal-network-incident/"
+      "link": "https://cryptobriefing.com/sandbox-halts-bridging-sand-exploit/"
+    },
+    {
+      "headline": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
+      "take": "AI made Bitcoin software target; security group mobilizes defensive response",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back"
     }
   ],
   "policy": [
     {
-      "headline": "Coinbase CEO Brian Armstrong advocates for CLARITY Act to protect consumers",
-      "take": "Coinbase CEO advocates for CLARITY Act to protect consumers",
+      "headline": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "take": "Kalshi prediction markets restricted in multiple states amid regulatory battle",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle"
+    },
+    {
+      "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "take": "MiCA regulation coming for DeFi vaults but implementation will be difficult",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Canada\u2019s PM Carney announces retaliatory measures against US effective September 8",
+      "take": "Canada's PM Carney announces retaliatory measures against US September eighth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-armstrong-clarity-act-consumer-protection/"
+      "link": "https://cryptobriefing.com/canada-carney-measures-against-us-september/"
     }
   ]
 }

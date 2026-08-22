@@ -1,84 +1,66 @@
 {
-  "generated": "2026-08-22T09:45:33.885869+00:00",
-  "ts": 1787391933,
+  "generated": "2026-08-22T13:03:32.505490+00:00",
+  "ts": 1787403812,
   "market": [
     {
-      "headline": "Bitcoin surges nearly 25% after US Treasury doubles buyback operations",
-      "take": "Bitcoin surges nearly 25% after US Treasury doubles buyback operations",
+      "headline": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+      "take": "Bitcoin surged 25% to nearly $80k on Treasury buyback policy shift",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days"
+    },
+    {
+      "headline": "J.P. Morgan\u2019s tokenized US T-bill products surge to $885M market cap",
+      "take": "J.P. Morgan's tokenized US Treasury bills reach $885M in market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surges-treasury-buyback-change/"
+      "link": "https://cryptobriefing.com/jpmorgan-tokenized-treasury-885m-market-cap/"
+    },
+    {
+      "headline": "Circle\u2019s USDC adds $2B in market cap, leading stablecoins in weekly growth",
+      "take": "Circle's USDC adds $2B in market cap, leads stablecoins weekly growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdc-market-cap-growth-stablecoins/"
     },
     {
       "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to \u2018next bitcoin\u2019 buzz",
-      "take": "Zcash jumps 48% to over $800 as Grayscale spot ETF push gains momentum",
+      "take": "Zcash jumps 48% above $800 amid Grayscale spot ETF expansion",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
     },
     {
-      "headline": "Crypto open interest drops $3B, triggering $308M in liquidations",
-      "take": "Crypto open interest drops $3B, triggering $308M in liquidations across markets",
+      "headline": "S&P 500 pulls back amid rising Treasury yields and inflation concerns",
+      "take": "S&P 500 pulls back amid rising Treasury yields and inflation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-open-interest-drops-3b-liquidations/"
-    },
-    {
-      "headline": "XRP futures open interest rebounds to pre-crash levels in August 2026",
-      "take": "XRP futures open interest rebounds to pre-crash levels in August 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-futures-open-interest-rebounds-to-pre-crash-levels-in-august-2026/"
-    },
-    {
-      "headline": "Uniswap sets all-time high daily burn value of $590K for UNI on August 21",
-      "take": "Uniswap sets all-time high daily burn value of $590K for UNI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-uni-daily-burn-record/"
+      "link": "https://cryptobriefing.com/sp500-pullback-treasury-yields-inflation/"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI absorbs Instant team to enhance AI application infrastructure",
-      "take": "OpenAI absorbs Instant team to enhance AI application infrastructure capabilities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-acquires-instantdb-team/"
+      "headline": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "take": "Musk's X plans to pay creators using stablecoins",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories"
     },
     {
-      "headline": "Vertiv\u2019s David Cote transforms AC maker into AI powerhouse worth over $100B",
-      "take": "Vertiv transforms into AI powerhouse worth over $100B under new leadership",
+      "headline": "Algorand sees $841K increase in euro stablecoin market cap",
+      "take": "Algorand's euro stablecoin market cap grows by $841K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vertiv-cote-ai-data-center-powerhouse/"
-    },
-    {
-      "headline": "Ormat Technologies pivots to AI-driven geothermal power with EGS projects",
-      "take": "Ormat Technologies pivots to AI-driven geothermal power with EGS projects",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ormat-egs-geothermal-ai-data-centers/"
+      "link": "https://cryptobriefing.com/algorand-euro-stablecoin-market-cap-growth/"
     }
   ],
   "security": [
     {
-      "headline": "The Sandbox apparently hit by ongoing exploit as hackers mint billions in SAND",
-      "take": "The Sandbox hit by ongoing exploit as hackers mint billions in SAND tokens",
+      "headline": "Humidifi halts trading after internal network incident hits platform funds",
+      "take": "Humidifi halts trading after internal network incident hits funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandbox-security-breach-500m-sand-minted/"
+      "link": "https://cryptobriefing.com/humidifi-halts-trading-internal-network-incident/"
     }
   ],
   "policy": [
     {
-      "headline": "Donald Trump implements 50% tariffs after US-Canada trade talks collapse",
-      "take": "Donald Trump implements 50% tariffs after US-Canada trade talks collapse",
+      "headline": "Coinbase CEO Brian Armstrong advocates for CLARITY Act to protect consumers",
+      "take": "Coinbase CEO advocates for CLARITY Act to protect consumers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-50-percent-tariffs-canada-trade/"
-    },
-    {
-      "headline": "Crypto advocates join in suing Illinois over digital asset tax",
-      "take": "Crypto advocates join in suing Illinois over digital asset tax",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax"
-    },
-    {
-      "headline": "Ukraine sanctions five Rusal aluminum enterprises over military ties",
-      "take": "Ukraine sanctions five Rusal aluminum enterprises over military ties",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ukraine-sanctions-rusal-aluminum-military-ties/"
+      "link": "https://cryptobriefing.com/coinbase-armstrong-clarity-act-consumer-protection/"
     }
   ]
 }

@@ -1,89 +1,101 @@
 {
-  "generated": "2026-08-23T18:50:40.093567+00:00",
-  "ts": 1787511040,
+  "generated": "2026-08-23T21:39:37.931709+00:00",
+  "ts": 1787521177,
   "market": [
     {
-      "headline": "XRP poised for biggest weekly gain in 21 months as Treasury buyback boosts sentiment",
-      "take": "XRP posts biggest weekly gain in 21 months amid Treasury buyback sentiment",
+      "headline": "Bitwise reports $1.8B in net inflows across crypto products in H1 2026",
+      "take": "Bitwise crypto products saw $1.8B net inflows in first half of 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-weekly-gain-treasury-buyback/"
+      "link": "https://cryptobriefing.com/bitwise-crypto-inflows-h1-2026/"
     },
     {
-      "headline": "Bitcoin\u2019s Rally Leans on Fears That Fiscal Strains Are Mounting",
-      "take": "Bitcoin rally driven by mounting fiscal strain concerns and economic fears",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-23/bitcoin-rally-leans-on-macro-fears-as-crypto-s-flywheel-turns"
+      "headline": "S&P 500 dividend yields fall below 10Y Treasury note income, fewest stocks outyielding bonds since 2007",
+      "take": "Stock dividend yields fall below Treasury notes for first time since 2007",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-dividend-yields-fall-below-treasury/"
     },
     {
-      "headline": "Tether\u2019s USDT gains 1.6M holders in past week, outpacing USDC by nearly 3x",
-      "take": "Tether USDT adds 1.6M holders weekly, significantly outpacing USDC growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdt-gains-holders-outpaces-usdc/"
+      "headline": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "take": "XRP posts biggest weekly gain in 21 months on curve control speculation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes"
     },
     {
       "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "take": "Crypto card spending exceeds $1 billion as stablecoins enable everyday purchases",
+      "take": "Crypto card spending crosses $1 billion threshold with stablecoin adoption rising",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
     },
     {
-      "headline": "Circle stock rallies 30% as market reassesses stablecoin dynamics",
-      "take": "Circle stock rallies 30% as market reassesses stablecoin sector dynamics",
+      "headline": "China buys 40 tonnes of gold in June, second-largest since early 2025",
+      "take": "China purchases 40 tonnes gold in June, second highest in eighteen months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-stock-rallies-stablecoin-reassessment/"
+      "link": "https://cryptobriefing.com/china-buys-40-tonnes-of-gold-in-june-second-largest-since-early-2025/"
     }
   ],
   "business": [
     {
-      "headline": "Ripple\u2019s XRP enabled for FedNow payments via Volante integration",
-      "take": "Ripple XRP now enabled for FedNow payments via Volante integration",
+      "headline": "Trump family moves into banking as OCC grants charter for stablecoin trust company",
+      "take": "OCC grants stablecoin trust company charter to Trump family banking venture",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-fednow-volante-integration/"
+      "link": "https://cryptobriefing.com/trump-family-banking-charter-stablecoin/"
+    },
+    {
+      "headline": "Hugging Face explores potential $13B sale amid acquisition talks",
+      "take": "Hugging Face explores $13 billion sale amid active acquisition discussions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hugging-face-13b-sale-talks/"
+    },
+    {
+      "headline": "Pershing Square deploys $3.3B across Visa, Mastercard, and S&P Global in fintech buying spree",
+      "take": "Pershing Square deploys $3.3B across Visa, Mastercard, S&P Global fintech positions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pershing-square-invests-visa-mastercard-sp-global/"
     },
     {
       "headline": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-      "take": "Tether's $120 million Uruguay bitcoin mining project collapsed over power dispute",
+      "take": "Tether's $120 million Uruguay bitcoin mining project collapses over power dispute",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536"
     },
     {
-      "headline": "Paxos stablecoins USDG and PYUSD add $314M in market cap across chains",
-      "take": "Paxos stablecoins USDG and PYUSD add $314M market cap across chains",
+      "headline": "Cathie Wood says Visa and Mastercard analysts are sleeping on Circle\u2019s disruption",
+      "take": "Cathie Wood suggests Circle poses competitive threat to Visa and Mastercard",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paxos-usdg-pyusd-314m-market-cap-growth/"
-    },
-    {
-      "headline": "Xaman Wallet reportedly eyes minimum fee removal to boost XRP Ledger liquidity",
-      "take": "Xaman Wallet eyes minimum fee removal to boost XRP Ledger liquidity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xaman-wallet-removes-minimum-fee-xrpl-liquidity/"
-    },
-    {
-      "headline": "Pershing Square deploys $3.3B across Visa, Mastercard, and S&P Global in fintech buying spree",
-      "take": "Pershing Square deploys $3.3B across Visa, Mastercard, S&P Global fintech",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pershing-square-invests-visa-mastercard-sp-global/"
+      "link": "https://cryptobriefing.com/cathie-wood-circle-disruption-visa-mastercard/"
     }
   ],
   "security": [],
   "policy": [
     {
       "headline": "SEC\u2019s Regulation Crypto Assets proposal creates first dedicated securities framework for token issuers",
-      "take": "SEC proposes first dedicated securities framework for token issuers",
+      "take": "SEC introduces first dedicated securities framework for cryptocurrency token issuers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-regulation-crypto-assets-proposal-2/"
     },
     {
       "headline": "Central bankers fear dollar-based stablecoins threaten monetary sovereignty",
-      "take": "Central bankers warn dollar-based stablecoins threaten monetary sovereignty",
+      "take": "Central bankers express concern that dollar stablecoins threaten monetary sovereignty",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/central-bankers-stablecoins-monetary-sovereignty/"
     },
     {
-      "headline": "Senator Lummis accuses banks of obstructing CLARITY Act progress",
-      "take": "Senator Lummis accuses banks of obstructing CLARITY Act progress",
+      "headline": "US national debt reaches $40 trillion, raising fiscal concerns across markets",
+      "take": "US national debt reaches $40 trillion, raising fiscal stability concerns broadly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senator-lummis-accuses-banks-of-obstructing-clarity-act-progress/"
+      "link": "https://cryptobriefing.com/us-national-debt-40-trillion-fiscal-concerns/"
+    },
+    {
+      "headline": "Iran threatens to halt all Persian Gulf oil exports, labels US support as act of war",
+      "take": "Iran threatens halt to all Persian Gulf oil exports, escalates US tensions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-threatens-halt-persian-gulf-oil-exports/"
+    },
+    {
+      "headline": "Canada to impose retaliatory tariffs on US goods after trade talks collapse",
+      "take": "Canada imposes retaliatory tariffs after trade negotiations with US collapse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/canada-to-impose-retaliatory-tariffs-on-us-goods-after-trade-talks-collapse/"
     }
   ]
 }

@@ -1,78 +1,59 @@
 {
-  "generated": "2026-08-23T13:04:52.501752+00:00",
-  "ts": 1787490292,
+  "generated": "2026-08-23T15:40:46.595258+00:00",
+  "ts": 1787499646,
   "market": [
     {
-      "headline": "Carry trades funded by the dollar hit longest winning streak since 2008",
-      "take": "Dollar-funded carry trades reach longest winning streak since 2008",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-carry-trades-longest-winning-streak/"
+      "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "take": "Crypto card spending exceeds $1B as stablecoins enter daily transactions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
     },
     {
-      "headline": "Solana dominates tokenized-stock DeFi market with $75M in deposits",
-      "take": "Solana leads tokenized-stock DeFi with $75M deposits across platforms",
+      "headline": "Solana RWA value surpasses $4B, setting new all-time high",
+      "take": "Solana real-world asset value hits $4B all-time high",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-dominates-tokenized-stock-defi-market-with-75m-in-deposits/"
+      "link": "https://cryptobriefing.com/solana-rwa-value-surpasses-4-billion/"
     },
     {
-      "headline": "US Treasury bond intervention struggles as yields rebound",
-      "take": "US Treasury bond intervention fails as yields rebound despite intervention",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-bond-intervention-struggles-as-yields-rebound/"
-    },
-    {
-      "headline": "US dollar hits historic 2M rials as Iranian currency suffers dramatic collapse",
-      "take": "Iranian currency collapses dramatically as dollar hits historic 2M rials",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-hits-2-million-iranian-rials/"
-    },
-    {
-      "headline": "China cuts oil imports, driving $30 drop in global oil prices amid Iran tensions",
-      "take": "China cuts oil imports driving $30 global oil price drop",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-cuts-oil-imports-driving-30-drop-in-global-oil-prices-amid-iran-tensions/"
+      "headline": "Crypto\u2019s next billion users might be AI agents, and they\u2019re paying with stablecoins",
+      "take": "AI agents emerging as next billion crypto users, transacting via stablecoins",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins"
     }
   ],
   "business": [
     {
-      "headline": "Alibaba announces $10B share placement to boost AI investment",
-      "take": "Alibaba announces $10B share placement focused on AI investment",
+      "headline": "Chainlink adds 12 new integrations across 10 blockchains in latest expansion push",
+      "take": "Chainlink adds 12 integrations across 10 blockchains in expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alibaba-10b-share-placement-ai-investment/"
+      "link": "https://cryptobriefing.com/chainlink-integrates-12-protocols-10-chains/"
     },
     {
-      "headline": "Binance bStocks and xStocks account for 70% of DEX trading volume in tokenized equities",
-      "take": "Binance tokenized stocks dominate DEX volume at 70% market share",
+      "headline": "Stacks enables Bitcoin finality for all transactions",
+      "take": "Stacks protocol enables Bitcoin finality for all transactions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-bstocks-xstocks-dex-trading-volume/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "Term Labs suffers $8.5M governance exploit as attacker seizes control of strategy vaults",
-      "take": "Term Labs loses $8.5M to governance exploit targeting strategy vaults",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/term-labs-governance-exploit-vaults/"
+      "link": "https://cryptobriefing.com/stacks-bitcoin-finality-nakamoto-upgrade/"
     },
     {
-      "headline": "AI-generated video of Singapore PM Lawrence Wong used in $3.8M fraud",
-      "take": "AI-generated video of Singapore PM used to defraud $3.8M",
+      "headline": "AMD invests over $10B in Taiwan for advanced chip packaging with TSMC",
+      "take": "AMD invests over $10B in Taiwan chip packaging with TSMC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deepfake-singapore-pm-wong-fraud/"
+      "link": "https://cryptobriefing.com/amd-10-billion-taiwan-chip-packaging-tsmc/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "Iran threatens US economic interests over new sanctions",
-      "take": "Iran threatens US economic interests in response to new sanctions",
+      "headline": "China pushes for diplomacy as US slaps Iran with sweeping new sanctions",
+      "take": "US imposes sweeping sanctions on Iran amid diplomatic push by China",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-threatens-us-economic-interests-over-new-sanctions/"
+      "link": "https://cryptobriefing.com/china-diplomacy-us-iran-sanctions-conflict/"
     },
     {
-      "headline": "Norway commits $9.2B in Ukraine aid for 2027, matching current year\u2019s spending",
-      "take": "Norway commits $9.2B Ukraine aid for 2027 matching current spending",
+      "headline": "Rich McCormick warns against slowing US AI data center expansion",
+      "take": "US lawmaker warns against slowing AI data center expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/norway-9b-ukraine-aid-2027/"
+      "link": "https://cryptobriefing.com/mccormick-warns-slowing-ai-data-center-expansion/"
     }
   ]
 }

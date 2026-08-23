@@ -1,83 +1,96 @@
 {
-  "generated": "2026-08-23T07:04:55.454454+00:00",
-  "ts": 1787468695,
+  "generated": "2026-08-23T09:46:24.146697+00:00",
+  "ts": 1787478384,
   "market": [
     {
-      "headline": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-      "take": "Bitcoin and ether ETFs see strongest inflows since October, volume triples",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531"
-    },
-    {
       "headline": "Bitcoin drops below $76K, wiping out $100M in long positions",
-      "take": "Bitcoin drops below $76K, liquidating $100M in long leveraged positions",
+      "take": "Bitcoin drops below $76K, liquidating $100M in leveraged long positions",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-drops-below-76k-liquidations/"
     },
     {
       "headline": "HyperliquidX open interest surpasses $13B for first time since October 10",
-      "take": "Hyperliquid open interest exceeds $13B for first time since early October",
+      "take": "HyperliquidX open interest surpasses $13B for first time since October",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hyperliquidx-open-interest-surpasses-13b-for-first-time-since-october-10/"
     },
     {
-      "headline": "US Treasury yields hit highest levels since 2007 amid oil price concerns",
-      "take": "US Treasury yields hit highest levels since 2007 amid market pressure",
+      "headline": "Micron stock rises 30% from recent low as analysts project another 60% upside",
+      "take": "Micron stock rises 30% with analysts projecting additional 60% upside",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-yields-hit-highest-levels-since-2007-amid-oil-price-concerns/"
+      "link": "https://cryptobriefing.com/micron-stock-rises-30-percent-analysts-project-growth/"
     },
     {
       "headline": "Gold call-option demand hits 6-month high amid elevated prices: Barchart",
-      "take": "Gold call-option demand reaches six-month high as prices remain elevated",
+      "take": "Gold call-option demand hits six-month high amid elevated price environment",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gold-call-option-demand-hits-6-month-high-amid-elevated-prices-barchart/"
+    },
+    {
+      "headline": "China cuts oil imports, driving $30 drop in global oil prices amid Iran tensions",
+      "take": "China cuts oil imports, driving global oil prices down $30 per barrel",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-cuts-oil-imports-driving-30-drop-in-global-oil-prices-amid-iran-tensions/"
     }
   ],
   "business": [
     {
-      "headline": "Grayscale Zcash Trust shares to begin NYSE trading on Aug. 25",
-      "take": "Grayscale Zcash Trust begins NYSE trading, expanding crypto product access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-zcash-trust-nyse-trading/"
-    },
-    {
       "headline": "Alibaba plans massive HK$80 billion share placement in Hong Kong",
-      "take": "Alibaba plans HK$80 billion share placement in Hong Kong capital raise",
+      "take": "Alibaba plans HK$80 billion share placement in Hong Kong for AI investment",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/alibaba-hong-kong-share-placement/"
     },
     {
-      "headline": "Neko Health and Neuralink reportedly collaborate to screen trial candidates using body-scan data",
-      "take": "Neuralink and Neko Health collaborate to screen trial candidates via scans",
+      "headline": "China\u2019s Z.AI challenges Anthropic with new AI cybersecurity model GLM-5.3",
+      "take": "Chinese AI startup Z.AI launches GLM-5.3 cybersecurity model challenging Anthropic",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/neko-health-neuralink-screen-trial-candidates/"
+      "link": "https://cryptobriefing.com/chinas-zai-challenges-anthropic-with-new-ai-cybersecurity-model-glm-53/"
     },
     {
       "headline": "Nvidia to raise AI product prices over 15% due to memory chip costs: CNBC",
-      "take": "Nvidia raises AI product prices fifteen percent due to memory chip costs",
+      "take": "Nvidia raising AI product prices over 15% due to memory chip cost pressures",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nvidia-to-raise-ai-product-prices-over-15-due-to-memory-chip-costs-cnbc/"
     },
     {
+      "headline": "Neko Health and Neuralink reportedly collaborate to screen trial candidates using body-scan data",
+      "take": "Neko Health and Neuralink collaborate to screen trial candidates using body scans",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/neko-health-neuralink-screen-trial-candidates/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "AI-generated video of Singapore PM Lawrence Wong used in $3.8M fraud",
+      "take": "AI-generated deepfake video of Singapore PM used in $3.8M fraud scheme",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/deepfake-singapore-pm-wong-fraud/"
+    },
+    {
       "headline": "BitBay\u2019s fate hangs four years after Sylwester Suszek\u2019s disappearance",
-      "take": "BitBay's future uncertain four years after co-founder Sylwester Suszek vanishes",
+      "take": "BitBay's future uncertain four years after founder Sylwester Suszek's disappearance",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitbay-suszek-disappearance-zondacrypto/"
     }
   ],
-  "security": [],
   "policy": [
     {
       "headline": "Senate to vote on Clarity Act Sept. 15, key step for crypto regulation",
-      "take": "Senate scheduled to vote on Clarity Act September 15 for crypto regulation",
+      "take": "Senate votes on Clarity Act September 15, advancing cryptocurrency regulatory framework",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/senate-to-vote-on-clarity-act-sept-15-key-step-for-crypto-regulation/"
     },
     {
       "headline": "John Fetterman aligns with Trump on AI development push, warns China benefits from US \u2018overreaction\u2019",
-      "take": "Fetterman aligns with Trump on AI development, warns against overreacting",
+      "take": "US politician warns China benefits if America overreacts to AI development competition",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fetterman-trump-ai-development-china/"
+    },
+    {
+      "headline": "Iran threatens US economic interests over new sanctions",
+      "take": "Iran threatens US economic interests in response to new sanctions measures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-threatens-us-economic-interests-over-new-sanctions/"
     }
   ]
 }

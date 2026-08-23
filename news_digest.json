@@ -1,82 +1,76 @@
 {
-  "generated": "2026-08-23T02:01:56.709831+00:00",
-  "ts": 1787450516,
+  "generated": "2026-08-23T04:04:22.266927+00:00",
+  "ts": 1787457862,
   "market": [
     {
       "headline": "Bitcoin, Ether ETFs draw $3B in strongest inflow week since October",
-      "take": "Bitcoin and Ether ETFs drew $3B in strongest inflow week since October",
+      "take": "Bitcoin and ether ETFs draw $3B in strongest inflow week since October",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-ether-etfs-3b-inflow-week/"
     },
     {
       "headline": "HyperliquidX open interest surpasses $13B for first time since October 10",
-      "take": "Hyperliquid open interest surpasses $13B for first time since early October",
+      "take": "Hyperliquid open interest surpasses $13B for first time since October",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hyperliquidx-open-interest-surpasses-13b-for-first-time-since-october-10/"
     },
     {
-      "headline": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "take": "Zcash hits eight-year high near $850 amid Grayscale ETF listing push",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528"
-    },
-    {
       "headline": "Circle\u2019s USDC daily DEX trading volume hits $2.8B as DeFi activity surges to multi-month highs",
-      "take": "Circle's USDC daily DEX volume hits $2.8B as DeFi activity surges",
+      "take": "Circle's USDC daily DEX trading volume hits $2.8B as DeFi surges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/usdc-dex-trading-volume-defi-surge/"
     },
     {
       "headline": "US Treasury yields hit highest levels since 2007 amid oil price concerns",
-      "take": "US Treasury yields hit highest levels since 2007 amid economic pressures",
+      "take": "US Treasury yields hit highest levels since 2007 amid oil concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-treasury-yields-hit-highest-levels-since-2007-amid-oil-price-concerns/"
+    },
+    {
+      "headline": "Active ETFs capture 42% of dollar flow into ETFs, up from 26%",
+      "take": "Active ETFs capture 42% of dollar flow into ETFs, up from 26%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/active-etfs-capture-42-percent-dollar-flow/"
     }
   ],
   "business": [
     {
       "headline": "Grayscale Zcash Trust shares to begin NYSE trading on Aug. 25",
-      "take": "Grayscale Zcash Trust shares begin NYSE trading, expanding institutional crypto access",
+      "take": "Grayscale Zcash Trust shares begin NYSE trading on August 25",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/grayscale-zcash-trust-nyse-trading/"
     },
     {
-      "headline": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "take": "Solana reduces mainnet slot time to 350ms in progress toward 200ms goal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
+      "headline": "Apple announces largest-ever stock buyback at $110 billion under Tim Cook",
+      "take": "Apple announces largest-ever stock buyback at $110 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-record-110-billion-stock-buyback/"
     },
     {
-      "headline": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "take": "BitMart exchange weighs partial restart and creditor payouts after shutdown announcement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
+      "headline": "China\u2019s humanoid robot makers control 97% of global shipments",
+      "take": "China's humanoid robot makers control 97% of global shipments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-humanoid-robot-97-percent-global-shipments/"
     }
   ],
   "security": [
     {
       "headline": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "take": "Microsoft patches critical remote code execution vulnerability in security update",
+      "take": "Microsoft fixes perfect 10 exploit allowing remote code execution",
       "source": "decrypt",
       "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"
-    },
-    {
-      "headline": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "take": "Sandbox stops Base and BNB bridging after exploit, restricts cross-chain transfers",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
     }
   ],
   "policy": [
     {
       "headline": "Senate to vote on Clarity Act Sept. 15, key step for crypto regulation",
-      "take": "Senate votes on Clarity Act September 15, advancing crypto regulatory framework",
+      "take": "Senate to vote on Clarity Act September 15, advancing crypto regulation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/senate-to-vote-on-clarity-act-sept-15-key-step-for-crypto-regulation/"
     },
     {
       "headline": "CFTC leaders agree outdated rules hinder crypto regulation, says Garlinghouse",
-      "take": "CFTC leaders acknowledge outdated rules hinder effective crypto market regulation",
+      "take": "CFTC leaders agree outdated rules hinder crypto regulation progress",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-crypto-regulation-garlinghouse-outdated-rules/"
     }

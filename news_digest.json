@@ -1,59 +1,89 @@
 {
-  "generated": "2026-08-23T15:40:46.595258+00:00",
-  "ts": 1787499646,
+  "generated": "2026-08-23T18:50:40.093567+00:00",
+  "ts": 1787511040,
   "market": [
     {
+      "headline": "XRP poised for biggest weekly gain in 21 months as Treasury buyback boosts sentiment",
+      "take": "XRP posts biggest weekly gain in 21 months amid Treasury buyback sentiment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-weekly-gain-treasury-buyback/"
+    },
+    {
+      "headline": "Bitcoin\u2019s Rally Leans on Fears That Fiscal Strains Are Mounting",
+      "take": "Bitcoin rally driven by mounting fiscal strain concerns and economic fears",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-23/bitcoin-rally-leans-on-macro-fears-as-crypto-s-flywheel-turns"
+    },
+    {
+      "headline": "Tether\u2019s USDT gains 1.6M holders in past week, outpacing USDC by nearly 3x",
+      "take": "Tether USDT adds 1.6M holders weekly, significantly outpacing USDC growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdt-gains-holders-outpaces-usdc/"
+    },
+    {
       "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "take": "Crypto card spending exceeds $1B as stablecoins enter daily transactions",
+      "take": "Crypto card spending exceeds $1 billion as stablecoins enable everyday purchases",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
     },
     {
-      "headline": "Solana RWA value surpasses $4B, setting new all-time high",
-      "take": "Solana real-world asset value hits $4B all-time high",
+      "headline": "Circle stock rallies 30% as market reassesses stablecoin dynamics",
+      "take": "Circle stock rallies 30% as market reassesses stablecoin sector dynamics",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-rwa-value-surpasses-4-billion/"
-    },
-    {
-      "headline": "Crypto\u2019s next billion users might be AI agents, and they\u2019re paying with stablecoins",
-      "take": "AI agents emerging as next billion crypto users, transacting via stablecoins",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins"
+      "link": "https://cryptobriefing.com/circle-stock-rallies-stablecoin-reassessment/"
     }
   ],
   "business": [
     {
-      "headline": "Chainlink adds 12 new integrations across 10 blockchains in latest expansion push",
-      "take": "Chainlink adds 12 integrations across 10 blockchains in expansion",
+      "headline": "Ripple\u2019s XRP enabled for FedNow payments via Volante integration",
+      "take": "Ripple XRP now enabled for FedNow payments via Volante integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-integrates-12-protocols-10-chains/"
+      "link": "https://cryptobriefing.com/xrp-fednow-volante-integration/"
     },
     {
-      "headline": "Stacks enables Bitcoin finality for all transactions",
-      "take": "Stacks protocol enables Bitcoin finality for all transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-bitcoin-finality-nakamoto-upgrade/"
+      "headline": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+      "take": "Tether's $120 million Uruguay bitcoin mining project collapsed over power dispute",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536"
     },
     {
-      "headline": "AMD invests over $10B in Taiwan for advanced chip packaging with TSMC",
-      "take": "AMD invests over $10B in Taiwan chip packaging with TSMC",
+      "headline": "Paxos stablecoins USDG and PYUSD add $314M in market cap across chains",
+      "take": "Paxos stablecoins USDG and PYUSD add $314M market cap across chains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amd-10-billion-taiwan-chip-packaging-tsmc/"
+      "link": "https://cryptobriefing.com/paxos-usdg-pyusd-314m-market-cap-growth/"
+    },
+    {
+      "headline": "Xaman Wallet reportedly eyes minimum fee removal to boost XRP Ledger liquidity",
+      "take": "Xaman Wallet eyes minimum fee removal to boost XRP Ledger liquidity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xaman-wallet-removes-minimum-fee-xrpl-liquidity/"
+    },
+    {
+      "headline": "Pershing Square deploys $3.3B across Visa, Mastercard, and S&P Global in fintech buying spree",
+      "take": "Pershing Square deploys $3.3B across Visa, Mastercard, S&P Global fintech",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pershing-square-invests-visa-mastercard-sp-global/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "China pushes for diplomacy as US slaps Iran with sweeping new sanctions",
-      "take": "US imposes sweeping sanctions on Iran amid diplomatic push by China",
+      "headline": "SEC\u2019s Regulation Crypto Assets proposal creates first dedicated securities framework for token issuers",
+      "take": "SEC proposes first dedicated securities framework for token issuers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-diplomacy-us-iran-sanctions-conflict/"
+      "link": "https://cryptobriefing.com/sec-regulation-crypto-assets-proposal-2/"
     },
     {
-      "headline": "Rich McCormick warns against slowing US AI data center expansion",
-      "take": "US lawmaker warns against slowing AI data center expansion",
+      "headline": "Central bankers fear dollar-based stablecoins threaten monetary sovereignty",
+      "take": "Central bankers warn dollar-based stablecoins threaten monetary sovereignty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mccormick-warns-slowing-ai-data-center-expansion/"
+      "link": "https://cryptobriefing.com/central-bankers-stablecoins-monetary-sovereignty/"
+    },
+    {
+      "headline": "Senator Lummis accuses banks of obstructing CLARITY Act progress",
+      "take": "Senator Lummis accuses banks of obstructing CLARITY Act progress",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senator-lummis-accuses-banks-of-obstructing-clarity-act-progress/"
     }
   ]
 }

@@ -1,90 +1,96 @@
 {
-  "generated": "2026-08-24T04:09:12.311100+00:00",
-  "ts": 1787544552,
+  "generated": "2026-08-24T07:31:13.176413+00:00",
+  "ts": 1787556673,
   "market": [
     {
-      "headline": "Bitcoin rallies 23% amid US debt policy concerns",
-      "take": "Bitcoin rallies 23% amid US debt policy concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-rallies-us-debt-crisis-concerns/"
+      "headline": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts \u2018strongest\u2019 cycle ever",
+      "take": "Bitcoin records largest weekly dollar gain in history",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547"
     },
     {
-      "headline": "Trump: CFTC explores legal path for Hyperliquid in US, HYPE surges 41%",
-      "take": "CFTC explores legal path for Hyperliquid in US, HYPE surges 41%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-cftc-explores-legal-path-for-hyperliquid-in-us-hype-surges-41/"
+      "headline": "Bitcoin ETFs See Biggest Weekly Inflow in 10 Months During Rally",
+      "take": "Bitcoin ETFs see biggest weekly inflow in ten months",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/bitcoin-etfs-see-biggest-weekly-inflow-in-10-months-during-rally"
     },
     {
-      "headline": "Hyperliquid generates $6M in fees in a day, surpassing top five blockchains",
-      "take": "Hyperliquid generates $6M daily fees, surpassing top five blockchains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-generates-6m-in-fees-in-a-day-surpassing-top-five-blockchains/"
+      "headline": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+      "take": "Ether outperforming bitcoin with golden cross signaling continuation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet"
     },
     {
-      "headline": "Fidelity reports record 595,000 accounts worth over $1M as 401(k) millionaires surge 16%",
-      "take": "Fidelity reports record 595,000 accounts worth over $1M",
+      "headline": "Crypto Fear & Greed Index jumps to 73, signaling greed",
+      "take": "Crypto Fear and Greed Index jumps to 73 signaling greed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-record-401k-millionaire-accounts/"
+      "link": "https://cryptobriefing.com/crypto-fear-greed-index-surges/"
     },
     {
-      "headline": "30-year Treasury yield, highest in 19 years, signaling inflation concerns",
-      "take": "30-year Treasury yield highest in 19 years, signals inflation concerns",
+      "headline": "US dollar trades near multi-month lows amid debt concerns",
+      "take": "US dollar trades near multi-month lows amid debt concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/30-year-treasury-yield-highest-in-19-years-signaling-inflation-concerns/"
+      "link": "https://cryptobriefing.com/us-dollar-multi-month-lows-debt-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Pendle\u2019s USDC vault on Morpho pulls in $50M in under two weeks",
-      "take": "Pendle's USDC vault on Morpho pulls in $50M in two weeks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-usdc-vault-morpho-50m/"
+      "headline": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "take": "Stablecoin neobank Fasset reaches one billion valuation with SBI backing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push"
     },
     {
-      "headline": "World Liberty Financial receives preliminary approval for national bank trust charter",
-      "take": "World Liberty Financial receives preliminary approval for national bank trust charter",
+      "headline": "Pump.fun surpasses Hyperliquid in 7-day revenue as memecoin launchpad hits $10M weekly fees for first time",
+      "take": "Pump.fun surpasses Hyperliquid, memecoin launchpad hits ten million weekly fees",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financial-national-bank-trust-charter/"
+      "link": "https://cryptobriefing.com/pumpfun-surpasses-hyperliquid-7-day-revenue/"
     },
     {
-      "headline": "Phantom drops Sui support with September 24 deadline for user migration",
-      "take": "Phantom drops Sui support with September 24 deadline for migration",
+      "headline": "Banks and regulators join quantum-resistant crypto transfer pilot on NEAR testnet",
+      "take": "Banks and regulators pilot quantum-resistant crypto transfers on NEAR testnet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/phantom-drops-sui-support-september-migration/"
+      "link": "https://cryptobriefing.com/quantum-resistant-crypto-transfer-pilot/"
     },
     {
-      "headline": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-      "take": "Tether's $120M Uruguay bitcoin mining project collapsed over power dispute",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536"
+      "headline": "Xiaomi launches Xring O3 chip, partners with TSMC for 3nm production",
+      "take": "Xiaomi launches Xring O3 chip, partners with TSMC for three-nanometer production",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xiaomi-xring-o3-chip-tsmc-partnership/"
+    },
+    {
+      "headline": "Ethereum Foundation sponsors WPPT 2026 workshop in Hong Kong",
+      "take": "Ethereum Foundation sponsors WPPT 2026 workshop in Hong Kong",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-foundation-wppt-2026-hong-kong/"
     }
   ],
   "security": [
     {
-      "headline": "Term Finance loses estimated $8.5M in vault governance exploit",
-      "take": "Term Finance loses $8.5M to vault governance exploit",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Ledger fixes vulnerability in Ethereum app\u2019s signing flows",
-      "take": "Ledger fixes vulnerability in Ethereum app's signing flows",
+      "headline": "Term Finance loses $8.5M after attacker buys governance votes for just 2 ETH",
+      "take": "Term Finance loses eight point five million after attacker buys governance votes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/"
+      "link": "https://cryptobriefing.com/term-finance-governance-attack-8m-loss/"
     }
   ],
   "policy": [
     {
-      "headline": "World Liberty Financial\u2019s preliminary bank charter approval could complicate Senate efforts on Clarity Act",
-      "take": "World Liberty Financial bank charter approval complicates Senate Clarity Act efforts",
+      "headline": "Pakistan opens crypto licensing portal, firms must apply by September 5",
+      "take": "Pakistan opens crypto licensing portal requiring applications by September fifth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financials-preliminary-bank-charter-approval-could-complicate/"
+      "link": "https://cryptobriefing.com/pakistan-crypto-licensing-portal-september-deadline/"
     },
     {
-      "headline": "Treasury Department finalizes rule exempting US businesses from Corporate Transparency Act reporting",
-      "take": "Treasury Department finalizes rule exempting US businesses from transparency reporting",
+      "headline": "California billionaire wealth tax vote set for November 2026 ballot",
+      "take": "California wealth tax vote set for November twenty twenty-six ballot",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-exempts-us-businesses-corporate-transparency-act/"
+      "link": "https://cryptobriefing.com/california-billionaire-wealth-tax-vote-set-for-november-2026-ballot/"
+    },
+    {
+      "headline": "Taiwan concludes probe into illegal high-end server exports, indicts 9",
+      "take": "Taiwan concludes probe into illegal server exports, indicts nine people",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/taiwan-indicts-nine-illegal-server-exports/"
     }
   ]
 }

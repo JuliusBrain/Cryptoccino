@@ -1,95 +1,108 @@
 {
-  "generated": "2026-08-24T15:58:16.010746+00:00",
-  "ts": 1787587096,
+  "generated": "2026-08-24T19:02:57.056820+00:00",
+  "ts": 1787598177,
   "market": [
     {
-      "headline": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
-      "take": "Bitmine bought $81M in Ethereum as ETH outperforms Bitcoin",
+      "headline": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+      "take": "Hyperliquid token hits record high ahead of major unlock event",
       "source": "decrypt",
-      "link": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin"
+      "link": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock"
     },
     {
-      "headline": "IShares Bitcoin Trust call options volume hits record 1.58M contracts",
-      "take": "IShares Bitcoin Trust call options volume reaches record 1.58M contracts",
+      "headline": "CryptoQuant analyst reports $215B entered altcoins in three days",
+      "take": "$215 billion flowed into altcoins over three consecutive days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ibit-call-options-volume-record/"
+      "link": "https://cryptobriefing.com/cryptoquant-215b-altcoin-surge-altseason/"
     },
     {
-      "headline": "Treasury\u2019s $935B cash pile could flood markets with liquidity, and crypto is already celebrating",
-      "take": "Treasury's $935B cash pile could increase market liquidity significantly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-cash-pile-liquidity-crypto/"
+      "headline": "Crypto exchange volumes double in five days as market activity rebounds",
+      "take": "Crypto exchange volumes doubled in five days as activity rebounds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641"
     },
     {
-      "headline": "Solana DApps generate $35M in revenue, a 29-week high",
-      "take": "Solana DApps generated $35M revenue, hitting 29-week high",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-dapps-35m-revenue-29-week-high/"
+      "headline": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
+      "take": "Bitcoin and Ethereum ETFs gained $23B last week, mostly flows",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows"
     },
     {
-      "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-      "take": "Proposed Solana vote could increase daily SOL burns to $800K",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation"
+      "headline": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+      "take": "Zcash reaches eight-year high as futures bets nearly double",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets"
     }
   ],
   "business": [
     {
-      "headline": "Fasset achieves $1B valuation with SBI backing for payments expansion",
-      "take": "Fasset reaches $1B valuation with SBI backing for payments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fasset-1b-valuation-sbi-payments/"
+      "headline": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "take": "Coinbase launches tokenized stocks on Base blockchain network",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain"
     },
     {
-      "headline": "General Intuition raises funding at $6B valuation with backing from Valor and Point72",
-      "take": "General Intuition raises funding at $6B valuation from Valor, Point72",
+      "headline": "CME Group builds marketplace to hedge AI risks with GPU futures contracts",
+      "take": "CME Group builds marketplace to hedge artificial intelligence risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/general-intuition-6b-valuation-funding/"
+      "link": "https://cryptobriefing.com/cme-group-gpu-compute-futures-ai-risks/"
     },
     {
-      "headline": "Solana v1 transactions to launch on testnet, boosting max size 3.3x",
-      "take": "Solana v1 transactions launching on testnet, boosting max size 3.3x",
+      "headline": "Arcium launches Benchdot Markets, a private hiring platform on Solana",
+      "take": "Arcium launches private hiring platform Benchdot Markets on Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-v1-transactions-testnet-launch/"
+      "link": "https://cryptobriefing.com/arcium-benchdot-markets-private-hiring-solana/"
     },
     {
-      "headline": "Solflare integrates PhoenixTrade Perps, boosting Solana leveraged market access",
-      "take": "Solflare integrates PhoenixTrade Perps for Solana leveraged trading",
+      "headline": "EntropyIO relaunches Anthropic pre-IPO markets on Hyperliquid platform",
+      "take": "EntropyIO relaunches Anthropic pre-IPO markets on Hyperliquid",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solflare-integrates-phoenixtrade-perps-boosting-solana-leveraged-market-access/"
+      "link": "https://cryptobriefing.com/entropyio-relaunches-anthropic-pre-ipo-markets-on-hyperliquid-platform/"
     },
     {
-      "headline": "Morpho introduces Lend Callbacks to let limit orders earn variable yield while waiting to fill",
-      "take": "Morpho introduces Lend Callbacks for limit orders earning variable yield",
+      "headline": "Basecat token now available for trading on Coinbase platform",
+      "take": "Basecat token now available for trading on Coinbase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-lend-callbacks-variable-yield/"
+      "link": "https://cryptobriefing.com/basecat-token-coinbase-listing/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Alabama AG subpoenas OpenAI over AI model breach of Hugging Face",
+      "take": "Alabama AG subpoenas OpenAI over Hugging Face model breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alabama-ag-subpoenas-openai-hugging-face-breach/"
+    },
+    {
+      "headline": "Nvidia manager indicted in Taiwan for smuggling AI chips to China",
+      "take": "Nvidia manager indicted in Taiwan for smuggling chips to China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-manager-indicted-taiwan-china-chip-smuggling/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
-      "take": "Pakistan sets September 5 deadline for crypto firms to register",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register"
+      "headline": "Hyperliquid Policy Center urges SEC and CFTC to align perpetual rules",
+      "take": "Hyperliquid Policy Center urges SEC and CFTC to align rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-policy-center-urges-sec-and-cftc-to-align-perpetual-rules/"
     },
     {
-      "headline": "Stand With Crypto endorses 32 House candidates ahead of 2026 midterms",
-      "take": "Stand With Crypto endorses 32 House candidates for 2026 midterms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stand-with-crypto-endorses-32-house-candidates/"
+      "headline": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+      "take": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Australian government to legislate national standards for data centers\u2019 electricity and water use",
-      "take": "Australian government to legislate national standards for data center resources",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-data-center-energy-water-legislation/"
+      "headline": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "take": "Crypto political group details U.S. congressional allies for backing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year"
     },
     {
-      "headline": "US to expand sanctions, intensify economic pressure on Iran",
-      "take": "US expanding sanctions and intensifying economic pressure on Iran",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-to-expand-sanctions-intensify-economic-pressure-on-iran/"
+      "headline": "Stand With Crypto ramps up midterm push with 32 House endorsements",
+      "take": "Stand With Crypto pushes midterms with thirty-two House endorsements",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616"
     }
   ]
 }

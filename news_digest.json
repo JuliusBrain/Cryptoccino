@@ -1,56 +1,44 @@
 {
-  "generated": "2026-08-24T01:59:50.917274+00:00",
-  "ts": 1787536790,
+  "generated": "2026-08-24T04:09:12.311100+00:00",
+  "ts": 1787544552,
   "market": [
     {
       "headline": "Bitcoin rallies 23% amid US debt policy concerns",
-      "take": "Bitcoin rallies 23% amid concerns over US debt policy trajectory",
+      "take": "Bitcoin rallies 23% amid US debt policy concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-rallies-us-debt-crisis-concerns/"
     },
     {
-      "headline": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-      "take": "XRP gains most in 21 months on Treasury buyback and curve control hopes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes"
-    },
-    {
-      "headline": "30-year Treasury yield, highest in 19 years, signaling inflation concerns",
-      "take": "30-year Treasury yield hits 19-year high, signaling persistent inflation concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/30-year-treasury-yield-highest-in-19-years-signaling-inflation-concerns/"
-    },
-    {
-      "headline": "Fidelity reports record 595,000 accounts worth over $1M as 401(k) millionaires surge 16%",
-      "take": "Fidelity sees record 595,000 accounts worth over $1M, millionaire surge 16%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-record-401k-millionaire-accounts/"
-    },
-    {
-      "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "take": "Crypto card spending exceeds $1 billion as stablecoins enter mainstream commerce",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Hyperliquid generates $6M in fees in a day, surpassing top five blockchains",
-      "take": "Hyperliquid generates $6M daily fees, surpassing top five blockchains combined",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-generates-6m-in-fees-in-a-day-surpassing-top-five-blockchains/"
-    },
-    {
       "headline": "Trump: CFTC explores legal path for Hyperliquid in US, HYPE surges 41%",
-      "take": "CFTC explores legal path for Hyperliquid in US market, token surges 41%",
+      "take": "CFTC explores legal path for Hyperliquid in US, HYPE surges 41%",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-cftc-explores-legal-path-for-hyperliquid-in-us-hype-surges-41/"
     },
     {
-      "headline": "Phantom drops Sui support with September 24 deadline for user migration",
-      "take": "Phantom wallet drops Sui support, sets September 24 deadline for user migration",
+      "headline": "Hyperliquid generates $6M in fees in a day, surpassing top five blockchains",
+      "take": "Hyperliquid generates $6M daily fees, surpassing top five blockchains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/phantom-drops-sui-support-september-migration/"
+      "link": "https://cryptobriefing.com/hyperliquid-generates-6m-in-fees-in-a-day-surpassing-top-five-blockchains/"
+    },
+    {
+      "headline": "Fidelity reports record 595,000 accounts worth over $1M as 401(k) millionaires surge 16%",
+      "take": "Fidelity reports record 595,000 accounts worth over $1M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fidelity-record-401k-millionaire-accounts/"
+    },
+    {
+      "headline": "30-year Treasury yield, highest in 19 years, signaling inflation concerns",
+      "take": "30-year Treasury yield highest in 19 years, signals inflation concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/30-year-treasury-yield-highest-in-19-years-signaling-inflation-concerns/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Pendle\u2019s USDC vault on Morpho pulls in $50M in under two weeks",
+      "take": "Pendle's USDC vault on Morpho pulls in $50M in two weeks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pendle-usdc-vault-morpho-50m/"
     },
     {
       "headline": "World Liberty Financial receives preliminary approval for national bank trust charter",
@@ -59,44 +47,44 @@
       "link": "https://cryptobriefing.com/world-liberty-financial-national-bank-trust-charter/"
     },
     {
-      "headline": "OpenAI and Anthropic build out Washington lobbying machines to shape AI legislation",
-      "take": "OpenAI and Anthropic expand Washington lobbying efforts to shape AI legislation",
+      "headline": "Phantom drops Sui support with September 24 deadline for user migration",
+      "take": "Phantom drops Sui support with September 24 deadline for migration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-lobbying-ai-legislation/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
-      "take": "Term Finance DeFi protocol loses $8.5M to governance exploit vulnerability",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543"
+      "link": "https://cryptobriefing.com/phantom-drops-sui-support-september-migration/"
     },
     {
       "headline": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-      "take": "Tether's $120M Uruguay bitcoin mining project collapses over power contract dispute",
+      "take": "Tether's $120M Uruguay bitcoin mining project collapsed over power dispute",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536"
     }
   ],
+  "security": [
+    {
+      "headline": "Term Finance loses estimated $8.5M in vault governance exploit",
+      "take": "Term Finance loses $8.5M to vault governance exploit",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Ledger fixes vulnerability in Ethereum app\u2019s signing flows",
+      "take": "Ledger fixes vulnerability in Ethereum app's signing flows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/"
+    }
+  ],
   "policy": [
     {
+      "headline": "World Liberty Financial\u2019s preliminary bank charter approval could complicate Senate efforts on Clarity Act",
+      "take": "World Liberty Financial bank charter approval complicates Senate Clarity Act efforts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-liberty-financials-preliminary-bank-charter-approval-could-complicate/"
+    },
+    {
       "headline": "Treasury Department finalizes rule exempting US businesses from Corporate Transparency Act reporting",
-      "take": "Treasury finalizes Corporate Transparency Act exemption for US business reporting",
+      "take": "Treasury Department finalizes rule exempting US businesses from transparency reporting",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/treasury-exempts-us-businesses-corporate-transparency-act/"
-    },
-    {
-      "headline": "Palantir emerges as military contracting powerhouse under Trump",
-      "take": "Palantir emerges as dominant military contracting force under Trump administration",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/palantir-military-contracting-trump/"
-    },
-    {
-      "headline": "Canada sees little chance of resuming trade talks with US before midterms",
-      "take": "Canada sees minimal prospect of US trade talks before midterm elections conclude",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canada-us-trade-talks-midterms/"
     }
   ]
 }

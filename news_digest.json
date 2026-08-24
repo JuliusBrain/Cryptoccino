@@ -1,96 +1,95 @@
 {
-  "generated": "2026-08-24T13:16:36.525252+00:00",
-  "ts": 1787577396,
+  "generated": "2026-08-24T15:58:16.010746+00:00",
+  "ts": 1787587096,
   "market": [
     {
-      "headline": "Bitcoin reclaims $79,000 amid renewed market focus",
-      "take": "Bitcoin reclaims $79,000 amid renewed market focus",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-reclaims-79000-short-squeeze/"
+      "headline": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
+      "take": "Bitmine bought $81M in Ethereum as ETH outperforms Bitcoin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin"
     },
     {
-      "headline": "Bitcoin\u2019s market cap rises $416B in 9 weeks as Treasury policy shift fuels historic rally",
-      "take": "Bitcoin's market cap rises $416B in 9 weeks on policy shift",
+      "headline": "IShares Bitcoin Trust call options volume hits record 1.58M contracts",
+      "take": "IShares Bitcoin Trust call options volume reaches record 1.58M contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-market-cap-rises-416b-nine-weeks/"
+      "link": "https://cryptobriefing.com/ibit-call-options-volume-record/"
     },
     {
-      "headline": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-      "take": "Tom Lee's Bitmine buys $81 million ETH in largest weekly haul",
+      "headline": "Treasury\u2019s $935B cash pile could flood markets with liquidity, and crypto is already celebrating",
+      "take": "Treasury's $935B cash pile could increase market liquidity significantly",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/treasury-cash-pile-liquidity-crypto/"
+    },
+    {
+      "headline": "Solana DApps generate $35M in revenue, a 29-week high",
+      "take": "Solana DApps generated $35M revenue, hitting 29-week high",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-dapps-35m-revenue-29-week-high/"
+    },
+    {
+      "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "take": "Proposed Solana vote could increase daily SOL burns to $800K",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july"
-    },
-    {
-      "headline": "Strive buys additional 1,110 Bitcoin, increasing total holdings to 21,356 BTC",
-      "take": "Strive buys 1,110 additional Bitcoin, total holdings reach 21,356",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-buys-1110-bitcoin-21356-btc-total/"
-    },
-    {
-      "headline": "Kashkari signals possible rate hike if inflation persists",
-      "take": "Kashkari signals possible rate hike if inflation persists",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kashkari-signals-possible-rate-hike-if-inflation-persists/"
+      "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation"
     }
   ],
   "business": [
     {
-      "headline": "NUVA uses Chainlink for data infrastructure in DeFi",
-      "take": "NUVA uses Chainlink for data infrastructure in DeFi",
+      "headline": "Fasset achieves $1B valuation with SBI backing for payments expansion",
+      "take": "Fasset reaches $1B valuation with SBI backing for payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nuva-chainlink-defi-housing-rwa-tokenization/"
+      "link": "https://cryptobriefing.com/fasset-1b-valuation-sbi-payments/"
     },
     {
-      "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-      "take": "New Solana vote could ramp daily SOL burns to $800,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation"
-    },
-    {
-      "headline": "$12M in stock tokens deposited into DeFi on Robinhood Chain",
-      "take": "$12M in stock tokens deposited into DeFi on Robinhood Chain",
+      "headline": "General Intuition raises funding at $6B valuation with backing from Valor and Point72",
+      "take": "General Intuition raises funding at $6B valuation from Valor, Point72",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-stock-tokens-defi-deposits/"
+      "link": "https://cryptobriefing.com/general-intuition-6b-valuation-funding/"
     },
     {
-      "headline": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-      "take": "Standard Chartered becomes first bank to distribute HK dollar stablecoin",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin"
-    },
-    {
-      "headline": "Tokenized commodities market cap rises $298M as overall RWA sector sheds $211M in a week",
-      "take": "Tokenized commodities market cap rises $298M as RWA sector sheds $211M",
+      "headline": "Solana v1 transactions to launch on testnet, boosting max size 3.3x",
+      "take": "Solana v1 transactions launching on testnet, boosting max size 3.3x",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-commodities-rwa-market-cap-weekly/"
+      "link": "https://cryptobriefing.com/solana-v1-transactions-testnet-launch/"
+    },
+    {
+      "headline": "Solflare integrates PhoenixTrade Perps, boosting Solana leveraged market access",
+      "take": "Solflare integrates PhoenixTrade Perps for Solana leveraged trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solflare-integrates-phoenixtrade-perps-boosting-solana-leveraged-market-access/"
+    },
+    {
+      "headline": "Morpho introduces Lend Callbacks to let limit orders earn variable yield while waiting to fill",
+      "take": "Morpho introduces Lend Callbacks for limit orders earning variable yield",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morpho-lend-callbacks-variable-yield/"
     }
   ],
-  "security": [
-    {
-      "headline": "Tether freezes $93K USDT linked to M1llionz cybercrime case",
-      "take": "Tether freezes $93K USDT linked to M1llionz cybercrime case",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-freezes-usdt-m1llionz-cybercrime/"
-    },
-    {
-      "headline": "AI agents initiate 3.3M USDC transfers over x402 on Solana in a single week",
-      "take": "AI agents initiate 3.3M USDC transfers over x402 on Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-agents-x402-usdc-solana-transfers/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Senate to vote on Digital Asset Market Clarity Act on September 15",
-      "take": "Senate to vote on Digital Asset Market Clarity Act September 15",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-to-vote-on-digital-asset-market-clarity-act-on-september-15/"
+      "headline": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
+      "take": "Pakistan sets September 5 deadline for crypto firms to register",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register"
     },
     {
-      "headline": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-      "take": "Pakistan kicks off crypto licensing regime with Sept. 5 deadline",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline"
+      "headline": "Stand With Crypto endorses 32 House candidates ahead of 2026 midterms",
+      "take": "Stand With Crypto endorses 32 House candidates for 2026 midterms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stand-with-crypto-endorses-32-house-candidates/"
+    },
+    {
+      "headline": "Australian government to legislate national standards for data centers\u2019 electricity and water use",
+      "take": "Australian government to legislate national standards for data center resources",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-data-center-energy-water-legislation/"
+    },
+    {
+      "headline": "US to expand sanctions, intensify economic pressure on Iran",
+      "take": "US expanding sanctions and intensifying economic pressure on Iran",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-to-expand-sanctions-intensify-economic-pressure-on-iran/"
     }
   ]
 }

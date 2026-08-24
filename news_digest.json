@@ -1,108 +1,102 @@
 {
-  "generated": "2026-08-24T19:02:57.056820+00:00",
-  "ts": 1787598177,
+  "generated": "2026-08-24T21:46:52.175570+00:00",
+  "ts": 1787608012,
   "market": [
     {
-      "headline": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-      "take": "Hyperliquid token hits record high ahead of major unlock event",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock"
+      "headline": "Bitcoin outperforms stocks and gold, approaches $80,000",
+      "take": "Bitcoin approaches $80,000, outperforming stocks and gold",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-outperforms-stocks-gold-80k/"
     },
     {
-      "headline": "CryptoQuant analyst reports $215B entered altcoins in three days",
-      "take": "$215 billion flowed into altcoins over three consecutive days",
+      "headline": "Crypto liquidations reach $439M in 24 hours as longs and shorts get wiped in equal measure",
+      "take": "Crypto liquidations reach $439M as longs and shorts wiped equally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptoquant-215b-altcoin-surge-altseason/"
+      "link": "https://cryptobriefing.com/crypto-liquidations-439m-longs-shorts-split/"
     },
     {
       "headline": "Crypto exchange volumes double in five days as market activity rebounds",
-      "take": "Crypto exchange volumes doubled in five days as activity rebounds",
+      "take": "Crypto exchange volumes double in five days amid market rebound",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641"
     },
     {
-      "headline": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
-      "take": "Bitcoin and Ethereum ETFs gained $23B last week, mostly flows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows"
+      "headline": "Crypto options imply significant price moves for XRP, SOL, ETH, BTC through August 30",
+      "take": "Options markets imply significant price moves for major altcoins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-options-implied-moves-xrp-sol-eth-btc-august/"
     },
     {
-      "headline": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
-      "take": "Zcash reaches eight-year high as futures bets nearly double",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets"
+      "headline": "Zcash mining generates $727 per megawatt-hour, surpassing Bitcoin by more than fourfold",
+      "take": "Zcash mining yields $727 per megawatt-hour, quadrupling Bitcoin's rate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zcash-mining-revenue-surpasses-bitcoin/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-      "take": "Coinbase launches tokenized stocks on Base blockchain network",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain"
+      "headline": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+      "take": "Strive acquires $81.5M Bitcoin after issuing additional shares",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares"
     },
     {
-      "headline": "CME Group builds marketplace to hedge AI risks with GPU futures contracts",
-      "take": "CME Group builds marketplace to hedge artificial intelligence risks",
+      "headline": "Ankr joins sBTC signer set to enhance Bitcoin security on Stacks",
+      "take": "Ankr joins sBTC signer set to enhance Bitcoin security on Stacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-group-gpu-compute-futures-ai-risks/"
+      "link": "https://cryptobriefing.com/ankr-joins-sbtc-signer-set-stacks/"
     },
     {
-      "headline": "Arcium launches Benchdot Markets, a private hiring platform on Solana",
-      "take": "Arcium launches private hiring platform Benchdot Markets on Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arcium-benchdot-markets-private-hiring-solana/"
+      "headline": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+      "take": "Coinbase brings tokenized stocks to Ethereum Layer 2 Base",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum"
     },
     {
-      "headline": "EntropyIO relaunches Anthropic pre-IPO markets on Hyperliquid platform",
-      "take": "EntropyIO relaunches Anthropic pre-IPO markets on Hyperliquid",
+      "headline": "Solana simulation evaluates SGP-03 fee impact on major apps and routers",
+      "take": "Solana simulation evaluates SGP-03 fee impact on applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/entropyio-relaunches-anthropic-pre-ipo-markets-on-hyperliquid-platform/"
-    },
-    {
-      "headline": "Basecat token now available for trading on Coinbase platform",
-      "take": "Basecat token now available for trading on Coinbase",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/basecat-token-coinbase-listing/"
+      "link": "https://cryptobriefing.com/solana-sgp-03-fee-simulation-impact/"
     }
   ],
   "security": [
     {
-      "headline": "Alabama AG subpoenas OpenAI over AI model breach of Hugging Face",
-      "take": "Alabama AG subpoenas OpenAI over Hugging Face model breach",
+      "headline": "Banking consortium tests MPC with lattice-based cryptography on NEAR Protocol\u2019s quantum-resistant testnet",
+      "take": "Banking consortium tests quantum-resistant MPC on NEAR Protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alabama-ag-subpoenas-openai-hugging-face-breach/"
+      "link": "https://cryptobriefing.com/near-protocol-quantum-resistant-mpc-consortium/"
     },
     {
-      "headline": "Nvidia manager indicted in Taiwan for smuggling AI chips to China",
-      "take": "Nvidia manager indicted in Taiwan for smuggling chips to China",
+      "headline": "Ledger CTO breaks down NIST\u2019s post-quantum signatures and what they mean for Bitcoin and Ethereum",
+      "take": "Ledger CTO discusses NIST post-quantum signatures for Bitcoin, Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-manager-indicted-taiwan-china-chip-smuggling/"
+      "link": "https://cryptobriefing.com/ledger-cto-nist-post-quantum-signatures-blockchain/"
     }
   ],
   "policy": [
     {
-      "headline": "Hyperliquid Policy Center urges SEC and CFTC to align perpetual rules",
-      "take": "Hyperliquid Policy Center urges SEC and CFTC to align rules",
+      "headline": "Crypto Clarity Act advances, awaits full Senate vote and Trump\u2019s signature",
+      "take": "Crypto Clarity Act advances, awaits full Senate vote and signature",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-policy-center-urges-sec-and-cftc-to-align-perpetual-rules/"
+      "link": "https://cryptobriefing.com/crypto-clarity-act-advances-awaits-full-senate-vote-and-trumps-signature/"
     },
     {
-      "headline": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-      "take": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Crypto political group details list of U.S. congressional allies its backing this year",
-      "take": "Crypto political group details U.S. congressional allies for backing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year"
-    },
-    {
-      "headline": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-      "take": "Stand With Crypto pushes midterms with thirty-two House endorsements",
+      "headline": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of \u2018economic D-Day\u2019",
+      "take": "US escalates Iran pressure with sanctions on crypto, aviation, shipping",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616"
+      "link": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648"
+    },
+    {
+      "headline": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+      "take": "CFTC and US soldier dispute prediction market interpretation for Polymarket",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Blockchain Association urges tailored KYC rules for stablecoin issuers",
+      "take": "Blockchain Association urges tailored KYC rules for stablecoin issuers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockchain-association-stablecoin-kyc-rules/"
     }
   ]
 }

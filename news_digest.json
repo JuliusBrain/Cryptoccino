@@ -1,102 +1,114 @@
 {
-  "generated": "2026-08-25T13:14:33.788287+00:00",
-  "ts": 1787663673,
+  "generated": "2026-08-25T16:03:06.068461+00:00",
+  "ts": 1787673786,
   "market": [
     {
-      "headline": "Bitcoin\u2019s Wall Street Migration Gets Cheaper, Easier, Bigger",
-      "take": "Bitcoin institutional adoption accelerates with lower fees and easier access",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger"
-    },
-    {
-      "headline": "Strive hits $1.77B market cap as Bitcoin treasury strategy pushes shares to $19.73",
-      "take": "Strive's Bitcoin treasury strategy pushes market cap to $1.77 billion",
+      "headline": "Bitcoin breaks out of six-week range as $1.4B in shorts liquidated following Treasury buyback expansion",
+      "take": "Bitcoin breaks six-week range as $1.4B shorts liquidated post-Treasury buyback",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-bitcoin-treasury-market-cap/"
+      "link": "https://cryptobriefing.com/bitcoin-breakout-shorts-liquidated-treasury-buyback/"
     },
     {
-      "headline": "Grayscale launches first US Zcash ETF as ZEC surges 70% in a month",
-      "take": "Grayscale launches first US Zcash ETF as token surges seventy percent",
+      "headline": "Solana perpetual futures platforms surpass $1 trillion in cumulative volume",
+      "take": "Solana perpetual futures platforms exceed $1 trillion cumulative volume milestone",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-zcash-etf-nyse-arca/"
+      "link": "https://cryptobriefing.com/solana-perpetual-futures-trillion-volume/"
     },
     {
-      "headline": "SUI ETFs hit 12 consecutive weeks of positive inflows, accumulating $9.3 million in shares",
-      "take": "SUI ETFs show sustained demand with twelve weeks of positive inflows",
+      "headline": "Bitcoin slips from $80K as gold retreats with falling US bond yields",
+      "take": "Bitcoin slips from $80K as gold retreats with falling US bond yields",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sui-etf-12-weeks-positive-inflows/"
+      "link": "https://cryptobriefing.com/bitcoin-slips-80k-gold-retreats-bond-yields/"
     },
     {
-      "headline": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-      "take": "Three percent token move triggers thirty-six million in Ethereum liquidations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations"
+      "headline": "Capital.com reports surge in UAE trading activity following Trump announcements",
+      "take": "Capital.com reports surge in UAE trading activity following Trump announcements",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/capital-com-uae-trading-surge-trump-announcements/"
+    },
+    {
+      "headline": "US consumer confidence hits seven-month low on weaker outlook",
+      "take": "US consumer confidence hits seven-month low on weaker economic outlook",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-consumer-confidence-falls-august-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Keenable exits stealth mode with $26M seed round to build search infrastructure for AI agents",
-      "take": "Keenable exits stealth with twenty-six million seed for AI agent infrastructure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/keenable-26m-seed-ai-search-index/"
+      "headline": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+      "take": "Bitwise launches automated AI, robotics, tech portfolios from tokenized stocks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios"
     },
     {
-      "headline": "Gemini activates native XRP Ledger transfers for Singapore users",
-      "take": "Gemini activates native XRP Ledger transfers for Singapore users",
+      "headline": "Canton Network supports native issuance of USD1 stablecoin",
+      "take": "Canton Network supports native issuance of USD1 stablecoin for settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-xrp-ledger-transfers-singapore/"
+      "link": "https://cryptobriefing.com/canton-network-usd1-stablecoin-issuance/"
     },
     {
-      "headline": "Payouts.com partners with Casper to enable AI agent transactions",
-      "take": "Payouts.com partners Casper to enable AI agent powered transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/payouts-com-partners-with-casper-to-enable-ai-agent-transactions/"
+      "headline": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
+      "take": "Robinhood Chain DEX Arcus launches pTokens for transferable perp accounts",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696"
     },
     {
-      "headline": "Bitwise Rides Tokenization Rush With Automated Stock Portfolios",
-      "take": "Bitwise launches automated stock portfolio tokenization amid institutional demand",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-25/bitwise-rides-tokenization-rush-with-automated-stock-portfolios"
+      "headline": "Grayscale to use ZCSH management fees to support Zcash initiatives",
+      "take": "Grayscale to use ZCSH management fees supporting Zcash protocol initiatives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grayscale-zcash-etf-fee-awareness/"
     },
     {
-      "headline": "Shipyard winds down IPFS work as Protocol Labs ends funding",
-      "take": "Shipyard winds down IPFS work as Protocol Labs ends funding support",
+      "headline": "Perplexity launches Portable Computer for Pro and Max subscribers on NVIDIA DGX Spark",
+      "take": "Perplexity launches Portable Computer for Pro, Max subscribers on NVIDIA infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/shipyard-ipfs-protocol-labs-funding-ends/"
+      "link": "https://cryptobriefing.com/perplexity-portable-computer-nvidia-dgx-spark/"
     }
   ],
   "security": [
     {
-      "headline": "Chainalysis traces massive child exploitation network with Binance cooperation, Coinbase ties limited",
-      "take": "Chainalysis traces massive child exploitation network with Binance cooperation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-csam-investigation-binance-coinbase/"
+      "headline": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
+      "take": "Dozens of fake Firefox Wallet extensions linked to crypto-stealing malware",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware"
+    },
+    {
+      "headline": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
+      "take": "Crypto fund founder convicted of fraud over fabricated trading bot scheme",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot"
+    },
+    {
+      "headline": "Operation Lighthouse: Chainalysis\u2019s CSAM-Disruption Sprint IDs Suspects in 125 Countries",
+      "take": "Chainalysis Operation Lighthouse identifies child exploitation suspects in 125 countries",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/operation-lighthouse-august-2026/"
     }
   ],
   "policy": [
     {
       "headline": "OFAC Targets Ministry of Intelligence, Crypto-for-Oil Payments in Latest Iran Sanctions",
-      "take": "OFAC targets Iran Ministry of Intelligence and crypto-for-oil payment schemes",
+      "take": "OFAC targets Iran intelligence ministry, crypto-for-oil payments in new sanctions",
       "source": "chainalysis",
       "link": "https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/"
     },
     {
+      "headline": "China warns US of retaliation over expanded Iran sanctions",
+      "take": "China warns US of retaliation over expanded Iran sanctions measures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-warns-us-of-retaliation-over-expanded-iran-sanctions/"
+    },
+    {
+      "headline": "BitGo CEO warns US regulators may act independently if Clarity Act fails",
+      "take": "BitGo CEO warns US regulators may act independently if Clarity Act fails",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitgo-ceo-warns-us-regulators-may-act-independently-if-clarity-act-fails/"
+    },
+    {
       "headline": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-      "take": "MiCA regulations transformed European crypto landscape, disadvantaged Polish market",
+      "take": "MiCA revolutionized European crypto regulation, left Poland with competitive wounds",
       "source": "coindesk",
       "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds"
-    },
-    {
-      "headline": "Kalshi asks SEC to pump the brakes on Cboe\u2019s push into prediction markets",
-      "take": "Kalshi seeks SEC intervention on Cboe's expansion into prediction markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-cboe-prediction-market-regulatory-delay/"
-    },
-    {
-      "headline": "US sanctions on Iran may strain Iraq\u2019s economy, impact oil markets",
-      "take": "US Iran sanctions may strain Iraq economy and impact global oil",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-sanctions-on-iran-may-strain-iraqs-economy-impact-oil-markets/"
     }
   ]
 }

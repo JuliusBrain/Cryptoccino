@@ -1,102 +1,108 @@
 {
-  "generated": "2026-08-24T21:46:52.175570+00:00",
-  "ts": 1787608012,
+  "generated": "2026-08-25T01:55:01.659820+00:00",
+  "ts": 1787622901,
   "market": [
     {
-      "headline": "Bitcoin outperforms stocks and gold, approaches $80,000",
-      "take": "Bitcoin approaches $80,000, outperforming stocks and gold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-outperforms-stocks-gold-80k/"
+      "headline": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+      "take": "Bitcoin nears eighty thousand dollars; pullback timing seen as key test",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key"
     },
     {
-      "headline": "Crypto liquidations reach $439M in 24 hours as longs and shorts get wiped in equal measure",
-      "take": "Crypto liquidations reach $439M as longs and shorts wiped equally",
+      "headline": "Bitwise\u2019s Solana ETF nears $1 billion in inflows",
+      "take": "Bitwise's Solana ETF approaches one billion dollars in inflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-liquidations-439m-longs-shorts-split/"
+      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-billion-inflows/"
+    },
+    {
+      "headline": "Gold prices hit $4,695 as dollar weakness and Treasury buybacks fuel late-summer rally",
+      "take": "Gold hits forty-six ninety-five amid dollar weakness and buyback support",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-prices-hit-4695-treasury-buybacks-rally/"
+    },
+    {
+      "headline": "Net taker volume surges to $3B as buying outpaces selling for the first time",
+      "take": "Net taker volume surges to three billion; buying outpaces selling first time",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/net-taker-volume-surges-3-billion-buying-outpaces-selling/"
     },
     {
       "headline": "Crypto exchange volumes double in five days as market activity rebounds",
-      "take": "Crypto exchange volumes double in five days amid market rebound",
+      "take": "Crypto exchange volumes doubled in five days as market activity rebounded",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641"
-    },
-    {
-      "headline": "Crypto options imply significant price moves for XRP, SOL, ETH, BTC through August 30",
-      "take": "Options markets imply significant price moves for major altcoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-options-implied-moves-xrp-sol-eth-btc-august/"
-    },
-    {
-      "headline": "Zcash mining generates $727 per megawatt-hour, surpassing Bitcoin by more than fourfold",
-      "take": "Zcash mining yields $727 per megawatt-hour, quadrupling Bitcoin's rate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-mining-revenue-surpasses-bitcoin/"
     }
   ],
   "business": [
     {
-      "headline": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-      "take": "Strive acquires $81.5M Bitcoin after issuing additional shares",
+      "headline": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "take": "Hugging Face explores thirteen billion dollar sale after recent security breach",
       "source": "decrypt",
-      "link": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares"
+      "link": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack"
     },
     {
-      "headline": "Ankr joins sBTC signer set to enhance Bitcoin security on Stacks",
-      "take": "Ankr joins sBTC signer set to enhance Bitcoin security on Stacks",
+      "headline": "Lambda in talks to raise $3 billion at up to $12 billion valuation",
+      "take": "Lambda in talks to raise three billion at twelve billion valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ankr-joins-sbtc-signer-set-stacks/"
+      "link": "https://cryptobriefing.com/lambda-3b-raise-public-listing/"
     },
     {
       "headline": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-      "take": "Coinbase brings tokenized stocks to Ethereum Layer 2 Base",
+      "take": "Coinbase brings tokenized stocks to Ethereum Layer Two network Base",
       "source": "decrypt",
       "link": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum"
     },
     {
-      "headline": "Solana simulation evaluates SGP-03 fee impact on major apps and routers",
-      "take": "Solana simulation evaluates SGP-03 fee impact on applications",
+      "headline": "Meta plans to launch Hatch AI agent platform in coming weeks",
+      "take": "Meta plans to launch Hatch AI agent platform in coming weeks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-sgp-03-fee-simulation-impact/"
+      "link": "https://cryptobriefing.com/meta-hatch-ai-agent-premium-pricing/"
+    },
+    {
+      "headline": "Uniswap and PancakeSwap account for 96% of $678M DEX volume in tokenized commodities",
+      "take": "Uniswap and PancakeSwap account for ninety-six percent of DEX commodity volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-pancakeswap-tokenized-commodities-dex-volume/"
     }
   ],
   "security": [
     {
-      "headline": "Banking consortium tests MPC with lattice-based cryptography on NEAR Protocol\u2019s quantum-resistant testnet",
-      "take": "Banking consortium tests quantum-resistant MPC on NEAR Protocol",
+      "headline": "Cosmos Labs urges Cosmos EVM validators to halt chains amid security incident",
+      "take": "Cosmos Labs urges validators to halt chains over security incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-protocol-quantum-resistant-mpc-consortium/"
+      "link": "https://cryptobriefing.com/cosmos-labs-evm-module-security-incident/"
     },
     {
-      "headline": "Ledger CTO breaks down NIST\u2019s post-quantum signatures and what they mean for Bitcoin and Ethereum",
-      "take": "Ledger CTO discusses NIST post-quantum signatures for Bitcoin, Ethereum",
+      "headline": "Jury convicts Block Bits Capital co-founder of wire fraud",
+      "take": "Block Bits Capital co-founder convicted of wire fraud by jury",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-cto-nist-post-quantum-signatures-blockchain/"
+      "link": "https://cryptobriefing.com/dillman-convicted-wire-fraud-crypto-fund/"
+    },
+    {
+      "headline": "Kylie Jenner\u2019s X account posts and deletes compromised Solana token address",
+      "take": "Kylie Jenner's X account compromised; posts then deletes Solana token address",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kylie-jenner-compromised-solana-token/"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto Clarity Act advances, awaits full Senate vote and Trump\u2019s signature",
-      "take": "Crypto Clarity Act advances, awaits full Senate vote and signature",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-clarity-act-advances-awaits-full-senate-vote-and-trumps-signature/"
-    },
-    {
       "headline": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of \u2018economic D-Day\u2019",
-      "take": "US escalates Iran pressure with sanctions on crypto, aviation, shipping",
+      "take": "US escalates Iran pressure with sanctions on crypto, aviation, gold, shipping",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648"
     },
     {
       "headline": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
-      "take": "CFTC and US soldier dispute prediction market interpretation for Polymarket",
+      "take": "CFTC and US soldier dispute interpretation of prediction market regulations",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Blockchain Association urges tailored KYC rules for stablecoin issuers",
-      "take": "Blockchain Association urges tailored KYC rules for stablecoin issuers",
+      "headline": "Washington targets hawala networks used to move cash off the grid",
+      "take": "Washington targets hawala networks used to move cash off grid",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-association-stablecoin-kyc-rules/"
+      "link": "https://cryptobriefing.com/washington-sanctions-hawala-informal-banking/"
     }
   ]
 }

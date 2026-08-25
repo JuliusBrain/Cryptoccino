@@ -1,96 +1,89 @@
 {
-  "generated": "2026-08-25T19:00:53.306521+00:00",
-  "ts": 1787684453,
+  "generated": "2026-08-25T21:46:38.073799+00:00",
+  "ts": 1787694398,
   "market": [
     {
-      "headline": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
-      "take": "Gold hits three-month high as Bitcoin tests eighty thousand dollars",
+      "headline": "Crypto Fear and Greed Index hits extreme greed for the first time since late 2024",
+      "take": "Crypto Fear and Greed Index reaches extreme greed for first time since late 2024",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-fear-greed-index-extreme-greed-2026/"
+    },
+    {
+      "headline": "Bitcoin\u2019s Best Days Expose Punishing Cost of Missing Rebounds",
+      "take": "Bitcoin's best rallies expose steep cost of missing even brief rebounds",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/bitcoin-s-best-days-expose-punishing-cost-of-missing-rebounds"
+    },
+    {
+      "headline": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+      "take": "Bitcoin open interest collapses to 12%, signaling potential end of short squeeze",
       "source": "decrypt",
-      "link": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin"
+      "link": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze"
     },
     {
-      "headline": "Gold and Bitcoin ETFs muscle back into the top 10 most traded",
-      "take": "Gold and Bitcoin ETFs muscle back into top ten most traded",
+      "headline": "Scott Bessent\u2019s bond buyback plan rattles Treasury markets as long-term yields hit 20-year highs",
+      "take": "Treasury bond buyback plan pushes long-term yields to 20-year highs, rattles markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-bitcoin-etf-top-10-most-traded/"
+      "link": "https://cryptobriefing.com/bessent-bond-buyback-plan-treasury-yields/"
     },
     {
-      "headline": "Treasury bill ETFs attract $51B in inflows as investors shift away from long-term bonds",
-      "take": "Treasury bill ETFs attract fifty-one billion inflows as investors shift away",
+      "headline": "ETF strategy gains traction as Wall Street firms bet on tax benefits",
+      "take": "ETF strategy gains traction among Wall Street firms seeking tax benefits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-bill-etfs-51b-inflows/"
-    },
-    {
-      "headline": "Paradex reports ETH 1-week implied volatility doubles to 67%, boosting September call strategies",
-      "take": "Ethereum one-week implied volatility doubles to sixty-seven percent",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paradex-eth-implied-volatility-doubles-september-calls/"
-    },
-    {
-      "headline": "Solana surpasses Base in daily x402 transactions for the first time in six months",
-      "take": "Solana surpasses Base in daily transactions for first time in six months",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-surpasses-base-x402-transactions/"
+      "link": "https://cryptobriefing.com/etf-tax-strategy-treasury-scrutiny/"
     }
   ],
   "business": [
     {
-      "headline": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-      "take": "LayerZero unveils ATLAS trading infrastructure for crypto and tokenized markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges"
-    },
-    {
-      "headline": "Galaxy launches crypto-backed credit line letting investors borrow against BTC, ETH and SOL without selling",
-      "take": "Galaxy launches crypto-backed credit line for BTC, ETH and SOL borrowing",
+      "headline": "POSCO tokenizes trade receivables on Avalanche blockchain in pilot with Standard Chartered-backed Olea",
+      "take": "POSCO tokenizes trade receivables on Avalanche blockchain with Standard Chartered partner",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-crypto-backed-credit-line-galaxyone/"
+      "link": "https://cryptobriefing.com/posco-tokenizes-trade-receivables-avalanche/"
     },
     {
-      "headline": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
-      "take": "Bitwise launches automated tokenized stock portfolios for tech and AI themes",
+      "headline": "Strive raises funds to acquire 210 Bitcoin as treasury exceeds 21,000 BTC",
+      "take": "Strive raises funds to acquire 210 Bitcoin, treasury now exceeds 21,000 BTC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-raises-funds-210-bitcoin-sata/"
+    },
+    {
+      "headline": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
+      "take": "LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706"
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736"
     },
     {
-      "headline": "Mantle opens $200 million Vault product to DeFi users",
-      "take": "Mantle opens two-hundred million dollar Vault product to DeFi users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mantle-vault-onchain-stablecoin-yield/"
+      "headline": "Zerohash back for second effort at OCC trust bank charter",
+      "take": "Zerohash pursues second attempt at obtaining OCC trust bank charter",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
     },
     {
-      "headline": "RLUSD market cap surpasses $2B with nearly $1B issued on XRP Ledger",
-      "take": "RLUSD market cap surpasses two billion with one billion on XRP Ledger",
+      "headline": "OpenAI\u2019s head of data centers Chris Malone departs company",
+      "take": "OpenAI's head of data centers Chris Malone departs company",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rlusd-market-cap-2-billion-xrp-ledger/"
+      "link": "https://cryptobriefing.com/openai-chris-malone-data-centers-departure/"
     }
   ],
-  "security": [
-    {
-      "headline": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
-      "take": "Crypto fund founder convicted of fraud over fake trading bot scheme",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
-      "take": "Crypto group warns regulators against expanding stablecoin KYC requirements",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks"
+      "headline": "Trump expands Iran sanctions targeting tech, aviation, digital assets",
+      "take": "Trump expands Iran sanctions targeting technology, aviation, and digital assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-expands-iran-sanctions-targeting-tech-aviation-digital-assets/"
     },
     {
-      "headline": "Japan plans blockchain-based real-time stock and bond settlements by 2030s",
-      "take": "Japan plans blockchain-based real-time stock and bond settlements by 2030s",
+      "headline": "US Treasury doubles bond buybacks as national debt crosses $40 trillion for the first time",
+      "take": "US Treasury doubles bond buybacks as national debt crosses forty trillion dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-blockchain-stock-bond-settlements-2030/"
+      "link": "https://cryptobriefing.com/us-treasury-40-trillion-debt-bond-buybacks/"
     },
     {
-      "headline": "Canada to impose tariffs on more than 700 US-made products",
-      "take": "Canada to impose tariffs on more than seven hundred US-made products",
+      "headline": "Warsh faces test of Fed communication style at Jackson Hole",
+      "take": "Warsh faces test of Federal Reserve communication style at Jackson Hole",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canada-counter-tariffs-us-products-trade/"
+      "link": "https://cryptobriefing.com/fed-chairman-warsh-jackson-hole-speech/"
     }
   ]
 }

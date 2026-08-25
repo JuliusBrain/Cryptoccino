@@ -1,102 +1,102 @@
 {
-  "generated": "2026-08-25T09:53:45.694052+00:00",
-  "ts": 1787651625,
+  "generated": "2026-08-25T13:14:33.788287+00:00",
+  "ts": 1787663673,
   "market": [
     {
-      "headline": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
-      "take": "Bitcoin ETFs see sixth consecutive day of inflows, price holds above eighty thousand",
+      "headline": "Bitcoin\u2019s Wall Street Migration Gets Cheaper, Easier, Bigger",
+      "take": "Bitcoin institutional adoption accelerates with lower fees and easier access",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger"
+    },
+    {
+      "headline": "Strive hits $1.77B market cap as Bitcoin treasury strategy pushes shares to $19.73",
+      "take": "Strive's Bitcoin treasury strategy pushes market cap to $1.77 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-bitcoin-treasury-market-cap/"
+    },
+    {
+      "headline": "Grayscale launches first US Zcash ETF as ZEC surges 70% in a month",
+      "take": "Grayscale launches first US Zcash ETF as token surges seventy percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grayscale-zcash-etf-nyse-arca/"
+    },
+    {
+      "headline": "SUI ETFs hit 12 consecutive weeks of positive inflows, accumulating $9.3 million in shares",
+      "take": "SUI ETFs show sustained demand with twelve weeks of positive inflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sui-etf-12-weeks-positive-inflows/"
+    },
+    {
+      "headline": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+      "take": "Three percent token move triggers thirty-six million in Ethereum liquidations",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000"
-    },
-    {
-      "headline": "Spot Solana ETFs see $34M inflow, highest since Dec 2025",
-      "take": "Spot Solana ETFs attract thirty-four million dollars, highest inflow since December",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-solana-etfs-see-34m-inflow-highest-since-dec-2025/"
-    },
-    {
-      "headline": "Solana DEX volumes surpass major CEXs for 9th week, second only to Binance",
-      "take": "Solana DEX volumes surpass major centralized exchanges for ninth consecutive week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-dex-volumes-surpass-major-cexs-for-9th-week-second-only-to-binance/"
-    },
-    {
-      "headline": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-      "take": "Dog and cat memecoins rally sharply as smaller tokens double in one week",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week"
-    },
-    {
-      "headline": "South Korea\u2019s leveraged ETFs tied to chipmakers see $1B in outflows as regulatory hammer drops",
-      "take": "South Korea's leveraged chipmaker ETFs see one billion dollar outflows after regulation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-leveraged-etf-chipmaker-outflows/"
+      "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations"
     }
   ],
   "business": [
     {
-      "headline": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-      "take": "Franklin Templeton's tokenized treasury fund launches on HashKey platform in Asia",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey"
-    },
-    {
-      "headline": "Standard Chartered first bank to distribute Hong Kong\u2019s HKDAP stablecoin",
-      "take": "Standard Chartered becomes first bank to distribute Hong Kong's HKDAP stablecoin",
+      "headline": "Keenable exits stealth mode with $26M seed round to build search infrastructure for AI agents",
+      "take": "Keenable exits stealth with twenty-six million seed for AI agent infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-first-bank-to-distribute-hong-kongs-hkdap-stablecoin/"
+      "link": "https://cryptobriefing.com/keenable-26m-seed-ai-search-index/"
     },
     {
-      "headline": "Ethereum proposes post-quantum deposit contract to enhance staking security",
-      "take": "Ethereum proposes post-quantum deposit contract to strengthen staking security features",
+      "headline": "Gemini activates native XRP Ledger transfers for Singapore users",
+      "take": "Gemini activates native XRP Ledger transfers for Singapore users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-proposes-post-quantum-deposit-contract-to-enhance-staking-security/"
+      "link": "https://cryptobriefing.com/gemini-xrp-ledger-transfers-singapore/"
     },
     {
-      "headline": "OpenAI secures $122B funding, Altman calls AI compute most expensive project",
-      "take": "OpenAI secures one hundred twenty-two billion dollars funding for AI compute infrastructure",
+      "headline": "Payouts.com partners with Casper to enable AI agent transactions",
+      "take": "Payouts.com partners Casper to enable AI agent powered transactions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-secures-122b-funding-altman-calls-ai-compute-most-expensive-project/"
+      "link": "https://cryptobriefing.com/payouts-com-partners-with-casper-to-enable-ai-agent-transactions/"
     },
     {
-      "headline": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-      "take": "Monad proposes wallet upgrade protecting against lost keys and quantum threats",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks"
+      "headline": "Bitwise Rides Tokenization Rush With Automated Stock Portfolios",
+      "take": "Bitwise launches automated stock portfolio tokenization amid institutional demand",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-25/bitwise-rides-tokenization-rush-with-automated-stock-portfolios"
+    },
+    {
+      "headline": "Shipyard winds down IPFS work as Protocol Labs ends funding",
+      "take": "Shipyard winds down IPFS work as Protocol Labs ends funding support",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/shipyard-ipfs-protocol-labs-funding-ends/"
     }
   ],
   "security": [
     {
-      "headline": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
-      "take": "Las Vegas businessman convicted in twenty-four million dollar crypto fraud scheme",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690"
+      "headline": "Chainalysis traces massive child exploitation network with Binance cooperation, Coinbase ties limited",
+      "take": "Chainalysis traces massive child exploitation network with Binance cooperation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainalysis-csam-investigation-binance-coinbase/"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-      "take": "U.S. widens Iran sanctions to include cryptocurrency, gold, shipping, technology sectors",
+      "headline": "OFAC Targets Ministry of Intelligence, Crypto-for-Oil Payments in Latest Iran Sanctions",
+      "take": "OFAC targets Iran Ministry of Intelligence and crypto-for-oil payment schemes",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/"
+    },
+    {
+      "headline": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "take": "MiCA regulations transformed European crypto landscape, disadvantaged Polish market",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology"
+      "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds"
     },
     {
-      "headline": "US Treasury suspends license for personal remittances to Iran as part of sweeping sanctions campaign",
-      "take": "Treasury suspends license for personal remittances to Iran under sweeping sanctions",
+      "headline": "Kalshi asks SEC to pump the brakes on Cboe\u2019s push into prediction markets",
+      "take": "Kalshi seeks SEC intervention on Cboe's expansion into prediction markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-suspends-iran-remittance-license/"
+      "link": "https://cryptobriefing.com/kalshi-cboe-prediction-market-regulatory-delay/"
     },
     {
-      "headline": "US expands Iran sanctions, warns nations to cut ties or face exclusion from dollar system",
-      "take": "U.S. expands Iran sanctions, warns nations against trade or face dollar system exclusion",
+      "headline": "US sanctions on Iran may strain Iraq\u2019s economy, impact oil markets",
+      "take": "US Iran sanctions may strain Iraq economy and impact global oil",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-expands-iran-sanctions-operation-economic-outcast/"
-    },
-    {
-      "headline": "US warns nations against Iran trade, eyes economic repercussions",
-      "take": "U.S. warns nations against Iran trade, threatens economic repercussions for noncompliance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-warns-nations-against-iran-trade-eyes-economic-repercussions/"
+      "link": "https://cryptobriefing.com/us-sanctions-on-iran-may-strain-iraqs-economy-impact-oil-markets/"
     }
   ]
 }

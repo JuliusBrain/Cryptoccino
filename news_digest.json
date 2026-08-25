@@ -1,96 +1,72 @@
 {
-  "generated": "2026-08-25T04:03:20.125182+00:00",
-  "ts": 1787630600,
+  "generated": "2026-08-25T07:11:24.558562+00:00",
+  "ts": 1787641884,
   "market": [
     {
-      "headline": "Bitcoin surpasses $80,000 for the first time since May as ETF inflows and short liquidations fuel the rally",
-      "take": "Bitcoin surpasses $80,000 for first time since May on ETF inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surpasses-80000-etf-inflows-short-liquidations/"
+      "headline": "Bitcoin holds above $80,000 backed by ETF flows; bull market case \u2018early but optimistic,\u2019 analyst says",
+      "take": "Bitcoin holds above $80,000 supported by steady ETF inflows",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674"
     },
     {
-      "headline": "Bitwise\u2019s Solana ETF nears $1 billion in inflows",
-      "take": "Bitwise's Solana ETF approaches $1 billion in inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-billion-inflows/"
+      "headline": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "take": "Smaller meme tokens double in value as crypto rally broadens",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week"
     },
     {
-      "headline": "Gold prices hit $4,695 as dollar weakness and Treasury buybacks fuel late-summer rally",
-      "take": "Gold hits $4,695 as dollar weakness and Treasury buybacks fuel rally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-hit-4695-treasury-buybacks-rally/"
-    },
-    {
-      "headline": "India\u2019s rupee falls amid geopolitical risks, gold prices see slight rise",
-      "take": "India's rupee falls amid geopolitical risks, gold prices rise slightly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/indias-rupee-falls-amid-geopolitical-risks-gold-prices-see-slight-rise/"
-    },
-    {
-      "headline": "Dollar struggles amid Iran sanctions, Treasury buybacks impact",
-      "take": "Dollar struggles amid Iran sanctions and Treasury buyback impacts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-struggles-amid-iran-sanctions-treasury-buybacks-impact/"
+      "headline": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+      "take": "Traders bet $2.9 million on Bitcoin jumping above $82,000",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000"
     }
   ],
   "business": [
     {
-      "headline": "Binance US integrates Apple Pay and Google Pay for crypto purchases",
-      "take": "Binance US integrates Apple Pay and Google Pay for crypto purchases",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-us-apple-pay-google-pay/"
+      "headline": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
+      "take": "Franklin Templeton partners with HashKey for Asian tokenized money market",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675"
     },
     {
-      "headline": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-      "take": "Coinbase brings tokenized stocks to Ethereum L2 Base",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum"
+      "headline": "Monad proposes wallet upgrade to withstand lost keys, quantum attacks",
+      "take": "Monad proposes wallet upgrade protecting against lost keys and quantum threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/monad-wallet-upgrade-quantum-resistant/"
     },
     {
       "headline": "Stripe expands Asian payment partnerships as startups go global faster",
-      "take": "Stripe expands Asian payment partnerships as startups globalize faster",
+      "take": "Stripe expands Asian payment partnerships enabling faster global startup growth",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/stripe-asia-cross-border-payments-partnerships/"
-    },
-    {
-      "headline": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-      "take": "Strive buys $81.5 million in Bitcoin after issuing more shares",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares"
     }
   ],
   "security": [
     {
-      "headline": "Mabna Institute moved $16.8M through crypto addresses since 2018, TRM Labs finds",
-      "take": "Mabna Institute moved $16.8M through crypto addresses since 2018",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mabna-institute-crypto-addresses-trm-labs/"
-    },
-    {
       "headline": "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
-      "take": "San Francisco gaming founder convicted of operating fraudulent crypto fund",
+      "take": "San Francisco gaming founder convicted of running fraudulent crypto trading fund",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662"
-    },
-    {
-      "headline": "Telegram CEO Pavel Durov defends platform against crime accusations",
-      "take": "Telegram CEO defends platform against crime accusations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/telegram-durov-defends-crime-accusations/"
     }
   ],
   "policy": [
     {
-      "headline": "Trump administration sanctions Wellbred group tied to Iranian regime enabler",
-      "take": "Trump administration sanctions Wellbred group tied to Iranian regime enabler",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-sanctions-wellbred-shamkhani-network/"
+      "headline": "US targets Iran\u2019s crypto sector, cites over $100M in oil-linked payments",
+      "take": "US targets Iran's crypto sector citing over $100M in oil payments",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
-      "take": "CFTC and US soldier clash over illegal Polymarket bet interpretation",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Blockchain Association backs Treasury\u2019s proposed GENIUS Act rules for stablecoin issuers",
+      "take": "Blockchain Association backs Treasury's proposed GENIUS Act stablecoin rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668"
+    },
+    {
+      "headline": "US expands Iran sanctions, warns nations to cut ties or face exclusion from dollar system",
+      "take": "US expands Iran sanctions threatening nations exclusion from dollar system",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-expands-iran-sanctions-operation-economic-outcast/"
     }
   ]
 }

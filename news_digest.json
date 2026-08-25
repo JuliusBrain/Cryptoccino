@@ -1,114 +1,96 @@
 {
-  "generated": "2026-08-25T16:03:06.068461+00:00",
-  "ts": 1787673786,
+  "generated": "2026-08-25T19:00:53.306521+00:00",
+  "ts": 1787684453,
   "market": [
     {
-      "headline": "Bitcoin breaks out of six-week range as $1.4B in shorts liquidated following Treasury buyback expansion",
-      "take": "Bitcoin breaks six-week range as $1.4B shorts liquidated post-Treasury buyback",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-breakout-shorts-liquidated-treasury-buyback/"
+      "headline": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+      "take": "Gold hits three-month high as Bitcoin tests eighty thousand dollars",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin"
     },
     {
-      "headline": "Solana perpetual futures platforms surpass $1 trillion in cumulative volume",
-      "take": "Solana perpetual futures platforms exceed $1 trillion cumulative volume milestone",
+      "headline": "Gold and Bitcoin ETFs muscle back into the top 10 most traded",
+      "take": "Gold and Bitcoin ETFs muscle back into top ten most traded",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-perpetual-futures-trillion-volume/"
+      "link": "https://cryptobriefing.com/gold-bitcoin-etf-top-10-most-traded/"
     },
     {
-      "headline": "Bitcoin slips from $80K as gold retreats with falling US bond yields",
-      "take": "Bitcoin slips from $80K as gold retreats with falling US bond yields",
+      "headline": "Treasury bill ETFs attract $51B in inflows as investors shift away from long-term bonds",
+      "take": "Treasury bill ETFs attract fifty-one billion inflows as investors shift away",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-slips-80k-gold-retreats-bond-yields/"
+      "link": "https://cryptobriefing.com/treasury-bill-etfs-51b-inflows/"
     },
     {
-      "headline": "Capital.com reports surge in UAE trading activity following Trump announcements",
-      "take": "Capital.com reports surge in UAE trading activity following Trump announcements",
+      "headline": "Paradex reports ETH 1-week implied volatility doubles to 67%, boosting September call strategies",
+      "take": "Ethereum one-week implied volatility doubles to sixty-seven percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/capital-com-uae-trading-surge-trump-announcements/"
+      "link": "https://cryptobriefing.com/paradex-eth-implied-volatility-doubles-september-calls/"
     },
     {
-      "headline": "US consumer confidence hits seven-month low on weaker outlook",
-      "take": "US consumer confidence hits seven-month low on weaker economic outlook",
+      "headline": "Solana surpasses Base in daily x402 transactions for the first time in six months",
+      "take": "Solana surpasses Base in daily transactions for first time in six months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-consumer-confidence-falls-august-2026/"
+      "link": "https://cryptobriefing.com/solana-surpasses-base-x402-transactions/"
     }
   ],
   "business": [
     {
-      "headline": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-      "take": "Bitwise launches automated AI, robotics, tech portfolios from tokenized stocks",
+      "headline": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "take": "LayerZero unveils ATLAS trading infrastructure for crypto and tokenized markets",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios"
+      "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges"
     },
     {
-      "headline": "Canton Network supports native issuance of USD1 stablecoin",
-      "take": "Canton Network supports native issuance of USD1 stablecoin for settlement",
+      "headline": "Galaxy launches crypto-backed credit line letting investors borrow against BTC, ETH and SOL without selling",
+      "take": "Galaxy launches crypto-backed credit line for BTC, ETH and SOL borrowing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canton-network-usd1-stablecoin-issuance/"
+      "link": "https://cryptobriefing.com/galaxy-crypto-backed-credit-line-galaxyone/"
     },
     {
-      "headline": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
-      "take": "Robinhood Chain DEX Arcus launches pTokens for transferable perp accounts",
+      "headline": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
+      "take": "Bitwise launches automated tokenized stock portfolios for tech and AI themes",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696"
+      "link": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706"
     },
     {
-      "headline": "Grayscale to use ZCSH management fees to support Zcash initiatives",
-      "take": "Grayscale to use ZCSH management fees supporting Zcash protocol initiatives",
+      "headline": "Mantle opens $200 million Vault product to DeFi users",
+      "take": "Mantle opens two-hundred million dollar Vault product to DeFi users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-zcash-etf-fee-awareness/"
+      "link": "https://cryptobriefing.com/mantle-vault-onchain-stablecoin-yield/"
     },
     {
-      "headline": "Perplexity launches Portable Computer for Pro and Max subscribers on NVIDIA DGX Spark",
-      "take": "Perplexity launches Portable Computer for Pro, Max subscribers on NVIDIA infrastructure",
+      "headline": "RLUSD market cap surpasses $2B with nearly $1B issued on XRP Ledger",
+      "take": "RLUSD market cap surpasses two billion with one billion on XRP Ledger",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/perplexity-portable-computer-nvidia-dgx-spark/"
+      "link": "https://cryptobriefing.com/rlusd-market-cap-2-billion-xrp-ledger/"
     }
   ],
   "security": [
     {
-      "headline": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-      "take": "Dozens of fake Firefox Wallet extensions linked to crypto-stealing malware",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware"
-    },
-    {
       "headline": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
-      "take": "Crypto fund founder convicted of fraud over fabricated trading bot scheme",
+      "take": "Crypto fund founder convicted of fraud over fake trading bot scheme",
       "source": "decrypt",
       "link": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot"
-    },
-    {
-      "headline": "Operation Lighthouse: Chainalysis\u2019s CSAM-Disruption Sprint IDs Suspects in 125 Countries",
-      "take": "Chainalysis Operation Lighthouse identifies child exploitation suspects in 125 countries",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/operation-lighthouse-august-2026/"
     }
   ],
   "policy": [
     {
-      "headline": "OFAC Targets Ministry of Intelligence, Crypto-for-Oil Payments in Latest Iran Sanctions",
-      "take": "OFAC targets Iran intelligence ministry, crypto-for-oil payments in new sanctions",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/"
+      "headline": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "take": "Crypto group warns regulators against expanding stablecoin KYC requirements",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks"
     },
     {
-      "headline": "China warns US of retaliation over expanded Iran sanctions",
-      "take": "China warns US of retaliation over expanded Iran sanctions measures",
+      "headline": "Japan plans blockchain-based real-time stock and bond settlements by 2030s",
+      "take": "Japan plans blockchain-based real-time stock and bond settlements by 2030s",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-warns-us-of-retaliation-over-expanded-iran-sanctions/"
+      "link": "https://cryptobriefing.com/japan-blockchain-stock-bond-settlements-2030/"
     },
     {
-      "headline": "BitGo CEO warns US regulators may act independently if Clarity Act fails",
-      "take": "BitGo CEO warns US regulators may act independently if Clarity Act fails",
+      "headline": "Canada to impose tariffs on more than 700 US-made products",
+      "take": "Canada to impose tariffs on more than seven hundred US-made products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-ceo-warns-us-regulators-may-act-independently-if-clarity-act-fails/"
-    },
-    {
-      "headline": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-      "take": "MiCA revolutionized European crypto regulation, left Poland with competitive wounds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds"
+      "link": "https://cryptobriefing.com/canada-counter-tariffs-us-products-trade/"
     }
   ]
 }

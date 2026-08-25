@@ -1,72 +1,102 @@
 {
-  "generated": "2026-08-25T07:11:24.558562+00:00",
-  "ts": 1787641884,
+  "generated": "2026-08-25T09:53:45.694052+00:00",
+  "ts": 1787651625,
   "market": [
     {
-      "headline": "Bitcoin holds above $80,000 backed by ETF flows; bull market case \u2018early but optimistic,\u2019 analyst says",
-      "take": "Bitcoin holds above $80,000 supported by steady ETF inflows",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674"
+      "headline": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
+      "take": "Bitcoin ETFs see sixth consecutive day of inflows, price holds above eighty thousand",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000"
+    },
+    {
+      "headline": "Spot Solana ETFs see $34M inflow, highest since Dec 2025",
+      "take": "Spot Solana ETFs attract thirty-four million dollars, highest inflow since December",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spot-solana-etfs-see-34m-inflow-highest-since-dec-2025/"
+    },
+    {
+      "headline": "Solana DEX volumes surpass major CEXs for 9th week, second only to Binance",
+      "take": "Solana DEX volumes surpass major centralized exchanges for ninth consecutive week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-dex-volumes-surpass-major-cexs-for-9th-week-second-only-to-binance/"
     },
     {
       "headline": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-      "take": "Smaller meme tokens double in value as crypto rally broadens",
+      "take": "Dog and cat memecoins rally sharply as smaller tokens double in one week",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week"
     },
     {
-      "headline": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
-      "take": "Traders bet $2.9 million on Bitcoin jumping above $82,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000"
+      "headline": "South Korea\u2019s leveraged ETFs tied to chipmakers see $1B in outflows as regulatory hammer drops",
+      "take": "South Korea's leveraged chipmaker ETFs see one billion dollar outflows after regulation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-leveraged-etf-chipmaker-outflows/"
     }
   ],
   "business": [
     {
-      "headline": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
-      "take": "Franklin Templeton partners with HashKey for Asian tokenized money market",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675"
+      "headline": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+      "take": "Franklin Templeton's tokenized treasury fund launches on HashKey platform in Asia",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey"
     },
     {
-      "headline": "Monad proposes wallet upgrade to withstand lost keys, quantum attacks",
+      "headline": "Standard Chartered first bank to distribute Hong Kong\u2019s HKDAP stablecoin",
+      "take": "Standard Chartered becomes first bank to distribute Hong Kong's HKDAP stablecoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/standard-chartered-first-bank-to-distribute-hong-kongs-hkdap-stablecoin/"
+    },
+    {
+      "headline": "Ethereum proposes post-quantum deposit contract to enhance staking security",
+      "take": "Ethereum proposes post-quantum deposit contract to strengthen staking security features",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-proposes-post-quantum-deposit-contract-to-enhance-staking-security/"
+    },
+    {
+      "headline": "OpenAI secures $122B funding, Altman calls AI compute most expensive project",
+      "take": "OpenAI secures one hundred twenty-two billion dollars funding for AI compute infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-secures-122b-funding-altman-calls-ai-compute-most-expensive-project/"
+    },
+    {
+      "headline": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
       "take": "Monad proposes wallet upgrade protecting against lost keys and quantum threats",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/monad-wallet-upgrade-quantum-resistant/"
-    },
-    {
-      "headline": "Stripe expands Asian payment partnerships as startups go global faster",
-      "take": "Stripe expands Asian payment partnerships enabling faster global startup growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stripe-asia-cross-border-payments-partnerships/"
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks"
     }
   ],
   "security": [
     {
-      "headline": "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
-      "take": "San Francisco gaming founder convicted of running fraudulent crypto trading fund",
+      "headline": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
+      "take": "Las Vegas businessman convicted in twenty-four million dollar crypto fraud scheme",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662"
+      "link": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690"
     }
   ],
   "policy": [
     {
-      "headline": "US targets Iran\u2019s crypto sector, cites over $100M in oil-linked payments",
-      "take": "US targets Iran's crypto sector citing over $100M in oil payments",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "take": "U.S. widens Iran sanctions to include cryptocurrency, gold, shipping, technology sectors",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology"
     },
     {
-      "headline": "Blockchain Association backs Treasury\u2019s proposed GENIUS Act rules for stablecoin issuers",
-      "take": "Blockchain Association backs Treasury's proposed GENIUS Act stablecoin rules",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668"
+      "headline": "US Treasury suspends license for personal remittances to Iran as part of sweeping sanctions campaign",
+      "take": "Treasury suspends license for personal remittances to Iran under sweeping sanctions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-suspends-iran-remittance-license/"
     },
     {
       "headline": "US expands Iran sanctions, warns nations to cut ties or face exclusion from dollar system",
-      "take": "US expands Iran sanctions threatening nations exclusion from dollar system",
+      "take": "U.S. expands Iran sanctions, warns nations against trade or face dollar system exclusion",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/us-expands-iran-sanctions-operation-economic-outcast/"
+    },
+    {
+      "headline": "US warns nations against Iran trade, eyes economic repercussions",
+      "take": "U.S. warns nations against Iran trade, threatens economic repercussions for noncompliance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-warns-nations-against-iran-trade-eyes-economic-repercussions/"
     }
   ]
 }

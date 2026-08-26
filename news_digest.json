@@ -1,87 +1,100 @@
 {
-  "generated": "2026-08-26T02:00:57.033446+00:00",
-  "ts": 1787709657,
+  "generated": "2026-08-26T04:05:32.264182+00:00",
+  "ts": 1787717132,
   "market": [
     {
+      "headline": "Bitcoin\u2019s Best Days Expose Punishing Cost of Missing Rebounds",
+      "take": "Bitcoin rebounds create outsized losses for investors who miss rallies",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/bitcoin-s-best-days-expose-punishing-cost-of-missing-rebounds"
+    },
+    {
+      "headline": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+      "take": "Bitcoin open interest drops sharply, signaling end of short squeeze pressure",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze"
+    },
+    {
       "headline": "Bill Miller IV says investors are rotating out of AI and into crypto",
-      "take": "Investors rotating capital from AI stocks into crypto assets",
+      "take": "Investor capital rotating away from artificial intelligence toward crypto assets",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bill-miller-iv-ai-crypto-rotation/"
     },
     {
       "headline": "Gold extends five-day gain as US Treasury yields drop",
-      "take": "Gold gains as US Treasury yields decline over five days",
+      "take": "Gold extends gains as US Treasury yields decline amid economic uncertainty",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/gold-five-day-gain-treasury-yields-drop/"
     },
     {
-      "headline": "US consumer spending has outpaced disposable income for 24 consecutive months",
-      "take": "US consumer spending exceeds disposable income for 24 months straight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-income-growth-lags-consumer-spending/"
-    },
-    {
       "headline": "Australia\u2019s second-largest pension fund builds biggest yen position in years, betting on BOJ rate hikes",
-      "take": "Australian pension fund builds largest yen position betting on BOJ rate hikes",
+      "take": "Australian pension fund builds largest yen position on BOJ rate hike bets",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/australia-pension-fund-yen-overweight-boj/"
-    },
-    {
-      "headline": "Citadel Securities\u2019 Frank Flight flips bullish on US bonds, citing crowded shorts and cooling inflation",
-      "take": "Citadel Securities turns bullish on US bonds citing crowded shorts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citadel-securities-flight-bullish-us-bonds/"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock\u2019s BUIDL leads market cap growth among tokenized Treasury products",
-      "take": "BlackRock BUIDL leads tokenized Treasury products by market cap growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-buidl-tokenized-treasury-growth/"
+      "headline": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+      "take": "RockawayX acquires Relayer Capital, expanding crypto services across United States",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743"
     },
     {
-      "headline": "Tokenized single-name stocks reach $2B, claiming nearly 5% of the RWA market",
-      "take": "Tokenized single-name stocks reach $2B, claiming five percent of RWA market",
+      "headline": "NEAR Protocol becomes first major blockchain with post-quantum key support",
+      "take": "NEAR Protocol becomes first major blockchain supporting post-quantum encryption keys",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-reach-2b-rwa-market/"
+      "link": "https://cryptobriefing.com/near-protocol-post-quantum-key-support/"
     },
     {
-      "headline": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-      "take": "POSCO brings trade receivables to Avalanche blockchain in tokenization move",
+      "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "take": "US state banking associations plan nationwide blockchain network for cooperation",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move"
+      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
     },
     {
-      "headline": "Binance Holdings hires two senior compliance executives amid scrutiny",
-      "take": "Binance hires two senior compliance executives amid regulatory scrutiny",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hires-senior-compliance-executives/"
+      "headline": "Zerohash back for second effort at OCC trust bank charter",
+      "take": "Zerohash pursues second application for national bank charter from regulators",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
     },
     {
       "headline": "Wrtn raises funding at $870M valuation for global expansion",
-      "take": "Wrtn raises funding at $870M valuation for global expansion",
+      "take": "Wrtn raises funding at $870 million valuation for international expansion plans",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/wrtn-870m-valuation-global-expansion/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Binance Holdings hires two senior compliance executives amid scrutiny",
+      "take": "Binance hires senior compliance executives amid ongoing regulatory scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-hires-senior-compliance-executives/"
+    }
+  ],
   "policy": [
     {
-      "headline": "US state banking associations plan nationwide blockchain network with 39-state BankChain Alliance",
-      "take": "US state banking associations plan nationwide blockchain network with 39 states",
+      "headline": "Blockchain Association urges SEC and CFTC to coordinate on equity perpetuals",
+      "take": "Blockchain Association calls for SEC and CFTC coordination on equity perpetuals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-banking-associations-bankchain-alliance-blockchain/"
+      "link": "https://cryptobriefing.com/blockchain-association-sec-cftc-equity-perpetuals/"
     },
     {
-      "headline": "Canada matches US tariffs imposed by President Trump, escalating North American trade war",
-      "take": "Canada matches US tariffs, escalating North American trade war",
+      "headline": "Trump signs civil nuclear agreement with Saudi Arabia, ties it to Israel relations",
+      "take": "Trump signs civil nuclear agreement with Saudi Arabia, linking Israel relations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canada-matches-us-trump-tariffs/"
+      "link": "https://cryptobriefing.com/trump-saudi-nuclear-deal-israel-normalization-4/"
+    },
+    {
+      "headline": "China sets yuan midpoint 633 pips below estimate, largest deviation since February 27",
+      "take": "China sets yuan midpoint far below estimates, largest deviation in weeks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-yuan-midpoint-largest-deviation-february/"
     },
     {
       "headline": "Trump administration discusses new trade penalties against Canada",
-      "take": "Trump administration discusses new trade penalties against Canada",
+      "take": "Trump administration explores new trade penalties targeting Canadian goods",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-trade-penalties-canada-tariffs/"
     },

@@ -1,90 +1,102 @@
 {
-  "generated": "2026-08-26T09:59:49.310019+00:00",
-  "ts": 1787738389,
+  "generated": "2026-08-26T13:25:37.904501+00:00",
+  "ts": 1787750737,
   "market": [
     {
-      "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
-      "take": "Bitcoin stalls at $80,000 as traders await inflation data release",
+      "headline": "\u2018Altitude sickness can wait\u2019: Bitcoin\u2019s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
+      "take": "Bitcoin short squeeze and Bessent catalyst may signal bull-market reset",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785"
+    },
+    {
+      "headline": "US PCE inflation edges higher in July while core measure meets forecast",
+      "take": "US PCE inflation edges higher in July while core meets forecast",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-pce-price-index-july-2026-inflation/"
+    },
+    {
+      "headline": "US oil prices fall below $80/barrel, first time since August 10",
+      "take": "US oil prices fall below $80 per barrel for first time since August",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-oil-prices-fall-below-80barrel-first-time-since-august-10/"
+    },
+    {
+      "headline": "US factory orders for durable goods rise 1.1% in July, surpassing forecast",
+      "take": "US factory orders for durable goods rise 1.1%, surpassing forecast",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-durable-goods-orders-rise-july/"
+    },
+    {
+      "headline": "Saylor\u2019s Strategy Faces Fresh Funding Threat on MSCI-Exit Risk",
+      "take": "Saylor's strategy faces fresh funding threat on MSCI-exit risk",
       "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-rally-stalls-at-80-000-as-traders-await-inflation-data"
-    },
-    {
-      "headline": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
-      "take": "$6.4 billion bitcoin options expiry Friday could amplify near-term volatility",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility"
-    },
-    {
-      "headline": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
-      "take": "Zcash pulls back 8% as Grayscale ETF launch caps 60% rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-    },
-    {
-      "headline": "XRP\u2019s 44% rally brings leverage back, raising risk of sharper pullback",
-      "take": "XRP's 44% rally brings leverage back, raising risk of sharper pullback",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback"
-    },
-    {
-      "headline": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
-      "take": "Crypto greed gauge hits highest level since before October's $19B wipeout",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/saylor-s-strategy-faces-fresh-funding-threat-on-msci-exit-risk"
     }
   ],
   "business": [
     {
-      "headline": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
-      "take": "Revolut begins phased EURR stablecoin rollout across Denmark, Poland, Portugal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772"
-    },
-    {
-      "headline": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
-      "take": "Japan targets early 2030s launch for blockchain-based stock and bond settlement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds"
-    },
-    {
-      "headline": "South Korea\u2019s Shinhan to use Visa\u2019s stablecoin platform for \u2018future finance\u2019 initiatives",
-      "take": "South Korea's Shinhan bank to use Visa's stablecoin platform for finance initiatives",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765"
-    },
-    {
-      "headline": "Kalshi raises $1.12B in private equity offering as prediction markets go institutional",
-      "take": "Kalshi raises $1.12 billion in private equity as prediction markets go institutional",
+      "headline": "Better Home & Finance, Coinbase offer Bitcoin-backed mortgages in US",
+      "take": "Coinbase and Better Home & Finance offer Bitcoin-backed mortgages in US",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-raises-1b-private-equity-offering/"
+      "link": "https://cryptobriefing.com/better-home-finance-coinbase-offer-bitcoin-backed-mortgages-in-us/"
     },
     {
-      "headline": "Hyperliquid activates AQAv2 for HYPE buybacks and burns starting August 26",
-      "take": "Hyperliquid activates AQAv2 for HYPE token buybacks and burns August 26",
+      "headline": "Revolut Launches Euro-Pegged EURR Stablecoin",
+      "take": "Revolut launches Euro-Pegged EURR stablecoin for European markets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin"
+    },
+    {
+      "headline": "Vanguard to acquire Altruist in bet on AI-powered financial advice",
+      "take": "Vanguard acquires Altruist in bet on AI-powered financial advice",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-aqav2-hype-buybacks-burns/"
+      "link": "https://cryptobriefing.com/vanguard-acquires-altruist-ai-wealth-technology/"
+    },
+    {
+      "headline": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
+      "take": "LayerZero announces ATLAS as new settlement engine for cross-chain",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine"
+    },
+    {
+      "headline": "Arga raises $10M to build sandbox environments for enterprise AI agent training",
+      "take": "Arga raises $10M for sandbox environments in enterprise AI agent training",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arga-raises-10m-ai-agent-training/"
     }
   ],
   "security": [
     {
-      "headline": "Tornado Cash developer Roman Storm\u2019s retrial pushed back to April 2027",
-      "take": "Tornado Cash developer Roman Storm's retrial postponed to April 2027",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761"
+      "headline": "Crypto executive loses bid to block extradition to US on fraud charges",
+      "take": "Crypto executive loses bid to block extradition to US on fraud charges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-ceo-extradition-uk-us-fraud/"
     }
   ],
   "policy": [
     {
-      "headline": "Fed Chair Warsh under pressure as interest rate hike debated",
-      "take": "Fed Chair Warsh faces pressure amid interest rate hike debate, bond market tension",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chair-warsh-under-pressure-as-interest-rate-hike-debated/"
+      "headline": "SEC Preps Overhaul of Crypto Custody Rules for Investment Firms",
+      "take": "SEC preps overhaul of crypto custody rules for investment firms",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/sec-preps-overhaul-of-crypto-custody-rules-for-investment-firms"
     },
     {
-      "headline": "JPMorgan India options ban signals quicker regulatory action from SEBI",
-      "take": "JPMorgan India options ban signals quicker regulatory action from SEBI",
+      "headline": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+      "take": "Digital euro will offer maximum level of privacy, ECB board member says",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says"
+    },
+    {
+      "headline": "Hyperliquid Policy Center and trade[XYZ] urge CFTC to allow energy perpetual contracts",
+      "take": "Hyperliquid and trade[XYZ] urge CFTC to allow energy perpetual contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-india-sebi-options-ban/"
+      "link": "https://cryptobriefing.com/hyperliquid-tradexyz-cftc-energy-perpetual-contracts/"
+    },
+    {
+      "headline": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+      "take": "Dallas Fed warns tokenized deposits could strip $700B from banks' lending",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity"
     }
   ]
 }

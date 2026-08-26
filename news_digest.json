@@ -1,89 +1,95 @@
 {
-  "generated": "2026-08-25T21:46:38.073799+00:00",
-  "ts": 1787694398,
+  "generated": "2026-08-26T02:00:57.033446+00:00",
+  "ts": 1787709657,
   "market": [
     {
-      "headline": "Crypto Fear and Greed Index hits extreme greed for the first time since late 2024",
-      "take": "Crypto Fear and Greed Index reaches extreme greed for first time since late 2024",
+      "headline": "Bill Miller IV says investors are rotating out of AI and into crypto",
+      "take": "Investors rotating capital from AI stocks into crypto assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-fear-greed-index-extreme-greed-2026/"
+      "link": "https://cryptobriefing.com/bill-miller-iv-ai-crypto-rotation/"
     },
     {
-      "headline": "Bitcoin\u2019s Best Days Expose Punishing Cost of Missing Rebounds",
-      "take": "Bitcoin's best rallies expose steep cost of missing even brief rebounds",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/bitcoin-s-best-days-expose-punishing-cost-of-missing-rebounds"
-    },
-    {
-      "headline": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
-      "take": "Bitcoin open interest collapses to 12%, signaling potential end of short squeeze",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze"
-    },
-    {
-      "headline": "Scott Bessent\u2019s bond buyback plan rattles Treasury markets as long-term yields hit 20-year highs",
-      "take": "Treasury bond buyback plan pushes long-term yields to 20-year highs, rattles markets",
+      "headline": "Gold extends five-day gain as US Treasury yields drop",
+      "take": "Gold gains as US Treasury yields decline over five days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-bond-buyback-plan-treasury-yields/"
+      "link": "https://cryptobriefing.com/gold-five-day-gain-treasury-yields-drop/"
     },
     {
-      "headline": "ETF strategy gains traction as Wall Street firms bet on tax benefits",
-      "take": "ETF strategy gains traction among Wall Street firms seeking tax benefits",
+      "headline": "US consumer spending has outpaced disposable income for 24 consecutive months",
+      "take": "US consumer spending exceeds disposable income for 24 months straight",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etf-tax-strategy-treasury-scrutiny/"
+      "link": "https://cryptobriefing.com/us-income-growth-lags-consumer-spending/"
+    },
+    {
+      "headline": "Australia\u2019s second-largest pension fund builds biggest yen position in years, betting on BOJ rate hikes",
+      "take": "Australian pension fund builds largest yen position betting on BOJ rate hikes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-pension-fund-yen-overweight-boj/"
+    },
+    {
+      "headline": "Citadel Securities\u2019 Frank Flight flips bullish on US bonds, citing crowded shorts and cooling inflation",
+      "take": "Citadel Securities turns bullish on US bonds citing crowded shorts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/citadel-securities-flight-bullish-us-bonds/"
     }
   ],
   "business": [
     {
-      "headline": "POSCO tokenizes trade receivables on Avalanche blockchain in pilot with Standard Chartered-backed Olea",
-      "take": "POSCO tokenizes trade receivables on Avalanche blockchain with Standard Chartered partner",
+      "headline": "BlackRock\u2019s BUIDL leads market cap growth among tokenized Treasury products",
+      "take": "BlackRock BUIDL leads tokenized Treasury products by market cap growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/posco-tokenizes-trade-receivables-avalanche/"
+      "link": "https://cryptobriefing.com/blackrock-buidl-tokenized-treasury-growth/"
     },
     {
-      "headline": "Strive raises funds to acquire 210 Bitcoin as treasury exceeds 21,000 BTC",
-      "take": "Strive raises funds to acquire 210 Bitcoin, treasury now exceeds 21,000 BTC",
+      "headline": "Tokenized single-name stocks reach $2B, claiming nearly 5% of the RWA market",
+      "take": "Tokenized single-name stocks reach $2B, claiming five percent of RWA market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-raises-funds-210-bitcoin-sata/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-reach-2b-rwa-market/"
     },
     {
-      "headline": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
-      "take": "LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736"
-    },
-    {
-      "headline": "Zerohash back for second effort at OCC trust bank charter",
-      "take": "Zerohash pursues second attempt at obtaining OCC trust bank charter",
+      "headline": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "take": "POSCO brings trade receivables to Avalanche blockchain in tokenization move",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
+      "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move"
     },
     {
-      "headline": "OpenAI\u2019s head of data centers Chris Malone departs company",
-      "take": "OpenAI's head of data centers Chris Malone departs company",
+      "headline": "Binance Holdings hires two senior compliance executives amid scrutiny",
+      "take": "Binance hires two senior compliance executives amid regulatory scrutiny",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-chris-malone-data-centers-departure/"
+      "link": "https://cryptobriefing.com/binance-hires-senior-compliance-executives/"
+    },
+    {
+      "headline": "Wrtn raises funding at $870M valuation for global expansion",
+      "take": "Wrtn raises funding at $870M valuation for global expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wrtn-870m-valuation-global-expansion/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Trump expands Iran sanctions targeting tech, aviation, digital assets",
-      "take": "Trump expands Iran sanctions targeting technology, aviation, and digital assets",
+      "headline": "US state banking associations plan nationwide blockchain network with 39-state BankChain Alliance",
+      "take": "US state banking associations plan nationwide blockchain network with 39 states",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-expands-iran-sanctions-targeting-tech-aviation-digital-assets/"
+      "link": "https://cryptobriefing.com/us-banking-associations-bankchain-alliance-blockchain/"
     },
     {
-      "headline": "US Treasury doubles bond buybacks as national debt crosses $40 trillion for the first time",
-      "take": "US Treasury doubles bond buybacks as national debt crosses forty trillion dollars",
+      "headline": "Canada matches US tariffs imposed by President Trump, escalating North American trade war",
+      "take": "Canada matches US tariffs, escalating North American trade war",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-40-trillion-debt-bond-buybacks/"
+      "link": "https://cryptobriefing.com/canada-matches-us-trump-tariffs/"
     },
     {
-      "headline": "Warsh faces test of Fed communication style at Jackson Hole",
-      "take": "Warsh faces test of Federal Reserve communication style at Jackson Hole",
+      "headline": "Trump administration discusses new trade penalties against Canada",
+      "take": "Trump administration discusses new trade penalties against Canada",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chairman-warsh-jackson-hole-speech/"
+      "link": "https://cryptobriefing.com/trump-trade-penalties-canada-tariffs/"
+    },
+    {
+      "headline": "US naval blockade forces Iranian tankers to anchor off Sri Lanka and Malaysia as crude exports halt",
+      "take": "US naval blockade forces Iranian tankers to anchor, halting crude exports",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-naval-blockade-iranian-tankers-sri-lanka/"
     }
   ]
 }

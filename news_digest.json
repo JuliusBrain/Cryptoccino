@@ -1,108 +1,102 @@
 {
-  "generated": "2026-08-26T04:05:32.264182+00:00",
-  "ts": 1787717132,
+  "generated": "2026-08-26T07:11:21.694677+00:00",
+  "ts": 1787728281,
   "market": [
     {
-      "headline": "Bitcoin\u2019s Best Days Expose Punishing Cost of Missing Rebounds",
-      "take": "Bitcoin rebounds create outsized losses for investors who miss rallies",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/bitcoin-s-best-days-expose-punishing-cost-of-missing-rebounds"
+      "headline": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "take": "Bitcoin holds $79,000 while ether and solana decline after weekly gains",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains"
     },
     {
-      "headline": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
-      "take": "Bitcoin open interest drops sharply, signaling end of short squeeze pressure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze"
+      "headline": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
+      "take": "Crypto fear-and-greed index at highest level since before October's $19B wipeout",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
     },
     {
-      "headline": "Bill Miller IV says investors are rotating out of AI and into crypto",
-      "take": "Investor capital rotating away from artificial intelligence toward crypto assets",
+      "headline": "XRP\u2019s 44% rally brings leverage back, raising risk of sharper pullback",
+      "take": "XRP's 44% rally draws leverage back in, increasing risk of sharper correction",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback"
+    },
+    {
+      "headline": "ANZ forecasts RBA to raise cash rate by 25bps in November",
+      "take": "RBA expected to raise cash rate 25 basis points in November per ANZ forecast",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bill-miller-iv-ai-crypto-rotation/"
+      "link": "https://cryptobriefing.com/anz-forecasts-rba-rate-hike-november/"
     },
     {
-      "headline": "Gold extends five-day gain as US Treasury yields drop",
-      "take": "Gold extends gains as US Treasury yields decline amid economic uncertainty",
+      "headline": "Brent crude falls over 2% to $86.41 as Strait of Hormuz supply hopes grow",
+      "take": "Brent crude falls over 2% to $86.41 on Strait of Hormuz supply recovery hopes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-five-day-gain-treasury-yields-drop/"
-    },
-    {
-      "headline": "Australia\u2019s second-largest pension fund builds biggest yen position in years, betting on BOJ rate hikes",
-      "take": "Australian pension fund builds largest yen position on BOJ rate hike bets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-pension-fund-yen-overweight-boj/"
+      "link": "https://cryptobriefing.com/brent-crude-falls-strait-of-hormuz-supply-hopes/"
     }
   ],
   "business": [
     {
+      "headline": "Revolut to launch EURR stablecoin in push to expand crypto payments",
+      "take": "Revolut launches EURR stablecoin to expand institutional and retail crypto payments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/revolut-launches-stablecoins/"
+    },
+    {
+      "headline": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+      "take": "BlackRock cuts bitcoin ETF swap minimum to $1 million, lowering institutional access barrier",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/26/E"
+    },
+    {
+      "headline": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
+      "take": "Japan to develop blockchain-based stock settlement system with details expected early 2027",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755"
+    },
+    {
+      "headline": "Kalshi raises $1.12B in private equity offering as prediction markets go institutional",
+      "take": "Kalshi raises $1.12 billion via private equity as prediction markets attract institutions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-raises-1b-private-equity-offering/"
+    },
+    {
       "headline": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
-      "take": "RockawayX acquires Relayer Capital, expanding crypto services across United States",
+      "take": "RockawayX acquires Relayer Capital to expand crypto derivatives offerings in United States",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743"
-    },
-    {
-      "headline": "NEAR Protocol becomes first major blockchain with post-quantum key support",
-      "take": "NEAR Protocol becomes first major blockchain supporting post-quantum encryption keys",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-protocol-post-quantum-key-support/"
-    },
-    {
-      "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-      "take": "US state banking associations plan nationwide blockchain network for cooperation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
-    },
-    {
-      "headline": "Zerohash back for second effort at OCC trust bank charter",
-      "take": "Zerohash pursues second application for national bank charter from regulators",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
-    },
-    {
-      "headline": "Wrtn raises funding at $870M valuation for global expansion",
-      "take": "Wrtn raises funding at $870 million valuation for international expansion plans",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wrtn-870m-valuation-global-expansion/"
     }
   ],
   "security": [
     {
-      "headline": "Binance Holdings hires two senior compliance executives amid scrutiny",
-      "take": "Binance hires senior compliance executives amid ongoing regulatory scrutiny",
+      "headline": "NEAR Protocol becomes first major blockchain with post-quantum key support",
+      "take": "NEAR Protocol becomes first major blockchain supporting post-quantum cryptographic keys",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hires-senior-compliance-executives/"
+      "link": "https://cryptobriefing.com/near-protocol-post-quantum-key-support/"
     }
   ],
   "policy": [
     {
-      "headline": "Blockchain Association urges SEC and CFTC to coordinate on equity perpetuals",
-      "take": "Blockchain Association calls for SEC and CFTC coordination on equity perpetuals",
+      "headline": "JPMorgan India options ban signals quicker regulatory action from SEBI",
+      "take": "JPMorgan India options ban signals faster regulatory action coming from SEBI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-india-sebi-options-ban/"
+    },
+    {
+      "headline": "Roman Storm\u2019s retrial postponed to April 26, 2027",
+      "take": "Roman Storm's Tornado Cash retrial postponed to April 26, 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/roman-storm-retrial-postponed-april-2027/"
+    },
+    {
+      "headline": "Blockchain Association calls for joint SEC and CFTC framework to bring equity perps onshore",
+      "take": "Blockchain Association calls for joint SEC and CFTC framework for onshore equity perpetuals",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blockchain-association-sec-cftc-equity-perpetuals/"
     },
     {
-      "headline": "Trump signs civil nuclear agreement with Saudi Arabia, ties it to Israel relations",
-      "take": "Trump signs civil nuclear agreement with Saudi Arabia, linking Israel relations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-saudi-nuclear-deal-israel-normalization-4/"
-    },
-    {
-      "headline": "China sets yuan midpoint 633 pips below estimate, largest deviation since February 27",
-      "take": "China sets yuan midpoint far below estimates, largest deviation in weeks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-yuan-midpoint-largest-deviation-february/"
-    },
-    {
-      "headline": "Trump administration discusses new trade penalties against Canada",
-      "take": "Trump administration explores new trade penalties targeting Canadian goods",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-trade-penalties-canada-tariffs/"
-    },
-    {
-      "headline": "US naval blockade forces Iranian tankers to anchor off Sri Lanka and Malaysia as crude exports halt",
-      "take": "US naval blockade forces Iranian tankers to anchor, halting crude exports",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-naval-blockade-iranian-tankers-sri-lanka/"
+      "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "take": "US state banking associations plan to launch independent nationwide blockchain network",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
     }
   ]
 }

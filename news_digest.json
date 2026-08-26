@@ -1,102 +1,108 @@
 {
-  "generated": "2026-08-26T13:25:37.904501+00:00",
-  "ts": 1787750737,
+  "generated": "2026-08-26T16:35:05.172626+00:00",
+  "ts": 1787762105,
   "market": [
     {
-      "headline": "\u2018Altitude sickness can wait\u2019: Bitcoin\u2019s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
-      "take": "Bitcoin short squeeze and Bessent catalyst may signal bull-market reset",
+      "headline": "USD strengthens after PCE data, Fed rate hike expectations rise",
+      "take": "USD strengthens after PCE data, Fed rate hike expectations rise",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usd-strengthens-after-pce-data-fed-rate-hike-expectations-rise/"
+    },
+    {
+      "headline": "Nvidia forecasts first $100B quarter amid AI demand",
+      "take": "Nvidia forecasts first $100B quarter amid sustained AI demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-forecasts-first-100b-quarter/"
+    },
+    {
+      "headline": "CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for \u2018official\u2019 confirmation",
+      "take": "Bitcoin needs to cross $83,000 for official bull market confirmation",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785"
+      "link": "https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822"
     },
     {
-      "headline": "US PCE inflation edges higher in July while core measure meets forecast",
-      "take": "US PCE inflation edges higher in July while core meets forecast",
+      "headline": "Memecoin volume on Solana hits seven-month high as speculative frenzy reignites",
+      "take": "Memecoin volume on Solana hits seven-month high on speculation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-pce-price-index-july-2026-inflation/"
+      "link": "https://cryptobriefing.com/solana-memecoin-volume-seven-month-high/"
     },
     {
-      "headline": "US oil prices fall below $80/barrel, first time since August 10",
-      "take": "US oil prices fall below $80 per barrel for first time since August",
+      "headline": "77% of Americans view crypto in retirement plans as risky: Survey",
+      "take": "77% of Americans view crypto in retirement plans as risky",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-oil-prices-fall-below-80barrel-first-time-since-august-10/"
-    },
-    {
-      "headline": "US factory orders for durable goods rise 1.1% in July, surpassing forecast",
-      "take": "US factory orders for durable goods rise 1.1%, surpassing forecast",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-durable-goods-orders-rise-july/"
-    },
-    {
-      "headline": "Saylor\u2019s Strategy Faces Fresh Funding Threat on MSCI-Exit Risk",
-      "take": "Saylor's strategy faces fresh funding threat on MSCI-exit risk",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/saylor-s-strategy-faces-fresh-funding-threat-on-msci-exit-risk"
+      "link": "https://cryptobriefing.com/americans-view-crypto-retirement-plans-risky-survey/"
     }
   ],
   "business": [
     {
-      "headline": "Better Home & Finance, Coinbase offer Bitcoin-backed mortgages in US",
-      "take": "Coinbase and Better Home & Finance offer Bitcoin-backed mortgages in US",
+      "headline": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+      "take": "Shinhan and Visa test stablecoin issuance for B2B settlements in Korea",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure"
+    },
+    {
+      "headline": "Metaplex launches public dashboard to track financials and MPLX token",
+      "take": "Metaplex launches public dashboard to track financials and MPLX token",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/better-home-finance-coinbase-offer-bitcoin-backed-mortgages-in-us/"
+      "link": "https://cryptobriefing.com/metaplex-public-dashboard-mplx-token/"
     },
     {
-      "headline": "Revolut Launches Euro-Pegged EURR Stablecoin",
-      "take": "Revolut launches Euro-Pegged EURR stablecoin for European markets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin"
-    },
-    {
-      "headline": "Vanguard to acquire Altruist in bet on AI-powered financial advice",
-      "take": "Vanguard acquires Altruist in bet on AI-powered financial advice",
+      "headline": "Uniswap dominates deposits of Coinbase-issued stock tokens on Base",
+      "take": "Uniswap dominates deposits of Coinbase-issued stock tokens on Base",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vanguard-acquires-altruist-ai-wealth-technology/"
+      "link": "https://cryptobriefing.com/uniswap-dominates-coinbase-stock-tokens-base/"
     },
     {
-      "headline": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
-      "take": "LayerZero announces ATLAS as new settlement engine for cross-chain",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine"
+      "headline": "Coinbase, Better make token-backed mortgages generally available",
+      "take": "Coinbase and Better make token-backed mortgages generally available",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810"
     },
     {
-      "headline": "Arga raises $10M to build sandbox environments for enterprise AI agent training",
-      "take": "Arga raises $10M for sandbox environments in enterprise AI agent training",
+      "headline": "DeFi Development Corp. launches State of Solana dashboard to track network health in real time",
+      "take": "DeFi Development Corp launches State of Solana dashboard for network health",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arga-raises-10m-ai-agent-training/"
+      "link": "https://cryptobriefing.com/defi-development-corp-state-of-solana-dashboard-2/"
     }
   ],
   "security": [
     {
-      "headline": "Crypto executive loses bid to block extradition to US on fraud charges",
-      "take": "Crypto executive loses bid to block extradition to US on fraud charges",
+      "headline": "US seizes Chinese hacking tools after alleged Federal Reserve breach, DOJ announces",
+      "take": "US seizes Chinese hacking tools after alleged Federal Reserve breach",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-ceo-extradition-uk-us-fraud/"
+      "link": "https://cryptobriefing.com/us-chinese-hackers-federal-reserve-breach/"
+    },
+    {
+      "headline": "AI agent misreads hacker message, proposes DNS changes without approval",
+      "take": "AI agent misreads hacker message, proposes DNS changes without approval",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-agent-ghostjacking-dns-attack/"
+    },
+    {
+      "headline": "Ethereum developers propose measures to secure ETH staking against quantum threats",
+      "take": "Ethereum developers propose measures to secure ETH staking against quantum threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-eip-8394-quantum-resistant-staking/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC Preps Overhaul of Crypto Custody Rules for Investment Firms",
-      "take": "SEC preps overhaul of crypto custody rules for investment firms",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/sec-preps-overhaul-of-crypto-custody-rules-for-investment-firms"
+      "headline": "SEC sends crypto custody rule overhaul to White House for review",
+      "take": "SEC sends crypto custody rule overhaul to White House for review",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-      "take": "Digital euro will offer maximum level of privacy, ECB board member says",
+      "headline": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+      "take": "Tokenized deposits could drain $700B from bank lending, Dallas Fed warns",
       "source": "decrypt",
-      "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says"
+      "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed"
     },
     {
-      "headline": "Hyperliquid Policy Center and trade[XYZ] urge CFTC to allow energy perpetual contracts",
-      "take": "Hyperliquid and trade[XYZ] urge CFTC to allow energy perpetual contracts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-tradexyz-cftc-energy-perpetual-contracts/"
-    },
-    {
-      "headline": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
-      "take": "Dallas Fed warns tokenized deposits could strip $700B from banks' lending",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity"
+      "headline": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
+      "take": "Hyperliquid and TradeXYZ urge CFTC to create path for US oil perpetuals",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834"
     }
   ]
 }

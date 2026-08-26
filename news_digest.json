@@ -1,102 +1,90 @@
 {
-  "generated": "2026-08-26T07:11:21.694677+00:00",
-  "ts": 1787728281,
+  "generated": "2026-08-26T09:59:49.310019+00:00",
+  "ts": 1787738389,
   "market": [
     {
-      "headline": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-      "take": "Bitcoin holds $79,000 while ether and solana decline after weekly gains",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains"
+      "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
+      "take": "Bitcoin stalls at $80,000 as traders await inflation data release",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-rally-stalls-at-80-000-as-traders-await-inflation-data"
     },
     {
-      "headline": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
-      "take": "Crypto fear-and-greed index at highest level since before October's $19B wipeout",
+      "headline": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+      "take": "$6.4 billion bitcoin options expiry Friday could amplify near-term volatility",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
+      "link": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility"
+    },
+    {
+      "headline": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+      "take": "Zcash pulls back 8% as Grayscale ETF launch caps 60% rally",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
     },
     {
       "headline": "XRP\u2019s 44% rally brings leverage back, raising risk of sharper pullback",
-      "take": "XRP's 44% rally draws leverage back in, increasing risk of sharper correction",
+      "take": "XRP's 44% rally brings leverage back, raising risk of sharper pullback",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback"
     },
     {
-      "headline": "ANZ forecasts RBA to raise cash rate by 25bps in November",
-      "take": "RBA expected to raise cash rate 25 basis points in November per ANZ forecast",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anz-forecasts-rba-rate-hike-november/"
-    },
-    {
-      "headline": "Brent crude falls over 2% to $86.41 as Strait of Hormuz supply hopes grow",
-      "take": "Brent crude falls over 2% to $86.41 on Strait of Hormuz supply recovery hopes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-falls-strait-of-hormuz-supply-hopes/"
+      "headline": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
+      "take": "Crypto greed gauge hits highest level since before October's $19B wipeout",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
     }
   ],
   "business": [
     {
-      "headline": "Revolut to launch EURR stablecoin in push to expand crypto payments",
-      "take": "Revolut launches EURR stablecoin to expand institutional and retail crypto payments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/revolut-launches-stablecoins/"
-    },
-    {
-      "headline": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-      "take": "BlackRock cuts bitcoin ETF swap minimum to $1 million, lowering institutional access barrier",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/26/E"
-    },
-    {
-      "headline": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
-      "take": "Japan to develop blockchain-based stock settlement system with details expected early 2027",
+      "headline": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+      "take": "Revolut begins phased EURR stablecoin rollout across Denmark, Poland, Portugal",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755"
+      "link": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772"
+    },
+    {
+      "headline": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+      "take": "Japan targets early 2030s launch for blockchain-based stock and bond settlement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds"
+    },
+    {
+      "headline": "South Korea\u2019s Shinhan to use Visa\u2019s stablecoin platform for \u2018future finance\u2019 initiatives",
+      "take": "South Korea's Shinhan bank to use Visa's stablecoin platform for finance initiatives",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765"
     },
     {
       "headline": "Kalshi raises $1.12B in private equity offering as prediction markets go institutional",
-      "take": "Kalshi raises $1.12 billion via private equity as prediction markets attract institutions",
+      "take": "Kalshi raises $1.12 billion in private equity as prediction markets go institutional",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/kalshi-raises-1b-private-equity-offering/"
     },
     {
-      "headline": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
-      "take": "RockawayX acquires Relayer Capital to expand crypto derivatives offerings in United States",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743"
+      "headline": "Hyperliquid activates AQAv2 for HYPE buybacks and burns starting August 26",
+      "take": "Hyperliquid activates AQAv2 for HYPE token buybacks and burns August 26",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-aqav2-hype-buybacks-burns/"
     }
   ],
   "security": [
     {
-      "headline": "NEAR Protocol becomes first major blockchain with post-quantum key support",
-      "take": "NEAR Protocol becomes first major blockchain supporting post-quantum cryptographic keys",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-protocol-post-quantum-key-support/"
+      "headline": "Tornado Cash developer Roman Storm\u2019s retrial pushed back to April 2027",
+      "take": "Tornado Cash developer Roman Storm's retrial postponed to April 2027",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761"
     }
   ],
   "policy": [
     {
+      "headline": "Fed Chair Warsh under pressure as interest rate hike debated",
+      "take": "Fed Chair Warsh faces pressure amid interest rate hike debate, bond market tension",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-under-pressure-as-interest-rate-hike-debated/"
+    },
+    {
       "headline": "JPMorgan India options ban signals quicker regulatory action from SEBI",
-      "take": "JPMorgan India options ban signals faster regulatory action coming from SEBI",
+      "take": "JPMorgan India options ban signals quicker regulatory action from SEBI",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/jpmorgan-india-sebi-options-ban/"
-    },
-    {
-      "headline": "Roman Storm\u2019s retrial postponed to April 26, 2027",
-      "take": "Roman Storm's Tornado Cash retrial postponed to April 26, 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/roman-storm-retrial-postponed-april-2027/"
-    },
-    {
-      "headline": "Blockchain Association calls for joint SEC and CFTC framework to bring equity perps onshore",
-      "take": "Blockchain Association calls for joint SEC and CFTC framework for onshore equity perpetuals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-association-sec-cftc-equity-perpetuals/"
-    },
-    {
-      "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-      "take": "US state banking associations plan to launch independent nationwide blockchain network",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
     }
   ]
 }

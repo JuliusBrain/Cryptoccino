@@ -1,96 +1,102 @@
 {
-  "generated": "2026-08-27T00:50:59.610937+00:00",
-  "ts": 1787791859,
+  "generated": "2026-08-27T14:18:11.573252+00:00",
+  "ts": 1787840291,
   "market": [
     {
-      "headline": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
-      "take": "Nvidia shares rise after earnings top estimates, guides $108B revenue",
+      "headline": "BlackRock\u2019s Mitchnick says bitcoin\u2019s risk-off narrative is \u2018the one to bet on\u2019 long term as rally consolidates near $80,000",
+      "take": "Bitcoin consolidates near $80k as BlackRock frames risk-off as long-term bet",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897"
+    },
+    {
+      "headline": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
+      "take": "Global crypto taxable activity reached $457 billion in 2025",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919"
+    },
+    {
+      "headline": "Crypto traders brace for Fed Chair Kevin Warsh\u2019s Jackson Hole speech",
+      "take": "Crypto traders await Fed Chair Warsh's Jackson Hole speech for policy signals",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter"
+      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech"
     },
     {
-      "headline": "Bitwise Crypto Carry Fund yield rises to 6% amid basis expansion",
-      "take": "Bitwise Crypto Carry Fund yield rises to 6% amid basis expansion",
+      "headline": "Bitcoin treasury companies lose $80B as business model unwinds",
+      "take": "Bitcoin treasury company model unwinds, losing $80 billion in value",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-crypto-carry-fund-yield-rises/"
+      "link": "https://cryptobriefing.com/bitcoin-treasury-companies-lose-80b/"
     },
     {
-      "headline": "Gold drops 1% to $4,590 as US inflation boosts dollar, Treasury yields",
-      "take": "Gold drops 1% to $4,590 as US inflation boosts dollar, yields",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-drops-1-to-4590-as-us-inflation-boosts-dollar-treasury-yields/"
-    },
-    {
-      "headline": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-      "take": "Bitcoin wallets dormant over decade move $40M in one week",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m"
+      "headline": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
+      "take": "Mirae Asset pursues $109 billion crypto empire via Digital X acquisition",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x"
     }
   ],
   "business": [
     {
-      "headline": "StarkWare enables first quantum-safe Bitcoin transaction on mainnet",
-      "take": "StarkWare enables first quantum-safe Bitcoin transaction on mainnet",
+      "headline": "Charles Schwab to add Solana, Avalanche and Chainlink to crypto platform",
+      "take": "Charles Schwab adds Solana, Avalanche and Chainlink to crypto platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starkware-quantum-safe-bitcoin-transaction-mainnet/"
+      "link": "https://cryptobriefing.com/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform/"
     },
     {
-      "headline": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-      "take": "Galaxy opens retail crypto-backed credit lines on Bitcoin, Ethereum, Solana",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana"
-    },
-    {
-      "headline": "US Banks Join Forces to Build a Blockchain of Their Own",
-      "take": "US banks join forces to build a blockchain of their own",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance"
-    },
-    {
-      "headline": "Sharplink generates 586 ETH from staking rewards in a single week as holdings near 890K ETH",
-      "take": "Sharplink generates 586 ETH from staking rewards in single week",
+      "headline": "Hyperliquid Strategies raises $647M, grows HYPE treasury to 29.3M tokens",
+      "take": "Hyperliquid Strategies raises $647M, grows HYPE treasury to 29.3M tokens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sharplink-586-eth-staking-rewards-weekly/"
+      "link": "https://cryptobriefing.com/hyperliquid-strategies-raises-647m-hype-treasury/"
     },
     {
-      "headline": "Solana closes bug bounty for Alpenglow upgrade with 300 submissions",
-      "take": "Solana closes bug bounty for Alpenglow upgrade with 300 submissions",
+      "headline": "Avalanche powers Digital Liquidity Gateway to enhance loan securitization for US community banks",
+      "take": "Avalanche powers Digital Liquidity Gateway for US community bank loan securitization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-alpenglow-bug-bounty-closes/"
+      "link": "https://cryptobriefing.com/avalanche-digital-liquidity-gateway-loan-securitization/"
+    },
+    {
+      "headline": "Ripple Prime launches cross-asset Delta One business for institutions",
+      "take": "Ripple Prime launches cross-asset Delta One business targeting institutions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-prime-delta-one-total-return-swaps/"
+    },
+    {
+      "headline": "Chainlink powers Coinbase\u2019s cbBTC expansion to Robinhood Chain",
+      "take": "Chainlink powers Coinbase cbBTC expansion to Robinhood Chain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainlink-cbbtc-robinhood-chain-expansion/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI\u2019s experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks",
-      "take": "OpenAI's experimental AI agents hacked internal systems, concealed actions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-agents-hack-hugging-face-containment-breach/"
+      "headline": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
+      "take": "Moonwell investigates lending issue on Base as exploit flags multimillion-dollar loss",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913"
     },
     {
-      "headline": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
-      "take": "Russian influence network used ChatGPT to masquerade as academics",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376662/russia-chatgpt-influence-campaign"
-    },
-    {
-      "headline": "Dolly memecoin frenzy erupts after Dolly Parton\u2019s death as rug pulls hit investors",
-      "take": "Dolly memecoin frenzy erupts after Dolly Parton death, rug pulls hit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dolly-parton-memecoin-rug-pulls/"
+      "headline": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
+      "take": "AI bug triggers emergency warning for Bitcoin Lightning node operators",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators"
     }
   ],
   "policy": [
     {
-      "headline": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
-      "take": "SEC resurrecting US crypto custody rule previous administration failed land",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land"
+      "headline": "Polish Olympic chief Rados\u0142aw Piesiewicz arrested in crypto graft probe tied to Zondacrypto collapse",
+      "take": "Polish Olympic chief arrested in crypto graft probe tied to Zondacrypto collapse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polish-olympic-chief-arrested-crypto-graft/"
     },
     {
-      "headline": "Trump signs executive order targeting foreign equipment risks in US energy grid",
-      "take": "Trump signs executive order targeting foreign equipment risks in US grid",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-executive-order-foreign-energy-grid-ban/"
+      "headline": "Bank of England set for new innovation mandate covering stablecoins",
+      "take": "Bank of England set for new innovation mandate covering stablecoins",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "The Clarity Act will put Main Street banks at a disadvantage",
+      "take": "Clarity Act would put Main Street banks at disadvantage versus incumbents",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage"
     }
   ]
 }

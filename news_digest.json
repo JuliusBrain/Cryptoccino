@@ -1,102 +1,96 @@
 {
-  "generated": "2026-08-26T20:07:31.474685+00:00",
-  "ts": 1787774851,
+  "generated": "2026-08-27T00:50:59.610937+00:00",
+  "ts": 1787791859,
   "market": [
     {
+      "headline": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+      "take": "Nvidia shares rise after earnings top estimates, guides $108B revenue",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter"
+    },
+    {
+      "headline": "Bitwise Crypto Carry Fund yield rises to 6% amid basis expansion",
+      "take": "Bitwise Crypto Carry Fund yield rises to 6% amid basis expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-crypto-carry-fund-yield-rises/"
+    },
+    {
+      "headline": "Gold drops 1% to $4,590 as US inflation boosts dollar, Treasury yields",
+      "take": "Gold drops 1% to $4,590 as US inflation boosts dollar, yields",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-drops-1-to-4590-as-us-inflation-boosts-dollar-treasury-yields/"
+    },
+    {
       "headline": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-      "take": "Bitcoin wallets inactive over decade moved $40M in single week",
+      "take": "Bitcoin wallets dormant over decade move $40M in one week",
       "source": "decrypt",
       "link": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m"
-    },
-    {
-      "headline": "S&P 500 and Nasdaq rise in final hour as Wall Street awaits Nvidia results",
-      "take": "S&P 500 and Nasdaq rise as Wall Street awaits Nvidia earnings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-nasdaq-rise-nvidia-earnings/"
-    },
-    {
-      "headline": "Circle mints $5B in USDC in a single week, pushing market cap past $73B",
-      "take": "Circle mints $5B USDC in week, pushing market cap past $73B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-5b-usdc-market-liquidity/"
-    },
-    {
-      "headline": "Dinari\u2019s tokenized ETFs add $1.8M in market cap in 24 hours",
-      "take": "Dinari's tokenized ETFs gain $1.8M market cap in 24 hours",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dinari-tokenized-etfs-market-cap-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Token Terminal lists AAPLc, a tokenized representation of Apple stock on Base",
-      "take": "Token Terminal lists AAPLc, tokenized Apple stock representation on Base",
+      "headline": "StarkWare enables first quantum-safe Bitcoin transaction on mainnet",
+      "take": "StarkWare enables first quantum-safe Bitcoin transaction on mainnet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/token-terminal-lists-aaplc-tokenized-apple-stock/"
-    },
-    {
-      "headline": "Base launches carry trade vaults for Coinbase tokenized stocks",
-      "take": "Base launches carry trade vaults for Coinbase tokenized stocks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-carry-trade-vaults-coinbase-tokenized-stocks/"
+      "link": "https://cryptobriefing.com/starkware-quantum-safe-bitcoin-transaction-mainnet/"
     },
     {
       "headline": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-      "take": "Galaxy opens retail crypto-backed credit lines on Bitcoin and Ethereum",
+      "take": "Galaxy opens retail crypto-backed credit lines on Bitcoin, Ethereum, Solana",
       "source": "decrypt",
       "link": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana"
     },
     {
-      "headline": "Injective joins x402 Foundation to enhance payment standards for AI-native commerce",
-      "take": "Injective joins x402 Foundation to enhance AI-native commerce payments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-linux-x402-foundation-payment-standards/"
+      "headline": "US Banks Join Forces to Build a Blockchain of Their Own",
+      "take": "US banks join forces to build a blockchain of their own",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance"
     },
     {
-      "headline": "Unstoppable Domains skips ICANN round, refunds Web3 domain customers",
-      "take": "Unstoppable Domains skips ICANN round, refunds Web3 domain customers",
+      "headline": "Sharplink generates 586 ETH from staking rewards in a single week as holdings near 890K ETH",
+      "take": "Sharplink generates 586 ETH from staking rewards in single week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/unstoppable-domains-skips-icann-refunds-customers/"
+      "link": "https://cryptobriefing.com/sharplink-586-eth-staking-rewards-weekly/"
+    },
+    {
+      "headline": "Solana closes bug bounty for Alpenglow upgrade with 300 submissions",
+      "take": "Solana closes bug bounty for Alpenglow upgrade with 300 submissions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-alpenglow-bug-bounty-closes/"
     }
   ],
   "security": [
     {
-      "headline": "FBI shuts down sprawling China-linked hacking network that scanned millions of US targets",
-      "take": "FBI shuts down China-linked hacking network targeting millions of US",
+      "headline": "OpenAI\u2019s experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks",
+      "take": "OpenAI's experimental AI agents hacked internal systems, concealed actions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fbi-shuts-down-china-hacking-network/"
+      "link": "https://cryptobriefing.com/openai-ai-agents-hack-hugging-face-containment-breach/"
     },
     {
-      "headline": "OpenAI details how a test model escaped its sandbox in Hugging Face breach",
-      "take": "OpenAI test model escaped sandbox in Hugging Face security breach",
+      "headline": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+      "take": "Russian influence network used ChatGPT to masquerade as academics",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376662/russia-chatgpt-influence-campaign"
+    },
+    {
+      "headline": "Dolly memecoin frenzy erupts after Dolly Parton\u2019s death as rug pulls hit investors",
+      "take": "Dolly memecoin frenzy erupts after Dolly Parton death, rug pulls hit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-hugging-face-breach-report/"
+      "link": "https://cryptobriefing.com/dolly-parton-memecoin-rug-pulls/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC sends crypto custody rule overhaul to White House for review",
-      "take": "SEC sends crypto custody rule overhaul to White House for review",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+      "take": "SEC resurrecting US crypto custody rule previous administration failed land",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land"
     },
     {
-      "headline": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-      "take": "Chainalysis estimates $457B taxable crypto activity, says CARF misses most",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-      "take": "Tokenized deposits could drain $700B from bank lending, Dallas Fed warns",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed"
-    },
-    {
-      "headline": "UK government ministers urge Bank of England to enhance digital currency innovation",
-      "take": "UK government ministers urge Bank of England enhance digital currency innovation",
+      "headline": "Trump signs executive order targeting foreign equipment risks in US energy grid",
+      "take": "Trump signs executive order targeting foreign equipment risks in US grid",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-ministers-bank-england-digital-currency/"
+      "link": "https://cryptobriefing.com/trump-executive-order-foreign-energy-grid-ban/"
     }
   ]
 }

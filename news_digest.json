@@ -1,120 +1,95 @@
 {
-  "generated": "2026-08-28T00:26:53.451006+00:00",
-  "ts": 1787876813,
+  "generated": "2026-08-28T15:28:08.496611+00:00",
+  "ts": 1787930888,
   "market": [
     {
-      "headline": "Bitcoin surges above $80,000 amid record ETF inflows and a Treasury-fueled macro shift",
-      "take": "Bitcoin surges past $80,000 on record ETF inflows and macro shifts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surges-above-80000-etf-inflows/"
+      "headline": "Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow",
+      "take": "Bitcoin slips below $80k as Fed Chair Warsh signals inflation still above target",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow"
     },
     {
-      "headline": "Nvidia adds $442B in market value, marking second-largest one-day gain in US history",
-      "take": "Nvidia gains $442 billion in single day, second-largest US stock jump ever",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-442b-market-value-one-day-gain/"
+      "headline": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
+      "take": "Ethereum ETFs draw $226M in single day, nearly matching Bitcoin inflows",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul"
     },
     {
-      "headline": "TradFi perps double Binance\u2019s BTCUSDT volume as the product category explodes 117x in a year",
-      "take": "Traditional finance perpetual futures volume explodes 117x in one year",
+      "headline": "US Chicago PMI crashes to 47.1, missing forecast by over 10 points",
+      "take": "Chicago PMI crashes to 47.1, missing forecast by over 10 points, signals weakness",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradfi-perps-double-binance-btcusdt-volume/"
+      "link": "https://cryptobriefing.com/chicago-pmi-falls-47-below-forecast/"
     },
     {
-      "headline": "Dollar\u2019s share of global reserves ticks up, but the long-term slide isn\u2019t over",
-      "take": "Dollar's global reserve share rises, but long-term decline continues",
+      "headline": "Convertible bond investors relax protections amid AI boom",
+      "take": "Convertible bond investors trim protections as AI boom drives risk appetite",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dollar-global-reserves-share-rises-no-trend-reversal/"
+      "link": "https://cryptobriefing.com/convertible-bond-investors-relax-protections-ai-boom/"
     },
     {
-      "headline": "US mortgage rates rise for first time in three weeks, adding pressure to housing affordability",
-      "take": "US mortgage rates climb for first time in three weeks",
+      "headline": "Bureau of Labor Statistics revises payrolls higher for first time since 2022",
+      "take": "Labor Statistics revises payrolls higher for first time since 2022",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-mortgage-rates-rise-three-weeks/"
+      "link": "https://cryptobriefing.com/bls-revises-payrolls-higher-first-time-2022/"
     }
   ],
   "business": [
     {
-      "headline": "Gemini launches stop market orders for Active Trader platform",
-      "take": "Gemini adds stop market orders to Active Trader platform",
+      "headline": "Circle partners with Chelsea FC as main shirt sponsor, featuring USDC logo",
+      "take": "Circle partners with Chelsea FC as main shirt sponsor featuring USDC logo",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-stop-market-orders-active-trader/"
+      "link": "https://cryptobriefing.com/circle-chelsea-fc-usdc-shirt-sponsor/"
     },
     {
-      "headline": "DTCC lists 21Shares Polkadot Staking ETF shares under ticker TDOT",
-      "take": "First Polkadot staking ETF lists under ticker TDOT",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dtcc-lists-21shares-polkadot-staking-etf-tdot/"
+      "headline": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+      "take": "BitGo acquires NYDIG trading arm for $42.5M cash and stock plus $15M earnout",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout"
     },
     {
-      "headline": "BitGo buys NYDIG trading unit to expand institutional crypto services",
-      "take": "BitGo acquires NYDIG trading unit for institutional crypto expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-acquires-nydig-institutional-trading/"
+      "headline": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
+      "take": "SBI Holdings invests $270M in Ajaib for 20% stake, expanding Asia digital assets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023"
     },
     {
-      "headline": "EURC leads euro stablecoin market with $526M cap and 63% share",
-      "take": "Euro stablecoin EURC dominates market with $526 million cap",
+      "headline": "RedStone powers onchain NAV data for savUSD on Stellar, unlocking DeFi collateral for a $3B RWA market",
+      "take": "RedStone powers onchain NAV data unlocking DeFi collateral for $3B RWA market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eurc-euro-stablecoin-market-dominance/"
+      "link": "https://cryptobriefing.com/redstone-savusd-stellar-onchain-nav/"
     },
     {
-      "headline": "Anthropic explores chip design partnership with MatX after walking away from $7B acquisition",
-      "take": "Anthropic explores chip partnership with MatX after halting acquisition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-matx-chip-partnership/"
+      "headline": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
+      "take": "Bybit launches 24/7 stock perpetual options starting with SpaceX and Nvidia",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032"
     }
   ],
-  "security": [
-    {
-      "headline": "SEC charges 38 entities for false filings designed to lure retail investors",
-      "take": "SEC charges 38 entities for false filings targeting retail investors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-charges-38-entities-false-filings/"
-    },
-    {
-      "headline": "Sparrow Wallet releases security update after AI-assisted code review",
-      "take": "Sparrow Wallet releases security update following AI code review",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sparrow-wallet-bitcoin-privacy-update/"
-    },
-    {
-      "headline": "Over 100 tech firms demand \u2018defensive surge\u2019 against AI-driven cyberattacks",
-      "take": "Over 100 tech firms call for defensive surge against AI cyberattacks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-firms-defensive-surge-ai-cyberattacks/"
-    },
-    {
-      "headline": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
-      "take": "OpenAI's ChatGPT Work logs into accounts automatically without clear consent",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "US Treasury Secretary Scott Bessent launches \u2018Operation Economic Outcast\u2019 targeting Iran, urges G7 allies to enforce sanctions",
-      "take": "US Treasury launches Operation Economic Outcast targeting Iran sanctions",
+      "headline": "US targets $1.8B Iran financial channel in latest sanctions crackdown",
+      "take": "US targets $1.8B Iran financial channel in latest sanctions crackdown",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-bessent-g20-iran-sanctions/"
+      "link": "https://cryptobriefing.com/fincen-rule-revoke-bank-us-access/"
     },
     {
-      "headline": "Trump administration in talks for US stake in Venezuela oil fields",
-      "take": "Trump administration negotiates potential US stake in Venezuelan oil fields",
+      "headline": "Google updates spam policy in EU after \u20ac890 million antitrust fine",
+      "take": "Google updates spam policy in EU after \u20ac890M antitrust fine",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-venezuela-oil-stake-negotiations/"
+      "link": "https://cryptobriefing.com/google-spam-policy-eu-antitrust/"
     },
     {
-      "headline": "OCC and FDIC finalize rule to define \u2018unsafe or unsound practices\u2019 in bank supervision",
-      "take": "OCC and FDIC finalize definition of unsafe banking practices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/occ-fdic-unsafe-unsound-practices-rule/"
-    },
-    {
-      "headline": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
-      "take": "Connecticut sues Kalshi prediction market platform over regulatory questions",
+      "headline": "The Clarity Act slipped to September. Banks are building anyway",
+      "take": "Clarity Act delayed to September but banks continue building compliance framework",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight"
+      "link": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway"
+    },
+    {
+      "headline": "Anthropic wins lawsuit against Trump administration over national security designation",
+      "take": "Anthropic wins lawsuit against Trump administration over national security designation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-wins-trump-national-security-lawsuit/"
     }
   ]
 }

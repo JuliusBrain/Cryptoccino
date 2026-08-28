@@ -1,102 +1,120 @@
 {
-  "generated": "2026-08-27T14:18:11.573252+00:00",
-  "ts": 1787840291,
+  "generated": "2026-08-28T00:26:53.451006+00:00",
+  "ts": 1787876813,
   "market": [
     {
-      "headline": "BlackRock\u2019s Mitchnick says bitcoin\u2019s risk-off narrative is \u2018the one to bet on\u2019 long term as rally consolidates near $80,000",
-      "take": "Bitcoin consolidates near $80k as BlackRock frames risk-off as long-term bet",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897"
-    },
-    {
-      "headline": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
-      "take": "Global crypto taxable activity reached $457 billion in 2025",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919"
-    },
-    {
-      "headline": "Crypto traders brace for Fed Chair Kevin Warsh\u2019s Jackson Hole speech",
-      "take": "Crypto traders await Fed Chair Warsh's Jackson Hole speech for policy signals",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech"
-    },
-    {
-      "headline": "Bitcoin treasury companies lose $80B as business model unwinds",
-      "take": "Bitcoin treasury company model unwinds, losing $80 billion in value",
+      "headline": "Bitcoin surges above $80,000 amid record ETF inflows and a Treasury-fueled macro shift",
+      "take": "Bitcoin surges past $80,000 on record ETF inflows and macro shifts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-treasury-companies-lose-80b/"
+      "link": "https://cryptobriefing.com/bitcoin-surges-above-80000-etf-inflows/"
     },
     {
-      "headline": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-      "take": "Mirae Asset pursues $109 billion crypto empire via Digital X acquisition",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x"
+      "headline": "Nvidia adds $442B in market value, marking second-largest one-day gain in US history",
+      "take": "Nvidia gains $442 billion in single day, second-largest US stock jump ever",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-442b-market-value-one-day-gain/"
+    },
+    {
+      "headline": "TradFi perps double Binance\u2019s BTCUSDT volume as the product category explodes 117x in a year",
+      "take": "Traditional finance perpetual futures volume explodes 117x in one year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tradfi-perps-double-binance-btcusdt-volume/"
+    },
+    {
+      "headline": "Dollar\u2019s share of global reserves ticks up, but the long-term slide isn\u2019t over",
+      "take": "Dollar's global reserve share rises, but long-term decline continues",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dollar-global-reserves-share-rises-no-trend-reversal/"
+    },
+    {
+      "headline": "US mortgage rates rise for first time in three weeks, adding pressure to housing affordability",
+      "take": "US mortgage rates climb for first time in three weeks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-mortgage-rates-rise-three-weeks/"
     }
   ],
   "business": [
     {
-      "headline": "Charles Schwab to add Solana, Avalanche and Chainlink to crypto platform",
-      "take": "Charles Schwab adds Solana, Avalanche and Chainlink to crypto platform",
+      "headline": "Gemini launches stop market orders for Active Trader platform",
+      "take": "Gemini adds stop market orders to Active Trader platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform/"
+      "link": "https://cryptobriefing.com/gemini-stop-market-orders-active-trader/"
     },
     {
-      "headline": "Hyperliquid Strategies raises $647M, grows HYPE treasury to 29.3M tokens",
-      "take": "Hyperliquid Strategies raises $647M, grows HYPE treasury to 29.3M tokens",
+      "headline": "DTCC lists 21Shares Polkadot Staking ETF shares under ticker TDOT",
+      "take": "First Polkadot staking ETF lists under ticker TDOT",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-strategies-raises-647m-hype-treasury/"
+      "link": "https://cryptobriefing.com/dtcc-lists-21shares-polkadot-staking-etf-tdot/"
     },
     {
-      "headline": "Avalanche powers Digital Liquidity Gateway to enhance loan securitization for US community banks",
-      "take": "Avalanche powers Digital Liquidity Gateway for US community bank loan securitization",
+      "headline": "BitGo buys NYDIG trading unit to expand institutional crypto services",
+      "take": "BitGo acquires NYDIG trading unit for institutional crypto expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-digital-liquidity-gateway-loan-securitization/"
+      "link": "https://cryptobriefing.com/bitgo-acquires-nydig-institutional-trading/"
     },
     {
-      "headline": "Ripple Prime launches cross-asset Delta One business for institutions",
-      "take": "Ripple Prime launches cross-asset Delta One business targeting institutions",
+      "headline": "EURC leads euro stablecoin market with $526M cap and 63% share",
+      "take": "Euro stablecoin EURC dominates market with $526 million cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-prime-delta-one-total-return-swaps/"
+      "link": "https://cryptobriefing.com/eurc-euro-stablecoin-market-dominance/"
     },
     {
-      "headline": "Chainlink powers Coinbase\u2019s cbBTC expansion to Robinhood Chain",
-      "take": "Chainlink powers Coinbase cbBTC expansion to Robinhood Chain",
+      "headline": "Anthropic explores chip design partnership with MatX after walking away from $7B acquisition",
+      "take": "Anthropic explores chip partnership with MatX after halting acquisition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-cbbtc-robinhood-chain-expansion/"
+      "link": "https://cryptobriefing.com/anthropic-matx-chip-partnership/"
     }
   ],
   "security": [
     {
-      "headline": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
-      "take": "Moonwell investigates lending issue on Base as exploit flags multimillion-dollar loss",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913"
+      "headline": "SEC charges 38 entities for false filings designed to lure retail investors",
+      "take": "SEC charges 38 entities for false filings targeting retail investors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-charges-38-entities-false-filings/"
     },
     {
-      "headline": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-      "take": "AI bug triggers emergency warning for Bitcoin Lightning node operators",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators"
+      "headline": "Sparrow Wallet releases security update after AI-assisted code review",
+      "take": "Sparrow Wallet releases security update following AI code review",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sparrow-wallet-bitcoin-privacy-update/"
+    },
+    {
+      "headline": "Over 100 tech firms demand \u2018defensive surge\u2019 against AI-driven cyberattacks",
+      "take": "Over 100 tech firms call for defensive surge against AI cyberattacks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tech-firms-defensive-surge-ai-cyberattacks/"
+    },
+    {
+      "headline": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+      "take": "OpenAI's ChatGPT Work logs into accounts automatically without clear consent",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you"
     }
   ],
   "policy": [
     {
-      "headline": "Polish Olympic chief Rados\u0142aw Piesiewicz arrested in crypto graft probe tied to Zondacrypto collapse",
-      "take": "Polish Olympic chief arrested in crypto graft probe tied to Zondacrypto collapse",
+      "headline": "US Treasury Secretary Scott Bessent launches \u2018Operation Economic Outcast\u2019 targeting Iran, urges G7 allies to enforce sanctions",
+      "take": "US Treasury launches Operation Economic Outcast targeting Iran sanctions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polish-olympic-chief-arrested-crypto-graft/"
+      "link": "https://cryptobriefing.com/treasury-bessent-g20-iran-sanctions/"
     },
     {
-      "headline": "Bank of England set for new innovation mandate covering stablecoins",
-      "take": "Bank of England set for new innovation mandate covering stablecoins",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Trump administration in talks for US stake in Venezuela oil fields",
+      "take": "Trump administration negotiates potential US stake in Venezuelan oil fields",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-venezuela-oil-stake-negotiations/"
     },
     {
-      "headline": "The Clarity Act will put Main Street banks at a disadvantage",
-      "take": "Clarity Act would put Main Street banks at disadvantage versus incumbents",
+      "headline": "OCC and FDIC finalize rule to define \u2018unsafe or unsound practices\u2019 in bank supervision",
+      "take": "OCC and FDIC finalize definition of unsafe banking practices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/occ-fdic-unsafe-unsound-practices-rule/"
+    },
+    {
+      "headline": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
+      "take": "Connecticut sues Kalshi prediction market platform over regulatory questions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage"
+      "link": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight"
     }
   ]
 }

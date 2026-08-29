@@ -1,102 +1,84 @@
 {
-  "generated": "2026-08-29T10:11:23.233879+00:00",
-  "ts": 1787998283,
+  "generated": "2026-08-29T16:46:05.940876+00:00",
+  "ts": 1788021965,
   "market": [
     {
-      "headline": "Institutions poured $580M into crypto ETFs right before Warsh\u2019s hawkish speech cratered the market",
-      "take": "Institutions added $580M to crypto ETFs before hawkish remarks triggered selloff",
+      "headline": "Tokenized equities transfer volume surges to $23B as holder count doubles in a single month",
+      "take": "Tokenized equities volume surges to $23B as holder count doubles monthly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutions-580m-crypto-etfs-warsh-speech/"
+      "link": "https://cryptobriefing.com/tokenized-equities-volume-surges-holders-double/"
     },
     {
-      "headline": "Base leads all chains in tokenized US Treasury market cap growth with $636K daily gain",
-      "take": "Base chain leads tokenized US Treasury growth with $636K daily gains",
+      "headline": "Robinhood Chain daily DEX volume hits new all-time high as memecoins and tokenized stocks collide",
+      "take": "Robinhood Chain DEX volume hits all-time high amid memecoin and tokenized stock activity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-tokenized-us-treasuries-growth/"
+      "link": "https://cryptobriefing.com/robinhood-chain-dex-volume-all-time-high/"
     },
     {
-      "headline": "Ethereum ETFs see 10 straight days of net inflows as Bitcoin streak snaps",
-      "take": "Ethereum ETFs post 10 consecutive days of inflows as Bitcoin outflows continue",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-etf-inflows-10-day-streak-bitcoin-outflow/"
+      "headline": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+      "take": "Bitcoin's oldest coins awakening in 2026 at historically uncommon pace",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026"
     },
     {
-      "headline": "US spot Bitcoin ETFs see $202M in outflows as BTC dips below $78K",
-      "take": "US spot Bitcoin ETFs see $202M outflows as BTC drops below $78K",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-btc-dips-below-78k/"
-    },
-    {
-      "headline": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-      "take": "Ten-year dormant Bitcoin wallets moved $40M, mostly avoiding exchanges",
+      "headline": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "take": "Americans prefer control and micro-investing over digital gold narrative",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges"
+      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing"
+    },
+    {
+      "headline": "Nvidia and global liquidity shifts impact market landscape: Fundstrat",
+      "take": "Nvidia and global liquidity shifts reshape market landscape",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-and-global-liquidity-shifts-impact-market-landscape-fundstrat/"
     }
   ],
   "business": [
     {
-      "headline": "Aptos integrates Circle\u2019s CCTP V2 for rapid USDC transfers",
-      "take": "Aptos integrates Circle's CCTP V2 for faster cross-chain USDC transfers",
+      "headline": "Russia\u2019s largest lender Sberbank plans crypto-backed loans using Bitcoin, Ethereum and Tether",
+      "take": "Sberbank plans crypto-backed loans using Bitcoin, Ethereum and Tether",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-circle-cctp-v2-usdc-transfers/"
+      "link": "https://cryptobriefing.com/sberbank-usdt-loan-collateral-russia/"
     },
     {
-      "headline": "Kraken builds comprehensive wallet for onchain financial life",
-      "take": "Kraken launches comprehensive wallet for complete onchain financial management",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-wallet-onchain-financial-life/"
+      "headline": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "take": "BitGo acquires NYDIG's institutional trading arm for derivatives and financing",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm"
     },
     {
-      "headline": "Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day",
-      "take": "Ripple prepares XRP Ledger defenses against quantum computing threats ahead",
+      "headline": "IonQ shifts to vertical integration with SkyWater Technology acquisition",
+      "take": "IonQ shifts to vertical integration via SkyWater Technology acquisition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-xrp-ledger-quantum-computing-readiness/"
+      "link": "https://cryptobriefing.com/ionq-skywater-technology-acquisition/"
     },
     {
-      "headline": "USDe on Base surges 25,645% to $337M in 90 days",
-      "take": "USDe on Base surges 25,645% reaching $337M in three months",
+      "headline": "Ethereum core developers schedule EIP-8141 for Hegot\u00e1 upgrade",
+      "take": "Ethereum core developers schedule EIP-8141 for Hegot\u00e1 upgrade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usde-base-surges-337m-90-days/"
+      "link": "https://cryptobriefing.com/ethereum-eip-8141-hegota-upgrade/"
     }
   ],
   "security": [
     {
-      "headline": "Trump Organization-linked account hacked to promote Trump Digital Gold rug pull",
-      "take": "Trump Organization account hacked to promote Trump Digital Gold rug pull",
+      "headline": "Fogo mainnet temporarily halted after unauthorized activity drains 400 million tokens from foundation wallets",
+      "take": "Fogo mainnet halted after unauthorized activity drains 400M foundation tokens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-account-hacked-gold-token-rug-pull/"
+      "link": "https://cryptobriefing.com/fogo-mainnet-halted-unauthorized-activity/"
     },
     {
-      "headline": "Israeli crime groups increasingly use Bitcoin, Tether for money laundering",
-      "take": "Israeli crime groups increasingly exploit Bitcoin and Tether for money laundering",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israeli-crime-groups-bitcoin-tether-laundering/"
-    },
-    {
-      "headline": "Loss of Control Observatory reports surge in AI incidents in July",
-      "take": "Loss of Control Observatory reports significant surge in AI incidents during July",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/loss-of-control-observatory-ai-incidents-july-surge/"
+      "headline": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+      "take": "Former White House operator ordered to pay $172K for prediction market trades",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058"
     }
   ],
   "policy": [
     {
-      "headline": "US expands sanctions on Iran, targeting oil, shipping, and digital assets",
-      "take": "US expands Iran sanctions targeting oil, shipping, and digital asset transactions",
+      "headline": "Fed\u2019s Warsh: Inflation not slowing, 2% target by 2026 remains priority",
+      "take": "Fed's Warsh signals inflation persistent, 2% target remains priority through 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-expands-sanctions-on-iran-targeting-oil-shipping-and-digital-assets/"
-    },
-    {
-      "headline": "CFTC Orders Gabriel Perez to Pay $172,000 for  Insider Trading of Mention Market Event Contracts",
-      "take": "CFTC orders Gabriel Perez to pay $172K for insider trading of event contracts",
-      "source": "cftc_enforcement",
-      "link": "https://www.cftc.gov/PressRoom/PressReleases/9289-26"
-    },
-    {
-      "headline": "BIS chief says stablecoins lack credibility for large-scale payments, pushes tokenized deposits instead",
-      "take": "BIS chief disputes stablecoin credibility for large payments, favors tokenized deposits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bis-chief-stablecoins-lack-credibility-payments/"
+      "link": "https://cryptobriefing.com/feds-warsh-inflation-not-slowing-2-target-by-2026-remains-priority/"
     }
   ]
 }

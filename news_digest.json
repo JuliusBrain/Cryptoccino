@@ -1,95 +1,102 @@
 {
-  "generated": "2026-08-28T15:28:08.496611+00:00",
-  "ts": 1787930888,
+  "generated": "2026-08-29T01:46:43.134498+00:00",
+  "ts": 1787968003,
   "market": [
     {
-      "headline": "Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow",
-      "take": "Bitcoin slips below $80k as Fed Chair Warsh signals inflation still above target",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow"
-    },
-    {
-      "headline": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-      "take": "Ethereum ETFs draw $226M in single day, nearly matching Bitcoin inflows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul"
-    },
-    {
-      "headline": "US Chicago PMI crashes to 47.1, missing forecast by over 10 points",
-      "take": "Chicago PMI crashes to 47.1, missing forecast by over 10 points, signals weakness",
+      "headline": "Institutions poured $580M into crypto ETFs right before Warsh\u2019s hawkish speech cratered the market",
+      "take": "Institutions bought $580M crypto ETF amid hawkish Fed comments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chicago-pmi-falls-47-below-forecast/"
+      "link": "https://cryptobriefing.com/institutions-580m-crypto-etfs-warsh-speech/"
     },
     {
-      "headline": "Convertible bond investors relax protections amid AI boom",
-      "take": "Convertible bond investors trim protections as AI boom drives risk appetite",
+      "headline": "US M2 money supply rises $103B in July to $23.2T, hitting a new all-time high",
+      "take": "US M2 money supply hits new all-time high at $23.2T",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/convertible-bond-investors-relax-protections-ai-boom/"
+      "link": "https://cryptobriefing.com/us-m2-money-supply-record-july-2026/"
     },
     {
-      "headline": "Bureau of Labor Statistics revises payrolls higher for first time since 2022",
-      "take": "Labor Statistics revises payrolls higher for first time since 2022",
+      "headline": "Bitcoin stalls after Fed Chair Kevin Warsh\u2019s inflation comments",
+      "take": "Bitcoin stalls after Fed Chair Warsh's inflation comments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bls-revises-payrolls-higher-first-time-2022/"
+      "link": "https://cryptobriefing.com/bitcoin-stalls-warsh-inflation-comments/"
+    },
+    {
+      "headline": "Sky adds $110M in stablecoin market cap in 24 hours, outpacing every other issuer",
+      "take": "Sky stablecoin gains $110M market cap in single day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sky-stablecoin-market-cap-growth/"
+    },
+    {
+      "headline": "Uniswap weekly DEX trading volume for tokenized stocks rises $325M",
+      "take": "Uniswap tokenized stock trading volume surges $325M weekly",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-dex-tokenized-stocks-volume-325m/"
     }
   ],
   "business": [
     {
-      "headline": "Circle partners with Chelsea FC as main shirt sponsor, featuring USDC logo",
-      "take": "Circle partners with Chelsea FC as main shirt sponsor featuring USDC logo",
+      "headline": "Aptos integrates Circle\u2019s CCTP V2 for rapid USDC transfers",
+      "take": "Aptos integrates Circle's CCTP V2 for faster USDC transfers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-chelsea-fc-usdc-shirt-sponsor/"
+      "link": "https://cryptobriefing.com/aptos-circle-cctp-v2-usdc-transfers/"
     },
     {
-      "headline": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-      "take": "BitGo acquires NYDIG trading arm for $42.5M cash and stock plus $15M earnout",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout"
-    },
-    {
-      "headline": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
-      "take": "SBI Holdings invests $270M in Ajaib for 20% stake, expanding Asia digital assets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023"
-    },
-    {
-      "headline": "RedStone powers onchain NAV data for savUSD on Stellar, unlocking DeFi collateral for a $3B RWA market",
-      "take": "RedStone powers onchain NAV data unlocking DeFi collateral for $3B RWA market",
+      "headline": "Zerion API integrates with AgentCash for stablecoin payments, letting AI agents pay per call",
+      "take": "Zerion API partners AgentCash for AI agent stablecoin payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/redstone-savusd-stellar-onchain-nav/"
+      "link": "https://cryptobriefing.com/zerion-api-agentcash-stablecoin-payments/"
     },
     {
-      "headline": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
-      "take": "Bybit launches 24/7 stock perpetual options starting with SpaceX and Nvidia",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032"
+      "headline": "AI agents execute 23M stablecoin transfers via x402 protocol in 30 days",
+      "take": "AI agents executed 23M stablecoin transfers via x402 protocol",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/x402-protocol-ai-agents-stablecoin-transfers/"
+    },
+    {
+      "headline": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+      "take": "XRP Treasury Company moves closer to Nasdaq listing",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq"
+    },
+    {
+      "headline": "Grok Bot enables online purchases with Stripe Link integration in the US",
+      "take": "Grok Bot enables Stripe Link integration for US purchases",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grok-bot-online-purchases-stripe-link/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Avici to refund $500K after Solana card contract vulnerability",
+      "take": "Avici refunds $500K after Solana card contract vulnerability",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/avici-solana-card-exploit-full-refunds/"
+    },
+    {
+      "headline": "CFTC Orders Gabriel Perez to Pay $172,000 for  Insider Trading of Mention Market Event Contracts",
+      "take": "CFTC orders trader Gabriel Perez to pay $172K for insider trading",
+      "source": "cftc_enforcement",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9289-26"
+    }
+  ],
   "policy": [
     {
-      "headline": "US targets $1.8B Iran financial channel in latest sanctions crackdown",
-      "take": "US targets $1.8B Iran financial channel in latest sanctions crackdown",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fincen-rule-revoke-bank-us-access/"
-    },
-    {
-      "headline": "Google updates spam policy in EU after \u20ac890 million antitrust fine",
-      "take": "Google updates spam policy in EU after \u20ac890M antitrust fine",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-spam-policy-eu-antitrust/"
-    },
-    {
-      "headline": "The Clarity Act slipped to September. Banks are building anyway",
-      "take": "Clarity Act delayed to September but banks continue building compliance framework",
+      "headline": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+      "take": "Court ruling confirms states can regulate prediction markets",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway"
+      "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets"
     },
     {
-      "headline": "Anthropic wins lawsuit against Trump administration over national security designation",
-      "take": "Anthropic wins lawsuit against Trump administration over national security designation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-wins-trump-national-security-lawsuit/"
+      "headline": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+      "take": "Solana community votes to reduce token inflation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes"
+    },
+    {
+      "headline": "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
+      "take": "SEC proposes amendments adding EU debt to exchange rules",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
     }
   ]
 }

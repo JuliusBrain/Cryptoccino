@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T20:58:35.416693+00:00",
-  "ts": 1788037115,
+  "generated": "2026-08-29T23:23:35.889353+00:00",
+  "ts": 1788045815,
   "market": [
     {
       "headline": "Over $10B liquidated from crypto market in past 2 weeks as historic short squeeze reshapes sentiment",
@@ -15,80 +15,98 @@
       "link": "https://cryptobriefing.com/eth-etf-record-monthly-inflows-august-2026/"
     },
     {
-      "headline": "Tokenized equities transfer volume surges to $23B as holder count doubles in a single month",
-      "take": "Tokenized equities transfer volume surges to $23B as holders double monthly",
+      "headline": "US jobs report supports Federal Reserve\u2019s inflation focus",
+      "take": "US jobs report supports Federal Reserve's inflation focus",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-equities-volume-surges-holders-double/"
-    },
-    {
-      "headline": "Uniswap on Robinhood Chain hits $130M in daily stock token trading volume",
-      "take": "Uniswap on Robinhood Chain reaches $130M daily volume in stock tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-robinhood-chain-stock-token-volume-2/"
+      "link": "https://cryptobriefing.com/us-jobs-report-federal-reserve-inflation-focus/"
     },
     {
       "headline": "Fed\u2019s Jackson Hole focus on inflation hints at possible September rate hike",
-      "take": "Federal Reserve signals possible September rate hike focused on inflation",
+      "take": "Fed's Jackson Hole focus on inflation hints at possible September rate hike",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/feds-jackson-hole-focus-on-inflation-hints-at-possible-september-rate-hike/"
+    },
+    {
+      "headline": "Yen volatility poses risk to global financial stability, warns Bessent",
+      "take": "Yen volatility poses risk to global financial stability, warns Bessent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/yen-volatility-poses-risk-to-global-financial-stability-warns-bessent/"
     }
   ],
   "business": [
     {
-      "headline": "Revolut\u2019s euro stablecoin EURR launches with $290K market cap and a very long runway",
-      "take": "Revolut launches euro stablecoin EURR with initial $290K market cap",
+      "headline": "Aerodrome expands trading to tokenized global equities on Base",
+      "take": "Aerodrome expands trading to tokenized global equities on Base",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/revolut-eurr-stablecoin-launch/"
+      "link": "https://cryptobriefing.com/aerodrome-tokenized-equities-base/"
     },
     {
       "headline": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-      "take": "BitGo acquires NYDIG institutional trading arm for derivatives and financing",
+      "take": "BitGo acquires NYDIG's institutional trading arm for derivatives and financing",
       "source": "decrypt",
       "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm"
     },
     {
-      "headline": "A16z announces $1.1B Machine Age Fund for AI infrastructure",
-      "take": "A16z announces $1.1B Machine Age Fund focused on AI infrastructure",
+      "headline": "Anthropic quietly captured over 60% of business AI API spending, leaving OpenAI with roughly 35%",
+      "take": "Anthropic captures over 60% of business AI API spending versus OpenAI's 35%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-machine-age-fund-ai-infrastructure-2/"
+      "link": "https://cryptobriefing.com/anthropic-dominates-business-ai-api-spending/"
     },
     {
-      "headline": "Anthropic set to raise over $86B, potentially surpassing SpaceX IPO record",
-      "take": "Anthropic fundraising could exceed $86B, potentially surpassing SpaceX IPO record",
+      "headline": "SanDisk and Kioxia plan $31B investment in Japanese memory plants",
+      "take": "SanDisk and Kioxia plan $31B investment in Japanese memory plants",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-set-to-raise-over-86b-potentially-surpassing-spacex-ipo-record/"
+      "link": "https://cryptobriefing.com/sandisk-kioxia-31b-japan-memory-investment/"
+    },
+    {
+      "headline": "Chinese government accelerates humanoid robot funding despite tech limitations",
+      "take": "Chinese government accelerates humanoid robot funding despite tech limitations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-humanoid-robot-funding-acceleration/"
     }
   ],
   "security": [
     {
+      "headline": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "take": "Fogo blockchain halts mainnet after attacker receives 400M tokens, 10% supply",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064"
+    },
+    {
       "headline": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-      "take": "Cosmos Labs acknowledges wrongly clearing bug behind $5.7M six-chain hack",
+      "take": "Cosmos Labs wrongly cleared bug behind $5.7M six-chain hack",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
     },
     {
-      "headline": "Polygon discloses security flaws fixed in Austin and Kyoto hard forks",
-      "take": "Polygon discloses and fixes security flaws in Austin and Kyoto hard forks",
+      "headline": "Switchboard halts operations on Aptos, SUI, IOTA, and Movement after detecting potential compromise",
+      "take": "Switchboard halts operations on Aptos, SUI, IOTA after detecting potential compromise",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-austin-kyoto-hard-forks-security-fixes/"
+      "link": "https://cryptobriefing.com/switchboard-halts-operations-oracle-compromise/"
     },
     {
-      "headline": "Fogo mainnet temporarily halted after unauthorized activity drains 400 million tokens from foundation wallets",
-      "take": "Fogo mainnet halted after unauthorized activity drains 400M tokens from foundation",
+      "headline": "Polygon discloses security flaws fixed in Austin and Kyoto hard forks",
+      "take": "Polygon discloses security flaws fixed in Austin and Kyoto hard forks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fogo-mainnet-halted-unauthorized-activity/"
+      "link": "https://cryptobriefing.com/polygon-austin-kyoto-hard-forks-security-fixes/"
     }
   ],
   "policy": [
     {
       "headline": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
-      "take": "Bernie Sanders vows legislation to stop mass AI surveillance and tracking",
+      "take": "Bernie Sanders vows legislation to stop Flock and AI mass surveillance",
       "source": "decrypt",
       "link": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance"
     },
     {
+      "headline": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+      "take": "Former White House teleprompter operator ordered to pay $172K for prediction market trades",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058"
+    },
+    {
       "headline": "Central Bank of the UAE orders urgent review of Banque Misr branches after US Treasury proposal",
-      "take": "UAE central bank orders urgent review of Banque Misr branches after US Treasury proposal",
+      "take": "Central Bank of UAE orders urgent review of Banque Misr branches after US Treasury proposal",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/uae-banque-misr-fincen-review/"
     }

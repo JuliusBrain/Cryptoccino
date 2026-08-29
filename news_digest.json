@@ -1,84 +1,96 @@
 {
-  "generated": "2026-08-29T16:46:05.940876+00:00",
-  "ts": 1788021965,
+  "generated": "2026-08-29T20:58:35.416693+00:00",
+  "ts": 1788037115,
   "market": [
     {
+      "headline": "Over $10B liquidated from crypto market in past 2 weeks as historic short squeeze reshapes sentiment",
+      "take": "Over $10B liquidated from crypto in two weeks amid historic short squeeze",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/10b-crypto-liquidations-short-squeeze/"
+    },
+    {
+      "headline": "ETH ETFs see highest monthly net inflows since August 2025",
+      "take": "ETH ETFs see highest monthly net inflows since August 2025",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eth-etf-record-monthly-inflows-august-2026/"
+    },
+    {
       "headline": "Tokenized equities transfer volume surges to $23B as holder count doubles in a single month",
-      "take": "Tokenized equities volume surges to $23B as holder count doubles monthly",
+      "take": "Tokenized equities transfer volume surges to $23B as holders double monthly",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/tokenized-equities-volume-surges-holders-double/"
     },
     {
-      "headline": "Robinhood Chain daily DEX volume hits new all-time high as memecoins and tokenized stocks collide",
-      "take": "Robinhood Chain DEX volume hits all-time high amid memecoin and tokenized stock activity",
+      "headline": "Uniswap on Robinhood Chain hits $130M in daily stock token trading volume",
+      "take": "Uniswap on Robinhood Chain reaches $130M daily volume in stock tokens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-dex-volume-all-time-high/"
+      "link": "https://cryptobriefing.com/uniswap-robinhood-chain-stock-token-volume-2/"
     },
     {
-      "headline": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
-      "take": "Bitcoin's oldest coins awakening in 2026 at historically uncommon pace",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026"
-    },
-    {
-      "headline": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
-      "take": "Americans prefer control and micro-investing over digital gold narrative",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing"
-    },
-    {
-      "headline": "Nvidia and global liquidity shifts impact market landscape: Fundstrat",
-      "take": "Nvidia and global liquidity shifts reshape market landscape",
+      "headline": "Fed\u2019s Jackson Hole focus on inflation hints at possible September rate hike",
+      "take": "Federal Reserve signals possible September rate hike focused on inflation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-and-global-liquidity-shifts-impact-market-landscape-fundstrat/"
+      "link": "https://cryptobriefing.com/feds-jackson-hole-focus-on-inflation-hints-at-possible-september-rate-hike/"
     }
   ],
   "business": [
     {
-      "headline": "Russia\u2019s largest lender Sberbank plans crypto-backed loans using Bitcoin, Ethereum and Tether",
-      "take": "Sberbank plans crypto-backed loans using Bitcoin, Ethereum and Tether",
+      "headline": "Revolut\u2019s euro stablecoin EURR launches with $290K market cap and a very long runway",
+      "take": "Revolut launches euro stablecoin EURR with initial $290K market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sberbank-usdt-loan-collateral-russia/"
+      "link": "https://cryptobriefing.com/revolut-eurr-stablecoin-launch/"
     },
     {
       "headline": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-      "take": "BitGo acquires NYDIG's institutional trading arm for derivatives and financing",
+      "take": "BitGo acquires NYDIG institutional trading arm for derivatives and financing",
       "source": "decrypt",
       "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm"
     },
     {
-      "headline": "IonQ shifts to vertical integration with SkyWater Technology acquisition",
-      "take": "IonQ shifts to vertical integration via SkyWater Technology acquisition",
+      "headline": "A16z announces $1.1B Machine Age Fund for AI infrastructure",
+      "take": "A16z announces $1.1B Machine Age Fund focused on AI infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ionq-skywater-technology-acquisition/"
+      "link": "https://cryptobriefing.com/a16z-machine-age-fund-ai-infrastructure-2/"
     },
     {
-      "headline": "Ethereum core developers schedule EIP-8141 for Hegot\u00e1 upgrade",
-      "take": "Ethereum core developers schedule EIP-8141 for Hegot\u00e1 upgrade",
+      "headline": "Anthropic set to raise over $86B, potentially surpassing SpaceX IPO record",
+      "take": "Anthropic fundraising could exceed $86B, potentially surpassing SpaceX IPO record",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-eip-8141-hegota-upgrade/"
+      "link": "https://cryptobriefing.com/anthropic-set-to-raise-over-86b-potentially-surpassing-spacex-ipo-record/"
     }
   ],
   "security": [
     {
-      "headline": "Fogo mainnet temporarily halted after unauthorized activity drains 400 million tokens from foundation wallets",
-      "take": "Fogo mainnet halted after unauthorized activity drains 400M foundation tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fogo-mainnet-halted-unauthorized-activity/"
+      "headline": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "take": "Cosmos Labs acknowledges wrongly clearing bug behind $5.7M six-chain hack",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
     },
     {
-      "headline": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
-      "take": "Former White House operator ordered to pay $172K for prediction market trades",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058"
+      "headline": "Polygon discloses security flaws fixed in Austin and Kyoto hard forks",
+      "take": "Polygon discloses and fixes security flaws in Austin and Kyoto hard forks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polygon-austin-kyoto-hard-forks-security-fixes/"
+    },
+    {
+      "headline": "Fogo mainnet temporarily halted after unauthorized activity drains 400 million tokens from foundation wallets",
+      "take": "Fogo mainnet halted after unauthorized activity drains 400M tokens from foundation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fogo-mainnet-halted-unauthorized-activity/"
     }
   ],
   "policy": [
     {
-      "headline": "Fed\u2019s Warsh: Inflation not slowing, 2% target by 2026 remains priority",
-      "take": "Fed's Warsh signals inflation persistent, 2% target remains priority through 2026",
+      "headline": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+      "take": "Bernie Sanders vows legislation to stop mass AI surveillance and tracking",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance"
+    },
+    {
+      "headline": "Central Bank of the UAE orders urgent review of Banque Misr branches after US Treasury proposal",
+      "take": "UAE central bank orders urgent review of Banque Misr branches after US Treasury proposal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-warsh-inflation-not-slowing-2-target-by-2026-remains-priority/"
+      "link": "https://cryptobriefing.com/uae-banque-misr-fincen-review/"
     }
   ]
 }

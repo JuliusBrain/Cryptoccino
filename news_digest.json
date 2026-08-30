@@ -1,60 +1,78 @@
 {
-  "generated": "2026-08-30T11:59:37.900686+00:00",
-  "ts": 1788091177,
+  "generated": "2026-08-30T16:45:16.791710+00:00",
+  "ts": 1788108316,
   "market": [
     {
-      "headline": "Whales accumulate over 39,000 Bitcoin as retail investors head for the exits",
-      "take": "Whales accumulating bitcoin while retail investors exit positions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whales-accumulate-bitcoin-retail-sells/"
+      "headline": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+      "take": "Saylor signals possible bitcoin purchase as price approaches eighty thousand",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months"
     },
     {
-      "headline": "Fed awaits key inflation data before September rate decision",
-      "take": "Federal Reserve awaits inflation data before September rate decision",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-awaits-key-inflation-data-before-september-rate-decision/"
+      "headline": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "take": "Market makers profit from bitcoin volatility through neutral hedging strategies",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction"
     },
     {
-      "headline": "Helium Network surges up to 100% as Celina, Texas integrates decentralized wireless service",
-      "take": "Helium Network surges as Texas city adopts decentralized wireless service",
+      "headline": "Gold bulls turn to exotic options as Treasury aims to depress yields",
+      "take": "Gold investors explore exotic options while Treasury manages yield expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/helium-network-surges-celina-texas-integration/"
+      "link": "https://cryptobriefing.com/gold-bulls-exotic-options-treasury-yields/"
     }
   ],
   "business": [
     {
-      "headline": "Sberbank plans USDT, Ethereum loans pending Russian regulatory approval",
-      "take": "Sberbank seeks regulatory approval for USDT and Ethereum lending products",
+      "headline": "THORChain upgrade enables native Monero swaps, boosting XMR 8.9%",
+      "take": "THORChain enables native Monero swaps, lifting XMR price eight point nine percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sberbank-plans-usdt-ethereum-loans-pending-russian-regulatory-approval/"
+      "link": "https://cryptobriefing.com/thorchain-native-monero-swaps-xmr-boost/"
     },
     {
-      "headline": "Apple commits $60B to domestic manufacturing ahead of CEO transition",
-      "take": "Apple commits sixty billion dollars to domestic manufacturing expansion",
+      "headline": "Aster launches USD1 RWA Boost Phase 1 with 125M WLFI tokens in rewards",
+      "take": "Aster launches real-world asset boost phase with one-twenty-five million token rewards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-60b-domestic-manufacturing-ceo-transition/"
+      "link": "https://cryptobriefing.com/aster-usd1-rwa-boost-campaign-rewards/"
+    },
+    {
+      "headline": "Pump.fun app surges to $50M daily volume and 905K transactions",
+      "take": "Pump.fun reaches fifty million daily volume and nine hundred thousand transactions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pumpfun-app-50m-daily-volume/"
+    },
+    {
+      "headline": "DTCC partners with BitGo to launch digital asset infrastructure for tokenized US Treasuries and equities",
+      "take": "DTCC and BitGo launch digital asset platform for tokenized Treasuries and equities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dtcc-bitgo-digital-asset-infrastructure/"
+    },
+    {
+      "headline": "Chainlink records 9 integrations across 5 services and chains in latest weekly push",
+      "take": "Chainlink integrates nine services across five chains in latest expansion push",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainlink-nine-integrations-five-services/"
     }
   ],
   "security": [
     {
-      "headline": "Trezor\u2019s head of security warns of rising phishing and AI threats targeting crypto users",
-      "take": "Crypto security threats rising from phishing and AI-powered attacks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trezor-security-head-phishing-ai-threats/"
+      "headline": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+      "take": "AI labs urge stronger cyber defenses after their models hacked real companies",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses"
     }
   ],
   "policy": [
     {
-      "headline": "European Union prepares sanctions package targeting 1,600 Russian entities",
-      "take": "European Union prepares sanctions targeting sixteen hundred Russian entities",
+      "headline": "Bipartisan support wanes as CLARITY Act vote nears in 16 days",
+      "take": "CLARITY Act faces waning bipartisan support ahead of sixteen-day vote",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-sanctions-1600-russian-entities/"
+      "link": "https://cryptobriefing.com/bipartisan-support-wanes-as-clarity-act-vote-nears-in-16-days/"
     },
     {
-      "headline": "Political instability in US, Israel, Iran complicates potential US-Iran deal",
-      "take": "Political instability across US, Israel, Iran complicates nuclear negotiations",
+      "headline": "Vietnam plans to launch regulated crypto market with tokenized assets",
+      "take": "Vietnam plans to launch regulated cryptocurrency market with tokenized assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/political-instability-in-us-israel-iran-complicates-potential-us-iran-deal/"
+      "link": "https://cryptobriefing.com/vietnam-regulated-crypto-market-tokenized-assets/"
     }
   ]
 }

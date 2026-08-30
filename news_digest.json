@@ -1,90 +1,60 @@
 {
-  "generated": "2026-08-30T05:30:18.553578+00:00",
-  "ts": 1788067818,
+  "generated": "2026-08-30T11:59:37.900686+00:00",
+  "ts": 1788091177,
   "market": [
     {
-      "headline": "S&P 500 trades 22 sessions without a decline, adds $8.7T in market cap",
-      "take": "S&P 500 rallies 22 sessions straight, adds $8.7 trillion in market cap",
+      "headline": "Whales accumulate over 39,000 Bitcoin as retail investors head for the exits",
+      "take": "Whales accumulating bitcoin while retail investors exit positions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-22-sessions-no-decline-12-trillion/"
+      "link": "https://cryptobriefing.com/whales-accumulate-bitcoin-retail-sells/"
     },
     {
-      "headline": "Bitwise\u2019s Solana staking ETF crosses $1B in assets under management in just 10 months",
-      "take": "Bitwise's Solana staking ETF crosses $1 billion AUM in ten months",
+      "headline": "Fed awaits key inflation data before September rate decision",
+      "take": "Federal Reserve awaits inflation data before September rate decision",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-staking-etf-1b-aum/"
+      "link": "https://cryptobriefing.com/fed-awaits-key-inflation-data-before-september-rate-decision/"
     },
     {
-      "headline": "Rising bond yields add billions to G7 countries\u2019 debt costs",
-      "take": "Rising bond yields add billions to G7 countries' annual debt costs",
+      "headline": "Helium Network surges up to 100% as Celina, Texas integrates decentralized wireless service",
+      "take": "Helium Network surges as Texas city adopts decentralized wireless service",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rising-bond-yields-g7-debt-costs/"
-    },
-    {
-      "headline": "Fossil fuel importers face $330B cost surge amid US-Iran tensions: CREA",
-      "take": "Fossil fuel importers face $330 billion cost surge from US-Iran tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fossil-fuel-importers-face-330b-cost-surge-amid-us-iran-tensions-crea/"
+      "link": "https://cryptobriefing.com/helium-network-surges-celina-texas-integration/"
     }
   ],
   "business": [
     {
-      "headline": "Binance\u2019s CZ admits underestimating growth of real-world assets",
-      "take": "Binance's CZ admits underestimating real-world assets market opportunity",
+      "headline": "Sberbank plans USDT, Ethereum loans pending Russian regulatory approval",
+      "take": "Sberbank seeks regulatory approval for USDT and Ethereum lending products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-underestimated-rwa-growth/"
+      "link": "https://cryptobriefing.com/sberbank-plans-usdt-ethereum-loans-pending-russian-regulatory-approval/"
     },
     {
-      "headline": "Grok Bot successfully orders a Tesla Model Y for a user, marking a new era for AI commerce",
-      "take": "AI agent successfully orders Tesla vehicle, marking automation milestone",
+      "headline": "Apple commits $60B to domestic manufacturing ahead of CEO transition",
+      "take": "Apple commits sixty billion dollars to domestic manufacturing expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-bot-orders-tesla-model-y/"
-    },
-    {
-      "headline": "Ripple donates $300,000 for flood relief in Nepal and Tibet",
-      "take": "Ripple donates $300,000 for flood relief in Nepal and Tibet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-donates-300k-nepal-tibet-flood-relief/"
+      "link": "https://cryptobriefing.com/apple-60b-domestic-manufacturing-ceo-transition/"
     }
   ],
   "security": [
     {
-      "headline": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-      "take": "Crypto card hack costs $1.1 million, crashes neobank token 49 percent",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
-    },
-    {
-      "headline": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
-      "take": "Fogo blockchain halts after attacker steals 400 million tokens, ten percent supply",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064"
-    },
-    {
-      "headline": "Switchboard halts operations on Aptos, SUI, IOTA, and Movement after detecting potential compromise",
-      "take": "Switchboard pauses Aptos, SUI, IOTA operations after detecting potential compromise",
+      "headline": "Trezor\u2019s head of security warns of rising phishing and AI threats targeting crypto users",
+      "take": "Crypto security threats rising from phishing and AI-powered attacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/switchboard-halts-operations-oracle-compromise/"
-    },
-    {
-      "headline": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-      "take": "Cosmos Labs wrongly cleared bug behind $5.7 million six-chain hack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
+      "link": "https://cryptobriefing.com/trezor-security-head-phishing-ai-threats/"
     }
   ],
   "policy": [
     {
-      "headline": "South Korea to require mock trading before retail investors can touch leveraged ETFs",
-      "take": "South Korea mandates mock trading before retail leveraged ETF access",
+      "headline": "European Union prepares sanctions package targeting 1,600 Russian entities",
+      "take": "European Union prepares sanctions targeting sixteen hundred Russian entities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-mock-trading-leveraged-etfs/"
+      "link": "https://cryptobriefing.com/eu-sanctions-1600-russian-entities/"
     },
     {
-      "headline": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
-      "take": "Bernie Sanders vows legislation to stop mass AI surveillance programs",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance"
+      "headline": "Political instability in US, Israel, Iran complicates potential US-Iran deal",
+      "take": "Political instability across US, Israel, Iran complicates nuclear negotiations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/political-instability-in-us-israel-iran-complicates-potential-us-iran-deal/"
     }
   ]
 }

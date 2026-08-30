@@ -1,114 +1,90 @@
 {
-  "generated": "2026-08-29T23:23:35.889353+00:00",
-  "ts": 1788045815,
+  "generated": "2026-08-30T05:30:18.553578+00:00",
+  "ts": 1788067818,
   "market": [
     {
-      "headline": "Over $10B liquidated from crypto market in past 2 weeks as historic short squeeze reshapes sentiment",
-      "take": "Over $10B liquidated from crypto in two weeks amid historic short squeeze",
+      "headline": "S&P 500 trades 22 sessions without a decline, adds $8.7T in market cap",
+      "take": "S&P 500 rallies 22 sessions straight, adds $8.7 trillion in market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/10b-crypto-liquidations-short-squeeze/"
+      "link": "https://cryptobriefing.com/sp500-22-sessions-no-decline-12-trillion/"
     },
     {
-      "headline": "ETH ETFs see highest monthly net inflows since August 2025",
-      "take": "ETH ETFs see highest monthly net inflows since August 2025",
+      "headline": "Bitwise\u2019s Solana staking ETF crosses $1B in assets under management in just 10 months",
+      "take": "Bitwise's Solana staking ETF crosses $1 billion AUM in ten months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eth-etf-record-monthly-inflows-august-2026/"
+      "link": "https://cryptobriefing.com/solana-staking-etf-1b-aum/"
     },
     {
-      "headline": "US jobs report supports Federal Reserve\u2019s inflation focus",
-      "take": "US jobs report supports Federal Reserve's inflation focus",
+      "headline": "Rising bond yields add billions to G7 countries\u2019 debt costs",
+      "take": "Rising bond yields add billions to G7 countries' annual debt costs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-jobs-report-federal-reserve-inflation-focus/"
+      "link": "https://cryptobriefing.com/rising-bond-yields-g7-debt-costs/"
     },
     {
-      "headline": "Fed\u2019s Jackson Hole focus on inflation hints at possible September rate hike",
-      "take": "Fed's Jackson Hole focus on inflation hints at possible September rate hike",
+      "headline": "Fossil fuel importers face $330B cost surge amid US-Iran tensions: CREA",
+      "take": "Fossil fuel importers face $330 billion cost surge from US-Iran tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-jackson-hole-focus-on-inflation-hints-at-possible-september-rate-hike/"
-    },
-    {
-      "headline": "Yen volatility poses risk to global financial stability, warns Bessent",
-      "take": "Yen volatility poses risk to global financial stability, warns Bessent",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-volatility-poses-risk-to-global-financial-stability-warns-bessent/"
+      "link": "https://cryptobriefing.com/fossil-fuel-importers-face-330b-cost-surge-amid-us-iran-tensions-crea/"
     }
   ],
   "business": [
     {
-      "headline": "Aerodrome expands trading to tokenized global equities on Base",
-      "take": "Aerodrome expands trading to tokenized global equities on Base",
+      "headline": "Binance\u2019s CZ admits underestimating growth of real-world assets",
+      "take": "Binance's CZ admits underestimating real-world assets market opportunity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-tokenized-equities-base/"
+      "link": "https://cryptobriefing.com/cz-underestimated-rwa-growth/"
     },
     {
-      "headline": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-      "take": "BitGo acquires NYDIG's institutional trading arm for derivatives and financing",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm"
+      "headline": "Grok Bot successfully orders a Tesla Model Y for a user, marking a new era for AI commerce",
+      "take": "AI agent successfully orders Tesla vehicle, marking automation milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grok-bot-orders-tesla-model-y/"
     },
     {
-      "headline": "Anthropic quietly captured over 60% of business AI API spending, leaving OpenAI with roughly 35%",
-      "take": "Anthropic captures over 60% of business AI API spending versus OpenAI's 35%",
+      "headline": "Ripple donates $300,000 for flood relief in Nepal and Tibet",
+      "take": "Ripple donates $300,000 for flood relief in Nepal and Tibet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-dominates-business-ai-api-spending/"
-    },
-    {
-      "headline": "SanDisk and Kioxia plan $31B investment in Japanese memory plants",
-      "take": "SanDisk and Kioxia plan $31B investment in Japanese memory plants",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sandisk-kioxia-31b-japan-memory-investment/"
-    },
-    {
-      "headline": "Chinese government accelerates humanoid robot funding despite tech limitations",
-      "take": "Chinese government accelerates humanoid robot funding despite tech limitations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-humanoid-robot-funding-acceleration/"
+      "link": "https://cryptobriefing.com/ripple-donates-300k-nepal-tibet-flood-relief/"
     }
   ],
   "security": [
     {
+      "headline": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "take": "Crypto card hack costs $1.1 million, crashes neobank token 49 percent",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
+    },
+    {
       "headline": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
-      "take": "Fogo blockchain halts mainnet after attacker receives 400M tokens, 10% supply",
+      "take": "Fogo blockchain halts after attacker steals 400 million tokens, ten percent supply",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064"
     },
     {
-      "headline": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-      "take": "Cosmos Labs wrongly cleared bug behind $5.7M six-chain hack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
-    },
-    {
       "headline": "Switchboard halts operations on Aptos, SUI, IOTA, and Movement after detecting potential compromise",
-      "take": "Switchboard halts operations on Aptos, SUI, IOTA after detecting potential compromise",
+      "take": "Switchboard pauses Aptos, SUI, IOTA operations after detecting potential compromise",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/switchboard-halts-operations-oracle-compromise/"
     },
     {
-      "headline": "Polygon discloses security flaws fixed in Austin and Kyoto hard forks",
-      "take": "Polygon discloses security flaws fixed in Austin and Kyoto hard forks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-austin-kyoto-hard-forks-security-fixes/"
+      "headline": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "take": "Cosmos Labs wrongly cleared bug behind $5.7 million six-chain hack",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
     }
   ],
   "policy": [
     {
+      "headline": "South Korea to require mock trading before retail investors can touch leveraged ETFs",
+      "take": "South Korea mandates mock trading before retail leveraged ETF access",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-mock-trading-leveraged-etfs/"
+    },
+    {
       "headline": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
-      "take": "Bernie Sanders vows legislation to stop Flock and AI mass surveillance",
+      "take": "Bernie Sanders vows legislation to stop mass AI surveillance programs",
       "source": "decrypt",
       "link": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance"
-    },
-    {
-      "headline": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
-      "take": "Former White House teleprompter operator ordered to pay $172K for prediction market trades",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058"
-    },
-    {
-      "headline": "Central Bank of the UAE orders urgent review of Banque Misr branches after US Treasury proposal",
-      "take": "Central Bank of UAE orders urgent review of Banque Misr branches after US Treasury proposal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uae-banque-misr-fincen-review/"
     }
   ]
 }

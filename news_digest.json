@@ -1,78 +1,90 @@
 {
-  "generated": "2026-08-30T16:45:16.791710+00:00",
-  "ts": 1788108316,
+  "generated": "2026-08-30T21:12:07.769685+00:00",
+  "ts": 1788124327,
   "market": [
     {
-      "headline": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
-      "take": "Saylor signals possible bitcoin purchase as price approaches eighty thousand",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months"
+      "headline": "Bitcoin posts strongest August performance since 2017",
+      "take": "Bitcoin posts strongest August performance since 2017",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-strongest-august-since-2017/"
+    },
+    {
+      "headline": "Federal Reserve sees economy near full employment as jobless rate dips to 4%",
+      "take": "Federal Reserve sees economy near full employment, jobless rate at 4%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-full-employment-jobless-rate-dips/"
+    },
+    {
+      "headline": "RLUSD supply on Ethereum surpasses XRPL, grows 93% in 30 days",
+      "take": "RLUSD supply on Ethereum surpasses XRPL, grows 93% in month",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rlusd-ethereum-supply-surpasses-xrpl/"
+    },
+    {
+      "headline": "Bond investors express skepticism over potential Fed rate hikes under Kevin Warsh",
+      "take": "Bond investors skeptical over potential Fed rate hikes under Warsh",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bond-investors-skepticism-fed-warsh-rate-hikes/"
     },
     {
       "headline": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
-      "take": "Market makers profit from bitcoin volatility through neutral hedging strategies",
+      "take": "Crypto market makers cash in on bitcoin rally without directional bets",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction"
-    },
-    {
-      "headline": "Gold bulls turn to exotic options as Treasury aims to depress yields",
-      "take": "Gold investors explore exotic options while Treasury manages yield expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-bulls-exotic-options-treasury-yields/"
     }
   ],
   "business": [
     {
-      "headline": "THORChain upgrade enables native Monero swaps, boosting XMR 8.9%",
-      "take": "THORChain enables native Monero swaps, lifting XMR price eight point nine percent",
+      "headline": "BNB Chain and Robinhood Chain host top seven tokenized stocks, generating $4.3B in DEX volume",
+      "take": "BNB and Robinhood chains host top tokenized stocks, generate $4.3B DEX volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thorchain-native-monero-swaps-xmr-boost/"
+      "link": "https://cryptobriefing.com/bnb-robinhood-chain-tokenized-stocks-volume/"
     },
     {
-      "headline": "Aster launches USD1 RWA Boost Phase 1 with 125M WLFI tokens in rewards",
-      "take": "Aster launches real-world asset boost phase with one-twenty-five million token rewards",
+      "headline": "Securitize\u2019s BUIDL regains title as largest tokenized US Treasury fund",
+      "take": "Securitize's BUIDL reclaims position as largest tokenized Treasury fund",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aster-usd1-rwa-boost-campaign-rewards/"
+      "link": "https://cryptobriefing.com/buidl-regains-largest-tokenized-treasury-fund/"
     },
     {
-      "headline": "Pump.fun app surges to $50M daily volume and 905K transactions",
-      "take": "Pump.fun reaches fifty million daily volume and nine hundred thousand transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-app-50m-daily-volume/"
+      "headline": "Kalshi becomes exclusive prediction market partner of US Open: report",
+      "take": "Kalshi becomes exclusive prediction market partner of US Open",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074"
     },
     {
-      "headline": "DTCC partners with BitGo to launch digital asset infrastructure for tokenized US Treasuries and equities",
-      "take": "DTCC and BitGo launch digital asset platform for tokenized Treasuries and equities",
+      "headline": "Polymarket faces scrutiny as prediction markets ink massive deals with sports leagues",
+      "take": "Polymarket faces scrutiny as prediction markets ink massive sports league deals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dtcc-bitgo-digital-asset-infrastructure/"
-    },
-    {
-      "headline": "Chainlink records 9 integrations across 5 services and chains in latest weekly push",
-      "take": "Chainlink integrates nine services across five chains in latest expansion push",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-nine-integrations-five-services/"
+      "link": "https://cryptobriefing.com/polymarket-sports-leagues-prediction-markets-scrutiny/"
     }
   ],
   "security": [
     {
+      "headline": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+      "take": "Cronos network halts following Tectonic lending exploit costing $75 million",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069"
+    },
+    {
       "headline": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
-      "take": "AI labs urge stronger cyber defenses after their models hacked real companies",
+      "take": "AI labs call for stronger cyber defenses after model hacks hit real companies",
       "source": "decrypt",
       "link": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses"
     }
   ],
   "policy": [
     {
-      "headline": "Bipartisan support wanes as CLARITY Act vote nears in 16 days",
-      "take": "CLARITY Act faces waning bipartisan support ahead of sixteen-day vote",
+      "headline": "Donald Trump faces sanctions conundrum over Iran amid China risks",
+      "take": "Trump faces sanctions decisions over Iran amid China trade tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bipartisan-support-wanes-as-clarity-act-vote-nears-in-16-days/"
+      "link": "https://cryptobriefing.com/trump-iran-sanctions-china-dilemma/"
     },
     {
-      "headline": "Vietnam plans to launch regulated crypto market with tokenized assets",
-      "take": "Vietnam plans to launch regulated cryptocurrency market with tokenized assets",
+      "headline": "Blumenthal urges House to pass Russia sanctions amid Ukraine war tensions",
+      "take": "Blumenthal urges House to pass Russia sanctions amid Ukraine war",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vietnam-regulated-crypto-market-tokenized-assets/"
+      "link": "https://cryptobriefing.com/blumenthal-urges-house-to-pass-russia-sanctions-amid-ukraine-war-tensions/"
     }
   ]
 }

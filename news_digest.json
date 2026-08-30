@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T21:12:07.769685+00:00",
-  "ts": 1788124327,
+  "generated": "2026-08-30T23:34:04.920438+00:00",
+  "ts": 1788132844,
   "market": [
     {
       "headline": "Bitcoin posts strongest August performance since 2017",
@@ -9,42 +9,42 @@
       "link": "https://cryptobriefing.com/bitcoin-strongest-august-since-2017/"
     },
     {
-      "headline": "Federal Reserve sees economy near full employment as jobless rate dips to 4%",
-      "take": "Federal Reserve sees economy near full employment, jobless rate at 4%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-full-employment-jobless-rate-dips/"
+      "headline": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+      "take": "Bitcoin ETFs snap nine-day inflow streak as Ethereum funds extend run",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend"
     },
     {
-      "headline": "RLUSD supply on Ethereum surpasses XRPL, grows 93% in 30 days",
-      "take": "RLUSD supply on Ethereum surpasses XRPL, grows 93% in month",
+      "headline": "Oil rises on Iran tensions, US stock futures dip amid Fed rate hike signals",
+      "take": "Oil rises on Iran tensions, US stock futures dip amid Fed rate signals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rlusd-ethereum-supply-surpasses-xrpl/"
+      "link": "https://cryptobriefing.com/oil-rises-on-iran-tensions-us-stock-futures-dip-amid-fed-rate-hike-signals/"
     },
-    {
-      "headline": "Bond investors express skepticism over potential Fed rate hikes under Kevin Warsh",
-      "take": "Bond investors skeptical over potential Fed rate hikes under Warsh",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bond-investors-skepticism-fed-warsh-rate-hikes/"
-    },
-    {
-      "headline": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
-      "take": "Crypto market makers cash in on bitcoin rally without directional bets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction"
-    }
-  ],
-  "business": [
     {
       "headline": "BNB Chain and Robinhood Chain host top seven tokenized stocks, generating $4.3B in DEX volume",
-      "take": "BNB and Robinhood chains host top tokenized stocks, generate $4.3B DEX volume",
+      "take": "BNB Chain and Robinhood host tokenized stocks generating $4.3B DEX volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bnb-robinhood-chain-tokenized-stocks-volume/"
     },
     {
       "headline": "Securitize\u2019s BUIDL regains title as largest tokenized US Treasury fund",
-      "take": "Securitize's BUIDL reclaims position as largest tokenized Treasury fund",
+      "take": "Securitize's BUIDL regains title as largest tokenized US Treasury fund",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/buidl-regains-largest-tokenized-treasury-fund/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Leopold Aschenbrenner bets billions on ex-Bitcoin miners\u2019 energy assets for AI compute",
+      "take": "Leopold Aschenbrenner bets billions on ex-Bitcoin miners' energy assets for AI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aschenbrenner-bets-bitcoin-miners-ai-energy/"
+    },
+    {
+      "headline": "Uniswap processes $1.5B in stock token trading on Robinhood Chain in six weeks",
+      "take": "Uniswap processes $1.5B in stock token trading on Robinhood Chain in six weeks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-robinhood-chain-stock-token-trading/"
     },
     {
       "headline": "Kalshi becomes exclusive prediction market partner of US Open: report",
@@ -53,38 +53,56 @@
       "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074"
     },
     {
-      "headline": "Polymarket faces scrutiny as prediction markets ink massive deals with sports leagues",
-      "take": "Polymarket faces scrutiny as prediction markets ink massive sports league deals",
+      "headline": "OpenAI acquires thousands of Mac minis, Mac Studios for AI training: The Information",
+      "take": "OpenAI acquires thousands of Mac minis and Studios for AI training",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-sports-leagues-prediction-markets-scrutiny/"
+      "link": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/"
+    },
+    {
+      "headline": "NuScale Power taps AI to speed up small modular reactor design after going public via SPAC",
+      "take": "NuScale Power taps AI to speed small modular reactor design after SPAC IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nuscale-power-ai-reactor-design/"
     }
   ],
   "security": [
     {
       "headline": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
-      "take": "Cronos network halts following Tectonic lending exploit costing $75 million",
+      "take": "Cronos network halts after Tectonic exploit estimated at $75 million",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069"
     },
     {
+      "headline": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+      "take": "Polygon quietly patched security flaws in two hard forks before disclosure",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws"
+    },
+    {
       "headline": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
-      "take": "AI labs call for stronger cyber defenses after model hacks hit real companies",
+      "take": "AI labs call for stronger cyber defenses after models hacked real companies",
       "source": "decrypt",
       "link": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses"
+    },
+    {
+      "headline": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+      "take": "Chainalysis accuses ICE of unfairly steering $95M blockchain contract to TRM Labs",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066"
     }
   ],
   "policy": [
     {
-      "headline": "Donald Trump faces sanctions conundrum over Iran amid China risks",
-      "take": "Trump faces sanctions decisions over Iran amid China trade tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-iran-sanctions-china-dilemma/"
+      "headline": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+      "take": "Ex-White House teleprompter operator fined for prediction market insider trading",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading"
     },
     {
-      "headline": "Blumenthal urges House to pass Russia sanctions amid Ukraine war tensions",
-      "take": "Blumenthal urges House to pass Russia sanctions amid Ukraine war",
+      "headline": "Taiwan\u2019s financial regulator aims to reduce insurers\u2019 US dollar dependence",
+      "take": "Taiwan's financial regulator aims to reduce insurers' US dollar dependence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blumenthal-urges-house-to-pass-russia-sanctions-amid-ukraine-war-tensions/"
+      "link": "https://cryptobriefing.com/taiwan-regulator-insurers-us-dollar-dependence/"
     }
   ]
 }

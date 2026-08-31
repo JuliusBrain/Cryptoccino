@@ -1,108 +1,83 @@
 {
-  "generated": "2026-08-31T05:44:13.011250+00:00",
-  "ts": 1788155053,
+  "generated": "2026-08-31T14:01:02.900872+00:00",
+  "ts": 1788184862,
   "market": [
     {
-      "headline": "Bank of America reports $3.2B inflow into crypto funds, largest since October 2025",
-      "take": "Bank of America reports $3.2B crypto fund inflow, largest since October 2025",
+      "headline": "\u2018We\u2019re back\u2019: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC",
+      "take": "MicroStrategy bought 4,603 bitcoin for $370M, holdings now exceed 845,000 BTC",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-31-were-back-strategy-buys-another-4603-btc-369-7-million-holdings-hit-845050-btc-413087"
+    },
+    {
+      "headline": "Bitmine adds 53,501 ETH as treasury value reaches $15.6 billion",
+      "take": "Bitmine added 53,501 ETH, treasury value now reaches $15.6 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-3b-crypto-fund-inflows/"
+      "link": "https://cryptobriefing.com/bitmine-acquires-ethereum-131-million/"
     },
     {
-      "headline": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
-      "take": "Bitcoin unaffected as US-Iran tensions rise, oil prices climb, stocks fall",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower"
-    },
-    {
-      "headline": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-      "take": "Bitcoin ETF inflows halt after nine-day streak; Ethereum funds continue gaining",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend"
-    },
-    {
-      "headline": "Yen breaches 160 against dollar, raising intervention concerns",
-      "take": "Japanese yen breaches 160 per dollar, raising central bank intervention concerns",
+      "headline": "XRP breakout targets $1.70 as ETF inflows hit 2026 high",
+      "take": "XRP breakout targets $1.70 as ETF inflows hit 2026 highs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-breaches-160-dollar-intervention-concerns/"
+      "link": "https://cryptobriefing.com/xrp-breakout-etf-inflows-2026-high/"
     },
     {
-      "headline": "Gold prices fall amid profit-taking, down 7% in 2026: WSJ",
-      "take": "Gold prices decline seven percent in 2026 amid profit-taking pressure",
+      "headline": "Hyperliquid open interest hits $13B, leading decentralized exchanges",
+      "take": "Hyperliquid open interest hit $13B, leading decentralized exchanges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-fall-amid-profit-taking-down-7-in-2026-wsj/"
+      "link": "https://cryptobriefing.com/hyperliquid-open-interest-hits-13b-leading-decentralized-exchanges/"
+    },
+    {
+      "headline": "Barclays sees two more Fed rate hikes this year after Warsh speech",
+      "take": "Barclays expects two more Fed rate hikes this year after Warsh speech",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/barclays-sees-two-more-fed-rate-hikes-this-year-after-warsh-speech/"
     }
   ],
   "business": [
     {
-      "headline": "Metaplanet deposits 2,400 Bitcoin worth $186M into Coinbase Prime",
-      "take": "Metaplanet deposits $186M worth of Bitcoin into Coinbase Prime custody",
+      "headline": "LayerZero scales architecture to support millions of transactions per second",
+      "take": "LayerZero scales architecture to support millions of transactions per second",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metaplanet-deposits-bitcoin-coinbase-prime/"
+      "link": "https://cryptobriefing.com/layerzero-scales-millions-tps/"
     },
     {
-      "headline": "DeFi protocols increase dividend and buyback distributions as sector matures",
-      "take": "DeFi protocols increase dividend and buyback distributions as sector matures",
+      "headline": "Coinbase and Webull expand partnership to enhance crypto trading across 25 million users",
+      "take": "Coinbase and Webull expand partnership to enhance crypto trading for 25M users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defi-protocols-buyback-dividend-distributions/"
+      "link": "https://cryptobriefing.com/coinbase-webull-expand-crypto-partnership/"
     },
     {
-      "headline": "Shenzhen Longsys Electronics seeks $801M in Hong Kong listing as AI-fueled memory boom drives 71,000% profit surge",
-      "take": "Shenzhen Longsys seeks $801M Hong Kong listing amid AI memory chip boom",
+      "headline": "Intercontinental Exchange taps tZERO for digital transfer agent infrastructure",
+      "take": "Intercontinental Exchange taps tZERO for digital transfer agent infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/longsys-electronics-hong-kong-listing-801m/"
+      "link": "https://cryptobriefing.com/nyse-owner-intercontinental-exchange-taps-tzero-for-digital-transfer-agent-infrastructure/"
     },
     {
-      "headline": "Jio Platforms receives regulatory approval for IPO backed by Meta and Google",
-      "take": "Jio Platforms gains regulatory approval for IPO backed by Meta and Google",
+      "headline": "Kalshi taps Alpaca to expand event contracts to global brokers",
+      "take": "Kalshi taps Alpaca to expand event contracts to global brokers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jio-platforms-ipo-regulatory-approval/"
+      "link": "https://cryptobriefing.com/kalshi-alpaca-prediction-markets-expansion/"
     },
     {
-      "headline": "OpenAI reportedly buys tens of thousands of Mac minis for AI training",
-      "take": "OpenAI reportedly purchases tens of thousands of Mac minis for AI training",
+      "headline": "Sber targets Bitcoin loans under new law allowing BTC collateral",
+      "take": "Sberbank targets Bitcoin loans under new law allowing BTC collateral",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-mac-mini-ai-training-apple-silicon/"
+      "link": "https://cryptobriefing.com/sber-bitcoin-loans-russia-collateral-law/"
     }
   ],
-  "security": [
-    {
-      "headline": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
-      "take": "Cronos blockchain halts after $75 million exploit hits Tectonic lending app",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
-    },
-    {
-      "headline": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
-      "take": "Polygon quietly patched security flaws in two hard forks before public disclosure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws"
-    },
-    {
-      "headline": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
-      "take": "Ex-White House teleprompter operator fined for prediction market insider trading",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Sberbank projects Russia\u2019s regulated crypto trading volume to hit $46B in first year",
-      "take": "Russia projects regulated crypto trading volume will reach $46B in first year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-regulated-crypto-trading-46-billion/"
+      "headline": "Ireland bars crypto from new tax-advantaged investment accounts",
+      "take": "Ireland bars crypto from new tax-advantaged investment accounts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts"
     },
     {
-      "headline": "US national debt hits 124% of GDP, four times higher than 1980s levels",
-      "take": "US national debt hits 124% of GDP, four times higher than 1980s levels",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-national-debt-124-percent-gdp/"
-    },
-    {
-      "headline": "US Treasury Secretary Scott Bessent urges G20 to address China\u2019s $1.2 trillion trade surplus",
-      "take": "US Treasury Secretary urges G20 to address China's $1.2 trillion trade surplus",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-g20-china-trade-imbalances/"
+      "headline": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
+      "take": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

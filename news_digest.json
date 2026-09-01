@@ -1,96 +1,114 @@
 {
-  "generated": "2026-08-31T20:52:13.806742+00:00",
-  "ts": 1788209533,
+  "generated": "2026-09-01T00:39:38.415178+00:00",
+  "ts": 1788223178,
   "market": [
     {
+      "headline": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+      "take": "Robinhood Chain sets record $989M daily DEX volume as TVL grows",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136"
+    },
+    {
       "headline": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-      "take": "XRP ETFs attract $1.6B inflows across nine consecutive days since launch",
+      "take": "XRP ETFs extend inflow streak to nine days, attract $1.6B since launch",
       "source": "decrypt",
       "link": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days"
     },
     {
-      "headline": "Warsh\u2019s Jackson Hole speech fuels September Fed rate hike speculation",
-      "take": "Fed official remarks fuel market speculation about September interest rate hike",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warshs-jackson-hole-speech-fuels-september-fed-rate-hike-speculation/"
+      "headline": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
+      "take": "Strive adds $143M in Bitcoin as Treasury firms resume accumulation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376992/strive-adds-143-million-bitcoin"
     },
     {
-      "headline": "10-year Treasury yield crosses key threshold, prompting warnings of higher borrowing costs ahead",
-      "take": "Ten-year Treasury yield crosses key level, signals higher borrowing costs ahead",
+      "headline": "Argentina\u2019s crypto dollar premium narrows to 4% after lifting capital controls",
+      "take": "Argentina's crypto dollar premium narrows to 4% after capital controls lifted",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/10-year-treasury-yield-key-threshold-warnings/"
+      "link": "https://cryptobriefing.com/argentina-crypto-dollar-premium-narrows/"
     },
     {
-      "headline": "Solana validators approve doubling of disinflation rate, cutting supply faster",
-      "take": "Solana validators double disinflation rate, accelerating token supply reduction",
+      "headline": "Fidelity withdrawal limits could trap Bitcoin holders for weeks, research shows",
+      "take": "Fidelity withdrawal limits could trap Bitcoin holders for several weeks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-fees-record-inflation-cuts/"
-    },
-    {
-      "headline": "Technology equity funds pull in $195B in inflows, dwarfing every other sector combined",
-      "take": "Technology equity funds capture $195B in inflows, dominating all other sectors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/technology-equity-funds-195b-inflows/"
+      "link": "https://cryptobriefing.com/swan-ceo-fidelity-bitcoin-withdrawal-limits/"
     }
   ],
   "business": [
     {
-      "headline": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
-      "take": "Hyperliquid partners with Kraken parent Payward to expand US crypto derivatives",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129"
-    },
-    {
-      "headline": "Polymarket in talks to raise $1B at valuation above $20B, led by 1789 Capital",
-      "take": "Polymarket raises $1B funding round at over $20B valuation from 1789 Capital",
+      "headline": "Polymarket raises $1 billion at $21 billion valuation in 1789-led round",
+      "take": "Polymarket raises $1B at $21B valuation in 1789-led funding round",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-raises-1b-21b-valuation/"
+      "link": "https://cryptobriefing.com/1789-capital-polymarket-21-billion-valuation/"
     },
     {
-      "headline": "Guardian Audits announces Vanguard security program and $1M audit security fund",
-      "take": "Guardian Audits launches Vanguard security program with $1M audit fund",
+      "headline": "Andreessen Horowitz launches $1.1B AI hardware fund, then expands growth fund to $8.5B",
+      "take": "Andreessen Horowitz launches $1.1B AI hardware fund, expands growth to $8.5B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/guardian-audits-vanguard-security-program/"
+      "link": "https://cryptobriefing.com/a16z-growth-fund-machine-age-ai-hardware/"
     },
     {
-      "headline": "OpenSea adds Solana NFT trading more than four years after initial beta",
-      "take": "OpenSea adds Solana NFT trading four years after initial beta phase",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128"
+      "headline": "Anthropic signs massive cloud deal backed by Nvidia as AI compute race intensifies",
+      "take": "Anthropic signs massive cloud deal backed by Nvidia for AI compute",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-35b-nvidia-cloud-deal/"
     },
     {
-      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-      "take": "Russia's Sberbank reports $46B crypto trading volume, plans USDT loan products",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt"
+      "headline": "Robinhood Banking surpasses $4B in assets, CEO says",
+      "take": "Robinhood Banking surpasses $4B in assets under management",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-banking-surpasses-4b-assets/"
+    },
+    {
+      "headline": "Longshot launches prediction market on Base with free and paid contests",
+      "take": "Longshot launches prediction market on Base with free and paid contests",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/longshot-prediction-market-base-launch/"
     }
   ],
   "security": [
     {
-      "headline": "North Korean hackers move $30 million in bitcoin via Hyperliquid, data reveals",
-      "take": "North Korean hackers move $30M Bitcoin through Hyperliquid exchange",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korean-hackers-move-30-million-in-bitcoin-via-hyperliquid-data-reveals/"
+      "headline": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
+      "take": "North Korean hackers moving tens of millions on Hyperliquid exchange",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform"
     },
     {
-      "headline": "Apple claims OpenAI defendant used company MacBook to steal hardware trade secrets",
-      "take": "Apple accuses OpenAI defendant of stealing company hardware trade secrets",
+      "headline": "Anthropic resumes external cyber evaluations after AI models accidentally accessed real systems",
+      "take": "Anthropic resumes external evaluations after models accidentally accessed real systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-openai-macbook-trade-secret-lawsuit/"
+      "link": "https://cryptobriefing.com/anthropic-ai-models-unauthorized-access-cyber-evaluations/"
+    },
+    {
+      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+      "take": "Russia's Sberbank reports $46B crypto trading, plans crypto-backed loans",
+      "source": "decrypt",
+      "link": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt"
     }
   ],
   "policy": [
     {
       "headline": "Ireland excludes crypto from new tax-advantaged investment accounts",
-      "take": "Ireland excludes cryptocurrency from new tax-advantaged investment accounts",
+      "take": "Ireland excludes crypto from new tax-advantaged investment accounts",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
-      "take": "Former SEC and CFTC officials advocate lighter regulatory approach for crypto derivatives",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore"
+      "headline": "US funds Alcoa Corp. $93M gallium plant in Australia to break China\u2019s grip on critical minerals",
+      "take": "US funds $93M gallium plant in Australia to reduce China dependence",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-funds-alcoa-gallium-plant-australia/"
+    },
+    {
+      "headline": "Amazon sued by FTC and 22 US states over ad sales practices",
+      "take": "FTC and 22 states sue Amazon over deceptive ad sales practices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/amazon-ftc-lawsuit-ad-sales-practices/"
+    },
+    {
+      "headline": "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
+      "take": "SEC and FDA announce MOU to bolster cooperation and market integrity",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
     }
   ]
 }

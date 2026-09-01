@@ -1,114 +1,95 @@
 {
-  "generated": "2026-09-01T00:39:38.415178+00:00",
-  "ts": 1788223178,
+  "generated": "2026-09-01T08:44:21.654198+00:00",
+  "ts": 1788252261,
   "market": [
     {
-      "headline": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
-      "take": "Robinhood Chain sets record $989M daily DEX volume as TVL grows",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136"
+      "headline": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
+      "take": "Bitcoin ETFs resume inflows while ether funds extend buying streak to eleven days",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days"
     },
     {
-      "headline": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-      "take": "XRP ETFs extend inflow streak to nine days, attract $1.6B since launch",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days"
+      "headline": "Bitcoin \u2018Kimchi Premium\u2019 Is Back as South Korean Market Stirs",
+      "take": "Bitcoin kimchi premium reemerges as South Korean trading activity picks up momentum",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-kimchi-premium-is-back-as-south-korean-market-stirs"
     },
     {
-      "headline": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-      "take": "Strive adds $143M in Bitcoin as Treasury firms resume accumulation",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376992/strive-adds-143-million-bitcoin"
+      "headline": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "take": "Bitcoin holds above seventy-eight thousand; majors slide on hawkish Federal Reserve expectations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets"
     },
     {
-      "headline": "Argentina\u2019s crypto dollar premium narrows to 4% after lifting capital controls",
-      "take": "Argentina's crypto dollar premium narrows to 4% after capital controls lifted",
+      "headline": "CME\u2019s share of XRP futures jumps as token rallies 40% in a week",
+      "take": "CME's XRP futures share jumps significantly as token rallies forty percent weekly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/argentina-crypto-dollar-premium-narrows/"
+      "link": "https://cryptobriefing.com/cmes-share-of-xrp-futures-jumps-as-token-rallies-40-in-a-week/"
     },
     {
-      "headline": "Fidelity withdrawal limits could trap Bitcoin holders for weeks, research shows",
-      "take": "Fidelity withdrawal limits could trap Bitcoin holders for several weeks",
+      "headline": "US 2-year yield rises as Fed rate hike odds increase to 60%",
+      "take": "US two-year yield rises as Federal Reserve rate hike odds climb to sixty percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/swan-ceo-fidelity-bitcoin-withdrawal-limits/"
+      "link": "https://cryptobriefing.com/us-2-year-yield-rises-fed-rate-hike-odds/"
     }
   ],
   "business": [
     {
-      "headline": "Polymarket raises $1 billion at $21 billion valuation in 1789-led round",
-      "take": "Polymarket raises $1B at $21B valuation in 1789-led funding round",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/1789-capital-polymarket-21-billion-valuation/"
+      "headline": "Binance Offers Access to Options Tied to US Stocks, ETFs",
+      "take": "Binance launches options products tied to US stocks and exchange-traded funds for traders",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-01/binance-offers-access-to-options-tied-to-us-stocks-etfs"
     },
     {
-      "headline": "Andreessen Horowitz launches $1.1B AI hardware fund, then expands growth fund to $8.5B",
-      "take": "Andreessen Horowitz launches $1.1B AI hardware fund, expands growth to $8.5B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-growth-fund-machine-age-ai-hardware/"
-    },
-    {
-      "headline": "Anthropic signs massive cloud deal backed by Nvidia as AI compute race intensifies",
-      "take": "Anthropic signs massive cloud deal backed by Nvidia for AI compute",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-35b-nvidia-cloud-deal/"
-    },
-    {
-      "headline": "Robinhood Banking surpasses $4B in assets, CEO says",
-      "take": "Robinhood Banking surpasses $4B in assets under management",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-banking-surpasses-4b-assets/"
-    },
-    {
-      "headline": "Longshot launches prediction market on Base with free and paid contests",
-      "take": "Longshot launches prediction market on Base with free and paid contests",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/longshot-prediction-market-base-launch/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "take": "North Korean hackers moving tens of millions on Hyperliquid exchange",
+      "headline": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+      "take": "London Stock Exchange partners with Payward to tokenize major UK equities onchain",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform"
+      "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain"
     },
     {
-      "headline": "Anthropic resumes external cyber evaluations after AI models accidentally accessed real systems",
-      "take": "Anthropic resumes external evaluations after models accidentally accessed real systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-models-unauthorized-access-cyber-evaluations/"
+      "headline": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "take": "Trump Jr's firm leads one billion dollar Polymarket raise valuing platform at twenty-one billion",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report"
     },
     {
-      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-      "take": "Russia's Sberbank reports $46B crypto trading, plans crypto-backed loans",
-      "source": "decrypt",
-      "link": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt"
+      "headline": "Ark Invest buys $37 million worth of shares in Jack Dorsey\u2019s Block Inc",
+      "take": "Ark Invest acquires thirty-seven million dollars in Block shares, backing Jack Dorsey's company",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195"
+    },
+    {
+      "headline": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
+      "take": "DeFi Development Corp proposes twenty million dollar stock offering to acquire more Solana",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "Ireland excludes crypto from new tax-advantaged investment accounts",
-      "take": "Ireland excludes crypto from new tax-advantaged investment accounts",
+      "headline": "Singapore MAS proposes stablecoin regulations, public comment open until Oct 2026",
+      "take": "Singapore MAS proposes stablecoin regulations; public comment period extends through October twenty-twenty-six",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/singapore-mas-proposes-stablecoin-regulations-public-comment-open-until-oct-2026/"
+    },
+    {
+      "headline": "Russia\u2019s crypto regulation takes effect, boosting oversight and legitimacy",
+      "take": "Russia's new crypto regulation takes effect, establishing oversight framework and market legitimacy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russias-crypto-regulation-takes-effect-boosting-oversight-and-legitimacy/"
+    },
+    {
+      "headline": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+      "take": "Thailand SEC proposes allowing retail investors access to regulated overseas crypto derivatives trading",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US funds Alcoa Corp. $93M gallium plant in Australia to break China\u2019s grip on critical minerals",
-      "take": "US funds $93M gallium plant in Australia to reduce China dependence",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-funds-alcoa-gallium-plant-australia/"
-    },
-    {
-      "headline": "Amazon sued by FTC and 22 US states over ad sales practices",
-      "take": "FTC and 22 states sue Amazon over deceptive ad sales practices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-ftc-lawsuit-ad-sales-practices/"
-    },
-    {
-      "headline": "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
-      "take": "SEC and FDA announce MOU to bolster cooperation and market integrity",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+      "headline": "Strategy hits back at MSCI proposal, calling it \u2018discriminatory\u2019 against DATs",
+      "take": "Strategy disputes MSCI proposal, characterizing governance framework as discriminatory toward digital asset tokens",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201"
     }
   ]
 }

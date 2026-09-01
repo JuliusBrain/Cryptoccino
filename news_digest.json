@@ -1,90 +1,102 @@
 {
-  "generated": "2026-09-01T18:36:20.469309+00:00",
-  "ts": 1788287780,
+  "generated": "2026-09-01T23:21:26.532720+00:00",
+  "ts": 1788304886,
   "market": [
     {
-      "headline": "Crypto treasury companies reach $340B market cap as DATs outperform traditional crypto exposure",
-      "take": "Crypto treasury companies reach $340B market cap as DATs outperform",
+      "headline": "Global broad money supply surges $10.7T year-over-year to reach record $150T in June",
+      "take": "Global broad money supply reached record $150T in June, up $10.7T year-over-year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-treasury-companies-340b-market-cap/"
+      "link": "https://cryptobriefing.com/global-broad-money-supply-150-trillion-record/"
     },
     {
-      "headline": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
-      "take": "Bitcoin faces historical resistance as bullish bets test key level",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall"
-    },
-    {
-      "headline": "Cathie Wood\u2019s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
-      "take": "Ark Invest adds $37M Bitcoin and Block positions to portfolio",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block"
-    },
-    {
-      "headline": "Bitwise records 1.27M SOL in net staking inflows in August, becomes fifth-largest Solana validator",
-      "take": "Bitwise becomes fifth-largest Solana validator with 1.27M SOL inflows",
+      "headline": "Japan\u2019s 30-year bond yield hits record 4% amid inflation concerns",
+      "take": "Japan's 30-year bond yield hits record 4% as inflation concerns persist",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-sol-staking-inflows-august/"
+      "link": "https://cryptobriefing.com/japans-30-year-bond-yield-hits-record-4-amid-inflation-concerns/"
     },
     {
-      "headline": "US stock futures skid as traders brace for interest-rate hikes",
-      "take": "US stock futures decline as traders anticipate interest rate increases",
+      "headline": "Robinhood Chain DEX volume surges to $2B as trading climbs 61%",
+      "take": "Robinhood Chain DEX volume surges to $2B as trading climbs 61%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-stock-futures-decline-rate-hike-fears/"
+      "link": "https://cryptobriefing.com/robinhood-chain-dex-volume-surges-2b/"
+    },
+    {
+      "headline": "Bitcoin\u2019s (XBT) Biggest Hoarders Are Becoming Buffett Wannabes",
+      "take": "Bitcoin's largest holders increasingly adopting long-term holding strategies like Buffett",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/bitcoin-s-xbt-biggest-hoarders-are-becoming-buffett-wannabes"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
-      "take": "Robinhood's crypto network gains traction, boosts Arbitrum token value",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring"
-    },
-    {
-      "headline": "Base launches cbHYPE and cbZEC tokens backed by Coinbase custody",
-      "take": "Base launches cbHYPE and cbZEC tokens backed by Coinbase custody",
+      "headline": "Dell Technologies books record $61B in AI orders in Q2",
+      "take": "Dell Technologies books record $61B in AI orders during Q2",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-launches-cbhype-cbzec-coinbase-custody/"
+      "link": "https://cryptobriefing.com/dell-technologies-record-61b-ai-orders-q2/"
     },
     {
-      "headline": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
-      "take": "Citi, Goldman and peers collaborate on global stablecoin infrastructure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture"
-    },
-    {
-      "headline": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-      "take": "Solana Treasury DeFi corp seeks $20M to increase SOL holdings",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana"
-    },
-    {
-      "headline": "Sentora vaults on Morpho surpass $1B in total deposits",
-      "take": "Sentora vaults on Morpho exceed $1B in total deposits",
+      "headline": "AfterQuery becomes Y Combinator\u2019s fastest-ever unicorn at $3.2B valuation",
+      "take": "AfterQuery becomes Y Combinator's fastest-ever unicorn at $3.2B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sentora-morpho-vaults-billion-deposits/"
+      "link": "https://cryptobriefing.com/afterquery-yc-fastest-unicorn-3b-valuation/"
+    },
+    {
+      "headline": "Aerodrome\u2019s cbStock pools enable continuous trading of equities on Base",
+      "take": "Aerodrome's cbStock pools enable continuous equity trading on Base blockchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aerodrome-cbstock-pools-continuous-equity-trading/"
+    },
+    {
+      "headline": "StonkBrokers NFT collection enables stock-token transfers on Robinhood Chain",
+      "take": "StonkBrokers NFT collection enables stock-token transfers on Robinhood Chain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stonkbrokers-nft-stock-token-robinhood-chain/"
+    },
+    {
+      "headline": "Morgan Stanley analyst highlights Robinhood\u2019s revenue growth potential through prediction markets",
+      "take": "Morgan Stanley highlights Robinhood's revenue growth potential through prediction markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morgan-stanley-robinhood-prediction-markets-growth/"
     }
   ],
   "security": [
     {
-      "headline": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-      "take": "X users report unsolicited password reset emails in potential breach",
+      "headline": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "take": "Dropbox security breach exposes accounts through authentication flaw exploitation",
       "source": "decrypt",
-      "link": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset"
+      "link": "https://decrypt.co/377099/dropbox-security-breach"
+    },
+    {
+      "headline": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "take": "FBI probes service selling 153M+ drivers licenses to unauthorized buyers",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+    },
+    {
+      "headline": "CrowdStrike\u2019s George Kurtz addresses OpenAI agent hack concerns",
+      "take": "CrowdStrike COO addresses OpenAI agent hack concerns and mitigation steps",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crowdstrike-kurtz-openai-agent-hack/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
-      "take": "SEC updates decades-old transfer agent rules with blockchain provisions",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC sets September 17 roundtable agenda for 24-hour equity trading preparations",
+      "take": "SEC sets September 17 roundtable agenda for 24-hour equity trading preparations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-roundtable-24-hour-trading-september-2026/"
     },
     {
-      "headline": "Clarity Act passing seen as win for crypto, but failure won\u2019t spell disaster",
-      "take": "Clarity Act passage viewed as crypto win though failure manageable",
+      "headline": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "take": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Fairshake scales back ad spending in Massachusetts primary",
+      "take": "Fairshake crypto PAC scales back ad spending in Massachusetts primary",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-crypto-senate-vote/"
+      "link": "https://cryptobriefing.com/fairshake-massachusetts-primary-spending/"
     }
   ]
 }

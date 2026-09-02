@@ -1,96 +1,84 @@
 {
-  "generated": "2026-09-02T11:26:05.806477+00:00",
-  "ts": 1788348365,
+  "generated": "2026-09-02T16:39:26.133061+00:00",
+  "ts": 1788367166,
   "market": [
     {
-      "headline": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
-      "take": "Bitcoin slips below $76,500 as geopolitical tensions push oil above $93",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93"
-    },
-    {
-      "headline": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-      "take": "Fed rate increase would be mistake as bitcoin, gold, stocks fall together",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall"
-    },
-    {
-      "headline": "JPMorgan warns rising bond yields threaten global equities in September",
-      "take": "JPMorgan warns rising bond yields threaten global equities in September",
+      "headline": "Bitcoin holds above $77,000 after weak hiring report fails to shake rate hike bets",
+      "take": "Bitcoin holds above $77k despite weak jobs data and rate hike uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-rising-bond-yields-threaten-equities/"
+      "link": "https://cryptobriefing.com/bitcoin-holds-77000-weak-hiring-report/"
     },
     {
-      "headline": "Gold hits three-week low as stronger dollar, inflation fears weigh",
-      "take": "Gold hits three-week low amid stronger dollar and inflation concerns",
+      "headline": "Solana approves change to token issuance schedule with 67% support",
+      "take": "Solana token issuance schedule change approved with strong 67% voter support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-hits-three-week-low-as-stronger-dollar-inflation-fears-weigh/"
+      "link": "https://cryptobriefing.com/solana-double-disinflation-governance-vote/"
     },
     {
-      "headline": "JPMorgan: 30K-70K new US jobs ideal, CPI may sway Fed decisions",
-      "take": "JPMorgan sees 30K-70K new US jobs ideal, CPI may sway Fed decisions",
+      "headline": "Robinhood Chain total tokenized value surpasses $88M just weeks after mainnet launch",
+      "take": "Robinhood Chain tokenized assets exceed $88M weeks after mainnet launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-30k-70k-new-us-jobs-ideal-cpi-may-sway-fed-decisions/"
+      "link": "https://cryptobriefing.com/robinhood-chain-tokenized-value-88-million/"
     }
   ],
   "business": [
     {
-      "headline": "Hyperscale Data shuts down Michigan bitcoin mining to chase $1.2B AI deal",
-      "take": "Hyperscale Data shuts Michigan bitcoin mining to chase $1.2B AI deal",
+      "headline": "Centrifuge integrates onchain reserve management for loyalty programs with Janus Henderson and SMT",
+      "take": "Centrifuge integrates onchain reserve management for loyalty programs via partnerships",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperscale-data-bitcoin-mining-ai-pivot/"
+      "link": "https://cryptobriefing.com/centrifuge-onchain-loyalty-reserve-management/"
     },
     {
-      "headline": "Japan\u2019s Remixpoint exits ETH, SOL, XRP and DOGE to focus on Bitcoin",
-      "take": "Japan's Remixpoint exits ETH, SOL, XRP, DOGE to focus on Bitcoin",
+      "headline": "Bitwise launches PAPY premium RWA vault on Morpho for yield generation",
+      "take": "Bitwise launches premium RWA yield vault on Morpho protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/remixpoint-sells-altcoins-bitcoin-only/"
+      "link": "https://cryptobriefing.com/bitwise-papy-rwa-vault-morpho/"
     },
     {
-      "headline": "Vertiv drops $1.45B to acquire microgrid specialist UIG as AI data center power demand surges",
-      "take": "Vertiv acquires microgrid specialist UIG for $1.45B amid AI data center demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vertiv-acquires-uig-data-center-power/"
-    },
-    {
-      "headline": "Capital B raises $9M for Bitcoin treasury expansion",
-      "take": "Capital B raises $9M for Bitcoin treasury expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/capital-b-raises-9m-bitcoin-treasury/"
-    },
-    {
-      "headline": "OpenPayd adds 43 US licenses ahead of planned Nasdaq debut",
-      "take": "OpenPayd adds 43 US licenses ahead of planned Nasdaq debut",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openpayd-adds-43-us-licenses-ahead-of-planned-nasdaq-debut/"
+      "headline": "World open-sources ProveKit, a zero-knowledge identity proving toolkit",
+      "take": "World open-sources ProveKit zero-knowledge identity toolkit",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364"
     }
   ],
   "security": [
     {
-      "headline": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-      "take": "Lawsuit alleges Tether froze $42.4M USDT before US warrant issued",
+      "headline": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+      "take": "CrowdStrike and feds dismantle Russian malware stealing crypto for eight years",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant"
+      "link": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years"
+    },
+    {
+      "headline": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+      "take": "Tether sued over alleged unlawful freeze of $42.4M in USDT",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt"
+    },
+    {
+      "headline": "CoinGecko investigates outage affecting portfolio balances",
+      "take": "CoinGecko investigates service outage affecting user portfolio balances",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coingecko-portfolio-balance-issue/"
     }
   ],
   "policy": [
     {
-      "headline": "Thailand adopts crypto Travel Rule requiring wallet checks and five-year data retention",
-      "take": "Thailand adopts crypto Travel Rule requiring wallet checks, five-year retention",
+      "headline": "G20 to develop clear regulatory framework for crypto and stablecoins",
+      "take": "G20 to develop clear regulatory framework for crypto and stablecoins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thailand-crypto-travel-rule-wallet-checks/"
+      "link": "https://cryptobriefing.com/g20-to-develop-clear-regulatory-framework-for-crypto-and-stablecoins/"
     },
     {
-      "headline": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-      "take": "SEC proposes first transfer agent overhaul in 40 years for tokenization",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization"
+      "headline": "Atkins says SEC crypto proposal aims to bring innovators back to US",
+      "take": "SEC crypto proposal aims to bring innovation back to US, says Atkins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/atkins-says-sec-crypto-proposal-aims-to-bring-innovators-back-to-us/"
     },
     {
-      "headline": "Crypto industry group urges SEC to streamline novel ETP approvals",
-      "take": "Crypto industry urges SEC to streamline novel ETP approval processes",
+      "headline": "New Jersey petitions Supreme Court over prediction market ruling",
+      "take": "New Jersey petitions Supreme Court over prediction market ruling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-a16z-cci-sec-etf-restrictions/"
+      "link": "https://cryptobriefing.com/new-jersey-supreme-court-prediction-market-kalshi/"
     }
   ]
 }

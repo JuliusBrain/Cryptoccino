@@ -1,100 +1,94 @@
 {
-  "generated": "2026-09-01T23:21:26.532720+00:00",
-  "ts": 1788304886,
+  "generated": "2026-09-02T04:42:29.578999+00:00",
+  "ts": 1788324149,
   "market": [
     {
+      "headline": "Bitcoin withstands $90 oil and rising yields as gold slides. A firm dollar is the catch",
+      "take": "Bitcoin holds steady as dollar strengthens despite oil and yield pressures",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch"
+    },
+    {
       "headline": "Global broad money supply surges $10.7T year-over-year to reach record $150T in June",
-      "take": "Global broad money supply reached record $150T in June, up $10.7T year-over-year",
+      "take": "Global broad money supply reaches record $150T, up $10.7T year-over-year",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/global-broad-money-supply-150-trillion-record/"
     },
     {
-      "headline": "Japan\u2019s 30-year bond yield hits record 4% amid inflation concerns",
-      "take": "Japan's 30-year bond yield hits record 4% as inflation concerns persist",
+      "headline": "Traders hedge portfolios as Treasury yields hit multiyear highs",
+      "take": "Traders hedge as Treasury yields hit multiyear highs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japans-30-year-bond-yield-hits-record-4-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/treasury-yields-multiyear-highs-hedging/"
     },
     {
-      "headline": "Robinhood Chain DEX volume surges to $2B as trading climbs 61%",
-      "take": "Robinhood Chain DEX volume surges to $2B as trading climbs 61%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-dex-volume-surges-2b/"
+      "headline": "Kalshi and Polymarket\u2019s combined volume falls 15% in August, first monthly decline in a year",
+      "take": "Kalshi and Polymarket combined volume declines 15% in August",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309"
     },
     {
-      "headline": "Bitcoin\u2019s (XBT) Biggest Hoarders Are Becoming Buffett Wannabes",
-      "take": "Bitcoin's largest holders increasingly adopting long-term holding strategies like Buffett",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/bitcoin-s-xbt-biggest-hoarders-are-becoming-buffett-wannabes"
+      "headline": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+      "take": "Robinhood Chain DEX volume jumps to $1.6 billion",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps"
     }
   ],
   "business": [
     {
-      "headline": "Dell Technologies books record $61B in AI orders in Q2",
-      "take": "Dell Technologies books record $61B in AI orders during Q2",
+      "headline": "Privy expands wallet APIs with fiat deposits stablecoin conversion and payouts",
+      "take": "Privy expands wallet APIs with fiat deposits and stablecoin conversion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dell-technologies-record-61b-ai-orders-q2/"
+      "link": "https://cryptobriefing.com/privy-fiat-deposits-payouts-api-bridge-stablecoin/"
     },
     {
-      "headline": "AfterQuery becomes Y Combinator\u2019s fastest-ever unicorn at $3.2B valuation",
-      "take": "AfterQuery becomes Y Combinator's fastest-ever unicorn at $3.2B valuation",
+      "headline": "Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion",
+      "take": "Hyperliquid Strategies expands equity facility to $2.5 billion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304"
+    },
+    {
+      "headline": "AfterQuery becomes Y Combinator\u2019s fastest unicorn after 10x valuation surge",
+      "take": "AfterQuery becomes Y Combinator's fastest unicorn after 10x valuation surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/afterquery-yc-fastest-unicorn-3b-valuation/"
     },
     {
-      "headline": "Aerodrome\u2019s cbStock pools enable continuous trading of equities on Base",
-      "take": "Aerodrome's cbStock pools enable continuous equity trading on Base blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-cbstock-pools-continuous-equity-trading/"
+      "headline": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+      "take": "Nvidia invests $3.5 billion in MediaTek to expand beyond GPUs",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek"
     },
     {
       "headline": "StonkBrokers NFT collection enables stock-token transfers on Robinhood Chain",
       "take": "StonkBrokers NFT collection enables stock-token transfers on Robinhood Chain",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/stonkbrokers-nft-stock-token-robinhood-chain/"
-    },
-    {
-      "headline": "Morgan Stanley analyst highlights Robinhood\u2019s revenue growth potential through prediction markets",
-      "take": "Morgan Stanley highlights Robinhood's revenue growth potential through prediction markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-robinhood-prediction-markets-growth/"
     }
   ],
   "security": [
     {
-      "headline": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
-      "take": "Dropbox security breach exposes accounts through authentication flaw exploitation",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377099/dropbox-security-breach"
-    },
-    {
       "headline": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "take": "FBI probes service selling 153M+ drivers licenses to unauthorized buyers",
+      "take": "FBI probes service selling 153 million-plus drivers licenses",
       "source": "krebsonsecurity",
       "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
     },
     {
-      "headline": "CrowdStrike\u2019s George Kurtz addresses OpenAI agent hack concerns",
-      "take": "CrowdStrike COO addresses OpenAI agent hack concerns and mitigation steps",
+      "headline": "Core DAO plans emergency hard fork after validators draw excess rewards",
+      "take": "Core DAO plans emergency hard fork after validators draw excess rewards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crowdstrike-kurtz-openai-agent-hack/"
+      "link": "https://cryptobriefing.com/core-dao-emergency-hard-fork-validators/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC sets September 17 roundtable agenda for 24-hour equity trading preparations",
-      "take": "SEC sets September 17 roundtable agenda for 24-hour equity trading preparations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-roundtable-24-hour-trading-september-2026/"
-    },
-    {
-      "headline": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
-      "take": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "take": "SEC proposes transfer agent rule for around-the-clock US trading",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading"
     },
     {
       "headline": "Fairshake scales back ad spending in Massachusetts primary",
-      "take": "Fairshake crypto PAC scales back ad spending in Massachusetts primary",
+      "take": "Fairshake scales back ad spending in Massachusetts primary",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fairshake-massachusetts-primary-spending/"
     }

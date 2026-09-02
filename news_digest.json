@@ -1,84 +1,101 @@
 {
-  "generated": "2026-09-02T16:39:26.133061+00:00",
-  "ts": 1788367166,
+  "generated": "2026-09-02T21:06:57.552660+00:00",
+  "ts": 1788383217,
   "market": [
     {
-      "headline": "Bitcoin holds above $77,000 after weak hiring report fails to shake rate hike bets",
-      "take": "Bitcoin holds above $77k despite weak jobs data and rate hike uncertainty",
+      "headline": "Nvidia now accounts for 8% of the entire S&P 500",
+      "take": "Nvidia now represents 8% of S&P 500 index weight",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-holds-77000-weak-hiring-report/"
+      "link": "https://cryptobriefing.com/nvidia-8-percent-sp500-weight/"
     },
     {
-      "headline": "Solana approves change to token issuance schedule with 67% support",
-      "take": "Solana token issuance schedule change approved with strong 67% voter support",
+      "headline": "August DEX volume hits highest level since March as TVL climbs $18B",
+      "take": "DEX volume hits highest since March as TVL climbs $18B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-double-disinflation-governance-vote/"
+      "link": "https://cryptobriefing.com/august-dex-volume-highest-since-march/"
     },
     {
-      "headline": "Robinhood Chain total tokenized value surpasses $88M just weeks after mainnet launch",
-      "take": "Robinhood Chain tokenized assets exceed $88M weeks after mainnet launch",
+      "headline": "AUSD supply on Monad surges 462% to $184M over 90 days",
+      "take": "AUSD supply on Monad surges 462% to $184M in 90 days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-tokenized-value-88-million/"
+      "link": "https://cryptobriefing.com/ausd-supply-monad-surges-462-percent/"
+    },
+    {
+      "headline": "Strive\u2019s SATA raises enough to buy 143 Bitcoin in 10-day streak",
+      "take": "Strive's SATA raises enough capital to buy 143 Bitcoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-sata-bitcoin-purchase-streak/"
+    },
+    {
+      "headline": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
+      "take": "Bitcoin pattern analysis suggests potential flash crash scenario",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern"
     }
   ],
   "business": [
     {
-      "headline": "Centrifuge integrates onchain reserve management for loyalty programs with Janus Henderson and SMT",
-      "take": "Centrifuge integrates onchain reserve management for loyalty programs via partnerships",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-onchain-loyalty-reserve-management/"
-    },
-    {
-      "headline": "Bitwise launches PAPY premium RWA vault on Morpho for yield generation",
-      "take": "Bitwise launches premium RWA yield vault on Morpho protocol",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-papy-rwa-vault-morpho/"
-    },
-    {
-      "headline": "World open-sources ProveKit, a zero-knowledge identity proving toolkit",
-      "take": "World open-sources ProveKit zero-knowledge identity toolkit",
+      "headline": "Anthony Armstrong, former CFO at Elon Musk\u2019s xAI and X, joins Coinbase board",
+      "take": "Former xAI and X CFO Anthony Armstrong joins Coinbase board",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364"
-    }
-  ],
-  "security": [
-    {
-      "headline": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "take": "CrowdStrike and feds dismantle Russian malware stealing crypto for eight years",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years"
+      "link": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405"
     },
     {
-      "headline": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-      "take": "Tether sued over alleged unlawful freeze of $42.4M in USDT",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt"
-    },
-    {
-      "headline": "CoinGecko investigates outage affecting portfolio balances",
-      "take": "CoinGecko investigates service outage affecting user portfolio balances",
+      "headline": "Securitize integrates USDG into investor flows via Global Dollar Network",
+      "take": "Securitize integrates USDG into investor flows via Global Dollar Network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coingecko-portfolio-balance-issue/"
+      "link": "https://cryptobriefing.com/securitize-usdg-global-dollar-network/"
+    },
+    {
+      "headline": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
+      "take": "Goldman Sachs and BofA among 21 banks planning joint stablecoin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin"
+    },
+    {
+      "headline": "Meta unveils its most powerful AI model, nearing top competitors",
+      "take": "Meta unveils most powerful AI model nearing top competitors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-muse-spark-ai-model-competitors/"
+    },
+    {
+      "headline": "Societe Generale\u2019s EURCV gains $5.6M, second-fastest-growing euro stablecoin",
+      "take": "Societe Generale's EURCV gains $5.6M as second-fastest-growing euro stablecoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/societe-generale-eurcv-euro-stablecoin-growth/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "G20 to develop clear regulatory framework for crypto and stablecoins",
-      "take": "G20 to develop clear regulatory framework for crypto and stablecoins",
+      "headline": "Payward delays IPO to second quarter of 2027 at earliest",
+      "take": "Kraken parent Payward delays IPO to Q2 2027 at earliest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/g20-to-develop-clear-regulatory-framework-for-crypto-and-stablecoins/"
+      "link": "https://cryptobriefing.com/payward-delays-ipo-2027/"
     },
     {
-      "headline": "Atkins says SEC crypto proposal aims to bring innovators back to US",
-      "take": "SEC crypto proposal aims to bring innovation back to US, says Atkins",
+      "headline": "US Department of Justice backs OpenAI, argues restricting AI training data would hurt American prosperity",
+      "take": "US Department of Justice backs OpenAI on AI training data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/atkins-says-sec-crypto-proposal-aims-to-bring-innovators-back-to-us/"
+      "link": "https://cryptobriefing.com/doj-backs-openai-ai-training-copyright/"
     },
     {
-      "headline": "New Jersey petitions Supreme Court over prediction market ruling",
-      "take": "New Jersey petitions Supreme Court over prediction market ruling",
+      "headline": "New Jersey officials petition US Supreme Court over prediction markets",
+      "take": "New Jersey petitions US Supreme Court over prediction market regulation",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "US targets airlines, digital assets linked to Iran as Treasury ramps up sanctions pressure",
+      "take": "US Treasury targets airlines and digital assets linked to Iran",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-jersey-supreme-court-prediction-market-kalshi/"
+      "link": "https://cryptobriefing.com/us-targets-iran-airlines-digital-assets-sanctions/"
+    },
+    {
+      "headline": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+      "take": "Crypto groups push SEC for tailored rules on novel ETFs",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs"
     }
   ]
 }

@@ -1,96 +1,96 @@
 {
-  "generated": "2026-09-02T04:42:29.578999+00:00",
-  "ts": 1788324149,
+  "generated": "2026-09-02T11:26:05.806477+00:00",
+  "ts": 1788348365,
   "market": [
     {
-      "headline": "Bitcoin withstands $90 oil and rising yields as gold slides. A firm dollar is the catch",
-      "take": "Bitcoin holds steady as dollar strengthens despite oil and yield pressures",
+      "headline": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
+      "take": "Bitcoin slips below $76,500 as geopolitical tensions push oil above $93",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch"
+      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93"
     },
     {
-      "headline": "Global broad money supply surges $10.7T year-over-year to reach record $150T in June",
-      "take": "Global broad money supply reaches record $150T, up $10.7T year-over-year",
+      "headline": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
+      "take": "Fed rate increase would be mistake as bitcoin, gold, stocks fall together",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall"
+    },
+    {
+      "headline": "JPMorgan warns rising bond yields threaten global equities in September",
+      "take": "JPMorgan warns rising bond yields threaten global equities in September",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-broad-money-supply-150-trillion-record/"
+      "link": "https://cryptobriefing.com/jpmorgan-rising-bond-yields-threaten-equities/"
     },
     {
-      "headline": "Traders hedge portfolios as Treasury yields hit multiyear highs",
-      "take": "Traders hedge as Treasury yields hit multiyear highs",
+      "headline": "Gold hits three-week low as stronger dollar, inflation fears weigh",
+      "take": "Gold hits three-week low amid stronger dollar and inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-yields-multiyear-highs-hedging/"
+      "link": "https://cryptobriefing.com/gold-hits-three-week-low-as-stronger-dollar-inflation-fears-weigh/"
     },
     {
-      "headline": "Kalshi and Polymarket\u2019s combined volume falls 15% in August, first monthly decline in a year",
-      "take": "Kalshi and Polymarket combined volume declines 15% in August",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309"
-    },
-    {
-      "headline": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-      "take": "Robinhood Chain DEX volume jumps to $1.6 billion",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps"
+      "headline": "JPMorgan: 30K-70K new US jobs ideal, CPI may sway Fed decisions",
+      "take": "JPMorgan sees 30K-70K new US jobs ideal, CPI may sway Fed decisions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-30k-70k-new-us-jobs-ideal-cpi-may-sway-fed-decisions/"
     }
   ],
   "business": [
     {
-      "headline": "Privy expands wallet APIs with fiat deposits stablecoin conversion and payouts",
-      "take": "Privy expands wallet APIs with fiat deposits and stablecoin conversion",
+      "headline": "Hyperscale Data shuts down Michigan bitcoin mining to chase $1.2B AI deal",
+      "take": "Hyperscale Data shuts Michigan bitcoin mining to chase $1.2B AI deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/privy-fiat-deposits-payouts-api-bridge-stablecoin/"
+      "link": "https://cryptobriefing.com/hyperscale-data-bitcoin-mining-ai-pivot/"
     },
     {
-      "headline": "Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion",
-      "take": "Hyperliquid Strategies expands equity facility to $2.5 billion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304"
-    },
-    {
-      "headline": "AfterQuery becomes Y Combinator\u2019s fastest unicorn after 10x valuation surge",
-      "take": "AfterQuery becomes Y Combinator's fastest unicorn after 10x valuation surge",
+      "headline": "Japan\u2019s Remixpoint exits ETH, SOL, XRP and DOGE to focus on Bitcoin",
+      "take": "Japan's Remixpoint exits ETH, SOL, XRP, DOGE to focus on Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/afterquery-yc-fastest-unicorn-3b-valuation/"
+      "link": "https://cryptobriefing.com/remixpoint-sells-altcoins-bitcoin-only/"
     },
     {
-      "headline": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-      "take": "Nvidia invests $3.5 billion in MediaTek to expand beyond GPUs",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek"
-    },
-    {
-      "headline": "StonkBrokers NFT collection enables stock-token transfers on Robinhood Chain",
-      "take": "StonkBrokers NFT collection enables stock-token transfers on Robinhood Chain",
+      "headline": "Vertiv drops $1.45B to acquire microgrid specialist UIG as AI data center power demand surges",
+      "take": "Vertiv acquires microgrid specialist UIG for $1.45B amid AI data center demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stonkbrokers-nft-stock-token-robinhood-chain/"
+      "link": "https://cryptobriefing.com/vertiv-acquires-uig-data-center-power/"
+    },
+    {
+      "headline": "Capital B raises $9M for Bitcoin treasury expansion",
+      "take": "Capital B raises $9M for Bitcoin treasury expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/capital-b-raises-9m-bitcoin-treasury/"
+    },
+    {
+      "headline": "OpenPayd adds 43 US licenses ahead of planned Nasdaq debut",
+      "take": "OpenPayd adds 43 US licenses ahead of planned Nasdaq debut",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openpayd-adds-43-us-licenses-ahead-of-planned-nasdaq-debut/"
     }
   ],
   "security": [
     {
-      "headline": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "take": "FBI probes service selling 153 million-plus drivers licenses",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
-    },
-    {
-      "headline": "Core DAO plans emergency hard fork after validators draw excess rewards",
-      "take": "Core DAO plans emergency hard fork after validators draw excess rewards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/core-dao-emergency-hard-fork-validators/"
+      "headline": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+      "take": "Lawsuit alleges Tether froze $42.4M USDT before US warrant issued",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant"
     }
   ],
   "policy": [
     {
-      "headline": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
-      "take": "SEC proposes transfer agent rule for around-the-clock US trading",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading"
+      "headline": "Thailand adopts crypto Travel Rule requiring wallet checks and five-year data retention",
+      "take": "Thailand adopts crypto Travel Rule requiring wallet checks, five-year retention",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/thailand-crypto-travel-rule-wallet-checks/"
     },
     {
-      "headline": "Fairshake scales back ad spending in Massachusetts primary",
-      "take": "Fairshake scales back ad spending in Massachusetts primary",
+      "headline": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
+      "take": "SEC proposes first transfer agent overhaul in 40 years for tokenization",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization"
+    },
+    {
+      "headline": "Crypto industry group urges SEC to streamline novel ETP approvals",
+      "take": "Crypto industry urges SEC to streamline novel ETP approval processes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fairshake-massachusetts-primary-spending/"
+      "link": "https://cryptobriefing.com/grayscale-a16z-cci-sec-etf-restrictions/"
     }
   ]
 }

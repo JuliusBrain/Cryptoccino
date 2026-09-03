@@ -1,96 +1,89 @@
 {
-  "generated": "2026-09-03T16:30:38.291093+00:00",
-  "ts": 1788453038,
+  "generated": "2026-09-03T21:06:43.259157+00:00",
+  "ts": 1788469603,
   "market": [
     {
-      "headline": "Bitcoin rises above $81,000 as Fed rate hike odds tumble",
-      "take": "Bitcoin rises above $81,000 as Federal Reserve rate cut odds increase",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surges-81k-short-liquidations/"
+      "headline": "Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks",
+      "take": "Crypto market cap surges to $2.82 trillion as stocks rally",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478"
     },
     {
-      "headline": "Bitcoin experiences extreme fund flows for six consecutive days, a pattern that historically precedes price drops",
-      "take": "Bitcoin experiences extreme fund flows for six days, pattern historically precedes drops",
+      "headline": "Robinhood Chain generates $1B in annualized fees as daily revenue surges past $3.75M",
+      "take": "Robinhood Chain generates $1B annualized fees, daily revenue past $3.75M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-extreme-fund-flows-cryptoquant/"
+      "link": "https://cryptobriefing.com/robinhood-chain-billion-dollar-fees/"
     },
     {
-      "headline": "Crypto market rebounds as $370M in shorts liquidated in 24 hours",
-      "take": "Crypto market rebounds as $370M in shorts liquidated within 24 hours",
+      "headline": "Strive raises funds to acquire 220 Bitcoin in 11-day streak",
+      "take": "Strive raises funds to acquire 220 Bitcoin in eleven-day streak",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-rebounds-as-370m-in-shorts-liquidated-in-24-hours/"
+      "link": "https://cryptobriefing.com/strive-raises-funds-220-bitcoin-streak/"
     },
     {
-      "headline": "Binance renews USD1 airdrop for another four weeks with 6% yield",
-      "take": "Binance renews USD stablecoin airdrop for four weeks offering 6% yield",
+      "headline": "Block reports $433M in unrealized Bitcoin gains under Dorsey",
+      "take": "Block reports $433M in unrealized Bitcoin gains under Dorsey",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-usd1-airdrop-renewed-6-percent-yield/"
+      "link": "https://cryptobriefing.com/block-unrealized-bitcoin-gains-dorsey/"
     },
     {
-      "headline": "Polymarket rolls out perps trading with up to 20x leverage",
-      "take": "Polymarket rolls out perpetuals trading with up to 20x leverage available",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-perpetual-futures-20x-leverage/"
+      "headline": "Stablecoins Raise Debasement Trade Paradox in Latin America",
+      "take": "Stablecoins raise debasement trade paradox concerns in Latin America",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-03/stablecoins-raise-debasement-trade-paradox-in-latin-america"
     }
   ],
   "business": [
     {
-      "headline": "Diameter Pay raises $10M in Series A to power cross-border payments with crypto rails",
-      "take": "Diameter Pay raises $10M Series A for cross-border crypto payments infrastructure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/diameter-pay-series-a-funding/"
-    },
-    {
-      "headline": "Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs",
-      "take": "Strive CEO says company could end 2026 as second-largest Bitcoin holder",
+      "headline": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
+      "take": "Coinbase seeks SEC approval to list 24/7 equity perpetuals",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455"
+      "link": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487"
     },
     {
-      "headline": "Revolut wins conditional approval to launch US national bank",
-      "take": "Revolut wins conditional approval to launch US national bank operations",
+      "headline": "Bitwise partners with Hargreaves Lansdown to offer Bitcoin ETPs in UK",
+      "take": "Bitwise partners with Hargreaves Lansdown to offer Bitcoin ETPs in UK",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/revolut-provisional-us-banking-license/"
+      "link": "https://cryptobriefing.com/bitwise-hargreaves-lansdown-bitcoin-etps-uk/"
     },
     {
-      "headline": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
-      "take": "SoFi links banking network and stablecoin to Kraken in new partnership",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken"
-    },
-    {
-      "headline": "Bitwise Premium RWA Vault (PAPY) reaches $8M in deposits within one day of launch",
-      "take": "Bitwise Premium RWA Vault reaches $8M deposits within single day of launch",
+      "headline": "EVE Frontier selects Sui for blockchain integration, ditching Ethereum L2",
+      "take": "EVE Frontier selects Sui for blockchain integration, ditching Ethereum L2",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-papy-rwa-vault-8m-deposits/"
+      "link": "https://cryptobriefing.com/eve-frontier-sui-blockchain-gaming-integration/"
+    },
+    {
+      "headline": "Blockworks\u2019 Token Transparency Framework introduces fact sheets to standardize tokenized asset disclosures",
+      "take": "Blockworks introduces token transparency framework for standardized asset disclosures",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/token-transparency-framework-fact-sheets/"
+    },
+    {
+      "headline": "Solana Mobile\u2019s CLOCK IN hackathon offers $135,000 in prizes for mobile dApp builders",
+      "take": "Solana Mobile's hackathon offers $135,000 in prizes for mobile dApp builders",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-mobile-clock-in-hackathon-135000-prizes/"
     }
   ],
-  "security": [
-    {
-      "headline": "FBI Seizes $560K in Crypto From Hamas Fundraising Network",
-      "take": "FBI seizes $560K in crypto from Hamas fundraising network operations",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/fbi-seizes-hamas-crypto-fundraising-network/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Senate to hold initial vote on CLARITY Act September 15, House vote may delay",
-      "take": "Senate to hold initial vote on CLARITY Act crypto regulation September 15",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-to-hold-initial-vote-on-clarity-act-september-15-house-vote-may-delay/"
+      "headline": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
+      "take": "Michigan authorities continue pursuit to block Kalshi prediction market",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Australian regulator ASIC urges digital asset firms to complete licensing transition by Sept. 30",
-      "take": "Australian regulator ASIC urges digital asset firms complete licensing by Sept 30",
+      "headline": "Senate advances bill allowing contractors to conduct military hacking for US government",
+      "take": "Senate advances bill allowing contractors to conduct military hacking for US",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australian-regulator-asic-urges-digital-asset-firms-complete-licensing-transition-sept-30/"
+      "link": "https://cryptobriefing.com/senate-contractor-military-hacking-bill/"
     },
     {
-      "headline": "US sanctions tighten, Iran\u2019s economy hit by 35% trade drop, 66% inflation",
-      "take": "US sanctions tighten, Iran's economy hit by 35% trade drop",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-sanctions-tighten-irans-economy-hit-by-35-trade-drop-66-inflation/"
+      "headline": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
+      "take": "Bernie Sanders pushes bill to ban advanced AI development",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai"
     }
   ]
 }

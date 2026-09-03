@@ -1,102 +1,96 @@
 {
-  "generated": "2026-09-03T11:22:29.792373+00:00",
-  "ts": 1788434549,
+  "generated": "2026-09-03T16:30:38.291093+00:00",
+  "ts": 1788453038,
   "market": [
     {
-      "headline": "Crypto majors bounce as global funds cut dollar hedges to lowest since 2015",
-      "take": "Crypto majors bounce as global funds cut dollar hedges to lowest since 2015",
+      "headline": "Bitcoin rises above $81,000 as Fed rate hike odds tumble",
+      "take": "Bitcoin rises above $81,000 as Federal Reserve rate cut odds increase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-bounce-global-funds-dollar-hedges-lowest-2015/"
+      "link": "https://cryptobriefing.com/bitcoin-surges-81k-short-liquidations/"
     },
     {
-      "headline": "The yen is surging and it\u2019s helping bitcoin, for now",
-      "take": "Yen surge is helping Bitcoin price action for now",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now"
-    },
-    {
-      "headline": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
-      "take": "Bitcoin-gold correlation hits six-year high, equity decoupling uncertain",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437"
-    },
-    {
-      "headline": "Bitcoin\u2019s SOPR indicator breaks 11-month suppression, signaling potential cycle reversal",
-      "take": "Bitcoin SOPR indicator breaks 11-month suppression, signals potential cycle reversal",
+      "headline": "Bitcoin experiences extreme fund flows for six consecutive days, a pattern that historically precedes price drops",
+      "take": "Bitcoin experiences extreme fund flows for six days, pattern historically precedes drops",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-sopr-break-cycle-reversal/"
+      "link": "https://cryptobriefing.com/bitcoin-extreme-fund-flows-cryptoquant/"
     },
     {
-      "headline": "Bitcoin Breakout Fades Amid Choppy US Demand, Hawkish Fed",
-      "take": "Bitcoin breakout fades amid choppy US demand and hawkish Fed",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-03/bitcoin-breakout-fades-amid-choppy-us-demand-hawkish-fed"
+      "headline": "Crypto market rebounds as $370M in shorts liquidated in 24 hours",
+      "take": "Crypto market rebounds as $370M in shorts liquidated within 24 hours",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-market-rebounds-as-370m-in-shorts-liquidated-in-24-hours/"
+    },
+    {
+      "headline": "Binance renews USD1 airdrop for another four weeks with 6% yield",
+      "take": "Binance renews USD stablecoin airdrop for four weeks offering 6% yield",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-usd1-airdrop-renewed-6-percent-yield/"
+    },
+    {
+      "headline": "Polymarket rolls out perps trading with up to 20x leverage",
+      "take": "Polymarket rolls out perpetuals trading with up to 20x leverage available",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-perpetual-futures-20x-leverage/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic files for US IPO, valued at $965B: NYT",
-      "take": "Anthropic files for US IPO, valued at $965B",
+      "headline": "Diameter Pay raises $10M in Series A to power cross-border payments with crypto rails",
+      "take": "Diameter Pay raises $10M Series A for cross-border crypto payments infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-files-for-us-ipo-valued-at-965b-nyt/"
+      "link": "https://cryptobriefing.com/diameter-pay-series-a-funding/"
     },
     {
-      "headline": "Standard Chartered launches Bitcoin, Ether spot trading for UAE institutions",
-      "take": "Standard Chartered launches Bitcoin and Ether spot trading for UAE institutions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-launches-bitcoin-ether-spot-trading-for-uae-institutions/"
+      "headline": "Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs",
+      "take": "Strive CEO says company could end 2026 as second-largest Bitcoin holder",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455"
     },
     {
-      "headline": "Animoca-backed Pencil Finance completes first fully on-chain student loan cycle with $1M deployment",
-      "take": "Pencil Finance completes first fully on-chain student loan cycle with $1M deployment",
+      "headline": "Revolut wins conditional approval to launch US national bank",
+      "take": "Revolut wins conditional approval to launch US national bank operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pencil-finance-on-chain-student-loan-cycle/"
+      "link": "https://cryptobriefing.com/revolut-provisional-us-banking-license/"
     },
     {
-      "headline": "Pons hits record $5.95M in daily fees, surpassing Robinhood Chain itself",
-      "take": "Pons hits record $5.95M in daily fees, surpassing Robinhood Chain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pons-record-daily-fees-robinhood-chain/"
+      "headline": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
+      "take": "SoFi links banking network and stablecoin to Kraken in new partnership",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken"
     },
     {
-      "headline": "Tradr ETFs files with SEC for two leveraged funds tied to Anthropic",
-      "take": "Tradr ETFs files with SEC for two leveraged Anthropic-tied funds",
+      "headline": "Bitwise Premium RWA Vault (PAPY) reaches $8M in deposits within one day of launch",
+      "take": "Bitwise Premium RWA Vault reaches $8M deposits within single day of launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradr-etfs-leveraged-anthropic-funds-sec/"
+      "link": "https://cryptobriefing.com/bitwise-papy-rwa-vault-8m-deposits/"
     }
   ],
   "security": [
     {
-      "headline": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
-      "take": "Ukraine busts Kyiv crypto drainer ring moving up to $1M monthly",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly"
+      "headline": "FBI Seizes $560K in Crypto From Hamas Fundraising Network",
+      "take": "FBI seizes $560K in crypto from Hamas fundraising network operations",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/fbi-seizes-hamas-crypto-fundraising-network/"
     }
   ],
   "policy": [
     {
-      "headline": "Australia cracks down on crypto businesses ahead of 2026 regulatory deadline",
-      "take": "Australia cracks down on crypto businesses ahead of 2026 regulatory deadline",
+      "headline": "Senate to hold initial vote on CLARITY Act September 15, House vote may delay",
+      "take": "Senate to hold initial vote on CLARITY Act crypto regulation September 15",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-cracks-down-on-crypto-businesses-ahead-of-2026-regulatory-deadline/"
+      "link": "https://cryptobriefing.com/senate-to-hold-initial-vote-on-clarity-act-september-15-house-vote-may-delay/"
     },
     {
-      "headline": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-      "take": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures"
+      "headline": "Australian regulator ASIC urges digital asset firms to complete licensing transition by Sept. 30",
+      "take": "Australian regulator ASIC urges digital asset firms complete licensing by Sept 30",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australian-regulator-asic-urges-digital-asset-firms-complete-licensing-transition-sept-30/"
     },
     {
-      "headline": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
-      "take": "Kalshi seeks CFTC approval for WTI crude perpetual futures",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
-      "take": "Michigan judge bars Kalshi sports bets, threatens $500K daily fine",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine"
+      "headline": "US sanctions tighten, Iran\u2019s economy hit by 35% trade drop, 66% inflation",
+      "take": "US sanctions tighten, Iran's economy hit by 35% trade drop",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-sanctions-tighten-irans-economy-hit-by-35-trade-drop-66-inflation/"
     }
   ]
 }

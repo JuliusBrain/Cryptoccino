@@ -1,44 +1,50 @@
 {
-  "generated": "2026-09-03T21:06:43.259157+00:00",
-  "ts": 1788469603,
+  "generated": "2026-09-03T23:19:10.151530+00:00",
+  "ts": 1788477550,
   "market": [
     {
-      "headline": "Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks",
-      "take": "Crypto market cap surges to $2.82 trillion as stocks rally",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478"
-    },
-    {
-      "headline": "Robinhood Chain generates $1B in annualized fees as daily revenue surges past $3.75M",
-      "take": "Robinhood Chain generates $1B annualized fees, daily revenue past $3.75M",
+      "headline": "Crypto market cap surges $135B in 24 hours, Bitcoin nears $81K",
+      "take": "Crypto market cap surges $135B in 24 hours, Bitcoin approaches $81K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-billion-dollar-fees/"
+      "link": "https://cryptobriefing.com/crypto-market-cap-surges-135b-in-24-hours-bitcoin-nears-81k/"
     },
     {
-      "headline": "Strive raises funds to acquire 220 Bitcoin in 11-day streak",
-      "take": "Strive raises funds to acquire 220 Bitcoin in eleven-day streak",
+      "headline": "BlackRock\u2019s spot Bitcoin ETF IBIT rises nearly 6% with $300M in daily inflows",
+      "take": "BlackRock's spot Bitcoin ETF sees $300M daily inflows, rises nearly 6%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-raises-funds-220-bitcoin-streak/"
+      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflows-2/"
     },
     {
-      "headline": "Block reports $433M in unrealized Bitcoin gains under Dorsey",
-      "take": "Block reports $433M in unrealized Bitcoin gains under Dorsey",
+      "headline": "$58M in crypto shorts liquidated in one hour as Bitcoin squeezes bears",
+      "take": "$58M in crypto shorts liquidated in one hour as Bitcoin squeezes bears",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/block-unrealized-bitcoin-gains-dorsey/"
+      "link": "https://cryptobriefing.com/58m-crypto-shorts-liquidated-bitcoin/"
     },
     {
-      "headline": "Stablecoins Raise Debasement Trade Paradox in Latin America",
-      "take": "Stablecoins raise debasement trade paradox concerns in Latin America",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-03/stablecoins-raise-debasement-trade-paradox-in-latin-america"
+      "headline": "Crypto trading terminals post first $1B day since January 2025",
+      "take": "Crypto trading terminals post first $1B day since January 2025",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-trading-terminals-first-billion-day/"
+    },
+    {
+      "headline": "Tron surpasses Ethereum as USDT supply rises to $94B",
+      "take": "Tron surpasses Ethereum as USDT supply reaches $94B on network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tron-surpasses-ethereum-usdt-supply-94b/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
-      "take": "Coinbase seeks SEC approval to list 24/7 equity perpetuals",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487"
+      "headline": "Coinbase takes regulatory step for leveraged stock trading",
+      "take": "Coinbase seeks SEC approval to offer leveraged stock trading for US users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-leveraged-stock-trading-regulatory-filing/"
+    },
+    {
+      "headline": "Polymarket launches perpetual futures tied to oil, competing with Kalshi",
+      "take": "Polymarket launches perpetual futures on oil, competing with Kalshi platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-perpetual-futures-oil-kalshi/"
     },
     {
       "headline": "Bitwise partners with Hargreaves Lansdown to offer Bitcoin ETPs in UK",
@@ -47,43 +53,43 @@
       "link": "https://cryptobriefing.com/bitwise-hargreaves-lansdown-bitcoin-etps-uk/"
     },
     {
-      "headline": "EVE Frontier selects Sui for blockchain integration, ditching Ethereum L2",
-      "take": "EVE Frontier selects Sui for blockchain integration, ditching Ethereum L2",
+      "headline": "Coinbase activates full trading for Cluster Protocol\u2019s CP-USD pair",
+      "take": "Coinbase activates full trading for Cluster Protocol's CP-USD stablecoin pair",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eve-frontier-sui-blockchain-gaming-integration/"
+      "link": "https://cryptobriefing.com/coinbase-cluster-protocol-cp-usd-trading/"
     },
     {
-      "headline": "Blockworks\u2019 Token Transparency Framework introduces fact sheets to standardize tokenized asset disclosures",
-      "take": "Blockworks introduces token transparency framework for standardized asset disclosures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/token-transparency-framework-fact-sheets/"
-    },
-    {
-      "headline": "Solana Mobile\u2019s CLOCK IN hackathon offers $135,000 in prizes for mobile dApp builders",
-      "take": "Solana Mobile's hackathon offers $135,000 in prizes for mobile dApp builders",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-mobile-clock-in-hackathon-135000-prizes/"
+      "headline": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+      "take": "Bitcoin miner pursues AI deal potentially worth over $1.2 billion",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
-      "take": "Michigan authorities continue pursuit to block Kalshi prediction market",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Senate advances bill allowing contractors to conduct military hacking for US government",
-      "take": "Senate advances bill allowing contractors to conduct military hacking for US",
+      "headline": "SEC seeks public opinions on novel ETF funds as industry races to innovate",
+      "take": "SEC seeks public comment on novel ETF structures as crypto industry innovates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-contractor-military-hacking-bill/"
+      "link": "https://cryptobriefing.com/sec-public-comments-novel-etf-funds/"
     },
     {
-      "headline": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
-      "take": "Bernie Sanders pushes bill to ban advanced AI development",
+      "headline": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
+      "take": "Utah becomes first state targeting VPNs in age-verification requirement crackdown",
       "source": "decrypt",
-      "link": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai"
+      "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification"
+    },
+    {
+      "headline": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+      "take": "CFTC files to dismiss CME lawsuit over crypto perpetual futures regulation",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "IMF reaches staff-level agreement for $140M aid to El Salvador",
+      "take": "IMF reaches staff-level agreement for $140M aid package to El Salvador",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/imf-el-salvador-140m-agreement/"
     }
   ]
 }

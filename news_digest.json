@@ -1,94 +1,100 @@
 {
-  "generated": "2026-09-04T20:49:09.828380+00:00",
-  "ts": 1788554949,
+  "generated": "2026-09-04T23:04:36.183000+00:00",
+  "ts": 1788563076,
   "market": [
     {
-      "headline": "Strategy holds $52B in net Bitcoin reserves after adjustments",
-      "take": "MicroStrategy holds $52B in net Bitcoin reserves after recent adjustments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-52b-net-bitcoin-reserves/"
-    },
-    {
       "headline": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
-      "take": "Zcash tops $1,000 amid ETF inflows and increased miner activity",
+      "take": "Zcash surpasses $1,000 as ETF inflows and mining activity accelerate",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580"
     },
     {
-      "headline": "Stocks and Commodities Fuel $778 Billion Boom on Crypto Venues",
-      "take": "Stocks and commodities trading on crypto venues reaches $778 billion volume",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-04/stocks-and-commodities-fuel-778-billion-boom-on-crypto-venues"
+      "headline": "Defiance files for first fully private company ETF using swaps",
+      "take": "Defiance files first fully private company ETF using swaps structure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/defiance-pre-ipo-private-company-etf-swaps/"
     },
     {
       "headline": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-      "take": "Polymarket launches crypto perpetual futures with up to 20x leverage",
+      "take": "Polymarket launches crypto perpetual futures offering up to 20x leverage",
       "source": "decrypt",
       "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures"
     },
     {
       "headline": "CFTC data shows hedge funds loaded up on yen shorts before the surge",
-      "take": "Hedge funds built large yen short positions before currency market surge",
+      "take": "Hedge funds heavily shorted yen before recent currency surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-hedge-funds-yen-shorts-surge/"
+    },
+    {
+      "headline": "Strategy holds $52B in net Bitcoin reserves after adjustments",
+      "take": "Strategy holds $52B in net Bitcoin reserves after recent adjustments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-52b-net-bitcoin-reserves/"
     }
   ],
   "business": [
     {
-      "headline": "Nscale seeks $3.5B in financing ahead of planned US IPO",
-      "take": "Nscale seeks $3.5B financing ahead of planned US IPO",
+      "headline": "Anthropic set to file IPO prospectus, testing AI investment appetite",
+      "take": "Anthropic prepares to file IPO prospectus amid strong AI revenue growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nscale-seeks-billions-financing-ahead-ipo/"
+      "link": "https://cryptobriefing.com/anthropic-set-to-file-ipo-prospectus-testing-ai-investment-appetite/"
     },
     {
-      "headline": "Anthropic nears Morgan Stanley, Goldman appointments for potential $2T+ IPO",
-      "take": "Anthropic nears appointments with Morgan Stanley and Goldman for IPO",
+      "headline": "ByteDance borrows $30B to invest in AI infrastructure",
+      "take": "ByteDance borrows $30B to significantly expand AI infrastructure investments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-nears-morgan-stanley-goldman-appointments-for-potential-2t-ipo/"
+      "link": "https://cryptobriefing.com/bytedance-borrows-30b-ai-infrastructure/"
     },
     {
-      "headline": "BitFuFu adds 59 BTC to treasury, now holds 1,373 BTC worth roughly $109M",
-      "take": "BitFuFu adds 59 BTC to treasury, now holds 1,373 BTC",
+      "headline": "Base ecosystem launches 25 new projects and integrations in August",
+      "take": "Base ecosystem launches 25 new projects and integrations in August",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitfufu-adds-59-btc-treasury-1373-bitcoin/"
+      "link": "https://cryptobriefing.com/base-ecosystem-25-projects-august/"
     },
     {
       "headline": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-      "take": "A16z-backed OpenReserve gains approval for full-service national bank",
+      "take": "A16z-backed OpenReserve gains approval for full-service national bank charter",
       "source": "decrypt",
       "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank"
     },
     {
-      "headline": "Pineapple Financial puts $1B in mortgage records on Injective blockchain",
-      "take": "Pineapple Financial records $1B in mortgage data on Injective blockchain",
+      "headline": "SpaceXAI\u2019s Colossus 2 becomes largest data center at ~946 MW",
+      "take": "SpaceXAI's Colossus 2 becomes largest data center at approximately 946 MW",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pineapple-financial-mortgage-records-injective-blockchain/"
+      "link": "https://cryptobriefing.com/spacexai-colossus-2-largest-data-center/"
     }
   ],
   "security": [
     {
+      "headline": "Alabama AG subpoenas OpenAI over rogue AI agents breaching Hugging Face systems",
+      "take": "Alabama AG subpoenas OpenAI over rogue AI agents breaching Hugging Face",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/california-investigates-openai-hugging-face-hack/"
+    },
+    {
       "headline": "FinCEN ties $13B in crypto scams to non-US operations",
-      "take": "FinCEN ties $13B in crypto scams to non-US criminal operations",
+      "take": "FinCEN ties $13B in crypto scams to non-US based criminal operations",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "Cardano Foundation becomes first crypto org to get blockchain-attested audit from Grant Thornton",
-      "take": "Cardano Foundation first crypto org to get blockchain-attested audit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-foundation-grant-thornton-blockchain-audit-reeve/"
+      "headline": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+      "take": "G7 warns quantum computing poses critical threat demanding immediate action",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
     },
     {
       "headline": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
-      "take": "US law enforcement group moves to neutral position on CLARITY Act",
+      "take": "US law enforcement group shifts to neutral position on CLARITY Act",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
-      "take": "Trump says he wants Hyperliquid to enter the US market",
+      "take": "Trump says he wants Hyperliquid to enter US market pending regulatory pathways",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594"
     }

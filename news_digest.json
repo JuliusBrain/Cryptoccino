@@ -1,101 +1,108 @@
 {
-  "generated": "2026-09-04T04:40:32.797194+00:00",
-  "ts": 1788496832,
+  "generated": "2026-09-04T11:25:40.582148+00:00",
+  "ts": 1788521140,
   "market": [
     {
-      "headline": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
-      "take": "Bitcoin climbs above $81k as rate hike expectations decline",
+      "headline": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
+      "take": "US bitcoin ETFs see largest inflow day since January at $731 million",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515"
+    },
+    {
+      "headline": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "take": "Bitcoin clears $81,000 as privacy coins lead broad crypto market rally",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump"
+      "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally"
     },
     {
-      "headline": "BlackRock\u2019s spot Bitcoin ETF IBIT rises nearly 6% with $300M in daily inflows",
-      "take": "BlackRock's spot Bitcoin ETF sees $300M daily inflows, rises 6%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflows-2/"
+      "headline": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "take": "Zcash jumps 20% to $1,000 landmark as short sellers lose $34 million",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million"
     },
     {
-      "headline": "Tron surpasses Ethereum as USDT supply rises to $94B",
-      "take": "Tron surpasses Ethereum; USDT supply reaches $94B across chains",
+      "headline": "Morgan Stanley expects Fed to hold rates steady through 2026",
+      "take": "Morgan Stanley forecasts Fed holds rates steady through 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-surpasses-ethereum-usdt-supply-94b/"
-    },
-    {
-      "headline": "Crypto trading terminals post first $1B day since January 2025",
-      "take": "Crypto trading terminals log first $1B day since January 2025",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-trading-terminals-first-billion-day/"
-    },
-    {
-      "headline": "Yen hits one-month high on BOJ rate hike speculation",
-      "take": "Japanese yen hits one-month high on BOJ rate hike expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-hits-one-month-high-on-boj-rate-hike-speculation/"
+      "link": "https://cryptobriefing.com/morgan-stanley-expects-fed-to-hold-rates-steady-through-2026/"
     }
   ],
   "business": [
     {
-      "headline": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-      "take": "US banking regulator approves blockchain bank OpenReserve to operate",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate"
+      "headline": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
+      "take": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC bank charter approval",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528"
     },
     {
-      "headline": "Anthropic nears $15B pre-IPO credit facility",
-      "take": "Anthropic secures nearly $15B pre-IPO credit facility",
+      "headline": "Binance lists MARSCOIN, its first memecoin spot listing in a year",
+      "take": "Binance lists MARSCOIN in first memecoin spot listing within past year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-nears-15b-pre-ipo-credit-facility/"
+      "link": "https://cryptobriefing.com/binance-lists-marscoin-memecoin-spot/"
     },
     {
-      "headline": "Polymarket launches perpetual futures tied to oil, competing with Kalshi",
-      "take": "Polymarket launches perpetual futures for oil, rivaling Kalshi",
+      "headline": "Deutsche Bank forecasts revenue boost for Robinhood from its new blockchain",
+      "take": "Deutsche Bank forecasts revenue boost for Robinhood from new blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-perpetual-futures-oil-kalshi/"
+      "link": "https://cryptobriefing.com/deutsche-bank-robinhood-blockchain-revenue/"
     },
     {
-      "headline": "Coinbase takes regulatory step for leveraged stock trading",
-      "take": "Coinbase takes regulatory step toward leveraged equity trading",
+      "headline": "Spark reports $41M gross returns, $710K net surplus in Q2",
+      "take": "Spark reports $41M gross returns and $710K net surplus in Q2",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-leveraged-stock-trading-regulatory-filing/"
+      "link": "https://cryptobriefing.com/spark-q2-returns-net-surplus/"
     },
     {
-      "headline": "ProCap Financial sells 50 Bitcoin to fund share repurchase at 40% discount",
-      "take": "ProCap Financial sells 50 Bitcoin for share repurchase at discount",
+      "headline": "Centrifuge reports only 12% of tokenized assets meet DeFi standards",
+      "take": "Centrifuge reports only 12% of tokenized assets meet DeFi standards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/procap-financial-bitcoin-share-buyback/"
+      "link": "https://cryptobriefing.com/centrifuge-tokenized-assets-defi-standards/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "FinCEN links $12.7B to crypto scams run from Asian compounds",
+      "take": "FinCEN links $12.7 billion to crypto scams originating from Asian compounds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fincen-links-billions-crypto-scams-asian-compounds/"
+    },
+    {
+      "headline": "Trezor says 67,000 more US customers affected by ShipMonk data breach",
+      "take": "Trezor reports 67,000 additional US customers affected by ShipMonk data breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trezor-says-67000-more-us-customers-affected-by-shipmonk-data-breach/"
+    },
+    {
+      "headline": "Rogue OpenAI agents hijack German website, turn it into AI communication hub",
+      "take": "Rogue OpenAI agents hijack German website, convert to AI communication hub",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rogue-openai-agents-hijack-german-website/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-      "take": "Utah becomes first state targeting VPNs in age-verification crackdown",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification"
+      "headline": "South Korea to start tokenizing \u2018all types\u2019 of securities in three stages from 2027",
+      "take": "South Korea to tokenize all security types in three stages from 2027",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523"
     },
     {
-      "headline": "SEC seeks public opinions on novel ETF funds as industry races to innovate",
-      "take": "SEC seeks public comment on novel ETF structures and innovation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-public-comments-novel-etf-funds/"
+      "headline": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
+      "take": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532"
     },
     {
-      "headline": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-      "take": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+      "headline": "South Korean regulators introduce tokenized securities roadmap",
+      "take": "South Korean regulators introduce tokenized securities regulatory roadmap",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "IMF says El Salvador used private donations for latest Bitcoin buys as funding deal advances",
-      "take": "IMF says El Salvador funded Bitcoin buys with private donations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/imf-el-salvador-140m-agreement/"
-    },
-    {
-      "headline": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
-      "take": "SEC proposes rescinding political contribution rule for advisers",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
+      "headline": "IMF confirms El Salvador\u2019s bitcoin growth was funded by private donations, not public money",
+      "take": "IMF confirms El Salvador bitcoin growth funded by private donations only",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money"
     }
   ]
 }

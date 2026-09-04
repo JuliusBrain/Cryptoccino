@@ -1,95 +1,101 @@
 {
-  "generated": "2026-09-03T23:19:10.151530+00:00",
-  "ts": 1788477550,
+  "generated": "2026-09-04T04:40:32.797194+00:00",
+  "ts": 1788496832,
   "market": [
     {
-      "headline": "Crypto market cap surges $135B in 24 hours, Bitcoin nears $81K",
-      "take": "Crypto market cap surges $135B in 24 hours, Bitcoin approaches $81K",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-cap-surges-135b-in-24-hours-bitcoin-nears-81k/"
+      "headline": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+      "take": "Bitcoin climbs above $81k as rate hike expectations decline",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump"
     },
     {
       "headline": "BlackRock\u2019s spot Bitcoin ETF IBIT rises nearly 6% with $300M in daily inflows",
-      "take": "BlackRock's spot Bitcoin ETF sees $300M daily inflows, rises nearly 6%",
+      "take": "BlackRock's spot Bitcoin ETF sees $300M daily inflows, rises 6%",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflows-2/"
     },
     {
-      "headline": "$58M in crypto shorts liquidated in one hour as Bitcoin squeezes bears",
-      "take": "$58M in crypto shorts liquidated in one hour as Bitcoin squeezes bears",
+      "headline": "Tron surpasses Ethereum as USDT supply rises to $94B",
+      "take": "Tron surpasses Ethereum; USDT supply reaches $94B across chains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/58m-crypto-shorts-liquidated-bitcoin/"
+      "link": "https://cryptobriefing.com/tron-surpasses-ethereum-usdt-supply-94b/"
     },
     {
       "headline": "Crypto trading terminals post first $1B day since January 2025",
-      "take": "Crypto trading terminals post first $1B day since January 2025",
+      "take": "Crypto trading terminals log first $1B day since January 2025",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/crypto-trading-terminals-first-billion-day/"
     },
     {
-      "headline": "Tron surpasses Ethereum as USDT supply rises to $94B",
-      "take": "Tron surpasses Ethereum as USDT supply reaches $94B on network",
+      "headline": "Yen hits one-month high on BOJ rate hike speculation",
+      "take": "Japanese yen hits one-month high on BOJ rate hike expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-surpasses-ethereum-usdt-supply-94b/"
+      "link": "https://cryptobriefing.com/yen-hits-one-month-high-on-boj-rate-hike-speculation/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase takes regulatory step for leveraged stock trading",
-      "take": "Coinbase seeks SEC approval to offer leveraged stock trading for US users",
+      "headline": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+      "take": "US banking regulator approves blockchain bank OpenReserve to operate",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate"
+    },
+    {
+      "headline": "Anthropic nears $15B pre-IPO credit facility",
+      "take": "Anthropic secures nearly $15B pre-IPO credit facility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-leveraged-stock-trading-regulatory-filing/"
+      "link": "https://cryptobriefing.com/anthropic-nears-15b-pre-ipo-credit-facility/"
     },
     {
       "headline": "Polymarket launches perpetual futures tied to oil, competing with Kalshi",
-      "take": "Polymarket launches perpetual futures on oil, competing with Kalshi platform",
+      "take": "Polymarket launches perpetual futures for oil, rivaling Kalshi",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/polymarket-perpetual-futures-oil-kalshi/"
     },
     {
-      "headline": "Bitwise partners with Hargreaves Lansdown to offer Bitcoin ETPs in UK",
-      "take": "Bitwise partners with Hargreaves Lansdown to offer Bitcoin ETPs in UK",
+      "headline": "Coinbase takes regulatory step for leveraged stock trading",
+      "take": "Coinbase takes regulatory step toward leveraged equity trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-hargreaves-lansdown-bitcoin-etps-uk/"
+      "link": "https://cryptobriefing.com/coinbase-leveraged-stock-trading-regulatory-filing/"
     },
     {
-      "headline": "Coinbase activates full trading for Cluster Protocol\u2019s CP-USD pair",
-      "take": "Coinbase activates full trading for Cluster Protocol's CP-USD stablecoin pair",
+      "headline": "ProCap Financial sells 50 Bitcoin to fund share repurchase at 40% discount",
+      "take": "ProCap Financial sells 50 Bitcoin for share repurchase at discount",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-cluster-protocol-cp-usd-trading/"
-    },
-    {
-      "headline": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
-      "take": "Bitcoin miner pursues AI deal potentially worth over $1.2 billion",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion"
+      "link": "https://cryptobriefing.com/procap-financial-bitcoin-share-buyback/"
     }
   ],
   "security": [],
   "policy": [
     {
-      "headline": "SEC seeks public opinions on novel ETF funds as industry races to innovate",
-      "take": "SEC seeks public comment on novel ETF structures as crypto industry innovates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-public-comments-novel-etf-funds/"
-    },
-    {
       "headline": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-      "take": "Utah becomes first state targeting VPNs in age-verification requirement crackdown",
+      "take": "Utah becomes first state targeting VPNs in age-verification crackdown",
       "source": "decrypt",
       "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification"
     },
     {
+      "headline": "SEC seeks public opinions on novel ETF funds as industry races to innovate",
+      "take": "SEC seeks public comment on novel ETF structures and innovation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-public-comments-novel-etf-funds/"
+    },
+    {
       "headline": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-      "take": "CFTC files to dismiss CME lawsuit over crypto perpetual futures regulation",
+      "take": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "IMF reaches staff-level agreement for $140M aid to El Salvador",
-      "take": "IMF reaches staff-level agreement for $140M aid package to El Salvador",
+      "headline": "IMF says El Salvador used private donations for latest Bitcoin buys as funding deal advances",
+      "take": "IMF says El Salvador funded Bitcoin buys with private donations",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/imf-el-salvador-140m-agreement/"
+    },
+    {
+      "headline": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
+      "take": "SEC proposes rescinding political contribution rule for advisers",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
     }
   ]
 }

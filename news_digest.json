@@ -1,90 +1,96 @@
 {
-  "generated": "2026-09-04T16:26:53.407761+00:00",
-  "ts": 1788539213,
+  "generated": "2026-09-04T20:49:09.828380+00:00",
+  "ts": 1788554949,
   "market": [
     {
-      "headline": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
-      "take": "Zcash hits decade high as short positions unwind sharply",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt"
+      "headline": "Strategy holds $52B in net Bitcoin reserves after adjustments",
+      "take": "MicroStrategy holds $52B in net Bitcoin reserves after recent adjustments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-52b-net-bitcoin-reserves/"
     },
     {
-      "headline": "Bitcoin slides below $80K as blockbuster jobs report raises Fed rate-hike odds",
-      "take": "Bitcoin falls below $80K on stronger jobs data and rate-hike expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-slides-jobs-report-fed-rate-hike/"
-    },
-    {
-      "headline": "Base credit markets grow 31% to $2B in outstanding loans as utilization rates surge",
-      "take": "Base credit markets grow 31% to $2B as loan utilization accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-credit-markets-grow-2b-loans/"
+      "headline": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
+      "take": "Zcash tops $1,000 amid ETF inflows and increased miner activity",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580"
     },
     {
       "headline": "Stocks and Commodities Fuel $778 Billion Boom on Crypto Venues",
-      "take": "Crypto venues see $778B surge in stocks and commodities trading",
+      "take": "Stocks and commodities trading on crypto venues reaches $778 billion volume",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/articles/2026-09-04/stocks-and-commodities-fuel-778-billion-boom-on-crypto-venues"
     },
     {
-      "headline": "Solana app revenue surges to $143M in August, with Pump.fun carrying 40% of the load",
-      "take": "Solana app revenue hits $143M in August, Pump.fun dominates",
+      "headline": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
+      "take": "Polymarket launches crypto perpetual futures with up to 20x leverage",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures"
+    },
+    {
+      "headline": "CFTC data shows hedge funds loaded up on yen shorts before the surge",
+      "take": "Hedge funds built large yen short positions before currency market surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-app-revenue-august-pumpfun/"
+      "link": "https://cryptobriefing.com/cftc-hedge-funds-yen-shorts-surge/"
     }
   ],
   "business": [
     {
-      "headline": "Ripple partners with University of Florida for multi-year branding deal worth $5M annually",
-      "take": "Ripple signs multi-year $5M annual branding deal with University of Florida",
+      "headline": "Nscale seeks $3.5B in financing ahead of planned US IPO",
+      "take": "Nscale seeks $3.5B financing ahead of planned US IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-university-florida-xrp-branding-deal/"
+      "link": "https://cryptobriefing.com/nscale-seeks-billions-financing-ahead-ipo/"
     },
     {
-      "headline": "DeFi Development Corp. prices CHAD preferred stock IPO at $8, raising $11 million for Solana treasury",
-      "take": "DeFi Corp prices CHAD IPO at $8, raises $11M for Solana",
+      "headline": "Anthropic nears Morgan Stanley, Goldman appointments for potential $2T+ IPO",
+      "take": "Anthropic nears appointments with Morgan Stanley and Goldman for IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defi-development-corp-chad-stock-ipo/"
+      "link": "https://cryptobriefing.com/anthropic-nears-morgan-stanley-goldman-appointments-for-potential-2t-ipo/"
     },
     {
-      "headline": "BitGo connects self-custody clients to DecibelTrade via WalletConnect",
-      "take": "BitGo connects self-custody clients to DecibelTrade via WalletConnect",
+      "headline": "BitFuFu adds 59 BTC to treasury, now holds 1,373 BTC worth roughly $109M",
+      "take": "BitFuFu adds 59 BTC to treasury, now holds 1,373 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-decibeltrade-walletconnect-integration/"
+      "link": "https://cryptobriefing.com/bitfufu-adds-59-btc-treasury-1373-bitcoin/"
     },
     {
-      "headline": "Kazakhstan hosts Binance leadership to advance crypto adoption",
-      "take": "Kazakhstan hosts Binance leadership to advance cryptocurrency adoption",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kazakhstan-binance-crypto-adoption/"
+      "headline": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+      "take": "A16z-backed OpenReserve gains approval for full-service national bank",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank"
     },
     {
-      "headline": "From warning to listing: UK\u2019s largest retail investment platform opens access to crypto ETNs",
-      "take": "UK's largest retail investment platform launches crypto ETN access",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns"
+      "headline": "Pineapple Financial puts $1B in mortgage records on Injective blockchain",
+      "take": "Pineapple Financial records $1B in mortgage data on Injective blockchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pineapple-financial-mortgage-records-injective-blockchain/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-      "take": "OpenAI agents reportedly hacked German website to share tactics",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377412/openai-agents-hack-german-website"
+      "headline": "FinCEN ties $13B in crypto scams to non-US operations",
+      "take": "FinCEN ties $13B in crypto scams to non-US criminal operations",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. Sheriff\u2019s association shifts opposition stance to Clarity Act to 'neutral'",
-      "take": "US Sheriff's Association shifts to neutral stance on Clarity Act",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral"
+      "headline": "Cardano Foundation becomes first crypto org to get blockchain-attested audit from Grant Thornton",
+      "take": "Cardano Foundation first crypto org to get blockchain-attested audit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cardano-foundation-grant-thornton-blockchain-audit-reeve/"
     },
     {
-      "headline": "NFL warns prediction markets to remove objectionable contracts ahead of 2026 season",
-      "take": "NFL warns prediction markets to remove objectionable contracts ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nfl-warns-prediction-markets-remove-contracts/"
+      "headline": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
+      "take": "US law enforcement group moves to neutral position on CLARITY Act",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
+      "take": "Trump says he wants Hyperliquid to enter the US market",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594"
     }
   ]
 }

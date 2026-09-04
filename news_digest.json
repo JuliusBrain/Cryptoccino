@@ -1,108 +1,90 @@
 {
-  "generated": "2026-09-04T11:25:40.582148+00:00",
-  "ts": 1788521140,
+  "generated": "2026-09-04T16:26:53.407761+00:00",
+  "ts": 1788539213,
   "market": [
     {
-      "headline": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
-      "take": "US bitcoin ETFs see largest inflow day since January at $731 million",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515"
+      "headline": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
+      "take": "Zcash hits decade high as short positions unwind sharply",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt"
     },
     {
-      "headline": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "take": "Bitcoin clears $81,000 as privacy coins lead broad crypto market rally",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally"
-    },
-    {
-      "headline": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "take": "Zcash jumps 20% to $1,000 landmark as short sellers lose $34 million",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million"
-    },
-    {
-      "headline": "Morgan Stanley expects Fed to hold rates steady through 2026",
-      "take": "Morgan Stanley forecasts Fed holds rates steady through 2026",
+      "headline": "Bitcoin slides below $80K as blockbuster jobs report raises Fed rate-hike odds",
+      "take": "Bitcoin falls below $80K on stronger jobs data and rate-hike expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-expects-fed-to-hold-rates-steady-through-2026/"
+      "link": "https://cryptobriefing.com/bitcoin-slides-jobs-report-fed-rate-hike/"
+    },
+    {
+      "headline": "Base credit markets grow 31% to $2B in outstanding loans as utilization rates surge",
+      "take": "Base credit markets grow 31% to $2B as loan utilization accelerates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-credit-markets-grow-2b-loans/"
+    },
+    {
+      "headline": "Stocks and Commodities Fuel $778 Billion Boom on Crypto Venues",
+      "take": "Crypto venues see $778B surge in stocks and commodities trading",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/stocks-and-commodities-fuel-778-billion-boom-on-crypto-venues"
+    },
+    {
+      "headline": "Solana app revenue surges to $143M in August, with Pump.fun carrying 40% of the load",
+      "take": "Solana app revenue hits $143M in August, Pump.fun dominates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-app-revenue-august-pumpfun/"
     }
   ],
   "business": [
     {
-      "headline": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
-      "take": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC bank charter approval",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528"
+      "headline": "Ripple partners with University of Florida for multi-year branding deal worth $5M annually",
+      "take": "Ripple signs multi-year $5M annual branding deal with University of Florida",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-university-florida-xrp-branding-deal/"
     },
     {
-      "headline": "Binance lists MARSCOIN, its first memecoin spot listing in a year",
-      "take": "Binance lists MARSCOIN in first memecoin spot listing within past year",
+      "headline": "DeFi Development Corp. prices CHAD preferred stock IPO at $8, raising $11 million for Solana treasury",
+      "take": "DeFi Corp prices CHAD IPO at $8, raises $11M for Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-lists-marscoin-memecoin-spot/"
+      "link": "https://cryptobriefing.com/defi-development-corp-chad-stock-ipo/"
     },
     {
-      "headline": "Deutsche Bank forecasts revenue boost for Robinhood from its new blockchain",
-      "take": "Deutsche Bank forecasts revenue boost for Robinhood from new blockchain",
+      "headline": "BitGo connects self-custody clients to DecibelTrade via WalletConnect",
+      "take": "BitGo connects self-custody clients to DecibelTrade via WalletConnect",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deutsche-bank-robinhood-blockchain-revenue/"
+      "link": "https://cryptobriefing.com/bitgo-decibeltrade-walletconnect-integration/"
     },
     {
-      "headline": "Spark reports $41M gross returns, $710K net surplus in Q2",
-      "take": "Spark reports $41M gross returns and $710K net surplus in Q2",
+      "headline": "Kazakhstan hosts Binance leadership to advance crypto adoption",
+      "take": "Kazakhstan hosts Binance leadership to advance cryptocurrency adoption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-q2-returns-net-surplus/"
+      "link": "https://cryptobriefing.com/kazakhstan-binance-crypto-adoption/"
     },
     {
-      "headline": "Centrifuge reports only 12% of tokenized assets meet DeFi standards",
-      "take": "Centrifuge reports only 12% of tokenized assets meet DeFi standards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-tokenized-assets-defi-standards/"
+      "headline": "From warning to listing: UK\u2019s largest retail investment platform opens access to crypto ETNs",
+      "take": "UK's largest retail investment platform launches crypto ETN access",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns"
     }
   ],
   "security": [
     {
-      "headline": "FinCEN links $12.7B to crypto scams run from Asian compounds",
-      "take": "FinCEN links $12.7 billion to crypto scams originating from Asian compounds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fincen-links-billions-crypto-scams-asian-compounds/"
-    },
-    {
-      "headline": "Trezor says 67,000 more US customers affected by ShipMonk data breach",
-      "take": "Trezor reports 67,000 additional US customers affected by ShipMonk data breach",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trezor-says-67000-more-us-customers-affected-by-shipmonk-data-breach/"
-    },
-    {
-      "headline": "Rogue OpenAI agents hijack German website, turn it into AI communication hub",
-      "take": "Rogue OpenAI agents hijack German website, convert to AI communication hub",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rogue-openai-agents-hijack-german-website/"
+      "headline": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
+      "take": "OpenAI agents reportedly hacked German website to share tactics",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377412/openai-agents-hack-german-website"
     }
   ],
   "policy": [
     {
-      "headline": "South Korea to start tokenizing \u2018all types\u2019 of securities in three stages from 2027",
-      "take": "South Korea to tokenize all security types in three stages from 2027",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523"
-    },
-    {
-      "headline": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-      "take": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532"
-    },
-    {
-      "headline": "South Korean regulators introduce tokenized securities roadmap",
-      "take": "South Korean regulators introduce tokenized securities regulatory roadmap",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "IMF confirms El Salvador\u2019s bitcoin growth was funded by private donations, not public money",
-      "take": "IMF confirms El Salvador bitcoin growth funded by private donations only",
+      "headline": "U.S. Sheriff\u2019s association shifts opposition stance to Clarity Act to 'neutral'",
+      "take": "US Sheriff's Association shifts to neutral stance on Clarity Act",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money"
+      "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral"
+    },
+    {
+      "headline": "NFL warns prediction markets to remove objectionable contracts ahead of 2026 season",
+      "take": "NFL warns prediction markets to remove objectionable contracts ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nfl-warns-prediction-markets-remove-contracts/"
     }
   ]
 }

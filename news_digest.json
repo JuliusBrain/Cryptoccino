@@ -1,96 +1,84 @@
 {
-  "generated": "2026-09-05T20:27:36.733684+00:00",
-  "ts": 1788640056,
+  "generated": "2026-09-05T22:58:13.038823+00:00",
+  "ts": 1788649093,
   "market": [
     {
+      "headline": "Crypto market adds $14B in under 24 hours as total cap nears $2.83 trillion",
+      "take": "Crypto market cap adds $14B in 24 hours, approaching $2.83 trillion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-market-adds-14b-24-hours/"
+    },
+    {
       "headline": "US Bitcoin ETFs pull in $987M in a week as three-week streak hits $3.8B",
-      "take": "US Bitcoin ETFs attract $987M in one week, extending three-week inflow streak",
+      "take": "US Bitcoin ETFs attract $987M weekly, three-week total reaches $3.8B",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-etf-inflows-987m-weekly-streak/"
     },
     {
-      "headline": "Tokenized stocks reach record $3.1B led by BNB Chain: Report",
-      "take": "Tokenized stocks reach record $3.1B, led by BNB Chain expansion",
+      "headline": "QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days",
+      "take": "QQQb leads tokenized stocks with $1.7B in DEX volume monthly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-all-time-high-3b-market-cap/"
+      "link": "https://cryptobriefing.com/qqqb-tokenized-stocks-dex-trading-volume/"
     },
     {
       "headline": "Solana\u2019s RWA ecosystem expands past $18.5B with stablecoins, funds, stocks, and commodities",
-      "take": "Solana's RWA ecosystem surpasses $18.5B across stablecoins, funds, and commodities",
+      "take": "Solana's RWA ecosystem expands past $18.5B across multiple asset classes",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-rwa-ecosystem-expands-18-billion/"
     },
     {
-      "headline": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
-      "take": "Major institutions hold $75M combined in Hyperliquid ETF positions",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616"
-    },
-    {
-      "headline": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "take": "Dollar-backed stablecoins can suppress local currency value, Bank of Korea study shows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
+      "headline": "TradeXYZ\u2019s RWA perpetuals trading volume cools to $2.6B daily, 71% below July peak",
+      "take": "TradeXYZ RWA perpetuals volume drops 71% to $2.6B daily from July peak",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tradexyz-rwa-perps-volume-drops-from-july-peak/"
     }
   ],
   "business": [
     {
-      "headline": "Uniswap v4 hits over 90K hooks initialized and linked to deployed pools",
-      "take": "Uniswap v4 reaches 90K initialized hooks linked to deployed pools",
+      "headline": "Solana hosts $79M in tokenized stocks, Robinhood Chain follows with $73M",
+      "take": "Solana and Robinhood Chain host $152M combined in tokenized stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-v4-90k-hooks-milestone/"
+      "link": "https://cryptobriefing.com/solana-robinhood-chain-tokenized-stocks-defi/"
+    },
+    {
+      "headline": "Polymarket signs LeBron James as first athlete partner",
+      "take": "Polymarket signs LeBron James as first professional athlete partner",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-lebron-james-athlete-partner/"
     },
     {
       "headline": "BulkTrade launches as Solana\u2019s anticipated perps exchange",
-      "take": "BulkTrade launches as anticipated Solana perps exchange platform",
+      "take": "BulkTrade launches as anticipated perpetuals exchange on Solana",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bulktrade-launches-solana-perps-exchange/"
     },
     {
-      "headline": "Fetch.AI expands testing access for Athena with 3 free projects per account",
-      "take": "Fetch.AI expands Athena testing access with three free projects per account",
+      "headline": "Uniswap v4 hits over 90K hooks initialized and linked to deployed pools",
+      "take": "Uniswap v4 surpasses 90K hooks initialized across deployed pools",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fetch-ai-athena-free-projects-testing/"
-    },
-    {
-      "headline": "Hyperliquid plans US entry using Kraken\u2019s Bitnomial licenses: CoinDesk",
-      "take": "Hyperliquid plans US market entry leveraging Kraken's Bitnomial licenses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-plans-us-entry-using-krakens-bitnomial-licenses-coindesk/"
-    },
-    {
-      "headline": "Anthropic eyes mega IPO by end of 2026, Amazon and Alphabet to benefit",
-      "take": "Anthropic targets mega IPO by end of 2026, benefiting Amazon and Alphabet",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-eyes-mega-ipo-by-end-of-2026-amazon-and-alphabet-to-benefit/"
+      "link": "https://cryptobriefing.com/uniswap-v4-90k-hooks-milestone/"
     }
   ],
   "security": [
     {
-      "headline": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-      "take": "Google patches Chrome flaw actively exploited by hackers in the wild",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited"
+      "headline": "Bitcoin contributor fixes wallet crash bug using AI tools, exposing both promise and friction in AI-powered security",
+      "take": "Bitcoin wallet crash bug fixed using AI, raising security friction concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-core-ai-bug-fix-red-team/"
     },
     {
       "headline": "Oklahoma Bitcoin mining site condemned after leaking 3 million gallons of water during drought",
-      "take": "Oklahoma Bitcoin mining site condemned after leaking 3M gallons during drought",
+      "take": "Oklahoma Bitcoin mining site leaks 3M gallons water during regional drought",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/oklahoma-bitcoin-mining-water-leak-condemned/"
-    },
-    {
-      "headline": "OpenAI plans new framework for reporting AI misalignment incidents after \u201cwiki\u201d incident",
-      "take": "OpenAI develops new incident reporting framework after wiki-related AI misalignment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-wiki-incident-ai-transparency/"
     }
   ],
   "policy": [
     {
-      "headline": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-      "take": "Poland upholds crypto bill veto as Zondacrypto scandal continues to widen",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "take": "Bank of Korea study finds dollar stablecoins can depress local currencies",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
     }
   ]
 }

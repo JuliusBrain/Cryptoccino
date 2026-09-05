@@ -1,78 +1,96 @@
 {
-  "generated": "2026-09-05T17:24:20.418001+00:00",
-  "ts": 1788629060,
+  "generated": "2026-09-05T20:27:36.733684+00:00",
+  "ts": 1788640056,
   "market": [
     {
-      "headline": "Bitcoin faces Fed test on Sept. 16 as core inflation drops to 3%",
-      "take": "Bitcoin tests Fed decision as core inflation cools to three percent",
+      "headline": "US Bitcoin ETFs pull in $987M in a week as three-week streak hits $3.8B",
+      "take": "US Bitcoin ETFs attract $987M in one week, extending three-week inflow streak",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-fed-test-september-core-inflation/"
+      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-987m-weekly-streak/"
     },
     {
-      "headline": "Prediction market bets $119K on OpenAI\u2019s valuation dropping to $750B by year-end",
-      "take": "Prediction market bets OpenAI valuation drops to $750B by year end",
+      "headline": "Tokenized stocks reach record $3.1B led by BNB Chain: Report",
+      "take": "Tokenized stocks reach record $3.1B, led by BNB Chain expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-openai-valuation-ipo-prediction/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-all-time-high-3b-market-cap/"
+    },
+    {
+      "headline": "Solana\u2019s RWA ecosystem expands past $18.5B with stablecoins, funds, stocks, and commodities",
+      "take": "Solana's RWA ecosystem surpasses $18.5B across stablecoins, funds, and commodities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-rwa-ecosystem-expands-18-billion/"
+    },
+    {
+      "headline": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
+      "take": "Major institutions hold $75M combined in Hyperliquid ETF positions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616"
     },
     {
       "headline": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "take": "Dollar stablecoins may pressure local currencies, Bank of Korea warns",
+      "take": "Dollar-backed stablecoins can suppress local currency value, Bank of Korea study shows",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
-    },
-    {
-      "headline": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
-      "take": "XRP Ledger sees fewer accounts but larger trades and more value",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value"
     }
   ],
   "business": [
     {
+      "headline": "Uniswap v4 hits over 90K hooks initialized and linked to deployed pools",
+      "take": "Uniswap v4 reaches 90K initialized hooks linked to deployed pools",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-v4-90k-hooks-milestone/"
+    },
+    {
+      "headline": "BulkTrade launches as Solana\u2019s anticipated perps exchange",
+      "take": "BulkTrade launches as anticipated Solana perps exchange platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bulktrade-launches-solana-perps-exchange/"
+    },
+    {
+      "headline": "Fetch.AI expands testing access for Athena with 3 free projects per account",
+      "take": "Fetch.AI expands Athena testing access with three free projects per account",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fetch-ai-athena-free-projects-testing/"
+    },
+    {
+      "headline": "Hyperliquid plans US entry using Kraken\u2019s Bitnomial licenses: CoinDesk",
+      "take": "Hyperliquid plans US market entry leveraging Kraken's Bitnomial licenses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-plans-us-entry-using-krakens-bitnomial-licenses-coindesk/"
+    },
+    {
       "headline": "Anthropic eyes mega IPO by end of 2026, Amazon and Alphabet to benefit",
-      "take": "Anthropic targets mega IPO by end of 2026, boosting Amazon Alphabet",
+      "take": "Anthropic targets mega IPO by end of 2026, benefiting Amazon and Alphabet",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-eyes-mega-ipo-by-end-of-2026-amazon-and-alphabet-to-benefit/"
-    },
-    {
-      "headline": "STEPN launches $STROLL on Robinhood Chain, letting users hunt stock fragments by walking",
-      "take": "STEPN launches $STROLL on Robinhood Chain for stock fragment hunting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stepn-stroll-robinhood-chain-stock-fragments/"
-    },
-    {
-      "headline": "Kyrgyzstan plans to digitize crypto licensing and test CBDC by 2027",
-      "take": "Kyrgyzstan plans crypto licensing platform and digital som pilot by 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kyrgyzstan-digitize-crypto-licensing-cbdc-2027/"
-    },
-    {
-      "headline": "Oura goes public amid rising competition in smart ring market",
-      "take": "Oura smart ring goes public amid intensifying market competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oura-ipo-smart-ring-market/"
     }
   ],
   "security": [
     {
       "headline": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-      "take": "Google patches Chrome flaw hackers actively exploited in wild",
+      "take": "Google patches Chrome flaw actively exploited by hackers in the wild",
       "source": "decrypt",
       "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited"
+    },
+    {
+      "headline": "Oklahoma Bitcoin mining site condemned after leaking 3 million gallons of water during drought",
+      "take": "Oklahoma Bitcoin mining site condemned after leaking 3M gallons during drought",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oklahoma-bitcoin-mining-water-leak-condemned/"
+    },
+    {
+      "headline": "OpenAI plans new framework for reporting AI misalignment incidents after \u201cwiki\u201d incident",
+      "take": "OpenAI develops new incident reporting framework after wiki-related AI misalignment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-wiki-incident-ai-transparency/"
     }
   ],
   "policy": [
     {
-      "headline": "Poland lawmakers prepare fresh crypto bill after failing to override president\u2019s veto",
-      "take": "Poland prepares fresh crypto bill after president vetoes prior version",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/poland-lawmakers-prepare-fresh-crypto-bill-failing-to-override-presidents-veto/"
-    },
-    {
-      "headline": "SEC files enforcement action against ISS for subpoena noncompliance",
-      "take": "SEC files enforcement action against ISS for subpoena noncompliance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-enforcement-action-iss-subpoena-noncompliance/"
+      "headline": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "take": "Poland upholds crypto bill veto as Zondacrypto scandal continues to widen",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

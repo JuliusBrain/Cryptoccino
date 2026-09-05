@@ -1,84 +1,90 @@
 {
-  "generated": "2026-09-05T10:41:58.300228+00:00",
-  "ts": 1788604918,
+  "generated": "2026-09-05T15:18:54.383471+00:00",
+  "ts": 1788621534,
   "market": [
     {
-      "headline": "Ethereum posts third-best Q3 performance ever with 66% gain",
-      "take": "Ethereum gained 66% in Q3, third-best quarterly performance on record",
+      "headline": "Bitcoin surges 40% from July low, reigniting $100,000 speculation",
+      "take": "Bitcoin surges 40% from July low, reigniting speculation of $100,000",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-third-best-q3-performance/"
+      "link": "https://cryptobriefing.com/bitcoin-surges-40-percent-100k-speculation/"
     },
     {
-      "headline": "BlackRock clients buy $117M worth of Bitcoin through IBIT in a single day",
-      "take": "BlackRock clients purchased $117M Bitcoin via IBIT in single day",
+      "headline": "Blue Owl slashes loan value to near zero, raising doubts in private credit market",
+      "take": "Blue Owl slashes loan value near zero, raising private credit market concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-117m-inflows/"
+      "link": "https://cryptobriefing.com/blue-owl-loan-markdown-private-credit-doubts/"
     },
     {
-      "headline": "US spot Bitcoin ETFs see $175M inflows, Ethereum ETFs gain $27M",
-      "take": "US spot Bitcoin ETFs saw $175M inflows, Ethereum ETFs gained $27M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september/"
+      "headline": "Southeast Asia\u2019s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "take": "Southeast Asia crypto funding rebounds to $680M as focus shifts to mature firms",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms"
     },
     {
-      "headline": "Emerging markets set for capital inflows as US dollar weakens, gold rises",
-      "take": "Emerging markets poised for capital inflows as dollar weakens, gold rises",
+      "headline": "StackingDAO\u2019s Bitcoin staking capacity fully allocated as Genesis Bond draws strong demand",
+      "take": "StackingDAO Bitcoin staking capacity fully allocated amid strong Genesis Bond demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-markets-set-for-capital-inflows-as-us-dollar-weakens-gold-rises/"
+      "link": "https://cryptobriefing.com/stackingdao-bitcoin-staking-fully-allocated/"
     },
     {
-      "headline": "XRP Ledger sees fewer active accounts but larger trades and more value",
-      "take": "XRP Ledger shows fewer active accounts but larger trades and more value",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-ledger-institutional-transactions-active-accounts/"
+      "headline": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "take": "XRP Ledger shows fewer active accounts but larger trades and more total value",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value"
     }
   ],
   "business": [
     {
-      "headline": "Southeast Asia\u2019s crypto funding rebounds to $680M as investors bet big on fewer companies",
-      "take": "Southeast Asia crypto funding rebounded to $680M, concentrated in mature firms",
+      "headline": "SoundHound AI completes acquisition of LivePerson to enhance offerings",
+      "take": "SoundHound AI completes LivePerson acquisition to enhance product offerings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/southeast-asia-crypto-funding-rebounds-680m/"
+      "link": "https://cryptobriefing.com/soundhound-ai-liveperson-acquisition/"
     },
     {
-      "headline": "ARK Invest sees AI infrastructure spending surge by 2026",
-      "take": "ARK Invest expects AI infrastructure spending surge by 2026",
+      "headline": "Oura goes public amid rising competition in smart ring market",
+      "take": "Oura goes public as smart ring market competition continues to intensify",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-sees-ai-infrastructure-spending-surge-by-2026/"
+      "link": "https://cryptobriefing.com/oura-ipo-smart-ring-market/"
     },
     {
-      "headline": "Jane Street, IMC Trading among prop trading firms flooding Hong Kong",
-      "take": "Jane Street, IMC Trading among prop firms expanding into Hong Kong",
+      "headline": "Foxconn expects third quarter to outperform market as AI server demand rewrites its business",
+      "take": "Foxconn expects Q3 outperformance driven by AI server demand shift",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jump-trading-hong-kong-expansion/"
+      "link": "https://cryptobriefing.com/foxconn-q3-outlook-ai-server-demand/"
+    },
+    {
+      "headline": "Moonwell Card shuts down September 6 as Cypher acquisition forces users to act fast",
+      "take": "Moonwell Card shuts down September 6 following Cypher acquisition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moonwell-card-shutdown-september-6-withdraw/"
     }
   ],
   "security": [
     {
-      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for copyright infringement",
-      "take": "Seattle Times and Newsday sue OpenAI and Microsoft for copyright infringement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/seattle-times-newsday-sue-openai-microsoft/"
+      "headline": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+      "take": "Google patches Chrome flaw actively exploited by hackers in the wild",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited"
     }
   ],
   "policy": [
     {
-      "headline": "Al Jazeera reports Trump sends envoys to Moscow and Kyiv to propose Ukraine war ceasefire",
-      "take": "Trump reportedly sends envoys to Moscow and Kyiv proposing Ukraine ceasefire",
+      "headline": "Nayib Bukele denies transfer of El Salvador\u2019s Bitcoin reserves to private parties",
+      "take": "Nayib Bukele denies transfer of El Salvador Bitcoin reserves to private parties",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/al-jazeera-reports-trump-sends-envoys-to-moscow-and-kyiv-to-propose-ukraine-war/"
+      "link": "https://cryptobriefing.com/bukele-denies-el-salvador-bitcoin-reserve-transfer/"
     },
     {
-      "headline": "Xi Jinping will bring a large group of Chinese CEOs to the US this month",
-      "take": "Xi Jinping to bring large group of Chinese CEOs to US this month",
+      "headline": "Fed governor met bankers during blackout period, prompting Senate call for probe",
+      "take": "Fed governor met bankers during blackout period, prompting Senate investigation call",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xi-jinping-will-bring-a-large-group-of-chinese-ceos-to-the-us-this-month/"
+      "link": "https://cryptobriefing.com/fed-governors-bankers-blackout-periods/"
     },
     {
-      "headline": "Iranian rial falls to record low of 2.25 million against US dollar",
-      "take": "Iranian rial falls to record low of 2.25 million against US dollar",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iranian-rial-record-low-dollar/"
+      "headline": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "take": "Poland upholds crypto bill veto as Zondacrypto scandal continues widening",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

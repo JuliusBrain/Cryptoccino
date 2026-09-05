@@ -1,90 +1,78 @@
 {
-  "generated": "2026-09-05T15:18:54.383471+00:00",
-  "ts": 1788621534,
+  "generated": "2026-09-05T17:24:20.418001+00:00",
+  "ts": 1788629060,
   "market": [
     {
-      "headline": "Bitcoin surges 40% from July low, reigniting $100,000 speculation",
-      "take": "Bitcoin surges 40% from July low, reigniting speculation of $100,000",
+      "headline": "Bitcoin faces Fed test on Sept. 16 as core inflation drops to 3%",
+      "take": "Bitcoin tests Fed decision as core inflation cools to three percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-surges-40-percent-100k-speculation/"
+      "link": "https://cryptobriefing.com/bitcoin-fed-test-september-core-inflation/"
     },
     {
-      "headline": "Blue Owl slashes loan value to near zero, raising doubts in private credit market",
-      "take": "Blue Owl slashes loan value near zero, raising private credit market concerns",
+      "headline": "Prediction market bets $119K on OpenAI\u2019s valuation dropping to $750B by year-end",
+      "take": "Prediction market bets OpenAI valuation drops to $750B by year end",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blue-owl-loan-markdown-private-credit-doubts/"
+      "link": "https://cryptobriefing.com/polymarket-openai-valuation-ipo-prediction/"
     },
     {
-      "headline": "Southeast Asia\u2019s crypto funding rebounds to $680 million as investors focus on mature firms",
-      "take": "Southeast Asia crypto funding rebounds to $680M as focus shifts to mature firms",
+      "headline": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "take": "Dollar stablecoins may pressure local currencies, Bank of Korea warns",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms"
-    },
-    {
-      "headline": "StackingDAO\u2019s Bitcoin staking capacity fully allocated as Genesis Bond draws strong demand",
-      "take": "StackingDAO Bitcoin staking capacity fully allocated amid strong Genesis Bond demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stackingdao-bitcoin-staking-fully-allocated/"
+      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
     },
     {
       "headline": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
-      "take": "XRP Ledger shows fewer active accounts but larger trades and more total value",
+      "take": "XRP Ledger sees fewer accounts but larger trades and more value",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value"
     }
   ],
   "business": [
     {
-      "headline": "SoundHound AI completes acquisition of LivePerson to enhance offerings",
-      "take": "SoundHound AI completes LivePerson acquisition to enhance product offerings",
+      "headline": "Anthropic eyes mega IPO by end of 2026, Amazon and Alphabet to benefit",
+      "take": "Anthropic targets mega IPO by end of 2026, boosting Amazon Alphabet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/soundhound-ai-liveperson-acquisition/"
+      "link": "https://cryptobriefing.com/anthropic-eyes-mega-ipo-by-end-of-2026-amazon-and-alphabet-to-benefit/"
+    },
+    {
+      "headline": "STEPN launches $STROLL on Robinhood Chain, letting users hunt stock fragments by walking",
+      "take": "STEPN launches $STROLL on Robinhood Chain for stock fragment hunting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stepn-stroll-robinhood-chain-stock-fragments/"
+    },
+    {
+      "headline": "Kyrgyzstan plans to digitize crypto licensing and test CBDC by 2027",
+      "take": "Kyrgyzstan plans crypto licensing platform and digital som pilot by 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kyrgyzstan-digitize-crypto-licensing-cbdc-2027/"
     },
     {
       "headline": "Oura goes public amid rising competition in smart ring market",
-      "take": "Oura goes public as smart ring market competition continues to intensify",
+      "take": "Oura smart ring goes public amid intensifying market competition",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/oura-ipo-smart-ring-market/"
-    },
-    {
-      "headline": "Foxconn expects third quarter to outperform market as AI server demand rewrites its business",
-      "take": "Foxconn expects Q3 outperformance driven by AI server demand shift",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/foxconn-q3-outlook-ai-server-demand/"
-    },
-    {
-      "headline": "Moonwell Card shuts down September 6 as Cypher acquisition forces users to act fast",
-      "take": "Moonwell Card shuts down September 6 following Cypher acquisition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonwell-card-shutdown-september-6-withdraw/"
     }
   ],
   "security": [
     {
       "headline": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-      "take": "Google patches Chrome flaw actively exploited by hackers in the wild",
+      "take": "Google patches Chrome flaw hackers actively exploited in wild",
       "source": "decrypt",
       "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited"
     }
   ],
   "policy": [
     {
-      "headline": "Nayib Bukele denies transfer of El Salvador\u2019s Bitcoin reserves to private parties",
-      "take": "Nayib Bukele denies transfer of El Salvador Bitcoin reserves to private parties",
+      "headline": "Poland lawmakers prepare fresh crypto bill after failing to override president\u2019s veto",
+      "take": "Poland prepares fresh crypto bill after president vetoes prior version",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bukele-denies-el-salvador-bitcoin-reserve-transfer/"
+      "link": "https://cryptobriefing.com/poland-lawmakers-prepare-fresh-crypto-bill-failing-to-override-presidents-veto/"
     },
     {
-      "headline": "Fed governor met bankers during blackout period, prompting Senate call for probe",
-      "take": "Fed governor met bankers during blackout period, prompting Senate investigation call",
+      "headline": "SEC files enforcement action against ISS for subpoena noncompliance",
+      "take": "SEC files enforcement action against ISS for subpoena noncompliance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-governors-bankers-blackout-periods/"
-    },
-    {
-      "headline": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-      "take": "Poland upholds crypto bill veto as Zondacrypto scandal continues widening",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/sec-enforcement-action-iss-subpoena-noncompliance/"
     }
   ]
 }

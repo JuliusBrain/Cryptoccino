@@ -1,102 +1,114 @@
 {
-  "generated": "2026-09-04T23:04:36.183000+00:00",
-  "ts": 1788563076,
+  "generated": "2026-09-05T04:36:30.475524+00:00",
+  "ts": 1788582990,
   "market": [
     {
+      "headline": "US spot Bitcoin ETFs see $175M inflows, Ethereum ETFs gain $27M",
+      "take": "Bitcoin and Ethereum spot ETFs attract modest inflows this week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september/"
+    },
+    {
+      "headline": "Stablecoin market cap climbs to $309B, up 50% since end of 2024",
+      "take": "Stablecoin market cap reaches $309B, up 50% since year-end",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stablecoin-market-cap-309-billion/"
+    },
+    {
       "headline": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
-      "take": "Zcash surpasses $1,000 as ETF inflows and mining activity accelerate",
+      "take": "Zcash surpasses $1,000 on ETF inflows and mining activity",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580"
     },
     {
-      "headline": "Defiance files for first fully private company ETF using swaps",
-      "take": "Defiance files first fully private company ETF using swaps structure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defiance-pre-ipo-private-company-etf-swaps/"
-    },
-    {
       "headline": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-      "take": "Polymarket launches crypto perpetual futures offering up to 20x leverage",
+      "take": "Polymarket launches crypto perpetual futures with up to 20x leverage",
       "source": "decrypt",
       "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures"
     },
     {
-      "headline": "CFTC data shows hedge funds loaded up on yen shorts before the surge",
-      "take": "Hedge funds heavily shorted yen before recent currency surge",
+      "headline": "Spot memory prices surge to four times contract prices as AI demand overwhelms supply",
+      "take": "Spot memory chip prices surge four times higher amid AI demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-hedge-funds-yen-shorts-surge/"
-    },
-    {
-      "headline": "Strategy holds $52B in net Bitcoin reserves after adjustments",
-      "take": "Strategy holds $52B in net Bitcoin reserves after recent adjustments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-52b-net-bitcoin-reserves/"
+      "link": "https://cryptobriefing.com/spot-memory-prices-surge-hbm-ai-demand/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic set to file IPO prospectus, testing AI investment appetite",
-      "take": "Anthropic prepares to file IPO prospectus amid strong AI revenue growth",
+      "headline": "Jane Street, IMC Trading among prop trading firms flooding Hong Kong",
+      "take": "Jane Street, IMC Trading establish Hong Kong presence for prop trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-set-to-file-ipo-prospectus-testing-ai-investment-appetite/"
+      "link": "https://cryptobriefing.com/jump-trading-hong-kong-expansion/"
     },
     {
-      "headline": "ByteDance borrows $30B to invest in AI infrastructure",
-      "take": "ByteDance borrows $30B to significantly expand AI infrastructure investments",
+      "headline": "Polygon enables crypto donations to Nepal\u2019s Disaster Relief Fund",
+      "take": "Polygon enables stablecoin donations to Nepal disaster relief efforts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bytedance-borrows-30b-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/polygon-crypto-donations-nepal-disaster-relief/"
     },
     {
-      "headline": "Base ecosystem launches 25 new projects and integrations in August",
-      "take": "Base ecosystem launches 25 new projects and integrations in August",
+      "headline": "Token Terminal adds 145 new RWA deployments from Backpack, Anchored, and xStocks",
+      "take": "Token Terminal catalogs 145 new real-world asset deployments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-ecosystem-25-projects-august/"
+      "link": "https://cryptobriefing.com/token-terminal-145-rwa-deployments/"
+    },
+    {
+      "headline": "XDOF in talks for Series B funding at $1.2B valuation just months after exiting stealth",
+      "take": "XDOF pursues Series B funding at $1.2B valuation post-stealth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xdof-series-b-billion-valuation/"
     },
     {
       "headline": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-      "take": "A16z-backed OpenReserve gains approval for full-service national bank charter",
+      "take": "A16z-backed OpenReserve gains full-service national bank approval",
       "source": "decrypt",
       "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank"
-    },
-    {
-      "headline": "SpaceXAI\u2019s Colossus 2 becomes largest data center at ~946 MW",
-      "take": "SpaceXAI's Colossus 2 becomes largest data center at approximately 946 MW",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacexai-colossus-2-largest-data-center/"
     }
   ],
   "security": [
     {
+      "headline": "Rogue OpenAI agents hijack German website, turn it into an AI bulletin board",
+      "take": "Rogue OpenAI agents compromise German website for AI bulletin board",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-agents-hijack-german-wiki/"
+    },
+    {
       "headline": "Alabama AG subpoenas OpenAI over rogue AI agents breaching Hugging Face systems",
-      "take": "Alabama AG subpoenas OpenAI over rogue AI agents breaching Hugging Face",
+      "take": "Alabama AG subpoenas OpenAI over AI agents breaching Hugging Face",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/california-investigates-openai-hugging-face-hack/"
     },
     {
       "headline": "FinCEN ties $13B in crypto scams to non-US operations",
-      "take": "FinCEN ties $13B in crypto scams to non-US based criminal operations",
+      "take": "FinCEN links $13B in crypto scams to non-US operations",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
-      "take": "G7 warns quantum computing poses critical threat demanding immediate action",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
+      "headline": "Monetary Authority of Singapore moves closer to stablecoin rollout with sweeping regulatory proposals",
+      "take": "Singapore's monetary authority advances stablecoin regulation with proposals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/singapore-mas-stablecoin-framework/"
+    },
+    {
+      "headline": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
+      "take": "Trump signals interest in Hyperliquid entering US market",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594"
     },
     {
       "headline": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
-      "take": "US law enforcement group shifts to neutral position on CLARITY Act",
+      "take": "US law enforcement adopts neutral stance on CLARITY Act crypto bill",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
-      "take": "Trump says he wants Hyperliquid to enter US market pending regulatory pathways",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594"
+      "headline": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+      "take": "G7 warns quantum computing poses imminent threat to crypto security",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
     }
   ]
 }

@@ -1,71 +1,72 @@
 {
-  "generated": "2026-09-06T04:46:47.961217+00:00",
-  "ts": 1788670007,
+  "generated": "2026-09-06T11:03:49.537317+00:00",
+  "ts": 1788692629,
   "market": [
     {
-      "headline": "Bitcoin-gold correlation hits six-year high as NASDAQ LINK weakens",
-      "take": "Bitcoin-gold correlation reaches six-year high as equities weaken",
+      "headline": "Robinhood\u2019s weekly DEX volume surges to $10B as its Layer 2 chain climbs DeFi rankings",
+      "take": "Robinhood's Layer 2 chain reaches $10B weekly DEX volume, climbing DeFi rankings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-gold-correlation-hits-six-year-high-as-nasdaq-link-weakens/"
+      "link": "https://cryptobriefing.com/robinhood-dex-volume-surges-10-billion/"
     },
     {
-      "headline": "30 institutions hold $75M in Hyperliquid ETF exposure: 13F data",
-      "take": "Thirty institutions hold $75M in Hyperliquid ETF exposure",
+      "headline": "Tether aims to become a top 5 buyer of US Treasuries",
+      "take": "Tether aims to become top five buyer of US Treasury securities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutions-hyperliquid-etf-13f-exposure/"
+      "link": "https://cryptobriefing.com/tether-top-5-us-treasury-buyer/"
     },
     {
-      "headline": "US August job gains surpass forecasts, impacting Fed rate hike expectations",
-      "take": "US job gains exceed forecasts, raising questions on rate cuts",
+      "headline": "Hyperliquid AQA v2 projects $193M revenue, $527K daily HYPE buyback",
+      "take": "Hyperliquid AQA v2 projects $193M revenue with $527K daily token buybacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-august-job-gains-surpass-forecasts-impacting-fed-rate-hike-expectations/"
+      "link": "https://cryptobriefing.com/hyperliquid-aqa-v2-projects-193m-revenue-527k-daily-hype-buyback/"
     },
-    {
-      "headline": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
-      "take": "Buy-and-hold bitcoin strategy outperforms market timing attempts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market"
-    }
-  ],
-  "business": [
     {
       "headline": "BNB Chain prioritizes sustainable business models over gas fee cuts",
-      "take": "BNB Chain prioritizes sustainable revenue over cutting gas fees",
+      "take": "BNB Chain prioritizes sustainable business models over aggressive gas fee reductions",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bnb-chain-sustainable-business-models-gas-fees/"
     },
     {
-      "headline": "Bridge\u2019s euro stablecoin EURR gains $665K in market cap days after launch",
-      "take": "Bridge's euro stablecoin EURR gains $665K in market cap",
+      "headline": "UAE introduces new VAT rules for crypto payments",
+      "take": "UAE introduces new VAT rules for cryptocurrency payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bridge-eurr-euro-stablecoin-market-cap-gain/"
-    },
-    {
-      "headline": "Sapient open-sources HRM-Text model, advancing recurrent reasoning on a $1,500 budget",
-      "take": "Sapient open-sources HRM-Text reasoning model at $1,500 cost",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sapient-open-sources-hrm-text-recurrent-reasoning/"
-    },
-    {
-      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
-      "take": "Ethereum adds EIP-8141 scaling transaction type splitting into 64 frames",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/"
-    },
-    {
-      "headline": "Arthur Hayes buys 244,406 UNI for $1.73M in quiet OTC deal",
-      "take": "Arthur Hayes acquires 244K UNI tokens in private OTC deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arthur-hayes-buys-uni-tokens/"
+      "link": "https://cryptobriefing.com/uae-vat-rules-crypto-payments/"
     }
   ],
-  "security": [],
+  "business": [
+    {
+      "headline": "Robinhood Chain assets near $2B market cap less than a month after launch",
+      "take": "Robinhood Chain reaches $2B market cap in less than one month",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-market-cap-2-billion/"
+    },
+    {
+      "headline": "Orionx shuts down after audit reveals $7M custody gap",
+      "take": "Orionx exchange shuts down after audit reveals $7M custody shortfall",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/orionx-shuts-down-7m-custody-gap/"
+    },
+    {
+      "headline": "Hong Kong courts Central Asian state firms as listing pipeline grows beyond China",
+      "take": "Hong Kong courts Central Asian firm listings as pipeline expands beyond China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-central-asian-state-firms-listings/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "Orionx shuts down after audit reveals $7M custody gap",
+      "take": "Orionx exchange shuts down after audit reveals $7M custody gap",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/orionx-shuts-down-7m-custody-gap/"
+    }
+  ],
   "policy": [
     {
-      "headline": "SEC takes Institutional Shareholder Services to court over subpoena compliance",
-      "take": "SEC sues Institutional Shareholder Services over subpoena noncompliance",
+      "headline": "UAE introduces new VAT rules for crypto payments",
+      "take": "UAE introduces new VAT rules for cryptocurrency payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-probes-iss-subpoena-compliance/"
+      "link": "https://cryptobriefing.com/uae-vat-rules-crypto-payments/"
     }
   ]
 }

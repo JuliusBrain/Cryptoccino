@@ -1,89 +1,84 @@
 {
-  "generated": "2026-09-06T15:31:48.664098+00:00",
-  "ts": 1788708708,
+  "generated": "2026-09-06T20:28:41.907542+00:00",
+  "ts": 1788726521,
   "market": [
     {
-      "headline": "Altcoins surpass Bitcoin in open interest for the first time since December 2024",
-      "take": "Altcoins surpass Bitcoin in open interest for first time since December",
+      "headline": "MENA crypto transaction volume reaches $350B, led by Saudi Arabia\u2019s 154% annual growth",
+      "take": "MENA crypto transaction volume reaches $350B, Saudi Arabia leads with 154% growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/altcoins-surpass-bitcoin-open-interest/"
+      "link": "https://cryptobriefing.com/mena-crypto-volume-350b-saudi-arabia/"
     },
     {
-      "headline": "Hyperliquid\u2019s HYPE token hits all-time high above $89, up 60% in a month",
-      "take": "Hyperliquid HYPE token hits all-time high above $89, up 60% monthly",
+      "headline": "Bond traders brace for increased volatility in US yield curve",
+      "take": "Bond traders prepare for increased volatility in US yield curve ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquids-hype-token-hits-all-time-high-above-89-up-60-in-a-month/"
+      "link": "https://cryptobriefing.com/bond-traders-brace-us-yield-curve-volatility/"
     },
     {
-      "headline": "Tokenized stocks generate $16B in DEX trading volume over 90 days",
-      "take": "Tokenized stocks generated $16B in DEX trading volume over 90 days",
+      "headline": "Foreign investors hold record $39T in US assets, doubling since 2022",
+      "take": "Foreign investors hold record $39T in US assets, doubling since 2022",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-16b-dex-volume/"
-    },
-    {
-      "headline": "USDC leads stablecoin market cap growth, adding $584M in a week",
-      "take": "USDC leads stablecoin growth, adding $584M market cap in one week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-leads-stablecoin-market-cap-growth/"
-    },
-    {
-      "headline": "Bitcoin moves 600 BTC after 16 years of dormancy",
-      "take": "Bitcoin moves 600 BTC after 16 years of dormancy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-600-btc-dormant-16-years/"
+      "link": "https://cryptobriefing.com/foreign-investors-record-39t-us-assets/"
     }
   ],
   "business": [
     {
-      "headline": "NEAR AI\u2019s Lean agent solves every Putnam problem for $111, 250x cheaper than rivals",
-      "take": "NEAR AI's Lean agent solves Putnam problems 250x cheaper than rivals",
+      "headline": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
+      "take": "Router Protocol to shut down and burn 303M ROUTE tokens after failing",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618"
+    },
+    {
+      "headline": "Injective to enable native privacy features in upcoming updates",
+      "take": "Injective to enable native privacy features in upcoming protocol updates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-ai-lean-agent-putnam-bench-111-dollars/"
+      "link": "https://cryptobriefing.com/injective-native-privacy-features-update/"
     },
     {
       "headline": "Better and Coinbase\u2019s bitcoin-backed mortgages can reuse borrowers\u2019 collateral",
-      "take": "Better and Coinbase enable reusable collateral in bitcoin-backed mortgages",
+      "take": "Better and Coinbase launch bitcoin-backed mortgages allowing collateral reuse",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral"
     },
     {
-      "headline": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
-      "take": "Crypto project funded 1,000 student loans entirely on-chain",
+      "headline": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+      "take": "XRP gains traction through Ripple partnership with Florida Athletics",
       "source": "decrypt",
-      "link": "https://decrypt.co/377494/pencil-finance-1-million-student-loan"
+      "link": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics"
     },
     {
-      "headline": "Tokenized stocks hit $3B market cap, led by ETFs at $644M",
-      "take": "Tokenized stocks hit $3B market cap, ETFs lead at $644M",
+      "headline": "Isar Aerospace becomes first commercial entity to launch rocket into orbit from continental Europe",
+      "take": "Isar Aerospace becomes first commercial entity launching rocket from continental Europe",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-hit-3b-market-cap-etfs-644m/"
+      "link": "https://cryptobriefing.com/isar-aerospace-first-commercial-orbital-launch-europe/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "White hat hacker drains ~4,200 BTC from Liquid Network, worth $320M",
+      "take": "White hat hacker drains approximately 4,200 BTC from Liquid Network worth $320M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/white-hat-hacker-drains-liquid-network-btc/"
+    },
+    {
+      "headline": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "take": "Ukrainian police dismantle crypto scam stealing up to $1 million monthly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month"
+    }
+  ],
   "policy": [
     {
-      "headline": "Federal Reserve Chair Kevin Warsh warns of potential rate hike as inflation refuses to cooperate",
-      "take": "Federal Reserve Chair warns of potential rate hike amid inflation concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-chair-warsh-warns-rate-hike/"
+      "headline": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "take": "Prediction markets edge closer to Supreme Court review in crypto regulation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto"
     },
     {
-      "headline": "OpenAI, Google oppose Massachusetts AI safety rules backed by Anthropic",
-      "take": "OpenAI and Google oppose Massachusetts AI safety rules backed by Anthropic",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-google-oppose-massachusetts-ai-safety-rules-backed-by-anthropic/"
-    },
-    {
-      "headline": "Donald Trump calls Canadian dollar imbalance with US unacceptable, slaps 50% tariffs on $20B in imports",
-      "take": "Trump slaps 50% tariffs on $20B Canadian imports over dollar imbalance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-canada-dollar-imbalance-tariffs/"
-    },
-    {
-      "headline": "Global central banks withdraw gold from New York, questioning US safe-haven status",
-      "take": "Global central banks withdraw gold from New York, question US safe-haven",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-banks-withdraw-gold-new-york/"
+      "headline": "Stablecoins Won't Scale Without Banks",
+      "take": "Stablecoins require banking infrastructure to achieve meaningful scale and adoption",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks"
     }
   ]
 }

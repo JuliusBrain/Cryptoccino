@@ -1,72 +1,89 @@
 {
-  "generated": "2026-09-06T11:03:49.537317+00:00",
-  "ts": 1788692629,
+  "generated": "2026-09-06T15:31:48.664098+00:00",
+  "ts": 1788708708,
   "market": [
     {
-      "headline": "Robinhood\u2019s weekly DEX volume surges to $10B as its Layer 2 chain climbs DeFi rankings",
-      "take": "Robinhood's Layer 2 chain reaches $10B weekly DEX volume, climbing DeFi rankings",
+      "headline": "Altcoins surpass Bitcoin in open interest for the first time since December 2024",
+      "take": "Altcoins surpass Bitcoin in open interest for first time since December",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-dex-volume-surges-10-billion/"
+      "link": "https://cryptobriefing.com/altcoins-surpass-bitcoin-open-interest/"
     },
     {
-      "headline": "Tether aims to become a top 5 buyer of US Treasuries",
-      "take": "Tether aims to become top five buyer of US Treasury securities",
+      "headline": "Hyperliquid\u2019s HYPE token hits all-time high above $89, up 60% in a month",
+      "take": "Hyperliquid HYPE token hits all-time high above $89, up 60% monthly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-top-5-us-treasury-buyer/"
+      "link": "https://cryptobriefing.com/hyperliquids-hype-token-hits-all-time-high-above-89-up-60-in-a-month/"
     },
     {
-      "headline": "Hyperliquid AQA v2 projects $193M revenue, $527K daily HYPE buyback",
-      "take": "Hyperliquid AQA v2 projects $193M revenue with $527K daily token buybacks",
+      "headline": "Tokenized stocks generate $16B in DEX trading volume over 90 days",
+      "take": "Tokenized stocks generated $16B in DEX trading volume over 90 days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-aqa-v2-projects-193m-revenue-527k-daily-hype-buyback/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-16b-dex-volume/"
     },
     {
-      "headline": "BNB Chain prioritizes sustainable business models over gas fee cuts",
-      "take": "BNB Chain prioritizes sustainable business models over aggressive gas fee reductions",
+      "headline": "USDC leads stablecoin market cap growth, adding $584M in a week",
+      "take": "USDC leads stablecoin growth, adding $584M market cap in one week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-sustainable-business-models-gas-fees/"
+      "link": "https://cryptobriefing.com/usdc-leads-stablecoin-market-cap-growth/"
     },
     {
-      "headline": "UAE introduces new VAT rules for crypto payments",
-      "take": "UAE introduces new VAT rules for cryptocurrency payments",
+      "headline": "Bitcoin moves 600 BTC after 16 years of dormancy",
+      "take": "Bitcoin moves 600 BTC after 16 years of dormancy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uae-vat-rules-crypto-payments/"
+      "link": "https://cryptobriefing.com/bitcoin-600-btc-dormant-16-years/"
     }
   ],
   "business": [
     {
-      "headline": "Robinhood Chain assets near $2B market cap less than a month after launch",
-      "take": "Robinhood Chain reaches $2B market cap in less than one month",
+      "headline": "NEAR AI\u2019s Lean agent solves every Putnam problem for $111, 250x cheaper than rivals",
+      "take": "NEAR AI's Lean agent solves Putnam problems 250x cheaper than rivals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-market-cap-2-billion/"
+      "link": "https://cryptobriefing.com/near-ai-lean-agent-putnam-bench-111-dollars/"
     },
     {
-      "headline": "Orionx shuts down after audit reveals $7M custody gap",
-      "take": "Orionx exchange shuts down after audit reveals $7M custody shortfall",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/orionx-shuts-down-7m-custody-gap/"
+      "headline": "Better and Coinbase\u2019s bitcoin-backed mortgages can reuse borrowers\u2019 collateral",
+      "take": "Better and Coinbase enable reusable collateral in bitcoin-backed mortgages",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral"
     },
     {
-      "headline": "Hong Kong courts Central Asian state firms as listing pipeline grows beyond China",
-      "take": "Hong Kong courts Central Asian firm listings as pipeline expands beyond China",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-central-asian-state-firms-listings/"
-    }
-  ],
-  "security": [
+      "headline": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+      "take": "Crypto project funded 1,000 student loans entirely on-chain",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377494/pencil-finance-1-million-student-loan"
+    },
     {
-      "headline": "Orionx shuts down after audit reveals $7M custody gap",
-      "take": "Orionx exchange shuts down after audit reveals $7M custody gap",
+      "headline": "Tokenized stocks hit $3B market cap, led by ETFs at $644M",
+      "take": "Tokenized stocks hit $3B market cap, ETFs lead at $644M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/orionx-shuts-down-7m-custody-gap/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-hit-3b-market-cap-etfs-644m/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "UAE introduces new VAT rules for crypto payments",
-      "take": "UAE introduces new VAT rules for cryptocurrency payments",
+      "headline": "Federal Reserve Chair Kevin Warsh warns of potential rate hike as inflation refuses to cooperate",
+      "take": "Federal Reserve Chair warns of potential rate hike amid inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uae-vat-rules-crypto-payments/"
+      "link": "https://cryptobriefing.com/fed-chair-warsh-warns-rate-hike/"
+    },
+    {
+      "headline": "OpenAI, Google oppose Massachusetts AI safety rules backed by Anthropic",
+      "take": "OpenAI and Google oppose Massachusetts AI safety rules backed by Anthropic",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-google-oppose-massachusetts-ai-safety-rules-backed-by-anthropic/"
+    },
+    {
+      "headline": "Donald Trump calls Canadian dollar imbalance with US unacceptable, slaps 50% tariffs on $20B in imports",
+      "take": "Trump slaps 50% tariffs on $20B Canadian imports over dollar imbalance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-canada-dollar-imbalance-tariffs/"
+    },
+    {
+      "headline": "Global central banks withdraw gold from New York, questioning US safe-haven status",
+      "take": "Global central banks withdraw gold from New York, question US safe-haven",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/central-banks-withdraw-gold-new-york/"
     }
   ]
 }

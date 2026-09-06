@@ -1,84 +1,71 @@
 {
-  "generated": "2026-09-05T22:58:13.038823+00:00",
-  "ts": 1788649093,
+  "generated": "2026-09-06T04:46:47.961217+00:00",
+  "ts": 1788670007,
   "market": [
     {
-      "headline": "Crypto market adds $14B in under 24 hours as total cap nears $2.83 trillion",
-      "take": "Crypto market cap adds $14B in 24 hours, approaching $2.83 trillion",
+      "headline": "Bitcoin-gold correlation hits six-year high as NASDAQ LINK weakens",
+      "take": "Bitcoin-gold correlation reaches six-year high as equities weaken",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-adds-14b-24-hours/"
+      "link": "https://cryptobriefing.com/bitcoin-gold-correlation-hits-six-year-high-as-nasdaq-link-weakens/"
     },
     {
-      "headline": "US Bitcoin ETFs pull in $987M in a week as three-week streak hits $3.8B",
-      "take": "US Bitcoin ETFs attract $987M weekly, three-week total reaches $3.8B",
+      "headline": "30 institutions hold $75M in Hyperliquid ETF exposure: 13F data",
+      "take": "Thirty institutions hold $75M in Hyperliquid ETF exposure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-987m-weekly-streak/"
+      "link": "https://cryptobriefing.com/institutions-hyperliquid-etf-13f-exposure/"
     },
     {
-      "headline": "QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days",
-      "take": "QQQb leads tokenized stocks with $1.7B in DEX volume monthly",
+      "headline": "US August job gains surpass forecasts, impacting Fed rate hike expectations",
+      "take": "US job gains exceed forecasts, raising questions on rate cuts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/qqqb-tokenized-stocks-dex-trading-volume/"
+      "link": "https://cryptobriefing.com/us-august-job-gains-surpass-forecasts-impacting-fed-rate-hike-expectations/"
     },
     {
-      "headline": "Solana\u2019s RWA ecosystem expands past $18.5B with stablecoins, funds, stocks, and commodities",
-      "take": "Solana's RWA ecosystem expands past $18.5B across multiple asset classes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-rwa-ecosystem-expands-18-billion/"
-    },
-    {
-      "headline": "TradeXYZ\u2019s RWA perpetuals trading volume cools to $2.6B daily, 71% below July peak",
-      "take": "TradeXYZ RWA perpetuals volume drops 71% to $2.6B daily from July peak",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradexyz-rwa-perps-volume-drops-from-july-peak/"
+      "headline": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "take": "Buy-and-hold bitcoin strategy outperforms market timing attempts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market"
     }
   ],
   "business": [
     {
-      "headline": "Solana hosts $79M in tokenized stocks, Robinhood Chain follows with $73M",
-      "take": "Solana and Robinhood Chain host $152M combined in tokenized stocks",
+      "headline": "BNB Chain prioritizes sustainable business models over gas fee cuts",
+      "take": "BNB Chain prioritizes sustainable revenue over cutting gas fees",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-robinhood-chain-tokenized-stocks-defi/"
+      "link": "https://cryptobriefing.com/bnb-chain-sustainable-business-models-gas-fees/"
     },
     {
-      "headline": "Polymarket signs LeBron James as first athlete partner",
-      "take": "Polymarket signs LeBron James as first professional athlete partner",
+      "headline": "Bridge\u2019s euro stablecoin EURR gains $665K in market cap days after launch",
+      "take": "Bridge's euro stablecoin EURR gains $665K in market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-lebron-james-athlete-partner/"
+      "link": "https://cryptobriefing.com/bridge-eurr-euro-stablecoin-market-cap-gain/"
     },
     {
-      "headline": "BulkTrade launches as Solana\u2019s anticipated perps exchange",
-      "take": "BulkTrade launches as anticipated perpetuals exchange on Solana",
+      "headline": "Sapient open-sources HRM-Text model, advancing recurrent reasoning on a $1,500 budget",
+      "take": "Sapient open-sources HRM-Text reasoning model at $1,500 cost",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bulktrade-launches-solana-perps-exchange/"
+      "link": "https://cryptobriefing.com/sapient-open-sources-hrm-text-recurrent-reasoning/"
     },
     {
-      "headline": "Uniswap v4 hits over 90K hooks initialized and linked to deployed pools",
-      "take": "Uniswap v4 surpasses 90K hooks initialized across deployed pools",
+      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
+      "take": "Ethereum adds EIP-8141 scaling transaction type splitting into 64 frames",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-v4-90k-hooks-milestone/"
+      "link": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/"
+    },
+    {
+      "headline": "Arthur Hayes buys 244,406 UNI for $1.73M in quiet OTC deal",
+      "take": "Arthur Hayes acquires 244K UNI tokens in private OTC deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arthur-hayes-buys-uni-tokens/"
     }
   ],
-  "security": [
-    {
-      "headline": "Bitcoin contributor fixes wallet crash bug using AI tools, exposing both promise and friction in AI-powered security",
-      "take": "Bitcoin wallet crash bug fixed using AI, raising security friction concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-core-ai-bug-fix-red-team/"
-    },
-    {
-      "headline": "Oklahoma Bitcoin mining site condemned after leaking 3 million gallons of water during drought",
-      "take": "Oklahoma Bitcoin mining site leaks 3M gallons water during regional drought",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oklahoma-bitcoin-mining-water-leak-condemned/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "take": "Bank of Korea study finds dollar stablecoins can depress local currencies",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
+      "headline": "SEC takes Institutional Shareholder Services to court over subpoena compliance",
+      "take": "SEC sues Institutional Shareholder Services over subpoena noncompliance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-probes-iss-subpoena-compliance/"
     }
   ]
 }

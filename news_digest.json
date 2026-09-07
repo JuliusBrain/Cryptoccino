@@ -1,72 +1,102 @@
 {
-  "generated": "2026-09-07T04:50:24.069074+00:00",
-  "ts": 1788756624,
+  "generated": "2026-09-07T12:43:16.389434+00:00",
+  "ts": 1788784996,
   "market": [
     {
-      "headline": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
-      "take": "Spot bitcoin ETFs attracted $987 million last week as institutional demand recovers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639"
+      "headline": "Circle mints $3B USDC on Solana in past 24 hours",
+      "take": "Circle mints $3B USDC on Solana, signaling strong stablecoin demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-mints-3b-usdc-solana/"
     },
     {
-      "headline": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
-      "take": "Oil prices rose while bitcoin fell following US strikes on Iranian crude carriers",
+      "headline": "Solana to triple transaction size as apps get room for more complex trades",
+      "take": "Solana increases transaction size to enable more complex onchain trades",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers"
+      "link": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades"
     },
     {
-      "headline": "Gold declines as stronger US payrolls data raises rate hike prospects",
-      "take": "Gold declined as stronger US payrolls data raised rate hike prospects",
+      "headline": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
+      "take": "Bitcoin shows weaker Treasury yield correlation than gold, more resilient asset",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-declines-us-payrolls-rate-hike/"
+      "link": "https://cryptobriefing.com/bitcoin-treasury-yields-correlation-gold/"
     },
     {
-      "headline": "Japan forex reserves drop below $1 trillion for first time in recent memory after record yen intervention",
-      "take": "Japan's forex reserves dropped below $1 trillion after record yen intervention",
+      "headline": "US payrolls beat forecasts, easing recession fears but complicating Fed strategy",
+      "take": "US payrolls beat forecasts, easing recession fears but complicating Fed policy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-forex-reserves-drop-yen-intervention/"
+      "link": "https://cryptobriefing.com/us-payrolls-beat-forecasts-easing-recession-fears-but-complicating-fed-strategy/"
+    },
+    {
+      "headline": "Weekend altcoin rally runs out of road as bitcoin slips",
+      "take": "Weekend altcoin rally loses momentum as Bitcoin price slips",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/07/weekend-altcoin-rally-runs-out-of-road-as-bitcoin-slips"
     }
   ],
   "business": [
     {
-      "headline": "Sunrise lists Arbitrum\u2019s ARB token on Solana via Wormhole NTT",
-      "take": "Sunrise listed Arbitrum's ARB token on Solana via Wormhole cross-chain bridge",
+      "headline": "Harmony plans to sunset network and move ONE token to Ethereum",
+      "take": "Harmony plans to sunset network and migrate ONE token to Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sunrise-lists-arb-solana-wormhole-ntt/"
+      "link": "https://cryptobriefing.com/harmony-plans-to-sunset-network-and-move-one-token-to-ethereum/"
     },
     {
-      "headline": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
-      "take": "Harmony sunsetting Layer 1, proposes token migration to Ethereum for AI video",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635"
+      "headline": "DBS and Citi complete weekend USD payment via Swift\u2019s Digital Ledger using tokenized deposits",
+      "take": "DBS and Citi complete weekend USD payment via Swift's tokenized digital ledger",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger"
     },
     {
-      "headline": "Awen Network sets September 21 deadline for $STPT to $AWE migration",
-      "take": "Awen Network sets September 21 deadline for $STPT to $AWE token migration",
+      "headline": "GenLayer Labs introduces AI court system with up to 1,000 validators to settle disputes in minutes",
+      "take": "GenLayer Labs launches AI court system with 1,000 validators settling disputes instantly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/awe-network-stpt-awe-migration-deadline/"
+      "link": "https://cryptobriefing.com/genlayer-ai-court-validators/"
     },
     {
-      "headline": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
-      "take": "Coinbase-backed Router Protocol shutting down, burning 303 million ROUTE tokens",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618"
+      "headline": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
+      "take": "Ineffable Intelligence hires six Google DeepMind and InstaDeep cofounders",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ineffable-intelligence-deepmind-cofounders/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-      "take": "Bitcoin network exploit resulted in $320 million theft; hackers claim benign intent",
+      "headline": "Blockstream confirms bridge nodes patched, funds safe to return after $320M Liquid Network exploit",
+      "take": "Blockstream patches Liquid bridge nodes after $320M exploit, funds returning safely",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockstream-liquid-network-exploit-funds-return/"
+    },
+    {
+      "headline": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
+      "take": "Coldcard hacker moves $7.7M from third-wave Bitcoin theft",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul"
+    },
+    {
+      "headline": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
+      "take": "Two-key breach could grant hackers control of $91 billion in USDT",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys"
+      "link": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps"
+    },
+    {
+      "headline": "TeraWulf\u2019s Lake Mariner data center fire raises safety concerns",
+      "take": "TeraWulf's Lake Mariner data center fire raises cryptocurrency mining safety concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/terawulf-lake-mariner-data-center-fire-safety/"
     }
   ],
   "policy": [
     {
-      "headline": "Prediction markets inch closer to the Supreme Court: State of Crypto",
-      "take": "Prediction markets moving closer to Supreme Court regulatory scrutiny and potential approval",
+      "headline": "Philippines proposes 12-month freeze on new payment operators, tightens crypto rules",
+      "take": "Philippines proposes 12-month freeze on new payment operators, tightens crypto rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/philippines-proposes-12-month-freeze-on-new-payment-operators-tightens-crypto/"
+    },
+    {
+      "headline": "UK regulator weighs easing financial prediction market ban: Times",
+      "take": "UK regulator considers easing financial prediction market ban restrictions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto"
+      "link": "https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times"
     }
   ]
 }

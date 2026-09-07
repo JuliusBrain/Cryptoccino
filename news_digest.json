@@ -1,76 +1,70 @@
 {
-  "generated": "2026-09-06T22:55:02.591001+00:00",
-  "ts": 1788735302,
+  "generated": "2026-09-07T04:50:24.069074+00:00",
+  "ts": 1788756624,
   "market": [
     {
-      "headline": "BlackRock quietly turns Bitcoin whales into Wall Street clients",
-      "take": "BlackRock converts Bitcoin whale clients to institutional Wall Street accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-whales-wall-street-clients/"
+      "headline": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
+      "take": "Spot bitcoin ETFs attracted $987 million last week as institutional demand recovers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639"
     },
     {
-      "headline": "Ethereum sees resurgence as DeFi activity boosts meme coin interest",
-      "take": "Ethereum activity rises as DeFi momentum draws meme coin trading interest",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-resurgence-defi-meme-coins/"
-    },
-    {
-      "headline": "Better and Coinbase\u2019s bitcoin-backed mortgages can reuse borrowers\u2019 collateral",
-      "take": "Bitcoin-backed mortgages now allow collateral reuse between Better and Coinbase",
+      "headline": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+      "take": "Oil prices rose while bitcoin fell following US strikes on Iranian crude carriers",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral"
+      "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers"
+    },
+    {
+      "headline": "Gold declines as stronger US payrolls data raises rate hike prospects",
+      "take": "Gold declined as stronger US payrolls data raised rate hike prospects",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-declines-us-payrolls-rate-hike/"
+    },
+    {
+      "headline": "Japan forex reserves drop below $1 trillion for first time in recent memory after record yen intervention",
+      "take": "Japan's forex reserves dropped below $1 trillion after record yen intervention",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-forex-reserves-drop-yen-intervention/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic commits over $100B to AWS as IPO prospectus prepares to reveal deal details",
-      "take": "Anthropic commits over $100B to AWS ahead of IPO prospectus reveal",
+      "headline": "Sunrise lists Arbitrum\u2019s ARB token on Solana via Wormhole NTT",
+      "take": "Sunrise listed Arbitrum's ARB token on Solana via Wormhole cross-chain bridge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-100b-aws-ipo-prospectus/"
+      "link": "https://cryptobriefing.com/sunrise-lists-arb-solana-wormhole-ntt/"
+    },
+    {
+      "headline": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+      "take": "Harmony sunsetting Layer 1, proposes token migration to Ethereum for AI video",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635"
+    },
+    {
+      "headline": "Awen Network sets September 21 deadline for $STPT to $AWE migration",
+      "take": "Awen Network sets September 21 deadline for $STPT to $AWE token migration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/awe-network-stpt-awe-migration-deadline/"
     },
     {
       "headline": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
-      "take": "Coinbase-backed Router Protocol shutting down, burning 303 million tokens",
+      "take": "Coinbase-backed Router Protocol shutting down, burning 303 million ROUTE tokens",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618"
-    },
-    {
-      "headline": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
-      "take": "Crypto project funds 1,000 student loans entirely through blockchain infrastructure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377494/pencil-finance-1-million-student-loan"
     }
   ],
   "security": [
     {
-      "headline": "Liquid Network pauses after purported \u2018white-hat\u2019 hackers withdraw $320 million in bitcoin",
-      "take": "Liquid Network pauses after white-hat hackers withdraw $320 million Bitcoin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626"
-    },
-    {
-      "headline": "Orionx halts withdrawals ahead of permanent shutdown after $7M custody shortfall",
-      "take": "Orionx exchange halts withdrawals, shutting down after $7M custody shortfall",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/orionx-halts-withdrawals-permanent-shutdown/"
-    },
-    {
-      "headline": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
-      "take": "Ukrainian police dismantle crypto scam stealing up to $1 million monthly",
+      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "take": "Bitcoin network exploit resulted in $320 million theft; hackers claim benign intent",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month"
+      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys"
     }
   ],
   "policy": [
     {
-      "headline": "Clarity Act faces hurdles during lame duck session of Congress",
-      "take": "Clarity Act cryptocurrency bill faces obstacles in lame duck Congress session",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-lame-duck-session-hurdles/"
-    },
-    {
       "headline": "Prediction markets inch closer to the Supreme Court: State of Crypto",
-      "take": "Prediction markets inch toward Supreme Court attention in crypto regulation",
+      "take": "Prediction markets moving closer to Supreme Court regulatory scrutiny and potential approval",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto"
     }

@@ -1,102 +1,84 @@
 {
-  "generated": "2026-09-07T12:43:16.389434+00:00",
-  "ts": 1788784996,
+  "generated": "2026-09-07T19:13:14.873086+00:00",
+  "ts": 1788808394,
   "market": [
     {
-      "headline": "Circle mints $3B USDC on Solana in past 24 hours",
-      "take": "Circle mints $3B USDC on Solana, signaling strong stablecoin demand",
+      "headline": "Spot CEX trading volume rises 15% to $811B in August as Coinbase and KuCoin lead gains",
+      "take": "Spot CEX trading volume rose 15% to $811B in August",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-3b-usdc-solana/"
+      "link": "https://cryptobriefing.com/spot-cex-trading-volume-811b-august/"
     },
     {
-      "headline": "Solana to triple transaction size as apps get room for more complex trades",
-      "take": "Solana increases transaction size to enable more complex onchain trades",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades"
-    },
-    {
-      "headline": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
-      "take": "Bitcoin shows weaker Treasury yield correlation than gold, more resilient asset",
+      "headline": "Oil climbs on Hormuz risks and rising Chinese buying",
+      "take": "Oil climbs on Hormuz risks and rising Chinese buying",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-treasury-yields-correlation-gold/"
+      "link": "https://cryptobriefing.com/oil-climbs-on-hormuz-risks-and-rising-chinese-buying/"
     },
     {
-      "headline": "US payrolls beat forecasts, easing recession fears but complicating Fed strategy",
-      "take": "US payrolls beat forecasts, easing recession fears but complicating Fed policy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-payrolls-beat-forecasts-easing-recession-fears-but-complicating-fed-strategy/"
-    },
-    {
-      "headline": "Weekend altcoin rally runs out of road as bitcoin slips",
-      "take": "Weekend altcoin rally loses momentum as Bitcoin price slips",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/07/weekend-altcoin-rally-runs-out-of-road-as-bitcoin-slips"
+      "headline": "Bitcoin Starts the Week Flat, But Chainlink Is Flying\u2014Here's Why",
+      "take": "Bitcoin flat to start week while Chainlink gains momentum",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying"
     }
   ],
   "business": [
     {
-      "headline": "Harmony plans to sunset network and move ONE token to Ethereum",
-      "take": "Harmony plans to sunset network and migrate ONE token to Ethereum",
+      "headline": "Mayan facilitates over $20B in cross-chain swaps via Wormhole",
+      "take": "Mayan facilitates over $20B in cross-chain swaps via Wormhole",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/harmony-plans-to-sunset-network-and-move-one-token-to-ethereum/"
+      "link": "https://cryptobriefing.com/mayan-20-billion-cross-chain-swaps-wormhole/"
     },
     {
-      "headline": "DBS and Citi complete weekend USD payment via Swift\u2019s Digital Ledger using tokenized deposits",
-      "take": "DBS and Citi complete weekend USD payment via Swift's tokenized digital ledger",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger"
+      "headline": "Micron stock tops S&P 500 as best performer over past 5 years",
+      "take": "Micron stock tops S&P 500 as best performer in five years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/micron-stock-best-sp500-performer-five-years/"
     },
     {
-      "headline": "GenLayer Labs introduces AI court system with up to 1,000 validators to settle disputes in minutes",
-      "take": "GenLayer Labs launches AI court system with 1,000 validators settling disputes instantly",
+      "headline": "RedTeam transforms Bittensor miners into ethical hacking network",
+      "take": "RedTeam transforms Bittensor miners into ethical hacking network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/genlayer-ai-court-validators/"
+      "link": "https://cryptobriefing.com/redteam-bittensor-ethical-hacking-network/"
     },
     {
-      "headline": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
-      "take": "Ineffable Intelligence hires six Google DeepMind and InstaDeep cofounders",
+      "headline": "HDFC Bank and ICICI Bank buy India\u2019s first tokenized bond from REC",
+      "take": "HDFC and ICICI banks buy India's first tokenized bond",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ineffable-intelligence-deepmind-cofounders/"
+      "link": "https://cryptobriefing.com/india-first-tokenized-bond-hdfc-icici-rec/"
+    },
+    {
+      "headline": "Anthropic adds usage details button and customization section to Claude for iOS",
+      "take": "Anthropic adds usage details and customization to Claude iOS",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-ios-usage-customization/"
     }
   ],
   "security": [
     {
-      "headline": "Blockstream confirms bridge nodes patched, funds safe to return after $320M Liquid Network exploit",
-      "take": "Blockstream patches Liquid bridge nodes after $320M exploit, funds returning safely",
+      "headline": "Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation",
+      "take": "Singaporean pleads guilty in $240M Bitcoin theft via Gemini impersonation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockstream-liquid-network-exploit-funds-return/"
+      "link": "https://cryptobriefing.com/singaporean-pleads-guilty-240m-bitcoin-theft-gemini/"
     },
     {
-      "headline": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
-      "take": "Coldcard hacker moves $7.7M from third-wave Bitcoin theft",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul"
-    },
-    {
-      "headline": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-      "take": "Two-key breach could grant hackers control of $91 billion in USDT",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps"
-    },
-    {
-      "headline": "TeraWulf\u2019s Lake Mariner data center fire raises safety concerns",
-      "take": "TeraWulf's Lake Mariner data center fire raises cryptocurrency mining safety concerns",
+      "headline": "Liquid Network hacker returns 3,400 Bitcoin, keeps 15% of haul",
+      "take": "Liquid Network hacker returns 3,400 Bitcoin, keeps 15 percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/terawulf-lake-mariner-data-center-fire-safety/"
+      "link": "https://cryptobriefing.com/liquid-network-hacker-returns-3400-bitcoin-keeps-15-of-haul/"
     }
   ],
   "policy": [
     {
-      "headline": "Philippines proposes 12-month freeze on new payment operators, tightens crypto rules",
-      "take": "Philippines proposes 12-month freeze on new payment operators, tightens crypto rules",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/philippines-proposes-12-month-freeze-on-new-payment-operators-tightens-crypto/"
+      "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+      "take": "Ethereum commits to letting users pay gas without holding ETH",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth"
     },
     {
-      "headline": "UK regulator weighs easing financial prediction market ban: Times",
-      "take": "UK regulator considers easing financial prediction market ban restrictions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times"
+      "headline": "Solana Labs co-founder Toly highlights IRS tax changes over network tweaks",
+      "take": "Solana Labs co-founder highlights IRS tax changes over network tweaks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/toly-irs-tax-staking-solana/"
     }
   ]
 }

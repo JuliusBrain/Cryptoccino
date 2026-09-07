@@ -1,84 +1,96 @@
 {
-  "generated": "2026-09-07T19:13:14.873086+00:00",
-  "ts": 1788808394,
+  "generated": "2026-09-07T23:33:27.643037+00:00",
+  "ts": 1788824007,
   "market": [
     {
-      "headline": "Spot CEX trading volume rises 15% to $811B in August as Coinbase and KuCoin lead gains",
-      "take": "Spot CEX trading volume rose 15% to $811B in August",
+      "headline": "Solana\u2019s tokenized equity share drops from 71% to 30% as memecoins surge on rival chains",
+      "take": "Solana's tokenized equity share drops to 30% as memecoins surge on rival chains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-cex-trading-volume-811b-august/"
+      "link": "https://cryptobriefing.com/solana-tokenized-equity-share-drops-memecoins/"
     },
     {
-      "headline": "Oil climbs on Hormuz risks and rising Chinese buying",
-      "take": "Oil climbs on Hormuz risks and rising Chinese buying",
+      "headline": "Boyaa Interactive buys additional 115 Bitcoin, increasing total holdings to 4,316 BTC",
+      "take": "Boyaa Interactive increases Bitcoin holdings to 4,316 BTC with additional purchase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-climbs-on-hormuz-risks-and-rising-chinese-buying/"
+      "link": "https://cryptobriefing.com/boyaa-interactive-buys-115-bitcoin-4316-total/"
     },
     {
-      "headline": "Bitcoin Starts the Week Flat, But Chainlink Is Flying\u2014Here's Why",
-      "take": "Bitcoin flat to start week while Chainlink gains momentum",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying"
+      "headline": "Bhutan transfers 400 BTC to unlabelled address, leaving sovereign holdings at 518 BTC",
+      "take": "Bhutan transfers 400 BTC to unlabelled address, leaving sovereign holdings at 518",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bhutan-transfers-400-btc-unlabelled-address/"
+    },
+    {
+      "headline": "Japan\u2019s bond market yield hits 3% for first time this century",
+      "take": "Japan's bond market yield hits 3% for first time this century",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/japan-bond-yield-hits-3-percent/"
+    },
+    {
+      "headline": "Chinese oil demand surge pushes Shanghai crude above $100, Brent nears $98",
+      "take": "Chinese oil demand surge pushes Shanghai crude above $100, Brent nears $98",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chinese-oil-demand-surge-pushes-shanghai-crude-above-100-brent-nears-98/"
     }
   ],
   "business": [
     {
-      "headline": "Mayan facilitates over $20B in cross-chain swaps via Wormhole",
-      "take": "Mayan facilitates over $20B in cross-chain swaps via Wormhole",
+      "headline": "Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash",
+      "take": "Kamino launches ZEC-backed borrowing on Solana, enabling USDC loans against Zcash",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mayan-20-billion-cross-chain-swaps-wormhole/"
+      "link": "https://cryptobriefing.com/kamino-zec-backed-borrowing-solana-usdc/"
     },
     {
-      "headline": "Micron stock tops S&P 500 as best performer over past 5 years",
-      "take": "Micron stock tops S&P 500 as best performer in five years",
+      "headline": "Xverse launches self-custodial Bitcoin staking with pooled access for all users",
+      "take": "Xverse launches self-custodial Bitcoin staking with pooled access for all users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/micron-stock-best-sp500-performer-five-years/"
+      "link": "https://cryptobriefing.com/xverse-self-custodial-bitcoin-staking-launch/"
     },
     {
-      "headline": "RedTeam transforms Bittensor miners into ethical hacking network",
-      "take": "RedTeam transforms Bittensor miners into ethical hacking network",
+      "headline": "Tenor OTC adds AERO as collateral for fixed-rate borrowing on Base",
+      "take": "Tenor OTC adds AERO as collateral for fixed-rate borrowing on Base",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/redteam-bittensor-ethical-hacking-network/"
+      "link": "https://cryptobriefing.com/tenor-otc-aero-collateral-base/"
     },
     {
-      "headline": "HDFC Bank and ICICI Bank buy India\u2019s first tokenized bond from REC",
-      "take": "HDFC and ICICI banks buy India's first tokenized bond",
+      "headline": "Longsys begins trading in Hong Kong after raising $903M in share sale",
+      "take": "Longsys begins Hong Kong trading after raising $903M in share sale",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-first-tokenized-bond-hdfc-icici-rec/"
+      "link": "https://cryptobriefing.com/longsys-hong-kong-ipo-903m/"
     },
     {
-      "headline": "Anthropic adds usage details button and customization section to Claude for iOS",
-      "take": "Anthropic adds usage details and customization to Claude iOS",
+      "headline": "OpenSats allocates $37M to 413 grantees worldwide",
+      "take": "OpenSats allocates $37M to 413 grantees worldwide",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-ios-usage-customization/"
+      "link": "https://cryptobriefing.com/opensats-37m-426-grantees-bitcoin-grants/"
     }
   ],
   "security": [
     {
-      "headline": "Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation",
-      "take": "Singaporean pleads guilty in $240M Bitcoin theft via Gemini impersonation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/singaporean-pleads-guilty-240m-bitcoin-theft-gemini/"
+      "headline": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+      "take": "Liquid hackers return $270M in Bitcoin after swiping $320M total",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin"
     },
     {
-      "headline": "Liquid Network hacker returns 3,400 Bitcoin, keeps 15% of haul",
-      "take": "Liquid Network hacker returns 3,400 Bitcoin, keeps 15 percent",
+      "headline": "First Bitcoin RICO case charges 18 defendants over $263M crypto heist",
+      "take": "First Bitcoin RICO case charges 18 defendants over $263M crypto heist",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/liquid-network-hacker-returns-3400-bitcoin-keeps-15-of-haul/"
+      "link": "https://cryptobriefing.com/first-bitcoin-rico-case-doj/"
     }
   ],
   "policy": [
     {
-      "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-      "take": "Ethereum commits to letting users pay gas without holding ETH",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth"
+      "headline": "UK financial watchdog weighs lifting prediction markets ban: Report",
+      "take": "UK financial watchdog weighs lifting prediction markets ban",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Solana Labs co-founder Toly highlights IRS tax changes over network tweaks",
-      "take": "Solana Labs co-founder highlights IRS tax changes over network tweaks",
+      "headline": "Brazilian banks expand crypto offerings as regulation takes hold",
+      "take": "Brazilian banks expand crypto offerings as regulation takes hold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/toly-irs-tax-staking-solana/"
+      "link": "https://cryptobriefing.com/brazilian-banks-expand-crypto-offerings/"
     }
   ]
 }

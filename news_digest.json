@@ -1,108 +1,90 @@
 {
-  "generated": "2026-09-08T11:26:09.995136+00:00",
-  "ts": 1788866769,
+  "generated": "2026-09-08T16:42:22.157888+00:00",
+  "ts": 1788885742,
   "market": [
     {
-      "headline": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-      "take": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck selloff",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff"
-    },
-    {
-      "headline": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
-      "take": "Visa stablecoin settlement surges to $20B annualized, up 15x year-over-year",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749"
-    },
-    {
-      "headline": "Emerging market rally pauses as oil nears $100 amid supply concerns",
-      "take": "Emerging market rally pauses as oil nears $100 amid supply concerns",
+      "headline": "Bitcoin options pricing shows at-the-money IV at 37% as volatility smile signals lingering tail risk",
+      "take": "Bitcoin options show 37% at-the-money volatility with tail risk signals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/emerging-market-rally-pauses-as-oil-nears-100-amid-supply-concerns/"
+      "link": "https://cryptobriefing.com/bitcoin-options-atm-implied-volatility-37-percent/"
     },
     {
-      "headline": "US Treasury yields rise as dollar weakens in European trade amid oil surge and rate hike bets",
-      "take": "US Treasury yields rise as dollar weakens amid oil surge and rate hike bets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-yields-rise-dollar-falls-oil-surge/"
-    },
-    {
-      "headline": "\u2018The chain is now earnings\u2019: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
-      "take": "Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
+      "headline": "Strive adds 1,375 bitcoin as SATA approaches \u2018billion-dollar\u2019 milestone",
+      "take": "Strive adds 1,375 bitcoin as SATA approaches one-billion-dollar milestone",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729"
+      "link": "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800"
+    },
+    {
+      "headline": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
+      "take": "Bitmine adds $70M in Ethereum, holdings reach 5.93M ETH",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum"
+    },
+    {
+      "headline": "Canary Capital\u2019s staked Tron ETF to list on Cboe September 9",
+      "take": "Canary Capital's staked Tron ETF lists on Cboe September 9",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/canary-capital-staked-tron-etf-cboe-listing/"
+    },
+    {
+      "headline": "Kalshi\u2019s commodity trading volume surpasses $400M monthly, growing four times faster than its crypto markets",
+      "take": "Kalshi commodity volume surpasses $400M monthly, grows faster than crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-commodity-trading-volume-400m/"
     }
   ],
   "business": [
     {
-      "headline": "Circle signs deal to acquire Singapore payments firm Tazapay",
-      "take": "Circle acquires Singapore payments firm Tazapay in geographic expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-acquires-tazapay-b2b-payments/"
-    },
-    {
-      "headline": "Upbit lists Cluster Protocol, Hemi and Useless tokens across multiple markets",
-      "take": "Upbit lists Cluster Protocol, Hemi and Useless tokens across markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-lists-cluster-protocol-hemi-useless-tokens/"
-    },
-    {
-      "headline": "Firmus signs multi-year deal to supply OpenAI with AI compute in Malaysia",
-      "take": "Firmus signs multi-year deal to supply OpenAI with AI compute in Malaysia",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/firmus-openai-malaysia-ai-compute-deal/"
-    },
-    {
-      "headline": "Uzbekistan tests government bond-backed stablecoin HUMO with merchants",
-      "take": "Uzbekistan tests government bond-backed stablecoin HUMO with merchants",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uzbekistan-humo-stablecoin-merchant-pilot/"
-    },
-    {
-      "headline": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
-      "take": "PwC, Merck, Hashgraph build provenance system beginning with cocoa tracking",
+      "headline": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+      "take": "Circle buys cross-border payments firm Tazapay for $400 million",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system"
+      "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million"
+    },
+    {
+      "headline": "Kamino launches nOPAL, Plume Vaults\u2019 first market curated by Re7 Labs",
+      "take": "Kamino launches nOPAL, Plume's first market curated by Re7 Labs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kamino-nopal-plume-vaults-re7-labs-rwa/"
+    },
+    {
+      "headline": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
+      "take": "Robinhood expands prediction markets with Crypto.com ahead of NFL season",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832"
+    },
+    {
+      "headline": "Sunrise brings peaq to Solana as 3.3M machines bond tokens",
+      "take": "Sunrise brings peaq to Solana as 3.3M machines bond tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sunrise-peaq-solana-machines-bond-tokens/"
+    },
+    {
+      "headline": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
+      "take": "Matter Labs open-sources Prividium; Bundesbank tests permissioning platform",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814"
     }
   ],
   "security": [
     {
-      "headline": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
-      "take": "Cronos executes controversial rollback to recover $111 million in crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million"
+      "headline": "KelpDAO bridge vulnerability exploited, $292M in rsETH drained in single-verifier attack",
+      "take": "KelpDAO bridge exploited, $292M in rsETH drained via single-verifier attack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kelpdao-bridge-exploit-292m-rseth/"
     },
     {
-      "headline": "Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses",
-      "take": "Polish prosecutors charge fifth suspect in Zondacrypto probe, ~$100M losses",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745"
-    },
-    {
-      "headline": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
-      "take": "Curve's soft liquidation model lets borrowers survive market drawdowns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying"
+      "headline": "Trezor supports clear signing via ERC-7730 for safer transactions",
+      "take": "Trezor supports clear signing via ERC-7730 for safer transactions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trezor-clear-signing-erc-7730/"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto advocacy group ramps up CLARITY Act push ahead of Senate vote",
-      "take": "Crypto advocacy group ramps up CLARITY Act push ahead of Senate vote",
+      "headline": "Cynthia Lummis urges support for CLARITY Act to protect US finance",
+      "take": "Cynthia Lummis urges support for CLARITY Act to protect US finance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fairshake-national-ads-clarity-act/"
-    },
-    {
-      "headline": "Crypto super PAC Fairshake launches national ads for Clarity Act support",
-      "take": "Crypto super PAC Fairshake launches national ads for Clarity Act support",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-super-pac-fairshake-launches-national-ads-for-clarity-act-support/"
-    },
-    {
-      "headline": "UK publishes legislation for tougher sanctions on Iran",
-      "take": "UK publishes legislation for tougher sanctions on Iran targeting sectors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-legislation-tougher-sanctions-iran/"
+      "link": "https://cryptobriefing.com/lummis-clarity-act-us-digital-asset-regulation/"
     }
   ]
 }

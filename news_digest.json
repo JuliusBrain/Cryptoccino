@@ -1,90 +1,108 @@
 {
-  "generated": "2026-09-08T16:42:22.157888+00:00",
-  "ts": 1788885742,
+  "generated": "2026-09-08T21:14:06.078577+00:00",
+  "ts": 1788902046,
   "market": [
     {
-      "headline": "Bitcoin options pricing shows at-the-money IV at 37% as volatility smile signals lingering tail risk",
-      "take": "Bitcoin options show 37% at-the-money volatility with tail risk signals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-options-atm-implied-volatility-37-percent/"
-    },
-    {
-      "headline": "Strive adds 1,375 bitcoin as SATA approaches \u2018billion-dollar\u2019 milestone",
-      "take": "Strive adds 1,375 bitcoin as SATA approaches one-billion-dollar milestone",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800"
-    },
-    {
-      "headline": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
-      "take": "Bitmine adds $70M in Ethereum, holdings reach 5.93M ETH",
+      "headline": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+      "take": "Bitcoin holds steady as oil prices spike on geopolitical tensions, Fed hike bets rise",
       "source": "decrypt",
-      "link": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum"
+      "link": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike"
     },
     {
-      "headline": "Canary Capital\u2019s staked Tron ETF to list on Cboe September 9",
-      "take": "Canary Capital's staked Tron ETF lists on Cboe September 9",
+      "headline": "Gundlach calls for 50 basis point Fed rate hike amid rising US yields",
+      "take": "US yields rising, prominent investor calls for aggressive Fed rate hike action",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canary-capital-staked-tron-etf-cboe-listing/"
+      "link": "https://cryptobriefing.com/gundlach-calls-for-50-basis-point-fed-rate-hike-amid-rising-us-yields/"
     },
     {
-      "headline": "Kalshi\u2019s commodity trading volume surpasses $400M monthly, growing four times faster than its crypto markets",
-      "take": "Kalshi commodity volume surpasses $400M monthly, grows faster than crypto",
+      "headline": "Hyperliquid open interest hits $14B as HYPE reaches all-time high",
+      "take": "Hyperliquid open interest surges to $14B as HYPE token reaches all-time high",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-commodity-trading-volume-400m/"
+      "link": "https://cryptobriefing.com/hyperliquid-open-interest-hits-14b-as-hype-reaches-all-time-high/"
+    },
+    {
+      "headline": "Bitcoin hashrate rebounds from triple bottom at 850M TH/s",
+      "take": "Bitcoin hashrate rebounds from triple bottom, signaling network recovery momentum",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-hashrate-rebounds-triple-bottom/"
+    },
+    {
+      "headline": "SoftBank to meet investors in New York for potential junk-bond sale worth up to $20 billion",
+      "take": "SoftBank meets investors for potential $20B junk-bond sale amid market shifts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/softbank-junk-bond-sale-openai-ai/"
     }
   ],
   "business": [
     {
-      "headline": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-      "take": "Circle buys cross-border payments firm Tazapay for $400 million",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million"
+      "headline": "Block seeks federal charter for Bitcoin custody services through Builders Bank",
+      "take": "Block seeks federal charter for Bitcoin custody through Builders Bank venture",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/block-seeks-federal-charter-for-bitcoin-custody-services-through-builders-bank/"
     },
     {
-      "headline": "Kamino launches nOPAL, Plume Vaults\u2019 first market curated by Re7 Labs",
-      "take": "Kamino launches nOPAL, Plume's first market curated by Re7 Labs",
+      "headline": "Commerce Payments Protocol sees surge in volume on Base network",
+      "take": "Commerce Payments Protocol volume surges on Base network amid growth phase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kamino-nopal-plume-vaults-re7-labs-rwa/"
+      "link": "https://cryptobriefing.com/commerce-payments-protocol-coinbase-shopify-volume/"
+    },
+    {
+      "headline": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+      "take": "Visa taps onchain lending to finance stablecoin card programs expansion",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card"
+    },
+    {
+      "headline": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
+      "take": "Strive purchases $109M Bitcoin, pushes preferred stock toward $1B milestone",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion"
     },
     {
       "headline": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
-      "take": "Robinhood expands prediction markets with Crypto.com ahead of NFL season",
+      "take": "Robinhood expands prediction markets with Crypto.com and OG ahead of NFL season",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832"
-    },
-    {
-      "headline": "Sunrise brings peaq to Solana as 3.3M machines bond tokens",
-      "take": "Sunrise brings peaq to Solana as 3.3M machines bond tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sunrise-peaq-solana-machines-bond-tokens/"
-    },
-    {
-      "headline": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
-      "take": "Matter Labs open-sources Prividium; Bundesbank tests permissioning platform",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814"
     }
   ],
   "security": [
     {
-      "headline": "KelpDAO bridge vulnerability exploited, $292M in rsETH drained in single-verifier attack",
-      "take": "KelpDAO bridge exploited, $292M in rsETH drained via single-verifier attack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kelpdao-bridge-exploit-292m-rseth/"
+      "headline": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+      "take": "Liquid hack recovery stalls with $47M missing; Blockstream negotiates with white hats",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat"
     },
     {
-      "headline": "Trezor supports clear signing via ERC-7730 for safer transactions",
-      "take": "Trezor supports clear signing via ERC-7730 for safer transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trezor-clear-signing-erc-7730/"
+      "headline": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+      "take": "Cronos reversed two hours of transactions to undo $111M DeFi exploit",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit"
+    },
+    {
+      "headline": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
+      "take": "22-year-old crypto ringleader pleads guilty to $245M racketeering scheme",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911"
+    },
+    {
+      "headline": "Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors",
+      "take": "FBI charges alleged opioid distributors using cryptocurrency in narcotics investigation",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/"
     }
   ],
   "policy": [
     {
-      "headline": "Cynthia Lummis urges support for CLARITY Act to protect US finance",
-      "take": "Cynthia Lummis urges support for CLARITY Act to protect US finance",
+      "headline": "US Treasury intensifies pressure on Iran with new aviation sanctions",
+      "take": "US Treasury escalates pressure on Iran with new aviation sanctions targeting regime",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lummis-clarity-act-us-digital-asset-regulation/"
+      "link": "https://cryptobriefing.com/us-treasury-iran-aviation-sanctions/"
+    },
+    {
+      "headline": "Massachusetts mandates clean energy for new data centers",
+      "take": "Massachusetts mandates clean energy requirement for new data center operations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/massachusetts-clean-energy-data-centers/"
     }
   ]
 }

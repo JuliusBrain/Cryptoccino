@@ -1,96 +1,84 @@
 {
-  "generated": "2026-09-07T23:33:27.643037+00:00",
-  "ts": 1788824007,
+  "generated": "2026-09-08T04:46:19.682115+00:00",
+  "ts": 1788842779,
   "market": [
     {
-      "headline": "Solana\u2019s tokenized equity share drops from 71% to 30% as memecoins surge on rival chains",
-      "take": "Solana's tokenized equity share drops to 30% as memecoins surge on rival chains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-tokenized-equity-share-drops-memecoins/"
+      "headline": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+      "take": "Bitcoin drops below $79k as Fed rate hike odds remain elevated near 60%",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60"
     },
     {
-      "headline": "Boyaa Interactive buys additional 115 Bitcoin, increasing total holdings to 4,316 BTC",
-      "take": "Boyaa Interactive increases Bitcoin holdings to 4,316 BTC with additional purchase",
+      "headline": "Gold gains as US dollar eases ahead of critical inflation data",
+      "take": "Gold rallies as US dollar weakens ahead of critical inflation data release",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boyaa-interactive-buys-115-bitcoin-4316-total/"
+      "link": "https://cryptobriefing.com/gold-gains-dollar-eases-inflation-data/"
     },
     {
-      "headline": "Bhutan transfers 400 BTC to unlabelled address, leaving sovereign holdings at 518 BTC",
-      "take": "Bhutan transfers 400 BTC to unlabelled address, leaving sovereign holdings at 518",
+      "headline": "JPMorgan warns hyperscalers\u2019 debt issuance strains Treasury yields",
+      "take": "JPMorgan warns hyperscaler debt issuance is straining US Treasury yields",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bhutan-transfers-400-btc-unlabelled-address/"
-    },
-    {
-      "headline": "Japan\u2019s bond market yield hits 3% for first time this century",
-      "take": "Japan's bond market yield hits 3% for first time this century",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-bond-yield-hits-3-percent/"
-    },
-    {
-      "headline": "Chinese oil demand surge pushes Shanghai crude above $100, Brent nears $98",
-      "take": "Chinese oil demand surge pushes Shanghai crude above $100, Brent nears $98",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinese-oil-demand-surge-pushes-shanghai-crude-above-100-brent-nears-98/"
+      "link": "https://cryptobriefing.com/jpmorgan-hyperscalers-debt-treasury-yields/"
     }
   ],
   "business": [
     {
-      "headline": "Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash",
-      "take": "Kamino launches ZEC-backed borrowing on Solana, enabling USDC loans against Zcash",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kamino-zec-backed-borrowing-solana-usdc/"
+      "headline": "Liquid Network gets back 3,400 bitcoin from white-hat hackers; talks underway for the rest",
+      "take": "Liquid Network recovers 3,400 bitcoin from white-hat hackers; negotiations ongoing for remainder",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network"
     },
     {
-      "headline": "Xverse launches self-custodial Bitcoin staking with pooled access for all users",
-      "take": "Xverse launches self-custodial Bitcoin staking with pooled access for all users",
+      "headline": "Aptos launches Confidential APT on mainnet for compliant use cases",
+      "take": "Aptos launches Confidential APT on mainnet for compliant institutional use cases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xverse-self-custodial-bitcoin-staking-launch/"
+      "link": "https://cryptobriefing.com/aptos-confidential-apt-mainnet-launch/"
     },
     {
-      "headline": "Tenor OTC adds AERO as collateral for fixed-rate borrowing on Base",
-      "take": "Tenor OTC adds AERO as collateral for fixed-rate borrowing on Base",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tenor-otc-aero-collateral-base/"
+      "headline": "Ethereum aims for quantum-safe L1 by 2029 as Hegot\u00e1 upgrade takes form",
+      "take": "Ethereum targets quantum-resistant layer one by 2029 via Hegot\u00e1 upgrade design",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716"
     },
     {
-      "headline": "Longsys begins trading in Hong Kong after raising $903M in share sale",
-      "take": "Longsys begins Hong Kong trading after raising $903M in share sale",
+      "headline": "Samsung SDS expands partnerships with OpenAI, Anthropic for AI transformation",
+      "take": "Samsung SDS deepens AI partnerships with OpenAI and Anthropic for enterprise transformation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/longsys-hong-kong-ipo-903m/"
-    },
-    {
-      "headline": "OpenSats allocates $37M to 413 grantees worldwide",
-      "take": "OpenSats allocates $37M to 413 grantees worldwide",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/opensats-37m-426-grantees-bitcoin-grants/"
+      "link": "https://cryptobriefing.com/samsung-sds-openai-anthropic-partnerships/"
     }
   ],
   "security": [
     {
-      "headline": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
-      "take": "Liquid hackers return $270M in Bitcoin after swiping $320M total",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin"
+      "headline": "Chainalysis estimates crypto tax non-compliance may exceed 90%",
+      "take": "Chainalysis estimates crypto tax non-compliance may exceed 90 percent globally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainalysis-crypto-tax-non-compliance-90-percent/"
     },
     {
-      "headline": "First Bitcoin RICO case charges 18 defendants over $263M crypto heist",
-      "take": "First Bitcoin RICO case charges 18 defendants over $263M crypto heist",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/first-bitcoin-rico-case-doj/"
+      "headline": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
+      "take": "LG TVs may continue listening to users even when powered off; privacy concern",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off"
     }
   ],
   "policy": [
     {
+      "headline": "Arthur Hayes critiques CLARITY Act\u2019s impact on Bitcoin, urges Trump veto",
+      "take": "Arthur Hayes criticizes CLARITY Act's impact on Bitcoin, urges Trump veto action",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arthur-hayes-critiques-clarity-act-bitcoin/"
+    },
+    {
       "headline": "UK financial watchdog weighs lifting prediction markets ban: Report",
-      "take": "UK financial watchdog weighs lifting prediction markets ban",
+      "take": "UK financial regulator considers lifting ban on prediction markets; regulatory shift possible",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Brazilian banks expand crypto offerings as regulation takes hold",
-      "take": "Brazilian banks expand crypto offerings as regulation takes hold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazilian-banks-expand-crypto-offerings/"
+      "headline": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+      "take": "Brazilian banks expand crypto offerings as formal regulation framework develops domestically",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings"
     }
   ]
 }

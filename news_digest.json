@@ -1,84 +1,108 @@
 {
-  "generated": "2026-09-08T04:46:19.682115+00:00",
-  "ts": 1788842779,
+  "generated": "2026-09-08T11:26:09.995136+00:00",
+  "ts": 1788866769,
   "market": [
     {
-      "headline": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "take": "Bitcoin drops below $79k as Fed rate hike odds remain elevated near 60%",
+      "headline": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+      "take": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck selloff",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60"
+      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff"
     },
     {
-      "headline": "Gold gains as US dollar eases ahead of critical inflation data",
-      "take": "Gold rallies as US dollar weakens ahead of critical inflation data release",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-gains-dollar-eases-inflation-data/"
+      "headline": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
+      "take": "Visa stablecoin settlement surges to $20B annualized, up 15x year-over-year",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749"
     },
     {
-      "headline": "JPMorgan warns hyperscalers\u2019 debt issuance strains Treasury yields",
-      "take": "JPMorgan warns hyperscaler debt issuance is straining US Treasury yields",
+      "headline": "Emerging market rally pauses as oil nears $100 amid supply concerns",
+      "take": "Emerging market rally pauses as oil nears $100 amid supply concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-hyperscalers-debt-treasury-yields/"
+      "link": "https://cryptobriefing.com/emerging-market-rally-pauses-as-oil-nears-100-amid-supply-concerns/"
+    },
+    {
+      "headline": "US Treasury yields rise as dollar weakens in European trade amid oil surge and rate hike bets",
+      "take": "US Treasury yields rise as dollar weakens amid oil surge and rate hike bets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/treasury-yields-rise-dollar-falls-oil-surge/"
+    },
+    {
+      "headline": "\u2018The chain is now earnings\u2019: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
+      "take": "Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729"
     }
   ],
   "business": [
     {
-      "headline": "Liquid Network gets back 3,400 bitcoin from white-hat hackers; talks underway for the rest",
-      "take": "Liquid Network recovers 3,400 bitcoin from white-hat hackers; negotiations ongoing for remainder",
+      "headline": "Circle signs deal to acquire Singapore payments firm Tazapay",
+      "take": "Circle acquires Singapore payments firm Tazapay in geographic expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-acquires-tazapay-b2b-payments/"
+    },
+    {
+      "headline": "Upbit lists Cluster Protocol, Hemi and Useless tokens across multiple markets",
+      "take": "Upbit lists Cluster Protocol, Hemi and Useless tokens across markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-lists-cluster-protocol-hemi-useless-tokens/"
+    },
+    {
+      "headline": "Firmus signs multi-year deal to supply OpenAI with AI compute in Malaysia",
+      "take": "Firmus signs multi-year deal to supply OpenAI with AI compute in Malaysia",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/firmus-openai-malaysia-ai-compute-deal/"
+    },
+    {
+      "headline": "Uzbekistan tests government bond-backed stablecoin HUMO with merchants",
+      "take": "Uzbekistan tests government bond-backed stablecoin HUMO with merchants",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uzbekistan-humo-stablecoin-merchant-pilot/"
+    },
+    {
+      "headline": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
+      "take": "PwC, Merck, Hashgraph build provenance system beginning with cocoa tracking",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network"
-    },
-    {
-      "headline": "Aptos launches Confidential APT on mainnet for compliant use cases",
-      "take": "Aptos launches Confidential APT on mainnet for compliant institutional use cases",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-confidential-apt-mainnet-launch/"
-    },
-    {
-      "headline": "Ethereum aims for quantum-safe L1 by 2029 as Hegot\u00e1 upgrade takes form",
-      "take": "Ethereum targets quantum-resistant layer one by 2029 via Hegot\u00e1 upgrade design",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716"
-    },
-    {
-      "headline": "Samsung SDS expands partnerships with OpenAI, Anthropic for AI transformation",
-      "take": "Samsung SDS deepens AI partnerships with OpenAI and Anthropic for enterprise transformation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-sds-openai-anthropic-partnerships/"
+      "link": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system"
     }
   ],
   "security": [
     {
-      "headline": "Chainalysis estimates crypto tax non-compliance may exceed 90%",
-      "take": "Chainalysis estimates crypto tax non-compliance may exceed 90 percent globally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-crypto-tax-non-compliance-90-percent/"
+      "headline": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
+      "take": "Cronos executes controversial rollback to recover $111 million in crypto",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million"
     },
     {
-      "headline": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
-      "take": "LG TVs may continue listening to users even when powered off; privacy concern",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off"
+      "headline": "Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses",
+      "take": "Polish prosecutors charge fifth suspect in Zondacrypto probe, ~$100M losses",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745"
+    },
+    {
+      "headline": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+      "take": "Curve's soft liquidation model lets borrowers survive market drawdowns",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying"
     }
   ],
   "policy": [
     {
-      "headline": "Arthur Hayes critiques CLARITY Act\u2019s impact on Bitcoin, urges Trump veto",
-      "take": "Arthur Hayes criticizes CLARITY Act's impact on Bitcoin, urges Trump veto action",
+      "headline": "Crypto advocacy group ramps up CLARITY Act push ahead of Senate vote",
+      "take": "Crypto advocacy group ramps up CLARITY Act push ahead of Senate vote",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arthur-hayes-critiques-clarity-act-bitcoin/"
+      "link": "https://cryptobriefing.com/fairshake-national-ads-clarity-act/"
     },
     {
-      "headline": "UK financial watchdog weighs lifting prediction markets ban: Report",
-      "take": "UK financial regulator considers lifting ban on prediction markets; regulatory shift possible",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Crypto super PAC Fairshake launches national ads for Clarity Act support",
+      "take": "Crypto super PAC Fairshake launches national ads for Clarity Act support",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-super-pac-fairshake-launches-national-ads-for-clarity-act-support/"
     },
     {
-      "headline": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-      "take": "Brazilian banks expand crypto offerings as formal regulation framework develops domestically",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings"
+      "headline": "UK publishes legislation for tougher sanctions on Iran",
+      "take": "UK publishes legislation for tougher sanctions on Iran targeting sectors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-legislation-tougher-sanctions-iran/"
     }
   ]
 }

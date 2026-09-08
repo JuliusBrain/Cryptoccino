@@ -1,106 +1,94 @@
 {
-  "generated": "2026-09-08T21:14:06.078577+00:00",
-  "ts": 1788902046,
+  "generated": "2026-09-08T23:26:08.213272+00:00",
+  "ts": 1788909968,
   "market": [
     {
+      "headline": "Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high",
+      "take": "Hyperliquid open interest reaches $14.3B as HYPE token hits all-time high",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855"
+    },
+    {
+      "headline": "Polkadot leads market rotation into legacy layer-1 tokens as Fed rate hike bets grow",
+      "take": "Polkadot leads rotation into layer-1 tokens amid Fed rate hike expectations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polkadot-legacy-layer-1-rotation-fed-rate-hike/"
+    },
+    {
+      "headline": "MarketVector index up 29%, boosting fundamentals-based crypto interest",
+      "take": "MarketVector fundamentals index up 29%, signaling renewed crypto interest",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/marketvector-index-up-29-boosting-fundamentals-based-crypto-interest/"
+    },
+    {
       "headline": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-      "take": "Bitcoin holds steady as oil prices spike on geopolitical tensions, Fed hike bets rise",
+      "take": "Bitcoin stable as oil surge and geopolitical tension revive rate hike bets",
       "source": "decrypt",
       "link": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike"
     },
     {
-      "headline": "Gundlach calls for 50 basis point Fed rate hike amid rising US yields",
-      "take": "US yields rising, prominent investor calls for aggressive Fed rate hike action",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gundlach-calls-for-50-basis-point-fed-rate-hike-amid-rising-us-yields/"
-    },
-    {
-      "headline": "Hyperliquid open interest hits $14B as HYPE reaches all-time high",
-      "take": "Hyperliquid open interest surges to $14B as HYPE token reaches all-time high",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-open-interest-hits-14b-as-hype-reaches-all-time-high/"
-    },
-    {
       "headline": "Bitcoin hashrate rebounds from triple bottom at 850M TH/s",
-      "take": "Bitcoin hashrate rebounds from triple bottom, signaling network recovery momentum",
+      "take": "Bitcoin hashrate rebounds from triple bottom near 850M TH/s",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-hashrate-rebounds-triple-bottom/"
-    },
-    {
-      "headline": "SoftBank to meet investors in New York for potential junk-bond sale worth up to $20 billion",
-      "take": "SoftBank meets investors for potential $20B junk-bond sale amid market shifts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/softbank-junk-bond-sale-openai-ai/"
     }
   ],
   "business": [
     {
-      "headline": "Block seeks federal charter for Bitcoin custody services through Builders Bank",
-      "take": "Block seeks federal charter for Bitcoin custody through Builders Bank venture",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/block-seeks-federal-charter-for-bitcoin-custody-services-through-builders-bank/"
-    },
-    {
-      "headline": "Commerce Payments Protocol sees surge in volume on Base network",
-      "take": "Commerce Payments Protocol volume surges on Base network amid growth phase",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/commerce-payments-protocol-coinbase-shopify-volume/"
-    },
-    {
-      "headline": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
-      "take": "Visa taps onchain lending to finance stablecoin card programs expansion",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card"
-    },
-    {
-      "headline": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
-      "take": "Strive purchases $109M Bitcoin, pushes preferred stock toward $1B milestone",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion"
-    },
-    {
-      "headline": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
-      "take": "Robinhood expands prediction markets with Crypto.com and OG ahead of NFL season",
+      "headline": "Jack Dorsey\u2019s Block joins rush for federal bank charters from OCC",
+      "take": "Block pursues federal bank charter for Bitcoin custody and payment services",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832"
+      "link": "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947"
+    },
+    {
+      "headline": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
+      "take": "Robinhood Chain DEX volume doubles, daily fees reach record $6 million",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
+    },
+    {
+      "headline": "ARK Investment Management seeks SEC approval for tokenized share class",
+      "take": "ARK Investment Management seeks SEC approval for tokenized share class",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ark-sec-tokenized-share-class/"
+    },
+    {
+      "headline": "Polkadot holders vote on dotUSD stablecoin proposal with $5M backing",
+      "take": "Polkadot holders vote on dotUSD stablecoin backed by $5 million funding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polkadot-dotusd-stablecoin-vote/"
+    },
+    {
+      "headline": "CleanSpark produces 593 Bitcoins in August, holds 13,703 BTC in treasury",
+      "take": "CleanSpark produces 593 Bitcoin in August, treasury holds 13,703 BTC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cleanspark-593-bitcoin-august-treasury/"
     }
   ],
   "security": [
     {
       "headline": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
-      "take": "Liquid hack recovery stalls with $47M missing; Blockstream negotiates with white hats",
+      "take": "$47 million remains missing from Liquid hack after Blockstream white-hat talks",
       "source": "decrypt",
       "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat"
     },
     {
-      "headline": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
-      "take": "Cronos reversed two hours of transactions to undo $111M DeFi exploit",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit"
-    },
-    {
       "headline": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
-      "take": "22-year-old crypto ringleader pleads guilty to $245M racketeering scheme",
+      "take": "22-year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911"
-    },
-    {
-      "headline": "Tracing Crypto in a Narcotics Investigation: FBI Charges Alleged Opioid Distributors",
-      "take": "FBI charges alleged opioid distributors using cryptocurrency in narcotics investigation",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/fbi-traces-crypto-opioids-distributors/"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury intensifies pressure on Iran with new aviation sanctions",
-      "take": "US Treasury escalates pressure on Iran with new aviation sanctions targeting regime",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-iran-aviation-sanctions/"
+      "headline": "New York town weighs crypto mining and AI data center ban",
+      "take": "New York town considers banning both crypto mining and AI data centers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Massachusetts mandates clean energy for new data centers",
-      "take": "Massachusetts mandates clean energy requirement for new data center operations",
+      "take": "Massachusetts mandates clean energy requirement for new data centers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/massachusetts-clean-energy-data-centers/"
     }

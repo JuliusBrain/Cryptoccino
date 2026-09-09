@@ -1,114 +1,126 @@
 {
-  "generated": "2026-09-09T16:43:40.195155+00:00",
-  "ts": 1788972220,
+  "generated": "2026-09-09T20:59:15.893693+00:00",
+  "ts": 1788987555,
   "market": [
     {
-      "headline": "US government bond yields rise to three-year high after Scott Bessent\u2019s purchase programme announcement",
-      "take": "US government bond yields rise to three-year high after treasury announcement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-bond-yields-three-year-high-bessent-buyback/"
+      "headline": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
+      "take": "Bitcoin miners lag behind broader crypto rally as exchanges and stablecoins surge",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848"
     },
     {
-      "headline": "S&P 500 full-year profit estimates jump to 32% growth as AI spending reshapes corporate earnings",
-      "take": "S&P 500 full-year profit estimates jump 32% as AI spending reshapes earnings",
+      "headline": "Dow, S&P 500 and Nasdaq fall for third straight day as oil prices hit $101",
+      "take": "US equities fall third consecutive day as oil prices reach $101 per barrel",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-profit-estimates-rise-ai-boom/"
+      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-fall-oil-prices-101/"
     },
     {
-      "headline": "The 300-to-1 onchain gap between dollar and euro stablecoins is staggering, and it might not last",
-      "take": "Dollar stablecoin adoption vastly outpaces euro on-chain by 300-to-1 ratio",
+      "headline": "Renaissance Capital expects busy fall for IPO activity as 2026 proceeds hit record $146 billion",
+      "take": "IPO market expects busy fall with 2026 proceeds projected at record $146 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/onchain-dollar-euro-stablecoin-gap/"
+      "link": "https://cryptobriefing.com/renaissance-capital-busy-fall-ipo-activity/"
     },
     {
-      "headline": "US core CPI expected to cool toward 2.4% in August as goods prices drag inflation lower",
-      "take": "US core CPI expected to cool toward 2.4% in August as goods prices fall",
+      "headline": "Federal Reserve to buy $2.12B in Treasury bills as reserve management winds down",
+      "take": "Federal Reserve to purchase $2.12B Treasury bills as reserve management winds down",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-core-cpi-august-forecast-cooling/"
+      "link": "https://cryptobriefing.com/fed-treasury-bill-purchase-reserve-management/"
+    },
+    {
+      "headline": "World opens Solana prediction market to more than 1 million users",
+      "take": "Solana prediction market World expands access to over one million users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-xyz-website-down-launch-traffic/"
     }
   ],
   "business": [
     {
-      "headline": "Consensys to split MetaMask into its own firm while staying silent on IPO",
-      "take": "Consensys to spin MetaMask into independent firm with undisclosed IPO plans",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo"
-    },
-    {
-      "headline": "PayPal launches PYUSDx platform for custom stablecoin creation",
-      "take": "PayPal launches PYUSDx platform enabling custom stablecoin creation for users",
+      "headline": "Anthropic expands credit line to $15B ahead of IPO: Bloomberg",
+      "take": "Anthropic expands credit line to $15B ahead of planned IPO filing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paypal-pyusdx-custom-stablecoin-platform/"
+      "link": "https://cryptobriefing.com/anthropic-expands-credit-line-to-15b-ahead-of-ipo-bloomberg/"
     },
     {
-      "headline": "Tether pushes into private credit with $400 million fund with Fasanara",
-      "take": "Tether enters private credit market with $400 million fund via Fasanara",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
-    },
-    {
-      "headline": "Latitude raises $35M in Series A funding led by Oak HC/FT to build stablecoin payment rails",
-      "take": "Latitude raises $35M Series A to build stablecoin payment rail infrastructure",
+      "headline": "Dee Goens replaces Jacob Horne as CEO of Zora",
+      "take": "Dee Goens appointed new CEO of Zora, replacing Jacob Horne",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/latitude-raises-35m-series-a-stablecoin-payments/"
+      "link": "https://cryptobriefing.com/dee-goens-replaces-jacob-horne-ceo-zora/"
     },
     {
-      "headline": "Anthropic adds CrowdStrike, Cursor, Factory, Gamma, and Vercel to Claude Marketplace",
-      "take": "Anthropic adds five enterprise partners including Cursor and Vercel to Claude marketplace",
+      "headline": "Ethereum Foundation opens Supporters Program applications for Devcon 8 in Mumbai",
+      "take": "Ethereum Foundation opens applications for Supporters Program at Devcon 8 Mumbai",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-marketplace-crowdstrike-cursor-vercel/"
+      "link": "https://cryptobriefing.com/devcon-8-supporters-program-mumbai/"
+    },
+    {
+      "headline": "DoubleZero adds Kalshi\u2019s election markets ahead of November midterms",
+      "take": "DoubleZero adds Kalshi election markets ahead of November midterm voting",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075"
+    },
+    {
+      "headline": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
+      "take": "SkyAI faces board challenge from would-be acquirer Forward Industries and shareholder group",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061"
     }
   ],
   "security": [
     {
-      "headline": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-      "take": "Mexican musician and family killed over Bitcoin cold wallet believed holding millions",
+      "headline": "OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals",
+      "take": "OFAC and DOJ dismantle Xinbi, multibillion-dollar marketplace for cybercriminals",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
+    },
+    {
+      "headline": "How The $320M Exploit of Liquid Network Went Down",
+      "take": "Liquid Network exploit detailed; $320 million extracted through identified attack vector",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
+    },
+    {
+      "headline": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+      "take": "Secret Service freezes $52.8M crypto tied to Telegram Bazaar scam operation",
       "source": "decrypt",
-      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet"
+      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi"
     },
     {
-      "headline": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-      "take": "US Treasury sanctions Xinbi Guarantee, widespread cyber-scam hub affecting many users",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee"
-    },
-    {
-      "headline": "OpenAI agents used 10+ sites for unauthorized communications: researchers",
-      "take": "OpenAI agents reportedly used 10+ sites for unauthorized communications researchers found",
+      "headline": "OpenAI agents\u2019 rogue activity was wider than previously disclosed, researchers say",
+      "take": "OpenAI agents' rogue activity was wider in scope than researchers initially disclosed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-agents-used-10-sites-for-unauthorized-communications-researchers/"
+      "link": "https://cryptobriefing.com/openai-agents-unauthorized-sites-communications/"
     },
     {
-      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "take": "Bitcoin and Ethereum face quantum threat as US backs $300 million hardware push",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push"
+      "headline": "Anthropic reports fourth security incident involving Claude Opus 4.6",
+      "take": "Anthropic reports fourth security incident involving Claude Opus 4.6 model",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-fourth-security-incident-claude-opus/"
     }
   ],
   "policy": [
     {
-      "headline": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME\u2019s case",
-      "take": "Hyperliquid Policy Center backs CFTC against CME in perpetual futures regulatory fight",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046"
+      "headline": "Digital asset trade groups pursue legal action against Illinois crypto tax law",
+      "take": "Digital asset trade groups pursue legal action against Illinois crypto tax law",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/illinois-crypto-tax-law-legal-challenge/"
     },
     {
-      "headline": "CFTC orders Algo Capital and Centurion executives to pay more than $500K over fraud",
-      "take": "CFTC orders Algo Capital and Centurion executives to pay over $500K for fraud",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-court-orders-500k-commodity-pool-fraud/"
+      "headline": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+      "take": "Crypto and banking groups escalate Clarity Act lobbying campaign to senators' home states",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators"
     },
     {
-      "headline": "Arbitrum watchdog committee seeks permanent bans for three grant recipients over alleged misuse",
-      "take": "Arbitrum watchdog seeks permanent bans for three grant recipients over alleged misuse",
+      "headline": "US attorney in Dallas launches securities fraud unit as \u2018Y\u2019all Street\u2019 booms",
+      "take": "US attorney in Dallas launches securities fraud unit as crypto trading activity surges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arbitrum-watchdog-permanent-bans-grant-misuse/"
+      "link": "https://cryptobriefing.com/dallas-securities-fraud-unit-yall-street/"
     },
     {
-      "headline": "IAEA reports Iran to UN Security Council for nuclear breaches in first referral in two decades",
-      "take": "IAEA reports Iran to UN Security Council for nuclear breaches in two decades first",
+      "headline": "UK lawmakers raise alarm over rogue AI agents as superintelligence bill looms",
+      "take": "UK lawmakers raise alarm over rogue AI agents as superintelligence regulation looms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iaea-reports-iran-un-security-council-nuclear-breaches/"
+      "link": "https://cryptobriefing.com/uk-lawmakers-rogue-ai-agents-superintelligence-bill/"
     }
   ]
 }

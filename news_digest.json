@@ -1,44 +1,32 @@
 {
-  "generated": "2026-09-09T20:59:15.893693+00:00",
-  "ts": 1788987555,
+  "generated": "2026-09-09T23:19:05.838521+00:00",
+  "ts": 1788995945,
   "market": [
     {
+      "headline": "1inch routes over $800B in trades, co-founder says DeFi still too small to turn a profit",
+      "take": "1inch processed $800B in trades; DeFi remains unprofitable at current scale",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/1inch-800b-trades-defi-profitability/"
+    },
+    {
+      "headline": "Strive\u2019s SATA closes 14th consecutive day at par, enabling purchase of 95 Bitcoin",
+      "take": "Strive's SATA Bitcoin fund closed at par for fourteenth consecutive day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-sata-14-days-par-bitcoin/"
+    },
+    {
       "headline": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
-      "take": "Bitcoin miners lag behind broader crypto rally as exchanges and stablecoins surge",
+      "take": "Bitcoin miners underperforming while exchanges and stablecoins gain momentum",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848"
-    },
-    {
-      "headline": "Dow, S&P 500 and Nasdaq fall for third straight day as oil prices hit $101",
-      "take": "US equities fall third consecutive day as oil prices reach $101 per barrel",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dow-sp500-nasdaq-fall-oil-prices-101/"
-    },
-    {
-      "headline": "Renaissance Capital expects busy fall for IPO activity as 2026 proceeds hit record $146 billion",
-      "take": "IPO market expects busy fall with 2026 proceeds projected at record $146 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/renaissance-capital-busy-fall-ipo-activity/"
-    },
-    {
-      "headline": "Federal Reserve to buy $2.12B in Treasury bills as reserve management winds down",
-      "take": "Federal Reserve to purchase $2.12B Treasury bills as reserve management winds down",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-treasury-bill-purchase-reserve-management/"
-    },
-    {
-      "headline": "World opens Solana prediction market to more than 1 million users",
-      "take": "Solana prediction market World expands access to over one million users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-xyz-website-down-launch-traffic/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic expands credit line to $15B ahead of IPO: Bloomberg",
-      "take": "Anthropic expands credit line to $15B ahead of planned IPO filing",
+      "headline": "Sunrise adds 20 new tokenized stocks on Solana via Backpack Securities",
+      "take": "Sunrise launched twenty tokenized stocks on Solana via Backpack Securities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-expands-credit-line-to-15b-ahead-of-ipo-bloomberg/"
+      "link": "https://cryptobriefing.com/sunrise-tokenized-stocks-solana-backpack/"
     },
     {
       "headline": "Dee Goens replaces Jacob Horne as CEO of Zora",
@@ -48,79 +36,55 @@
     },
     {
       "headline": "Ethereum Foundation opens Supporters Program applications for Devcon 8 in Mumbai",
-      "take": "Ethereum Foundation opens applications for Supporters Program at Devcon 8 Mumbai",
+      "take": "Ethereum Foundation opened Supporters Program applications for Devcon 8 in Mumbai",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/devcon-8-supporters-program-mumbai/"
-    },
-    {
-      "headline": "DoubleZero adds Kalshi\u2019s election markets ahead of November midterms",
-      "take": "DoubleZero adds Kalshi election markets ahead of November midterm voting",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075"
-    },
-    {
-      "headline": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
-      "take": "SkyAI faces board challenge from would-be acquirer Forward Industries and shareholder group",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061"
     }
   ],
   "security": [
     {
-      "headline": "OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals",
-      "take": "OFAC and DOJ dismantle Xinbi, multibillion-dollar marketplace for cybercriminals",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
-    },
-    {
-      "headline": "How The $320M Exploit of Liquid Network Went Down",
-      "take": "Liquid Network exploit detailed; $320 million extracted through identified attack vector",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
-    },
-    {
       "headline": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-      "take": "Secret Service freezes $52.8M crypto tied to Telegram Bazaar scam operation",
+      "take": "Secret Service froze $52.8M in crypto linked to Telegram Bazaar scams",
       "source": "decrypt",
       "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi"
     },
     {
-      "headline": "OpenAI agents\u2019 rogue activity was wider than previously disclosed, researchers say",
-      "take": "OpenAI agents' rogue activity was wider in scope than researchers initially disclosed",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-agents-unauthorized-sites-communications/"
+      "headline": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+      "take": "Trezor wallet maker disclosed hackers breached its email provider",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email"
     },
     {
-      "headline": "Anthropic reports fourth security incident involving Claude Opus 4.6",
-      "take": "Anthropic reports fourth security incident involving Claude Opus 4.6 model",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-fourth-security-incident-claude-opus/"
+      "headline": "How The $320M Exploit of Liquid Network Went Down",
+      "take": "Liquid Network suffered $320M exploit; technical breakdown of attack disclosed",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
     }
   ],
   "policy": [
     {
+      "headline": "OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals",
+      "take": "OFAC and DOJ sanctioned Xinbi, multibillion-dollar cybercriminal marketplace",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
+    },
+    {
       "headline": "Digital asset trade groups pursue legal action against Illinois crypto tax law",
-      "take": "Digital asset trade groups pursue legal action against Illinois crypto tax law",
+      "take": "Digital asset trade groups pursuing legal action against Illinois crypto tax law",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/illinois-crypto-tax-law-legal-challenge/"
     },
     {
       "headline": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "take": "Crypto and banking groups escalate Clarity Act lobbying campaign to senators' home states",
+      "take": "Crypto and banking groups lobbying Clarity Act in senators' home states",
       "source": "decrypt",
       "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators"
     },
     {
       "headline": "US attorney in Dallas launches securities fraud unit as \u2018Y\u2019all Street\u2019 booms",
-      "take": "US attorney in Dallas launches securities fraud unit as crypto trading activity surges",
+      "take": "US attorney in Dallas launched securities fraud unit amid crypto boom",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/dallas-securities-fraud-unit-yall-street/"
-    },
-    {
-      "headline": "UK lawmakers raise alarm over rogue AI agents as superintelligence bill looms",
-      "take": "UK lawmakers raise alarm over rogue AI agents as superintelligence regulation looms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-lawmakers-rogue-ai-agents-superintelligence-bill/"
     }
   ]
 }

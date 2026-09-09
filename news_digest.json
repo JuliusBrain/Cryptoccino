@@ -1,90 +1,78 @@
 {
-  "generated": "2026-09-09T04:49:43.897252+00:00",
-  "ts": 1788929383,
+  "generated": "2026-09-09T11:31:25.871867+00:00",
+  "ts": 1788953485,
   "market": [
     {
-      "headline": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-      "take": "Bitcoin recovers toward $79,000 as Zcash ETF draws $500 million inflows",
+      "headline": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
+      "take": "Bitcoin climbs as oil tops $100 following Iran strikes",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul"
+      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes"
     },
     {
-      "headline": "Polkadot leads market rotation into legacy layer-1 tokens as Fed rate hike bets grow",
-      "take": "Polkadot leads layer-1 rotation as Fed rate hike expectations increase",
+      "headline": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
+      "take": "Wall Street crypto fund adds staking feature to boost returns",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns"
+    },
+    {
+      "headline": "US mortgage demand falls as rates climb back toward 7%",
+      "take": "US mortgage demand falls as interest rates approach seven percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polkadot-legacy-layer-1-rotation-fed-rate-hike/"
-    },
-    {
-      "headline": "US oil prices surge 41% since July, nearing $95 per barrel",
-      "take": "US oil prices surge 41% since July, nearing $95 amid geopolitical tensions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-oil-prices-surge-41-since-july-nearing-95-per-barrel/"
-    },
-    {
-      "headline": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
-      "take": "Robinhood Chain fees hit $6 million daily as DEX volume doubles",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852"
-    },
-    {
-      "headline": "Fed\u2019s Warsh signals potential rate hike amid inflation concerns",
-      "take": "Fed's Warsh signals potential rate hike amid persistent inflation concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-warsh-signals-potential-rate-hike-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/us-mortgage-demand-falls-rates-rise/"
     }
   ],
   "business": [
     {
-      "headline": "First staked ETF tied to Tron hits the US markets on Wednesday",
-      "take": "First staked Tron ETF launches in US markets, expanding crypto asset offerings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935"
-    },
-    {
-      "headline": "Jack Dorsey\u2019s Block joins rush for federal bank charters from OCC",
-      "take": "Block joins rush for federal bank charters alongside other crypto firms",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947"
-    },
-    {
-      "headline": "ARK Investment Management seeks SEC approval for tokenized share class",
-      "take": "ARK Investment Management seeks SEC approval for tokenized share class product",
+      "headline": "BofA Securities upgrades Figure Technology to Neutral with $49 price target, citing blockchain lending momentum",
+      "take": "BofA upgrades Figure Technology on blockchain lending momentum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-sec-tokenized-share-class/"
+      "link": "https://cryptobriefing.com/bofa-upgrades-figure-technology-neutral/"
     },
     {
-      "headline": "Polkadot holders vote on dotUSD stablecoin proposal with $5M backing",
-      "take": "Polkadot holders vote on $5 million backed dotUSD stablecoin proposal",
+      "headline": "ION partners with Coinbase to enhance trading of Kalshi\u2019s event contracts",
+      "take": "ION partners Coinbase to enhance trading of event contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polkadot-dotusd-stablecoin-vote/"
+      "link": "https://cryptobriefing.com/ion-coinbase-kalshi-event-contracts/"
     },
     {
-      "headline": "Chime acquires Stride Bank for $590M, creating Chime Bank, N.A.",
-      "take": "Chime acquires Stride Bank for $590 million, creating Chime Bank N.A.",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chime-acquires-stride-bank-590m/"
+      "headline": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+      "take": "Block applies for bank charter to custody Bitcoin directly",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin"
     }
   ],
   "security": [
     {
-      "headline": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "take": "Microsoft patches nearly 1,000 security vulnerabilities in latest update cycle",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/"
+      "headline": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+      "take": "Singaporean leads $245 million crypto fraud ring, pleads guilty",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case"
+    },
+    {
+      "headline": "India\u2019s financial intelligence unit flags 15 crypto platforms for AML lapses",
+      "take": "India flags 15 crypto platforms for anti-money laundering lapses",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses"
+    },
+    {
+      "headline": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
+      "take": "Mexico seizes 300 mining rigs from hydroelectric dam operation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam"
     }
   ],
   "policy": [
     {
-      "headline": "Trump pushes Congress for CLARITY Act as $1B crypto stake draws scrutiny",
-      "take": "Trump pushes Congress for CLARITY Act as $1 billion crypto stake faces scrutiny",
+      "headline": "Germany to impose 25% tax on crypto gains from 2027, ending tax-free year",
+      "take": "Germany to impose 25% tax on crypto gains starting 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-pushes-congress-for-clarity-act-as-1b-crypto-stake-draws-scrutiny/"
+      "link": "https://cryptobriefing.com/germany-to-impose-25-tax-on-crypto-gains-from-2027-ending-tax-free-year/"
     },
     {
-      "headline": "New York town weighs crypto mining and AI data center ban",
-      "take": "New York town weighs bans on crypto mining and AI data center operations",
+      "headline": "Silvergate ex-CEO blames Biden pressure for bank\u2019s 2023 wind-down",
+      "take": "Silvergate ex-CEO blames Biden administration pressure for closure",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

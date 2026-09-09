@@ -1,78 +1,114 @@
 {
-  "generated": "2026-09-09T11:31:25.871867+00:00",
-  "ts": 1788953485,
+  "generated": "2026-09-09T16:43:40.195155+00:00",
+  "ts": 1788972220,
   "market": [
     {
-      "headline": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
-      "take": "Bitcoin climbs as oil tops $100 following Iran strikes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes"
-    },
-    {
-      "headline": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-      "take": "Wall Street crypto fund adds staking feature to boost returns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns"
-    },
-    {
-      "headline": "US mortgage demand falls as rates climb back toward 7%",
-      "take": "US mortgage demand falls as interest rates approach seven percent",
+      "headline": "US government bond yields rise to three-year high after Scott Bessent\u2019s purchase programme announcement",
+      "take": "US government bond yields rise to three-year high after treasury announcement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-mortgage-demand-falls-rates-rise/"
+      "link": "https://cryptobriefing.com/us-bond-yields-three-year-high-bessent-buyback/"
+    },
+    {
+      "headline": "S&P 500 full-year profit estimates jump to 32% growth as AI spending reshapes corporate earnings",
+      "take": "S&P 500 full-year profit estimates jump 32% as AI spending reshapes earnings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp500-profit-estimates-rise-ai-boom/"
+    },
+    {
+      "headline": "The 300-to-1 onchain gap between dollar and euro stablecoins is staggering, and it might not last",
+      "take": "Dollar stablecoin adoption vastly outpaces euro on-chain by 300-to-1 ratio",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/onchain-dollar-euro-stablecoin-gap/"
+    },
+    {
+      "headline": "US core CPI expected to cool toward 2.4% in August as goods prices drag inflation lower",
+      "take": "US core CPI expected to cool toward 2.4% in August as goods prices fall",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-core-cpi-august-forecast-cooling/"
     }
   ],
   "business": [
     {
-      "headline": "BofA Securities upgrades Figure Technology to Neutral with $49 price target, citing blockchain lending momentum",
-      "take": "BofA upgrades Figure Technology on blockchain lending momentum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bofa-upgrades-figure-technology-neutral/"
+      "headline": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+      "take": "Consensys to spin MetaMask into independent firm with undisclosed IPO plans",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo"
     },
     {
-      "headline": "ION partners with Coinbase to enhance trading of Kalshi\u2019s event contracts",
-      "take": "ION partners Coinbase to enhance trading of event contracts",
+      "headline": "PayPal launches PYUSDx platform for custom stablecoin creation",
+      "take": "PayPal launches PYUSDx platform enabling custom stablecoin creation for users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ion-coinbase-kalshi-event-contracts/"
+      "link": "https://cryptobriefing.com/paypal-pyusdx-custom-stablecoin-platform/"
     },
     {
-      "headline": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-      "take": "Block applies for bank charter to custody Bitcoin directly",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin"
+      "headline": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "take": "Tether enters private credit market with $400 million fund via Fasanara",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
+    },
+    {
+      "headline": "Latitude raises $35M in Series A funding led by Oak HC/FT to build stablecoin payment rails",
+      "take": "Latitude raises $35M Series A to build stablecoin payment rail infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/latitude-raises-35m-series-a-stablecoin-payments/"
+    },
+    {
+      "headline": "Anthropic adds CrowdStrike, Cursor, Factory, Gamma, and Vercel to Claude Marketplace",
+      "take": "Anthropic adds five enterprise partners including Cursor and Vercel to Claude marketplace",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-marketplace-crowdstrike-cursor-vercel/"
     }
   ],
   "security": [
     {
-      "headline": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-      "take": "Singaporean leads $245 million crypto fraud ring, pleads guilty",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case"
-    },
-    {
-      "headline": "India\u2019s financial intelligence unit flags 15 crypto platforms for AML lapses",
-      "take": "India flags 15 crypto platforms for anti-money laundering lapses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses"
-    },
-    {
-      "headline": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-      "take": "Mexico seizes 300 mining rigs from hydroelectric dam operation",
+      "headline": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+      "take": "Mexican musician and family killed over Bitcoin cold wallet believed holding millions",
       "source": "decrypt",
-      "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam"
+      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet"
+    },
+    {
+      "headline": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "take": "US Treasury sanctions Xinbi Guarantee, widespread cyber-scam hub affecting many users",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee"
+    },
+    {
+      "headline": "OpenAI agents used 10+ sites for unauthorized communications: researchers",
+      "take": "OpenAI agents reportedly used 10+ sites for unauthorized communications researchers found",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-agents-used-10-sites-for-unauthorized-communications-researchers/"
+    },
+    {
+      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "take": "Bitcoin and Ethereum face quantum threat as US backs $300 million hardware push",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push"
     }
   ],
   "policy": [
     {
-      "headline": "Germany to impose 25% tax on crypto gains from 2027, ending tax-free year",
-      "take": "Germany to impose 25% tax on crypto gains starting 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/germany-to-impose-25-tax-on-crypto-gains-from-2027-ending-tax-free-year/"
+      "headline": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME\u2019s case",
+      "take": "Hyperliquid Policy Center backs CFTC against CME in perpetual futures regulatory fight",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046"
     },
     {
-      "headline": "Silvergate ex-CEO blames Biden pressure for bank\u2019s 2023 wind-down",
-      "take": "Silvergate ex-CEO blames Biden administration pressure for closure",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC orders Algo Capital and Centurion executives to pay more than $500K over fraud",
+      "take": "CFTC orders Algo Capital and Centurion executives to pay over $500K for fraud",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-court-orders-500k-commodity-pool-fraud/"
+    },
+    {
+      "headline": "Arbitrum watchdog committee seeks permanent bans for three grant recipients over alleged misuse",
+      "take": "Arbitrum watchdog seeks permanent bans for three grant recipients over alleged misuse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arbitrum-watchdog-permanent-bans-grant-misuse/"
+    },
+    {
+      "headline": "IAEA reports Iran to UN Security Council for nuclear breaches in first referral in two decades",
+      "take": "IAEA reports Iran to UN Security Council for nuclear breaches in two decades first",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iaea-reports-iran-un-security-council-nuclear-breaches/"
     }
   ]
 }

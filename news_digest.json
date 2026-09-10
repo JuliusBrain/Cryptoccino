@@ -1,114 +1,96 @@
 {
-  "generated": "2026-09-10T04:50:57.803099+00:00",
-  "ts": 1789015857,
+  "generated": "2026-09-10T11:27:58.409174+00:00",
+  "ts": 1789039678,
   "market": [
     {
-      "headline": "Brent crude tops $101 as Middle East conflict escalates",
-      "take": "Brent crude tops $101 amid Middle East conflict escalation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-tops-101-as-middle-east-conflict-escalates/"
+      "headline": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
+      "take": "Bitcoin trades near $78,000 as memecoins and small caps lead broad retreat",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat"
     },
     {
-      "headline": "Strive\u2019s SATA closes 14th consecutive day at par, enabling purchase of 95 Bitcoin",
-      "take": "Strive's SATA Bitcoin ETF closes at par for 14 consecutive days",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-sata-14-days-par-bitcoin/"
+      "headline": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+      "take": "Bitcoin traders reduce bullish positions ahead of US inflation data release",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data"
     },
     {
-      "headline": "1inch routes over $800B in trades, co-founder says DeFi still too small to turn a profit",
-      "take": "1inch routes $800B in trades; DeFi volume still too small for profitability",
+      "headline": "Spot Bitcoin ETFs shed $166M in two days as investors hit pause after weeks of inflows",
+      "take": "Spot Bitcoin ETFs shed $166M in two days as investor inflows pause",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/1inch-800b-trades-defi-profitability/"
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-sell-166m-market-evaluation/"
     },
     {
-      "headline": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
-      "take": "Bitcoin miners lag while exchanges and stablecoins surge in rally",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848"
+      "headline": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "take": "Treasury yields climb as Brent crude tops $102 and tech futures slip",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green"
+    },
+    {
+      "headline": "Brent crude surpasses $102 amid Middle East tensions, HSBC raises forecast",
+      "take": "Brent crude surpasses $102 amid Middle East tensions, HSBC raises forecast",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brent-crude-surpasses-102-amid-middle-east-tensions-hsbc-raises-forecast/"
     }
   ],
   "business": [
     {
-      "headline": "Sunrise adds 20 new tokenized stocks on Solana via Backpack Securities",
-      "take": "Sunrise adds 20 tokenized stocks on Solana via Backpack Securities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sunrise-tokenized-stocks-solana-backpack/"
+      "headline": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+      "take": "Nasdaq invests $100M in Kraken parent Payward at $21B valuation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation"
     },
     {
-      "headline": "Anthropic adds small firm to IPO underwriters alongside Wall Street giants",
-      "take": "Anthropic adds underwriter to IPO alongside Wall Street firms",
+      "headline": "Monad conducts public token sale to broaden investor access",
+      "take": "Monad conducts public token sale to broaden investor access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-adds-small-firm-to-ipo-underwriters-alongside-wall-street-giants/"
+      "link": "https://cryptobriefing.com/monad-public-token-sale-broadens-access/"
     },
     {
-      "headline": "Dee Goens replaces Jacob Horne as CEO of Zora",
-      "take": "Dee Goens replaces Jacob Horne as Zora CEO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dee-goens-replaces-jacob-horne-ceo-zora/"
+      "headline": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+      "take": "Indian agri warehouse giant puts $2B in grain-backed loans onchain",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain"
     },
     {
-      "headline": "DoubleZero adds Kalshi\u2019s election markets ahead of November midterms",
-      "take": "DoubleZero adds Kalshi's election markets ahead of November midterms",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075"
+      "headline": "Fetch.ai builds custom AI agents for US and UK universities to help students navigate campus life",
+      "take": "Fetch.ai builds custom AI agents for US and UK universities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fetch-ai-university-agents-us-uk/"
+    },
+    {
+      "headline": "Visa bets on tokenization to stay relevant in India\u2019s payments race",
+      "take": "Visa bets on tokenization to stay relevant in India's payments race",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/visa-tokenization-india-payments-strategy/"
     }
   ],
   "security": [
     {
-      "headline": "How The $320M Exploit of Liquid Network Went Down",
-      "take": "Liquid Network exploit led to $320M loss; mechanics detailed",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
-    },
-    {
-      "headline": "Trezor says third-party security breach led to phishing emails from legitimate domain",
-      "take": "Trezor third-party breach exposed email provider, sent phishing emails",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086"
-    },
-    {
-      "headline": "Malone Lam pleads guilty to $245M Bitcoin theft and lavish spending",
-      "take": "Malone Lam pleads guilty to $245M Bitcoin theft and spending spree",
+      "headline": "Anthropic grants EU cybersecurity agency access to Mythos AI model",
+      "take": "Anthropic grants EU cybersecurity agency access to Mythos AI model",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/malone-lam-guilty-245m-bitcoin-theft/"
+      "link": "https://cryptobriefing.com/anthropic-enisa-mythos-ai-cybersecurity/"
     },
     {
-      "headline": "Scam Center Strike Force restrains $52M in laundered crypto in one day",
-      "take": "Scam Center Strike Force restrains $52M laundered crypto in single day",
+      "headline": "Clearview AI quietly tests InquiryIQ tool powered by xAI\u2019s Grok model",
+      "take": "Clearview AI quietly tests InquiryIQ tool powered by xAI's Grok",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/scam-center-strike-force-52m-crypto-madagascar/"
-    },
-    {
-      "headline": "OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals",
-      "take": "OFAC and DOJ strike Xinbi, multibillion-dollar cybercrime marketplace",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
+      "link": "https://cryptobriefing.com/clearview-ai-inquiryiq-grok-xai/"
     }
   ],
   "policy": [
     {
-      "headline": "Newsom signs AI safety bills backed by Anthropic, OpenAI",
-      "take": "California governor signs AI safety bills backed by Anthropic and OpenAI",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/newsom-signs-ai-safety-bills-backed-by-anthropic-openai/"
+      "headline": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+      "take": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "take": "Crypto industry lobbies senators on Clarity Act in home states",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators"
-    },
-    {
-      "headline": "US attorney in Dallas launches securities fraud unit as \u2018Y\u2019all Street\u2019 booms",
-      "take": "Dallas US attorney launches securities fraud unit as crypto booms",
+      "headline": "Trump delays new copper tariff over cost concerns for housing and AI gear",
+      "take": "Trump delays new copper tariff over cost concerns for housing and AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dallas-securities-fraud-unit-yall-street/"
-    },
-    {
-      "headline": "US security agencies accuse Chinese AI firms of intellectual property theft",
-      "take": "US security agencies accuse Chinese AI firms of IP theft",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-agencies-accuse-chinese-ai-firms-ip-theft/"
+      "link": "https://cryptobriefing.com/trump-delays-copper-tariff-housing-ai/"
     }
   ]
 }

@@ -1,22 +1,28 @@
 {
-  "generated": "2026-09-09T23:19:05.838521+00:00",
-  "ts": 1788995945,
+  "generated": "2026-09-10T04:50:57.803099+00:00",
+  "ts": 1789015857,
   "market": [
     {
-      "headline": "1inch routes over $800B in trades, co-founder says DeFi still too small to turn a profit",
-      "take": "1inch processed $800B in trades; DeFi remains unprofitable at current scale",
+      "headline": "Brent crude tops $101 as Middle East conflict escalates",
+      "take": "Brent crude tops $101 amid Middle East conflict escalation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/1inch-800b-trades-defi-profitability/"
+      "link": "https://cryptobriefing.com/brent-crude-tops-101-as-middle-east-conflict-escalates/"
     },
     {
       "headline": "Strive\u2019s SATA closes 14th consecutive day at par, enabling purchase of 95 Bitcoin",
-      "take": "Strive's SATA Bitcoin fund closed at par for fourteenth consecutive day",
+      "take": "Strive's SATA Bitcoin ETF closes at par for 14 consecutive days",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/strive-sata-14-days-par-bitcoin/"
     },
     {
+      "headline": "1inch routes over $800B in trades, co-founder says DeFi still too small to turn a profit",
+      "take": "1inch routes $800B in trades; DeFi volume still too small for profitability",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/1inch-800b-trades-defi-profitability/"
+    },
+    {
       "headline": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
-      "take": "Bitcoin miners underperforming while exchanges and stablecoins gain momentum",
+      "take": "Bitcoin miners lag while exchanges and stablecoins surge in rally",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848"
     }
@@ -24,67 +30,85 @@
   "business": [
     {
       "headline": "Sunrise adds 20 new tokenized stocks on Solana via Backpack Securities",
-      "take": "Sunrise launched twenty tokenized stocks on Solana via Backpack Securities",
+      "take": "Sunrise adds 20 tokenized stocks on Solana via Backpack Securities",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sunrise-tokenized-stocks-solana-backpack/"
     },
     {
+      "headline": "Anthropic adds small firm to IPO underwriters alongside Wall Street giants",
+      "take": "Anthropic adds underwriter to IPO alongside Wall Street firms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-adds-small-firm-to-ipo-underwriters-alongside-wall-street-giants/"
+    },
+    {
       "headline": "Dee Goens replaces Jacob Horne as CEO of Zora",
-      "take": "Dee Goens appointed new CEO of Zora, replacing Jacob Horne",
+      "take": "Dee Goens replaces Jacob Horne as Zora CEO",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/dee-goens-replaces-jacob-horne-ceo-zora/"
     },
     {
-      "headline": "Ethereum Foundation opens Supporters Program applications for Devcon 8 in Mumbai",
-      "take": "Ethereum Foundation opened Supporters Program applications for Devcon 8 in Mumbai",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/devcon-8-supporters-program-mumbai/"
+      "headline": "DoubleZero adds Kalshi\u2019s election markets ahead of November midterms",
+      "take": "DoubleZero adds Kalshi's election markets ahead of November midterms",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075"
     }
   ],
   "security": [
     {
-      "headline": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-      "take": "Secret Service froze $52.8M in crypto linked to Telegram Bazaar scams",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi"
-    },
-    {
-      "headline": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-      "take": "Trezor wallet maker disclosed hackers breached its email provider",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email"
-    },
-    {
       "headline": "How The $320M Exploit of Liquid Network Went Down",
-      "take": "Liquid Network suffered $320M exploit; technical breakdown of attack disclosed",
+      "take": "Liquid Network exploit led to $320M loss; mechanics detailed",
       "source": "chainalysis",
       "link": "https://www.chainalysis.com/blog/320m-exploit-liquid-network/"
+    },
+    {
+      "headline": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+      "take": "Trezor third-party breach exposed email provider, sent phishing emails",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086"
+    },
+    {
+      "headline": "Malone Lam pleads guilty to $245M Bitcoin theft and lavish spending",
+      "take": "Malone Lam pleads guilty to $245M Bitcoin theft and spending spree",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/malone-lam-guilty-245m-bitcoin-theft/"
+    },
+    {
+      "headline": "Scam Center Strike Force restrains $52M in laundered crypto in one day",
+      "take": "Scam Center Strike Force restrains $52M laundered crypto in single day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/scam-center-strike-force-52m-crypto-madagascar/"
+    },
+    {
+      "headline": "OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals",
+      "take": "OFAC and DOJ strike Xinbi, multibillion-dollar cybercrime marketplace",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
     }
   ],
   "policy": [
     {
-      "headline": "OFAC and DOJ Strike Xinbi, a Multibillion-Dollar Marketplace for Cybercriminals",
-      "take": "OFAC and DOJ sanctioned Xinbi, multibillion-dollar cybercriminal marketplace",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-xinbi-cybercriminal-crypto-marketplace/"
-    },
-    {
-      "headline": "Digital asset trade groups pursue legal action against Illinois crypto tax law",
-      "take": "Digital asset trade groups pursuing legal action against Illinois crypto tax law",
+      "headline": "Newsom signs AI safety bills backed by Anthropic, OpenAI",
+      "take": "California governor signs AI safety bills backed by Anthropic and OpenAI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/illinois-crypto-tax-law-legal-challenge/"
+      "link": "https://cryptobriefing.com/newsom-signs-ai-safety-bills-backed-by-anthropic-openai/"
     },
     {
       "headline": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "take": "Crypto and banking groups lobbying Clarity Act in senators' home states",
+      "take": "Crypto industry lobbies senators on Clarity Act in home states",
       "source": "decrypt",
       "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators"
     },
     {
       "headline": "US attorney in Dallas launches securities fraud unit as \u2018Y\u2019all Street\u2019 booms",
-      "take": "US attorney in Dallas launched securities fraud unit amid crypto boom",
+      "take": "Dallas US attorney launches securities fraud unit as crypto booms",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/dallas-securities-fraud-unit-yall-street/"
+    },
+    {
+      "headline": "US security agencies accuse Chinese AI firms of intellectual property theft",
+      "take": "US security agencies accuse Chinese AI firms of IP theft",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-agencies-accuse-chinese-ai-firms-ip-theft/"
     }
   ]
 }

@@ -1,102 +1,84 @@
 {
-  "generated": "2026-09-10T20:55:49.450245+00:00",
-  "ts": 1789073749,
+  "generated": "2026-09-10T23:13:14.325693+00:00",
+  "ts": 1789081994,
   "market": [
     {
-      "headline": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-      "take": "Bitcoin rally cools as market consolidates ahead of technical setup",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming"
-    },
-    {
-      "headline": "Robinhood Chain\u2019s DEX volume surpasses $100B as activity accelerates",
-      "take": "Robinhood Chain DEX volume surpasses $100B amid growing ecosystem activity",
+      "headline": "Bitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts",
+      "take": "Bitcoin and Ethereum options worth $3B expire; ETH traders shift to defensive puts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-dex-volume-100-billion/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-options-3b-expiry-eth-puts/"
     },
     {
       "headline": "Brent crude tops $107, US stocks and bonds dip amid inflation fears",
-      "take": "Crude oil tops $107 as US stocks and bonds decline on inflation concerns",
+      "take": "Brent crude tops $107 as inflation fears weigh on US stocks and bonds",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/brent-crude-tops-107-us-stocks-and-bonds-dip-amid-inflation-fears/"
     },
     {
-      "headline": "Robinhood reports 15x year-over-year growth in event contracts",
-      "take": "Robinhood reports 15x year-over-year growth in event contract trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-event-contracts-15x-growth/"
+      "headline": "Privacy Coin Zcash Becomes Top Performer as Crypto Losses Mount",
+      "take": "Privacy coin Zcash becomes top performer amid broader crypto market losses",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-10/privacy-coin-zcash-becomes-top-performer-as-crypto-losses-mount"
     },
     {
-      "headline": "US Treasury buyback falls short of Wall Street expectations, pushing yields to highest since November 2023",
-      "take": "US Treasury buyback misses expectations, pushing yields to highest since November",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-buyback-yields-rise/"
+      "headline": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "take": "Bitcoin rally cools but technical golden cross pattern approaching",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming"
     }
   ],
   "business": [
     {
       "headline": "Binance, Nubank, Coinbase, and Revolut launch new onchain products",
-      "take": "Binance, Nubank, Coinbase, Revolut launch new onchain products together",
+      "take": "Binance, Nubank, Coinbase, Revolut launch new onchain products",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/binance-coinbase-revolut-nubank-onchain-products/"
     },
     {
-      "headline": "Bitwise shuts down Dogecoin ETF less than a year after launch",
-      "take": "Bitwise shuts down Dogecoin ETF less than one year after launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-dogecoin-etf-shutdown/"
-    },
-    {
       "headline": "Centrifuge advances historic token-to-equity conversion after CP172 passage",
-      "take": "Centrifuge advances historic token-to-equity conversion following CP172 passage",
+      "take": "Centrifuge advances token-to-equity conversion after CP172 passage",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/centrifuge-cp172-token-equity-conversion/"
     },
     {
-      "headline": "Galaxy Digital expands into Fireblocks Trust Company for regulated custody",
-      "take": "Galaxy Digital expands into regulated custody via Fireblocks Trust Company",
+      "headline": "Nu Global launches multi-currency digital account for global customers",
+      "take": "Nu Global launches multi-currency digital account for global customers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-digital-fireblocks-trust-custody/"
+      "link": "https://cryptobriefing.com/nu-global-multi-currency-digital-account/"
     },
     {
-      "headline": "TRON expands dApp access through MetaMask connectivity",
-      "take": "TRON expands dApp access through new MetaMask connectivity integration",
+      "headline": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "take": "Coinbase Wallet rebrands to support anything-anywhere trading on Robinhood Chain",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain"
+    },
+    {
+      "headline": "Fanatics CEO discusses new all-in-one betting app combining sportsbook, casino, and prediction markets",
+      "take": "Fanatics CEO unveils all-in-one betting app combining sportsbook, casino, prediction markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-dapp-metamask-connectivity-expansion/"
+      "link": "https://cryptobriefing.com/fanatics-all-in-one-betting-app-launch/"
     }
   ],
   "security": [
     {
       "headline": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-      "take": "AI agents significantly reduce cost of quantum attacks on Bitcoin",
+      "take": "AI agents slash quantum attack costs against Bitcoin significantly",
       "source": "decrypt",
       "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin"
-    },
-    {
-      "headline": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
-      "take": "Banks face minutes not weeks to fix security flaws as AI accelerates attacks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis"
     }
   ],
   "policy": [
     {
-      "headline": "Senate Republicans unveil CLARITY Act text before crucial September 15 vote",
-      "take": "Senate Republicans unveil CLARITY Act text before September 15 vote",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-republicans-unveil-clarity-act-text-before-crucial-september-15-vote/"
+      "headline": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+      "take": "Senate Republicans release revised Clarity Act ahead of September 15 vote",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft"
     },
     {
       "headline": "Why a new SEC plan could ease a legal headache for tokenized securities",
-      "take": "New SEC plan could ease legal challenges for tokenized securities",
+      "take": "New SEC plan could ease legal headaches for tokenized securities",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities"
-    },
-    {
-      "headline": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "take": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

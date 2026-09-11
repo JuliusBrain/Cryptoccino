@@ -1,84 +1,108 @@
 {
-  "generated": "2026-09-11T04:47:49.698367+00:00",
-  "ts": 1789102069,
+  "generated": "2026-09-11T11:29:37.011935+00:00",
+  "ts": 1789126177,
   "market": [
     {
-      "headline": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
-      "take": "Bitcoin slides below $77k as traders anticipate Fed rate hike decision",
+      "headline": "Live updates: Bitcoin sinks to $77,000 as CPI lands with hike odds near 70%",
+      "take": "Bitcoin fell to $77,000 as US CPI data raised rate hike odds",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike"
+      "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70"
     },
     {
-      "headline": "Bitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts",
-      "take": "Three billion dollars in Bitcoin and Ethereum options expire this week",
+      "headline": "August CPI expected to exceed 3.3% with 62% probability, Kalshi markets show",
+      "take": "August CPI expected to exceed 3.3% with 62% probability",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-options-3b-expiry-eth-puts/"
+      "link": "https://cryptobriefing.com/august-cpi-probability-kalshi-fed-september/"
     },
     {
-      "headline": "Gold prices subdued as oil, inflation bolster Fed rate hike bets",
-      "take": "Gold prices remain weak despite oil and inflation supporting rate hike bets",
+      "headline": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+      "take": "Rising yields and oil prices leave bitcoin vulnerable before inflation report",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report"
+    },
+    {
+      "headline": "US Treasury yields near 5% as Fed rate hike looms amid inflation concerns",
+      "take": "US Treasury yields near 5% as Fed rate hike looms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-subdued-as-oil-inflation-bolster-fed-rate-hike-bets/"
+      "link": "https://cryptobriefing.com/us-treasury-yields-near-5-as-fed-rate-hike-looms-amid-inflation-concerns/"
+    },
+    {
+      "headline": "Bitcoin pulls back as another golden cross fails to deliver",
+      "take": "Bitcoin pulls back as another golden cross fails to deliver",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver"
     }
   ],
   "business": [
     {
-      "headline": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-      "take": "Ripple deploys AI agents within its billion-dollar corporate treasury strategy",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet"
+      "headline": "Jump Firedancer ends support for Frankendancer as Solana\u2019s Alpenglow upgrade nears",
+      "take": "Jump Firedancer ends Frankendancer support as Solana's Alpenglow upgrade nears",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jump-firedancer-ends-frankendancer-support/"
     },
     {
-      "headline": "Oracle surges 7% after beating earnings expectations with $30B in new AI cloud contracts",
-      "take": "Oracle surges seven percent after beating earnings with thirty billion AI cloud contracts",
+      "headline": "India central bank, markets regulator launch tokenization pilot for corporate bonds and digital settlement",
+      "take": "India central bank launches tokenization pilot for corporate bonds settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oracle-surges-after-beating-earnings-ai-cloud/"
+      "link": "https://cryptobriefing.com/india-central-bank-markets-regulator-launch-tokenization-pilot-for-corporate-bonds-and-digital-settlement/"
     },
     {
-      "headline": "Nu Global launches multi-currency digital account for global customers",
-      "take": "Nu Global launches multi-currency digital account for international customers",
+      "headline": "Standard Chartered forecasts SKY to rise fivefold to $0.325 by 2028",
+      "take": "Standard Chartered forecasts SKY token rising fivefold to $0.325 by 2028",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nu-global-multi-currency-digital-account/"
+      "link": "https://cryptobriefing.com/standard-chartered-sky-token-forecast-2028/"
     },
     {
-      "headline": "AI firms expand workforce, secure complex financing amid growth push",
-      "take": "AI firms expand workforce and secure complex financing amid rapid growth",
+      "headline": "Strategy surpasses Block Inc in market cap, becomes 217th largest US company",
+      "take": "Strategy surpasses Block Inc in market cap, ranks 217th US company",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-firms-expand-workforce-secure-complex-financing-amid-growth-push/"
-    },
-    {
-      "headline": "Bitwise shuts down Dogecoin ETF less than a year after launch",
-      "take": "Bitwise shuts down Dogecoin ETF less than one year after launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-dogecoin-etf-shutdown/"
+      "link": "https://cryptobriefing.com/strategy-surpasses-block-market-cap/"
     }
   ],
   "security": [
     {
-      "headline": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-      "take": "AI agents significantly reduce computational cost of quantum attacks on Bitcoin",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin"
+      "headline": "Blockstream refuses ransom demand after recovering 85% of stolen BTC from Liquid Network exploit",
+      "take": "Blockstream refuses ransom after recovering 85% of Liquid Network stolen bitcoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockstream-refuses-ransom-liquid-exploit/"
     },
     {
-      "headline": "Anthropic report warns AI distillation boosts reasoning, poses security risks",
-      "take": "Anthropic report finds AI distillation improves reasoning but creates security risks",
+      "headline": "Post-quantum cryptography becomes mandatory for financial institutions",
+      "take": "Post-quantum cryptography becomes mandatory for financial institutions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-report-warns-ai-distillation-boosts-reasoning-poses-security-risks/"
+      "link": "https://cryptobriefing.com/post-quantum-cryptography-mandatory-financial-institutions/"
+    },
+    {
+      "headline": "DBS faces $1 billion lawsuit in Singapore High Court linked to Jho Low associate",
+      "take": "DBS faces $1 billion lawsuit in Singapore linked to Jho Low associate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dbs-lawsuit-1mdb-jho-low-singapore/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
-      "take": "Senate Republicans release revised Clarity Act ahead of September fifteenth vote",
+      "headline": "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi\u2019s partial geo-blocks",
+      "take": "ESMA questions major prediction platforms lacking EU authorization, targets Polymarket",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180"
+      "link": "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239"
     },
     {
-      "headline": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
-      "take": "Sam Bankman-Fried petitions Supreme Court to overturn fraud conviction and forfeiture",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226"
+      "headline": "Albuquerque bans Bitcoin ATMs, gives operators 45 days to comply",
+      "take": "Albuquerque bans Bitcoin ATMs, gives operators 45 days to comply",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/albuquerque-bans-bitcoin-atms/"
+    },
+    {
+      "headline": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+      "take": "Sam Bankman-Fried asks Supreme Court to overturn FTX fraud conviction",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction"
+    },
+    {
+      "headline": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+      "take": "Kalshi seeks 24/7 Tesla and Nvidia perps amid regulator turf battle",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them"
     }
   ]
 }

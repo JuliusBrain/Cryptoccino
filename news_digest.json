@@ -1,108 +1,90 @@
 {
-  "generated": "2026-09-11T11:29:37.011935+00:00",
-  "ts": 1789126177,
+  "generated": "2026-09-11T16:34:06.183798+00:00",
+  "ts": 1789144446,
   "market": [
     {
-      "headline": "Live updates: Bitcoin sinks to $77,000 as CPI lands with hike odds near 70%",
-      "take": "Bitcoin fell to $77,000 as US CPI data raised rate hike odds",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70"
-    },
-    {
-      "headline": "August CPI expected to exceed 3.3% with 62% probability, Kalshi markets show",
-      "take": "August CPI expected to exceed 3.3% with 62% probability",
+      "headline": "Spot ETH ETFs pull in $1.75B in August 2026, best month in a year",
+      "take": "Spot ETH ETFs attract $1.75B in August, strongest month in a year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/august-cpi-probability-kalshi-fed-september/"
+      "link": "https://cryptobriefing.com/spot-eth-etf-inflows-august-2026/"
     },
     {
-      "headline": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-      "take": "Rising yields and oil prices leave bitcoin vulnerable before inflation report",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report"
-    },
-    {
-      "headline": "US Treasury yields near 5% as Fed rate hike looms amid inflation concerns",
-      "take": "US Treasury yields near 5% as Fed rate hike looms",
+      "headline": "Bitcoin liquidations exceed $684M in 24 hours as shorts get crushed",
+      "take": "Bitcoin liquidations exceed $684M in 24 hours as shorts get crushed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-yields-near-5-as-fed-rate-hike-looms-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/bitcoin-liquidations-684m-shorts-crushed/"
     },
     {
-      "headline": "Bitcoin pulls back as another golden cross fails to deliver",
-      "take": "Bitcoin pulls back as another golden cross fails to deliver",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver"
+      "headline": "Fed reports US household net worth rises $12.8T in second quarter",
+      "take": "US household net worth rises $12.8T in second quarter",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-household-net-worth-rises-q2/"
+    },
+    {
+      "headline": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+      "take": "Bitcoin rises as markets digest inflation data ahead of Fed decision",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision"
+    },
+    {
+      "headline": "Stablecoins surge past $300 billion, forcing a reckoning over the dollar\u2019s future",
+      "take": "Stablecoins surge past $300 billion, forcing reckoning over dollar's future",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stablecoins-rise-dollar-future-questions/"
     }
   ],
   "business": [
     {
-      "headline": "Jump Firedancer ends support for Frankendancer as Solana\u2019s Alpenglow upgrade nears",
-      "take": "Jump Firedancer ends Frankendancer support as Solana's Alpenglow upgrade nears",
+      "headline": "Anchorage Digital adds institutional access to Frgmnt\u2019s fUSD stablecoin",
+      "take": "Anchorage Digital adds institutional access to Frgmnt's fUSD stablecoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jump-firedancer-ends-frankendancer-support/"
+      "link": "https://cryptobriefing.com/anchorage-digital-frgmnt-fusd-stablecoin-institutional/"
     },
     {
-      "headline": "India central bank, markets regulator launch tokenization pilot for corporate bonds and digital settlement",
-      "take": "India central bank launches tokenization pilot for corporate bonds settlement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/india-central-bank-markets-regulator-launch-tokenization-pilot-for-corporate-bonds-and-digital-settlement/"
+      "headline": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
+      "take": "India's richest state exploring tokenizing assets to fund infrastructure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure"
     },
     {
-      "headline": "Standard Chartered forecasts SKY to rise fivefold to $0.325 by 2028",
-      "take": "Standard Chartered forecasts SKY token rising fivefold to $0.325 by 2028",
+      "headline": "The Smarter Web Company plans UK\u2019s first BTC-backed preferred stock",
+      "take": "Smarter Web Company plans UK's first Bitcoin-backed preferred stock",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-sky-token-forecast-2028/"
+      "link": "https://cryptobriefing.com/smarter-web-company-btc-backed-preferred-stock/"
     },
     {
-      "headline": "Strategy surpasses Block Inc in market cap, becomes 217th largest US company",
-      "take": "Strategy surpasses Block Inc in market cap, ranks 217th US company",
+      "headline": "Spark Finance opens USDT savings vault to OKX users",
+      "take": "Spark Finance opens USDT savings vault to OKX users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-surpasses-block-market-cap/"
+      "link": "https://cryptobriefing.com/spark-finance-usdt-vault-okx/"
+    },
+    {
+      "headline": "Solana crosses $3T in cumulative DEX volume",
+      "take": "Solana crosses $3T in cumulative decentralized exchange volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-3-trillion-dex-volume/"
     }
   ],
   "security": [
     {
-      "headline": "Blockstream refuses ransom demand after recovering 85% of stolen BTC from Liquid Network exploit",
-      "take": "Blockstream refuses ransom after recovering 85% of Liquid Network stolen bitcoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockstream-refuses-ransom-liquid-exploit/"
+      "headline": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+      "take": "Blockstream refuses ransom for $47M Bitcoin stolen in Liquid hack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft"
     },
     {
-      "headline": "Post-quantum cryptography becomes mandatory for financial institutions",
-      "take": "Post-quantum cryptography becomes mandatory for financial institutions",
+      "headline": "Tether assists DOJ in $52 million action against global scam network",
+      "take": "Tether assists DOJ in $52 million action against global scam network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/post-quantum-cryptography-mandatory-financial-institutions/"
-    },
-    {
-      "headline": "DBS faces $1 billion lawsuit in Singapore High Court linked to Jho Low associate",
-      "take": "DBS faces $1 billion lawsuit in Singapore linked to Jho Low associate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dbs-lawsuit-1mdb-jho-low-singapore/"
+      "link": "https://cryptobriefing.com/tether-assists-doj-in-52-million-action-against-global-scam-network/"
     }
   ],
   "policy": [
     {
-      "headline": "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi\u2019s partial geo-blocks",
-      "take": "ESMA questions major prediction platforms lacking EU authorization, targets Polymarket",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239"
-    },
-    {
-      "headline": "Albuquerque bans Bitcoin ATMs, gives operators 45 days to comply",
-      "take": "Albuquerque bans Bitcoin ATMs, gives operators 45 days to comply",
+      "headline": "Canada confirms bank-issued crypto deposits are legally equivalent to traditional bank deposits",
+      "take": "Canada confirms bank-issued crypto deposits legally equivalent to traditional deposits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/albuquerque-bans-bitcoin-atms/"
-    },
-    {
-      "headline": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
-      "take": "Sam Bankman-Fried asks Supreme Court to overturn FTX fraud conviction",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction"
-    },
-    {
-      "headline": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
-      "take": "Kalshi seeks 24/7 Tesla and Nvidia perps amid regulator turf battle",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them"
+      "link": "https://cryptobriefing.com/canada-confirms-bank-issued-crypto-deposits-are-legally-equivalent-to/"
     }
   ]
 }

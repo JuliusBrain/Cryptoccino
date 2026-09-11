@@ -1,84 +1,96 @@
 {
-  "generated": "2026-09-11T21:01:52.929878+00:00",
-  "ts": 1789160512,
+  "generated": "2026-09-11T23:19:18.067355+00:00",
+  "ts": 1789168758,
   "market": [
     {
       "headline": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-      "take": "Bitcoin and ether rise as inflation data leaves Fed rate outlook largely unchanged",
+      "take": "Bitcoin and ether rise as inflation data leaves Fed rate outlook unchanged",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287"
     },
     {
-      "headline": "Ether rallies as bearish liquidations drive market surge",
-      "take": "Ether rallies as bearish liquidations drive broader market surge higher",
+      "headline": "Ethereum climbs back into global top 100 assets by market cap",
+      "take": "Ethereum climbs back into global top 100 assets by market capitalization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ether-rally-short-liquidations-squeeze/"
+      "link": "https://cryptobriefing.com/ethereum-rises-61st-global-market-cap-ranking/"
+    },
+    {
+      "headline": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+      "take": "Bitcoin golden cross flickers off as rate-hike bets firm up",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off"
+    },
+    {
+      "headline": "RWAs reach $46B onchain market, led by US T-bills at $15B",
+      "take": "RWA market reaches $46B onchain, led by US Treasury bills at $15B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rwas-46b-onchain-market-us-tbills/"
     },
     {
       "headline": "Robinhood Crypto Trading Volume Jumps 61% in August",
       "take": "Robinhood crypto trading volume jumps 61 percent in August",
       "source": "decrypt",
       "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august"
-    },
-    {
-      "headline": "RWAs reach $46B onchain market, led by US T-bills at $15B",
-      "take": "Real-world assets reach $46 billion onchain, led by US Treasury bills",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwas-46b-onchain-market-us-tbills/"
-    },
-    {
-      "headline": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-      "take": "Bitwise to close Dogecoin ETF before reaching first anniversary",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf"
     }
   ],
   "business": [
     {
-      "headline": "Strive raises capital to acquire 578 Bitcoin through its SATA preferred stock instrument",
-      "take": "Strive raises capital to acquire 578 Bitcoin through preferred stock instrument",
+      "headline": "Nasdaq plans tokenized stocks with shareholder rights by 2027",
+      "take": "Nasdaq plans tokenized stocks with shareholder rights by 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-sata-bitcoin-acquisition/"
+      "link": "https://cryptobriefing.com/nasdaq-tokenized-stocks-shareholder-rights-2027/"
     },
     {
-      "headline": "Allbridge processes $1.64B in stablecoins on TRON with nearly 80,000 transfers",
-      "take": "Allbridge processes $1.64 billion in stablecoins on TRON network",
+      "headline": "Circle\u2019s EURC goes live on Upbit, giving South Korean traders direct access to euros",
+      "take": "Circle's EURC stablecoin goes live on Upbit for South Korean euro access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/allbridge-tron-stablecoin-volume/"
+      "link": "https://cryptobriefing.com/circle-eurc-live-upbit-south-korea/"
     },
     {
-      "headline": "Cognition launches Devin Fusion, a multi-model coding agent that pairs a planner with an executor",
-      "take": "Cognition launches Devin Fusion, multi-model coding agent pairing planner with executor",
+      "headline": "DraftKings\u2019 tokenized stock DKNG hits $39M in volume on Solana within three hours",
+      "take": "DraftKings tokenized stock DKNG hits $39M volume on Solana in three hours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cognition-devin-fusion-multi-model-coding-agent/"
+      "link": "https://cryptobriefing.com/draftkings-tokenized-stock-solana-volume/"
     },
     {
-      "headline": "GMO-Z.com Trust Company winds down GYEN stablecoin, Coinbase to convert holdings to USDC",
-      "take": "GMO-Z.com Trust winds down GYEN stablecoin, Coinbase converts holdings to USDC",
+      "headline": "Kalshi seeks US approval for single-stock perpetual futures on Tesla, Apple, and Nvidia",
+      "take": "Kalshi seeks US approval for single-stock perpetual futures on major companies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gyen-stablecoin-wind-down-coinbase-usdc/"
+      "link": "https://cryptobriefing.com/kalshi-single-stock-perpetual-futures-approval/"
+    },
+    {
+      "headline": "Mecka AI nears $500M valuation as new funding round takes shape",
+      "take": "Mecka AI nears $500M valuation in new funding round",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mecka-ai-500m-valuation-sequoia-funding/"
     }
   ],
   "security": [
     {
       "headline": "SlowMist details Liquid Network exploit, attacker mints 3,998 L-BTC in largest Bitcoin sidechain hack of 2026",
-      "take": "SlowMist details Liquid Network exploit, attacker mints 3,998 L-BTC in sidechain hack",
+      "take": "SlowMist details Liquid Network exploit, attacker mints 3,998 L-BTC",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/liquid-network-exploit-slowmist-analysis/"
     },
     {
-      "headline": "Meta faces class action over AI training data and secret face recognition feature",
-      "take": "Meta faces class action over AI training data and secret face recognition",
+      "headline": "AI hacking incidents expose fundamental flaws in oversight, experts warn",
+      "take": "AI hacking incidents expose fundamental flaws in oversight, experts warn",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-class-action-ai-training-nametag-biometric/"
+      "link": "https://cryptobriefing.com/ai-hacking-incidents-fundamental-flaws/"
+    },
+    {
+      "headline": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+      "take": "Cyberattacks on law firms nearly double as stolen documents hit dark web",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC proposes rule on whistleblower awards, creating presumption of maximum payouts on smaller claims",
-      "take": "CFTC proposes rule creating presumption of maximum whistleblower awards on smaller claims",
+      "headline": "US Treasury sanctions 27 Iranian airlines in sweeping \u2018Operation Economic Outcast\u2019",
+      "take": "US Treasury sanctions 27 Iranian airlines in Operation Economic Outcast",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-whistleblower-awards-final-rule/"
+      "link": "https://cryptobriefing.com/us-treasury-sanctions-iranian-airlines/"
     },
     {
       "headline": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
@@ -87,10 +99,10 @@
       "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal"
     },
     {
-      "headline": "US Senate\u2019s Russia sanctions bill heads to House vote next week",
-      "take": "US Senate's Russia sanctions bill heads to House vote next week",
+      "headline": "Trump\u2019s battery ban puts America\u2019s energy storage ambitions in a bind",
+      "take": "Trump's battery ban puts America's energy storage ambitions in question",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-sanctions-bill-house-vote/"
+      "link": "https://cryptobriefing.com/trump-battery-ban-energy-storage-china/"
     }
   ]
 }

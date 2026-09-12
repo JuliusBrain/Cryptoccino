@@ -1,96 +1,84 @@
 {
-  "generated": "2026-09-12T15:36:04.137229+00:00",
-  "ts": 1789227364,
+  "generated": "2026-09-12T20:37:59.501179+00:00",
+  "ts": 1789245479,
   "market": [
     {
-      "headline": "Truflation reports US inflation at 2.33% while the BLS says 3.4%",
-      "take": "Truflation reports US inflation at 2.33%, below official BLS estimate of 3.4%",
+      "headline": "Base records $100M in daily DEX trading volume for tokenized stocks",
+      "take": "Base network reaches $100M daily DEX volume for tokenized stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/truflation-us-cpi-2-percent-bls-3-percent/"
+      "link": "https://cryptobriefing.com/base-100m-dex-tokenized-stocks/"
     },
     {
-      "headline": "US households hold record 48% of financial assets in equities",
-      "take": "US households hold record 48% of financial assets in equities",
+      "headline": "ETF targeting inverse movements in XRP sets new launch date",
+      "take": "Inverse XRP ETF sets new launch date for bearish positioning",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-households-record-equity-allocation/"
+      "link": "https://cryptobriefing.com/teucrium-inverse-xrp-etf-new-launch-date/"
     },
     {
-      "headline": "Dalio urges investors to shift from bonds to gold amid US debt concerns",
-      "take": "Dalio urges investors to shift from bonds to gold amid debt concerns",
+      "headline": "Fed rate hikes unlikely due to rising interest payments, political factors: analyst",
+      "take": "Fed rate hikes unlikely given rising interest payments, political constraints",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dalio-urges-investors-to-shift-from-bonds-to-gold-amid-us-debt-concerns/"
+      "link": "https://cryptobriefing.com/fed-rate-hikes-unlikely-due-to-rising-interest-payments-political-factors/"
     },
     {
-      "headline": "Denmark hikes rates by 25 bps to 2.10% in second increase this year",
-      "take": "Denmark raises rates by 25 basis points to 2.10% this year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/denmark-rate-hike-25-bps-2026/"
-    },
-    {
-      "headline": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "take": "Staked ether proposed as benchmark for decentralized economy",
+      "headline": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+      "take": "Institutional investors consider bitcoin as bond portfolio alternative amid AI surge",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy"
+      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma"
     }
   ],
   "business": [
     {
-      "headline": "Multicoin Capital identifies Hyperliquid as major holding after reassessment",
-      "take": "Multicoin Capital identifies Hyperliquid as major holding after reassessment",
+      "headline": "Coinbase aims to replicate USDC success with tokenized stocks",
+      "take": "Coinbase plans tokenized stocks product following USDC stablecoin success",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multicoin-capital-identifies-hyperliquid-as-major-holding-after-reassessment/"
+      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-usdc-playbook/"
     },
     {
-      "headline": "Community banks urged to embrace stablecoins and digital payments for survival",
-      "take": "Community banks urged to embrace stablecoins and digital payments",
+      "headline": "X Layer\u2019s xStocks assets near $100M market cap in under three months",
+      "take": "X Layer's xStocks nears $100M market cap within three months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/community-banks-stablecoins-digital-payments-growth/"
+      "link": "https://cryptobriefing.com/x-layer-xstocks-100m-market-cap/"
     },
     {
-      "headline": "Anthropic\u2019s Amodei proposes continuous evaluator access for AI firms",
-      "take": "Anthropic proposes continuous evaluator access framework for AI firms",
+      "headline": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "take": "Ripple stablecoin chief identifies $13 trillion corporate treasury market opportunity",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd"
+    },
+    {
+      "headline": "Pump.fun introduces Holder Rewards and sunsets Cashback mode",
+      "take": "Pump.fun introduces Holder Rewards feature, discontinues Cashback mode",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-amodei-embedded-ai-evaluators/"
+      "link": "https://cryptobriefing.com/pumpfun-holder-rewards-cashback-deprecated/"
+    },
+    {
+      "headline": "Hey Wallet sunsets its products, impacting Solana users",
+      "take": "Hey Wallet sunsets products, affecting Solana ecosystem users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hey-wallet-sunsets-solana-products/"
     }
   ],
   "security": [
     {
-      "headline": "Anthropic reports Russian developers used AI for kamikaze drone software",
-      "take": "Anthropic reports Russian developers used AI for kamikaze drone software",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-russian-ai-kamikaze-drone-software/"
-    },
-    {
-      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "take": "Revolut exposed Bitcoin activity and passports after fake government request",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request"
+      "headline": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov\u2019t domain",
+      "take": "Revolut exposed customer KYC data, Bitcoin transactions via fake government request",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC probes Polymarket trades tied to Biden pardons, Iran and Google: Report",
-      "take": "CFTC probes Polymarket trades tied to Biden pardons and other events",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-probes-polymarket-trades-tied-to-biden-pardons-iran-and-google-report/"
+      "headline": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
+      "take": "Crypto billionaires donate $97M to UK Reform party within 24 hours",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "BaFin places Bank Sepah\u2019s Frankfurt branch into insolvency over sanctions fallout",
-      "take": "BaFin places Bank Sepah's Frankfurt branch into insolvency over sanctions",
+      "headline": "Andreessen Horowitz backs US crypto leadership amid CLARITY Act talks",
+      "take": "Andreessen Horowitz backs US crypto leadership amid CLARITY Act discussions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bafin-bank-sepah-frankfurt-insolvency/"
-    },
-    {
-      "headline": "Donald Trump dismisses AI safety concerns, prioritizes competition with China",
-      "take": "Trump dismisses AI safety concerns, prioritizes competition with China",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-dismisses-ai-safety-china-competition/"
-    },
-    {
-      "headline": "BRICS summit condemns sanctions, nuclear threats; calls for UN reform",
-      "take": "BRICS summit condemns sanctions and nuclear threats, calls for UN reform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brics-summit-condemns-sanctions-nuclear-threats-calls-for-un-reform/"
+      "link": "https://cryptobriefing.com/andreessen-horowitz-backs-us-crypto-leadership-amid-clarity-act-talks/"
     }
   ]
 }

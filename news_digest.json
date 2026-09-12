@@ -1,108 +1,96 @@
 {
-  "generated": "2026-09-12T10:54:10.334468+00:00",
-  "ts": 1789210450,
+  "generated": "2026-09-12T15:36:04.137229+00:00",
+  "ts": 1789227364,
   "market": [
     {
-      "headline": "Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day",
-      "take": "Ethereum ETFs gained $216M inflows while Bitcoin ETFs saw $13M outflows",
+      "headline": "Truflation reports US inflation at 2.33% while the BLS says 3.4%",
+      "take": "Truflation reports US inflation at 2.33%, below official BLS estimate of 3.4%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-september/"
+      "link": "https://cryptobriefing.com/truflation-us-cpi-2-percent-bls-3-percent/"
     },
     {
-      "headline": "BlackRock ETF clients purchase $149M in Ethereum as institutional appetite surges",
-      "take": "BlackRock ETF clients purchased $149M in Ethereum as institutional demand grows",
+      "headline": "US households hold record 48% of financial assets in equities",
+      "take": "US households hold record 48% of financial assets in equities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-etf-ethereum-149m-inflows/"
+      "link": "https://cryptobriefing.com/us-households-record-equity-allocation/"
     },
     {
-      "headline": "$346B in tokenized assets now spans 47 different asset types",
-      "take": "$346B in tokenized assets now span 47 different asset classes",
+      "headline": "Dalio urges investors to shift from bonds to gold amid US debt concerns",
+      "take": "Dalio urges investors to shift from bonds to gold amid debt concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/346b-tokenized-assets-47-types/"
+      "link": "https://cryptobriefing.com/dalio-urges-investors-to-shift-from-bonds-to-gold-amid-us-debt-concerns/"
     },
     {
-      "headline": "Onchain equities surpass governance tokens in user engagement as tokenized stock trading explodes",
-      "take": "Onchain equities surpass governance tokens as tokenized stock trading accelerates",
+      "headline": "Denmark hikes rates by 25 bps to 2.10% in second increase this year",
+      "take": "Denmark raises rates by 25 basis points to 2.10% this year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/onchain-equities-surpass-governance-tokens-engagement/"
+      "link": "https://cryptobriefing.com/denmark-rate-hike-25-bps-2026/"
     },
     {
-      "headline": "Markets brace for series of Federal Reserve rate hikes by mid-2026: WSJ",
-      "take": "Markets anticipate Federal Reserve rate hikes beginning mid-2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/markets-brace-for-series-of-federal-reserve-rate-hikes-by-mid-2026-wsj/"
+      "headline": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "take": "Staked ether proposed as benchmark for decentralized economy",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase Wallet rolls out pulse mode for simpler perp trading",
-      "take": "Coinbase Wallet launches pulse mode feature for simplified perpetual trading",
+      "headline": "Multicoin Capital identifies Hyperliquid as major holding after reassessment",
+      "take": "Multicoin Capital identifies Hyperliquid as major holding after reassessment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-wallet-pulse-mode-perp-trading/"
+      "link": "https://cryptobriefing.com/multicoin-capital-identifies-hyperliquid-as-major-holding-after-reassessment/"
     },
     {
-      "headline": "Fetch.ai releases A2A Outbound Adapter for seamless agent integration",
-      "take": "Fetch.ai releases A2A Outbound Adapter for agent integration",
+      "headline": "Community banks urged to embrace stablecoins and digital payments for survival",
+      "take": "Community banks urged to embrace stablecoins and digital payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fetch-ai-a2a-outbound-adapter/"
+      "link": "https://cryptobriefing.com/community-banks-stablecoins-digital-payments-growth/"
     },
     {
-      "headline": "Tesla builds largest grid battery in US at xAI\u2019s Memphis site",
-      "take": "Tesla builds largest grid battery in US at xAI Memphis facility",
+      "headline": "Anthropic\u2019s Amodei proposes continuous evaluator access for AI firms",
+      "take": "Anthropic proposes continuous evaluator access framework for AI firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tesla-largest-grid-battery-xai-memphis/"
-    },
-    {
-      "headline": "Meta\u2019s chief AI officer says AI agent swarm outperformed 100 engineers",
-      "take": "Meta AI chief reports agent swarms outperformed 100 human engineers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-ai-agent-swarm-outperforms-engineers/"
-    },
-    {
-      "headline": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-      "take": "Robinhood CEO opposes company veto over stock tokens in AMC dispute",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud"
+      "link": "https://cryptobriefing.com/anthropic-amodei-embedded-ai-evaluators/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "take": "Revolut exposed Bitcoin activity and passport data via fake government request",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request"
+      "headline": "Anthropic reports Russian developers used AI for kamikaze drone software",
+      "take": "Anthropic reports Russian developers used AI for kamikaze drone software",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-russian-ai-kamikaze-drone-software/"
     },
     {
-      "headline": "German authorities identify suspects in failed drone attack at Leipzig airport",
-      "take": "German authorities identify suspects in failed drone attack at Leipzig airport",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/german-suspects-drone-attack-leipzig-airport/"
+      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "take": "Revolut exposed Bitcoin activity and passports after fake government request",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request"
     }
   ],
   "policy": [
     {
-      "headline": "Chinese entities gave Iran satellite images of air base before missile strike killed 3 US service members in Jordan: report",
-      "take": "China provided Iran satellite images before missile strike killing US troops",
+      "headline": "CFTC probes Polymarket trades tied to Biden pardons, Iran and Google: Report",
+      "take": "CFTC probes Polymarket trades tied to Biden pardons and other events",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinese-entities-gave-iran-satellite-images-of-air-base-before-missile-strike/"
+      "link": "https://cryptobriefing.com/cftc-probes-polymarket-trades-tied-to-biden-pardons-iran-and-google-report/"
     },
     {
-      "headline": "Iran asserts full control over Strait of Hormuz amidst US tensions",
-      "take": "Iran claims full control over Strait of Hormuz amid US tensions",
+      "headline": "BaFin places Bank Sepah\u2019s Frankfurt branch into insolvency over sanctions fallout",
+      "take": "BaFin places Bank Sepah's Frankfurt branch into insolvency over sanctions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-asserts-full-control-over-strait-of-hormuz-amidst-us-tensions/"
+      "link": "https://cryptobriefing.com/bafin-bank-sepah-frankfurt-insolvency/"
     },
     {
-      "headline": "Donald Trump optimistic about resolving trade war with Canada",
-      "take": "Trump expresses optimism about resolving trade war with Canada",
+      "headline": "Donald Trump dismisses AI safety concerns, prioritizes competition with China",
+      "take": "Trump dismisses AI safety concerns, prioritizes competition with China",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-optimistic-canada-trade-deal/"
+      "link": "https://cryptobriefing.com/trump-dismisses-ai-safety-china-competition/"
     },
     {
-      "headline": "Chinese AI firms snub US delegation over sanction concerns",
-      "take": "Chinese AI firms refuse meetings with US delegation over sanctions",
+      "headline": "BRICS summit condemns sanctions, nuclear threats; calls for UN reform",
+      "take": "BRICS summit condemns sanctions and nuclear threats, calls for UN reform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinese-ai-firms-snub-us-delegation-over-sanction-concerns/"
+      "link": "https://cryptobriefing.com/brics-summit-condemns-sanctions-nuclear-threats-calls-for-un-reform/"
     }
   ]
 }

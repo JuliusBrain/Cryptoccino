@@ -1,84 +1,96 @@
 {
-  "generated": "2026-09-12T20:37:59.501179+00:00",
-  "ts": 1789245479,
+  "generated": "2026-09-12T23:04:53.663367+00:00",
+  "ts": 1789254293,
   "market": [
     {
-      "headline": "Base records $100M in daily DEX trading volume for tokenized stocks",
-      "take": "Base network reaches $100M daily DEX volume for tokenized stocks",
+      "headline": "Uniswap processes over $70B in monthly volume, surpassing next three DEXs combined",
+      "take": "Uniswap's $70B monthly volume exceeds next three DEXs combined",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-100m-dex-tokenized-stocks/"
+      "link": "https://cryptobriefing.com/uniswap-70b-volume-surpasses-dex-competitors/"
+    },
+    {
+      "headline": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+      "take": "Bitcoin must clear $81,700 resistance to confirm new bull market",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519"
     },
     {
       "headline": "ETF targeting inverse movements in XRP sets new launch date",
-      "take": "Inverse XRP ETF sets new launch date for bearish positioning",
+      "take": "Inverse XRP ETF sets new launch date amid market interest",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/teucrium-inverse-xrp-etf-new-launch-date/"
     },
     {
-      "headline": "Fed rate hikes unlikely due to rising interest payments, political factors: analyst",
-      "take": "Fed rate hikes unlikely given rising interest payments, political constraints",
+      "headline": "Base records $100M in daily DEX trading volume for tokenized stocks",
+      "take": "Base hits $100M daily DEX volume for tokenized stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hikes-unlikely-due-to-rising-interest-payments-political-factors/"
+      "link": "https://cryptobriefing.com/base-100m-dex-tokenized-stocks/"
     },
     {
-      "headline": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-      "take": "Institutional investors consider bitcoin as bond portfolio alternative amid AI surge",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma"
+      "headline": "Fed rate hikes unlikely due to rising interest payments, political factors: analyst",
+      "take": "Fed rate hikes unlikely due to rising interest payment burdens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-rate-hikes-unlikely-due-to-rising-interest-payments-political-factors/"
     }
   ],
   "business": [
     {
       "headline": "Coinbase aims to replicate USDC success with tokenized stocks",
-      "take": "Coinbase plans tokenized stocks product following USDC stablecoin success",
+      "take": "Coinbase aims to replicate USDC success with tokenized stocks",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-usdc-playbook/"
     },
     {
-      "headline": "X Layer\u2019s xStocks assets near $100M market cap in under three months",
-      "take": "X Layer's xStocks nears $100M market cap within three months",
+      "headline": "Coinbase exec: Traditional finance shifting focus to crypto integration",
+      "take": "Traditional finance firms shift strategic focus toward crypto integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/x-layer-xstocks-100m-market-cap/"
+      "link": "https://cryptobriefing.com/coinbase-exec-traditional-finance-shifting-focus-to-crypto-integration/"
+    },
+    {
+      "headline": "Anthropic in talks with Nvidia as anchor investor for potential $2 trillion IPO",
+      "take": "Anthropic in talks with Nvidia as anchor investor for IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-nvidia-record-ipo-talks/"
     },
     {
       "headline": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "take": "Ripple stablecoin chief identifies $13 trillion corporate treasury market opportunity",
+      "take": "Ripple stablecoin chief identifies $13 trillion corporate treasury opportunity",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd"
     },
     {
-      "headline": "Pump.fun introduces Holder Rewards and sunsets Cashback mode",
-      "take": "Pump.fun introduces Holder Rewards feature, discontinues Cashback mode",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-holder-rewards-cashback-deprecated/"
-    },
-    {
-      "headline": "Hey Wallet sunsets its products, impacting Solana users",
-      "take": "Hey Wallet sunsets products, affecting Solana ecosystem users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hey-wallet-sunsets-solana-products/"
+      "headline": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "take": "Bitcoin Suisse plans to cut half its Swiss jobs, shift work abroad",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad"
     }
   ],
   "security": [
     {
       "headline": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov\u2019t domain",
-      "take": "Revolut exposed customer KYC data, Bitcoin transactions via fake government request",
+      "take": "Revolut exposed customer KYC and Bitcoin data via fake government request",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516"
+    },
+    {
+      "headline": "OpenAI AI agents attempted RubyGems hack in May 2026: The Verge",
+      "take": "OpenAI AI agents attempted RubyGems hack in May 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-ai-agents-attempted-rubygems-hack-in-may-2026-the-verge/"
     }
   ],
   "policy": [
-    {
-      "headline": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
-      "take": "Crypto billionaires donate $97M to UK Reform party within 24 hours",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
     {
       "headline": "Andreessen Horowitz backs US crypto leadership amid CLARITY Act talks",
       "take": "Andreessen Horowitz backs US crypto leadership amid CLARITY Act discussions",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/andreessen-horowitz-backs-us-crypto-leadership-amid-clarity-act-talks/"
+    },
+    {
+      "headline": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "take": "Crypto billionaires donate $97M to Nigel Farage's Reform UK party",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours"
     }
   ]
 }

@@ -1,83 +1,71 @@
 {
-  "generated": "2026-09-11T23:19:18.067355+00:00",
-  "ts": 1789168758,
+  "generated": "2026-09-12T04:41:42.900194+00:00",
+  "ts": 1789188102,
   "market": [
     {
-      "headline": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-      "take": "Bitcoin and ether rise as inflation data leaves Fed rate outlook unchanged",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287"
+      "headline": "Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day",
+      "take": "Ethereum ETFs attract $216M while Bitcoin ETFs see $13M outflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-september/"
+    },
+    {
+      "headline": "Tokenized ETF deposits into DeFi venues surge 19x to $68M",
+      "take": "Tokenized ETF deposits into DeFi surge nineteenfold to $68 million",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-etf-deposits-defi-surge-68m/"
+    },
+    {
+      "headline": "Markets brace for series of Federal Reserve rate hikes by mid-2026: WSJ",
+      "take": "Markets price in Federal Reserve rate hikes expected by mid-2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/markets-brace-for-series-of-federal-reserve-rate-hikes-by-mid-2026-wsj/"
     },
     {
       "headline": "Ethereum climbs back into global top 100 assets by market cap",
-      "take": "Ethereum climbs back into global top 100 assets by market capitalization",
+      "take": "Ethereum climbs back into global top one hundred assets by market cap",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-rises-61st-global-market-cap-ranking/"
     },
     {
-      "headline": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
-      "take": "Bitcoin golden cross flickers off as rate-hike bets firm up",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off"
-    },
-    {
-      "headline": "RWAs reach $46B onchain market, led by US T-bills at $15B",
-      "take": "RWA market reaches $46B onchain, led by US Treasury bills at $15B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwas-46b-onchain-market-us-tbills/"
-    },
-    {
       "headline": "Robinhood Crypto Trading Volume Jumps 61% in August",
-      "take": "Robinhood crypto trading volume jumps 61 percent in August",
+      "take": "Robinhood crypto trading volume jumps sixty-one percent in August",
       "source": "decrypt",
       "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august"
     }
   ],
   "business": [
     {
-      "headline": "Nasdaq plans tokenized stocks with shareholder rights by 2027",
-      "take": "Nasdaq plans tokenized stocks with shareholder rights by 2027",
+      "headline": "$346B in tokenized assets now spans 47 different asset types",
+      "take": "Tokenized assets reach $346 billion across forty-seven different asset types",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-tokenized-stocks-shareholder-rights-2027/"
+      "link": "https://cryptobriefing.com/346b-tokenized-assets-47-types/"
     },
     {
-      "headline": "Circle\u2019s EURC goes live on Upbit, giving South Korean traders direct access to euros",
-      "take": "Circle's EURC stablecoin goes live on Upbit for South Korean euro access",
+      "headline": "Onchain equities surpass governance tokens in user engagement as tokenized stock trading explodes",
+      "take": "Onchain equities surpass governance tokens as tokenized stock trading explodes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-eurc-live-upbit-south-korea/"
+      "link": "https://cryptobriefing.com/onchain-equities-surpass-governance-tokens-engagement/"
     },
     {
-      "headline": "DraftKings\u2019 tokenized stock DKNG hits $39M in volume on Solana within three hours",
-      "take": "DraftKings tokenized stock DKNG hits $39M volume on Solana in three hours",
+      "headline": "Coinbase Wallet rolls out pulse mode for simpler perp trading",
+      "take": "Coinbase Wallet launches pulse mode for simplified perpetual futures trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/draftkings-tokenized-stock-solana-volume/"
+      "link": "https://cryptobriefing.com/coinbase-wallet-pulse-mode-perp-trading/"
+    },
+    {
+      "headline": "Discovery Loop seeks $50B valuation just weeks after launching at $10B",
+      "take": "Discovery Loop seeks $50 billion valuation weeks after launching at $10B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/discovery-loop-50b-valuation-ai-startup/"
     },
     {
       "headline": "Kalshi seeks US approval for single-stock perpetual futures on Tesla, Apple, and Nvidia",
-      "take": "Kalshi seeks US approval for single-stock perpetual futures on major companies",
+      "take": "Kalshi seeks approval for single-stock perpetual futures on major tech stocks",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/kalshi-single-stock-perpetual-futures-approval/"
-    },
-    {
-      "headline": "Mecka AI nears $500M valuation as new funding round takes shape",
-      "take": "Mecka AI nears $500M valuation in new funding round",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mecka-ai-500m-valuation-sequoia-funding/"
     }
   ],
   "security": [
-    {
-      "headline": "SlowMist details Liquid Network exploit, attacker mints 3,998 L-BTC in largest Bitcoin sidechain hack of 2026",
-      "take": "SlowMist details Liquid Network exploit, attacker mints 3,998 L-BTC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/liquid-network-exploit-slowmist-analysis/"
-    },
-    {
-      "headline": "AI hacking incidents expose fundamental flaws in oversight, experts warn",
-      "take": "AI hacking incidents expose fundamental flaws in oversight, experts warn",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-hacking-incidents-fundamental-flaws/"
-    },
     {
       "headline": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
       "take": "Cyberattacks on law firms nearly double as stolen documents hit dark web",
@@ -87,22 +75,16 @@
   ],
   "policy": [
     {
-      "headline": "US Treasury sanctions 27 Iranian airlines in sweeping \u2018Operation Economic Outcast\u2019",
-      "take": "US Treasury sanctions 27 Iranian airlines in Operation Economic Outcast",
+      "headline": "US House Ways and Means Committee sets Sept. 16 markup for crypto tax rules",
+      "take": "US House Ways and Means Committee sets September 16 markup for crypto tax rules",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-sanctions-iranian-airlines/"
+      "link": "https://cryptobriefing.com/house-ways-means-crypto-tax-markup/"
     },
     {
-      "headline": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-      "take": "OpenAI asks Congress whether an AI slowdown would be legal",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal"
-    },
-    {
-      "headline": "Trump\u2019s battery ban puts America\u2019s energy storage ambitions in a bind",
-      "take": "Trump's battery ban puts America's energy storage ambitions in question",
+      "headline": "CFTC approves automatic 30% whistleblower awards for cases under $5 million",
+      "take": "CFTC approves automatic thirty percent whistleblower awards for smaller cases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-battery-ban-energy-storage-china/"
+      "link": "https://cryptobriefing.com/cftc-whistleblower-30-percent-award-rule/"
     }
   ]
 }

@@ -1,90 +1,108 @@
 {
-  "generated": "2026-09-12T04:41:42.900194+00:00",
-  "ts": 1789188102,
+  "generated": "2026-09-12T10:54:10.334468+00:00",
+  "ts": 1789210450,
   "market": [
     {
       "headline": "Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day",
-      "take": "Ethereum ETFs attract $216M while Bitcoin ETFs see $13M outflows",
+      "take": "Ethereum ETFs gained $216M inflows while Bitcoin ETFs saw $13M outflows",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-september/"
     },
     {
-      "headline": "Tokenized ETF deposits into DeFi venues surge 19x to $68M",
-      "take": "Tokenized ETF deposits into DeFi surge nineteenfold to $68 million",
+      "headline": "BlackRock ETF clients purchase $149M in Ethereum as institutional appetite surges",
+      "take": "BlackRock ETF clients purchased $149M in Ethereum as institutional demand grows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-etf-deposits-defi-surge-68m/"
+      "link": "https://cryptobriefing.com/blackrock-etf-ethereum-149m-inflows/"
     },
-    {
-      "headline": "Markets brace for series of Federal Reserve rate hikes by mid-2026: WSJ",
-      "take": "Markets price in Federal Reserve rate hikes expected by mid-2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/markets-brace-for-series-of-federal-reserve-rate-hikes-by-mid-2026-wsj/"
-    },
-    {
-      "headline": "Ethereum climbs back into global top 100 assets by market cap",
-      "take": "Ethereum climbs back into global top one hundred assets by market cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-rises-61st-global-market-cap-ranking/"
-    },
-    {
-      "headline": "Robinhood Crypto Trading Volume Jumps 61% in August",
-      "take": "Robinhood crypto trading volume jumps sixty-one percent in August",
-      "source": "decrypt",
-      "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august"
-    }
-  ],
-  "business": [
     {
       "headline": "$346B in tokenized assets now spans 47 different asset types",
-      "take": "Tokenized assets reach $346 billion across forty-seven different asset types",
+      "take": "$346B in tokenized assets now span 47 different asset classes",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/346b-tokenized-assets-47-types/"
     },
     {
       "headline": "Onchain equities surpass governance tokens in user engagement as tokenized stock trading explodes",
-      "take": "Onchain equities surpass governance tokens as tokenized stock trading explodes",
+      "take": "Onchain equities surpass governance tokens as tokenized stock trading accelerates",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/onchain-equities-surpass-governance-tokens-engagement/"
     },
     {
+      "headline": "Markets brace for series of Federal Reserve rate hikes by mid-2026: WSJ",
+      "take": "Markets anticipate Federal Reserve rate hikes beginning mid-2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/markets-brace-for-series-of-federal-reserve-rate-hikes-by-mid-2026-wsj/"
+    }
+  ],
+  "business": [
+    {
       "headline": "Coinbase Wallet rolls out pulse mode for simpler perp trading",
-      "take": "Coinbase Wallet launches pulse mode for simplified perpetual futures trading",
+      "take": "Coinbase Wallet launches pulse mode feature for simplified perpetual trading",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-wallet-pulse-mode-perp-trading/"
     },
     {
-      "headline": "Discovery Loop seeks $50B valuation just weeks after launching at $10B",
-      "take": "Discovery Loop seeks $50 billion valuation weeks after launching at $10B",
+      "headline": "Fetch.ai releases A2A Outbound Adapter for seamless agent integration",
+      "take": "Fetch.ai releases A2A Outbound Adapter for agent integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/discovery-loop-50b-valuation-ai-startup/"
+      "link": "https://cryptobriefing.com/fetch-ai-a2a-outbound-adapter/"
     },
     {
-      "headline": "Kalshi seeks US approval for single-stock perpetual futures on Tesla, Apple, and Nvidia",
-      "take": "Kalshi seeks approval for single-stock perpetual futures on major tech stocks",
+      "headline": "Tesla builds largest grid battery in US at xAI\u2019s Memphis site",
+      "take": "Tesla builds largest grid battery in US at xAI Memphis facility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-single-stock-perpetual-futures-approval/"
+      "link": "https://cryptobriefing.com/tesla-largest-grid-battery-xai-memphis/"
+    },
+    {
+      "headline": "Meta\u2019s chief AI officer says AI agent swarm outperformed 100 engineers",
+      "take": "Meta AI chief reports agent swarms outperformed 100 human engineers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-ai-agent-swarm-outperforms-engineers/"
+    },
+    {
+      "headline": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "take": "Robinhood CEO opposes company veto over stock tokens in AMC dispute",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud"
     }
   ],
   "security": [
     {
-      "headline": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-      "take": "Cyberattacks on law firms nearly double as stolen documents hit dark web",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web"
+      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "take": "Revolut exposed Bitcoin activity and passport data via fake government request",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request"
+    },
+    {
+      "headline": "German authorities identify suspects in failed drone attack at Leipzig airport",
+      "take": "German authorities identify suspects in failed drone attack at Leipzig airport",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/german-suspects-drone-attack-leipzig-airport/"
     }
   ],
   "policy": [
     {
-      "headline": "US House Ways and Means Committee sets Sept. 16 markup for crypto tax rules",
-      "take": "US House Ways and Means Committee sets September 16 markup for crypto tax rules",
+      "headline": "Chinese entities gave Iran satellite images of air base before missile strike killed 3 US service members in Jordan: report",
+      "take": "China provided Iran satellite images before missile strike killing US troops",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-ways-means-crypto-tax-markup/"
+      "link": "https://cryptobriefing.com/chinese-entities-gave-iran-satellite-images-of-air-base-before-missile-strike/"
     },
     {
-      "headline": "CFTC approves automatic 30% whistleblower awards for cases under $5 million",
-      "take": "CFTC approves automatic thirty percent whistleblower awards for smaller cases",
+      "headline": "Iran asserts full control over Strait of Hormuz amidst US tensions",
+      "take": "Iran claims full control over Strait of Hormuz amid US tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-whistleblower-30-percent-award-rule/"
+      "link": "https://cryptobriefing.com/iran-asserts-full-control-over-strait-of-hormuz-amidst-us-tensions/"
+    },
+    {
+      "headline": "Donald Trump optimistic about resolving trade war with Canada",
+      "take": "Trump expresses optimism about resolving trade war with Canada",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-optimistic-canada-trade-deal/"
+    },
+    {
+      "headline": "Chinese AI firms snub US delegation over sanction concerns",
+      "take": "Chinese AI firms refuse meetings with US delegation over sanctions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chinese-ai-firms-snub-us-delegation-over-sanction-concerns/"
     }
   ]
 }

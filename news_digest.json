@@ -1,94 +1,100 @@
 {
-  "generated": "2026-09-12T23:04:53.663367+00:00",
-  "ts": 1789254293,
+  "generated": "2026-09-13T04:55:36.965403+00:00",
+  "ts": 1789275336,
   "market": [
     {
+      "headline": "Tokenized stocks traded over $1B on Solana, Robinhood Chain, BNB Chain, and Base during Labor Day weekend",
+      "take": "Tokenized stocks exceeded $1B in weekend trading across multiple blockchains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-stocks-labor-day-weekend-trading-volume/"
+    },
+    {
       "headline": "Uniswap processes over $70B in monthly volume, surpassing next three DEXs combined",
-      "take": "Uniswap's $70B monthly volume exceeds next three DEXs combined",
+      "take": "Uniswap monthly volume surpassed $70B, leading all decentralized exchanges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/uniswap-70b-volume-surpasses-dex-competitors/"
     },
     {
       "headline": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
-      "take": "Bitcoin must clear $81,700 resistance to confirm new bull market",
+      "take": "Bitcoin needs to clear $81,700 resistance to confirm new bull market",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519"
     },
     {
-      "headline": "ETF targeting inverse movements in XRP sets new launch date",
-      "take": "Inverse XRP ETF sets new launch date amid market interest",
+      "headline": "Korea Exchange extends trading hours to attract global investors",
+      "take": "Korea Exchange extends hours to compete for global investor participation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/teucrium-inverse-xrp-etf-new-launch-date/"
+      "link": "https://cryptobriefing.com/korea-exchange-extends-trading-hours-global-investors/"
     },
     {
-      "headline": "Base records $100M in daily DEX trading volume for tokenized stocks",
-      "take": "Base hits $100M daily DEX volume for tokenized stocks",
+      "headline": "Grayscale files to rename Litecoin Trust as Grayscale Litecoin Trust ETF",
+      "take": "Grayscale converting Litecoin Trust into ETF structure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-100m-dex-tokenized-stocks/"
-    },
-    {
-      "headline": "Fed rate hikes unlikely due to rising interest payments, political factors: analyst",
-      "take": "Fed rate hikes unlikely due to rising interest payment burdens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hikes-unlikely-due-to-rising-interest-payments-political-factors/"
+      "link": "https://cryptobriefing.com/grayscale-litecoin-trust-etf-filing/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase aims to replicate USDC success with tokenized stocks",
-      "take": "Coinbase aims to replicate USDC success with tokenized stocks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-usdc-playbook/"
-    },
-    {
       "headline": "Coinbase exec: Traditional finance shifting focus to crypto integration",
-      "take": "Traditional finance firms shift strategic focus toward crypto integration",
+      "take": "Traditional finance firms increasing focus on cryptocurrency integration strategies",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-exec-traditional-finance-shifting-focus-to-crypto-integration/"
     },
     {
       "headline": "Anthropic in talks with Nvidia as anchor investor for potential $2 trillion IPO",
-      "take": "Anthropic in talks with Nvidia as anchor investor for IPO",
+      "take": "Anthropic discussing Nvidia partnership for potential $2 trillion IPO valuation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-nvidia-record-ipo-talks/"
     },
     {
-      "headline": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "take": "Ripple stablecoin chief identifies $13 trillion corporate treasury opportunity",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd"
+      "headline": "AI firms boost hiring, funding amid sector boom; Anthropic eyes valuation rise",
+      "take": "AI sector hiring and funding accelerating amid industry expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-firms-boost-hiring-funding-amid-sector-boom-anthropic-eyes-valuation-rise/"
     },
     {
       "headline": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-      "take": "Bitcoin Suisse plans to cut half its Swiss jobs, shift work abroad",
+      "take": "Bitcoin Suisse cutting Swiss staff by half, relocating work internationally",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad"
     }
   ],
   "security": [
     {
-      "headline": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov\u2019t domain",
-      "take": "Revolut exposed customer KYC and Bitcoin data via fake government request",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516"
+      "headline": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+      "take": "Revolut exposed customer passports and Bitcoin histories via fake government requests",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach"
     },
     {
       "headline": "OpenAI AI agents attempted RubyGems hack in May 2026: The Verge",
-      "take": "OpenAI AI agents attempted RubyGems hack in May 2026",
+      "take": "OpenAI AI agents attempted unauthorized access to RubyGems repository in May",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-ai-agents-attempted-rubygems-hack-in-may-2026-the-verge/"
+    },
+    {
+      "headline": "Anthropic reports Iranian security units used AI to surveil opposition accounts",
+      "take": "Iranian security units used AI to surveil opposition accounts, Anthropic reports",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-reports-iranian-security-units-used-ai-to-surveil-opposition-accounts/"
     }
   ],
   "policy": [
     {
-      "headline": "Andreessen Horowitz backs US crypto leadership amid CLARITY Act talks",
-      "take": "Andreessen Horowitz backs US crypto leadership amid CLARITY Act discussions",
+      "headline": "Thailand SEC proposes daily cap on stablecoin transfers at $151K",
+      "take": "Thailand SEC proposing $151K daily cap on stablecoin transfers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/andreessen-horowitz-backs-us-crypto-leadership-amid-clarity-act-talks/"
+      "link": "https://cryptobriefing.com/thailand-sec-stablecoin-transfer-cap/"
+    },
+    {
+      "headline": "South Korea\u2019s expanded espionage law takes effect to protect chip technology",
+      "take": "South Korea's expanded espionage law effective to protect semiconductor technology",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-espionage-law-chip-technology/"
     },
     {
       "headline": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "take": "Crypto billionaires donate $97M to Nigel Farage's Reform UK party",
+      "take": "Reform UK receives $97M in crypto billionaire donations within 24 hours",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours"
     }

@@ -1,90 +1,84 @@
 {
-  "generated": "2026-09-13T16:24:44.539133+00:00",
-  "ts": 1789316684,
+  "generated": "2026-09-13T20:54:34.855903+00:00",
+  "ts": 1789332874,
   "market": [
     {
-      "headline": "$150M in crypto long positions liquidated in 24 hours: WhaleInsider",
-      "take": "Crypto long positions saw $150M liquidated in single 24-hour period",
+      "headline": "Bond selloff drives Treasury yield near 5%, raising fresh concerns about US borrowing costs",
+      "take": "Treasury yields near 5% as bond market sells off amid rate concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/150m-in-crypto-long-positions-liquidated-in-24-hours-whaleinsider/"
+      "link": "https://cryptobriefing.com/treasury-yield-near-5-percent-bond-selloff/"
     },
     {
-      "headline": "CME Group faces unusual position amid $93T trading boom",
-      "take": "CME Group navigates unusual position during $93T trading volume surge",
+      "headline": "Bitwise research finds 67% of wealth managers lack crypto allocation",
+      "take": "Two-thirds of wealth managers still lack cryptocurrency allocations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-group-93-trillion-trading-boom/"
+      "link": "https://cryptobriefing.com/bitwise-wealth-managers-crypto-allocation/"
     },
     {
-      "headline": "Fed reaffirms 2% inflation target amid speculation of rate hikes",
-      "take": "Federal Reserve reaffirms 2% inflation target amid rate hike speculation",
+      "headline": "Japan\u2019s rate hike is a foregone conclusion, but the yen may not get the memo",
+      "take": "Japan rate hike looms but yen response remains uncertain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-reaffirms-2-inflation-target-amid-speculation-of-rate-hikes/"
+      "link": "https://cryptobriefing.com/japan-boj-rate-hike-yen-impact/"
+    },
+    {
+      "headline": "Aerodrome leads in USDC transfer volume, says Circle CEO",
+      "take": "Aerodrome leads USDC transfer volume on emerging blockchains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aerodrome-leads-usdc-transfer-volume/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic secures $517B in AI compute deals with Amazon, Google over 10 years",
-      "take": "Anthropic secures $517B in AI compute deals with Amazon, Google",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-secures-517b-in-ai-compute-deals-with-amazon-google-over-10-years/"
-    },
-    {
-      "headline": "Base invites projects to tokenize non-US equities from global markets",
-      "take": "Base invites projects to tokenize non-US equities from global markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-tokenize-non-us-equities-global-markets/"
-    },
-    {
-      "headline": "TRATON selects Ripple Treasury to replace spreadsheet-based forecasting across Volkswagen\u2019s truck division",
-      "take": "Volkswagen truck division replaces spreadsheets with Ripple Treasury forecasting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/traton-selects-ripple-treasury-forecasting/"
-    },
-    {
       "headline": "Circle's $400M Tazapay deal buys emerging market links that take \u2018years to build\u2019",
-      "take": "Circle acquires Tazapay for $400M to strengthen emerging market payments",
+      "take": "Circle acquires Tazapay for $400M to expand emerging market payments",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build"
     },
     {
-      "headline": "Fomo surpasses Pump.fun in 7-day revenue as social trading gains ground on Solana",
-      "take": "Fomo surpasses Pump.fun in weekly revenue as Solana social trading grows",
+      "headline": "Hashcats minting slows, reducing buyback support for HASH",
+      "take": "Hashcats minting decline reduces HASH token buyback pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomo-surpasses-pumpfun-seven-day-revenue/"
+      "link": "https://cryptobriefing.com/hashcats-minting-slows-hash-buyback/"
     }
   ],
   "security": [
     {
+      "headline": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+      "take": "Mexico raids illegal crypto mining operation suspected of power theft",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564"
+    },
+    {
       "headline": "Revolut says customer data exposed through fake government email",
-      "take": "Revolut customer data exposed through fraudulent government email impersonation",
+      "take": "Revolut confirms customer data breach via fraudulent government email",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "AI agents are quietly dropping compliance rules, and bigger context windows won\u2019t fix it",
+      "take": "AI agents reportedly bypassing compliance rules at scale",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-agents-drop-compliance-rules-context-windows/"
     }
   ],
   "policy": [
     {
+      "headline": "Chuck Schumer calls Sunday caucus on crypto bill ahead of critical Senate vote",
+      "take": "Senate crypto bill enters critical vote phase as Schumer calls caucus",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/schumer-sunday-caucus-crypto-clarity-act/"
+    },
+    {
+      "headline": "77 state banking associations seek changes to CLARITY legislation to ban balance-based stablecoin rewards",
+      "take": "Banking groups push to block reward mechanisms in stablecoin regulation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/banking-associations-clarity-act-usdc-rewards/"
+    },
+    {
       "headline": "Crypto's Clarity Act is a Schr\u00f6dinger's cat in life-death limbo as U.S. Senate returns",
-      "take": "Crypto Clarity Act remains uncertain as U.S. Senate returns to session",
+      "take": "Clarity Act remains in legislative limbo as Senate reconvenes",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns"
-    },
-    {
-      "headline": "House Speaker Mike Johnson calls for meeting with AI leaders before legislation",
-      "take": "House Speaker Johnson calls meeting with AI leaders before drafting legislation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/johnson-ai-leaders-meeting-before-legislation/"
-    },
-    {
-      "headline": "Hakeem Jeffries launches House Democratic AI commission ahead of policy framework release",
-      "take": "House Democrats launch AI commission ahead of policy framework announcement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hakeem-jeffries-house-democratic-ai-commission/"
-    },
-    {
-      "headline": "David Sacks criticizes \u2018Pace The Frontier\u2019 initiative as regulatory capture",
-      "take": "David Sacks criticizes regulatory approach as industry capture risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sacks-criticizes-pace-frontier-regulatory-capture/"
     }
   ]
 }

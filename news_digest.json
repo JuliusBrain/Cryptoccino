@@ -1,84 +1,72 @@
 {
-  "generated": "2026-09-13T20:54:34.855903+00:00",
-  "ts": 1789332874,
+  "generated": "2026-09-13T23:12:49.869076+00:00",
+  "ts": 1789341169,
   "market": [
     {
+      "headline": "Federal Reserve faces 90% chance of rate hike by year-end, CME FedWatch shows",
+      "take": "Fed rate hike odds at 90% by year-end according to CME FedWatch tool",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-rate-hike-probability-bmo-2026/"
+    },
+    {
       "headline": "Bond selloff drives Treasury yield near 5%, raising fresh concerns about US borrowing costs",
-      "take": "Treasury yields near 5% as bond market sells off amid rate concerns",
+      "take": "Treasury yields approach 5% as bond selloff intensifies borrowing cost concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/treasury-yield-near-5-percent-bond-selloff/"
     },
     {
+      "headline": "Corporate America is racing to raise capital as Treasury yields flirt with 5%",
+      "take": "Corporate America racing to raise capital amid elevated Treasury yield environment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/corporate-capital-raising-treasury-yields/"
+    },
+    {
       "headline": "Bitwise research finds 67% of wealth managers lack crypto allocation",
-      "take": "Two-thirds of wealth managers still lack cryptocurrency allocations",
+      "take": "Bitwise finds 67% of wealth managers lack any cryptocurrency allocation currently",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitwise-wealth-managers-crypto-allocation/"
-    },
-    {
-      "headline": "Japan\u2019s rate hike is a foregone conclusion, but the yen may not get the memo",
-      "take": "Japan rate hike looms but yen response remains uncertain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-boj-rate-hike-yen-impact/"
-    },
-    {
-      "headline": "Aerodrome leads in USDC transfer volume, says Circle CEO",
-      "take": "Aerodrome leads USDC transfer volume on emerging blockchains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-leads-usdc-transfer-volume/"
     }
   ],
   "business": [
     {
       "headline": "Circle's $400M Tazapay deal buys emerging market links that take \u2018years to build\u2019",
-      "take": "Circle acquires Tazapay for $400M to expand emerging market payments",
+      "take": "Circle acquires Tazapay for $400M to strengthen emerging market payment links",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build"
     },
     {
-      "headline": "Hashcats minting slows, reducing buyback support for HASH",
-      "take": "Hashcats minting decline reduces HASH token buyback pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hashcats-minting-slows-hash-buyback/"
+      "headline": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+      "take": "Mexican authorities raid hidden crypto mining operation suspected of theft and laundering",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564"
     }
   ],
   "security": [
     {
-      "headline": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
-      "take": "Mexico raids illegal crypto mining operation suspected of power theft",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564"
-    },
-    {
-      "headline": "Revolut says customer data exposed through fake government email",
-      "take": "Revolut confirms customer data breach via fraudulent government email",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "AI agents are quietly dropping compliance rules, and bigger context windows won\u2019t fix it",
-      "take": "AI agents reportedly bypassing compliance rules at scale",
+      "headline": "Symbiosis recovers 15 BTC after Bitcoin Bridge exploit, offers attacker 20% bounty",
+      "take": "Symbiosis recovers 15 BTC from Bitcoin Bridge exploit, offers attacker 20% bounty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-agents-drop-compliance-rules-context-windows/"
+      "link": "https://cryptobriefing.com/symbiosis-bitcoin-bridge-exploit-bounty-recovery/"
     }
   ],
   "policy": [
     {
-      "headline": "Chuck Schumer calls Sunday caucus on crypto bill ahead of critical Senate vote",
-      "take": "Senate crypto bill enters critical vote phase as Schumer calls caucus",
+      "headline": "Senate to vote on CLARITY Act for the first time on Tuesday",
+      "take": "Senate to vote on CLARITY Act cryptocurrency regulation bill for first time Tuesday",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/schumer-sunday-caucus-crypto-clarity-act/"
+      "link": "https://cryptobriefing.com/senate-clarity-act-vote-tuesday/"
+    },
+    {
+      "headline": "House Ways and Means Committee Republicans consider dropping crypto tax provisions",
+      "take": "House Republicans consider dropping crypto tax provisions from pending legislation package",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/house-republicans-crypto-tax-provisions-mining-staking/"
     },
     {
       "headline": "77 state banking associations seek changes to CLARITY legislation to ban balance-based stablecoin rewards",
-      "take": "Banking groups push to block reward mechanisms in stablecoin regulation",
+      "take": "State banking associations seek CLARITY amendments banning balance-based stablecoin rewards",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/banking-associations-clarity-act-usdc-rewards/"
-    },
-    {
-      "headline": "Crypto's Clarity Act is a Schr\u00f6dinger's cat in life-death limbo as U.S. Senate returns",
-      "take": "Clarity Act remains in legislative limbo as Senate reconvenes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns"
     }
   ]
 }

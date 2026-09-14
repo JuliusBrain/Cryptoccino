@@ -1,96 +1,101 @@
 {
-  "generated": "2026-09-14T12:57:57.270574+00:00",
-  "ts": 1789390677,
+  "generated": "2026-09-14T19:51:50.456840+00:00",
+  "ts": 1789415510,
   "market": [
     {
-      "headline": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-      "take": "Bitcoin climbs to $78,000 as crypto outperforms amid tech stock weakness",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff"
+      "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+      "take": "Bitcoin rises as chip stocks fall on AI slowdown concerns",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks"
     },
     {
-      "headline": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-      "take": "Dogecoin ETFs struggle while XRP and Solana funds attract $3 billion",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion"
-    },
-    {
-      "headline": "Morgan Stanley\u2019s Hornbach expects 25 basis-point Fed rate hike at September FOMC meeting",
-      "take": "Morgan Stanley expects 25 basis-point Fed rate hike at September meeting",
+      "headline": "AI-linked stocks plunge as industry leaders warn of risks from unchecked development",
+      "take": "AI-linked stocks plunge amid industry warnings of unchecked development risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-hornbach-fed-rate-hike-september/"
+      "link": "https://cryptobriefing.com/ai-stocks-plunge-industry-leaders-warn-risks/"
     },
     {
-      "headline": "JPMorgan strategists warn of swift decline as oil tops $100",
-      "take": "JPMorgan strategists warn of swift decline as oil tops $100",
+      "headline": "Fed prepares for potential interest rate hike under Kevin Warsh\u2019s leadership",
+      "take": "Fed prepares for potential interest rate hike under Kevin Warsh",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-oil-price-decline-warning/"
+      "link": "https://cryptobriefing.com/fed-prepares-for-potential-interest-rate-hike-under-kevin-warshs-leadership/"
+    },
+    {
+      "headline": "Strategy\u2019s $139M preferred-stock buyback draws attention as MSTR rises 4%",
+      "take": "MicroStrategy's $139M stock buyback draws attention as shares rise 4%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-139m-preferred-stock-buyback-mstr/"
+    },
+    {
+      "headline": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
+      "take": "Bitcoin mining production rebounds in August across major operators",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660"
     }
   ],
   "business": [
     {
-      "headline": "Bitdeer Technologies signs 10-year AI cloud deal in Malaysia with $1.1B annual revenue as Bitcoin miner pivots toward AI",
-      "take": "Bitdeer signs 10-year AI cloud deal in Malaysia worth $1.1B annually",
+      "headline": "CoreWeave\u2019s $2B Nvidia partnership could lift GPU maker\u2019s stock as AI infrastructure race heats up",
+      "take": "CoreWeave's $2B Nvidia partnership accelerates GPU infrastructure competition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitdeer-6b-ai-cloud-deal-malaysia/"
+      "link": "https://cryptobriefing.com/coreweave-nvidia-partnership-ai-infrastructure/"
     },
     {
-      "headline": "Strive buys additional 469 Bitcoin, pushing total holdings to 25,000 BTC",
-      "take": "Strive buys 469 additional Bitcoin, total holdings now reach 25,000 BTC",
+      "headline": "OpenAI acquires smartphone camera startup Glass Imaging for more than $300M",
+      "take": "OpenAI acquires Glass Imaging smartphone camera startup for over $300M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-25000-bitcoin-treasury-purchase/"
+      "link": "https://cryptobriefing.com/openai-acquires-glass-imaging-300m/"
     },
     {
-      "headline": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
-      "take": "India begins tokenizing its $620 billion corporate bond market",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market"
+      "headline": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "take": "Trump's $800M World Liberty Financial stake gains timeline to become sellable",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable"
     },
     {
-      "headline": "Linea partners with Consensys to enhance Ethereum adoption after major corporate restructuring",
-      "take": "Linea partners with Consensys to enhance Ethereum adoption",
+      "headline": "Crossover Markets clears over $2B in trades through BitGo\u2019s Go Network",
+      "take": "Crossover Markets clears over $2B in trades via BitGo's network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/linea-consensys-ethereum-adoption-partnership/"
+      "link": "https://cryptobriefing.com/crossover-markets-2b-bitgo-go-network/"
     },
     {
-      "headline": "Kaiko extends Series B to $110 million with S&P Global-led investment",
-      "take": "Kaiko extends Series B funding to $110 million with S&P Global",
+      "headline": "NYSE signs MOU with Korea Exchange to enhance global market access",
+      "take": "NYSE signs MOU with Korea Exchange to enhance global market access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kaiko-funding-round-110m-sp-global/"
+      "link": "https://cryptobriefing.com/nyse-korea-exchange-mou-global-market-access/"
     }
   ],
-  "security": [
-    {
-      "headline": "EU mandates 24-hour reporting for crypto wallet vulnerabilities under Cyber Resilience Act",
-      "take": "EU mandates 24-hour reporting for crypto wallet vulnerabilities",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-crypto-wallet-vulnerability-reporting/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
-      "take": "Trump agrees to stricter ethics rules to advance Clarity Act crypto bill",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap"
+      "headline": "UK regulators to develop tokenization roadmap after industry feedback",
+      "take": "UK regulators to develop tokenization roadmap following industry input",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "FCA considers exempting tokenized gold from fund rules to defend London market",
-      "take": "FCA considers exempting tokenized gold from fund rules",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market"
-    },
-    {
-      "headline": "US modifies sanctions policy, targets more sectors in Iran: IRNA",
-      "take": "US modifies sanctions policy, targets additional sectors in Iran",
+      "headline": "House Financial Services Committee to mark up Strategic Bitcoin Reserve bill on Wednesday",
+      "take": "House Financial Services Committee to mark up Strategic Bitcoin Reserve bill",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-modifies-sanctions-policy-targets-more-sectors-in-iran-irna/"
+      "link": "https://cryptobriefing.com/house-committee-strategic-bitcoin-reserve-bill/"
     },
     {
-      "headline": "Germany plans economic-security measures to protect industries from China",
-      "take": "Germany plans economic-security measures to protect industries from China",
+      "headline": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+      "take": "CLARITY Act faces state attorneys general opposition before Senate vote",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "White House crypto adviser feels \u2018very good\u2019 ahead of Senate Clarity Act vote on Tuesday",
+      "take": "White House crypto adviser optimistic ahead of Senate Clarity Act vote",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702"
+    },
+    {
+      "headline": "Elizabeth Warren opposes GOP\u2019s crypto ethics deal endorsed by White House",
+      "take": "Elizabeth Warren opposes GOP crypto ethics deal endorsed by White House",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/germany-economic-security-china-tariffs/"
+      "link": "https://cryptobriefing.com/warren-opposes-gop-crypto-ethics-deal/"
     }
   ]
 }

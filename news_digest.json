@@ -1,72 +1,96 @@
 {
-  "generated": "2026-09-14T05:03:39.159873+00:00",
-  "ts": 1789362219,
+  "generated": "2026-09-14T12:57:57.270574+00:00",
+  "ts": 1789390677,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs see $462M in net selling as Fed decision looms",
-      "take": "Spot Bitcoin ETFs see $462M in net selling as Fed decision approaches",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-462m-outflows-fed-rate-hike/"
+      "headline": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "take": "Bitcoin climbs to $78,000 as crypto outperforms amid tech stock weakness",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff"
     },
     {
-      "headline": "Goldman Sachs expects Fed to hike rates 25bp next week due to market pressures",
-      "take": "Goldman Sachs expects Fed rate hike next week amid market pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-expects-fed-to-hike-rates-25bp-next-week-due-to-market-pressures/"
+      "headline": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "take": "Dogecoin ETFs struggle while XRP and Solana funds attract $3 billion",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion"
     },
     {
-      "headline": "Copper edges lower as US inflation boosts bets on Federal Reserve rate hikes",
-      "take": "Copper edges lower as US inflation boosts Fed rate hike expectations",
+      "headline": "Morgan Stanley\u2019s Hornbach expects 25 basis-point Fed rate hike at September FOMC meeting",
+      "take": "Morgan Stanley expects 25 basis-point Fed rate hike at September meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/copper-falls-us-inflation-fed-rate-hike/"
+      "link": "https://cryptobriefing.com/morgan-stanley-hornbach-fed-rate-hike-september/"
+    },
+    {
+      "headline": "JPMorgan strategists warn of swift decline as oil tops $100",
+      "take": "JPMorgan strategists warn of swift decline as oil tops $100",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-oil-price-decline-warning/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic expects second straight profitable quarter ahead of potential Nasdaq IPO valued at $2 trillion, per FT",
-      "take": "Anthropic expects second straight profitable quarter, potential $2T Nasdaq IPO",
+      "headline": "Bitdeer Technologies signs 10-year AI cloud deal in Malaysia with $1.1B annual revenue as Bitcoin miner pivots toward AI",
+      "take": "Bitdeer signs 10-year AI cloud deal in Malaysia worth $1.1B annually",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-expects-second-straight-profitable-quarter-ahead-of-potential-nasdaq/"
+      "link": "https://cryptobriefing.com/bitdeer-6b-ai-cloud-deal-malaysia/"
     },
     {
-      "headline": "Robinhood aims for underwriting success with Oura IPO",
-      "take": "Robinhood aims for underwriting success with Oura IPO",
+      "headline": "Strive buys additional 469 Bitcoin, pushing total holdings to 25,000 BTC",
+      "take": "Strive buys 469 additional Bitcoin, total holdings now reach 25,000 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-underwriting-oura-ipo/"
+      "link": "https://cryptobriefing.com/strive-25000-bitcoin-treasury-purchase/"
     },
     {
-      "headline": "Zhipu AI returns to Hong Kong equity market after lockup, raises $4B in massive placement",
-      "take": "Zhipu AI raises $4B in Hong Kong equity placement after lockup",
+      "headline": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+      "take": "India begins tokenizing its $620 billion corporate bond market",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market"
+    },
+    {
+      "headline": "Linea partners with Consensys to enhance Ethereum adoption after major corporate restructuring",
+      "take": "Linea partners with Consensys to enhance Ethereum adoption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zhipu-ai-hong-kong-lockup-placement/"
+      "link": "https://cryptobriefing.com/linea-consensys-ethereum-adoption-partnership/"
+    },
+    {
+      "headline": "Kaiko extends Series B to $110 million with S&P Global-led investment",
+      "take": "Kaiko extends Series B funding to $110 million with S&P Global",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kaiko-funding-round-110m-sp-global/"
     }
   ],
   "security": [
     {
-      "headline": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
-      "take": "Symbiosis recovered 15 BTC after Bitcoin bridge exploit, offers bounty",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568"
-    },
-    {
-      "headline": "Department of Homeland Security is analyzing Americans\u2019 financial activity and prompting police stops",
-      "take": "DHS analyzing Americans' financial activity and prompting police stops",
+      "headline": "EU mandates 24-hour reporting for crypto wallet vulnerabilities under Cyber Resilience Act",
+      "take": "EU mandates 24-hour reporting for crypto wallet vulnerabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dhs-financial-surveillance-pitt-program/"
+      "link": "https://cryptobriefing.com/eu-crypto-wallet-vulnerability-reporting/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate to vote on Crypto Clarity Act, defining SEC and CFTC roles",
-      "take": "Senate to vote on Crypto Clarity Act defining SEC and CFTC roles",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-to-vote-on-crypto-clarity-act-defining-sec-and-cftc-roles/"
+      "headline": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "take": "Trump agrees to stricter ethics rules to advance Clarity Act crypto bill",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap"
     },
     {
-      "headline": "Senate Republicans release \u2018final\u2019 Clarity Act draft as Trump accepts most ethics provisions",
-      "take": "Senate Republicans release final Clarity Act draft with ethics provisions",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575"
+      "headline": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "take": "FCA considers exempting tokenized gold from fund rules",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market"
+    },
+    {
+      "headline": "US modifies sanctions policy, targets more sectors in Iran: IRNA",
+      "take": "US modifies sanctions policy, targets additional sectors in Iran",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-modifies-sanctions-policy-targets-more-sectors-in-iran-irna/"
+    },
+    {
+      "headline": "Germany plans economic-security measures to protect industries from China",
+      "take": "Germany plans economic-security measures to protect industries from China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/germany-economic-security-china-tariffs/"
     }
   ]
 }

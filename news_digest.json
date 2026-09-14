@@ -1,101 +1,96 @@
 {
-  "generated": "2026-09-14T19:51:50.456840+00:00",
-  "ts": 1789415510,
+  "generated": "2026-09-14T23:53:42.263850+00:00",
+  "ts": 1789430022,
   "market": [
     {
-      "headline": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-      "take": "Bitcoin rises as chip stocks fall on AI slowdown concerns",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks"
-    },
-    {
-      "headline": "AI-linked stocks plunge as industry leaders warn of risks from unchecked development",
-      "take": "AI-linked stocks plunge amid industry warnings of unchecked development risks",
+      "headline": "Nearly $17B in Bitcoin and Ethereum options set for 2026 Q3 expiry",
+      "take": "Nearly $17B in Bitcoin and Ethereum options expire in Q3 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-stocks-plunge-industry-leaders-warn-risks/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-options-q3-2026-expiry/"
     },
     {
-      "headline": "Fed prepares for potential interest rate hike under Kevin Warsh\u2019s leadership",
-      "take": "Fed prepares for potential interest rate hike under Kevin Warsh",
+      "headline": "Morgan Stanley reiterates Bitcoin\u2019s digital gold thesis in new research",
+      "take": "Morgan Stanley maintains Bitcoin's digital gold thesis in recent research",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-prepares-for-potential-interest-rate-hike-under-kevin-warshs-leadership/"
+      "link": "https://cryptobriefing.com/morgan-stanley-bitcoin-digital-gold-thesis/"
     },
     {
-      "headline": "Strategy\u2019s $139M preferred-stock buyback draws attention as MSTR rises 4%",
-      "take": "MicroStrategy's $139M stock buyback draws attention as shares rise 4%",
+      "headline": "Sterling falls to one-month low as dollar strengthens from oil price surge",
+      "take": "Sterling hits one-month low as dollar strengthens from oil surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-139m-preferred-stock-buyback-mstr/"
+      "link": "https://cryptobriefing.com/sterling-falls-dollar-strengthens-oil-surge/"
     },
     {
-      "headline": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
-      "take": "Bitcoin mining production rebounds in August across major operators",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660"
+      "headline": "Fed Chair Warsh signals potential policy shift amid persistent inflation",
+      "take": "Fed Chair Warsh signals potential policy shift amid persistent inflation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-signals-potential-policy-shift-amid-persistent-inflation/"
+    },
+    {
+      "headline": "BofA shares slide after CEO warns of flat trading revenue",
+      "take": "BofA shares slide after CEO warns of flat trading revenue",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-america-flat-trading-revenue-q3/"
     }
   ],
   "business": [
     {
-      "headline": "CoreWeave\u2019s $2B Nvidia partnership could lift GPU maker\u2019s stock as AI infrastructure race heats up",
-      "take": "CoreWeave's $2B Nvidia partnership accelerates GPU infrastructure competition",
+      "headline": "USDC surpasses $100T in all-time on-chain transaction volume",
+      "take": "USDC surpasses $100 trillion in all-time on-chain transaction volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-nvidia-partnership-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/usdc-100-trillion-transaction-volume/"
     },
     {
-      "headline": "OpenAI acquires smartphone camera startup Glass Imaging for more than $300M",
-      "take": "OpenAI acquires Glass Imaging smartphone camera startup for over $300M",
+      "headline": "Circle and Tether emerge as key beneficiaries of the neobank boom",
+      "take": "Circle and Tether emerge as key beneficiaries of neobank boom",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-acquires-glass-imaging-300m/"
+      "link": "https://cryptobriefing.com/circle-tether-neobank-stablecoin-boom/"
     },
     {
-      "headline": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
-      "take": "Trump's $800M World Liberty Financial stake gains timeline to become sellable",
+      "headline": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "take": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Colosseum launches Crypto World\u2019s Fair hackathon with $800K in prizes and $2.5M in funding",
+      "take": "Colosseum launches hackathon with $800K prizes and $2.5M funding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/colosseum-crypto-worlds-fair-hackathon/"
+    },
+    {
+      "headline": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "take": "Robinhood plans share redemptions and voting rights for stock tokens",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable"
-    },
-    {
-      "headline": "Crossover Markets clears over $2B in trades through BitGo\u2019s Go Network",
-      "take": "Crossover Markets clears over $2B in trades via BitGo's network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crossover-markets-2b-bitgo-go-network/"
-    },
-    {
-      "headline": "NYSE signs MOU with Korea Exchange to enhance global market access",
-      "take": "NYSE signs MOU with Korea Exchange to enhance global market access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nyse-korea-exchange-mou-global-market-access/"
+      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Peru Economy Ministry\u2019s X account hacked by crypto scammers promoting fake token",
+      "take": "Peru Economy Ministry X account hacked by crypto scammers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/peru-economy-ministry-x-hacked-crypto-scam/"
+    }
+  ],
   "policy": [
     {
-      "headline": "UK regulators to develop tokenization roadmap after industry feedback",
-      "take": "UK regulators to develop tokenization roadmap following industry input",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "take": "SEC's Atkins backs Clarity Act but vows to push crypto rules anyway",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it"
     },
     {
-      "headline": "House Financial Services Committee to mark up Strategic Bitcoin Reserve bill on Wednesday",
-      "take": "House Financial Services Committee to mark up Strategic Bitcoin Reserve bill",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-committee-strategic-bitcoin-reserve-bill/"
+      "headline": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "take": "Senator Lummis says Democrats won't stop demanding more on Clarity Act",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act"
     },
     {
-      "headline": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
-      "take": "CLARITY Act faces state attorneys general opposition before Senate vote",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "White House crypto adviser feels \u2018very good\u2019 ahead of Senate Clarity Act vote on Tuesday",
-      "take": "White House crypto adviser optimistic ahead of Senate Clarity Act vote",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702"
-    },
-    {
-      "headline": "Elizabeth Warren opposes GOP\u2019s crypto ethics deal endorsed by White House",
-      "take": "Elizabeth Warren opposes GOP crypto ethics deal endorsed by White House",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warren-opposes-gop-crypto-ethics-deal/"
+      "headline": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+      "take": "Trade groups demand stricter stablecoin limits in Clarity Act",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote"
     }
   ]
 }

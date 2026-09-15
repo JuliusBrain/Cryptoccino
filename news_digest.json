@@ -1,102 +1,114 @@
 {
-  "generated": "2026-09-15T11:51:16.753170+00:00",
-  "ts": 1789473076,
+  "generated": "2026-09-15T17:05:12.346428+00:00",
+  "ts": 1789491912,
   "market": [
     {
-      "headline": "Ethereum ETF inflows of $445M surpass Bitcoin\u2019s $467M in September",
-      "take": "Ethereum ETF inflows surpassed Bitcoin's in September, shifting capital flows",
+      "headline": "Spot BTC, ETH, and SOL ETFs see record inflows amid macro pressures",
+      "take": "Spot BTC, ETH, SOL ETFs see record inflows amid macro pressures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-etf-inflows-surpass-bitcoin-september/"
+      "link": "https://cryptobriefing.com/spot-btc-eth-sol-etfs-record-inflows/"
     },
     {
-      "headline": "$146M in long positions liquidated from crypto market in 24 hours",
-      "take": "$146M in crypto long positions liquidated in single day",
+      "headline": "XRP implied volatility curve shifts 18 points at 3-day tenor, signaling sharp repricing in options market",
+      "take": "XRP implied volatility shifts 18 points, signaling sharp repricing in options",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/146m-crypto-long-liquidations-24-hours/"
+      "link": "https://cryptobriefing.com/xrp-implied-volatility-shift-options-market/"
     },
     {
-      "headline": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
-      "take": "Bitcoin retreats as Clarity Act legislative odds decline on prediction markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket"
-    },
-    {
-      "headline": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
-      "take": "Standard Chartered projects Arbitrum reaching $10 by end-2030",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821"
-    },
-    {
-      "headline": "10-year Treasury yield, highest since 2007",
-      "take": "10-year Treasury yield hits highest level since 2007",
+      "headline": "Bitcoin and gold touted as hedges against currency debasement as US debt tops $40 trillion",
+      "take": "Bitcoin and gold touted as hedges against currency debasement as debt tops $40T",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/10-year-treasury-yield-highest-since-2007/"
+      "link": "https://cryptobriefing.com/bitcoin-gold-hedges-currency-debasement/"
+    },
+    {
+      "headline": "Federal Reserve\u2019s $15.6 billion in reinvestment purchases over three weeks is not the liquidity event you think it is",
+      "take": "Federal Reserve's $15.6B reinvestment purchases over three weeks assessed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-reinvestment-purchases-not-liquidity-injection/"
+    },
+    {
+      "headline": "Treasury yields approach inflection point, signaling volatility shift",
+      "take": "Treasury yields approach inflection point, signaling potential volatility shift",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/treasury-yields-inflection-point-volatility/"
     }
   ],
   "business": [
     {
-      "headline": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-      "take": "Velocity raises $48M Series A at $200M valuation with major fintech backing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple"
-    },
-    {
-      "headline": "Binance launches ETF Wealth Management on Binance Earn, bridging crypto and traditional finance",
-      "take": "Binance launches ETF wealth management product on Earn platform",
+      "headline": "Factory raises $200M at $5B valuation, tripling in five months",
+      "take": "Factory raises $200M at $5B valuation, tripling in five months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-etf-wealth-management-launch/"
+      "link": "https://cryptobriefing.com/factory-200m-raise-5b-valuation/"
     },
     {
-      "headline": "Tonkeeper rebrands as Keeper with support for Bitcoin, Ethereum, and more",
-      "take": "Tonkeeper rebrands as Keeper, expanding to Bitcoin and Ethereum support",
+      "headline": "X expands cashtags with trading access through Coinbase, Kraken and Interactive Brokers",
+      "take": "X expands cashtags with trading access through Coinbase, Kraken, Interactive Brokers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tonkeeper-rebrands-as-keeper-with-support-for-bitcoin-ethereum-and-more/"
+      "link": "https://cryptobriefing.com/cashtag-trading-links-program/"
     },
     {
-      "headline": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-      "take": "Solana Treasury firm deploys $300M CHAD fund to accumulate SOL",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378183/solana-defi-development-corp-chad"
-    },
-    {
-      "headline": "Grab acquires 60% of Atome Financial for $1.49B to expand lending across Southeast Asia",
-      "take": "Grab acquires 60% of Atome Financial for $1.49B expansion",
+      "headline": "ETHSecurity Initiatives launches Round Two with $600K Vyper grant and sharper funding focus",
+      "take": "ETHSecurity Initiatives launches Round Two with $600K Vyper grant",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grab-acquires-atome-financial-lending-expansion/"
+      "link": "https://cryptobriefing.com/ethsecurity-round-two-onchain-security/"
+    },
+    {
+      "headline": "Arc names MetaMask as default wallet for seamless onboarding",
+      "take": "Arc names MetaMask as default wallet for seamless onboarding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arc-metamask-default-wallet-onboarding/"
+    },
+    {
+      "headline": "Ramp expands to UK in first major international move",
+      "take": "Ramp expands to UK in first major international move",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ramp-expands-uk-international-launch/"
     }
   ],
   "security": [
     {
-      "headline": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-      "take": "Coding error allowed hacker to drain $7.8 million from crypto wallet",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet"
+      "headline": "Suspected Robinhood engineers flagged in crypto insider trading scheme on Hyperliquid",
+      "take": "Suspected Robinhood engineers flagged in crypto insider trading on Hyperliquid",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-engineers-crypto-insider-trading-hyperliquid/"
+    },
+    {
+      "headline": "CFTC Secures Court Order Directing Florida Man to Pay Over $6 Million for Options Fraud and Imposing Trading Bans",
+      "take": "CFTC secures court order against Florida man for $6M+ options fraud",
+      "source": "cftc_enforcement",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9299-26"
     }
   ],
   "policy": [
     {
-      "headline": "House lawmakers unveil crypto tax bill with $10 fee exemption ahead of markup",
-      "take": "House lawmakers propose crypto tax bill with $10 fee exemption threshold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-crypto-tax-bill-markup/"
-    },
-    {
-      "headline": "US House crypto tax package omits mining, staking reward deferral",
-      "take": "House crypto tax package excludes mining and staking reward deferral provisions",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-      "take": "Ether and Solana poised to benefit if Clarity Act advances legislatively",
+      "headline": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+      "take": "Clarity Act's passage odds plunge as Republicans reject Democrats' counter-proposal",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses"
+      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal"
     },
     {
-      "headline": "Chris Land leads negotiations on Senate cryptocurrency bill",
-      "take": "Chris Land leads Senate negotiations on comprehensive cryptocurrency legislation",
+      "headline": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
+      "take": "Crypto's de minimis tax break gets House markup consideration this week",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains"
+    },
+    {
+      "headline": "US House to consider crypto tax exemption bill, stablecoin regulations",
+      "take": "US House to consider crypto tax exemption bill and stablecoin regulations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chris-land-senate-crypto-bill-negotiations/"
+      "link": "https://cryptobriefing.com/us-house-to-consider-crypto-tax-exemption-bill-stablecoin-regulations/"
+    },
+    {
+      "headline": "Kalshi ordered to remove AI-compute futures product by US Commerce Department",
+      "take": "Kalshi ordered to remove AI-compute futures product by US Commerce Department",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-ai-compute-futures-commerce-department/"
+    },
+    {
+      "headline": "White House: Stablecoin yield ban would boost bank lending by just 0.02%",
+      "take": "White House: stablecoin yield ban would boost bank lending by just 0.02%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/white-house-stablecoin-yield-ban-bank-lending/"
     }
   ]
 }

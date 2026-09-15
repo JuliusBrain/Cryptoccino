@@ -1,96 +1,102 @@
 {
-  "generated": "2026-09-15T05:00:29.601199+00:00",
-  "ts": 1789448429,
+  "generated": "2026-09-15T11:51:16.753170+00:00",
+  "ts": 1789473076,
   "market": [
     {
-      "headline": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-      "take": "Bitcoin slips to $77,800 as regulatory uncertainty and oil prices weigh",
+      "headline": "Ethereum ETF inflows of $445M surpass Bitcoin\u2019s $467M in September",
+      "take": "Ethereum ETF inflows surpassed Bitcoin's in September, shifting capital flows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-etf-inflows-surpass-bitcoin-september/"
+    },
+    {
+      "headline": "$146M in long positions liquidated from crypto market in 24 hours",
+      "take": "$146M in crypto long positions liquidated in single day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/146m-crypto-long-liquidations-24-hours/"
+    },
+    {
+      "headline": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+      "take": "Bitcoin retreats as Clarity Act legislative odds decline on prediction markets",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb"
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket"
     },
     {
-      "headline": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
-      "take": "Solana transactions expanded 3.3x, offering practical throughput advantage over Ethereum",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum"
+      "headline": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
+      "take": "Standard Chartered projects Arbitrum reaching $10 by end-2030",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821"
     },
     {
-      "headline": "Uniswap Labs\u2019 stable pair hook becomes highest volume pool on Ethereum",
-      "take": "Uniswap's stable pair hook became Ethereum's highest volume pool",
+      "headline": "10-year Treasury yield, highest since 2007",
+      "take": "10-year Treasury yield hits highest level since 2007",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-stable-pair-hook-highest-volume-ethereum/"
-    },
-    {
-      "headline": "XStocks surpasses $1B in DEX trading volume as SPYx drives tokenized equity boom on Solana",
-      "take": "Tokenized equities on Solana surpass $1B in DEX volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xstocks-1b-dex-volume-spyx/"
-    },
-    {
-      "headline": "Tokenized gold hits $5.1B but represents less than 0.02% of the $30.1T gold market",
-      "take": "Tokenized gold reaches $5.1B but remains negligible share of market",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-gold-5b-onchain-30t-market/"
+      "link": "https://cryptobriefing.com/10-year-treasury-yield-highest-since-2007/"
     }
   ],
   "business": [
     {
-      "headline": "Thailand\u2019s dominant e-wallet TrueMoney partners with Fireblocks to embed THBT wallet in its app",
-      "take": "Thailand's TrueMoney partners Fireblocks to embed THBT wallet in app",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/truemoney-fireblocks-thbt-embedded-wallet/"
+      "headline": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "take": "Velocity raises $48M Series A at $200M valuation with major fintech backing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple"
     },
     {
-      "headline": "CoinEx to cease operations and shut down exchange by December 22",
-      "take": "CoinEx announces complete shutdown effective December 22",
+      "headline": "Binance launches ETF Wealth Management on Binance Earn, bridging crypto and traditional finance",
+      "take": "Binance launches ETF wealth management product on Earn platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinex-cease-exchange-operations-december/"
+      "link": "https://cryptobriefing.com/binance-etf-wealth-management-launch/"
     },
     {
-      "headline": "BlackRock\u2019s digital assets chief to speak at Bitcoin Treasuries Conference in New York City",
-      "take": "BlackRock's digital assets chief speaking at Bitcoin Treasuries Conference",
+      "headline": "Tonkeeper rebrands as Keeper with support for Bitcoin, Ethereum, and more",
+      "take": "Tonkeeper rebrands as Keeper, expanding to Bitcoin and Ethereum support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-treasuries-conference-nyc/"
+      "link": "https://cryptobriefing.com/tonkeeper-rebrands-as-keeper-with-support-for-bitcoin-ethereum-and-more/"
     },
     {
-      "headline": "ARK Invest sells $65M in shares of Circle, Coinbase and others",
-      "take": "ARK Invest divests $65M from Circle, Coinbase and others",
+      "headline": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+      "take": "Solana Treasury firm deploys $300M CHAD fund to accumulate SOL",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378183/solana-defi-development-corp-chad"
+    },
+    {
+      "headline": "Grab acquires 60% of Atome Financial for $1.49B to expand lending across Southeast Asia",
+      "take": "Grab acquires 60% of Atome Financial for $1.49B expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-sells-64m-crypto-holdings/"
+      "link": "https://cryptobriefing.com/grab-acquires-atome-financial-lending-expansion/"
     }
   ],
   "security": [
     {
-      "headline": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance",
-      "take": "US DOJ seeks $61M in crypto from illicit Iranian oil sales on Binance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768"
-    },
-    {
-      "headline": "Kyrgyzstan\u2019s central bank taps CertiK for digital som security and oversight",
-      "take": "Kyrgyzstan central bank engages CertiK for digital currency security oversight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kyrgyzstans-central-bank-taps-certik-for-digital-som-security-and-oversight/"
+      "headline": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "take": "Coding error allowed hacker to drain $7.8 million from crypto wallet",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet"
     }
   ],
   "policy": [
     {
-      "headline": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "take": "Democrats counter Republicans on Clarity Act provisions amid ongoing negotiations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions"
+      "headline": "House lawmakers unveil crypto tax bill with $10 fee exemption ahead of markup",
+      "take": "House lawmakers propose crypto tax bill with $10 fee exemption threshold",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/house-crypto-tax-bill-markup/"
     },
     {
-      "headline": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-      "take": "US House panel shares crypto tax bill ahead of scheduled hearing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week"
+      "headline": "US House crypto tax package omits mining, staking reward deferral",
+      "take": "House crypto tax package excludes mining and staking reward deferral provisions",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
-      "take": "SEC's Atkins backs Clarity Act but signals continued regulatory push either way",
+      "headline": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+      "take": "Ether and Solana poised to benefit if Clarity Act advances legislatively",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it"
+      "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses"
+    },
+    {
+      "headline": "Chris Land leads negotiations on Senate cryptocurrency bill",
+      "take": "Chris Land leads Senate negotiations on comprehensive cryptocurrency legislation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chris-land-senate-crypto-bill-negotiations/"
     }
   ]
 }

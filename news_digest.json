@@ -1,114 +1,90 @@
 {
-  "generated": "2026-09-15T17:05:12.346428+00:00",
-  "ts": 1789491912,
+  "generated": "2026-09-15T21:26:45.580795+00:00",
+  "ts": 1789507605,
   "market": [
     {
-      "headline": "Spot BTC, ETH, and SOL ETFs see record inflows amid macro pressures",
-      "take": "Spot BTC, ETH, SOL ETFs see record inflows amid macro pressures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-btc-eth-sol-etfs-record-inflows/"
+      "headline": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+      "take": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "XRP implied volatility curve shifts 18 points at 3-day tenor, signaling sharp repricing in options market",
-      "take": "XRP implied volatility shifts 18 points, signaling sharp repricing in options",
+      "headline": "S&P 500 and Nasdaq close at lowest levels in over a month as oil and yields bite",
+      "take": "S&P 500 and Nasdaq close at lowest levels in over a month",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-implied-volatility-shift-options-market/"
+      "link": "https://cryptobriefing.com/sp500-nasdaq-lowest-month-oil-yields/"
     },
     {
-      "headline": "Bitcoin and gold touted as hedges against currency debasement as US debt tops $40 trillion",
-      "take": "Bitcoin and gold touted as hedges against currency debasement as debt tops $40T",
+      "headline": "Wells Fargo cuts S&P 500 target to 7,700 and warns of a 10% pullback",
+      "take": "Wells Fargo cuts S&P 500 target to 7,700, warns of 10% pullback",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-gold-hedges-currency-debasement/"
+      "link": "https://cryptobriefing.com/wells-fargo-cuts-sp500-target-7700-pullback-warning/"
     },
     {
-      "headline": "Federal Reserve\u2019s $15.6 billion in reinvestment purchases over three weeks is not the liquidity event you think it is",
-      "take": "Federal Reserve's $15.6B reinvestment purchases over three weeks assessed",
+      "headline": "FOMC meeting expected to result in first rate hike since 2023: Bloomberg",
+      "take": "FOMC meeting expected to result in first rate hike since 2023",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-reinvestment-purchases-not-liquidity-injection/"
-    },
-    {
-      "headline": "Treasury yields approach inflection point, signaling volatility shift",
-      "take": "Treasury yields approach inflection point, signaling potential volatility shift",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-yields-inflection-point-volatility/"
+      "link": "https://cryptobriefing.com/fomc-meeting-expected-to-result-in-first-rate-hike-since-2023-bloomberg/"
     }
   ],
   "business": [
     {
-      "headline": "Factory raises $200M at $5B valuation, tripling in five months",
-      "take": "Factory raises $200M at $5B valuation, tripling in five months",
+      "headline": "OranjeBTC launches world\u2019s first Bitcoin-backed digital credit ETF on Brazil\u2019s B3 exchange",
+      "take": "OranjeBTC launches world's first Bitcoin-backed digital credit ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/factory-200m-raise-5b-valuation/"
+      "link": "https://cryptobriefing.com/oranjebtc-bitcoin-etf-b3-launch/"
     },
     {
-      "headline": "X expands cashtags with trading access through Coinbase, Kraken and Interactive Brokers",
-      "take": "X expands cashtags with trading access through Coinbase, Kraken, Interactive Brokers",
+      "headline": "Reality tokenizes 1,700 US stocks for Bitget Wallet users",
+      "take": "Reality tokenizes 1,700 US stocks for Bitget Wallet users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cashtag-trading-links-program/"
+      "link": "https://cryptobriefing.com/realityfi-tokenizes-1700-us-stocks-bitget-wallet/"
     },
     {
-      "headline": "ETHSecurity Initiatives launches Round Two with $600K Vyper grant and sharper funding focus",
-      "take": "ETHSecurity Initiatives launches Round Two with $600K Vyper grant",
+      "headline": "Grove Basin enables instant stablecoin liquidity for tokenized treasuries",
+      "take": "Grove Basin enables instant stablecoin liquidity for tokenized treasuries",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethsecurity-round-two-onchain-security/"
+      "link": "https://cryptobriefing.com/grove-basin-stablecoin-liquidity-tokenized-treasuries/"
     },
     {
-      "headline": "Arc names MetaMask as default wallet for seamless onboarding",
-      "take": "Arc names MetaMask as default wallet for seamless onboarding",
+      "headline": "Anthropic partners with BlackRock to integrate AI in financial services",
+      "take": "Anthropic partners with BlackRock to integrate AI in financial services",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arc-metamask-default-wallet-onboarding/"
+      "link": "https://cryptobriefing.com/anthropic-partners-with-blackrock-to-integrate-ai-in-financial-services/"
     },
     {
-      "headline": "Ramp expands to UK in first major international move",
-      "take": "Ramp expands to UK in first major international move",
+      "headline": "0x calls Uniswap v4 hooks a mistake after finding 54% are malicious, Hayden Adams pushes back",
+      "take": "0x reports 54% of Uniswap v4 hooks are malicious, debate ensues",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ramp-expands-uk-international-launch/"
+      "link": "https://cryptobriefing.com/0x-criticizes-uniswap-v4-hooks-malicious/"
     }
   ],
   "security": [
     {
-      "headline": "Suspected Robinhood engineers flagged in crypto insider trading scheme on Hyperliquid",
-      "take": "Suspected Robinhood engineers flagged in crypto insider trading on Hyperliquid",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-engineers-crypto-insider-trading-hyperliquid/"
-    },
-    {
-      "headline": "CFTC Secures Court Order Directing Florida Man to Pay Over $6 Million for Options Fraud and Imposing Trading Bans",
-      "take": "CFTC secures court order against Florida man for $6M+ options fraud",
-      "source": "cftc_enforcement",
-      "link": "https://www.cftc.gov/PressRoom/PressReleases/9299-26"
+      "headline": "AI Agents Are Gambling With Our (Crypto) Lives",
+      "take": "AI agents are gambling with crypto, raising systemic risk concerns",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/ai-agents-are-gambling-with-our-crypto-lives"
     }
   ],
   "policy": [
     {
-      "headline": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
-      "take": "Clarity Act's passage odds plunge as Republicans reject Democrats' counter-proposal",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal"
+      "headline": "\u2018This one stings\u2019: Clarity Act fails procedural Senate vote \u2014 is crypto\u2019s biggest regulatory push dead?",
+      "take": "Clarity Act fails procedural Senate vote, crypto's major regulatory push stalls",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135"
     },
     {
-      "headline": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
-      "take": "Crypto's de minimis tax break gets House markup consideration this week",
+      "headline": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+      "take": "Coinbase-backed group warns of potential midterm payback after Clarity Act fails",
       "source": "decrypt",
-      "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains"
+      "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act"
     },
     {
-      "headline": "US House to consider crypto tax exemption bill, stablecoin regulations",
-      "take": "US House to consider crypto tax exemption bill and stablecoin regulations",
+      "headline": "Bernie Sanders, Steve Bannon unite to call for AI restrictions",
+      "take": "Bernie Sanders and Steve Bannon unite to call for AI restrictions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-house-to-consider-crypto-tax-exemption-bill-stablecoin-regulations/"
-    },
-    {
-      "headline": "Kalshi ordered to remove AI-compute futures product by US Commerce Department",
-      "take": "Kalshi ordered to remove AI-compute futures product by US Commerce Department",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-ai-compute-futures-commerce-department/"
-    },
-    {
-      "headline": "White House: Stablecoin yield ban would boost bank lending by just 0.02%",
-      "take": "White House: stablecoin yield ban would boost bank lending by just 0.02%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-stablecoin-yield-ban-bank-lending/"
+      "link": "https://cryptobriefing.com/sanders-bannon-unite-ai-restrictions/"
     }
   ]
 }

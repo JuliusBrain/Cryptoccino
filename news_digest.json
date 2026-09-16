@@ -1,90 +1,66 @@
 {
-  "generated": "2026-09-15T21:26:45.580795+00:00",
-  "ts": 1789507605,
+  "generated": "2026-09-16T04:56:04.593029+00:00",
+  "ts": 1789534564,
   "market": [
     {
-      "headline": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "take": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "take": "Crypto longs worth $570M liquidated as regulatory clarity bill fails",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails"
     },
     {
-      "headline": "S&P 500 and Nasdaq close at lowest levels in over a month as oil and yields bite",
-      "take": "S&P 500 and Nasdaq close at lowest levels in over a month",
+      "headline": "Marathon Digital Holdings buys 1,292 Bitcoin for $98.6M",
+      "take": "Marathon Digital Holdings acquires 1,292 Bitcoin for $98.6M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp500-nasdaq-lowest-month-oil-yields/"
+      "link": "https://cryptobriefing.com/marathon-digital-buys-1292-bitcoin-99-million/"
     },
     {
-      "headline": "Wells Fargo cuts S&P 500 target to 7,700 and warns of a 10% pullback",
-      "take": "Wells Fargo cuts S&P 500 target to 7,700, warns of 10% pullback",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wells-fargo-cuts-sp500-target-7700-pullback-warning/"
-    },
-    {
-      "headline": "FOMC meeting expected to result in first rate hike since 2023: Bloomberg",
-      "take": "FOMC meeting expected to result in first rate hike since 2023",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomc-meeting-expected-to-result-in-first-rate-hike-since-2023-bloomberg/"
+      "headline": "Bitcoin Under Renewed Pressure as Looming Fed Hike Adds to Woes",
+      "take": "Bitcoin faces pressure amid expectations of Federal Reserve rate increase",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes"
     }
   ],
   "business": [
     {
-      "headline": "OranjeBTC launches world\u2019s first Bitcoin-backed digital credit ETF on Brazil\u2019s B3 exchange",
-      "take": "OranjeBTC launches world's first Bitcoin-backed digital credit ETF",
+      "headline": "Aave proposes Aave V4 loans against Bitcoin held with Anchorage",
+      "take": "Aave proposes V4 protocol enabling loans collateralized by Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oranjebtc-bitcoin-etf-b3-launch/"
+      "link": "https://cryptobriefing.com/aave-custodied-collateral-lending-institutions/"
     },
     {
-      "headline": "Reality tokenizes 1,700 US stocks for Bitget Wallet users",
-      "take": "Reality tokenizes 1,700 US stocks for Bitget Wallet users",
+      "headline": "SPAC Circle Acquisition reportedly files for $150M IPO targeting digital assets, tech, and healthcare",
+      "take": "SPAC Circle Acquisition files for $150M IPO in digital assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/realityfi-tokenizes-1700-us-stocks-bitget-wallet/"
+      "link": "https://cryptobriefing.com/spac-circle-acquisition-150m-ipo-filing/"
     },
     {
-      "headline": "Grove Basin enables instant stablecoin liquidity for tokenized treasuries",
-      "take": "Grove Basin enables instant stablecoin liquidity for tokenized treasuries",
+      "headline": "Cipher Digital secures 3.2 GW of conditional ERCOT classifications across Texas projects",
+      "take": "Cipher Digital secures 3.2 GW conditional ERCOT capacity in Texas",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grove-basin-stablecoin-liquidity-tokenized-treasuries/"
-    },
-    {
-      "headline": "Anthropic partners with BlackRock to integrate AI in financial services",
-      "take": "Anthropic partners with BlackRock to integrate AI in financial services",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-partners-with-blackrock-to-integrate-ai-in-financial-services/"
-    },
-    {
-      "headline": "0x calls Uniswap v4 hooks a mistake after finding 54% are malicious, Hayden Adams pushes back",
-      "take": "0x reports 54% of Uniswap v4 hooks are malicious, debate ensues",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/0x-criticizes-uniswap-v4-hooks-malicious/"
+      "link": "https://cryptobriefing.com/cipher-digital-ercot-3gw-conditional-classification/"
     }
   ],
   "security": [
     {
-      "headline": "AI Agents Are Gambling With Our (Crypto) Lives",
-      "take": "AI agents are gambling with crypto, raising systemic risk concerns",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/ai-agents-are-gambling-with-our-crypto-lives"
+      "headline": "South Korean retail traders report $250M fraud losses in H1 2026",
+      "take": "South Korean retail traders lose $250M to fraud schemes in 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-retail-fraud-losses-h1-2026/"
     }
   ],
   "policy": [
     {
-      "headline": "\u2018This one stings\u2019: Clarity Act fails procedural Senate vote \u2014 is crypto\u2019s biggest regulatory push dead?",
-      "take": "Clarity Act fails procedural Senate vote, crypto's major regulatory push stalls",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135"
-    },
-    {
-      "headline": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-      "take": "Coinbase-backed group warns of potential midterm payback after Clarity Act fails",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act"
-    },
-    {
-      "headline": "Bernie Sanders, Steve Bannon unite to call for AI restrictions",
-      "take": "Bernie Sanders and Steve Bannon unite to call for AI restrictions",
+      "headline": "Senate fails to advance Clarity Act, leaving crypto\u2019s $2.3 trillion industry in regulatory limbo",
+      "take": "Senate fails to advance Clarity Act, leaving crypto industry without regulatory framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sanders-bannon-unite-ai-restrictions/"
+      "link": "https://cryptobriefing.com/senate-fails-advance-clarity-act-crypto/"
+    },
+    {
+      "headline": "California wealth tax measure Proposition 40 holds narrow lead in poll",
+      "take": "California's wealth tax proposition holds narrow polling lead before election",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/california-wealth-tax-measure-proposition-40-holds-narrow-lead-in-poll/"
     }
   ]
 }

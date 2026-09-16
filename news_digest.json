@@ -1,84 +1,102 @@
 {
-  "generated": "2026-09-16T11:44:48.069407+00:00",
-  "ts": 1789559088,
+  "generated": "2026-09-16T17:05:19.840190+00:00",
+  "ts": 1789578319,
   "market": [
     {
-      "headline": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
-      "take": "Bitcoin holds near $76,000 as spot ETF outflows surge following Clarity Act failure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision"
-    },
-    {
-      "headline": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
-      "take": "Bitcoin loses correlation with Dollar Index ahead of Federal Reserve decision",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed"
-    },
-    {
-      "headline": "Bitcoin\u2019s Coinbase premium sinks to one-month low as US buying interest fades",
-      "take": "Coinbase Bitcoin premium sinks to one-month low as US buying interest weakens",
+      "headline": "Solana surpasses Binance, Coinbase, and Kraken in spot asset volume",
+      "take": "Solana spot volume surpasses major centralized exchange competitors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-coinbase-premium-one-month-low/"
+      "link": "https://cryptobriefing.com/solana-surpasses-coinbase-kraken-spot-volume/"
     },
     {
-      "headline": "Base sees $104M in DEX volume for deSPXA, ranking second among stock tokens",
-      "take": "Base DEX sees $104M volume for deSPXA, ranks second among stock tokens",
+      "headline": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+      "take": "Bitcoin ETFs declined sharply after Clarity Act vote failure",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote"
+    },
+    {
+      "headline": "Tether Gold Loans Swell With $1.5 Billion for US Bullion Dealer",
+      "take": "Tether Gold lending expands with $1.5B in bullion dealer loans",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/tether-gold-loans-swell-with-1-5-billion-for-us-bullion-dealer"
+    },
+    {
+      "headline": "Phoenix Trade introduces SOL as collateral for perpetual positions",
+      "take": "Phoenix Trade enables SOL collateral for perpetual derivative positions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-despxa-dex-volume-stock-tokens/"
+      "link": "https://cryptobriefing.com/phoenix-trade-sol-collateral-perpetuals/"
+    },
+    {
+      "headline": "How to read the Fed\u2019s dot plot projections and why crypto traders should care",
+      "take": "Fed dot plot projections carry significance for crypto market sentiment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/how-to-read-fed-dot-plot-projections/"
     }
   ],
   "business": [
     {
-      "headline": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
-      "take": "Circle launches Arc mainnet with BlackRock, Visa as founding validators, 10B tokens minted",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250"
-    },
-    {
-      "headline": "Payward plans to bring onchain perps to US clients through Hyperliquid HIP-3*",
-      "take": "Payward plans onchain perpetuals for US clients through Hyperliquid integration",
+      "headline": "BitGo opens Brazilian subsidiary as tokenization reshapes the country\u2019s capital markets",
+      "take": "BitGo launches Brazil subsidiary as tokenization reshapes capital markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-payward-hip3-us-markets/"
+      "link": "https://cryptobriefing.com/bitgo-brazil-tokenization-capital-markets/"
     },
     {
-      "headline": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-      "take": "Two Prime launches $10M-backed Bitcoin yield vault for onchain finance",
+      "headline": "Circle\u2019s x402 Facilitator Service goes live on Arc, supports Base and Polygon PoS",
+      "take": "Circle's x402 Facilitator Service goes live on Arc mainnet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-x402-facilitator-service-arc-launch/"
+    },
+    {
+      "headline": "Anchorage Digital Bank expands custody to Etherlink and tokenized uranium",
+      "take": "Anchorage Digital expands custody offerings to Etherlink and tokenized uranium",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anchorage-digital-etherlink-tokenized-uranium-custody/"
+    },
+    {
+      "headline": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+      "take": "Circle Arc mainnet launches with major validators including BlackRock and DTCC",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators"
+    },
+    {
+      "headline": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+      "take": "Payward to offer onchain perpetual futures on Hyperliquid for US clients",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault"
-    },
-    {
-      "headline": "Blockfusion signs 15-year lease with unnamed AI customer at Niagara Falls campus",
-      "take": "Blockfusion signs 15-year lease with unnamed AI customer at Niagara Falls",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockfusion-coreweave-niagara-falls-ai-lease/"
-    },
-    {
-      "headline": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
-      "take": "Deutsche Bank plans Bitcoin and Ether custody for European institutional clients",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251"
+      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid"
     }
   ],
   "security": [
     {
-      "headline": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "take": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "headline": "Celsius sues BitMEX over alleged $495 million Bitcoin fraud and asset seizure",
+      "take": "Celsius sues BitMEX alleging $495M Bitcoin fraud and asset seizure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/celsius-sues-bitmex-495m-before-shutdown/"
+    },
+    {
+      "headline": "Hamas\u2019 military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "take": "Hamas military wing directs donors away from Binance to alternatives",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals"
+      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead"
     }
   ],
   "policy": [
     {
-      "headline": "Congress debates crypto tax exemption, Bitcoin reserve bills",
-      "take": "Congress debates crypto tax exemption and Bitcoin reserve bills",
+      "headline": "SEC to set crypto rules with or without new laws, says Chair Atkins",
+      "take": "SEC Chair signals intent to set crypto rules with or without Congress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/congress-debates-crypto-tax-exemption-bitcoin-reserve-bills/"
+      "link": "https://cryptobriefing.com/sec-to-set-crypto-rules-with-or-without-new-laws-says-chair-atkins/"
     },
     {
-      "headline": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-      "take": "UK backs money laundering crackdown with $676M funding and 500 new officers",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers"
+      "headline": "US House committee advances crypto tax bill",
+      "take": "US House committee advances crypto tax bill following Clarity Act defeat",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-house-committee-advances-crypto-tax-bill/"
+    },
+    {
+      "headline": "JPMorgan says Clarity Act \u2018not fully dead,\u2019 but passage window \u2018extremely narrow\u2019",
+      "take": "JPMorgan notes Clarity Act passage window remains extremely narrow",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280"
     }
   ]
 }

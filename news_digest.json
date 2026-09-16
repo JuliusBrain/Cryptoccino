@@ -1,66 +1,84 @@
 {
-  "generated": "2026-09-16T04:56:04.593029+00:00",
-  "ts": 1789534564,
+  "generated": "2026-09-16T11:44:48.069407+00:00",
+  "ts": 1789559088,
   "market": [
     {
-      "headline": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-      "take": "Crypto longs worth $570M liquidated as regulatory clarity bill fails",
+      "headline": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
+      "take": "Bitcoin holds near $76,000 as spot ETF outflows surge following Clarity Act failure",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails"
+      "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision"
     },
     {
-      "headline": "Marathon Digital Holdings buys 1,292 Bitcoin for $98.6M",
-      "take": "Marathon Digital Holdings acquires 1,292 Bitcoin for $98.6M",
+      "headline": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+      "take": "Bitcoin loses correlation with Dollar Index ahead of Federal Reserve decision",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed"
+    },
+    {
+      "headline": "Bitcoin\u2019s Coinbase premium sinks to one-month low as US buying interest fades",
+      "take": "Coinbase Bitcoin premium sinks to one-month low as US buying interest weakens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/marathon-digital-buys-1292-bitcoin-99-million/"
+      "link": "https://cryptobriefing.com/bitcoin-coinbase-premium-one-month-low/"
     },
     {
-      "headline": "Bitcoin Under Renewed Pressure as Looming Fed Hike Adds to Woes",
-      "take": "Bitcoin faces pressure amid expectations of Federal Reserve rate increase",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes"
+      "headline": "Base sees $104M in DEX volume for deSPXA, ranking second among stock tokens",
+      "take": "Base DEX sees $104M volume for deSPXA, ranks second among stock tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-despxa-dex-volume-stock-tokens/"
     }
   ],
   "business": [
     {
-      "headline": "Aave proposes Aave V4 loans against Bitcoin held with Anchorage",
-      "take": "Aave proposes V4 protocol enabling loans collateralized by Bitcoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-custodied-collateral-lending-institutions/"
+      "headline": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
+      "take": "Circle launches Arc mainnet with BlackRock, Visa as founding validators, 10B tokens minted",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250"
     },
     {
-      "headline": "SPAC Circle Acquisition reportedly files for $150M IPO targeting digital assets, tech, and healthcare",
-      "take": "SPAC Circle Acquisition files for $150M IPO in digital assets",
+      "headline": "Payward plans to bring onchain perps to US clients through Hyperliquid HIP-3*",
+      "take": "Payward plans onchain perpetuals for US clients through Hyperliquid integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spac-circle-acquisition-150m-ipo-filing/"
+      "link": "https://cryptobriefing.com/hyperliquid-payward-hip3-us-markets/"
     },
     {
-      "headline": "Cipher Digital secures 3.2 GW of conditional ERCOT classifications across Texas projects",
-      "take": "Cipher Digital secures 3.2 GW conditional ERCOT capacity in Texas",
+      "headline": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "take": "Two Prime launches $10M-backed Bitcoin yield vault for onchain finance",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault"
+    },
+    {
+      "headline": "Blockfusion signs 15-year lease with unnamed AI customer at Niagara Falls campus",
+      "take": "Blockfusion signs 15-year lease with unnamed AI customer at Niagara Falls",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cipher-digital-ercot-3gw-conditional-classification/"
+      "link": "https://cryptobriefing.com/blockfusion-coreweave-niagara-falls-ai-lease/"
+    },
+    {
+      "headline": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+      "take": "Deutsche Bank plans Bitcoin and Ether custody for European institutional clients",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251"
     }
   ],
   "security": [
     {
-      "headline": "South Korean retail traders report $250M fraud losses in H1 2026",
-      "take": "South Korean retail traders lose $250M to fraud schemes in 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-retail-fraud-losses-h1-2026/"
+      "headline": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "take": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals"
     }
   ],
   "policy": [
     {
-      "headline": "Senate fails to advance Clarity Act, leaving crypto\u2019s $2.3 trillion industry in regulatory limbo",
-      "take": "Senate fails to advance Clarity Act, leaving crypto industry without regulatory framework",
+      "headline": "Congress debates crypto tax exemption, Bitcoin reserve bills",
+      "take": "Congress debates crypto tax exemption and Bitcoin reserve bills",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-fails-advance-clarity-act-crypto/"
+      "link": "https://cryptobriefing.com/congress-debates-crypto-tax-exemption-bitcoin-reserve-bills/"
     },
     {
-      "headline": "California wealth tax measure Proposition 40 holds narrow lead in poll",
-      "take": "California's wealth tax proposition holds narrow polling lead before election",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-wealth-tax-measure-proposition-40-holds-narrow-lead-in-poll/"
+      "headline": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+      "take": "UK backs money laundering crackdown with $676M funding and 500 new officers",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers"
     }
   ]
 }

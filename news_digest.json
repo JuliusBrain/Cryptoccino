@@ -1,102 +1,96 @@
 {
-  "generated": "2026-09-16T21:22:57.243150+00:00",
-  "ts": 1789593777,
+  "generated": "2026-09-17T04:58:41.590600+00:00",
+  "ts": 1789621121,
   "market": [
     {
-      "headline": "Fed hikes rates for first time since 2023, signals more increases ahead",
-      "take": "Fed raises rates first time since 2023, signals additional hikes coming",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomc-rate-hike-september-2026/"
+      "headline": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed\u2019s first hike since 2023",
+      "take": "Zcash and major tokens rise despite Fed's first rate hike since 2023",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023"
     },
     {
-      "headline": "Galaxy Research reports $5.7B crypto VC funding rebound in Q2 2026",
-      "take": "Crypto VC funding rebounds to $5.7B in Q2 2026, showing sector recovery",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-vc-funding-rebound-q2-2026/"
+      "headline": "Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation",
+      "take": "Bitcoin and ether swing after unanimous quarter-point Fed rate hike",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307"
     },
     {
-      "headline": "Bitcoin Hit by \u2018Double Whammy\u2019 of Bill Rejection, Rate Hike",
-      "take": "Bitcoin pressured by bill rejection and Fed rate hike in tandem",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-faces-double-whammy-after-bill-rejection-rate-hike"
+      "headline": "Oil tops $100, US fuel prices hit record highs amid Middle East tensions",
+      "take": "Oil tops $100, US fuel prices hit record highs amid tensions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-tops-100-us-fuel-prices-hit-record-highs-amid-middle-east-tensions/"
+    },
+    {
+      "headline": "Goldman pivots, now forecasts Fed rate hike in October",
+      "take": "Goldman Sachs now forecasts Fed rate hike in October",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october"
     }
   ],
   "business": [
     {
-      "headline": "Bitcoin Strategic Reserve bill heads to US House committee markup vote",
-      "take": "Bitcoin Strategic Reserve bill advances to House committee markup vote",
+      "headline": "Dunamu partners with Kazakhstan\u2019s Alatau City on digital finance push worth $6B",
+      "take": "Dunamu partners with Kazakhstan on digital finance initiative worth $6B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-strategic-reserve-bill-house-committee/"
+      "link": "https://cryptobriefing.com/dunamu-kazakhstan-alatau-city-digital-finance-mou/"
     },
     {
-      "headline": "COTI launches Privacy-on-Demand and Privacy Portal on Avalanche",
-      "take": "COTI launches privacy features and portal on Avalanche network",
+      "headline": "Guy Young builds Ethena Pay neobank to deliver yield directly to users",
+      "take": "Ethena Pay neobank launches to deliver yield directly to users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coti-privacy-on-demand-privacy-portal-avalanche/"
+      "link": "https://cryptobriefing.com/ethena-pay-neobank-yield-usd/"
     },
     {
-      "headline": "Avalanche Foundation outlines AVAX tokenomics framework at Summit 2026",
-      "take": "Avalanche Foundation releases AVAX tokenomics framework at annual summit",
+      "headline": "Column expands offerings to compete with Mastercard and Marqeta in stablecoin card issuing",
+      "take": "Column expands stablecoin card offerings to compete with Mastercard",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-avax-tokenomics-summit-2026/"
+      "link": "https://cryptobriefing.com/column-stablecoin-card-issuing-mastercard-marqeta/"
     },
     {
-      "headline": "Grok Voice launches on fal, enabling low-latency AI voice agents for developers",
-      "take": "Grok Voice enables low-latency AI voice agents for developers",
+      "headline": "Ethena CEO discusses USDe\u2019s shift to AAA-rated collateral",
+      "take": "Ethena USDe shifts to AAA-rated collateral for stability",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-voice-launches-fal-low-latency-ai-agents/"
-    },
-    {
-      "headline": "Banks arrange $22B chip loan connected to Blackstone and Alphabet in record AI infrastructure deal",
-      "take": "Banks arrange record $22B chip loan for AI infrastructure expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/banks-22b-chip-loan-blackstone-alphabet/"
+      "link": "https://cryptobriefing.com/ethena-usde-aaa-rated-collateral-shift/"
     }
   ],
   "security": [
     {
-      "headline": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-      "take": "Revolut hackers demand $3M in Monero, threaten customer data sale",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data"
-    },
-    {
       "headline": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-      "take": "OpenAI found rogue AI agents probing Hugging Face before breach",
+      "take": "OpenAI's rogue AI agents probed Hugging Face two months before hack",
       "source": "decrypt",
       "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack"
     }
   ],
   "policy": [
     {
+      "headline": "House committee moves to codify Trump\u2019s Strategic Bitcoin Reserve",
+      "take": "House committee moves to codify Trump's Strategic Bitcoin Reserve",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317"
+    },
+    {
+      "headline": "\u2018Not the end\u2019: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
+      "take": "Democrats say they remain committed to passing Clarity Act",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326"
+    },
+    {
+      "headline": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+      "take": "CLARITY Act could get another shot during lame-duck session",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
       "headline": "UK banks continue blocking crypto payments as FCA license deadline looms",
-      "take": "UK banks block crypto payments as FCA license deadline approaches",
+      "take": "UK banks continue blocking crypto payments as FCA deadline looms",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/uk-banks-continue-blocking-crypto-payments-as-fca-license-deadline-looms/"
     },
     {
       "headline": "American Reserve Modernization Act of 2026 advances to committee markup",
-      "take": "American Reserve Modernization Act advances to Senate committee markup",
+      "take": "American Reserve Modernization Act of 2026 advances to committee markup",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/arma-strategic-bitcoin-reserve-house-vote/"
-    },
-    {
-      "headline": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-      "take": "CLARITY Act could resurface during lame-duck congressional session",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "UK FCA sets crypto authorization guidance ahead of September application window",
-      "take": "UK FCA sets crypto authorization guidance before September applications",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC chairman affirms US as crypto capital, ready for new regulations",
-      "take": "CFTC chair affirms US crypto leadership, signals regulatory framework ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chairman-affirms-us-as-crypto-capital-ready-for-new-regulations/"
     }
   ]
 }

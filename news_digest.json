@@ -1,96 +1,96 @@
 {
-  "generated": "2026-09-17T17:05:47.309366+00:00",
-  "ts": 1789664747,
+  "generated": "2026-09-17T21:27:34.886823+00:00",
+  "ts": 1789680454,
   "market": [
     {
-      "headline": "Bitcoin trades near $76K as US stocks rebound from Fed\u2019s first rate hike since 2023",
-      "take": "Bitcoin trades near $76K as US stocks rebound from Fed rate hike",
+      "headline": "Robinhood Chain sees $10B in stock token trading volume, up 672%",
+      "take": "Robinhood Chain stock tokens hit $10B trading volume, up 672%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-77k-fed-rate-hike-stocks-rebound/"
+      "link": "https://cryptobriefing.com/robinhood-chain-stock-token-trading-volume/"
     },
     {
-      "headline": "Bitcoin ETFs expected to triple gold ETF assets within three to five years, says Bloomberg analyst",
-      "take": "Bitcoin ETFs expected to triple gold ETF assets within three to five years",
+      "headline": "Cboe reports 1.9M average daily volume for FLEX options in Q1 2026",
+      "take": "Cboe reports 1.9M average daily volume for FLEX options Q1 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-triple-gold-assets-bloomberg/"
+      "link": "https://cryptobriefing.com/cboe-flex-options-average-daily-volume-2026/"
     },
     {
-      "headline": "Bitcoin\u2019s Bull Index drops to 30 after Fed\u2019s rate hike",
-      "take": "Bitcoin's Bull Index drops to 30 after Fed's rate hike",
+      "headline": "Senate rejection of crypto bill dims Bitcoin\u2019s $200K outlook by 2026",
+      "take": "Senate crypto bill rejection pressures Bitcoin's $200K target outlook",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-bull-index-drops-fed-rate-hike/"
+      "link": "https://cryptobriefing.com/senate-rejection-of-crypto-bill-dims-bitcoins-200k-outlook-by-2026/"
     },
     {
-      "headline": "High bond yields look like the new normal as debt supply rises worldwide",
-      "take": "High bond yields look like the new normal as debt supply rises worldwide",
+      "headline": "Zest Protocol\u2019s levered Bitcoin staking vault begins accruing yield on Stacks",
+      "take": "Zest Protocol Bitcoin staking vault accrues yield on Stacks network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-yields-elevated-new-normal/"
+      "link": "https://cryptobriefing.com/zest-protocol-levered-bitcoin-staking-vault-stacks/"
     }
   ],
   "business": [
     {
-      "headline": "NYSE plans 24/7 on-chain trading for tokenized equities",
-      "take": "NYSE plans 24/7 on-chain trading for tokenized equities",
+      "headline": "Ripple integrates XRP, RLUSD for AI payments with Stripe, Tempo collaboration",
+      "take": "Ripple integrates XRP, RLUSD for AI payments via Stripe, Tempo",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nyse-247-trading-avalanche-blockchain/"
+      "link": "https://cryptobriefing.com/ripple-integrates-xrp-rlusd-for-ai-payments-with-stripe-tempo-collaboration/"
     },
     {
-      "headline": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-      "take": "S&P Global moves deeper into crypto with OpenZeppelin deal",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin"
-    },
-    {
-      "headline": "Circle deploys $649M USDC and $7M EURC on Arc blockchain",
-      "take": "Circle deploys $649M USDC and $7M EURC on Arc blockchain",
+      "headline": "TradingView enables AI agent connectivity via MCP server in public beta",
+      "take": "TradingView enables AI agent connectivity via MCP server in beta",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-usdc-eurc-arc-blockchain/"
+      "link": "https://cryptobriefing.com/tradingview-mcp-server-ai-agents-beta/"
     },
     {
-      "headline": "Coinbase Ventures backs Stablecore to bring digital assets to community banks",
-      "take": "Coinbase Ventures backs Stablecore to bring digital assets to community banks",
+      "headline": "OpenAI hires SpaceX\u2019s Brian McCarthy as VP of worldwide sales",
+      "take": "OpenAI hires SpaceX's Brian McCarthy as VP worldwide sales",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-stablecore-digital-assets-community-banks/"
+      "link": "https://cryptobriefing.com/openai-hires-spacex-brian-mccarthy-vp-sales/"
     },
     {
-      "headline": "World launches \u2018World Money\u2019 super app with stablecoins, Stripe integration and boosted rewards",
-      "take": "World launches 'World Money' super app with stablecoins and Stripe integration",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394"
+      "headline": "SEC opens door to tokenized U.S. stock trading. Here\u2019s who could benefit",
+      "take": "SEC opens door to tokenized U.S. stock trading access and benefits",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit"
     }
   ],
   "security": [
     {
-      "headline": "Open-source AI drives surge in malware hidden on blockchains",
-      "take": "Open-source AI drives surge in malware hidden on blockchains",
+      "headline": "Hackhackai identifies critical flaw in Solana\u2019s SIMD-0376 proposal",
+      "take": "Hackhackai identifies critical flaw in Solana's SIMD-0376 proposal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/open-source-ai-crypto-cybercrime-blockchain-malware/"
+      "link": "https://cryptobriefing.com/hackhackai-solana-simd-0376-zero-address-flaw/"
+    },
+    {
+      "headline": "Robinhood warns users it doesn\u2019t endorse tokens, and $WALLET crashes 90%",
+      "take": "Robinhood warns users it doesn't endorse tokens; WALLET crashes 90%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-wallet-token-crashes-90-percent/"
+    },
+    {
+      "headline": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
+      "take": "US sanctions Iranian crypto exchange BitBank for alleged IRGC transfers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462"
     }
   ],
   "policy": [
     {
-      "headline": "SEC, CFTC to draft crypto rules independently, focus on XRP and Bitcoin",
-      "take": "SEC, CFTC to draft crypto rules independently, focus on XRP and Bitcoin",
+      "headline": "Don Beyer opposes crypto tax bill, accuses Trump of corruption",
+      "take": "Don Beyer opposes crypto tax bill, accuses Trump of corruption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-cftc-to-draft-crypto-rules-independently-focus-on-xrp-and-bitcoin/"
+      "link": "https://cryptobriefing.com/don-beyer-crypto-tax-bill-trump-corruption/"
     },
     {
-      "headline": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
-      "take": "Regulators move on crypto: CFTC follows SEC with developer-friendly stance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425"
+      "headline": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+      "take": "CFTC opens door for crypto apps to offer regulated derivatives",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access"
     },
     {
-      "headline": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-      "take": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs"
-    },
-    {
-      "headline": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-      "take": "US SEC begins prepping for around-the-clock trading as crypto standard",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm"
+      "headline": "CFTC expands regulatory relief for passive trading software providers",
+      "take": "CFTC expands regulatory relief for passive trading software providers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

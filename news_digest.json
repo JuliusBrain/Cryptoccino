@@ -1,96 +1,102 @@
 {
-  "generated": "2026-09-17T04:58:41.590600+00:00",
-  "ts": 1789621121,
+  "generated": "2026-09-17T11:49:13.754395+00:00",
+  "ts": 1789645753,
   "market": [
     {
-      "headline": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed\u2019s first hike since 2023",
-      "take": "Zcash and major tokens rise despite Fed's first rate hike since 2023",
+      "headline": "Live updates: Bitcoin flat near $76,000 as stocks set for sharply higher open",
+      "take": "Bitcoin trading flat near $76K as stock market opens sharply higher",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023"
+      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders"
     },
     {
-      "headline": "Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation",
-      "take": "Bitcoin and ether swing after unanimous quarter-point Fed rate hike",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307"
-    },
-    {
-      "headline": "Oil tops $100, US fuel prices hit record highs amid Middle East tensions",
-      "take": "Oil tops $100, US fuel prices hit record highs amid tensions",
+      "headline": "Bitcoin options are eating the derivatives market, Bybit and Glassnode report finds",
+      "take": "Bitcoin options market growing fastest segment in crypto derivatives trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-tops-100-us-fuel-prices-hit-record-highs-amid-middle-east-tensions/"
+      "link": "https://cryptobriefing.com/bybit-glassnode-crypto-derivatives-report/"
     },
     {
-      "headline": "Goldman pivots, now forecasts Fed rate hike in October",
-      "take": "Goldman Sachs now forecasts Fed rate hike in October",
+      "headline": "Grayscale\u2019s Pandl still sees bitcoin\u2019s $58K low as the bottom, gives clients \u2018green light\u2019",
+      "take": "Grayscale strategist sees $58K bitcoin low as market bottom, signals confidence",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346"
+    },
+    {
+      "headline": "Crypto rallies through the Fed's first rate increase since 2023",
+      "take": "Crypto rallies as Federal Reserve raises rates for first time since 2023",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october"
+      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023"
+    },
+    {
+      "headline": "CoinShares researcher notes family offices are bullish on Solana but still warming up to Hyperliquid",
+      "take": "Family offices show strong Solana interest but remain cautious on Hyperliquid",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinshares-family-offices-bullish-solana-hyperliquid/"
     }
   ],
   "business": [
     {
-      "headline": "Dunamu partners with Kazakhstan\u2019s Alatau City on digital finance push worth $6B",
-      "take": "Dunamu partners with Kazakhstan on digital finance initiative worth $6B",
+      "headline": "Crypto.com secures SEC approval for single-stock futures in US",
+      "take": "Crypto.com wins SEC approval to offer single-stock futures in United States",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dunamu-kazakhstan-alatau-city-digital-finance-mou/"
+      "link": "https://cryptobriefing.com/crypto-com-sec-single-stock-futures/"
     },
     {
-      "headline": "Guy Young builds Ethena Pay neobank to deliver yield directly to users",
-      "take": "Ethena Pay neobank launches to deliver yield directly to users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethena-pay-neobank-yield-usd/"
+      "headline": "Ripple adds XRP payments to Stripe and Tempo\u2019s AI standard in new developer kit",
+      "take": "Ripple integrates XRP payments into Stripe and Tempo AI standards toolkit",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit"
     },
     {
-      "headline": "Column expands offerings to compete with Mastercard and Marqeta in stablecoin card issuing",
-      "take": "Column expands stablecoin card offerings to compete with Mastercard",
+      "headline": "CoreWeave plans $3B convertible senior notes issuance to fuel AI infrastructure expansion",
+      "take": "CoreWeave plans $3B convertible notes offering for AI infrastructure expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/column-stablecoin-card-issuing-mastercard-marqeta/"
+      "link": "https://cryptobriefing.com/coreweave-3b-convertible-notes-issuance/"
     },
     {
-      "headline": "Ethena CEO discusses USDe\u2019s shift to AAA-rated collateral",
-      "take": "Ethena USDe shifts to AAA-rated collateral for stability",
+      "headline": "Pendle enables trading of tokenized infrastructure yields through NGI+ integration",
+      "take": "Pendle enables yield trading on tokenized infrastructure through NGI+ integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethena-usde-aaa-rated-collateral-shift/"
+      "link": "https://cryptobriefing.com/pendle-ngi-tokenized-infrastructure-yields/"
+    },
+    {
+      "headline": "SparkLend USDS borrowing surpasses $800M, hits new all-time high",
+      "take": "SparkLend USDS borrowing surpasses $800M, reaches new all-time high",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sparklend-usds-borrowing-800m-ath/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-      "take": "OpenAI's rogue AI agents probed Hugging Face two months before hack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack"
+      "headline": "Revolut says no ransom demand received after reported data breach: Report",
+      "take": "Revolut reports no ransom demand received following alleged data breach incident",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/revolut-says-no-ransom-demand-received-after-reported-data-breach-report/"
+    },
+    {
+      "headline": "How Circle\u2019s institutional Arc blockchain got taken over by memecoins on day one",
+      "take": "Circle's institutional Arc blockchain overwhelmed by memecoins on launch day",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino"
     }
   ],
   "policy": [
     {
-      "headline": "House committee moves to codify Trump\u2019s Strategic Bitcoin Reserve",
-      "take": "House committee moves to codify Trump's Strategic Bitcoin Reserve",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317"
-    },
-    {
-      "headline": "\u2018Not the end\u2019: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
-      "take": "Democrats say they remain committed to passing Clarity Act",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326"
-    },
-    {
-      "headline": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-      "take": "CLARITY Act could get another shot during lame-duck session",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "UK banks continue blocking crypto payments as FCA license deadline looms",
-      "take": "UK banks continue blocking crypto payments as FCA deadline looms",
+      "headline": "House committee advances bill to institutionalize Strategic Bitcoin Reserve",
+      "take": "House committee advances bill to create formal US Strategic Bitcoin Reserve",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-banks-continue-blocking-crypto-payments-as-fca-license-deadline-looms/"
+      "link": "https://cryptobriefing.com/house-committee-advances-bill-to-institutionalize-strategic-bitcoin-reserve/"
     },
     {
-      "headline": "American Reserve Modernization Act of 2026 advances to committee markup",
-      "take": "American Reserve Modernization Act of 2026 advances to committee markup",
+      "headline": "Senate Democrats push for bipartisan support on stalled CLARITY Act",
+      "take": "Senate Democrats seek bipartisan backing for stalled CLARITY Act cryptocurrency bill",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arma-strategic-bitcoin-reserve-house-vote/"
+      "link": "https://cryptobriefing.com/senate-democrats-push-for-bipartisan-support-on-stalled-clarity-act/"
+    },
+    {
+      "headline": "UK regulators target illegal peer-to-peer crypto trading across three London locations",
+      "take": "UK regulators target illegal peer-to-peer crypto trading across three London areas",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-regulators-illegal-p2p-crypto-london/"
     }
   ]
 }

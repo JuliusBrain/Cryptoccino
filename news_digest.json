@@ -1,102 +1,96 @@
 {
-  "generated": "2026-09-17T11:49:13.754395+00:00",
-  "ts": 1789645753,
+  "generated": "2026-09-17T17:05:47.309366+00:00",
+  "ts": 1789664747,
   "market": [
     {
-      "headline": "Live updates: Bitcoin flat near $76,000 as stocks set for sharply higher open",
-      "take": "Bitcoin trading flat near $76K as stock market opens sharply higher",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders"
-    },
-    {
-      "headline": "Bitcoin options are eating the derivatives market, Bybit and Glassnode report finds",
-      "take": "Bitcoin options market growing fastest segment in crypto derivatives trading",
+      "headline": "Bitcoin trades near $76K as US stocks rebound from Fed\u2019s first rate hike since 2023",
+      "take": "Bitcoin trades near $76K as US stocks rebound from Fed rate hike",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bybit-glassnode-crypto-derivatives-report/"
+      "link": "https://cryptobriefing.com/bitcoin-77k-fed-rate-hike-stocks-rebound/"
     },
     {
-      "headline": "Grayscale\u2019s Pandl still sees bitcoin\u2019s $58K low as the bottom, gives clients \u2018green light\u2019",
-      "take": "Grayscale strategist sees $58K bitcoin low as market bottom, signals confidence",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346"
-    },
-    {
-      "headline": "Crypto rallies through the Fed's first rate increase since 2023",
-      "take": "Crypto rallies as Federal Reserve raises rates for first time since 2023",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023"
-    },
-    {
-      "headline": "CoinShares researcher notes family offices are bullish on Solana but still warming up to Hyperliquid",
-      "take": "Family offices show strong Solana interest but remain cautious on Hyperliquid",
+      "headline": "Bitcoin ETFs expected to triple gold ETF assets within three to five years, says Bloomberg analyst",
+      "take": "Bitcoin ETFs expected to triple gold ETF assets within three to five years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinshares-family-offices-bullish-solana-hyperliquid/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-triple-gold-assets-bloomberg/"
+    },
+    {
+      "headline": "Bitcoin\u2019s Bull Index drops to 30 after Fed\u2019s rate hike",
+      "take": "Bitcoin's Bull Index drops to 30 after Fed's rate hike",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-bull-index-drops-fed-rate-hike/"
+    },
+    {
+      "headline": "High bond yields look like the new normal as debt supply rises worldwide",
+      "take": "High bond yields look like the new normal as debt supply rises worldwide",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-yields-elevated-new-normal/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto.com secures SEC approval for single-stock futures in US",
-      "take": "Crypto.com wins SEC approval to offer single-stock futures in United States",
+      "headline": "NYSE plans 24/7 on-chain trading for tokenized equities",
+      "take": "NYSE plans 24/7 on-chain trading for tokenized equities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-com-sec-single-stock-futures/"
+      "link": "https://cryptobriefing.com/nyse-247-trading-avalanche-blockchain/"
     },
     {
-      "headline": "Ripple adds XRP payments to Stripe and Tempo\u2019s AI standard in new developer kit",
-      "take": "Ripple integrates XRP payments into Stripe and Tempo AI standards toolkit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit"
+      "headline": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
+      "take": "S&P Global moves deeper into crypto with OpenZeppelin deal",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin"
     },
     {
-      "headline": "CoreWeave plans $3B convertible senior notes issuance to fuel AI infrastructure expansion",
-      "take": "CoreWeave plans $3B convertible notes offering for AI infrastructure expansion",
+      "headline": "Circle deploys $649M USDC and $7M EURC on Arc blockchain",
+      "take": "Circle deploys $649M USDC and $7M EURC on Arc blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-3b-convertible-notes-issuance/"
+      "link": "https://cryptobriefing.com/circle-usdc-eurc-arc-blockchain/"
     },
     {
-      "headline": "Pendle enables trading of tokenized infrastructure yields through NGI+ integration",
-      "take": "Pendle enables yield trading on tokenized infrastructure through NGI+ integration",
+      "headline": "Coinbase Ventures backs Stablecore to bring digital assets to community banks",
+      "take": "Coinbase Ventures backs Stablecore to bring digital assets to community banks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-ngi-tokenized-infrastructure-yields/"
+      "link": "https://cryptobriefing.com/coinbase-stablecore-digital-assets-community-banks/"
     },
     {
-      "headline": "SparkLend USDS borrowing surpasses $800M, hits new all-time high",
-      "take": "SparkLend USDS borrowing surpasses $800M, reaches new all-time high",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sparklend-usds-borrowing-800m-ath/"
+      "headline": "World launches \u2018World Money\u2019 super app with stablecoins, Stripe integration and boosted rewards",
+      "take": "World launches 'World Money' super app with stablecoins and Stripe integration",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394"
     }
   ],
   "security": [
     {
-      "headline": "Revolut says no ransom demand received after reported data breach: Report",
-      "take": "Revolut reports no ransom demand received following alleged data breach incident",
+      "headline": "Open-source AI drives surge in malware hidden on blockchains",
+      "take": "Open-source AI drives surge in malware hidden on blockchains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/revolut-says-no-ransom-demand-received-after-reported-data-breach-report/"
-    },
-    {
-      "headline": "How Circle\u2019s institutional Arc blockchain got taken over by memecoins on day one",
-      "take": "Circle's institutional Arc blockchain overwhelmed by memecoins on launch day",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino"
+      "link": "https://cryptobriefing.com/open-source-ai-crypto-cybercrime-blockchain-malware/"
     }
   ],
   "policy": [
     {
-      "headline": "House committee advances bill to institutionalize Strategic Bitcoin Reserve",
-      "take": "House committee advances bill to create formal US Strategic Bitcoin Reserve",
+      "headline": "SEC, CFTC to draft crypto rules independently, focus on XRP and Bitcoin",
+      "take": "SEC, CFTC to draft crypto rules independently, focus on XRP and Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-committee-advances-bill-to-institutionalize-strategic-bitcoin-reserve/"
+      "link": "https://cryptobriefing.com/sec-cftc-to-draft-crypto-rules-independently-focus-on-xrp-and-bitcoin/"
     },
     {
-      "headline": "Senate Democrats push for bipartisan support on stalled CLARITY Act",
-      "take": "Senate Democrats seek bipartisan backing for stalled CLARITY Act cryptocurrency bill",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-democrats-push-for-bipartisan-support-on-stalled-clarity-act/"
+      "headline": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
+      "take": "Regulators move on crypto: CFTC follows SEC with developer-friendly stance",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425"
     },
     {
-      "headline": "UK regulators target illegal peer-to-peer crypto trading across three London locations",
-      "take": "UK regulators target illegal peer-to-peer crypto trading across three London areas",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-regulators-illegal-p2p-crypto-london/"
+      "headline": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+      "take": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs"
+    },
+    {
+      "headline": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "take": "US SEC begins prepping for around-the-clock trading as crypto standard",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm"
     }
   ]
 }

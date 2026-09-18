@@ -1,96 +1,72 @@
 {
-  "generated": "2026-09-18T11:24:10.931892+00:00",
-  "ts": 1789730650,
+  "generated": "2026-09-18T16:30:10.796146+00:00",
+  "ts": 1789749010,
   "market": [
     {
-      "headline": "Bitcoin price jumps $2,000 to reclaim $78,000 after $80M shorts liquidated",
-      "take": "Bitcoin reclaimed $78K after $80M in shorts liquidated",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-price-jumps-78000-shorts-liquidated/"
+      "headline": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+      "take": "Bitcoin surpasses eighty thousand, Solana rallies amid market momentum",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523"
     },
     {
-      "headline": "XRP nears golden cross as market shifts focus to altcoins",
-      "take": "XRP nears golden cross as market shifts focus to altcoins",
+      "headline": "Glassnode reports altcoin leverage remains subdued amid price rise",
+      "take": "Altcoin leverage subdued despite recent price increases across markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-golden-cross-altcoin-rotation-2026/"
+      "link": "https://cryptobriefing.com/glassnode-altcoin-leverage-subdued-price-rise/"
     },
     {
-      "headline": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-      "take": "Layer-2 and DeFi tokens lead crypto advance as Fed concerns fade",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade"
+      "headline": "Grayscale\u2019s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+      "take": "Grayscale's Zcash ETF plans three-for-one split after major inflows",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520"
     },
     {
-      "headline": "US Treasury yields remain above 5% amid ongoing selloff",
-      "take": "US Treasury yields remain above 5% amid ongoing selloff",
+      "headline": "Bank of Japan likely conducted rate checks in currency market, signaling potential yen intervention",
+      "take": "Bank of Japan signals potential yen intervention through currency checks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-yields-above-5-percent-selloff/"
-    },
-    {
-      "headline": "Hedge funds pull back on Treasury basis trade as spreads dry up",
-      "take": "Hedge funds pull back on Treasury basis trade as spreads dry up",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hedge-funds-treasury-basis-trade-pullback/"
+      "link": "https://cryptobriefing.com/boj-rate-checks-yen-intervention/"
     }
   ],
   "business": [
     {
-      "headline": "Hyperliquid launches borrowing and lending, $269M borrowed on first day",
-      "take": "Hyperliquid launches borrowing and lending with $269M borrowed day one",
+      "headline": "SBI Holdings and Kyobo Life pilot stablecoin transfers between Japan and South Korea",
+      "take": "SBI Holdings and Kyobo Life pilot stablecoin transfers between Japan and Korea",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-launches-borrowing-and-lending-269m-borrowed-on-first-day/"
+      "link": "https://cryptobriefing.com/sbi-holdings-and-kyobo-life-pilot-stablecoin-transfers-between-japan-and-south-korea/"
     },
     {
-      "headline": "CoreWeave prices upsized $4B convertible senior notes offering",
-      "take": "CoreWeave prices upsized $4B convertible senior notes offering",
+      "headline": "Banxa goes live on Fireblocks Network for payments in Canada, Australia, and the Eurozone",
+      "take": "Banxa launches on Fireblocks Network for payments across multiple regions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-4b-convertible-notes-offering/"
+      "link": "https://cryptobriefing.com/banxa-fireblocks-network-payments-launch/"
     },
     {
-      "headline": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "take": "SBI Group backs payments firm dtcpay in $25 million funding",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round"
-    },
-    {
-      "headline": "NEAR Protocol enables private perps by default, powered by Hyperliquid",
-      "take": "NEAR Protocol enables private perpetuals by default via Hyperliquid",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-protocol-private-perps-hyperliquid/"
-    },
-    {
-      "headline": "Revolut considers dual listing in New York and London for IPO",
-      "take": "Revolut considers dual listing in New York and London for IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/revolut-dual-listing-new-york-london-ipo/"
+      "headline": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
+      "take": "Ava Labs president confirms NYSE tested Avalanche for tokenization plans",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509"
     }
   ],
   "security": [
     {
-      "headline": "UAE and Sweden arrest seven in $7M crypto laundering ring linked to contract killings",
-      "take": "UAE and Sweden arrest seven in $7M crypto laundering ring",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uae-sweden-crypto-laundering-contract-killings/"
-    },
-    {
-      "headline": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-      "take": "Treasury sanctions crypto exchange used for Iran's Hormuz toll scheme",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships"
+      "headline": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+      "take": "Haruko cyberattack exposes fifteen clients' data, some funds compromised",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
     }
   ],
   "policy": [
     {
-      "headline": "SEC grants relief for onchain stock tokens; Treasury sanctions BitBank",
-      "take": "SEC grants relief for onchain stock tokens; Treasury sanctions BitBank",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-grants-relief-for-onchain-stock-tokens-treasury-sanctions-bitbank/"
+      "headline": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress",
+      "take": "CFTC files crypto rulemaking with White House, bypassing stalled Congress",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510"
     },
     {
-      "headline": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-      "take": "Binance reaffirms Europe commitment amid Lagarde MiCA speculation",
+      "headline": "Banks double on EU MiCA crypto provider list as share hits 23%",
+      "take": "Banks' EU MiCA crypto provider share reaches twenty-three percent",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

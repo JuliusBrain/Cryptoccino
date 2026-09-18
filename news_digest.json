@@ -1,44 +1,56 @@
 {
-  "generated": "2026-09-18T20:58:16.545751+00:00",
-  "ts": 1789765096,
+  "generated": "2026-09-18T23:21:08.881591+00:00",
+  "ts": 1789773668,
   "market": [
     {
-      "headline": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
-      "take": "Bitcoin reclaims $80,000 as crypto markets rally despite regulatory setbacks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523"
-    },
-    {
-      "headline": "Polymarket shows 84% odds of another Fed rate hike in 2026",
-      "take": "Polymarket prices 84% odds of another Fed rate hike in 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-fed-rate-hike-2026-odds/"
-    },
-    {
-      "headline": "Binance launches 24/7 FX perpetuals with weekend pricing system",
-      "take": "Binance launches 24/7 FX perpetuals with weekend pricing system",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-fx-perpetuals-weekend-pricing/"
-    },
-    {
-      "headline": "TRON\u2019s stablecoin market cap grows by $5B in 90 days as USDT dominance accelerates",
-      "take": "TRON stablecoin market grows $5B in 90 days as USDT dominates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-stablecoin-market-cap-5b-growth/"
+      "headline": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
+      "take": "Bitcoin surges past $80K as markets recover from recent volatility",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations"
     },
     {
       "headline": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-      "take": "XRP surges 6.9% as Bitcoin rebound opens door to golden cross",
+      "take": "XRP rallies 6.9% on Bitcoin rebound, golden cross setup forms",
       "source": "decrypt",
       "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross"
+    },
+    {
+      "headline": "Strive acquires 469 Bitcoin worth $36.6M through preferred stock trades, pushing holdings to 25,000 BTC",
+      "take": "Strive acquires 469 Bitcoin for $36.6M, holdings reach 25,000 BTC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strive-acquires-bitcoin-preferred-stock/"
+    },
+    {
+      "headline": "SEC receives amended S-1/A filing for 21Shares Injective ETF as altcoin ETF race heats up",
+      "take": "SEC receives amended filing for 21Shares Injective ETF, altcoin race accelerates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-21shares-injective-etf-filing/"
+    },
+    {
+      "headline": "Coinbase tokenized stocks make up 7% of Base blockchain DEX activity",
+      "take": "Coinbase tokenized stocks comprise 7% of Base blockchain DEX activity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-make-up-7-of-base-blockchain-dex-activity/"
     }
   ],
   "business": [
     {
-      "headline": "Strive acquires 469 Bitcoin worth $36.6M through preferred stock trades, pushing holdings to 25,000 BTC",
-      "take": "Strive acquires $36.6M in Bitcoin through stock trades, reaching 25,000 BTC",
+      "headline": "Anthropic plans November IPO amid tech firm public offering trend: WSJ",
+      "take": "Anthropic plans November IPO amid broader tech public offering trend",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-acquires-bitcoin-preferred-stock/"
+      "link": "https://cryptobriefing.com/anthropic-plans-november-ipo-amid-tech-firm-public-offering-trend-wsj/"
+    },
+    {
+      "headline": "Circle integrates Venice into Agent Marketplace for AI services",
+      "take": "Circle integrates Venice into Agent Marketplace for AI services",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-integrates-venice-agent-marketplace/"
+    },
+    {
+      "headline": "Nscale files for IPO in New York to meet AI computing demand",
+      "take": "Nscale files for IPO to meet surging US AI computing demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nscale-ipo-filing-ai-computing/"
     },
     {
       "headline": "Polygon prepares permissionless burn of 100 million POL tokens",
@@ -47,37 +59,38 @@
       "link": "https://cryptobriefing.com/polygon-permissionless-burn-100m-pol-tokens/"
     },
     {
-      "headline": "Anthropic and Accenture commit at least $2B to independent frontier AI evaluation",
-      "take": "Anthropic and Accenture commit $2B to independent frontier AI evaluation",
+      "headline": "Spiko ranks sixth among RWA issuers with $2.5B in tokenized assets",
+      "take": "Spiko ranks sixth among RWA issuers with $2.5B tokenized assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-accenture-ai-partnership-billion-dollar/"
-    },
-    {
-      "headline": "Anthropic expects over $100B revenue this year, eyes IPO: NYT",
-      "take": "Anthropic expects over $100B revenue this year, eyes IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-expects-over-100b-revenue-this-year-eyes-ipo-nyt/"
-    },
-    {
-      "headline": "Mastercard lets AI agents shop with virtual cards as agentic commerce expands",
-      "take": "Mastercard enables AI agents to shop with virtual cards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mastercard-ai-payment-agentic-commerce/"
+      "link": "https://cryptobriefing.com/spiko-ranks-sixth-rwa-issuers-tokenized-assets/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "AI safety watchdogs face conflict of interest concerns as staff rotate between evaluators and companies",
+      "take": "AI safety evaluators face conflict of interest as staff rotate to companies",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-safety-watchdog-conflict-of-interest/"
+    }
+  ],
   "policy": [
     {
-      "headline": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-      "take": "CFTC sends crypto rules to White House as Congress stalls on Clarity",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
+      "headline": "CFTC submits crypto market regulation plan for White House review",
+      "take": "CFTC submits crypto market regulation plan for White House review",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Coinbase files to bring single-stock perpetual futures to US market",
-      "take": "Coinbase files to bring single-stock perpetual futures to US market",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
+      "take": "CFTC begins crypto rulemaking process, bypassing stalled Congress efforts",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act"
+    },
+    {
+      "headline": "UN Security Council to hold AI governance meeting with Sam Altman briefing world leaders",
+      "take": "UN Security Council holds AI governance meeting with Sam Altman briefing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/un-security-council-ai-governance-altman/"
     }
   ]
 }

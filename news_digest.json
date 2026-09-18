@@ -1,72 +1,96 @@
 {
-  "generated": "2026-09-18T04:50:56.992729+00:00",
-  "ts": 1789707056,
+  "generated": "2026-09-18T11:24:10.931892+00:00",
+  "ts": 1789730650,
   "market": [
     {
-      "headline": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
-      "take": "Ether and XRP ETFs see outflows as Bitcoin surpasses $77,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000"
-    },
-    {
-      "headline": "Real stocks are finally coming on blockchain. Here\u2019s how the SEC wants it to work",
-      "take": "Real-world stocks now available on blockchain under SEC framework",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work"
-    },
-    {
-      "headline": "Robinhood Chain sees $10B in stock token trading volume, up 672%",
-      "take": "Robinhood Chain stock token trading volume surges 672% to $10B",
+      "headline": "Bitcoin price jumps $2,000 to reclaim $78,000 after $80M shorts liquidated",
+      "take": "Bitcoin reclaimed $78K after $80M in shorts liquidated",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-stock-token-trading-volume/"
+      "link": "https://cryptobriefing.com/bitcoin-price-jumps-78000-shorts-liquidated/"
+    },
+    {
+      "headline": "XRP nears golden cross as market shifts focus to altcoins",
+      "take": "XRP nears golden cross as market shifts focus to altcoins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-golden-cross-altcoin-rotation-2026/"
+    },
+    {
+      "headline": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "take": "Layer-2 and DeFi tokens lead crypto advance as Fed concerns fade",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade"
+    },
+    {
+      "headline": "US Treasury yields remain above 5% amid ongoing selloff",
+      "take": "US Treasury yields remain above 5% amid ongoing selloff",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-yields-above-5-percent-selloff/"
+    },
+    {
+      "headline": "Hedge funds pull back on Treasury basis trade as spreads dry up",
+      "take": "Hedge funds pull back on Treasury basis trade as spreads dry up",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hedge-funds-treasury-basis-trade-pullback/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase partners with Stablecore to integrate crypto in US community banks",
-      "take": "Coinbase partners Stablecore to bring crypto to US community banks",
+      "headline": "Hyperliquid launches borrowing and lending, $269M borrowed on first day",
+      "take": "Hyperliquid launches borrowing and lending with $269M borrowed day one",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-partners-with-stablecore-to-integrate-crypto-in-us-community-banks/"
+      "link": "https://cryptobriefing.com/hyperliquid-launches-borrowing-and-lending-269m-borrowed-on-first-day/"
     },
     {
-      "headline": "Jupiter Exchange enables INJ swaps for SOL and SPL tokens",
-      "take": "Jupiter Exchange adds INJ swaps for SOL and SPL tokens",
+      "headline": "CoreWeave prices upsized $4B convertible senior notes offering",
+      "take": "CoreWeave prices upsized $4B convertible senior notes offering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-exchange-inj-swaps-solana/"
+      "link": "https://cryptobriefing.com/coreweave-4b-convertible-notes-offering/"
     },
     {
-      "headline": "BitGo appoints Alex Rozman as Chief Compliance Officer",
-      "take": "BitGo appoints Alex Rozman as Chief Compliance Officer",
+      "headline": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "take": "SBI Group backs payments firm dtcpay in $25 million funding",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round"
+    },
+    {
+      "headline": "NEAR Protocol enables private perps by default, powered by Hyperliquid",
+      "take": "NEAR Protocol enables private perpetuals by default via Hyperliquid",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-appoints-rozman-chief-compliance-officer/"
+      "link": "https://cryptobriefing.com/near-protocol-private-perps-hyperliquid/"
+    },
+    {
+      "headline": "Revolut considers dual listing in New York and London for IPO",
+      "take": "Revolut considers dual listing in New York and London for IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/revolut-dual-listing-new-york-london-ipo/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
-      "take": "OpenAI models generating jailbreak instructions and sometimes following them",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying"
+      "headline": "UAE and Sweden arrest seven in $7M crypto laundering ring linked to contract killings",
+      "take": "UAE and Sweden arrest seven in $7M crypto laundering ring",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uae-sweden-crypto-laundering-contract-killings/"
     },
     {
-      "headline": "Hackhackai identifies critical flaw in Solana\u2019s SIMD-0376 proposal",
-      "take": "Hackhackai identifies critical vulnerability in Solana's SIMD-0376 proposal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hackhackai-solana-simd-0376-zero-address-flaw/"
+      "headline": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+      "take": "Treasury sanctions crypto exchange used for Iran's Hormuz toll scheme",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships"
     }
   ],
   "policy": [
     {
-      "headline": "US sanctions Iran\u2019s BitBank, saying it processes \u2018Hormuz Safe\u2019 Bitcoin payments",
-      "take": "US sanctions Iran's BitBank for processing sanctioned Bitcoin payments",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC grants relief for onchain stock tokens; Treasury sanctions BitBank",
+      "take": "SEC grants relief for onchain stock tokens; Treasury sanctions BitBank",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-grants-relief-for-onchain-stock-tokens-treasury-sanctions-bitbank/"
     },
     {
-      "headline": "Crypto Finds an Innovative Way Around the Will of Congress",
-      "take": "Crypto industry finds regulatory workaround bypassing Congressional intent",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/crypto-finds-an-innovative-way-around-the-will-of-congress"
+      "headline": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+      "take": "Binance reaffirms Europe commitment amid Lagarde MiCA speculation",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

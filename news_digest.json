@@ -1,72 +1,83 @@
 {
-  "generated": "2026-09-18T16:30:10.796146+00:00",
-  "ts": 1789749010,
+  "generated": "2026-09-18T20:58:16.545751+00:00",
+  "ts": 1789765096,
   "market": [
     {
       "headline": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
-      "take": "Bitcoin surpasses eighty thousand, Solana rallies amid market momentum",
+      "take": "Bitcoin reclaims $80,000 as crypto markets rally despite regulatory setbacks",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523"
     },
     {
-      "headline": "Glassnode reports altcoin leverage remains subdued amid price rise",
-      "take": "Altcoin leverage subdued despite recent price increases across markets",
+      "headline": "Polymarket shows 84% odds of another Fed rate hike in 2026",
+      "take": "Polymarket prices 84% odds of another Fed rate hike in 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/glassnode-altcoin-leverage-subdued-price-rise/"
+      "link": "https://cryptobriefing.com/polymarket-fed-rate-hike-2026-odds/"
     },
     {
-      "headline": "Grayscale\u2019s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
-      "take": "Grayscale's Zcash ETF plans three-for-one split after major inflows",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520"
+      "headline": "Binance launches 24/7 FX perpetuals with weekend pricing system",
+      "take": "Binance launches 24/7 FX perpetuals with weekend pricing system",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-fx-perpetuals-weekend-pricing/"
     },
     {
-      "headline": "Bank of Japan likely conducted rate checks in currency market, signaling potential yen intervention",
-      "take": "Bank of Japan signals potential yen intervention through currency checks",
+      "headline": "TRON\u2019s stablecoin market cap grows by $5B in 90 days as USDT dominance accelerates",
+      "take": "TRON stablecoin market grows $5B in 90 days as USDT dominates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boj-rate-checks-yen-intervention/"
+      "link": "https://cryptobriefing.com/tron-stablecoin-market-cap-5b-growth/"
+    },
+    {
+      "headline": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+      "take": "XRP surges 6.9% as Bitcoin rebound opens door to golden cross",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross"
     }
   ],
   "business": [
     {
-      "headline": "SBI Holdings and Kyobo Life pilot stablecoin transfers between Japan and South Korea",
-      "take": "SBI Holdings and Kyobo Life pilot stablecoin transfers between Japan and Korea",
+      "headline": "Strive acquires 469 Bitcoin worth $36.6M through preferred stock trades, pushing holdings to 25,000 BTC",
+      "take": "Strive acquires $36.6M in Bitcoin through stock trades, reaching 25,000 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sbi-holdings-and-kyobo-life-pilot-stablecoin-transfers-between-japan-and-south-korea/"
+      "link": "https://cryptobriefing.com/strive-acquires-bitcoin-preferred-stock/"
     },
     {
-      "headline": "Banxa goes live on Fireblocks Network for payments in Canada, Australia, and the Eurozone",
-      "take": "Banxa launches on Fireblocks Network for payments across multiple regions",
+      "headline": "Polygon prepares permissionless burn of 100 million POL tokens",
+      "take": "Polygon prepares permissionless burn of 100 million POL tokens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/banxa-fireblocks-network-payments-launch/"
+      "link": "https://cryptobriefing.com/polygon-permissionless-burn-100m-pol-tokens/"
     },
     {
-      "headline": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
-      "take": "Ava Labs president confirms NYSE tested Avalanche for tokenization plans",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509"
-    }
-  ],
-  "security": [
+      "headline": "Anthropic and Accenture commit at least $2B to independent frontier AI evaluation",
+      "take": "Anthropic and Accenture commit $2B to independent frontier AI evaluation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-accenture-ai-partnership-billion-dollar/"
+    },
     {
-      "headline": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-      "take": "Haruko cyberattack exposes fifteen clients' data, some funds compromised",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
+      "headline": "Anthropic expects over $100B revenue this year, eyes IPO: NYT",
+      "take": "Anthropic expects over $100B revenue this year, eyes IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-expects-over-100b-revenue-this-year-eyes-ipo-nyt/"
+    },
+    {
+      "headline": "Mastercard lets AI agents shop with virtual cards as agentic commerce expands",
+      "take": "Mastercard enables AI agents to shop with virtual cards",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mastercard-ai-payment-agentic-commerce/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress",
-      "take": "CFTC files crypto rulemaking with White House, bypassing stalled Congress",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510"
+      "headline": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "take": "CFTC sends crypto rules to White House as Congress stalls on Clarity",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
     },
     {
-      "headline": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "take": "Banks' EU MiCA crypto provider share reaches twenty-three percent",
+      "headline": "Coinbase files to bring single-stock perpetual futures to US market",
+      "take": "Coinbase files to bring single-stock perpetual futures to US market",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

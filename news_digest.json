@@ -1,96 +1,72 @@
 {
-  "generated": "2026-09-17T21:27:34.886823+00:00",
-  "ts": 1789680454,
+  "generated": "2026-09-18T04:50:56.992729+00:00",
+  "ts": 1789707056,
   "market": [
     {
+      "headline": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+      "take": "Ether and XRP ETFs see outflows as Bitcoin surpasses $77,000",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000"
+    },
+    {
+      "headline": "Real stocks are finally coming on blockchain. Here\u2019s how the SEC wants it to work",
+      "take": "Real-world stocks now available on blockchain under SEC framework",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work"
+    },
+    {
       "headline": "Robinhood Chain sees $10B in stock token trading volume, up 672%",
-      "take": "Robinhood Chain stock tokens hit $10B trading volume, up 672%",
+      "take": "Robinhood Chain stock token trading volume surges 672% to $10B",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/robinhood-chain-stock-token-trading-volume/"
-    },
-    {
-      "headline": "Cboe reports 1.9M average daily volume for FLEX options in Q1 2026",
-      "take": "Cboe reports 1.9M average daily volume for FLEX options Q1 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cboe-flex-options-average-daily-volume-2026/"
-    },
-    {
-      "headline": "Senate rejection of crypto bill dims Bitcoin\u2019s $200K outlook by 2026",
-      "take": "Senate crypto bill rejection pressures Bitcoin's $200K target outlook",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-rejection-of-crypto-bill-dims-bitcoins-200k-outlook-by-2026/"
-    },
-    {
-      "headline": "Zest Protocol\u2019s levered Bitcoin staking vault begins accruing yield on Stacks",
-      "take": "Zest Protocol Bitcoin staking vault accrues yield on Stacks network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zest-protocol-levered-bitcoin-staking-vault-stacks/"
     }
   ],
   "business": [
     {
-      "headline": "Ripple integrates XRP, RLUSD for AI payments with Stripe, Tempo collaboration",
-      "take": "Ripple integrates XRP, RLUSD for AI payments via Stripe, Tempo",
+      "headline": "Coinbase partners with Stablecore to integrate crypto in US community banks",
+      "take": "Coinbase partners Stablecore to bring crypto to US community banks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-integrates-xrp-rlusd-for-ai-payments-with-stripe-tempo-collaboration/"
+      "link": "https://cryptobriefing.com/coinbase-partners-with-stablecore-to-integrate-crypto-in-us-community-banks/"
     },
     {
-      "headline": "TradingView enables AI agent connectivity via MCP server in public beta",
-      "take": "TradingView enables AI agent connectivity via MCP server in beta",
+      "headline": "Jupiter Exchange enables INJ swaps for SOL and SPL tokens",
+      "take": "Jupiter Exchange adds INJ swaps for SOL and SPL tokens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tradingview-mcp-server-ai-agents-beta/"
+      "link": "https://cryptobriefing.com/jupiter-exchange-inj-swaps-solana/"
     },
     {
-      "headline": "OpenAI hires SpaceX\u2019s Brian McCarthy as VP of worldwide sales",
-      "take": "OpenAI hires SpaceX's Brian McCarthy as VP worldwide sales",
+      "headline": "BitGo appoints Alex Rozman as Chief Compliance Officer",
+      "take": "BitGo appoints Alex Rozman as Chief Compliance Officer",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-hires-spacex-brian-mccarthy-vp-sales/"
-    },
-    {
-      "headline": "SEC opens door to tokenized U.S. stock trading. Here\u2019s who could benefit",
-      "take": "SEC opens door to tokenized U.S. stock trading access and benefits",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit"
+      "link": "https://cryptobriefing.com/bitgo-appoints-rozman-chief-compliance-officer/"
     }
   ],
   "security": [
     {
+      "headline": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
+      "take": "OpenAI models generating jailbreak instructions and sometimes following them",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying"
+    },
+    {
       "headline": "Hackhackai identifies critical flaw in Solana\u2019s SIMD-0376 proposal",
-      "take": "Hackhackai identifies critical flaw in Solana's SIMD-0376 proposal",
+      "take": "Hackhackai identifies critical vulnerability in Solana's SIMD-0376 proposal",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hackhackai-solana-simd-0376-zero-address-flaw/"
-    },
-    {
-      "headline": "Robinhood warns users it doesn\u2019t endorse tokens, and $WALLET crashes 90%",
-      "take": "Robinhood warns users it doesn't endorse tokens; WALLET crashes 90%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-wallet-token-crashes-90-percent/"
-    },
-    {
-      "headline": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
-      "take": "US sanctions Iranian crypto exchange BitBank for alleged IRGC transfers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462"
     }
   ],
   "policy": [
     {
-      "headline": "Don Beyer opposes crypto tax bill, accuses Trump of corruption",
-      "take": "Don Beyer opposes crypto tax bill, accuses Trump of corruption",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/don-beyer-crypto-tax-bill-trump-corruption/"
-    },
-    {
-      "headline": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
-      "take": "CFTC opens door for crypto apps to offer regulated derivatives",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access"
-    },
-    {
-      "headline": "CFTC expands regulatory relief for passive trading software providers",
-      "take": "CFTC expands regulatory relief for passive trading software providers",
+      "headline": "US sanctions Iran\u2019s BitBank, saying it processes \u2018Hormuz Safe\u2019 Bitcoin payments",
+      "take": "US sanctions Iran's BitBank for processing sanctioned Bitcoin payments",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Crypto Finds an Innovative Way Around the Will of Congress",
+      "take": "Crypto industry finds regulatory workaround bypassing Congressional intent",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/crypto-finds-an-innovative-way-around-the-will-of-congress"
     }
   ]
 }

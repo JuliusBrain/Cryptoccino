@@ -1,96 +1,65 @@
 {
-  "generated": "2026-09-18T23:21:08.881591+00:00",
-  "ts": 1789773668,
+  "generated": "2026-09-19T04:43:34.869780+00:00",
+  "ts": 1789793014,
   "market": [
     {
-      "headline": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-      "take": "Bitcoin surges past $80K as markets recover from recent volatility",
+      "headline": "Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge",
+      "take": "Bitcoin and Ethereum ETFs see strong inflows in single trading session",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september-18/"
+    },
+    {
+      "headline": "Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC",
+      "take": "Binance expands perpetual futures to include traditional stock assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-tradfi-perpetual-futures-stocks/"
+    },
+    {
+      "headline": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "take": "Coinbase seeks approval for single-stock perpetual futures trading",
       "source": "decrypt",
-      "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations"
-    },
-    {
-      "headline": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-      "take": "XRP rallies 6.9% on Bitcoin rebound, golden cross setup forms",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross"
-    },
-    {
-      "headline": "Strive acquires 469 Bitcoin worth $36.6M through preferred stock trades, pushing holdings to 25,000 BTC",
-      "take": "Strive acquires 469 Bitcoin for $36.6M, holdings reach 25,000 BTC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-acquires-bitcoin-preferred-stock/"
-    },
-    {
-      "headline": "SEC receives amended S-1/A filing for 21Shares Injective ETF as altcoin ETF race heats up",
-      "take": "SEC receives amended filing for 21Shares Injective ETF, altcoin race accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-21shares-injective-etf-filing/"
-    },
-    {
-      "headline": "Coinbase tokenized stocks make up 7% of Base blockchain DEX activity",
-      "take": "Coinbase tokenized stocks comprise 7% of Base blockchain DEX activity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-make-up-7-of-base-blockchain-dex-activity/"
+      "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic plans November IPO amid tech firm public offering trend: WSJ",
-      "take": "Anthropic plans November IPO amid broader tech public offering trend",
+      "headline": "Clearpool Finance to expand institutional credit on XRP Ledger",
+      "take": "Clearpool Finance expands institutional credit services on XRP Ledger",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-plans-november-ipo-amid-tech-firm-public-offering-trend-wsj/"
+      "link": "https://cryptobriefing.com/clearpool-finance-to-expand-institutional-credit-on-xrp-ledger/"
+    },
+    {
+      "headline": "Chainlink expands to Arc mainnet and MOVA Chain as institutional blockchain adoption accelerates",
+      "take": "Chainlink integrates with Arc and MOVA Chain for enterprise adoption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainlink-expands-arc-mainnet-mova-chain/"
     },
     {
       "headline": "Circle integrates Venice into Agent Marketplace for AI services",
-      "take": "Circle integrates Venice into Agent Marketplace for AI services",
+      "take": "Circle adds Venice AI service integration to Agent Marketplace",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/circle-integrates-venice-agent-marketplace/"
     },
     {
-      "headline": "Nscale files for IPO in New York to meet AI computing demand",
-      "take": "Nscale files for IPO to meet surging US AI computing demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nscale-ipo-filing-ai-computing/"
-    },
-    {
-      "headline": "Polygon prepares permissionless burn of 100 million POL tokens",
-      "take": "Polygon prepares permissionless burn of 100 million POL tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-permissionless-burn-100m-pol-tokens/"
-    },
-    {
-      "headline": "Spiko ranks sixth among RWA issuers with $2.5B in tokenized assets",
-      "take": "Spiko ranks sixth among RWA issuers with $2.5B tokenized assets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spiko-ranks-sixth-rwa-issuers-tokenized-assets/"
+      "headline": "Zcash Is Running\u2014Devs Want to Make It Faster",
+      "take": "Zcash development team pursuing protocol improvements for speed",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster"
     }
   ],
-  "security": [
-    {
-      "headline": "AI safety watchdogs face conflict of interest concerns as staff rotate between evaluators and companies",
-      "take": "AI safety evaluators face conflict of interest as staff rotate to companies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-safety-watchdog-conflict-of-interest/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "CFTC submits crypto market regulation plan for White House review",
-      "take": "CFTC submits crypto market regulation plan for White House review",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-      "take": "CFTC begins crypto rulemaking process, bypassing stalled Congress efforts",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act"
-    },
-    {
-      "headline": "UN Security Council to hold AI governance meeting with Sam Altman briefing world leaders",
-      "take": "UN Security Council holds AI governance meeting with Sam Altman briefing",
+      "headline": "US OCC grants conditional banking license approval to Bastion",
+      "take": "US banking regulator approves conditional license for crypto-focused Bastion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/un-security-council-ai-governance-altman/"
+      "link": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/"
+    },
+    {
+      "headline": "Trump signs Lindsey Graham Act, extends Iran sanctions to 2031",
+      "take": "Trump administration extends Iran sanctions through 2031 via legislation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-signs-lindsey-graham-act-extends-iran-sanctions-to-2031/"
     }
   ]
 }

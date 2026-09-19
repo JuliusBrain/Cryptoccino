@@ -1,90 +1,108 @@
 {
-  "generated": "2026-09-19T15:56:35.094774+00:00",
-  "ts": 1789833395,
+  "generated": "2026-09-19T20:47:16.129465+00:00",
+  "ts": 1789850836,
   "market": [
     {
-      "headline": "Hyperliquid reports $3M daily revenue as top onchain protocols hit weekly highs",
-      "take": "Hyperliquid hits $3M daily revenue as top onchain protocols reach weekly peaks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-revenue-weekly-highs-top-protocols/"
+      "headline": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+      "take": "Bitcoin ETFs post positive week with $433M Friday inflow; ether funds streak ends",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871"
     },
     {
-      "headline": "Solana reduces block times by 17% to 250 milliseconds",
-      "take": "Solana reduces block times by 17 percent to 250 milliseconds",
+      "headline": "Coinbase\u2019s tokenized stocks exceed $1B in DEX trading volume within first month",
+      "take": "Coinbase tokenized stocks exceed $1B in DEX trading volume in first month",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-reduces-block-times-250-milliseconds/"
+      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-billion-dex-volume/"
     },
     {
-      "headline": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
-      "take": "Robinhood Chain fees collapse 97 percent despite transactions near record highs",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs"
+      "headline": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+      "take": "Bitcoin's sharpest rally in two years driven almost entirely by short liquidations",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations"
     },
     {
-      "headline": "Grayscale makes Zcash ETF shares 300% more accessible with 3-for-1 split",
-      "take": "Grayscale makes Zcash ETF shares 300 percent more accessible via 3-for-1 split",
+      "headline": "Tether mints $500M worth of USDT on Solana in under one hour",
+      "take": "Tether mints $500M USDT on Solana in under one hour",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-zcash-etf-share-split/"
+      "link": "https://cryptobriefing.com/tether-mints-500m-usdt-solana/"
     },
     {
-      "headline": "SoFi Technologies secures bank charter, boosts deposits to $46B",
-      "take": "SoFi Technologies secures bank charter, deposits reach $46 billion",
+      "headline": "S&P 500 slips as Fed hikes rates for first time since 2023, cybersecurity stocks buck the trend",
+      "take": "S&P 500 slips as Fed raises rates first time since 2023",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sofi-bank-charter-deposits-46-billion/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-sp500-cybersecurity-stocks/"
     }
   ],
   "business": [
     {
+      "headline": "BitGo Bank & Trust powers TOYOSA\u2019s stablecoin payments for Toyota vehicles in Bolivia",
+      "take": "BitGo Bank powers TOYOSA stablecoin payments for Toyota vehicles in Bolivia",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitgo-toyosa-usdt-payments-bolivia/"
+    },
+    {
+      "headline": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+      "take": "Solana block times fall 17% in latest speed upgrade",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade"
+    },
+    {
+      "headline": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+      "take": "Grayscale makes Zcash ETF more affordable following strong performance",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split"
+    },
+    {
       "headline": "Ripple says asset managers are preparing for XRP Ledger\u2019s next payments upgrade",
-      "take": "Ripple says asset managers preparing for XRP Ledger payments upgrade",
+      "take": "Ripple says asset managers preparing for XRP Ledger's next payments upgrade",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade"
     },
     {
-      "headline": "Derive adds perpetual contracts for DRV and $F tokens with 5x leverage",
-      "take": "Derive adds perpetual contracts for DRV and dollar-F tokens with 5x leverage",
+      "headline": "Switchboard shuts down operations, urges users to migrate by September 25",
+      "take": "Switchboard shuts down operations; users must migrate by September 25",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/derive-perpetual-contracts-drv-ford-leverage/"
+      "link": "https://cryptobriefing.com/switchboard-oracle-shuts-down-migration/"
     }
   ],
   "security": [
     {
-      "headline": "FomoPeek app versions 1.1\u20131.2 exposed users to private key theft through hidden iOS exploit",
-      "take": "FomoPeek app versions 1.1\u20131.2 expose users to private key theft via iOS exploit",
+      "headline": "Blink Wallet pauses services after attacker drains custodial accounts",
+      "take": "Blink Wallet pauses services after attacker drains custodial accounts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fomopeek-app-private-key-theft-ios-exploit/"
+      "link": "https://cryptobriefing.com/blink-wallet-pauses-custodial-breach/"
     },
     {
-      "headline": "Google\u2019s Gemini AI accidentally hacked three real companies during a security test",
-      "take": "Google's Gemini AI accidentally hacked three real companies during security test",
+      "headline": "OpenAI\u2019s Greg Brockman expresses optimism on AI safety after rogue agents compromised Hugging Face",
+      "take": "Rogue agents compromised Hugging Face; OpenAI's Brockman expresses AI safety optimism",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-ai-hacked-companies-security-test/"
+      "link": "https://cryptobriefing.com/openai-brockman-ai-safety-hugging-face-breach/"
     },
     {
-      "headline": "ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility",
-      "take": "ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zksnarks-nft-17m-extraction-allegations/"
+      "headline": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "take": "Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks"
     }
   ],
   "policy": [
     {
-      "headline": "SEC, CFTC push crypto rules despite CLARITY Act failure",
-      "take": "SEC and CFTC push crypto rules despite CLARITY Act failure",
+      "headline": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "take": "Kalshi joins Coinbase filing for US stock perpetual futures contracts",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+      "take": "Clarity Act's defeat hands SEC and CFTC regulatory control over crypto",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto"
+    },
+    {
+      "headline": "Trump forms AI Force, plans to appoint AI czar to oversee industry",
+      "take": "Trump forms AI Force; plans to appoint AI czar to oversee industry",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-cftc-push-crypto-rules-despite-clarity-act-failure/"
-    },
-    {
-      "headline": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
-      "take": "Hong Kong jails former banker over $1.6B false credit and cryptocurrency bribes",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Bastion wins conditional OCC approval for national trust bank charter",
-      "take": "Bastion wins conditional OCC approval for national trust bank charter",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/trump-ai-force-czar-oversight/"
     }
   ]
 }

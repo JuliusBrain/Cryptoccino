@@ -1,90 +1,90 @@
 {
-  "generated": "2026-09-19T11:07:53.493298+00:00",
-  "ts": 1789816073,
+  "generated": "2026-09-19T15:56:35.094774+00:00",
+  "ts": 1789833395,
   "market": [
     {
-      "headline": "Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge",
-      "take": "Bitcoin ETFs absorb $433M inflows, Ethereum ETFs add $144M same day",
+      "headline": "Hyperliquid reports $3M daily revenue as top onchain protocols hit weekly highs",
+      "take": "Hyperliquid hits $3M daily revenue as top onchain protocols reach weekly peaks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september-18/"
+      "link": "https://cryptobriefing.com/hyperliquid-revenue-weekly-highs-top-protocols/"
     },
     {
-      "headline": "Fidelity clients purchase $311M worth of Bitcoin in single-day ETF surge",
-      "take": "Fidelity clients bought $311M Bitcoin ETF in single trading session",
+      "headline": "Solana reduces block times by 17% to 250 milliseconds",
+      "take": "Solana reduces block times by 17 percent to 250 milliseconds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-bitcoin-etf-311m-inflow/"
+      "link": "https://cryptobriefing.com/solana-reduces-block-times-250-milliseconds/"
     },
     {
-      "headline": "Bitcoin shows strong demand as entity-adjusted SOPR stays above 1",
-      "take": "Bitcoin demand remains strong as holder profitability metrics stay elevated",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-sopr-above-1-strong-demand/"
+      "headline": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "take": "Robinhood Chain fees collapse 97 percent despite transactions near record highs",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs"
     },
     {
-      "headline": "Paradex sees options open interest surge 2.6x to $202M after RFQ launch",
-      "take": "Paradex options open interest surged 2.6x to $202M post-RFQ launch",
+      "headline": "Grayscale makes Zcash ETF shares 300% more accessible with 3-for-1 split",
+      "take": "Grayscale makes Zcash ETF shares 300 percent more accessible via 3-for-1 split",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paradex-options-oi-surge-rfq-launch/"
+      "link": "https://cryptobriefing.com/grayscale-zcash-etf-share-split/"
     },
     {
-      "headline": "Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC",
-      "take": "Binance expands stock perpetual futures with seven new tradeable contracts",
+      "headline": "SoFi Technologies secures bank charter, boosts deposits to $46B",
+      "take": "SoFi Technologies secures bank charter, deposits reach $46 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-tradfi-perpetual-futures-stocks/"
+      "link": "https://cryptobriefing.com/sofi-bank-charter-deposits-46-billion/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic may release new AI model before IPO to boost valuation: Reuters",
-      "take": "Anthropic plans new AI model release ahead of IPO for valuation lift",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-may-release-new-ai-model-before-ipo-to-boost-valuation-reuters/"
+      "headline": "Ripple says asset managers are preparing for XRP Ledger\u2019s next payments upgrade",
+      "take": "Ripple says asset managers preparing for XRP Ledger payments upgrade",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade"
     },
     {
-      "headline": "Amazon CEO Andy Jassy affirms long-term reliance on Nvidia chips even as in-house AI silicon scales past $20B",
-      "take": "Amazon CEO confirms long-term Nvidia reliance despite scaling proprietary AI chips",
+      "headline": "Derive adds perpetual contracts for DRV and $F tokens with 5x leverage",
+      "take": "Derive adds perpetual contracts for DRV and dollar-F tokens with 5x leverage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-jassy-nvidia-chips-long-term/"
-    },
-    {
-      "headline": "Clearpool Finance to expand institutional credit on XRP Ledger",
-      "take": "Clearpool Finance expanding institutional credit services on XRP Ledger",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clearpool-finance-to-expand-institutional-credit-on-xrp-ledger/"
-    },
-    {
-      "headline": "OpenAI projects $278B cash burn through 2030 as compute spending surges",
-      "take": "OpenAI projects $278B cash burn through 2030 as compute costs escalate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-projects-278b-cash-burn-through-2030/"
-    },
-    {
-      "headline": "US OCC grants conditional banking license approval to Bastion",
-      "take": "US OCC grants conditional banking license to crypto-focused firm Bastion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/"
+      "link": "https://cryptobriefing.com/derive-perpetual-contracts-drv-ford-leverage/"
     }
   ],
   "security": [
     {
-      "headline": "Former Hong Kong banker sentenced to four years for crypto bribery",
-      "take": "Former Hong Kong banker sentenced four years for cryptocurrency bribery scheme",
+      "headline": "FomoPeek app versions 1.1\u20131.2 exposed users to private key theft through hidden iOS exploit",
+      "take": "FomoPeek app versions 1.1\u20131.2 expose users to private key theft via iOS exploit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-banker-crypto-bribery-sentence/"
+      "link": "https://cryptobriefing.com/fomopeek-app-private-key-theft-ios-exploit/"
     },
     {
-      "headline": "Users sue OpenAI, Anthropic, xAI, and Google for alleged AI collusion",
-      "take": "Users filing lawsuit against OpenAI, Anthropic, xAI, Google for alleged collusion",
+      "headline": "Google\u2019s Gemini AI accidentally hacked three real companies during a security test",
+      "take": "Google's Gemini AI accidentally hacked three real companies during security test",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/users-sue-openai-anthropic-xai-collusion/"
+      "link": "https://cryptobriefing.com/gemini-ai-hacked-companies-security-test/"
+    },
+    {
+      "headline": "ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility",
+      "take": "ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zksnarks-nft-17m-extraction-allegations/"
     }
   ],
   "policy": [
     {
-      "headline": "Cohere CEO Aidan Gomez challenges US claims on Chinese AI distillation",
-      "take": "Cohere CEO disputes US allegations regarding Chinese AI model distillation activities",
+      "headline": "SEC, CFTC push crypto rules despite CLARITY Act failure",
+      "take": "SEC and CFTC push crypto rules despite CLARITY Act failure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cohere-ceo-challenges-chinese-ai-distillation-claims/"
+      "link": "https://cryptobriefing.com/sec-cftc-push-crypto-rules-despite-clarity-act-failure/"
+    },
+    {
+      "headline": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "take": "Hong Kong jails former banker over $1.6B false credit and cryptocurrency bribes",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Bastion wins conditional OCC approval for national trust bank charter",
+      "take": "Bastion wins conditional OCC approval for national trust bank charter",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

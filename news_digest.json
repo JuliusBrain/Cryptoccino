@@ -1,65 +1,90 @@
 {
-  "generated": "2026-09-19T04:43:34.869780+00:00",
-  "ts": 1789793014,
+  "generated": "2026-09-19T11:07:53.493298+00:00",
+  "ts": 1789816073,
   "market": [
     {
       "headline": "Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge",
-      "take": "Bitcoin and Ethereum ETFs see strong inflows in single trading session",
+      "take": "Bitcoin ETFs absorb $433M inflows, Ethereum ETFs add $144M same day",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september-18/"
     },
     {
-      "headline": "Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC",
-      "take": "Binance expands perpetual futures to include traditional stock assets",
+      "headline": "Fidelity clients purchase $311M worth of Bitcoin in single-day ETF surge",
+      "take": "Fidelity clients bought $311M Bitcoin ETF in single trading session",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-tradfi-perpetual-futures-stocks/"
+      "link": "https://cryptobriefing.com/fidelity-bitcoin-etf-311m-inflow/"
     },
     {
-      "headline": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-      "take": "Coinbase seeks approval for single-stock perpetual futures trading",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia"
+      "headline": "Bitcoin shows strong demand as entity-adjusted SOPR stays above 1",
+      "take": "Bitcoin demand remains strong as holder profitability metrics stay elevated",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-sopr-above-1-strong-demand/"
+    },
+    {
+      "headline": "Paradex sees options open interest surge 2.6x to $202M after RFQ launch",
+      "take": "Paradex options open interest surged 2.6x to $202M post-RFQ launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/paradex-options-oi-surge-rfq-launch/"
+    },
+    {
+      "headline": "Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC",
+      "take": "Binance expands stock perpetual futures with seven new tradeable contracts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-tradfi-perpetual-futures-stocks/"
     }
   ],
   "business": [
     {
+      "headline": "Anthropic may release new AI model before IPO to boost valuation: Reuters",
+      "take": "Anthropic plans new AI model release ahead of IPO for valuation lift",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-may-release-new-ai-model-before-ipo-to-boost-valuation-reuters/"
+    },
+    {
+      "headline": "Amazon CEO Andy Jassy affirms long-term reliance on Nvidia chips even as in-house AI silicon scales past $20B",
+      "take": "Amazon CEO confirms long-term Nvidia reliance despite scaling proprietary AI chips",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/amazon-jassy-nvidia-chips-long-term/"
+    },
+    {
       "headline": "Clearpool Finance to expand institutional credit on XRP Ledger",
-      "take": "Clearpool Finance expands institutional credit services on XRP Ledger",
+      "take": "Clearpool Finance expanding institutional credit services on XRP Ledger",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/clearpool-finance-to-expand-institutional-credit-on-xrp-ledger/"
     },
     {
-      "headline": "Chainlink expands to Arc mainnet and MOVA Chain as institutional blockchain adoption accelerates",
-      "take": "Chainlink integrates with Arc and MOVA Chain for enterprise adoption",
+      "headline": "OpenAI projects $278B cash burn through 2030 as compute spending surges",
+      "take": "OpenAI projects $278B cash burn through 2030 as compute costs escalate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-expands-arc-mainnet-mova-chain/"
+      "link": "https://cryptobriefing.com/openai-projects-278b-cash-burn-through-2030/"
     },
-    {
-      "headline": "Circle integrates Venice into Agent Marketplace for AI services",
-      "take": "Circle adds Venice AI service integration to Agent Marketplace",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-integrates-venice-agent-marketplace/"
-    },
-    {
-      "headline": "Zcash Is Running\u2014Devs Want to Make It Faster",
-      "take": "Zcash development team pursuing protocol improvements for speed",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster"
-    }
-  ],
-  "security": [],
-  "policy": [
     {
       "headline": "US OCC grants conditional banking license approval to Bastion",
-      "take": "US banking regulator approves conditional license for crypto-focused Bastion",
+      "take": "US OCC grants conditional banking license to crypto-focused firm Bastion",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/"
+    }
+  ],
+  "security": [
+    {
+      "headline": "Former Hong Kong banker sentenced to four years for crypto bribery",
+      "take": "Former Hong Kong banker sentenced four years for cryptocurrency bribery scheme",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-banker-crypto-bribery-sentence/"
     },
     {
-      "headline": "Trump signs Lindsey Graham Act, extends Iran sanctions to 2031",
-      "take": "Trump administration extends Iran sanctions through 2031 via legislation",
+      "headline": "Users sue OpenAI, Anthropic, xAI, and Google for alleged AI collusion",
+      "take": "Users filing lawsuit against OpenAI, Anthropic, xAI, Google for alleged collusion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-signs-lindsey-graham-act-extends-iran-sanctions-to-2031/"
+      "link": "https://cryptobriefing.com/users-sue-openai-anthropic-xai-collusion/"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Cohere CEO Aidan Gomez challenges US claims on Chinese AI distillation",
+      "take": "Cohere CEO disputes US allegations regarding Chinese AI model distillation activities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cohere-ceo-challenges-chinese-ai-distillation-claims/"
     }
   ]
 }

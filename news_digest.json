@@ -1,120 +1,59 @@
 {
-  "generated": "2026-09-19T23:11:59.326050+00:00",
-  "ts": 1789859519,
+  "generated": "2026-09-20T04:59:21.435993+00:00",
+  "ts": 1789880361,
   "market": [
     {
-      "headline": "Ethereum posts best Q3 performance ever with 60% gains and $10B in ETF inflows",
-      "take": "Ethereum posts best Q3 performance ever with 60% gains and $10B ETF inflows",
+      "headline": "Spot Bitcoin ETFs pull in $313M net inflow through first 18 days of September",
+      "take": "Spot Bitcoin ETFs attract $313M inflows in first 18 days of September",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-best-q3-performance-ever/"
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-september-net-inflow/"
     },
     {
-      "headline": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-      "take": "Bitcoin ETFs see $433M Friday inflow; ether funds snap four-week inflow streak",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871"
-    },
-    {
-      "headline": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
-      "take": "Grayscale makes Zcash ETF more affordable as demand for alternative assets grows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split"
-    },
-    {
-      "headline": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-      "take": "Bitcoin's sharpest rally in two years driven almost entirely by short liquidations",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations"
-    },
-    {
-      "headline": "S&P 500 slips as Fed hikes rates for first time since 2023, cybersecurity stocks buck the trend",
-      "take": "S&P 500 slips as Fed hikes rates for first time since 2023",
+      "headline": "Ethereum sees 13.6x more ETH waiting to be staked than exited",
+      "take": "Ethereum shows 13.6x more ETH staking demand than unstaking pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-sp500-cybersecurity-stocks/"
+      "link": "https://cryptobriefing.com/ethereum-staking-queue-imbalance-13x/"
+    },
+    {
+      "headline": "Bitcoin ETFs now hold 6% of total Bitcoin market cap",
+      "take": "Bitcoin ETFs now represent 6% of total Bitcoin market capitalization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-hold-6-percent-market-cap/"
+    },
+    {
+      "headline": "Uniswap leads tokenized stock DeFi TVL growth, adds $83M in 30 days",
+      "take": "Uniswap leads tokenized stock DeFi growth, gaining $83M in 30 days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-tokenized-stock-defi-tvl-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase\u2019s tokenized stocks exceed $1B in DEX trading volume within first month",
-      "take": "Coinbase tokenized stocks exceed $1B in DEX trading volume within first month",
+      "headline": "Injective partners with Microsoft to host onchain commerce event ahead of Token2049",
+      "take": "Injective partners Microsoft for onchain commerce event at Token2049",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-billion-dex-volume/"
+      "link": "https://cryptobriefing.com/injective-microsoft-onchain-commerce-token2049/"
     },
     {
-      "headline": "BitGo Bank & Trust powers TOYOSA\u2019s stablecoin payments for Toyota vehicles in Bolivia",
-      "take": "BitGo Bank powers TOYOSA stablecoin payments for Toyota vehicles in Bolivia",
+      "headline": "Kalshi files for perpetual futures tied to US stocks, joins Coinbase in race to bring crypto-native trading to equities",
+      "take": "Kalshi files perpetual futures for US stocks, competing with Coinbase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-toyosa-usdt-payments-bolivia/"
+      "link": "https://cryptobriefing.com/kalshi-coinbase-stock-perpetual-futures/"
     },
     {
-      "headline": "Kalshi joins Coinbase with filing for US stock perpetual futures",
-      "take": "Kalshi joins Coinbase filing for US stock perpetual futures trading",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Ripple says asset managers are preparing for XRP Ledger\u2019s next payments upgrade",
-      "take": "Ripple reports asset managers preparing for XRP Ledger's next payments upgrade",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade"
-    },
-    {
-      "headline": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-      "take": "Solana block times fall 17% in latest speed upgrade",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade"
+      "headline": "NEAR Protocol\u2019s Intents total value locked reaches $169M after 77% monthly surge",
+      "take": "NEAR Protocol Intents TVL reaches $169M following 77% monthly surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/near-intents-tvl-169-million/"
     }
   ],
-  "security": [
-    {
-      "headline": "Blink Wallet pauses services after attacker drains custodial accounts",
-      "take": "Blink Wallet pauses services after attacker drains custodial accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blink-wallet-pauses-custodial-breach/"
-    },
-    {
-      "headline": "Switchboard shuts down operations, urges users to migrate by September 25",
-      "take": "Switchboard shuts down operations, urges users to migrate by September 25",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/switchboard-oracle-shuts-down-migration/"
-    },
-    {
-      "headline": "Anthropic, OpenAI, Google collaborate on AI safety standards",
-      "take": "Anthropic, OpenAI, Google collaborate on AI safety standards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-openai-google-collaborate-on-ai-safety-standards/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
-      "take": "Clarity Act's defeat handed SEC and CFTC regulatory control over crypto",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto"
-    },
-    {
-      "headline": "US, China officials to meet at JPMorgan HQ on AI security, trade issues Sunday",
-      "take": "US, China officials meet at JPMorgan on AI security and trade issues",
+      "headline": "Polymarket CEO reportedly told staff to prioritize growth over compliance amid massive fraud probe",
+      "take": "Polymarket CEO reportedly told staff to prioritize growth over compliance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-china-officials-to-meet-at-jpmorgan-hq-on-ai-security-trade-issues-sunday/"
-    },
-    {
-      "headline": "Trump warns US must accelerate AI development to compete with China",
-      "take": "Trump warns US must accelerate AI development to compete with China",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ai-development-china-competition/"
-    },
-    {
-      "headline": "Judge blocks OpenAI\u2019s access to Apple\u2019s confidential settlement with Musk\u2019s companies",
-      "take": "Judge blocks OpenAI's access to Apple's confidential Musk settlement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/judge-blocks-openai-apple-settlement-access/"
-    },
-    {
-      "headline": "Visa to close Crossmint memecoin rewards loophole following The Block investigation: report",
-      "take": "Visa closes Crossmint memecoin rewards loophole following investigation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866"
+      "link": "https://cryptobriefing.com/polymarket-ceo-growth-fraud-probe/"
     }
   ]
 }

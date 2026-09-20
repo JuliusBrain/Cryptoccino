@@ -1,59 +1,72 @@
 {
-  "generated": "2026-09-20T04:59:21.435993+00:00",
-  "ts": 1789880361,
+  "generated": "2026-09-20T11:32:28.491077+00:00",
+  "ts": 1789903948,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs pull in $313M net inflow through first 18 days of September",
-      "take": "Spot Bitcoin ETFs attract $313M inflows in first 18 days of September",
+      "headline": "Strategy\u2019s MSTR tops NASDAQ-100 with 48% gain over the past month",
+      "take": "Microstrategy stock surges 48% in past month on bitcoin holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-september-net-inflow/"
+      "link": "https://cryptobriefing.com/mstr-tops-nasdaq-100-monthly-gain/"
     },
     {
-      "headline": "Ethereum sees 13.6x more ETH waiting to be staked than exited",
-      "take": "Ethereum shows 13.6x more ETH staking demand than unstaking pressure",
+      "headline": "China keeps benchmark lending rates unchanged for 16th straight month as policy divergence with US widens",
+      "take": "China holds lending rates steady amid diverging policy from US",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-staking-queue-imbalance-13x/"
+      "link": "https://cryptobriefing.com/china-benchmark-lending-rates-unchanged-16-months/"
     },
     {
-      "headline": "Bitcoin ETFs now hold 6% of total Bitcoin market cap",
-      "take": "Bitcoin ETFs now represent 6% of total Bitcoin market capitalization",
+      "headline": "Yen faces vulnerability as Japan\u2019s holiday thins trading liquidity",
+      "take": "Yen vulnerable to thin trading liquidity during Japan holiday period",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-hold-6-percent-market-cap/"
+      "link": "https://cryptobriefing.com/yen-vulnerability-japan-holiday-liquidity/"
     },
     {
-      "headline": "Uniswap leads tokenized stock DeFi TVL growth, adds $83M in 30 days",
-      "take": "Uniswap leads tokenized stock DeFi growth, gaining $83M in 30 days",
+      "headline": "Trump 2.0 stock market performance lags behind predecessors",
+      "take": "Trump-era stock market gains lag historical performance of prior administrations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-tokenized-stock-defi-tvl-growth/"
+      "link": "https://cryptobriefing.com/trump-second-term-stock-market-performance/"
     }
   ],
   "business": [
     {
-      "headline": "Injective partners with Microsoft to host onchain commerce event ahead of Token2049",
-      "take": "Injective partners Microsoft for onchain commerce event at Token2049",
+      "headline": "Binance Wallet launches Pre-Access campaigns for tokenized pre-IPO exposure via PancakeSwap",
+      "take": "Binance Wallet launches tokenized pre-IPO access campaigns via PancakeSwap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-microsoft-onchain-commerce-token2049/"
+      "link": "https://cryptobriefing.com/binance-pre-access-pre-ipo-subscriptions/"
     },
     {
-      "headline": "Kalshi files for perpetual futures tied to US stocks, joins Coinbase in race to bring crypto-native trading to equities",
-      "take": "Kalshi files perpetual futures for US stocks, competing with Coinbase",
+      "headline": "ZetaChain proposes shutting down its L1, migrating ZETA token to Solana",
+      "take": "ZetaChain proposes shutdown of L1, migrate ZETA token to Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-coinbase-stock-perpetual-futures/"
+      "link": "https://cryptobriefing.com/zetachain-shutdown-zeta-migration-solana/"
     },
     {
-      "headline": "NEAR Protocol\u2019s Intents total value locked reaches $169M after 77% monthly surge",
-      "take": "NEAR Protocol Intents TVL reaches $169M following 77% monthly surge",
+      "headline": "Taiwan Semiconductor Manufacturing captures 73% of foundry revenue as AI demand widens its lead",
+      "take": "TSMC captures 73% of foundry revenue as AI demand accelerates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-intents-tvl-169-million/"
+      "link": "https://cryptobriefing.com/tsmc-73-percent-foundry-market-share/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Google infiltrated TeamPCP hacker group to disrupt attacks from the inside",
+      "take": "Google infiltrated hacker group TeamPCP to disrupt coordinated attacks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-infiltrated-teampcp-hacker-group-disruption/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Polymarket CEO reportedly told staff to prioritize growth over compliance amid massive fraud probe",
-      "take": "Polymarket CEO reportedly told staff to prioritize growth over compliance",
+      "headline": "Trump\u2019s regulatory rollback risks $430M in US audit fees as SEC proposes gutting post-Enron rules",
+      "take": "Trump rollback risks 430M in audit fees as SEC eyes post-Enron rules",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-ceo-growth-fraud-probe/"
+      "link": "https://cryptobriefing.com/sec-audit-fee-rollback-sarbanes-oxley/"
+    },
+    {
+      "headline": "China elevates Li Chenggang to lead US trade negotiations ahead of Trump-Xi summit",
+      "take": "China appoints trade negotiator ahead of Trump-Xi summit discussions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-li-chenggang-us-trade-negotiator/"
     }
   ]
 }

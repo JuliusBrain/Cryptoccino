@@ -1,72 +1,102 @@
 {
-  "generated": "2026-09-20T11:32:28.491077+00:00",
-  "ts": 1789903948,
+  "generated": "2026-09-20T16:12:59.363294+00:00",
+  "ts": 1789920779,
   "market": [
     {
-      "headline": "Strategy\u2019s MSTR tops NASDAQ-100 with 48% gain over the past month",
-      "take": "Microstrategy stock surges 48% in past month on bitcoin holdings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mstr-tops-nasdaq-100-monthly-gain/"
+      "headline": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "take": "Bitcoin avoided expected collapse as traders braced for major downturn",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans"
     },
     {
-      "headline": "China keeps benchmark lending rates unchanged for 16th straight month as policy divergence with US widens",
-      "take": "China holds lending rates steady amid diverging policy from US",
+      "headline": "Grayscale\u2019s ZCSH ETF increases Zcash holdings by 28% to 596,269 ZEC",
+      "take": "Grayscale's Zcash ETF increases holdings by 28 percent to 596k coins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-benchmark-lending-rates-unchanged-16-months/"
+      "link": "https://cryptobriefing.com/grayscale-zcsh-etf-zcash-holdings-increase/"
     },
     {
-      "headline": "Yen faces vulnerability as Japan\u2019s holiday thins trading liquidity",
-      "take": "Yen vulnerable to thin trading liquidity during Japan holiday period",
+      "headline": "US government expected to issue $1T in short-term debt as borrowing costs rise",
+      "take": "US government to issue one trillion in short-term debt as costs rise",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yen-vulnerability-japan-holiday-liquidity/"
+      "link": "https://cryptobriefing.com/us-trillion-short-term-debt-borrowing-costs/"
     },
     {
-      "headline": "Trump 2.0 stock market performance lags behind predecessors",
-      "take": "Trump-era stock market gains lag historical performance of prior administrations",
+      "headline": "US Treasury Secretary Bessent highlights strong foreign demand for US assets",
+      "take": "Treasury Secretary reports strong foreign demand for US dollar assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-second-term-stock-market-performance/"
+      "link": "https://cryptobriefing.com/bessent-foreign-demand-us-assets/"
+    },
+    {
+      "headline": "Emerging-market investors favor local-currency bonds as dollar debt lags",
+      "take": "Emerging markets shift toward local-currency bonds amid dollar weakness",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/emerging-market-local-currency-bonds-outperform/"
     }
   ],
   "business": [
     {
-      "headline": "Binance Wallet launches Pre-Access campaigns for tokenized pre-IPO exposure via PancakeSwap",
-      "take": "Binance Wallet launches tokenized pre-IPO access campaigns via PancakeSwap",
+      "headline": "Aptos builds infrastructure for AI agents to rent GPUs and settle payments in stablecoins",
+      "take": "Aptos builds AI agent infrastructure for GPU rental and stablecoin payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-pre-access-pre-ipo-subscriptions/"
+      "link": "https://cryptobriefing.com/aptos-ai-agents-gpu-stablecoin-settlements/"
     },
     {
-      "headline": "ZetaChain proposes shutting down its L1, migrating ZETA token to Solana",
-      "take": "ZetaChain proposes shutdown of L1, migrate ZETA token to Solana",
+      "headline": "Zoom\u2019s Anthropic bet is quietly worth more than most people realize",
+      "take": "Zoom's Anthropic investment stake worth significantly more than public awareness",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zetachain-shutdown-zeta-migration-solana/"
+      "link": "https://cryptobriefing.com/zoom-anthropic-ipo-stake-gains/"
     },
     {
-      "headline": "Taiwan Semiconductor Manufacturing captures 73% of foundry revenue as AI demand widens its lead",
-      "take": "TSMC captures 73% of foundry revenue as AI demand accelerates",
+      "headline": "Jane Street Group moves into leveraged ETF swaps, challenging Wall Street\u2019s derivatives gatekeepers",
+      "take": "Jane Street enters leveraged ETF swaps, challenging Wall Street derivatives control",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-73-percent-foundry-market-share/"
+      "link": "https://cryptobriefing.com/jane-street-leveraged-etf-swaps/"
+    },
+    {
+      "headline": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "take": "Coinbase, Robinhood, Circle positioned as early winners of SEC tokenized stocks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say"
+    },
+    {
+      "headline": "Crypto platform Gemini\u2019s stock is down 80% from its IPO. That\u2019s reviving takeover speculation",
+      "take": "Gemini stock down 80 percent from IPO, reviving merger and acquisition talk",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation"
     }
   ],
   "security": [
     {
-      "headline": "Google infiltrated TeamPCP hacker group to disrupt attacks from the inside",
-      "take": "Google infiltrated hacker group TeamPCP to disrupt coordinated attacks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-infiltrated-teampcp-hacker-group-disruption/"
+      "headline": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+      "take": "Polymarket faced ten million dollar fraud attempt amid compliance lapses",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875"
     }
   ],
   "policy": [
     {
-      "headline": "Trump\u2019s regulatory rollback risks $430M in US audit fees as SEC proposes gutting post-Enron rules",
-      "take": "Trump rollback risks 430M in audit fees as SEC eyes post-Enron rules",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-audit-fee-rollback-sarbanes-oxley/"
+      "headline": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "take": "Visa closing meme coin credit card rewards loophole for compliance",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole"
     },
     {
-      "headline": "China elevates Li Chenggang to lead US trade negotiations ahead of Trump-Xi summit",
-      "take": "China appoints trade negotiator ahead of Trump-Xi summit discussions",
+      "headline": "Goldman Sachs analysts say SEC\u2019s innovation exemption could benefit Coinbase, Robinhood",
+      "take": "Goldman Sachs says SEC's innovation exemption could benefit crypto platforms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-li-chenggang-us-trade-negotiator/"
+      "link": "https://cryptobriefing.com/goldman-sachs-sec-innovation-exemption-coinbase-robinhood/"
+    },
+    {
+      "headline": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
+      "take": "Trump administration plans to form AI Force and appoint dedicated AI czar",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Anthropic tabs Accenture\u00a0as embedded evaluator to help with AI slowdown proposal",
+      "take": "Anthropic hires Accenture as embedded evaluator for AI safety slowdown",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

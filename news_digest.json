@@ -1,71 +1,96 @@
 {
-  "generated": "2026-09-21T05:04:26.919759+00:00",
-  "ts": 1789967066,
+  "generated": "2026-09-21T12:57:11.705874+00:00",
+  "ts": 1789995431,
   "market": [
     {
-      "headline": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "take": "Bitcoin clears $81K on historical bull-run signal; NEAR jumps 23%",
+      "headline": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+      "take": "Bitcoin tops $85K, triggering $648M in crypto short liquidations",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated"
+    },
+    {
+      "headline": "Solana surges past $116, liquidating over $18M in short positions",
+      "take": "Solana surges past $116, liquidating over $18M in short positions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-surges-past-116-short-liquidations/"
+    },
+    {
+      "headline": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+      "take": "Bitcoin's 44% Q3 gain signals potential start of full bull run",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic"
+      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run"
     },
     {
-      "headline": "BofA Global Research warns of repricing risk for front-end yields as central banks pull back",
-      "take": "BofA warns central bank pullback creates repricing risk for yields",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bofa-warns-front-end-yield-repricing-risk/"
+      "headline": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+      "take": "Perpetual futures tied to bitcoin volatility index launch on Hyperliquid",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid"
     },
     {
-      "headline": "Federal Reserve\u2019s hiking cycle raises concerns for AI financing as sector carries $320 billion in debt",
-      "take": "AI sector carries $320B debt amid Fed rate pressures, raising concerns",
+      "headline": "US equity futures climb as oil prices slide ahead of Trump-Xi summit",
+      "take": "US equity futures rise as oil prices slide before Trump-Xi summit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-hiking-cycle-ai-financing-concerns/"
+      "link": "https://cryptobriefing.com/us-equity-futures-oil-trump-xi-summit/"
     }
   ],
   "business": [
     {
-      "headline": "ZetaChain votes to shut down Layer 1 network, migrate ZETA to Solana",
-      "take": "ZetaChain shuts Layer 1, migrating ZETA token to Solana blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zetachain-shutdown-zeta-migrate-solana/"
+      "headline": "\u2018A little more orange\u2019: Strategy buys 950 bitcoin for $76 million, bringing total holdings to 846,000 BTC",
+      "take": "Strategy buys 950 Bitcoin for $76M, holdings reach 846,000 BTC",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-21-a-little-more-orange-strategy-bitcoin-michael-saylor-415893"
     },
     {
-      "headline": "Pendle launches NGI+ market bringing institutional infrastructure yields to DeFi",
-      "take": "Pendle launches NGI+ bringing institutional infrastructure yields to DeFi",
+      "headline": "Robinhood plans to launch tokenized stock trading in US by 2027",
+      "take": "Robinhood plans tokenized stock trading launch in US by 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-ngi-plus-fixed-yield-market/"
+      "link": "https://cryptobriefing.com/robinhood-tokenized-stock-trading-us-2027/"
     },
     {
-      "headline": "Hana Bank issues $100M bond on Euroclear blockchain with same-day settlement",
-      "take": "Hana Bank issues $100M bond on Euroclear blockchain with same-day settlement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hana-bank-100m-digital-bond-euroclear-settlement/"
+      "headline": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+      "take": "Google and Apple recruit crypto talent for stablecoin and tokenization",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails"
     },
     {
-      "headline": "Apple and Google are hiring stablecoin experts as Big Tech eyes crypto payments",
-      "take": "Apple and Google hire stablecoin experts as Big Tech explores crypto payments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apple-google-stablecoin-hiring-payments/"
+      "headline": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+      "take": "ECB deploys Pontes platform to settle tokenized wholesale assets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money"
     },
     {
-      "headline": "SoftBank seeks over $11B in junk bond deal to fund OpenAI investment",
-      "take": "SoftBank seeks $11B+ in junk bonds to fund OpenAI investment",
+      "headline": "Binance expands bStocks margin collateral to all eligible users",
+      "take": "Binance expands bStocks margin collateral access to all eligible users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/softbank-junk-bond-openai-investment/"
+      "link": "https://cryptobriefing.com/binance-bstocks-margin-collateral/"
     }
   ],
-  "security": [],
-  "policy": [
+  "security": [
     {
-      "headline": "US Treasury proposes AI incident notification mechanism after talks with China",
-      "take": "US Treasury proposes AI incident notification mechanism after China talks",
+      "headline": "Polymarket loosened anti-money-laundering controls amid $10M fraud attack using stolen debit cards",
+      "take": "Polymarket loosened AML controls, suffered $10M fraud via stolen cards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-ai-notification-china/"
+      "link": "https://cryptobriefing.com/polymarket-loosens-aml-controls-fraud/"
     },
     {
-      "headline": "Jersey faces economic crossroads as it diversifies into crypto assets",
-      "take": "Jersey diversifies into crypto assets as economic strategy shifts",
+      "headline": "X sues its own users for running a fake bitcoin news bot farm",
+      "take": "X sues users operating fake bitcoin news bot farm",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm"
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Michael Saylor calls CLARITY Act rejection a \u201cpositive inflection point\u201d for crypto",
+      "take": "Michael Saylor calls CLARITY Act rejection positive step for crypto",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jersey-crypto-assets-economic-diversification/"
+      "link": "https://cryptobriefing.com/saylor-clarity-act-rejection-positive-crypto/"
+    },
+    {
+      "headline": "Hong Kong Stock Exchange seeks to ease listing rules for corporate deals",
+      "take": "Hong Kong Stock Exchange seeks to ease listing rules for corporate deals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-stock-exchange-eases-listing-rules/"
     }
   ]
 }

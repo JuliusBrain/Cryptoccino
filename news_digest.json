@@ -1,102 +1,71 @@
 {
-  "generated": "2026-09-20T23:16:58.490014+00:00",
-  "ts": 1789946218,
+  "generated": "2026-09-21T05:04:26.919759+00:00",
+  "ts": 1789967066,
   "market": [
     {
-      "headline": "Hyperliquid open interest surges above $8B, hits all-time high",
-      "take": "Hyperliquid open interest surges above $8B, reaching all-time high",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-open-interest-8-billion-all-time-high/"
+      "headline": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "take": "Bitcoin clears $81K on historical bull-run signal; NEAR jumps 23%",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic"
     },
     {
-      "headline": "Perpetual futures open positions grow 13% across 15 venues in one week",
-      "take": "Perpetual futures open positions grow 13% across 15 venues weekly",
+      "headline": "BofA Global Research warns of repricing risk for front-end yields as central banks pull back",
+      "take": "BofA warns central bank pullback creates repricing risk for yields",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/perpetual-futures-open-interest-grows-13-percent/"
+      "link": "https://cryptobriefing.com/bofa-warns-front-end-yield-repricing-risk/"
     },
     {
-      "headline": "Federal Reserve raises rates for first time since 2023, putting corporate treasurers back to work",
-      "take": "Federal Reserve raises rates for first time since 2023",
+      "headline": "Federal Reserve\u2019s hiking cycle raises concerns for AI financing as sector carries $320 billion in debt",
+      "take": "AI sector carries $320B debt amid Fed rate pressures, raising concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-2026-corporate-treasurers-investments/"
-    },
-    {
-      "headline": "Hyperliquid tops year-to-date revenue rankings with $429M generated",
-      "take": "Hyperliquid tops year-to-date revenue rankings with $429M generated",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-tops-ytd-revenue-rankings-429m/"
-    },
-    {
-      "headline": "Investors pivot to shorter-dated US Treasury bonds amid Fed inflation bets",
-      "take": "Investors pivot to shorter-dated US Treasury bonds amid Fed inflation bets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/investors-pivot-short-dated-treasury-bonds-fed-inflation/"
+      "link": "https://cryptobriefing.com/fed-hiking-cycle-ai-financing-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "take": "Coinbase, Robinhood, Circle seen as early winners of SEC tokenized-stock push",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say"
-    },
-    {
-      "headline": "Warner Music Group partners with Suno to launch AI music models trained on licensed catalog",
-      "take": "Warner Music Group partners with Suno on AI music models with licensed catalog",
+      "headline": "ZetaChain votes to shut down Layer 1 network, migrate ZETA to Solana",
+      "take": "ZetaChain shuts Layer 1, migrating ZETA token to Solana blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warner-music-suno-ai-music-models/"
+      "link": "https://cryptobriefing.com/zetachain-shutdown-zeta-migrate-solana/"
     },
     {
-      "headline": "Paxos\u2019 USDG stablecoin hits $21.8B on Uniswap in September",
-      "take": "Paxos USDG stablecoin hits $21.8B on Uniswap in September",
+      "headline": "Pendle launches NGI+ market bringing institutional infrastructure yields to DeFi",
+      "take": "Pendle launches NGI+ bringing institutional infrastructure yields to DeFi",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paxos-usdg-22b-dex-trading-volume/"
+      "link": "https://cryptobriefing.com/pendle-ngi-plus-fixed-yield-market/"
     },
     {
-      "headline": "Paradex facilitates record $16M ETH options trade at lower cost than Deribit",
-      "take": "Paradex facilitates record $16M ETH options trade at lower cost",
+      "headline": "Hana Bank issues $100M bond on Euroclear blockchain with same-day settlement",
+      "take": "Hana Bank issues $100M bond on Euroclear blockchain with same-day settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paradex-record-eth-options-trade-deribit/"
+      "link": "https://cryptobriefing.com/hana-bank-100m-digital-bond-euroclear-settlement/"
     },
     {
-      "headline": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
-      "take": "ZetaChain votes to shut down Layer 1 network, move ZETA to Solana",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878"
+      "headline": "Apple and Google are hiring stablecoin experts as Big Tech eyes crypto payments",
+      "take": "Apple and Google hire stablecoin experts as Big Tech explores crypto payments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apple-google-stablecoin-hiring-payments/"
+    },
+    {
+      "headline": "SoftBank seeks over $11B in junk bond deal to fund OpenAI investment",
+      "take": "SoftBank seeks $11B+ in junk bonds to fund OpenAI investment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/softbank-junk-bond-openai-investment/"
     }
   ],
-  "security": [
-    {
-      "headline": "Malware steals over $235K in crypto from hundreds of victims in just 48 hours",
-      "take": "Malware steals over $235K in crypto from hundreds of victims in 48 hours",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rat-malware-steals-235k-crypto/"
-    },
-    {
-      "headline": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
-      "take": "Polymarket faced $10M fraud attempt as CEO prioritized growth over compliance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875"
-    },
-    {
-      "headline": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-      "take": "Visa moves to close meme coin credit card rewards loophole",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
-      "take": "Trump says US will form AI Force and appoint AI czar",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US Treasury proposes AI incident notification mechanism after talks with China",
+      "take": "US Treasury proposes AI incident notification mechanism after China talks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-ai-notification-china/"
     },
     {
-      "headline": "Congress lacks time, consensus for AI regulation this year",
-      "take": "Congress lacks time and consensus for AI regulation this year",
+      "headline": "Jersey faces economic crossroads as it diversifies into crypto assets",
+      "take": "Jersey diversifies into crypto assets as economic strategy shifts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/congress-ai-regulation-stalled-2026/"
+      "link": "https://cryptobriefing.com/jersey-crypto-assets-economic-diversification/"
     }
   ]
 }

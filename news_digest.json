@@ -1,108 +1,90 @@
 {
-  "generated": "2026-09-22T05:06:15.304315+00:00",
-  "ts": 1790053575,
+  "generated": "2026-09-22T11:46:59.029369+00:00",
+  "ts": 1790077619,
   "market": [
     {
-      "headline": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-      "take": "Dogecoin rallies 15% as bitcoin holds above $85,000 in market rebound",
+      "headline": "$3.2M bitcoin butterfly option trade targets $95,000 by end of October",
+      "take": "Trader bets bitcoin reaches $95,000 by end of October via options",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-butterfly-option-trade-95000-october/"
+    },
+    {
+      "headline": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "take": "Bitcoin recovers from Asian lows as oil prices fall, supporting risk appetite",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000"
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite"
     },
     {
-      "headline": "Over $1B liquidated from crypto market as shorts get obliterated",
-      "take": "Over $1 billion liquidated as crypto shorts face heavy losses",
+      "headline": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
+      "take": "Prediction markets projected to reach $10 trillion annual volume by 2035",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030"
+    },
+    {
+      "headline": "Quantum computing stocks face scrutiny as insiders sell $840M\u2013$931M in shares",
+      "take": "Quantum computing insiders sell $840M\u2013$931M in shares amid sector scrutiny",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/billion-crypto-liquidations-short-squeeze/"
-    },
-    {
-      "headline": "Bitwise Solana Staking ETF sees $60M inflows, AUM hits $1B",
-      "take": "Bitwise Solana Staking ETF reaches $1B AUM with $60M inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-sees-60m-inflows-aum-hits-1b/"
-    },
-    {
-      "headline": "Glassnode reports shift from Bitcoin to altcoin season amid broader rally",
-      "take": "Glassnode reports broader market rotation from bitcoin into altcoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/glassnode-altcoin-season-signal-bitcoin-rally/"
-    },
-    {
-      "headline": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "take": "Bitcoin may test $90K after short squeeze despite rising leverage",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
+      "link": "https://cryptobriefing.com/quantum-computing-stocks-insider-selling-895-million/"
     }
   ],
   "business": [
     {
-      "headline": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-      "take": "Cardano joins Solana and XRP Ledger racing to power AI agent payments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments"
+      "headline": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
+      "take": "Binance invests $100M in Circle under five-year USDC promotion agreement",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal"
     },
     {
-      "headline": "Kakao Pay and Kakao Bank partner with Fireblocks to build digital asset infrastructure in South Korea",
-      "take": "Kakao Pay and Kakao Bank partner with Fireblocks for South Korea digital assets",
+      "headline": "Bitcoin miners valued as AI infrastructure play as AI-focused stocks surge 21% year-to-date",
+      "take": "Bitcoin miners attract investors as AI infrastructure play gains momentum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kakao-fireblocks-digital-asset-infrastructure/"
+      "link": "https://cryptobriefing.com/bitcoin-miners-ai-infrastructure-valuation-surge/"
     },
     {
-      "headline": "Animoca Brands suspends merger deal that would have taken it public",
-      "take": "Animoca Brands suspends merger deal that would have taken company public",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991"
-    },
-    {
-      "headline": "Circle heads to Sibos 2026 in Miami to pitch stablecoin infrastructure to global banking leaders",
-      "take": "Circle pitches stablecoin infrastructure to global banking leaders at Sibos 2026",
+      "headline": "Beefy launches automated concentrated liquidity managers on Ethereum mainnet",
+      "take": "Beefy launches automated concentrated liquidity managers on Ethereum mainnet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-sibos-2026-stablecoin-infrastructure/"
+      "link": "https://cryptobriefing.com/beefy-clm-ethereum-mainnet-launch/"
     },
     {
-      "headline": "Silicon Data CEO Carmen Li wants to turn GPU prices into a futures market",
-      "take": "Silicon Data CEO proposes turning GPU prices into a futures market",
+      "headline": "Jupiter Exchange launches perps markets for SPCX, HYPE, and ZEC on Solana",
+      "take": "Jupiter Exchange opens perpetual futures markets for SPCX, HYPE, ZEC on Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/silicon-data-ceo-carmen-li-gpu-futures-tokenomics/"
+      "link": "https://cryptobriefing.com/jupiter-exchange-perps-spcx-hype-zec/"
+    },
+    {
+      "headline": "Moxie Marlinspike launches Confer, a privacy-focused AI chatbot with end-to-end encryption",
+      "take": "Moxie Marlinspike releases Confer, privacy-focused AI chatbot with end-to-end encryption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moxie-marlinspike-confer-privacy-ai-chatbot/"
     }
   ],
   "security": [
     {
-      "headline": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
-      "take": "Google stayed silent for 7 weeks after Gemini AI hacked three companies",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent"
+      "headline": "Cisco Talos develops CAIRN framework to detect AI-integrated malware",
+      "take": "Cisco Talos develops CAIRN framework to detect AI-integrated malware threats",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cisco-talos-cairn-framework-ai-malware/"
     },
     {
-      "headline": "COLDCARD white hats transfer 52 BTC to Crypto Recovery Trust for victim reimbursement",
-      "take": "COLDCARD white hats transfer 52 BTC to Crypto Recovery Trust for victims",
+      "headline": "Bank of America and other major banks warn AI shopping agents are outpacing fraud protections",
+      "take": "Major banks warn AI shopping agents outpacing fraud detection capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-white-hats-btc-crypto-recovery-trust/"
-    },
-    {
-      "headline": "Jameson Lopp launches interactive dashboard mapping 360 physical Bitcoin attacks worldwide",
-      "take": "Jameson Lopp launches dashboard mapping 360 documented physical Bitcoin attacks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lopp-bitcoin-attacks-interactive-dashboard/"
+      "link": "https://cryptobriefing.com/bank-of-america-banks-warn-ai-shopping-agent-risks/"
     }
   ],
   "policy": [
     {
-      "headline": "Manhattan US Attorney leading probe into Binance\u2019s Iran compliance: Bloomberg",
-      "take": "Manhattan US Attorney leads probe into Binance Iran compliance violations",
+      "headline": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+      "take": "US federal prosecutors probe Binance for possible sanctions violations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg"
+    },
+    {
+      "headline": "ECB, EU cenbanks seek changes in MiCA\u2019s minimum bank deposit for stablecoins",
+      "take": "ECB and EU central banks seek changes to MiCA stablecoin deposit requirements",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Republican senators complicate Clarity Act with stablecoin yield support",
-      "take": "Republican senators complicate Clarity Act with stablecoin yield support amendments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/republican-senators-complicate-clarity-act-with-stablecoin-yield-support/"
-    },
-    {
-      "headline": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
-      "take": "Crypto Super PAC Fairshake targets Senator Sherrod Brown with $30M campaign",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million"
+      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,90 +1,102 @@
 {
-  "generated": "2026-09-21T20:01:04.527028+00:00",
-  "ts": 1790020864,
+  "generated": "2026-09-22T00:10:14.517185+00:00",
+  "ts": 1790035814,
   "market": [
     {
-      "headline": "Crypto market cap surges $160B in 24 hours, hits $2.8T",
-      "take": "Crypto market cap surges $160B in 24 hours, reaching $2.8T",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-cap-surges-160b-in-24-hours-hits-28t/"
+      "headline": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "take": "Bitcoin tests $90K after short squeeze; traders warn leverage is building",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
     },
     {
-      "headline": "130,286 crypto positions liquidated as Bitcoin falls below $76K",
-      "take": "130,286 crypto positions liquidated as Bitcoin falls below $76K",
+      "headline": "weETH surpasses $4B in deposits on Aave V3, becoming the protocol\u2019s second-largest asset",
+      "take": "weETH surpasses $4B in deposits, becoming Aave V3's second-largest asset",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/130286-crypto-positions-liquidated-as-bitcoin-falls-below-76k/"
+      "link": "https://cryptobriefing.com/weeth-4b-deposits-aave-v3/"
     },
     {
-      "headline": "Venice AI token VVV reaches record $34.53 as supply squeeze intensifies",
-      "take": "Venice AI token VVV reaches record $34.53 amid supply squeeze",
+      "headline": "Bittensor projects generate $28M-$35M in annualized revenue, with 14 subnets buying back their own tokens",
+      "take": "Bittensor subnets generating $28M-$35M annualized revenue with token buybacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/venice-ai-vvv-token-surges-record-high/"
+      "link": "https://cryptobriefing.com/bittensor-subnets-annualized-revenue/"
     },
     {
-      "headline": "Galaxy reports 40% drop in crypto lending from peak as market enters orderly deleveraging phase",
-      "take": "Galaxy reports 40% drop in crypto lending from peak levels",
+      "headline": "NASDAQ closes at record high as S&P 500 nears milestone",
+      "take": "NASDAQ closes at record high as S&P 500 approaches milestone",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-crypto-lending-40-percent-drop/"
-    },
-    {
-      "headline": "Bitcoin breaks one-year downtrend, analyst says bullish momentum returns",
-      "take": "Bitcoin breaks one-year downtrend as bullish momentum returns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-breaks-downtrend-bullish-momentum/"
+      "link": "https://cryptobriefing.com/nasdaq-record-high-sp500-ai-rally/"
     }
   ],
   "business": [
     {
-      "headline": "CoreWeave raises 2026 forecast to $12.4B\u2013$13.2B after $5.1B in 2025 revenue",
-      "take": "CoreWeave raises 2026 forecast to $12.4B\u2013$13.2B after strong 2025",
+      "headline": "X partners with Gemini, Kraken, Coinbase, and others to bring crypto trading to your timeline",
+      "take": "X partners with Gemini, Kraken, Coinbase for direct timeline crypto trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-forecasts-12b-sales-2026/"
+      "link": "https://cryptobriefing.com/x-partners-crypto-trading-cashtag-program/"
     },
     {
-      "headline": "Coinbase CEO Brian Armstrong meets institutional clients in Singapore as exchange expands APAC footprint",
-      "take": "Coinbase CEO meets institutional clients in Singapore, expands APAC presence",
+      "headline": "Circle heads to Sibos 2026 in Miami to pitch stablecoin infrastructure to global banking leaders",
+      "take": "Circle pitches stablecoin infrastructure to global banking leaders at Sibos 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-armstrong-singapore-institutional-clients/"
+      "link": "https://cryptobriefing.com/circle-sibos-2026-stablecoin-infrastructure/"
     },
     {
-      "headline": "Chainlink co-founder Sergey Nazarov joins Sibos 2026 lineup alongside major financial institutions",
-      "take": "Chainlink co-founder joins Sibos 2026 alongside major financial institutions",
+      "headline": "Ligent Technologies to debut on Hong Kong stock exchange after $727M IPO",
+      "take": "Ligent Technologies debuts on Hong Kong exchange after $727M IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-nazarov-sibos-2026-sessions/"
+      "link": "https://cryptobriefing.com/ligent-technologies-hong-kong-ipo/"
     },
     {
-      "headline": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-      "take": "Apple and Google recruit crypto talent, hint at stablecoin push",
+      "headline": "Deel launches Akai, an automation platform that reduces need for about 600 employees",
+      "take": "Deel launches Akai automation platform reducing workforce need by ~600 employees",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/deel-launches-akai-automation-tool-replacing-600-employees/"
+    },
+    {
+      "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "take": "Coinbase brings IPO shares to US retail traders starting with Oura",
       "source": "decrypt",
-      "link": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin"
-    },
-    {
-      "headline": "World Liberty Financial opens governance vote on 180-day rewards program for WLFI holders",
-      "take": "World Liberty Financial opens governance vote on 180-day rewards program",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financial-governance-vote-180-day-rewards/"
+      "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura"
     }
   ],
   "security": [
     {
-      "headline": "Meta\u2019s Muse AI agent faces security scare, raises alarms over AI agent safety",
-      "take": "Meta's Muse AI agent faces security scare, raises AI safety alarms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-muse-ai-zero-day-exploit/"
+      "headline": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
+      "take": "Google admits Gemini AI hacked three companies, stayed silent seven weeks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent"
     },
     {
-      "headline": "Kalshi\u2019s ether perpetual futures market faces wash trading allegations",
-      "take": "Kalshi's ether perpetual futures market faces wash trading allegations",
+      "headline": "BitGo rolls out quantum-risk management tools to shield institutional Bitcoin wallets",
+      "take": "BitGo deploys quantum-risk management tools for institutional Bitcoin wallets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-eth-perp-wash-trading-allegations/"
+      "link": "https://cryptobriefing.com/bitgo-quantum-risk-bitcoin-wallet-security/"
+    },
+    {
+      "headline": "British Columbia sues OpenAI over failure to warn police before mass shooting",
+      "take": "British Columbia sues OpenAI over failure to warn police before shooting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/british-columbia-sues-openai-mass-shooting/"
+    },
+    {
+      "headline": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+      "take": "X sues two Bitcoin influencers for running bot army milking creator payouts",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout"
     }
   ],
   "policy": [
     {
       "headline": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
-      "take": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio",
+      "take": "Crypto PAC spending $30M opposing Sherrod Brown in Ohio election",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "US lawmakers consider slowing China investment amid security concerns",
+      "take": "US lawmakers consider slowing China investment amid national security concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-lawmakers-consider-slowing-china-investment-amid-security-concerns/"
     },
     {
       "headline": "Europe\u2019s Central Bank Prepares to Invest Own Funds in Tokenized Securities",

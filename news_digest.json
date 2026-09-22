@@ -1,102 +1,102 @@
 {
-  "generated": "2026-09-22T17:01:44.826893+00:00",
-  "ts": 1790096504,
+  "generated": "2026-09-22T21:24:24.997722+00:00",
+  "ts": 1790112264,
   "market": [
     {
-      "headline": "Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit",
-      "take": "Bitcoin ETFs attracted nearly $1B in single day as holder profitability returns",
+      "headline": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
+      "take": "Bitcoin rallies as Nasdaq reaches records and oil prices ease",
       "source": "decrypt",
-      "link": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit"
+      "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides"
     },
     {
-      "headline": "Global physical gold-backed ETFs see 27.1 tonnes inflow, marking 11th straight week of gains",
-      "take": "Gold-backed ETFs see 27.1 tonnes inflow, marking eleventh consecutive week of gains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-etfs-11th-straight-week-inflows/"
+      "headline": "Bitcoin (BTC) Back at $100,000 Is Not So Outlandish",
+      "take": "Bitcoin at $100,000 price target gains credibility among analysts",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-22/bitcoin-btc-back-at-100-000-is-not-so-outlandish"
     },
     {
-      "headline": "Federal Reserve hikes rates as inflation risks outweigh employment concerns",
-      "take": "Federal Reserve raises rates as inflation risks outweigh employment concerns",
+      "headline": "Most altcoin holders remain in losses as market recovery lags behind Bitcoin",
+      "take": "Most altcoin holders underwater despite market recovery efforts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-inflation-risks/"
+      "link": "https://cryptobriefing.com/altcoin-holders-losses-market-recovery-lags/"
     },
     {
-      "headline": "US Treasury basis trade shrinks to its smallest size in over two years",
-      "take": "US Treasury basis trade shrinks to smallest size in over two years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-basis-trade-shrinks-two-year-low/"
+      "headline": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
+      "take": "Ancient Bitcoin movement signals potential whale activity or reallocation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks"
     },
     {
-      "headline": "BlackRock, Vanguard muni ETFs see record inflows after bond rout",
-      "take": "BlackRock and Vanguard municipal ETFs hit record inflows following bond selloff",
+      "headline": "SPYx leads tokenized ETF market cap growth by $8M in seven days",
+      "take": "Tokenized ETF market cap grows with SPYx leading sector gains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-vanguard-muni-etf-record-inflows/"
+      "link": "https://cryptobriefing.com/spyx-tokenized-etf-market-cap-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase Prime opens institutional staking for TON, expanding its proof-of-stake lineup",
-      "take": "Coinbase Prime expands institutional staking, adding TON to proof-of-stake offerings",
+      "headline": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
+      "take": "Coinbase develops quantum-resistant custody infrastructure for Bitcoin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody"
+    },
+    {
+      "headline": "Aptos partners with Daehong to launch on-chain ticketing system for Lotte Group\u2019s cultural events",
+      "take": "Aptos partners with Lotte Group for on-chain ticketing platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-prime-ton-institutional-staking/"
+      "link": "https://cryptobriefing.com/aptos-daehong-onchain-ticketing-lotte/"
     },
     {
-      "headline": "Coinbase launches tokenized stocks on Base for non-US users",
-      "take": "Coinbase launches tokenized stocks on Base blockchain for non-US users",
+      "headline": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+      "take": "CME expands crypto derivatives with Bitcoin Cash and Uniswap futures",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures"
+    },
+    {
+      "headline": "Binance overhauls Earn product labels to split offerings into simple and advanced tiers",
+      "take": "Binance restructures earning products into tiered offerings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-launches-tokenized-stocks-on-base-for-non-us-users/"
+      "link": "https://cryptobriefing.com/binance-earn-product-labels-update/"
     },
     {
-      "headline": "Breed VC raises $15M second fund for early stage crypto startups",
-      "take": "Breed VC raises $15M second fund targeting early-stage crypto startups",
+      "headline": "SUI launches GraphQL subscriptions for real-time data on Mainnet",
+      "take": "Sui activates GraphQL subscriptions for real-time mainnet data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/breed-vc-raises-15m-second-crypto-fund/"
-    },
-    {
-      "headline": "Binance takes $100 million Circle stake alongside five-year USDC deal",
-      "take": "Binance takes $100M Circle stake, signs five-year USDC partnership deal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042"
-    },
-    {
-      "headline": "Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight",
-      "take": "Coinbase introduces fixed-rate bitcoin-backed loans through Morpho Midnight protocol",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050"
+      "link": "https://cryptobriefing.com/sui-graphql-subscriptions-mainnet-launch/"
     }
   ],
   "security": [
     {
-      "headline": "Kalshi responds to wash trading claims over ether perpetual volume",
-      "take": "Kalshi addresses wash trading allegations surrounding ether perpetual contract volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-wash-trading-claims-response/"
+      "headline": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+      "take": "White-hat hackers secure Coldcard exploit funds into recovery trust",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust"
     },
     {
-      "headline": "Standard Chartered CEO says bank closed accounts linked to Russian money laundering network that moved $6.9 billion",
-      "take": "Standard Chartered closed accounts tied to Russian money laundering network moving $6.9B",
+      "headline": "Andreessen Horowitz, DeFi Education Fund ask SEC to exempt DEXs from registration",
+      "take": "a16z and DeFi Education Fund seek SEC exemption for DEXs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-russian-money-laundering-accounts-closed/"
+      "link": "https://cryptobriefing.com/a16z-def-sec-dex-registration-exemption/"
     }
   ],
   "policy": [
     {
-      "headline": "ECB, EU cenbanks seek changes in MiCA\u2019s minimum bank deposit for stablecoins",
-      "take": "ECB and EU central banks seek changes to MiCA stablecoin minimum deposit rules",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC Chairman Selig says markets must prepare for \u2018mass tokenization\u2019",
+      "take": "CFTC signals readiness for mass tokenization across financial markets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111"
     },
     {
-      "headline": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "take": "European central banks push to expand stablecoin yield ban to lending and staking",
+      "headline": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "take": "Crypto market structure debate accelerates ahead of Clarity Act",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking"
+      "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house"
     },
     {
-      "headline": "CLARITY vote failure could stoke more crypto PAC spending in key races",
-      "take": "CLARITY vote failure likely to fuel increased crypto PAC spending in races",
+      "headline": "Republican senator calls for probe into US presidents\u2019 sons, citing crypto ventures",
+      "take": "Republican senator initiates inquiry into presidential family crypto ties",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

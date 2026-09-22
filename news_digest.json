@@ -1,38 +1,56 @@
 {
-  "generated": "2026-09-22T00:10:14.517185+00:00",
-  "ts": 1790035814,
+  "generated": "2026-09-22T05:06:15.304315+00:00",
+  "ts": 1790053575,
   "market": [
     {
+      "headline": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "take": "Dogecoin rallies 15% as bitcoin holds above $85,000 in market rebound",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000"
+    },
+    {
+      "headline": "Over $1B liquidated from crypto market as shorts get obliterated",
+      "take": "Over $1 billion liquidated as crypto shorts face heavy losses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/billion-crypto-liquidations-short-squeeze/"
+    },
+    {
+      "headline": "Bitwise Solana Staking ETF sees $60M inflows, AUM hits $1B",
+      "take": "Bitwise Solana Staking ETF reaches $1B AUM with $60M inflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-sees-60m-inflows-aum-hits-1b/"
+    },
+    {
+      "headline": "Glassnode reports shift from Bitcoin to altcoin season amid broader rally",
+      "take": "Glassnode reports broader market rotation from bitcoin into altcoins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/glassnode-altcoin-season-signal-bitcoin-rally/"
+    },
+    {
       "headline": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "take": "Bitcoin tests $90K after short squeeze; traders warn leverage is building",
+      "take": "Bitcoin may test $90K after short squeeze despite rising leverage",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
-    },
-    {
-      "headline": "weETH surpasses $4B in deposits on Aave V3, becoming the protocol\u2019s second-largest asset",
-      "take": "weETH surpasses $4B in deposits, becoming Aave V3's second-largest asset",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/weeth-4b-deposits-aave-v3/"
-    },
-    {
-      "headline": "Bittensor projects generate $28M-$35M in annualized revenue, with 14 subnets buying back their own tokens",
-      "take": "Bittensor subnets generating $28M-$35M annualized revenue with token buybacks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bittensor-subnets-annualized-revenue/"
-    },
-    {
-      "headline": "NASDAQ closes at record high as S&P 500 nears milestone",
-      "take": "NASDAQ closes at record high as S&P 500 approaches milestone",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-record-high-sp500-ai-rally/"
     }
   ],
   "business": [
     {
-      "headline": "X partners with Gemini, Kraken, Coinbase, and others to bring crypto trading to your timeline",
-      "take": "X partners with Gemini, Kraken, Coinbase for direct timeline crypto trading",
+      "headline": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "take": "Cardano joins Solana and XRP Ledger racing to power AI agent payments",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments"
+    },
+    {
+      "headline": "Kakao Pay and Kakao Bank partner with Fireblocks to build digital asset infrastructure in South Korea",
+      "take": "Kakao Pay and Kakao Bank partner with Fireblocks for South Korea digital assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/x-partners-crypto-trading-cashtag-program/"
+      "link": "https://cryptobriefing.com/kakao-fireblocks-digital-asset-infrastructure/"
+    },
+    {
+      "headline": "Animoca Brands suspends merger deal that would have taken it public",
+      "take": "Animoca Brands suspends merger deal that would have taken company public",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991"
     },
     {
       "headline": "Circle heads to Sibos 2026 in Miami to pitch stablecoin infrastructure to global banking leaders",
@@ -41,68 +59,50 @@
       "link": "https://cryptobriefing.com/circle-sibos-2026-stablecoin-infrastructure/"
     },
     {
-      "headline": "Ligent Technologies to debut on Hong Kong stock exchange after $727M IPO",
-      "take": "Ligent Technologies debuts on Hong Kong exchange after $727M IPO",
+      "headline": "Silicon Data CEO Carmen Li wants to turn GPU prices into a futures market",
+      "take": "Silicon Data CEO proposes turning GPU prices into a futures market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ligent-technologies-hong-kong-ipo/"
-    },
-    {
-      "headline": "Deel launches Akai, an automation platform that reduces need for about 600 employees",
-      "take": "Deel launches Akai automation platform reducing workforce need by ~600 employees",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deel-launches-akai-automation-tool-replacing-600-employees/"
-    },
-    {
-      "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-      "take": "Coinbase brings IPO shares to US retail traders starting with Oura",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura"
+      "link": "https://cryptobriefing.com/silicon-data-ceo-carmen-li-gpu-futures-tokenomics/"
     }
   ],
   "security": [
     {
       "headline": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
-      "take": "Google admits Gemini AI hacked three companies, stayed silent seven weeks",
+      "take": "Google stayed silent for 7 weeks after Gemini AI hacked three companies",
       "source": "decrypt",
       "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent"
     },
     {
-      "headline": "BitGo rolls out quantum-risk management tools to shield institutional Bitcoin wallets",
-      "take": "BitGo deploys quantum-risk management tools for institutional Bitcoin wallets",
+      "headline": "COLDCARD white hats transfer 52 BTC to Crypto Recovery Trust for victim reimbursement",
+      "take": "COLDCARD white hats transfer 52 BTC to Crypto Recovery Trust for victims",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-quantum-risk-bitcoin-wallet-security/"
+      "link": "https://cryptobriefing.com/coldcard-white-hats-btc-crypto-recovery-trust/"
     },
     {
-      "headline": "British Columbia sues OpenAI over failure to warn police before mass shooting",
-      "take": "British Columbia sues OpenAI over failure to warn police before shooting",
+      "headline": "Jameson Lopp launches interactive dashboard mapping 360 physical Bitcoin attacks worldwide",
+      "take": "Jameson Lopp launches dashboard mapping 360 documented physical Bitcoin attacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/british-columbia-sues-openai-mass-shooting/"
-    },
-    {
-      "headline": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
-      "take": "X sues two Bitcoin influencers for running bot army milking creator payouts",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout"
+      "link": "https://cryptobriefing.com/lopp-bitcoin-attacks-interactive-dashboard/"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
-      "take": "Crypto PAC spending $30M opposing Sherrod Brown in Ohio election",
+      "headline": "Manhattan US Attorney leading probe into Binance\u2019s Iran compliance: Bloomberg",
+      "take": "Manhattan US Attorney leads probe into Binance Iran compliance violations",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "US lawmakers consider slowing China investment amid security concerns",
-      "take": "US lawmakers consider slowing China investment amid national security concerns",
+      "headline": "Republican senators complicate Clarity Act with stablecoin yield support",
+      "take": "Republican senators complicate Clarity Act with stablecoin yield support amendments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-lawmakers-consider-slowing-china-investment-amid-security-concerns/"
+      "link": "https://cryptobriefing.com/republican-senators-complicate-clarity-act-with-stablecoin-yield-support/"
     },
     {
-      "headline": "Europe\u2019s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
-      "take": "Europe's Central Bank prepares to invest own funds in tokenized securities",
+      "headline": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "take": "Crypto Super PAC Fairshake targets Senator Sherrod Brown with $30M campaign",
       "source": "decrypt",
-      "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities"
+      "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million"
     }
   ]
 }

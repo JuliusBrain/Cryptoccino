@@ -1,90 +1,102 @@
 {
-  "generated": "2026-09-22T11:46:59.029369+00:00",
-  "ts": 1790077619,
+  "generated": "2026-09-22T17:01:44.826893+00:00",
+  "ts": 1790096504,
   "market": [
     {
-      "headline": "$3.2M bitcoin butterfly option trade targets $95,000 by end of October",
-      "take": "Trader bets bitcoin reaches $95,000 by end of October via options",
+      "headline": "Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit",
+      "take": "Bitcoin ETFs attracted nearly $1B in single day as holder profitability returns",
+      "source": "decrypt",
+      "link": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit"
+    },
+    {
+      "headline": "Global physical gold-backed ETFs see 27.1 tonnes inflow, marking 11th straight week of gains",
+      "take": "Gold-backed ETFs see 27.1 tonnes inflow, marking eleventh consecutive week of gains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-butterfly-option-trade-95000-october/"
+      "link": "https://cryptobriefing.com/gold-etfs-11th-straight-week-inflows/"
     },
     {
-      "headline": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-      "take": "Bitcoin recovers from Asian lows as oil prices fall, supporting risk appetite",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite"
-    },
-    {
-      "headline": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
-      "take": "Prediction markets projected to reach $10 trillion annual volume by 2035",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030"
-    },
-    {
-      "headline": "Quantum computing stocks face scrutiny as insiders sell $840M\u2013$931M in shares",
-      "take": "Quantum computing insiders sell $840M\u2013$931M in shares amid sector scrutiny",
+      "headline": "Federal Reserve hikes rates as inflation risks outweigh employment concerns",
+      "take": "Federal Reserve raises rates as inflation risks outweigh employment concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantum-computing-stocks-insider-selling-895-million/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-inflation-risks/"
+    },
+    {
+      "headline": "US Treasury basis trade shrinks to its smallest size in over two years",
+      "take": "US Treasury basis trade shrinks to smallest size in over two years",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-basis-trade-shrinks-two-year-low/"
+    },
+    {
+      "headline": "BlackRock, Vanguard muni ETFs see record inflows after bond rout",
+      "take": "BlackRock and Vanguard municipal ETFs hit record inflows following bond selloff",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-vanguard-muni-etf-record-inflows/"
     }
   ],
   "business": [
     {
-      "headline": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
-      "take": "Binance invests $100M in Circle under five-year USDC promotion agreement",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal"
+      "headline": "Coinbase Prime opens institutional staking for TON, expanding its proof-of-stake lineup",
+      "take": "Coinbase Prime expands institutional staking, adding TON to proof-of-stake offerings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-prime-ton-institutional-staking/"
     },
     {
-      "headline": "Bitcoin miners valued as AI infrastructure play as AI-focused stocks surge 21% year-to-date",
-      "take": "Bitcoin miners attract investors as AI infrastructure play gains momentum",
+      "headline": "Coinbase launches tokenized stocks on Base for non-US users",
+      "take": "Coinbase launches tokenized stocks on Base blockchain for non-US users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-miners-ai-infrastructure-valuation-surge/"
+      "link": "https://cryptobriefing.com/coinbase-launches-tokenized-stocks-on-base-for-non-us-users/"
     },
     {
-      "headline": "Beefy launches automated concentrated liquidity managers on Ethereum mainnet",
-      "take": "Beefy launches automated concentrated liquidity managers on Ethereum mainnet",
+      "headline": "Breed VC raises $15M second fund for early stage crypto startups",
+      "take": "Breed VC raises $15M second fund targeting early-stage crypto startups",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/beefy-clm-ethereum-mainnet-launch/"
+      "link": "https://cryptobriefing.com/breed-vc-raises-15m-second-crypto-fund/"
     },
     {
-      "headline": "Jupiter Exchange launches perps markets for SPCX, HYPE, and ZEC on Solana",
-      "take": "Jupiter Exchange opens perpetual futures markets for SPCX, HYPE, ZEC on Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-exchange-perps-spcx-hype-zec/"
+      "headline": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+      "take": "Binance takes $100M Circle stake, signs five-year USDC partnership deal",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042"
     },
     {
-      "headline": "Moxie Marlinspike launches Confer, a privacy-focused AI chatbot with end-to-end encryption",
-      "take": "Moxie Marlinspike releases Confer, privacy-focused AI chatbot with end-to-end encryption",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moxie-marlinspike-confer-privacy-ai-chatbot/"
+      "headline": "Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight",
+      "take": "Coinbase introduces fixed-rate bitcoin-backed loans through Morpho Midnight protocol",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050"
     }
   ],
   "security": [
     {
-      "headline": "Cisco Talos develops CAIRN framework to detect AI-integrated malware",
-      "take": "Cisco Talos develops CAIRN framework to detect AI-integrated malware threats",
+      "headline": "Kalshi responds to wash trading claims over ether perpetual volume",
+      "take": "Kalshi addresses wash trading allegations surrounding ether perpetual contract volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cisco-talos-cairn-framework-ai-malware/"
+      "link": "https://cryptobriefing.com/kalshi-wash-trading-claims-response/"
     },
     {
-      "headline": "Bank of America and other major banks warn AI shopping agents are outpacing fraud protections",
-      "take": "Major banks warn AI shopping agents outpacing fraud detection capabilities",
+      "headline": "Standard Chartered CEO says bank closed accounts linked to Russian money laundering network that moved $6.9 billion",
+      "take": "Standard Chartered closed accounts tied to Russian money laundering network moving $6.9B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-banks-warn-ai-shopping-agent-risks/"
+      "link": "https://cryptobriefing.com/standard-chartered-russian-money-laundering-accounts-closed/"
     }
   ],
   "policy": [
     {
-      "headline": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
-      "take": "US federal prosecutors probe Binance for possible sanctions violations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg"
-    },
-    {
       "headline": "ECB, EU cenbanks seek changes in MiCA\u2019s minimum bank deposit for stablecoins",
-      "take": "ECB and EU central banks seek changes to MiCA stablecoin deposit requirements",
+      "take": "ECB and EU central banks seek changes to MiCA stablecoin minimum deposit rules",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "take": "European central banks push to expand stablecoin yield ban to lending and staking",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking"
+    },
+    {
+      "headline": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+      "take": "CLARITY vote failure likely to fuel increased crypto PAC spending in races",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

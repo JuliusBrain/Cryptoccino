@@ -1,96 +1,102 @@
 {
-  "generated": "2026-09-23T11:46:30.359518+00:00",
-  "ts": 1790163990,
+  "generated": "2026-09-23T17:10:23.377635+00:00",
+  "ts": 1790183423,
   "market": [
     {
-      "headline": "Bitcoin ETF Flows Turn Positive After $4.6 Billion Rebound",
-      "take": "Bitcoin ETF flows rebounded $4.6 billion, turning positive after recent outflows",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/bitcoin-etf-flows-turn-positive-after-4-6-billion-rebound"
+      "headline": "\u2018BTC still has room to catch up\u2019: Bitcoin\u2019s $80,000 breakout draws institutional demand as analysts weigh durability",
+      "take": "Bitcoin breaks eighty thousand as institutional investors show sustained interest",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182"
     },
     {
-      "headline": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
-      "take": "Bitcoin slipped under $86,000 as capital rotated into alternative cryptocurrencies",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec"
-    },
-    {
-      "headline": "The S&P 500 has a 'breadth' problem. Crypto doesn\u2019t.",
-      "take": "Crypto markets show stronger breadth than S&P 500 amid current rotation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t"
-    },
-    {
-      "headline": "UBS initiates Applied Digital at Buy with $38 price target, citing AI infrastructure momentum",
-      "take": "UBS initiated Applied Digital at Buy, citing AI infrastructure momentum",
+      "headline": "$425M in crypto long positions liquidated amid market correction",
+      "take": "Market correction triggers four hundred twenty-five million in crypto liquidations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ubs-initiates-applied-digital-buy-rating/"
+      "link": "https://cryptobriefing.com/425m-in-crypto-long-positions-liquidated-amid-market-correction/"
+    },
+    {
+      "headline": "Treasury 5-year yield surges 15 basis points as markets brace for more Fed tightening",
+      "take": "Treasury yields surge on expectations of continued Federal Reserve tightening",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/treasury-5-year-yield-surges-15-basis-points/"
+    },
+    {
+      "headline": "Base financing markets grow 133% this year, driven by Morpho and Coinbase integration",
+      "take": "Base financing markets expand one hundred thirty-three percent via Morpho integration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-morpho-coinbase-financing-growth/"
+    },
+    {
+      "headline": "Bitcoin Dips, But Its Forks Are Flying Again",
+      "take": "Bitcoin dips while fork cryptocurrencies gain momentum in market",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv"
     }
   ],
   "business": [
     {
-      "headline": "Raiffeisen taps Bitpanda to bring crypto to 18 million customers",
-      "take": "Raiffeisen partnered with Bitpanda to offer crypto services to 18 million customers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/raiffeisen-bank-bitpanda-digital-assets-cee/"
+      "headline": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+      "take": "Canada's six largest banks collaborate on shared digital currency network",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network"
     },
     {
-      "headline": "The Hashgraph Group secures IBM Silver Partner status, lists IDTrust on IBM Cloud",
-      "take": "Hashgraph Group secured IBM Silver Partner status, listing IDTrust on IBM Cloud",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hashgraph-group-ibm-partner-idtrust/"
+      "headline": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "take": "NYSE partners with Blockchain.com to offer tokenized stocks to crypto investors",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs"
     },
     {
-      "headline": "Pudgy Penguins launches Essentials collection as smart money loads up and whales step back",
-      "take": "Pudgy Penguins launched Essentials collection as whale demand cools slightly",
+      "headline": "TRON DAO partners with Privy to enhance financial application tools",
+      "take": "TRON DAO partners with Privy to improve decentralized financial application tools",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pudgy-penguins-essentials-pengu-token/"
+      "link": "https://cryptobriefing.com/tron-privy-stablecoin-developer-tools/"
     },
     {
-      "headline": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
-      "take": "AI agents will soon autonomously purchase computing power using stablecoins",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock"
+      "headline": "Black Forest Labs debuts FLUX 3 Action, tops RoboLab leaderboard",
+      "take": "Black Forest Labs releases FLUX three action, achieves top RoboLab performance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/black-forest-labs-flux-3-action-robolab/"
+    },
+    {
+      "headline": "Metaplex unveils Vantage, a customizable trading terminal for Solana",
+      "take": "Metaplex launches Vantage, a customizable trading terminal for Solana",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/metaplex-vantage-solana-trading-terminal/"
     }
   ],
   "security": [
     {
-      "headline": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-      "take": "FTX-linked wallets transferred $75 million ether to Wintermute exchange",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows"
+      "headline": "Celebrity-endorsed cryptocurrencies nearly five times more likely to be scams, study finds",
+      "take": "Celebrity-endorsed cryptocurrencies are nearly five times more likely to be scams",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/celebrity-endorsed-crypto-scam-study/"
     },
     {
-      "headline": "Arch Lending cofounder discusses crypto lending safeguards post-Celsius collapse",
-      "take": "Crypto lending safeguards discussed following high-profile Celsius collapse",
+      "headline": "FBI hosts annual Virtual Asset Technical Exchange on crypto crime",
+      "take": "FBI hosts annual gathering focused on virtual asset technical crime discussion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arch-lending-safeguards-post-celsius/"
+      "link": "https://cryptobriefing.com/fbi-virtual-asset-technical-exchange-crypto-crime/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-      "take": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC chair warns of mass tokenization shift in financial markets over next decade",
-      "take": "CFTC chair warns of mass financial market tokenization over coming decade",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chair-warns-of-mass-tokenization-shift-in-financial-markets-over-next/"
-    },
-    {
-      "headline": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
-      "take": "CFTC staff advisory warns prediction market mention contracts invite manipulation",
+      "headline": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
+      "take": "Americans would adopt stablecoins if they included traditional bank protections",
       "source": "decrypt",
-      "link": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation"
+      "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa"
     },
     {
-      "headline": "Hong Kong plans to pilot tokenized Exchange Fund Bills by 2026",
-      "take": "Hong Kong plans pilot of tokenized Exchange Fund Bills by 2026",
+      "headline": "Senate Republican seeks to fast-track AI whistleblower bill",
+      "take": "Senate Republican pushes fast-track legislation for AI whistleblower protections",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-tokenized-exchange-fund-bills-2026/"
+      "link": "https://cryptobriefing.com/senate-ai-whistleblower-bill-grassley/"
+    },
+    {
+      "headline": "A thin DOJ policy memo is no substitute for legal protection",
+      "take": "DOJ policy memo provides insufficient legal protection for cryptocurrency activities",
+      "source": "coincenter",
+      "link": "https://coincenter.org/a-thin-doj-policy-memo-is-no-substitute-for-legal-protection/"
     }
   ]
 }

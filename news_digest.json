@@ -1,108 +1,96 @@
 {
-  "generated": "2026-09-23T04:51:13.733920+00:00",
-  "ts": 1790139073,
+  "generated": "2026-09-23T11:46:30.359518+00:00",
+  "ts": 1790163990,
   "market": [
     {
-      "headline": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "take": "Zcash gains 10% while bitcoin holds near $87,000 amid market movement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000"
-    },
-    {
-      "headline": "Avalanche surges 55% as Bitwise\u2019s AVAX ETF draws early inflows",
-      "take": "Avalanche surges 55% as Bitwise's AVAX ETF attracts early inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-surges-bitwise-etf-inflows/"
-    },
-    {
-      "headline": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-      "take": "$161 million in decade-old bitcoin moved within two weeks, signals activity",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks"
-    },
-    {
-      "headline": "NEAR Protocol intents surpass $30B in all-time volume as daily records fall",
-      "take": "NEAR Protocol intents exceed $30B all-time volume with daily records breaking",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-protocol-intents-30-billion-volume-record/"
-    },
-    {
-      "headline": "Bitcoin (BTC) Back at $100,000 Is Not So Outlandish",
-      "take": "Bitcoin reaching $100,000 becomes increasingly plausible near current levels",
+      "headline": "Bitcoin ETF Flows Turn Positive After $4.6 Billion Rebound",
+      "take": "Bitcoin ETF flows rebounded $4.6 billion, turning positive after recent outflows",
       "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-22/bitcoin-btc-back-at-100-000-is-not-so-outlandish"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-23/bitcoin-etf-flows-turn-positive-after-4-6-billion-rebound"
+    },
+    {
+      "headline": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+      "take": "Bitcoin slipped under $86,000 as capital rotated into alternative cryptocurrencies",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec"
+    },
+    {
+      "headline": "The S&P 500 has a 'breadth' problem. Crypto doesn\u2019t.",
+      "take": "Crypto markets show stronger breadth than S&P 500 amid current rotation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t"
+    },
+    {
+      "headline": "UBS initiates Applied Digital at Buy with $38 price target, citing AI infrastructure momentum",
+      "take": "UBS initiated Applied Digital at Buy, citing AI infrastructure momentum",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ubs-initiates-applied-digital-buy-rating/"
     }
   ],
   "business": [
     {
-      "headline": "Circle\u2019s StableFX launches on Arc mainnet for 24/7 onchain FX",
-      "take": "Circle launches StableFX on Arc mainnet for around-the-clock onchain forex",
+      "headline": "Raiffeisen taps Bitpanda to bring crypto to 18 million customers",
+      "take": "Raiffeisen partnered with Bitpanda to offer crypto services to 18 million customers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-stablefx-arc-mainnet-onchain-fx/"
+      "link": "https://cryptobriefing.com/raiffeisen-bank-bitpanda-digital-assets-cee/"
     },
     {
-      "headline": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
-      "take": "Crypto VC Hashed launches digital asset private credit fund targeting $300M",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013"
+      "headline": "The Hashgraph Group secures IBM Silver Partner status, lists IDTrust on IBM Cloud",
+      "take": "Hashgraph Group secured IBM Silver Partner status, listing IDTrust on IBM Cloud",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hashgraph-group-ibm-partner-idtrust/"
     },
     {
-      "headline": "Salesforce partners with Anthropic as Claude becomes the brain behind Slackbot",
-      "take": "Salesforce partners with Anthropic, Claude powers Slackbot integration",
+      "headline": "Pudgy Penguins launches Essentials collection as smart money loads up and whales step back",
+      "take": "Pudgy Penguins launched Essentials collection as whale demand cools slightly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/salesforce-anthropic-claude-slackbot-partnership/"
+      "link": "https://cryptobriefing.com/pudgy-penguins-essentials-pengu-token/"
     },
     {
-      "headline": "OpenRoboto launches decentralized network for egocentric robotics data on Bittensor",
-      "take": "OpenRoboto launches decentralized egocentric robotics data network on Bittensor",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openroboto-shift-decentralized-robotics-data-bittensor/"
-    },
-    {
-      "headline": "Ramp AI Index now tracks token spend and model-level usage across 70,000 businesses",
-      "take": "Ramp AI Index tracks token spend across 70,000 businesses and model usage",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ramp-ai-index-token-spend-volumes-update/"
+      "headline": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "take": "AI agents will soon autonomously purchase computing power using stablecoins",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock"
     }
   ],
   "security": [
     {
-      "headline": "Microsoft, Coinbase, and law enforcement dismantle EvilTokens cybercrime network",
-      "take": "Microsoft, Coinbase, law enforcement dismantle EvilTokens cybercrime operation",
+      "headline": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
+      "take": "FTX-linked wallets transferred $75 million ether to Wintermute exchange",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows"
+    },
+    {
+      "headline": "Arch Lending cofounder discusses crypto lending safeguards post-Celsius collapse",
+      "take": "Crypto lending safeguards discussed following high-profile Celsius collapse",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-microsoft-eviltokens-cybercrime-takedown/"
+      "link": "https://cryptobriefing.com/arch-lending-safeguards-post-celsius/"
     }
   ],
   "policy": [
     {
-      "headline": "Russia mandates investors report foreign crypto transactions, warns of losses from stablecoin freezes",
-      "take": "Russia mandates investor reporting of foreign crypto, warns of stablecoin losses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-crypto-reporting-stablecoin-freeze-warning/"
-    },
-    {
-      "headline": "CFTC issues warning over risky prediction market \u2018mention\u2019 contracts",
-      "take": "CFTC warns prediction market 'mention' contracts pose heightened manipulation risk",
+      "headline": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+      "take": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "CFTC reviews unusual trading activity on Kalshi\u2019s Ether perpetuals",
-      "take": "CFTC scrutinizes Kalshi after $5B in nearly identical ether perpetual trades",
+      "headline": "CFTC chair warns of mass tokenization shift in financial markets over next decade",
+      "take": "CFTC chair warns of mass financial market tokenization over coming decade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-reviews-kalshi-ether-perpetuals-trading/"
+      "link": "https://cryptobriefing.com/cftc-chair-warns-of-mass-tokenization-shift-in-financial-markets-over-next/"
     },
     {
-      "headline": "CFTC Chairman Selig says markets must prepare for \u2018mass tokenization\u2019",
-      "take": "CFTC chairman signals markets must prepare for coming mass tokenization wave",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111"
+      "headline": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
+      "take": "CFTC staff advisory warns prediction market mention contracts invite manipulation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation"
     },
     {
-      "headline": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-      "take": "Democratic opposition blocked crypto Clarity Act over political divisions on Trump",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says"
+      "headline": "Hong Kong plans to pilot tokenized Exchange Fund Bills by 2026",
+      "take": "Hong Kong plans pilot of tokenized Exchange Fund Bills by 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-tokenized-exchange-fund-bills-2026/"
     }
   ]
 }

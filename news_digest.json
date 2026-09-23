@@ -1,102 +1,120 @@
 {
-  "generated": "2026-09-23T17:10:23.377635+00:00",
-  "ts": 1790183423,
+  "generated": "2026-09-23T21:34:02.321639+00:00",
+  "ts": 1790199242,
   "market": [
     {
-      "headline": "\u2018BTC still has room to catch up\u2019: Bitcoin\u2019s $80,000 breakout draws institutional demand as analysts weigh durability",
-      "take": "Bitcoin breaks eighty thousand as institutional investors show sustained interest",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182"
-    },
-    {
-      "headline": "$425M in crypto long positions liquidated amid market correction",
-      "take": "Market correction triggers four hundred twenty-five million in crypto liquidations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/425m-in-crypto-long-positions-liquidated-amid-market-correction/"
-    },
-    {
-      "headline": "Treasury 5-year yield surges 15 basis points as markets brace for more Fed tightening",
-      "take": "Treasury yields surge on expectations of continued Federal Reserve tightening",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-5-year-yield-surges-15-basis-points/"
-    },
-    {
-      "headline": "Base financing markets grow 133% this year, driven by Morpho and Coinbase integration",
-      "take": "Base financing markets expand one hundred thirty-three percent via Morpho integration",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-morpho-coinbase-financing-growth/"
-    },
-    {
-      "headline": "Bitcoin Dips, But Its Forks Are Flying Again",
-      "take": "Bitcoin dips while fork cryptocurrencies gain momentum in market",
+      "headline": "$15.6 Billion in Bitcoin Options Expire Friday\u2014Here's What It Means",
+      "take": "15.6 billion dollars in Bitcoin options expire Friday",
       "source": "decrypt",
-      "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv"
+      "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means"
+    },
+    {
+      "headline": "Fed rate hike fuels Bitcoin market concerns",
+      "take": "Fed rate hike fuels Bitcoin market concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-rate-hike-fuels-bitcoin-market-concerns/"
+    },
+    {
+      "headline": "Bitwise launches first Lighter ETP as LIT extends 580% rebound",
+      "take": "Bitwise launches first Lighter ETP as LIT rebounds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-launches-first-lighter-etp-as-lit-extends-580-rebound/"
+    },
+    {
+      "headline": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
+      "take": "Zcash lists first ETP in Europe, expanding Wall Street reach",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp"
+    },
+    {
+      "headline": "Tron nears 100M weekly transactions, solidifying its role as stablecoin infrastructure",
+      "take": "Tron nears 100M weekly transactions as stablecoin infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tron-100m-weekly-transactions-stablecoin/"
     }
   ],
   "business": [
     {
-      "headline": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
-      "take": "Canada's six largest banks collaborate on shared digital currency network",
+      "headline": "Anthropic expands Claude Marketplace with over 2,000 connectors and plugins",
+      "take": "Anthropic expands Claude Marketplace with over 2000 connectors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-expands-claude-marketplace-with-over-2000-connectors-and-plugins/"
+    },
+    {
+      "headline": "Xaman wallet\u2019s growth triggers XRPL node capacity fix",
+      "take": "Xaman wallet growth triggers XRPL node capacity fix",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xaman-wallet-growth-xrpl-node-fix/"
+    },
+    {
+      "headline": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+      "take": "Coinbase expands Morpho loans offering fixed-rate Bitcoin borrowing",
       "source": "decrypt",
-      "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network"
+      "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho"
     },
     {
-      "headline": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-      "take": "NYSE partners with Blockchain.com to offer tokenized stocks to crypto investors",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs"
-    },
-    {
-      "headline": "TRON DAO partners with Privy to enhance financial application tools",
-      "take": "TRON DAO partners with Privy to improve decentralized financial application tools",
+      "headline": "Oracle expands Digital Assets Data Nexus to help banks manage digital money",
+      "take": "Oracle expands Digital Assets Data Nexus for banks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-privy-stablecoin-developer-tools/"
+      "link": "https://cryptobriefing.com/oracle-digital-assets-data-nexus-banks/"
     },
     {
-      "headline": "Black Forest Labs debuts FLUX 3 Action, tops RoboLab leaderboard",
-      "take": "Black Forest Labs releases FLUX three action, achieves top RoboLab performance",
+      "headline": "Dan Ives launches closed-end fund targeting private AI companies with $200M raise",
+      "take": "Dan Ives launches closed-end fund for private AI companies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/black-forest-labs-flux-3-action-robolab/"
-    },
-    {
-      "headline": "Metaplex unveils Vantage, a customizable trading terminal for Solana",
-      "take": "Metaplex launches Vantage, a customizable trading terminal for Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metaplex-vantage-solana-trading-terminal/"
+      "link": "https://cryptobriefing.com/dan-ives-closed-end-fund-private-ai/"
     }
   ],
   "security": [
     {
-      "headline": "Celebrity-endorsed cryptocurrencies nearly five times more likely to be scams, study finds",
-      "take": "Celebrity-endorsed cryptocurrencies are nearly five times more likely to be scams",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/celebrity-endorsed-crypto-scam-study/"
+      "headline": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+      "take": "China probes DeepSeek and Moonshot over alleged data leaks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude"
     },
     {
-      "headline": "FBI hosts annual Virtual Asset Technical Exchange on crypto crime",
-      "take": "FBI hosts annual gathering focused on virtual asset technical crime discussion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fbi-virtual-asset-technical-exchange-crypto-crime/"
+      "headline": "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How",
+      "take": "Meta's Muse AI agent read private iMessages, misrepresented how",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how"
+    },
+    {
+      "headline": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "take": "Former Hack VC partner found dead following public firm dispute",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm"
     }
   ],
   "policy": [
     {
-      "headline": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
-      "take": "Americans would adopt stablecoins if they included traditional bank protections",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa"
-    },
-    {
-      "headline": "Senate Republican seeks to fast-track AI whistleblower bill",
-      "take": "Senate Republican pushes fast-track legislation for AI whistleblower protections",
+      "headline": "CFTC to develop crypto regulatory framework using existing powers",
+      "take": "CFTC to develop crypto regulatory framework using existing powers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-ai-whistleblower-bill-grassley/"
+      "link": "https://cryptobriefing.com/cftc-to-develop-crypto-regulatory-framework-using-existing-powers/"
     },
     {
-      "headline": "A thin DOJ policy memo is no substitute for legal protection",
-      "take": "DOJ policy memo provides insufficient legal protection for cryptocurrency activities",
-      "source": "coincenter",
-      "link": "https://coincenter.org/a-thin-doj-policy-memo-is-no-substitute-for-legal-protection/"
+      "headline": "Bloomberg: Crypto regulatory war ends as SEC, CFTC reach mutual acceptance",
+      "take": "SEC and CFTC reach mutual acceptance, ending crypto regulatory war",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bloomberg-crypto-regulatory-war-ends-as-sec-cftc-reach-mutual-acceptance/"
+    },
+    {
+      "headline": "FTC Chairman Andrew Ferguson to lay out AI regulation vision at Reuters NEXT Newsmaker",
+      "take": "FTC Chairman Ferguson to outline AI regulation vision at Reuters",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ftc-ferguson-ai-regulation-reuters-next/"
+    },
+    {
+      "headline": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+      "take": "US lawmakers from gaming states urge SCOTUS to take Kalshi case",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "take": "White House adviser defends Trump crypto ties after Clarity Act defeat",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat"
     }
   ]
 }

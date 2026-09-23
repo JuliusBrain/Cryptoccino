@@ -1,102 +1,108 @@
 {
-  "generated": "2026-09-22T21:24:24.997722+00:00",
-  "ts": 1790112264,
+  "generated": "2026-09-23T04:51:13.733920+00:00",
+  "ts": 1790139073,
   "market": [
     {
-      "headline": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-      "take": "Bitcoin rallies as Nasdaq reaches records and oil prices ease",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides"
+      "headline": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "take": "Zcash gains 10% while bitcoin holds near $87,000 amid market movement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000"
     },
     {
-      "headline": "Bitcoin (BTC) Back at $100,000 Is Not So Outlandish",
-      "take": "Bitcoin at $100,000 price target gains credibility among analysts",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-22/bitcoin-btc-back-at-100-000-is-not-so-outlandish"
-    },
-    {
-      "headline": "Most altcoin holders remain in losses as market recovery lags behind Bitcoin",
-      "take": "Most altcoin holders underwater despite market recovery efforts",
+      "headline": "Avalanche surges 55% as Bitwise\u2019s AVAX ETF draws early inflows",
+      "take": "Avalanche surges 55% as Bitwise's AVAX ETF attracts early inflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/altcoin-holders-losses-market-recovery-lags/"
+      "link": "https://cryptobriefing.com/avalanche-surges-bitwise-etf-inflows/"
     },
     {
       "headline": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-      "take": "Ancient Bitcoin movement signals potential whale activity or reallocation",
+      "take": "$161 million in decade-old bitcoin moved within two weeks, signals activity",
       "source": "decrypt",
       "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks"
     },
     {
-      "headline": "SPYx leads tokenized ETF market cap growth by $8M in seven days",
-      "take": "Tokenized ETF market cap grows with SPYx leading sector gains",
+      "headline": "NEAR Protocol intents surpass $30B in all-time volume as daily records fall",
+      "take": "NEAR Protocol intents exceed $30B all-time volume with daily records breaking",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spyx-tokenized-etf-market-cap-growth/"
+      "link": "https://cryptobriefing.com/near-protocol-intents-30-billion-volume-record/"
+    },
+    {
+      "headline": "Bitcoin (BTC) Back at $100,000 Is Not So Outlandish",
+      "take": "Bitcoin reaching $100,000 becomes increasingly plausible near current levels",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-22/bitcoin-btc-back-at-100-000-is-not-so-outlandish"
     }
   ],
   "business": [
     {
-      "headline": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-      "take": "Coinbase develops quantum-resistant custody infrastructure for Bitcoin",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody"
-    },
-    {
-      "headline": "Aptos partners with Daehong to launch on-chain ticketing system for Lotte Group\u2019s cultural events",
-      "take": "Aptos partners with Lotte Group for on-chain ticketing platform",
+      "headline": "Circle\u2019s StableFX launches on Arc mainnet for 24/7 onchain FX",
+      "take": "Circle launches StableFX on Arc mainnet for around-the-clock onchain forex",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-daehong-onchain-ticketing-lotte/"
+      "link": "https://cryptobriefing.com/circle-stablefx-arc-mainnet-onchain-fx/"
     },
     {
-      "headline": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-      "take": "CME expands crypto derivatives with Bitcoin Cash and Uniswap futures",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures"
+      "headline": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
+      "take": "Crypto VC Hashed launches digital asset private credit fund targeting $300M",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013"
     },
     {
-      "headline": "Binance overhauls Earn product labels to split offerings into simple and advanced tiers",
-      "take": "Binance restructures earning products into tiered offerings",
+      "headline": "Salesforce partners with Anthropic as Claude becomes the brain behind Slackbot",
+      "take": "Salesforce partners with Anthropic, Claude powers Slackbot integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-earn-product-labels-update/"
+      "link": "https://cryptobriefing.com/salesforce-anthropic-claude-slackbot-partnership/"
     },
     {
-      "headline": "SUI launches GraphQL subscriptions for real-time data on Mainnet",
-      "take": "Sui activates GraphQL subscriptions for real-time mainnet data",
+      "headline": "OpenRoboto launches decentralized network for egocentric robotics data on Bittensor",
+      "take": "OpenRoboto launches decentralized egocentric robotics data network on Bittensor",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sui-graphql-subscriptions-mainnet-launch/"
+      "link": "https://cryptobriefing.com/openroboto-shift-decentralized-robotics-data-bittensor/"
+    },
+    {
+      "headline": "Ramp AI Index now tracks token spend and model-level usage across 70,000 businesses",
+      "take": "Ramp AI Index tracks token spend across 70,000 businesses and model usage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ramp-ai-index-token-spend-volumes-update/"
     }
   ],
   "security": [
     {
-      "headline": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-      "take": "White-hat hackers secure Coldcard exploit funds into recovery trust",
-      "source": "decrypt",
-      "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust"
-    },
-    {
-      "headline": "Andreessen Horowitz, DeFi Education Fund ask SEC to exempt DEXs from registration",
-      "take": "a16z and DeFi Education Fund seek SEC exemption for DEXs",
+      "headline": "Microsoft, Coinbase, and law enforcement dismantle EvilTokens cybercrime network",
+      "take": "Microsoft, Coinbase, law enforcement dismantle EvilTokens cybercrime operation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-def-sec-dex-registration-exemption/"
+      "link": "https://cryptobriefing.com/coinbase-microsoft-eviltokens-cybercrime-takedown/"
     }
   ],
   "policy": [
     {
+      "headline": "Russia mandates investors report foreign crypto transactions, warns of losses from stablecoin freezes",
+      "take": "Russia mandates investor reporting of foreign crypto, warns of stablecoin losses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/russia-crypto-reporting-stablecoin-freeze-warning/"
+    },
+    {
+      "headline": "CFTC issues warning over risky prediction market \u2018mention\u2019 contracts",
+      "take": "CFTC warns prediction market 'mention' contracts pose heightened manipulation risk",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC reviews unusual trading activity on Kalshi\u2019s Ether perpetuals",
+      "take": "CFTC scrutinizes Kalshi after $5B in nearly identical ether perpetual trades",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-reviews-kalshi-ether-perpetuals-trading/"
+    },
+    {
       "headline": "CFTC Chairman Selig says markets must prepare for \u2018mass tokenization\u2019",
-      "take": "CFTC signals readiness for mass tokenization across financial markets",
+      "take": "CFTC chairman signals markets must prepare for coming mass tokenization wave",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111"
     },
     {
-      "headline": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
-      "take": "Crypto market structure debate accelerates ahead of Clarity Act",
+      "headline": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+      "take": "Democratic opposition blocked crypto Clarity Act over political divisions on Trump",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house"
-    },
-    {
-      "headline": "Republican senator calls for probe into US presidents\u2019 sons, citing crypto ventures",
-      "take": "Republican senator initiates inquiry into presidential family crypto ties",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says"
     }
   ]
 }

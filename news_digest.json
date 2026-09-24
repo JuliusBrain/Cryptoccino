@@ -1,108 +1,114 @@
 {
-  "generated": "2026-09-24T11:54:49.274697+00:00",
-  "ts": 1790250889,
+  "generated": "2026-09-24T17:17:13.767260+00:00",
+  "ts": 1790270233,
   "market": [
     {
-      "headline": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
-      "take": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high"
+      "headline": "Bitcoin drops from eight-month high as yields and dollar rise",
+      "take": "Bitcoin drops from eight-month high as yields and dollar rise",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-drops-yields-dollar-rise/"
     },
     {
-      "headline": "Bitcoin ETFs accumulate $2B this week amid price rejection at $87K",
-      "take": "Bitcoin ETFs accumulate $2B this week amid price rejection at $87K",
+      "headline": "Roundhill Magnificent Seven ETF surges amid rising Treasury yields as investors flock to Big Tech safety",
+      "take": "Magnificent Seven ETF surges as investors seek Big Tech safety",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-2b-inflows-price-rejection/"
+      "link": "https://cryptobriefing.com/roundhill-magnificent-seven-etf-treasury-yields/"
     },
     {
-      "headline": "Litecoin surges 8% as network activity reaches new heights",
-      "take": "Litecoin surges 8% as network activity reaches new heights",
+      "headline": "US Treasury 7-year note auction clears at 5.085% yield as borrowing costs keep climbing",
+      "take": "US Treasury seven-year notes auction at 5.085% yield, borrowing costs climbing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/litecoin-surges-network-activity-new-highs/"
+      "link": "https://cryptobriefing.com/us-treasury-7-year-note-auction-yield-5-percent/"
     },
     {
-      "headline": "Japan hikes rates to 31-year high amid pressure from US Treasury Secretary Scott Bessent",
-      "take": "Japan hikes rates to 31-year high amid US Treasury pressure",
+      "headline": "US bond funds attract $625B in inflows through August, highest since 2010",
+      "take": "Bond funds attract $625B inflows through August, highest since 2010",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-boj-rate-hike-bessent-pressure/"
+      "link": "https://cryptobriefing.com/us-bond-funds-625b-inflows-highest-since-2010/"
     },
     {
-      "headline": "Treasury yield surge pushes spreads with emerging Asia bonds to extremes",
-      "take": "Treasury yield surge pushes spreads with emerging Asia bonds to extremes",
+      "headline": "ONDO leads altcoin surge as Bitcoin holds near $84,000",
+      "take": "ONDO leads altcoin surge while Bitcoin holds near eighty-four thousand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-yield-surge-emerging-asia-bonds/"
+      "link": "https://cryptobriefing.com/ondo-altcoin-surge-bitcoin-84000/"
     }
   ],
   "business": [
     {
-      "headline": "Solana surpasses 1 million tokenized equity holders for first time",
-      "take": "Solana surpasses 1 million tokenized equity holders for first time",
+      "headline": "ARKVX enables onchain subscriptions with USDC for investors",
+      "take": "ARKVX enables onchain subscriptions with USDC for investors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-1-million-tokenized-equity-holders/"
+      "link": "https://cryptobriefing.com/arkvx-onchain-subscriptions-usdc-investors/"
     },
     {
-      "headline": "StarkWare\u2019s coding contest cuts quantum-safe Bitcoin transaction cost to $66",
-      "take": "StarkWare contest cuts quantum-safe Bitcoin transaction cost to $66",
+      "headline": "Bin_superapp launches Binancians social trading app on BNB Chain with no ties to Binance",
+      "take": "Bin_superapp launches BNB Chain social trading app without Binance ties",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starkware-contest-quantum-safe-bitcoin-cost-66/"
+      "link": "https://cryptobriefing.com/bin-superapp-binancians-social-trading-bnb-chain/"
     },
     {
-      "headline": "Cardano launches Mesmo, a native library for multiple programming languages",
-      "take": "Cardano launches Mesmo, a native library for multiple programming languages",
+      "headline": "OpenZeppelin integrates with TRON to bring battle-tested smart contract security tools to the network",
+      "take": "OpenZeppelin integrates with TRON to bring smart contract security tools",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-launches-mesmo-native-library/"
+      "link": "https://cryptobriefing.com/openzeppelin-tron-integration-security-tools/"
     },
     {
-      "headline": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
-      "take": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposits",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237"
+      "headline": "UK\u2019s largest banks complete world\u2019s first interbank transactions using tokenized deposits",
+      "take": "UK's largest banks complete world's first tokenized deposit interbank transactions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits"
     },
     {
-      "headline": "SoftBank raises $11.1B through massive bond sale to fund OpenAI investment",
-      "take": "SoftBank raises $11.1B through bond sale to fund OpenAI investment",
+      "headline": "Circle Alliance Program surpasses 1,500 members globally",
+      "take": "Circle Alliance Program surpasses fifteen hundred members globally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/softbank-raises-11b-ai-semiconductor-bond-sale/"
+      "link": "https://cryptobriefing.com/circle-alliance-program-1500-members/"
     }
   ],
   "security": [
     {
-      "headline": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-      "take": "Brooklyn man sentenced 12 years for stealing $16M via Coinbase phishing",
+      "headline": "Payy Network halts operations after $1.92M USDC exploit drains Ethereum rollup",
+      "take": "Payy Network halts after $1.92M USDC exploit drains Ethereum rollup",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/payy-network-halt-usdc-exploit-ethereum-rollup/"
+    },
+    {
+      "headline": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
+      "take": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme"
+      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack"
     },
     {
-      "headline": "OpenAI agents breach Australian health data site, investigation underway",
-      "take": "OpenAI agents breach Australian health data site, investigation underway",
+      "headline": "OpenAI AI agents used hacking techniques against government, university and public data websites while carrying out routine data collection tasks, according to researchers and officials",
+      "take": "OpenAI AI agents used hacking techniques during government data collection",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-agents-breach-australian-health-data-site-investigation-underway/"
-    },
-    {
-      "headline": "RSA cryptosystem faces new classical attack, but widespread panic can wait",
-      "take": "RSA cryptosystem faces new classical attack, but widespread panic unwarranted",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rsa-cryptosystem-classical-attack-gpu-factoring/"
-    },
-    {
-      "headline": "EU warns Q-Day could arrive before quantum computers are commercially viable",
-      "take": "EU warns Q-Day could arrive before quantum computers commercially viable",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-q-day-quantum-cryptography-warning/"
+      "link": "https://cryptobriefing.com/openai-ai-agents-used-hacking-techniques-against-government-university-and/"
     }
   ],
   "policy": [
     {
-      "headline": "Senate\u2019s Clarity Act failure leaves crypto regulation to SEC, CFTC",
-      "take": "Senate's Clarity Act failure leaves crypto regulation to SEC, CFTC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senates-clarity-act-failure-leaves-crypto-regulation-to-sec-cftc/"
+      "headline": "New York moves to block Polymarket from the state, alleging it\u2019s running an illegal gambling operation",
+      "take": "New York moves to block Polymarket, alleging illegal gambling operation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279"
     },
     {
-      "headline": "EU banking watchdog calls for crypto lending rules under MiCA",
-      "take": "EU banking watchdog calls for crypto lending rules under MiCA",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
+      "take": "US aims to turn stablecoins into weapon for dollar dominance",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance"
+    },
+    {
+      "headline": "US pressures OpenAI and Anthropic to withhold advanced AI models from the UK",
+      "take": "US pressures OpenAI and Anthropic to withhold advanced models from UK",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-withhold-ai-models-uk/"
+    },
+    {
+      "headline": "Philadelphia Fed president says more rate hikes may be needed to hit 2% inflation target",
+      "take": "Philadelphia Fed president says more rate hikes may be needed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fed-paulson-rate-hikes-inflation/"
     }
   ]
 }

@@ -1,102 +1,108 @@
 {
-  "generated": "2026-09-24T04:59:23.683574+00:00",
-  "ts": 1790225963,
+  "generated": "2026-09-24T11:54:49.274697+00:00",
+  "ts": 1790250889,
   "market": [
     {
-      "headline": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-      "take": "Bitcoin under $84k, Dogecoin down 8% as Treasury yields hit 2007 highs",
+      "headline": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+      "take": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007"
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high"
     },
     {
-      "headline": "BlackRock\u2019s IBIT leads US spot Bitcoin ETFs with hundreds of millions in inflows",
-      "take": "BlackRock's IBIT leads spot Bitcoin ETFs with hundreds of millions in inflows",
+      "headline": "Bitcoin ETFs accumulate $2B this week amid price rejection at $87K",
+      "take": "Bitcoin ETFs accumulate $2B this week amid price rejection at $87K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-leads-bitcoin-etf-inflows-2/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-2b-inflows-price-rejection/"
     },
     {
-      "headline": "Bitwise, Franklin clients buy $18M in XRP ETFs amid rising interest",
-      "take": "Bitwise and Franklin clients purchase $18M in XRP ETFs amid rising demand",
+      "headline": "Litecoin surges 8% as network activity reaches new heights",
+      "take": "Litecoin surges 8% as network activity reaches new heights",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-franklin-clients-buy-18m-in-xrp-etfs-amid-rising-interest/"
+      "link": "https://cryptobriefing.com/litecoin-surges-network-activity-new-highs/"
     },
     {
-      "headline": "Bitcoin miners pivot to AI power infrastructure amid demand surge",
-      "take": "Bitcoin miners shift toward AI power infrastructure as demand surges",
+      "headline": "Japan hikes rates to 31-year high amid pressure from US Treasury Secretary Scott Bessent",
+      "take": "Japan hikes rates to 31-year high amid US Treasury pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-miners-pivot-ai-power-infrastructure/"
+      "link": "https://cryptobriefing.com/japan-boj-rate-hike-bessent-pressure/"
+    },
+    {
+      "headline": "Treasury yield surge pushes spreads with emerging Asia bonds to extremes",
+      "take": "Treasury yield surge pushes spreads with emerging Asia bonds to extremes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/treasury-yield-surge-emerging-asia-bonds/"
     }
   ],
   "business": [
     {
-      "headline": "Circle National Trust enhances Bitcoin programmability with custody services",
-      "take": "Circle National Trust enhances Bitcoin programmability with custody services",
+      "headline": "Solana surpasses 1 million tokenized equity holders for first time",
+      "take": "Solana surpasses 1 million tokenized equity holders for first time",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-national-trust-bitcoin-custody-cirbtc/"
+      "link": "https://cryptobriefing.com/solana-1-million-tokenized-equity-holders/"
     },
     {
-      "headline": "Fortitude raises credit facility to $50M to fuel Zcash mining expansion",
-      "take": "Fortitude raises $50M credit facility to expand Zcash mining operations",
+      "headline": "StarkWare\u2019s coding contest cuts quantum-safe Bitcoin transaction cost to $66",
+      "take": "StarkWare contest cuts quantum-safe Bitcoin transaction cost to $66",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fortitude-raises-credit-facility-50m-zcash-mining/"
+      "link": "https://cryptobriefing.com/starkware-contest-quantum-safe-bitcoin-cost-66/"
     },
     {
-      "headline": "Variational plans VAR token launch with 32% airdrop in Q4 2026",
-      "take": "Variational plans VAR token launch with 32% airdrop in Q4 2026",
+      "headline": "Cardano launches Mesmo, a native library for multiple programming languages",
+      "take": "Cardano launches Mesmo, a native library for multiple programming languages",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/variational-var-token-launch-airdrop/"
+      "link": "https://cryptobriefing.com/cardano-launches-mesmo-native-library/"
     },
     {
-      "headline": "Cloudflare\u2019s Will Papper suggests Ethereum\u2019s sharding design could enable scalable stablecoin payments",
-      "take": "Cloudflare suggests Ethereum sharding could enable scalable stablecoin payments",
+      "headline": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
+      "take": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposits",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237"
+    },
+    {
+      "headline": "SoftBank raises $11.1B through massive bond sale to fund OpenAI investment",
+      "take": "SoftBank raises $11.1B through bond sale to fund OpenAI investment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cloudflare-ethereum-sharding-stablecoin-payments/"
+      "link": "https://cryptobriefing.com/softbank-raises-11b-ai-semiconductor-bond-sale/"
     }
   ],
   "security": [
     {
-      "headline": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-      "take": "AI agent hacked Australian government website, Australian PM confirms",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says"
+      "headline": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "take": "Brooklyn man sentenced 12 years for stealing $16M via Coinbase phishing",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme"
     },
     {
-      "headline": "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How",
-      "take": "Meta's Muse AI agent read user's private iMessages then misrepresented access",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how"
-    },
-    {
-      "headline": "OpenAI AI systems attempted unauthorized breaches without human prompting: NYT",
-      "take": "OpenAI systems attempted unauthorized breaches without human prompting",
+      "headline": "OpenAI agents breach Australian health data site, investigation underway",
+      "take": "OpenAI agents breach Australian health data site, investigation underway",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-systems-attempted-unauthorized-breaches-without-human-prompting-nyt/"
+      "link": "https://cryptobriefing.com/openai-agents-breach-australian-health-data-site-investigation-underway/"
+    },
+    {
+      "headline": "RSA cryptosystem faces new classical attack, but widespread panic can wait",
+      "take": "RSA cryptosystem faces new classical attack, but widespread panic unwarranted",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rsa-cryptosystem-classical-attack-gpu-factoring/"
+    },
+    {
+      "headline": "EU warns Q-Day could arrive before quantum computers are commercially viable",
+      "take": "EU warns Q-Day could arrive before quantum computers commercially viable",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-q-day-quantum-cryptography-warning/"
     }
   ],
   "policy": [
     {
-      "headline": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-      "take": "US considers overseas promotion of dollar-backed stablecoins: Bloomberg",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "White House blames big banks for blocking CLARITY Act over stablecoin fears",
-      "take": "White House blames big banks for blocking CLARITY Act over stablecoin concerns",
+      "headline": "Senate\u2019s Clarity Act failure leaves crypto regulation to SEC, CFTC",
+      "take": "Senate's Clarity Act failure leaves crypto regulation to SEC, CFTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/white-house-blames-big-banks-for-blocking-clarity-act-over-stablecoin-fears/"
+      "link": "https://cryptobriefing.com/senates-clarity-act-failure-leaves-crypto-regulation-to-sec-cftc/"
     },
     {
-      "headline": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
-      "take": "Ex-SEC acting chair says agency dropped crypto cases to protect credibility",
+      "headline": "EU banking watchdog calls for crypto lending rules under MiCA",
+      "take": "EU banking watchdog calls for crypto lending rules under MiCA",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
-      "take": "US lawmakers from gaming states urge Supreme Court to take Kalshi case",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

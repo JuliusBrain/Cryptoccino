@@ -1,96 +1,102 @@
 {
-  "generated": "2026-09-25T05:03:57.605099+00:00",
-  "ts": 1790312637,
+  "generated": "2026-09-25T11:57:02.915203+00:00",
+  "ts": 1790337422,
   "market": [
     {
-      "headline": "Crypto\u2019s Latest Rally Shows Bitcoin Still Rules the Market",
-      "take": "Bitcoin leads crypto rally, demonstrating sustained market dominance",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/crypto-s-latest-rally-shows-bitcoin-still-rules-the-market"
+      "headline": "IBIT options implied volatility sinks to 12-month lows as Bitcoin rebounds 37%",
+      "take": "Bitcoin options volatility hits twelve-month lows as price rebounds thirty-seven percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ibit-options-implied-volatility-bitcoin-rebound/"
     },
     {
-      "headline": "Meta Platforms shares break out, signaling renewed market momentum",
-      "take": "Meta shares break out, signaling renewed momentum in tech stocks",
+      "headline": "US spot Ethereum ETFs pull in $747M over five-day inflow streak",
+      "take": "US spot Ethereum ETFs attract seven hundred forty-seven million in five-day streak",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-platforms-shares-breakout-muse-ai/"
+      "link": "https://cryptobriefing.com/ethereum-etf-inflows-747-million/"
     },
     {
-      "headline": "US 10-year Treasury yield, highest since 2007",
-      "take": "US ten-year Treasury yield hits highest level since 2007",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-10-year-treasury-yield-highest-since-2007/"
+      "headline": "Bitcoin ETFs have erased a $5.8 billion hole",
+      "take": "Bitcoin ETFs have closed a five point eight billion dollar inflow gap",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole"
     },
     {
-      "headline": "Gold prices dip amid Iran tensions, Fed rate hike expectations",
-      "take": "Gold prices decline amid Iran tensions and Fed rate expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-dip-amid-iran-tensions-fed-rate-hike-expectations/"
+      "headline": "Bond volatility surges while bitcoin and Wall Street stay calm",
+      "take": "Bond volatility rises sharply while crypto markets remain relatively composed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm"
+    },
+    {
+      "headline": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+      "take": "Altcoins surge across board as bitcoin consolidates near eighty-four thousand dollars",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000"
     }
   ],
   "business": [
     {
-      "headline": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
-      "take": "DensityAI approaches ten-billion valuation with AWS partnership deal",
+      "headline": "BlackRock boosts Ethereum with new onchain intelligent portfolio tokens",
+      "take": "BlackRock launches new Ethereum onchain intelligent portfolio token products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/"
+      "link": "https://cryptobriefing.com/blackrock-ondo-onchain-portfolio-tokens/"
     },
     {
-      "headline": "Anthropic founders to hold 50% voting control ahead of IPO",
-      "take": "Anthropic founders secure fifty percent voting control before IPO",
+      "headline": "PayPal\u2019s PYUSD stablecoin expands to 70 new markets globally",
+      "take": "PayPal expands PYUSD stablecoin access to seventy new markets globally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-founders-to-hold-50-voting-control-ahead-of-ipo/"
+      "link": "https://cryptobriefing.com/paypal-pyusd-expands-70-countries/"
     },
     {
-      "headline": "Slipstream launches with Aero, featuring protocol-level MEV capture and dynamic fees",
-      "take": "Slipstream launches with protocol-level MEV capture and dynamic fees",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/slipstream-aero-mev-capture-launch/"
+      "headline": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+      "take": "Ethena diversifies USDe backing into equity stocks and perpetuals on Binance",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367"
     },
     {
-      "headline": "OpenAI sets ChatGPT Pro Max subscription at $500",
-      "take": "OpenAI introduces ChatGPT Pro Max subscription tier at five hundred",
+      "headline": "Akamai secures $12B cloud deal with Anthropic, stock surges",
+      "take": "Akamai secures twelve billion dollar cloud infrastructure deal with Anthropic",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-chatgpt-pro-max-500-subscription/"
+      "link": "https://cryptobriefing.com/akamai-secures-12b-cloud-deal-with-anthropic-stock-surges/"
+    },
+    {
+      "headline": "Sequans completes Bitcoin treasury exit after selling final 314 BTC",
+      "take": "Sequans completes bitcoin treasury exit after selling final three hundred fourteen coins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sequans-communications-exits-bitcoin-treasury/"
     }
   ],
   "security": [
     {
-      "headline": "Bitget Suspends Withdrawals After Hackers Take $352 Million",
-      "take": "Bitget exchange suffers three hundred fifty million dollar security breach",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals"
+      "headline": "KelpDAO developer sues LayerZero, CEO over $292 million exploit and blame-shifting",
+      "take": "KelpDAO developer sues LayerZero and CEO over two hundred ninety-two million exploit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kelpdao-developer-sues-layerzero-ceo-over-292-million-exploit-and-blame-shifting/"
     },
     {
-      "headline": "EQIBank fights to recover $89M seized from US payment provider accounts",
-      "take": "EQIBank pursues recovery of eighty-nine million seized from accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eqibank-fights-recover-90m-seized/"
+      "headline": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
+      "take": "Bitget's three hundred fifty-two million hack used spoofed transfers, not private keys",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
+    },
+    {
+      "headline": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "take": "Researchers publish Zcash-style privacy design framework for confidential Bitcoin transfers",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "take": "Federal Reserve advances GENIUS Act proposals for stablecoin regulation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
-    },
-    {
-      "headline": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-      "take": "CFTC updates tokenized asset guidance and blockchain record requirements",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "take": "New York sues Polymarket alleging illegal gambling operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
-    },
-    {
-      "headline": "Trump, Xi extend trade truce by two months, eye further negotiations",
-      "take": "Trump and Xi extend trade truce two months, pursue further negotiations",
+      "headline": "Fed proposes new stablecoin rules under GENIUS Act",
+      "take": "Federal Reserve proposes new stablecoin regulatory framework under GENIUS Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-xi-extend-trade-truce-by-two-months-eye-further-negotiations/"
+      "link": "https://cryptobriefing.com/fed-proposes-new-stablecoin-rules-under-genius-act/"
+    },
+    {
+      "headline": "New York City lawmakers propose financial rewards for AI whistleblowers",
+      "take": "New York City lawmakers propose financial rewards for artificial intelligence whistleblowers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nyc-ai-whistleblower-rewards-proposal/"
     }
   ]
 }

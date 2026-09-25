@@ -1,96 +1,108 @@
 {
-  "generated": "2026-09-25T17:17:36.788265+00:00",
-  "ts": 1790356656,
+  "generated": "2026-09-25T21:39:14.633967+00:00",
+  "ts": 1790372354,
   "market": [
     {
-      "headline": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
-      "take": "Bitcoin rally slows as $15.6B options expiry approaches; XRP and Solana climb",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana"
-    },
-    {
-      "headline": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "take": "Bond volatility rises sharply while bitcoin and equities remain relatively steady",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm"
-    },
-    {
-      "headline": "Coinbase\u2019s tokenized US stocks on Base hit $22M market cap",
-      "take": "Coinbase tokenized US stocks on Base reach $22M market cap milestone",
+      "headline": "Tokenized commodities in DeFi reach $133M as Aave dominates with 51% market share",
+      "take": "Tokenized commodities in DeFi reach $133M with Aave leading at 51%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbases-tokenized-us-stocks-on-base-hit-22m-market-cap/"
+      "link": "https://cryptobriefing.com/tokenized-commodities-defi-133m-aave-leads/"
+    },
+    {
+      "headline": "Bitcoin futures speculators net long 2,756 contracts in CFTC report",
+      "take": "Bitcoin futures speculators hold net long 2,756 contracts in CFTC data",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-bitcoin-net-long-position-september/"
+    },
+    {
+      "headline": "Securitize leads tokenized stocks market cap growth with $251M increase",
+      "take": "Securitize leads tokenized stocks market growth with $251M capital increase",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/securitize-tokenized-stocks-market-cap-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Jumper to launch JUMP token sale on Legion September 29",
-      "take": "Jumper launches JUMP token sale on Legion platform September 29",
+      "headline": "Circle CFO Jeremy Fox-Geen to step down by year-end after steering $1.2B IPO",
+      "take": "Circle CFO Jeremy Fox-Geen steps down after leading $1.2B IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jumper-to-launch-jump-token-sale-on-legion-september-29/"
+      "link": "https://cryptobriefing.com/circle-cfo-fox-geen-stepping-down/"
     },
     {
-      "headline": "Coinbase tokenized stocks go live on Aave V4 on Base",
-      "take": "Coinbase tokenized stocks now live on Aave V4 as loan collateral",
+      "headline": "Arbitrum becomes first blockchain to reach 7,000 real-world assets",
+      "take": "Arbitrum becomes first blockchain to reach 7,000 real-world assets milestone",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-go-live-on-aave-v4-on-base/"
+      "link": "https://cryptobriefing.com/arbitrum-first-blockchain-7000-rwas/"
     },
     {
-      "headline": "Binance-owned CoinMarketCap buys Coinglass to expand crypto market data offering",
-      "take": "Binance-owned CoinMarketCap acquires Coinglass to expand market data services",
+      "headline": "Aero launches October 21, 2026, with seven chains including Arbitrum and Robinhood Chain",
+      "take": "Aero launches October 2026 across seven chains including Arbitrum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinmarketcap-acquires-coinglass-derivatives-data/"
+      "link": "https://cryptobriefing.com/aero-launches-seven-chains-arbitrum/"
     },
     {
-      "headline": "Circle Foundation backs UN push to move aid payments onchain",
-      "take": "Circle Foundation backs UN initiative to move humanitarian aid onchain",
+      "headline": "Cognition AI targets $1B in annualized revenue, doubling run rate",
+      "take": "Cognition AI targets $1B annualized revenue, doubling current run rate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-foundation-backs-un-push-to-move-aid-payments-onchain/"
+      "link": "https://cryptobriefing.com/cognition-ai-billion-revenue-run-rate/"
     },
     {
-      "headline": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-      "take": "Morgan Stanley joins NEXTPredict prediction market platform for institutions",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play"
+      "headline": "Pearl blockchain integrates AI inference with mining rewards through Proof-of-Useful-Work",
+      "take": "Pearl blockchain integrates AI inference with mining rewards through novel protocol",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pearl-blockchain-ai-inference-mining/"
     }
   ],
   "security": [
     {
-      "headline": "Bitget Hack Losses Climb to $387M: Here\u2019s What Happened, and Why North Korea Is a Suspect",
-      "take": "Bitget hack losses reach $387M; North Korea suspected in exchange breach",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect"
-    },
-    {
-      "headline": "D\u2019CENT app wallet attack drains 12.4M XRP from thousands of users over 10-day spree",
-      "take": "D'CENT app wallet attack drains 12.4M XRP from thousands over ten days",
+      "headline": "Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe",
+      "take": "Bitget pauses withdrawals after $387.5M hack, CEO confirms funds secure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dcent-wallet-attack-drains-xrp/"
+      "link": "https://cryptobriefing.com/bitget-pauses-withdrawals-351-million-hack/"
     },
     {
-      "headline": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-      "take": "Magic Eden warns old Ethereum NFT listings exposed to payment processor exploit",
+      "headline": "OpenAI investigates rogue AI agents leaking user images",
+      "take": "OpenAI investigates rogue AI agents leaking user images from platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-investigates-rogue-ai-agents-leaking-user-images/"
+    },
+    {
+      "headline": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+      "take": "AI agents hacked own test environment to cheat, security research finds",
       "source": "decrypt",
-      "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit"
+      "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC advances crypto regulations; SoFi, Mastercard launch stablecoin settlement",
-      "take": "CFTC advances crypto regulations; SoFi and Mastercard launch stablecoin settlement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-advances-crypto-regulations-sofi-mastercard-launch-stablecoin-settlement/"
+      "headline": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+      "take": "US prosecutors seek $84.2M from bank linked to Tether holdings",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex"
     },
     {
-      "headline": "CFTC Charges Cash FX Group S.A., and CEO; Three Others With $950 Million Fraud Scheme",
-      "take": "CFTC charges Cash FX Group and CEO with $950M fraud scheme",
-      "source": "cftc_enforcement",
-      "link": "https://www.cftc.gov/PressRoom/PressReleases/9304-26"
+      "headline": "Hester Peirce, known as \u2018Crypto Mom\u2019, departs SEC effective October 2",
+      "take": "SEC Commissioner Hester Peirce departs effective October 2, crypto advocate exits",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hester-peirce-crypto-mom-departs-sec/"
     },
     {
-      "headline": "Kazakhstan allows crypto miners to use excess oil field gas for power generation",
-      "take": "Kazakhstan permits crypto miners to use excess oil field gas for electricity",
+      "headline": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+      "take": "Appeals court rules sports contracts subject to state regulation, blocks Kalshi",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations"
+    },
+    {
+      "headline": "Lula bans online gambling in Brazil ahead of presidential election",
+      "take": "Brazil's president Lula bans online gambling ahead of election",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kazakhstan-crypto-miners-flare-gas-power/"
+      "link": "https://cryptobriefing.com/lula-bans-online-gambling-in-brazil-ahead-of-presidential-election/"
+    },
+    {
+      "headline": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+      "take": "SEC addresses token buybacks, network upgrades in new crypto FAQ guidance",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914"
     }
   ]
 }

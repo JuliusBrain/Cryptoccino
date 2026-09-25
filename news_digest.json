@@ -1,102 +1,96 @@
 {
-  "generated": "2026-09-25T11:57:02.915203+00:00",
-  "ts": 1790337422,
+  "generated": "2026-09-25T17:17:36.788265+00:00",
+  "ts": 1790356656,
   "market": [
     {
-      "headline": "IBIT options implied volatility sinks to 12-month lows as Bitcoin rebounds 37%",
-      "take": "Bitcoin options volatility hits twelve-month lows as price rebounds thirty-seven percent",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ibit-options-implied-volatility-bitcoin-rebound/"
-    },
-    {
-      "headline": "US spot Ethereum ETFs pull in $747M over five-day inflow streak",
-      "take": "US spot Ethereum ETFs attract seven hundred forty-seven million in five-day streak",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-etf-inflows-747-million/"
-    },
-    {
-      "headline": "Bitcoin ETFs have erased a $5.8 billion hole",
-      "take": "Bitcoin ETFs have closed a five point eight billion dollar inflow gap",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole"
+      "headline": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+      "take": "Bitcoin rally slows as $15.6B options expiry approaches; XRP and Solana climb",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana"
     },
     {
       "headline": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "take": "Bond volatility rises sharply while crypto markets remain relatively composed",
+      "take": "Bond volatility rises sharply while bitcoin and equities remain relatively steady",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm"
     },
     {
-      "headline": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "take": "Altcoins surge across board as bitcoin consolidates near eighty-four thousand dollars",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000"
+      "headline": "Coinbase\u2019s tokenized US stocks on Base hit $22M market cap",
+      "take": "Coinbase tokenized US stocks on Base reach $22M market cap milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbases-tokenized-us-stocks-on-base-hit-22m-market-cap/"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock boosts Ethereum with new onchain intelligent portfolio tokens",
-      "take": "BlackRock launches new Ethereum onchain intelligent portfolio token products",
+      "headline": "Jumper to launch JUMP token sale on Legion September 29",
+      "take": "Jumper launches JUMP token sale on Legion platform September 29",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ondo-onchain-portfolio-tokens/"
+      "link": "https://cryptobriefing.com/jumper-to-launch-jump-token-sale-on-legion-september-29/"
     },
     {
-      "headline": "PayPal\u2019s PYUSD stablecoin expands to 70 new markets globally",
-      "take": "PayPal expands PYUSD stablecoin access to seventy new markets globally",
+      "headline": "Coinbase tokenized stocks go live on Aave V4 on Base",
+      "take": "Coinbase tokenized stocks now live on Aave V4 as loan collateral",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paypal-pyusd-expands-70-countries/"
+      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-go-live-on-aave-v4-on-base/"
     },
     {
-      "headline": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-      "take": "Ethena diversifies USDe backing into equity stocks and perpetuals on Binance",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367"
+      "headline": "Binance-owned CoinMarketCap buys Coinglass to expand crypto market data offering",
+      "take": "Binance-owned CoinMarketCap acquires Coinglass to expand market data services",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinmarketcap-acquires-coinglass-derivatives-data/"
     },
     {
-      "headline": "Akamai secures $12B cloud deal with Anthropic, stock surges",
-      "take": "Akamai secures twelve billion dollar cloud infrastructure deal with Anthropic",
+      "headline": "Circle Foundation backs UN push to move aid payments onchain",
+      "take": "Circle Foundation backs UN initiative to move humanitarian aid onchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/akamai-secures-12b-cloud-deal-with-anthropic-stock-surges/"
+      "link": "https://cryptobriefing.com/circle-foundation-backs-un-push-to-move-aid-payments-onchain/"
     },
     {
-      "headline": "Sequans completes Bitcoin treasury exit after selling final 314 BTC",
-      "take": "Sequans completes bitcoin treasury exit after selling final three hundred fourteen coins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sequans-communications-exits-bitcoin-treasury/"
+      "headline": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+      "take": "Morgan Stanley joins NEXTPredict prediction market platform for institutions",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play"
     }
   ],
   "security": [
     {
-      "headline": "KelpDAO developer sues LayerZero, CEO over $292 million exploit and blame-shifting",
-      "take": "KelpDAO developer sues LayerZero and CEO over two hundred ninety-two million exploit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kelpdao-developer-sues-layerzero-ceo-over-292-million-exploit-and-blame-shifting/"
-    },
-    {
-      "headline": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "take": "Bitget's three hundred fifty-two million hack used spoofed transfers, not private keys",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
-    },
-    {
-      "headline": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
-      "take": "Researchers publish Zcash-style privacy design framework for confidential Bitcoin transfers",
+      "headline": "Bitget Hack Losses Climb to $387M: Here\u2019s What Happened, and Why North Korea Is a Suspect",
+      "take": "Bitget hack losses reach $387M; North Korea suspected in exchange breach",
       "source": "decrypt",
-      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers"
+      "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect"
+    },
+    {
+      "headline": "D\u2019CENT app wallet attack drains 12.4M XRP from thousands of users over 10-day spree",
+      "take": "D'CENT app wallet attack drains 12.4M XRP from thousands over ten days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dcent-wallet-attack-drains-xrp/"
+    },
+    {
+      "headline": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+      "take": "Magic Eden warns old Ethereum NFT listings exposed to payment processor exploit",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit"
     }
   ],
   "policy": [
     {
-      "headline": "Fed proposes new stablecoin rules under GENIUS Act",
-      "take": "Federal Reserve proposes new stablecoin regulatory framework under GENIUS Act",
+      "headline": "CFTC advances crypto regulations; SoFi, Mastercard launch stablecoin settlement",
+      "take": "CFTC advances crypto regulations; SoFi and Mastercard launch stablecoin settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-proposes-new-stablecoin-rules-under-genius-act/"
+      "link": "https://cryptobriefing.com/cftc-advances-crypto-regulations-sofi-mastercard-launch-stablecoin-settlement/"
     },
     {
-      "headline": "New York City lawmakers propose financial rewards for AI whistleblowers",
-      "take": "New York City lawmakers propose financial rewards for artificial intelligence whistleblowers",
+      "headline": "CFTC Charges Cash FX Group S.A., and CEO; Three Others With $950 Million Fraud Scheme",
+      "take": "CFTC charges Cash FX Group and CEO with $950M fraud scheme",
+      "source": "cftc_enforcement",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9304-26"
+    },
+    {
+      "headline": "Kazakhstan allows crypto miners to use excess oil field gas for power generation",
+      "take": "Kazakhstan permits crypto miners to use excess oil field gas for electricity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nyc-ai-whistleblower-rewards-proposal/"
+      "link": "https://cryptobriefing.com/kazakhstan-crypto-miners-flare-gas-power/"
     }
   ]
 }

@@ -1,84 +1,96 @@
 {
-  "generated": "2026-09-24T21:34:52.100590+00:00",
-  "ts": 1790285692,
+  "generated": "2026-09-25T05:03:57.605099+00:00",
+  "ts": 1790312637,
   "market": [
     {
-      "headline": "Grayscale\u2019s Zcash ETF surpasses $915M in assets as ZEC price nearly doubles since launch",
-      "take": "Grayscale's Zcash ETF surpasses $915M in assets as ZEC price nearly doubles",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-etf-surpasses-915m-assets/"
+      "headline": "Crypto\u2019s Latest Rally Shows Bitcoin Still Rules the Market",
+      "take": "Bitcoin leads crypto rally, demonstrating sustained market dominance",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/crypto-s-latest-rally-shows-bitcoin-still-rules-the-market"
     },
     {
-      "headline": "Hyperliquid surpasses $7B in TVL, signaling strong growth potential",
-      "take": "Hyperliquid surpasses $7B in TVL, signaling strong protocol growth momentum",
+      "headline": "Meta Platforms shares break out, signaling renewed market momentum",
+      "take": "Meta shares break out, signaling renewed momentum in tech stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-surpasses-7b-in-tvl-signaling-strong-growth-potential/"
+      "link": "https://cryptobriefing.com/meta-platforms-shares-breakout-muse-ai/"
     },
     {
-      "headline": "Glassnode identifies first Bitcoin bear market without price drop below realized price",
-      "take": "First Bitcoin bear market identified without price drop below realized price",
+      "headline": "US 10-year Treasury yield, highest since 2007",
+      "take": "US ten-year Treasury yield hits highest level since 2007",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-bear-market-above-realized-price/"
+      "link": "https://cryptobriefing.com/us-10-year-treasury-yield-highest-since-2007/"
     },
     {
-      "headline": "Venice Token soars nearly 1,800% this year amid growing interest in AI-crypto convergence",
-      "take": "Venice Token soars nearly 1,800% this year amid AI-crypto convergence interest",
+      "headline": "Gold prices dip amid Iran tensions, Fed rate hike expectations",
+      "take": "Gold prices decline amid Iran tensions and Fed rate expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/venice-token-vvv-soars-1800-percent/"
+      "link": "https://cryptobriefing.com/gold-prices-dip-amid-iran-tensions-fed-rate-hike-expectations/"
     }
   ],
   "business": [
     {
-      "headline": "Akamai inks $12B multi-year deal with Anthropic, potential to reach $20B",
-      "take": "Akamai inks $12B multi-year deal with Anthropic for AI computing infrastructure",
+      "headline": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+      "take": "DensityAI approaches ten-billion valuation with AWS partnership deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/akamai-inks-12b-multi-year-deal-with-anthropic-potential-to-reach-20b/"
+      "link": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/"
     },
     {
-      "headline": "ONDO Finance launches BlackRock-backed portfolios as ONDO rallies over 18%",
-      "take": "ONDO Finance launches BlackRock-backed portfolios as ONDO rallies over 18%",
+      "headline": "Anthropic founders to hold 50% voting control ahead of IPO",
+      "take": "Anthropic founders secure fifty percent voting control before IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-finance-blackrock-portfolios-rally/"
+      "link": "https://cryptobriefing.com/anthropic-founders-to-hold-50-voting-control-ahead-of-ipo/"
     },
     {
       "headline": "Slipstream launches with Aero, featuring protocol-level MEV capture and dynamic fees",
-      "take": "Slipstream launches with Aero featuring protocol-level MEV capture and dynamic fees",
+      "take": "Slipstream launches with protocol-level MEV capture and dynamic fees",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/slipstream-aero-mev-capture-launch/"
     },
     {
-      "headline": "Bullish and Equiniti launch Issuer Sponsored Token Coalition to set standards for tokenized securities",
-      "take": "Bullish and Equiniti launch Issuer Sponsored Token Coalition for tokenized securities standards",
+      "headline": "OpenAI sets ChatGPT Pro Max subscription at $500",
+      "take": "OpenAI introduces ChatGPT Pro Max subscription tier at five hundred",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bullish-equiniti-issuer-sponsored-token-coalition/"
-    },
-    {
-      "headline": "Gnosis Pay to shut down consumer cards, shift to B2B by Dec. 20, 2026",
-      "take": "Gnosis Pay to shut down consumer cards, shift to B2B by December 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gnosis-pay-shutdown-consumer-cards-b2b/"
+      "link": "https://cryptobriefing.com/openai-chatgpt-pro-max-500-subscription/"
     }
   ],
   "security": [
     {
-      "headline": "Bitget 'Potentially Hacked' as $183 Million Vanishes From Exchange Wallets",
-      "take": "Bitget potentially hacked with $183 million in crypto vanishing from exchange wallets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets"
+      "headline": "Bitget Suspends Withdrawals After Hackers Take $352 Million",
+      "take": "Bitget exchange suffers three hundred fifty million dollar security breach",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals"
+    },
+    {
+      "headline": "EQIBank fights to recover $89M seized from US payment provider accounts",
+      "take": "EQIBank pursues recovery of eighty-nine million seized from accounts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eqibank-fights-recover-90m-seized/"
     }
   ],
   "policy": [
     {
-      "headline": "Fed proposes stablecoin rules under GENIUS Act, eyes crypto clarity",
-      "take": "Fed proposes stablecoin rules under GENIUS Act seeking crypto regulatory clarity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-proposes-stablecoin-rules-under-genius-act-eyes-crypto-clarity/"
+      "headline": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "take": "Federal Reserve advances GENIUS Act proposals for stablecoin regulation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
     },
     {
-      "headline": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-      "take": "U.S. commodities firms can invest in tokenized assets using blockchain records",
+      "headline": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+      "take": "CFTC updates tokenized asset guidance and blockchain record requirements",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "take": "New York sues Polymarket alleging illegal gambling operations",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc"
+      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
+    },
+    {
+      "headline": "Trump, Xi extend trade truce by two months, eye further negotiations",
+      "take": "Trump and Xi extend trade truce two months, pursue further negotiations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-xi-extend-trade-truce-by-two-months-eye-further-negotiations/"
     }
   ]
 }

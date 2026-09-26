@@ -1,114 +1,90 @@
 {
-  "generated": "2026-09-26T05:06:51.066530+00:00",
-  "ts": 1790399211,
+  "generated": "2026-09-26T11:31:58.153259+00:00",
+  "ts": 1790422318,
   "market": [
     {
-      "headline": "River reports 81% of Bitcoin supply inactive for six months as holders tighten their grip",
-      "take": "81% of Bitcoin supply inactive for six months, holders accumulating",
+      "headline": "US spot Solana ETFs see record $80M inflow in one day",
+      "take": "Solana ETF records $80M inflow in single day amid institutional demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-supply-81-percent-inactive-six-months/"
+      "link": "https://cryptobriefing.com/solana-etf-record-80m-inflow/"
     },
     {
-      "headline": "Goldman warns declining token prices may hinder investment growth",
-      "take": "Goldman warns declining token prices may constrain investment growth",
+      "headline": "Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
+      "take": "Bitwise and Franklin ETF clients acquire $23M XRP, signaling institutional interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-warns-declining-token-prices-investment-growth/"
+      "link": "https://cryptobriefing.com/bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/"
     },
     {
-      "headline": "86% of real world asset perp volume now trades onchain",
-      "take": "Real-world asset perpetual futures now majority onchain traded",
+      "headline": "Bear market fears grow; Bitcoin faces pressure despite $80K support",
+      "take": "Bitcoin faces selling pressure despite $80K support level holding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwa-perp-volume-onchain-dominance/"
+      "link": "https://cryptobriefing.com/bear-market-fears-grow-bitcoin-faces-pressure-despite-80k-support/"
     },
     {
-      "headline": "Circle\u2019s cirBTC surpasses 5,000 issued tokens",
-      "take": "Circle's wrapped Bitcoin token supply crosses 5,000 issued tokens",
+      "headline": "Bitcoin dominance falls below 60%, signaling potential altcoin season",
+      "take": "Bitcoin dominance drops below 60%, suggesting possible altcoin season beginning",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-cirbtc-surpasses-5000-tokens/"
+      "link": "https://cryptobriefing.com/bitcoin-dominance-falls-below-60-altcoin-season/"
     }
   ],
   "business": [
     {
       "headline": "Solana\u2019s 150-millisecond settlement upgrade reaches second public test network",
-      "take": "Solana settlement upgrade reaches second testnet at 150 milliseconds",
+      "take": "Solana settlement upgrade reaches second public testnet, advancing network speed",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
     },
     {
       "headline": "Ethereum node sync improved to under half a day with EIP-4444 optimizations",
-      "take": "Ethereum node sync improved to under half day with optimizations",
+      "take": "Ethereum node sync improved to under half a day via EIP-4444",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-eip-4444-node-sync-optimization/"
     },
     {
-      "headline": "TALIS launches onchain structured markets protocol for tokenized stocks on Robinhood Chain",
-      "take": "TALIS launches onchain structured markets protocol for tokenized stocks",
+      "headline": "Ethena ends token incentives for USDe after 85% decline in rewards",
+      "take": "Ethena ends token incentives for USDe after steep reward decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/talis-onchain-structured-markets-tokenized-stocks/"
+      "link": "https://cryptobriefing.com/ethena-ends-usde-token-incentives/"
     },
     {
-      "headline": "AlphaFi reportedly winding down after misconfiguration, SUI Foundation role unclear",
-      "take": "AlphaFi winds down after misconfiguration, SUI Foundation role unclear",
+      "headline": "Atlas Energy Solutions surges as much as 19% after landing $613M in contracts with frontier AI lab",
+      "take": "Atlas Energy Solutions rises 19% after securing $613M AI lab contract",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alphafi-winds-down-oracle-misconfiguration-sui/"
-    },
-    {
-      "headline": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "take": "Bitcoin could gain Zcash-style privacy features without rule changes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
+      "link": "https://cryptobriefing.com/atlas-energy-solutions-surges-ai-lab-contracts/"
     }
   ],
   "security": [
     {
+      "headline": "Hackers hijack AI accounts and servers to fuel a booming cyber crime economy",
+      "take": "Hackers hijack AI accounts and servers fueling growing cyber crime economy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hackers-hijack-ai-accounts-cyber-crime/"
+    },
+    {
       "headline": "Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
-      "take": "Bitget hacker withdraws $1.23M from Binance to attacker wallet",
+      "take": "Bitget hacker withdraws $1.23M through Binance to attacker-controlled wallet",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitget-hacker-withdraws-binance-transfers/"
     },
     {
-      "headline": "Bitget CEO Gracy Chen reveals $80K loss from fake interview scam tied to Lazarus Group",
-      "take": "Bitget CEO loses $80K in fake interview scam tied to Lazarus",
+      "headline": "Bitget CEO Gracy Chen affirms IPO plans despite $387.5M security breach",
+      "take": "Bitget CEO affirms IPO plans despite $387.5M security breach impact",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-ceo-gracy-chen-80k-fake-interview-scam/"
-    },
-    {
-      "headline": "Zano halts economic activity due to inflation bug, plans rollback",
-      "take": "Zano halts all activity due to inflation bug, plans rollback",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zano-inflation-bug-blockchain-rollback/"
-    },
-    {
-      "headline": "Intesa Sanpaolo\u2019s Fideuram loses \u20ac95M in AI messaging scam",
-      "take": "Italian bank Fideuram loses \u20ac95M in AI messaging scam",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fideuram-ai-scam-95-million-loss/"
+      "link": "https://cryptobriefing.com/bitget-ipo-plans-security-breach/"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-      "take": "SEC's leading crypto advocate Hester Peirce departing next week",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
-    },
-    {
-      "headline": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "take": "Appeals court rules sports prediction contracts subject to state regulation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations"
-    },
-    {
-      "headline": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-      "take": "SEC crypto FAQ addresses token buybacks, upgrades, profit promises",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914"
-    },
-    {
-      "headline": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "take": "Ex-CFTC leader leaves Blockchain Association after CLARITY vote fails",
+      "headline": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "take": "CFTC sues Cash FX alleging $950M crypto-linked forex scheme operation",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "take": "SEC Commissioner Hester Peirce to leave post on October 2",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

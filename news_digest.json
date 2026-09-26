@@ -1,108 +1,114 @@
 {
-  "generated": "2026-09-25T21:39:14.633967+00:00",
-  "ts": 1790372354,
+  "generated": "2026-09-26T05:06:51.066530+00:00",
+  "ts": 1790399211,
   "market": [
     {
-      "headline": "Tokenized commodities in DeFi reach $133M as Aave dominates with 51% market share",
-      "take": "Tokenized commodities in DeFi reach $133M with Aave leading at 51%",
+      "headline": "River reports 81% of Bitcoin supply inactive for six months as holders tighten their grip",
+      "take": "81% of Bitcoin supply inactive for six months, holders accumulating",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-commodities-defi-133m-aave-leads/"
+      "link": "https://cryptobriefing.com/bitcoin-supply-81-percent-inactive-six-months/"
     },
     {
-      "headline": "Bitcoin futures speculators net long 2,756 contracts in CFTC report",
-      "take": "Bitcoin futures speculators hold net long 2,756 contracts in CFTC data",
+      "headline": "Goldman warns declining token prices may hinder investment growth",
+      "take": "Goldman warns declining token prices may constrain investment growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-bitcoin-net-long-position-september/"
+      "link": "https://cryptobriefing.com/goldman-warns-declining-token-prices-investment-growth/"
     },
     {
-      "headline": "Securitize leads tokenized stocks market cap growth with $251M increase",
-      "take": "Securitize leads tokenized stocks market growth with $251M capital increase",
+      "headline": "86% of real world asset perp volume now trades onchain",
+      "take": "Real-world asset perpetual futures now majority onchain traded",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-tokenized-stocks-market-cap-growth/"
+      "link": "https://cryptobriefing.com/rwa-perp-volume-onchain-dominance/"
+    },
+    {
+      "headline": "Circle\u2019s cirBTC surpasses 5,000 issued tokens",
+      "take": "Circle's wrapped Bitcoin token supply crosses 5,000 issued tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-cirbtc-surpasses-5000-tokens/"
     }
   ],
   "business": [
     {
-      "headline": "Circle CFO Jeremy Fox-Geen to step down by year-end after steering $1.2B IPO",
-      "take": "Circle CFO Jeremy Fox-Geen steps down after leading $1.2B IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-cfo-fox-geen-stepping-down/"
+      "headline": "Solana\u2019s 150-millisecond settlement upgrade reaches second public test network",
+      "take": "Solana settlement upgrade reaches second testnet at 150 milliseconds",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
     },
     {
-      "headline": "Arbitrum becomes first blockchain to reach 7,000 real-world assets",
-      "take": "Arbitrum becomes first blockchain to reach 7,000 real-world assets milestone",
+      "headline": "Ethereum node sync improved to under half a day with EIP-4444 optimizations",
+      "take": "Ethereum node sync improved to under half day with optimizations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arbitrum-first-blockchain-7000-rwas/"
+      "link": "https://cryptobriefing.com/ethereum-eip-4444-node-sync-optimization/"
     },
     {
-      "headline": "Aero launches October 21, 2026, with seven chains including Arbitrum and Robinhood Chain",
-      "take": "Aero launches October 2026 across seven chains including Arbitrum",
+      "headline": "TALIS launches onchain structured markets protocol for tokenized stocks on Robinhood Chain",
+      "take": "TALIS launches onchain structured markets protocol for tokenized stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aero-launches-seven-chains-arbitrum/"
+      "link": "https://cryptobriefing.com/talis-onchain-structured-markets-tokenized-stocks/"
     },
     {
-      "headline": "Cognition AI targets $1B in annualized revenue, doubling run rate",
-      "take": "Cognition AI targets $1B annualized revenue, doubling current run rate",
+      "headline": "AlphaFi reportedly winding down after misconfiguration, SUI Foundation role unclear",
+      "take": "AlphaFi winds down after misconfiguration, SUI Foundation role unclear",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cognition-ai-billion-revenue-run-rate/"
+      "link": "https://cryptobriefing.com/alphafi-winds-down-oracle-misconfiguration-sui/"
     },
     {
-      "headline": "Pearl blockchain integrates AI inference with mining rewards through Proof-of-Useful-Work",
-      "take": "Pearl blockchain integrates AI inference with mining rewards through novel protocol",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pearl-blockchain-ai-inference-mining/"
+      "headline": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "take": "Bitcoin could gain Zcash-style privacy features without rule changes",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
     }
   ],
   "security": [
     {
-      "headline": "Bitget pauses withdrawals after $387.5M hack, CEO assures funds safe",
-      "take": "Bitget pauses withdrawals after $387.5M hack, CEO confirms funds secure",
+      "headline": "Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
+      "take": "Bitget hacker withdraws $1.23M from Binance to attacker wallet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-pauses-withdrawals-351-million-hack/"
+      "link": "https://cryptobriefing.com/bitget-hacker-withdraws-binance-transfers/"
     },
     {
-      "headline": "OpenAI investigates rogue AI agents leaking user images",
-      "take": "OpenAI investigates rogue AI agents leaking user images from platform",
+      "headline": "Bitget CEO Gracy Chen reveals $80K loss from fake interview scam tied to Lazarus Group",
+      "take": "Bitget CEO loses $80K in fake interview scam tied to Lazarus",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-investigates-rogue-ai-agents-leaking-user-images/"
+      "link": "https://cryptobriefing.com/bitget-ceo-gracy-chen-80k-fake-interview-scam/"
     },
     {
-      "headline": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-      "take": "AI agents hacked own test environment to cheat, security research finds",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace"
+      "headline": "Zano halts economic activity due to inflation bug, plans rollback",
+      "take": "Zano halts all activity due to inflation bug, plans rollback",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zano-inflation-bug-blockchain-rollback/"
+    },
+    {
+      "headline": "Intesa Sanpaolo\u2019s Fideuram loses \u20ac95M in AI messaging scam",
+      "take": "Italian bank Fideuram loses \u20ac95M in AI messaging scam",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fideuram-ai-scam-95-million-loss/"
     }
   ],
   "policy": [
     {
-      "headline": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-      "take": "US prosecutors seek $84.2M from bank linked to Tether holdings",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex"
-    },
-    {
-      "headline": "Hester Peirce, known as \u2018Crypto Mom\u2019, departs SEC effective October 2",
-      "take": "SEC Commissioner Hester Peirce departs effective October 2, crypto advocate exits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hester-peirce-crypto-mom-departs-sec/"
+      "headline": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+      "take": "SEC's leading crypto advocate Hester Peirce departing next week",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
     },
     {
       "headline": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "take": "Appeals court rules sports contracts subject to state regulation, blocks Kalshi",
+      "take": "Appeals court rules sports prediction contracts subject to state regulation",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations"
     },
     {
-      "headline": "Lula bans online gambling in Brazil ahead of presidential election",
-      "take": "Brazil's president Lula bans online gambling ahead of election",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lula-bans-online-gambling-in-brazil-ahead-of-presidential-election/"
-    },
-    {
       "headline": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-      "take": "SEC addresses token buybacks, network upgrades in new crypto FAQ guidance",
+      "take": "SEC crypto FAQ addresses token buybacks, upgrades, profit promises",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914"
+    },
+    {
+      "headline": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "take": "Ex-CFTC leader leaves Blockchain Association after CLARITY vote fails",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

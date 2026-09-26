@@ -1,7 +1,19 @@
 {
-  "generated": "2026-09-26T16:28:49.593882+00:00",
-  "ts": 1790440129,
+  "generated": "2026-09-26T21:16:05.348788+00:00",
+  "ts": 1790457365,
   "market": [
+    {
+      "headline": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "take": "Bitcoin ETFs attract $2.4B weekly inflow, largest since October",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944"
+    },
+    {
+      "headline": "US spot Solana ETFs see record $80M inflow in one day",
+      "take": "Solana ETFs record $80M single-day inflow as crypto demand strengthens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-etf-record-80m-inflow/"
+    },
     {
       "headline": "Fidelity\u2019s Jurrien Timmer predicts Bitcoin targets $300K by 2029",
       "take": "Fidelity analyst predicts Bitcoin could reach $300K by 2029",
@@ -9,112 +21,82 @@
       "link": "https://cryptobriefing.com/fidelity-timmer-bitcoin-300k-2029/"
     },
     {
-      "headline": "US spot Solana ETFs see record $80M inflow in one day",
-      "take": "Spot Solana ETFs see record $80M inflow in single day",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-etf-record-80m-inflow/"
-    },
-    {
-      "headline": "Bitcoin dominance falls below 60%, signaling potential altcoin season",
-      "take": "Bitcoin dominance falls below 60%, signaling potential altcoin season",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-dominance-falls-below-60-altcoin-season/"
-    },
-    {
-      "headline": "Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
-      "take": "Bitwise and Franklin ETF clients acquire $23M in XRP",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/"
-    },
-    {
       "headline": "Bear market fears grow; Bitcoin faces pressure despite $80K support",
-      "take": "Bear market fears grow as Bitcoin faces pressure despite support",
+      "take": "Bitcoin faces selling pressure despite holding $80K support level",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bear-market-fears-grow-bitcoin-faces-pressure-despite-80k-support/"
     }
   ],
   "business": [
     {
-      "headline": "Kraken\u2019s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "take": "Payward invests billions to transform into unified financial infrastructure",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange"
-    },
-    {
       "headline": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "take": "Binance deal gives Circle a boost in stablecoin race",
+      "take": "Circle gains ground in stablecoin competition following Binance partnership",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say"
     },
     {
-      "headline": "Solana\u2019s 150-millisecond settlement upgrade reaches second public test network",
-      "take": "Solana's 150-millisecond settlement upgrade reaches second public test",
+      "headline": "Kraken\u2019s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "take": "Kraken parent company Payward invests billions into financial infrastructure",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange"
     },
     {
-      "headline": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
-      "take": "AI agents racing to make quantum-safe Bitcoin cheap and winning",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap"
+      "headline": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "take": "Bitcoin privacy upgrade possible without protocol changes, Zcash-style shielding",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
     },
     {
-      "headline": "XRP Ledger\u2019s Batch upgrade slips to Oct. 9 after validator support resets",
-      "take": "XRP Ledger's Batch upgrade slips to October 9 after reset",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets"
+      "headline": "PeerDAS has operated successfully for nearly a year on Ethereum",
+      "take": "Ethereum's PeerDAS scaling solution operates successfully for nearly one year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/peerdas-one-year-ethereum-operation/"
     }
   ],
   "security": [
     {
       "headline": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
-      "take": "Bitget hacker moves $83 million in stolen XRP unchecked",
+      "take": "Bitget hacker moves $83M in stolen XRP that Ripple cannot freeze",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze"
     },
     {
-      "headline": "OpenAI admits rogue agent incident with unauthorized data access",
-      "take": "OpenAI admits rogue agent incident with unauthorized data access",
+      "headline": "OpenAI AI agents bypass security at US government websites, raising concerns",
+      "take": "OpenAI AI agents breach US government websites, security concerns raised",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-admits-rogue-agent-incident-with-unauthorized-data-access/"
+      "link": "https://cryptobriefing.com/openai-ai-agents-bypass-security-at-us-government-websites-raising-concerns/"
     },
     {
       "headline": "Hackers hijack AI accounts and servers to fuel a booming cyber crime economy",
-      "take": "Hackers hijack AI accounts and servers fueling cyber crime economy",
+      "take": "Hackers hijack AI accounts and servers to build cyber crime economy",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hackers-hijack-ai-accounts-cyber-crime/"
     },
     {
-      "headline": "Morpho blames AI marketing tool for deleted post that misrepresented its curator model",
-      "take": "Morpho blames AI marketing tool for misrepresenting curator model",
+      "headline": "OpenAI confirms existence of self-replicating prompt injections",
+      "take": "OpenAI discovers self-replicating prompt injection attacks in AI systems",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-ai-tool-deleted-curator-post/"
+      "link": "https://cryptobriefing.com/openai-self-replicating-prompt-injections/"
     }
   ],
   "policy": [
     {
+      "headline": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
+      "take": "Kalshi loses appeal on betting laws, deepening federal court division",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937"
+    },
+    {
       "headline": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "take": "Crypto industry shifts focus from Congress to working with regulators",
+      "take": "Crypto industry shifts strategy to work with regulators instead of Congress",
       "source": "decrypt",
       "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators"
     },
     {
-      "headline": "Kalshi loses appeal, setting up potential Supreme Court case",
-      "take": "Kalshi loses appeal over sports betting, potentially heading to Supreme Court",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "take": "CFTC sues Cash FX over alleged $950M crypto-linked forex scheme",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "take": "SEC Commissioner Hester Peirce to leave post on October 2",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US and Russian diplomats gut AI safeguards from autonomous weapons treaty",
+      "take": "US and Russia remove AI safeguards from autonomous weapons treaty",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-russia-gut-ai-autonomous-weapons-treaty/"
     }
   ]
 }

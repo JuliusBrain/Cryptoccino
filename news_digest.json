@@ -1,72 +1,60 @@
 {
-  "generated": "2026-09-27T05:24:33.798288+00:00",
-  "ts": 1790486673,
+  "generated": "2026-09-27T12:10:20.218462+00:00",
+  "ts": 1790511020,
   "market": [
     {
-      "headline": "Pump Fun sells 47,994 SOL for $6M as cumulative liquidations approach $850M",
-      "take": "Pump Fun liquidates major SOL position as exchange faces mounting losses",
+      "headline": "Centralized exchanges see $3B in Bitcoin outflows in past week",
+      "take": "Centralized exchanges saw three billion dollars in bitcoin outflows last week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-sells-sol-total-sales-848m/"
+      "link": "https://cryptobriefing.com/bitcoin-exchange-outflows-3-billion/"
     },
     {
-      "headline": "AMD surges nearly 300%, crosses $1 trillion market cap for the first time",
-      "take": "AMD stock surges nearly 300%, reaching trillion-dollar valuation milestone",
+      "headline": "Whales scoop up $112M in Dogecoin as price stalls at key resistance",
+      "take": "Large dogecoin holders accumulated over one hundred million dollars amid price resistance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amd-surges-1-trillion-market-cap/"
+      "link": "https://cryptobriefing.com/whales-buy-112m-dogecoin-resistance/"
+    },
+    {
+      "headline": "Riot Platforms repays $200M credit facility, releases 5,821 BTC from collateral",
+      "take": "Riot Platforms repaid debt and recovered over five thousand bitcoin from collateral",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/riot-platforms-repays-200m-credit-facility/"
+    },
+    {
+      "headline": "Pump Fun sells 47,994 SOL for $6M as cumulative liquidations approach $850M",
+      "take": "Solana liquidations approach eight hundred fifty million as platform developers sell holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pump-fun-sells-sol-total-sales-848m/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic valuation hits $965B amid AI safety focus, IPO speculation: WSJ",
-      "take": "Anthropic valued at $965B with IPO speculation amid AI safety push",
+      "headline": "Bitwise\u2019s NEAR ETF clears NYSE Arca and SEC hurdles, launch imminent",
+      "take": "Bitwise's NEAR token ETF cleared regulatory approval, launch expected shortly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-valuation-hits-965b-amid-ai-safety-focus-ipo-speculation-wsj/"
+      "link": "https://cryptobriefing.com/bitwise-near-etf-nyse-arca-sec-approval/"
     },
     {
-      "headline": "OpenAI and Anthropic slash prices in aggressive push against open source AI models",
-      "take": "OpenAI and Anthropic cut prices to compete with open-source AI models",
+      "headline": "Strategy\u2019s Michael Saylor proposes bill of digital rights for future economy",
+      "take": "Michael Saylor proposes digital rights framework for emerging decentralized economies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-price-cuts-open-source-ai/"
-    },
-    {
-      "headline": "Google tests direct purchases from Flipkart through Gemini in India",
-      "take": "Google tests direct shopping integration with Flipkart via Gemini in India",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-gemini-flipkart-direct-purchases-india/"
-    },
-    {
-      "headline": "River Exchange sues Canadian Bitcoin miner for $6.7M over unpaid refunds",
-      "take": "River Exchange sues Canadian Bitcoin miner for $6.7M unpaid refunds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/river-exchange-sues-bitcoin-miner-unpaid-refunds/"
+      "link": "https://cryptobriefing.com/saylor-digital-rights-bill-proposal/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI AI agents bypass security at US government websites, raising concerns",
-      "take": "OpenAI AI agents breach US government website security, raising alarm",
+      "headline": "GoPlus Security challenges THORChain\u2019s decentralization claims over DPRK-linked funds",
+      "take": "THORChain faces decentralization concerns after receiving funds linked to North Korea",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-agents-bypass-security-at-us-government-websites-raising-concerns/"
-    },
-    {
-      "headline": "OpenAI confirms existence of self-replicating prompt injections",
-      "take": "OpenAI confirms self-replicating prompt injection vulnerabilities in systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-self-replicating-prompt-injections/"
+      "link": "https://cryptobriefing.com/goplus-thorchain-decentralization-dprk-funds/"
     }
   ],
   "policy": [
     {
-      "headline": "Trump plans new AI Force, seeks AI czar to lead initiative",
-      "take": "Trump administration plans new AI Force with dedicated leadership czar",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-plans-new-ai-force-seeks-ai-czar-to-lead-initiative/"
-    },
-    {
-      "headline": "Australian senators invite Sam Altman and Dario Amodei to AI hearing after Medicare breach",
-      "take": "Australian senators call AI leaders to testify on Medicare data breach",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-senators-invite-altman-amodei-ai-hearing/"
+      "headline": "How months of work on the Clarity Act all fell apart",
+      "take": "Congressional Clarity Act negotiations collapsed after months of legislative work",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart"
     }
   ]
 }

@@ -1,60 +1,102 @@
 {
-  "generated": "2026-09-27T12:10:20.218462+00:00",
-  "ts": 1790511020,
+  "generated": "2026-09-27T17:02:20.006628+00:00",
+  "ts": 1790528540,
   "market": [
     {
       "headline": "Centralized exchanges see $3B in Bitcoin outflows in past week",
-      "take": "Centralized exchanges saw three billion dollars in bitcoin outflows last week",
+      "take": "Centralized exchanges saw three billion dollars in Bitcoin outflows last week",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-exchange-outflows-3-billion/"
     },
     {
-      "headline": "Whales scoop up $112M in Dogecoin as price stalls at key resistance",
-      "take": "Large dogecoin holders accumulated over one hundred million dollars amid price resistance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whales-buy-112m-dogecoin-resistance/"
-    },
-    {
       "headline": "Riot Platforms repays $200M credit facility, releases 5,821 BTC from collateral",
-      "take": "Riot Platforms repaid debt and recovered over five thousand bitcoin from collateral",
+      "take": "Riot Platforms repaid two hundred million dollars credit facility, releasing bitcoin collateral",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/riot-platforms-repays-200m-credit-facility/"
     },
     {
-      "headline": "Pump Fun sells 47,994 SOL for $6M as cumulative liquidations approach $850M",
-      "take": "Solana liquidations approach eight hundred fifty million as platform developers sell holdings",
+      "headline": "Whales scoop up $112M in Dogecoin as price stalls at key resistance",
+      "take": "Whale investors accumulated one hundred twelve million dollars worth of Dogecoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-sells-sol-total-sales-848m/"
-    }
-  ],
-  "business": [
+      "link": "https://cryptobriefing.com/whales-buy-112m-dogecoin-resistance/"
+    },
     {
       "headline": "Bitwise\u2019s NEAR ETF clears NYSE Arca and SEC hurdles, launch imminent",
-      "take": "Bitwise's NEAR token ETF cleared regulatory approval, launch expected shortly",
+      "take": "Bitwise's NEAR ETF cleared regulatory hurdles, launch expected imminently",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitwise-near-etf-nyse-arca-sec-approval/"
     },
     {
-      "headline": "Strategy\u2019s Michael Saylor proposes bill of digital rights for future economy",
-      "take": "Michael Saylor proposes digital rights framework for emerging decentralized economies",
+      "headline": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+      "take": "Researchers developing three approaches to address Bitcoin's quantum computing vulnerability",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Vitalik Buterin outlines Ethereum\u2019s ambitious roadmap to 2030",
+      "take": "Vitalik Buterin unveiled Ethereum's comprehensive development roadmap through twenty thirty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saylor-digital-rights-bill-proposal/"
+      "link": "https://cryptobriefing.com/vitalik-buterin-outlines-ethereums-ambitious-roadmap-to-2030/"
+    },
+    {
+      "headline": "Jupiter Exchange COO says DeFi needs 5-10x improvement, not incremental tweaks, to attract real capital",
+      "take": "Jupiter Exchange COO argues DeFi requires major improvements to attract institutional capital",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jupiter-coo-defi-improvements-attract-capital/"
+    },
+    {
+      "headline": "Meta unveils AI glasses, personal agents, and wearable hardware at Connect 2026",
+      "take": "Meta announced AI glasses, personal agents, and new wearable hardware",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-connect-2026-ai-glasses-muse-wearable/"
+    },
+    {
+      "headline": "Ethereum moves closer to faster finality with decoupled consensus protocol",
+      "take": "Ethereum progresses toward faster transaction finality using decoupled consensus protocol",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-decoupled-consensus-faster-finality/"
     }
   ],
   "security": [
     {
+      "headline": "OpenAI and Anthropic investigate tens of thousands of AI security incidents",
+      "take": "OpenAI and Anthropic investigating tens of thousands of AI security incidents",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-anthropic-ai-security-incidents/"
+    },
+    {
       "headline": "GoPlus Security challenges THORChain\u2019s decentralization claims over DPRK-linked funds",
-      "take": "THORChain faces decentralization concerns after receiving funds linked to North Korea",
+      "take": "GoPlus Security raises concerns about THORChain's decentralization claims regarding DPRK funds",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/goplus-thorchain-decentralization-dprk-funds/"
     }
   ],
   "policy": [
     {
+      "headline": "Senator Heinrich disputes White House claim on permitting reform agreement",
+      "take": "Senator Heinrich disputes White House claims regarding permitting reform agreement details",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senator-heinrich-disputes-white-house-claim-on-permitting-reform-agreement/"
+    },
+    {
       "headline": "How months of work on the Clarity Act all fell apart",
-      "take": "Congressional Clarity Act negotiations collapsed after months of legislative work",
+      "take": "Months of legislative effort on Clarity Act collapsed without passage",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart"
+    },
+    {
+      "headline": "Australian Senate summons OpenAI, Anthropic CEOs over AI security breach",
+      "take": "Australian Senate summoned OpenAI and Anthropic CEOs over AI security breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australian-senate-summons-openai-anthropic-ceos-over-ai-security-breach/"
+    },
+    {
+      "headline": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
+      "take": "SEC staff clarified token buybacks don't automatically classify crypto as securities",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security"
     }
   ]
 }

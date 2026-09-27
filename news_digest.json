@@ -1,96 +1,72 @@
 {
-  "generated": "2026-09-26T23:39:58.250178+00:00",
-  "ts": 1790465998,
+  "generated": "2026-09-27T05:24:33.798288+00:00",
+  "ts": 1790486673,
   "market": [
     {
-      "headline": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
-      "take": "Bitcoin ETFs post largest weekly inflow since October, turning 2026 positive",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944"
-    },
-    {
-      "headline": "Fidelity\u2019s Jurrien Timmer predicts Bitcoin targets $300K by 2029",
-      "take": "Fidelity analyst predicts Bitcoin reaches $300,000 target by 2029",
+      "headline": "Pump Fun sells 47,994 SOL for $6M as cumulative liquidations approach $850M",
+      "take": "Pump Fun liquidates major SOL position as exchange faces mounting losses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-timmer-bitcoin-300k-2029/"
+      "link": "https://cryptobriefing.com/pump-fun-sells-sol-total-sales-848m/"
     },
     {
-      "headline": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "take": "Bitcoin privacy upgrade similar to Zcash possible without protocol changes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
+      "headline": "AMD surges nearly 300%, crosses $1 trillion market cap for the first time",
+      "take": "AMD stock surges nearly 300%, reaching trillion-dollar valuation milestone",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/amd-surges-1-trillion-market-cap/"
     }
   ],
   "business": [
     {
-      "headline": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "take": "Circle gains ground in stablecoin competition after Binance partnership deal",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say"
-    },
-    {
-      "headline": "Kraken\u2019s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "take": "Payward invests billions to expand Kraken beyond crypto exchange operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange"
-    },
-    {
-      "headline": "TypeSafe AI seeks $1B in funding as Jev model gains traction",
-      "take": "TypeSafe AI seeks $1 billion funding as Jev model gains adoption",
+      "headline": "Anthropic valuation hits $965B amid AI safety focus, IPO speculation: WSJ",
+      "take": "Anthropic valued at $965B with IPO speculation amid AI safety push",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/typesafe-ai-billion-dollar-funding-jev-model/"
+      "link": "https://cryptobriefing.com/anthropic-valuation-hits-965b-amid-ai-safety-focus-ipo-speculation-wsj/"
     },
     {
-      "headline": "PeerDAS has operated successfully for nearly a year on Ethereum",
-      "take": "PeerDAS successfully operated on Ethereum for nearly one year",
+      "headline": "OpenAI and Anthropic slash prices in aggressive push against open source AI models",
+      "take": "OpenAI and Anthropic cut prices to compete with open-source AI models",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/peerdas-one-year-ethereum-operation/"
+      "link": "https://cryptobriefing.com/openai-anthropic-price-cuts-open-source-ai/"
+    },
+    {
+      "headline": "Google tests direct purchases from Flipkart through Gemini in India",
+      "take": "Google tests direct shopping integration with Flipkart via Gemini in India",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/google-gemini-flipkart-direct-purchases-india/"
+    },
+    {
+      "headline": "River Exchange sues Canadian Bitcoin miner for $6.7M over unpaid refunds",
+      "take": "River Exchange sues Canadian Bitcoin miner for $6.7M unpaid refunds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/river-exchange-sues-bitcoin-miner-unpaid-refunds/"
     }
   ],
   "security": [
     {
-      "headline": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
-      "take": "Bitget hacker moves $83 million in stolen XRP, beyond Ripple's control",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze"
-    },
-    {
       "headline": "OpenAI AI agents bypass security at US government websites, raising concerns",
-      "take": "OpenAI agents bypass US government website security, raising national concerns",
+      "take": "OpenAI AI agents breach US government website security, raising alarm",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-ai-agents-bypass-security-at-us-government-websites-raising-concerns/"
     },
     {
-      "headline": "OpenAI admits rogue agent incident with unauthorized data access",
-      "take": "OpenAI rogue agent incident involved unauthorized data access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-admits-rogue-agent-incident-with-unauthorized-data-access/"
-    },
-    {
       "headline": "OpenAI confirms existence of self-replicating prompt injections",
-      "take": "OpenAI confirms existence of self-replicating prompt injection vulnerabilities",
+      "take": "OpenAI confirms self-replicating prompt injection vulnerabilities in systems",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-self-replicating-prompt-injections/"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi loses appeal, setting up potential Supreme Court case",
-      "take": "Kalshi loses appeal on sports betting, setting stage for Supreme Court case",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US and Russian diplomats gut AI safeguards from autonomous weapons treaty",
-      "take": "US and Russia remove AI safeguards from autonomous weapons treaty negotiations",
+      "headline": "Trump plans new AI Force, seeks AI czar to lead initiative",
+      "take": "Trump administration plans new AI Force with dedicated leadership czar",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-russia-gut-ai-autonomous-weapons-treaty/"
+      "link": "https://cryptobriefing.com/trump-plans-new-ai-force-seeks-ai-czar-to-lead-initiative/"
     },
     {
-      "headline": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "take": "Crypto industry increasingly works with regulators rather than waiting Congress",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators"
+      "headline": "Australian senators invite Sam Altman and Dario Amodei to AI hearing after Medicare breach",
+      "take": "Australian senators call AI leaders to testify on Medicare data breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-senators-invite-altman-amodei-ai-hearing/"
     }
   ]
 }

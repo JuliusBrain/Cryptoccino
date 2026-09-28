@@ -1,84 +1,108 @@
 {
-  "generated": "2026-09-27T21:24:58.586040+00:00",
-  "ts": 1790544298,
+  "generated": "2026-09-28T05:32:28.183316+00:00",
+  "ts": 1790573548,
   "market": [
     {
+      "headline": "Over 101,000 crypto positions liquidated amid market volatility",
+      "take": "Over 101,000 crypto positions liquidated amid market volatility",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/over-101000-crypto-positions-liquidated-amid-market-volatility/"
+    },
+    {
+      "headline": "Bitcoin, NASDAQ futures fall as Trump hints at more Iran strikes",
+      "take": "Bitcoin and Nasdaq futures fall as Trump hints at more Iran strikes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-nasdaq-futures-fall-as-trump-hints-at-more-iran-strikes/"
+    },
+    {
+      "headline": "Hyperliquid token surges 284% in 2026, nears $100 mark",
+      "take": "Hyperliquid token surges 284% in 2026, nearing $100",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-token-surges-284-in-2026-nears-100-mark/"
+    },
+    {
       "headline": "Bitfinex reports massive surge in ETH short positions as bearish bets pile up",
-      "take": "Bitfinex reports sharp increase in ETH short positions as bearish sentiment grows",
+      "take": "Bitfinex reports surge in ETH short positions as bearish bets pile up",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitfinex-eth-short-positions-surge/"
     },
     {
-      "headline": "Whales scoop up $112M in Dogecoin as price stalls at key resistance",
-      "take": "Whale accumulation of Dogecoin reaches $112M amid price resistance",
+      "headline": "Tokenized funds rise to $11.39 for every $100 in stablecoins, nearly quadrupling in two years",
+      "take": "Tokenized funds rise to $11.39 per $100 stablecoins, nearly quadrupling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/whales-buy-112m-dogecoin-resistance/"
-    },
-    {
-      "headline": "Centralized exchanges see $3B in Bitcoin outflows in past week",
-      "take": "Bitcoin outflows from centralized exchanges total $3B in recent week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-exchange-outflows-3-billion/"
-    },
-    {
-      "headline": "Riot Platforms repays $200M credit facility, releases 5,821 BTC from collateral",
-      "take": "Riot Platforms repays $200M debt, unlocks 5,821 BTC from collateral",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/riot-platforms-repays-200m-credit-facility/"
+      "link": "https://cryptobriefing.com/tokenized-funds-stablecoins-ratio-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Vitalik Buterin outlines Ethereum\u2019s ambitious roadmap to 2030",
-      "take": "Vitalik Buterin outlines Ethereum's technical roadmap through 2030",
+      "headline": "Binance Wallet lets users pay gas fees in USDT across four major networks",
+      "take": "Binance Wallet lets users pay gas fees in USDT across four networks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vitalik-buterin-outlines-ethereums-ambitious-roadmap-to-2030/"
+      "link": "https://cryptobriefing.com/binance-wallet-usdt-gas-fees-multiple-networks/"
     },
     {
-      "headline": "Jupiter Exchange COO says DeFi needs 5-10x improvement, not incremental tweaks, to attract real capital",
-      "take": "Jupiter Exchange COO calls for major DeFi improvements to attract institutional capital",
+      "headline": "Coinbase CEO Brian Armstrong wants internal teams to compete like startups, with AI agents as the referees",
+      "take": "Coinbase CEO wants internal teams to compete like startups with AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-coo-defi-improvements-attract-capital/"
+      "link": "https://cryptobriefing.com/coinbase-armstrong-ai-internal-competition/"
     },
     {
-      "headline": "Meta unveils AI glasses, personal agents, and wearable hardware at Connect 2026",
-      "take": "Meta unveils AI glasses, personal agents, and wearable devices",
+      "headline": "Block ships 3x more features in 2026 with a smaller team, crediting AI tools",
+      "take": "Block ships 3x more features in 2026 with smaller team using AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-connect-2026-ai-glasses-muse-wearable/"
+      "link": "https://cryptobriefing.com/block-3x-feature-shipments-ai-tools-2026/"
+    },
+    {
+      "headline": "1,700 Bitcoin valued at $142M moved off Coinbase Institutional to unknown wallet",
+      "take": "1,700 Bitcoin valued at $142M moved off Coinbase Institutional",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-142m-coinbase-institutional-transfer/"
+    },
+    {
+      "headline": "Jupiter Ultra users face fewer sandwich attacks than others, three-year study finds",
+      "take": "Jupiter Ultra users face fewer sandwich attacks than others in study",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jupiter-ultra-sandwich-attacks-study/"
     }
   ],
   "security": [
     {
-      "headline": "Wazz traces 53 Robinhood Chain token launches to $18M rug-pull syndicate",
-      "take": "Wazz identifies $18M rug-pull syndicate behind 53 Robinhood Chain token launches",
+      "headline": "Meta\u2019s Muse AI allegedly shares user\u2019s home address and arranges pickup without permission",
+      "take": "Meta's Muse AI allegedly shares user home address and arranges pickup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wazz-robinhood-chain-rug-pull-18m/"
+      "link": "https://cryptobriefing.com/meta-muse-ai-shares-user-address/"
     },
     {
-      "headline": "OpenAI and Anthropic investigate tens of thousands of AI security incidents",
-      "take": "OpenAI and Anthropic investigate tens of thousands of AI security incidents",
+      "headline": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
+      "take": "$18.4 million in Robinhood Chain memecoin extractions linked to rug pull",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960"
+    },
+    {
+      "headline": "Apollo chief economist warns AI agents could trigger bank runs",
+      "take": "Apollo chief economist warns AI agents could trigger bank runs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-ai-security-incidents/"
+      "link": "https://cryptobriefing.com/apollo-economist-ai-agents-bank-runs/"
     }
   ],
   "policy": [
     {
-      "headline": "Gavin Newsom signs law banning public officials from issuing meme coins",
-      "take": "California governor signs law prohibiting public officials from issuing meme coins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-bans-officials-meme-coins/"
+      "headline": "Newsom signs California ban on public officials issuing memecoins",
+      "take": "California bans public officials from issuing memecoins",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Australian Senate summons OpenAI, Anthropic CEOs over AI security breach",
-      "take": "Australian Senate summons OpenAI and Anthropic CEOs over security breach",
+      "headline": "Anthropic clashes with US administration over AI regulatory oversight",
+      "take": "Anthropic clashes with US administration over AI regulatory oversight",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australian-senate-summons-openai-anthropic-ceos-over-ai-security-breach/"
+      "link": "https://cryptobriefing.com/anthropic-clashes-with-us-administration-over-ai-regulatory-oversight/"
     },
     {
-      "headline": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
-      "take": "SEC staff clarifies token buybacks don't constitute security if network functions properly",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security"
+      "headline": "Iran\u2019s crypto mining consumes 14% of the country\u2019s electricity deficit, parliamentary report finds",
+      "take": "Iran's crypto mining consumes 14% of country's electricity deficit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/iran-crypto-mining-electricity-deficit/"
     }
   ]
 }

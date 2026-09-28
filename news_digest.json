@@ -1,84 +1,114 @@
 {
-  "generated": "2026-09-28T14:06:11.912421+00:00",
-  "ts": 1790604371,
+  "generated": "2026-09-28T21:15:54.776238+00:00",
+  "ts": 1790630154,
   "market": [
     {
-      "headline": "$309M in long positions liquidated from crypto market in 24 hours as leverage unwinds",
-      "take": "Three hundred nine million in long positions liquidated as leverage unwinds",
+      "headline": "Robinhood reports 24% increase in daily crypto trading volume in September",
+      "take": "Robinhood crypto trading volume jumped 24% in September",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/309m-crypto-long-liquidations-24-hours/"
+      "link": "https://cryptobriefing.com/robinhood-crypto-trading-volume-september-increase/"
     },
     {
-      "headline": "Altseason is coming \u2014 and traders are more discerning this time",
-      "take": "Altseason approaching with traders applying more selective investment criteria",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Avalanche surpasses all chains in $131M tokenized stock inflows",
+      "take": "Avalanche leads all chains with $131M in tokenized stock inflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/avalanche-tokenized-stock-inflows-131m/"
     },
     {
-      "headline": "Traders aren't panicking yet despite cooling crypto sentiment",
-      "take": "Traders holding steady despite weakening crypto market sentiment indicators",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment"
+      "headline": "Polygon boosts POL staking rate to 8% for two months starting October 1",
+      "take": "Polygon raises staking rewards to 8% for two months starting October",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polygon-pol-staking-rate-boost-pip-92/"
+    },
+    {
+      "headline": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+      "take": "Strive purchased $94.5M Bitcoin, holdings now exceed 27,000 BTC",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
+    },
+    {
+      "headline": "Gemini launches staking for Hyperliquid\u2019s HYPE token, offering 2.1% APY",
+      "take": "Gemini enables staking for Hyperliquid HYPE token at 2.1% APY",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gemini-hype-staking-hyperliquid-apy/"
     }
   ],
   "business": [
     {
-      "headline": "Citi Teams Up With Coinbase to Let Merchants Accept Stablecoins",
-      "take": "Citigroup partners with Coinbase enabling merchant stablecoin payments",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-28/citi-teams-up-with-coinbase-to-let-merchants-accept-stablecoins"
+      "headline": "Blockchain.com targets multi-billion dollar IPO as it files confidential S-1 with SEC",
+      "take": "Blockchain.com files confidential S-1 targeting multi-billion dollar IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockchain-com-ipo-sec-filing/"
     },
     {
-      "headline": "Bitmine surpasses 6 million ETH holdings, worth $16 billion",
-      "take": "Bitmine exceeds six million ETH holdings worth sixteen billion dollars",
+      "headline": "Goldman Sachs brings $100B Treasury fund to Avalanche via Lynq",
+      "take": "Goldman Sachs deploys $100B Treasury fund to Avalanche via Lynq",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmine-6-million-eth-holdings-16-billion/"
+      "link": "https://cryptobriefing.com/goldman-sachs-treasury-fund-avalanche-lynq/"
     },
     {
-      "headline": "Chainlink upgrades cross-chain standard as $84B in token value rides on CCIP",
-      "take": "Chainlink upgrades cross-chain standard as eighty-four billion in value depends on it",
+      "headline": "Coinbase teases Pok\u00e9mon card packs backed by physical collectibles",
+      "take": "Coinbase announces Pok\u00e9mon card packs backed by physical collectibles",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-ccip-2-launch-cross-chain-security/"
+      "link": "https://cryptobriefing.com/coinbase-pokemon-card-packs-physical-collectibles/"
     },
     {
-      "headline": "Tether partners with Shiga to launch self-custodial finance in Africa and GCC",
-      "take": "Tether launches self-custodial finance service in Africa and Gulf region",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-shiga-self-custodial-africa-gcc/"
+      "headline": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
+      "take": "Citi clients can receive stablecoin payments through Coinbase integration",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto"
     },
     {
-      "headline": "Franklin Templeton expands tokenized collateral service to Bybit",
-      "take": "Franklin Templeton expands tokenized collateral service to Bybit exchange",
+      "headline": "Telegram\u2019s crypto lineup expands as Wallet rebrands to Walt alongside new Gram wallet",
+      "take": "Telegram's Wallet rebrands to Walt alongside new Gram wallet launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-templeton-tokenized-collateral-bybit/"
+      "link": "https://cryptobriefing.com/telegrams-crypto-lineup-expands-as-wallet-rebrands-to-walt-alongside-new-gram-wallet/"
     }
   ],
   "security": [
     {
-      "headline": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "take": "THORChain rejects blocking hacker as six million dollars moves to bitcoin",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin"
+      "headline": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "take": "AI agent hacked Australian government systems; Altman, Amodei summoned to testify",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack"
     },
     {
-      "headline": "Anchorage Digital introduces conditional rules for vault policies",
-      "take": "Anchorage Digital introduces conditional rules strengthening vault security policies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anchorage-conditional-rules-vault-policies/"
+      "headline": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+      "take": "Nvidia built kill switch for AI agents after repeated escapes",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents"
+    },
+    {
+      "headline": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+      "take": "Chainlink now lets institutions add custom bridge checks post-Kelp hack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack"
+    },
+    {
+      "headline": "Tether\u2019s USDT at center of Iran\u2019s shadow banking network, new Senate Report says",
+      "take": "Senate report links Tether USDT to Iran's shadow banking network operations",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094"
     }
   ],
   "policy": [
     {
-      "headline": "Senate investigation finds rampant use of Tether\u2019s stablecoin by Iranian regime",
-      "take": "Senate investigation documents Iranian regime using Tether stablecoin extensively",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-investigation-tether-iran-sanctions/"
+      "headline": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
+      "take": "Canadian crypto figure to self-represent at fraud trial proceedings",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
-      "take": "SEC clears token buyback programs for cryptocurrency networks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks"
+      "headline": "US SEC follows CFTC in staff guidance for crypto",
+      "take": "US SEC follows CFTC with new staff guidance for crypto assets",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SpaceXAI subpoenaed by NYC Council in sweeping AI safety investigation",
+      "take": "SpaceXAI subpoenaed by NYC Council in broad AI safety investigation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacexai-subpoenaed-nyc-ai-safety/"
     }
   ]
 }

@@ -1,108 +1,84 @@
 {
-  "generated": "2026-09-28T05:32:28.183316+00:00",
-  "ts": 1790573548,
+  "generated": "2026-09-28T14:06:11.912421+00:00",
+  "ts": 1790604371,
   "market": [
     {
-      "headline": "Over 101,000 crypto positions liquidated amid market volatility",
-      "take": "Over 101,000 crypto positions liquidated amid market volatility",
+      "headline": "$309M in long positions liquidated from crypto market in 24 hours as leverage unwinds",
+      "take": "Three hundred nine million in long positions liquidated as leverage unwinds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/over-101000-crypto-positions-liquidated-amid-market-volatility/"
+      "link": "https://cryptobriefing.com/309m-crypto-long-liquidations-24-hours/"
     },
     {
-      "headline": "Bitcoin, NASDAQ futures fall as Trump hints at more Iran strikes",
-      "take": "Bitcoin and Nasdaq futures fall as Trump hints at more Iran strikes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-nasdaq-futures-fall-as-trump-hints-at-more-iran-strikes/"
+      "headline": "Altseason is coming \u2014 and traders are more discerning this time",
+      "take": "Altseason approaching with traders applying more selective investment criteria",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Hyperliquid token surges 284% in 2026, nears $100 mark",
-      "take": "Hyperliquid token surges 284% in 2026, nearing $100",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-token-surges-284-in-2026-nears-100-mark/"
-    },
-    {
-      "headline": "Bitfinex reports massive surge in ETH short positions as bearish bets pile up",
-      "take": "Bitfinex reports surge in ETH short positions as bearish bets pile up",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitfinex-eth-short-positions-surge/"
-    },
-    {
-      "headline": "Tokenized funds rise to $11.39 for every $100 in stablecoins, nearly quadrupling in two years",
-      "take": "Tokenized funds rise to $11.39 per $100 stablecoins, nearly quadrupling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-funds-stablecoins-ratio-growth/"
+      "headline": "Traders aren't panicking yet despite cooling crypto sentiment",
+      "take": "Traders holding steady despite weakening crypto market sentiment indicators",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment"
     }
   ],
   "business": [
     {
-      "headline": "Binance Wallet lets users pay gas fees in USDT across four major networks",
-      "take": "Binance Wallet lets users pay gas fees in USDT across four networks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-wallet-usdt-gas-fees-multiple-networks/"
+      "headline": "Citi Teams Up With Coinbase to Let Merchants Accept Stablecoins",
+      "take": "Citigroup partners with Coinbase enabling merchant stablecoin payments",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/citi-teams-up-with-coinbase-to-let-merchants-accept-stablecoins"
     },
     {
-      "headline": "Coinbase CEO Brian Armstrong wants internal teams to compete like startups, with AI agents as the referees",
-      "take": "Coinbase CEO wants internal teams to compete like startups with AI agents",
+      "headline": "Bitmine surpasses 6 million ETH holdings, worth $16 billion",
+      "take": "Bitmine exceeds six million ETH holdings worth sixteen billion dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-armstrong-ai-internal-competition/"
+      "link": "https://cryptobriefing.com/bitmine-6-million-eth-holdings-16-billion/"
     },
     {
-      "headline": "Block ships 3x more features in 2026 with a smaller team, crediting AI tools",
-      "take": "Block ships 3x more features in 2026 with smaller team using AI",
+      "headline": "Chainlink upgrades cross-chain standard as $84B in token value rides on CCIP",
+      "take": "Chainlink upgrades cross-chain standard as eighty-four billion in value depends on it",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/block-3x-feature-shipments-ai-tools-2026/"
+      "link": "https://cryptobriefing.com/chainlink-ccip-2-launch-cross-chain-security/"
     },
     {
-      "headline": "1,700 Bitcoin valued at $142M moved off Coinbase Institutional to unknown wallet",
-      "take": "1,700 Bitcoin valued at $142M moved off Coinbase Institutional",
+      "headline": "Tether partners with Shiga to launch self-custodial finance in Africa and GCC",
+      "take": "Tether launches self-custodial finance service in Africa and Gulf region",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-142m-coinbase-institutional-transfer/"
+      "link": "https://cryptobriefing.com/tether-shiga-self-custodial-africa-gcc/"
     },
     {
-      "headline": "Jupiter Ultra users face fewer sandwich attacks than others, three-year study finds",
-      "take": "Jupiter Ultra users face fewer sandwich attacks than others in study",
+      "headline": "Franklin Templeton expands tokenized collateral service to Bybit",
+      "take": "Franklin Templeton expands tokenized collateral service to Bybit exchange",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-ultra-sandwich-attacks-study/"
+      "link": "https://cryptobriefing.com/franklin-templeton-tokenized-collateral-bybit/"
     }
   ],
   "security": [
     {
-      "headline": "Meta\u2019s Muse AI allegedly shares user\u2019s home address and arranges pickup without permission",
-      "take": "Meta's Muse AI allegedly shares user home address and arranges pickup",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-muse-ai-shares-user-address/"
+      "headline": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+      "take": "THORChain rejects blocking hacker as six million dollars moves to bitcoin",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin"
     },
     {
-      "headline": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
-      "take": "$18.4 million in Robinhood Chain memecoin extractions linked to rug pull",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960"
-    },
-    {
-      "headline": "Apollo chief economist warns AI agents could trigger bank runs",
-      "take": "Apollo chief economist warns AI agents could trigger bank runs",
+      "headline": "Anchorage Digital introduces conditional rules for vault policies",
+      "take": "Anchorage Digital introduces conditional rules strengthening vault security policies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apollo-economist-ai-agents-bank-runs/"
+      "link": "https://cryptobriefing.com/anchorage-conditional-rules-vault-policies/"
     }
   ],
   "policy": [
     {
-      "headline": "Newsom signs California ban on public officials issuing memecoins",
-      "take": "California bans public officials from issuing memecoins",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Senate investigation finds rampant use of Tether\u2019s stablecoin by Iranian regime",
+      "take": "Senate investigation documents Iranian regime using Tether stablecoin extensively",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-investigation-tether-iran-sanctions/"
     },
     {
-      "headline": "Anthropic clashes with US administration over AI regulatory oversight",
-      "take": "Anthropic clashes with US administration over AI regulatory oversight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-clashes-with-us-administration-over-ai-regulatory-oversight/"
-    },
-    {
-      "headline": "Iran\u2019s crypto mining consumes 14% of the country\u2019s electricity deficit, parliamentary report finds",
-      "take": "Iran's crypto mining consumes 14% of country's electricity deficit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-crypto-mining-electricity-deficit/"
+      "headline": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+      "take": "SEC clears token buyback programs for cryptocurrency networks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks"
     }
   ]
 }

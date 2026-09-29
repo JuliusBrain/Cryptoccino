@@ -1,132 +1,90 @@
 {
-  "generated": "2026-09-29T01:02:17.117199+00:00",
-  "ts": 1790643737,
+  "generated": "2026-09-29T09:56:23.189275+00:00",
+  "ts": 1790675783,
   "market": [
     {
-      "headline": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-      "take": "Strive acquires $94.5M in Bitcoin, holdings exceed 27,000 BTC",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
+      "headline": "Bitcoin ETF inflows of $2.4B tighten supply as exchanges lose 35,800 BTC in a single week",
+      "take": "Bitcoin ETF inflows of $2.4B tighten supply as exchanges lose 35,800 BTC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-tighten-supply/"
     },
     {
-      "headline": "Robinhood reports 24% increase in daily crypto trading volume in September",
-      "take": "Robinhood reports 24% increase in daily crypto trading volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-crypto-trading-volume-september-increase/"
+      "headline": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+      "take": "Bitcoin on track to shatter decade-long streak as September gains surge",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge"
     },
     {
-      "headline": "Uniswap leads with $82M in tokenized stock deposits as DeFi embraces traditional equities",
-      "take": "Uniswap leads with $82M in tokenized stock deposits",
+      "headline": "Altcoin spot volume surges to nearly 4x Bitcoin\u2019s, highest in a year",
+      "take": "Altcoin spot volume surges to nearly 4x Bitcoin's, highest in a year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-tokenized-stock-deposits-defi/"
+      "link": "https://cryptobriefing.com/altcoin-spot-volume-surges-4x-bitcoin-highest-year/"
     },
     {
-      "headline": "Coinbase Clearing LLC launches as USDC-native clearinghouse after CFTC approval",
-      "take": "Coinbase Clearing launches as USDC-native clearinghouse",
+      "headline": "Bitcoin, Ethereum, Solana, and XRP spot ETFs all post net inflows on Sept. 28",
+      "take": "Bitcoin, Ethereum, Solana, and XRP spot ETFs all post net inflows September 28",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-clearing-usdc-native-clearinghouse/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-solana-xrp-etf-net-inflows-sept-28/"
     },
     {
-      "headline": "Anthropic\u2019s IPO prospectus reveals 2025 revenue up 12x to nearly $5B",
-      "take": "Anthropic IPO prospectus shows 2025 revenue up 12x to $5B",
+      "headline": "XRP Binance scarcity index falls to lowest level since January 2025",
+      "take": "XRP Binance scarcity index falls to lowest level since January 2025",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropics-ipo-prospectus-reveals-2025-revenue-up-12x-to-nearly-5b/"
+      "link": "https://cryptobriefing.com/xrp-binance-scarcity-index-lowest-january/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic IPO prospectus reveals $42B loss, $518B spending plans",
-      "take": "Anthropic IPO prospectus reveals $42B loss, $518B spending plans",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-42b-loss-spending-plans/"
-    },
-    {
-      "headline": "Modal Labs nears $750M funding round at $16B valuation",
-      "take": "Modal Labs nears $750M funding round at $16B valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/modal-labs-750m-funding-16b-valuation/"
-    },
-    {
-      "headline": "Manus 2.0 launches with new Cascade architecture as AI agent startup eyes $4B valuation",
-      "take": "Manus 2.0 launches with Cascade architecture, eyes $4B valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/manus-2-ai-agent-cascade-architecture/"
-    },
-    {
-      "headline": "Anthropic collaborates with Nvidia to enhance agent security with new open platform",
-      "take": "Anthropic collaborates with Nvidia on agent security platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-nvidia-agent-security-platform/"
-    },
-    {
-      "headline": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
-      "take": "Citi clients can take stablecoin payments via Coinbase",
+      "headline": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+      "take": "Coinbase owns every layer of derivatives stack after CFTC approval",
       "source": "decrypt",
-      "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto"
+      "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval"
+    },
+    {
+      "headline": "The Smarter Web Company gets shareholder go-ahead for UK\u2019s first BTC-backed preferred stock",
+      "take": "UK's first Bitcoin-backed preferred stock gains shareholder approval",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/smarter-web-company-btc-backed-preferred-stock-uk/"
+    },
+    {
+      "headline": "KakaoPay Securities pushes into tokenized equities to open South Korean stocks to global investors",
+      "take": "KakaoPay Securities opens tokenized equities to global South Korean stock investors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kakaopay-securities-tokenized-korean-equities-gateway/"
+    },
+    {
+      "headline": "Injective launches first-ever Stockdrop for tokenized stocks this week",
+      "take": "Injective launches first-ever Stockdrop for tokenized stocks this week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-stockdrop-tokenized-stocks/"
+    },
+    {
+      "headline": "Bitwise ETF clients purchase $9.65M in Solana tokens as BSOL dominates US spot fund category",
+      "take": "Bitwise ETF clients purchase $9.65M in Solana tokens as BSOL dominates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-bsol-solana-etf-purchases/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-      "take": "OpenAI halts model training as rogue agents target US sites",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites"
+      "headline": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "take": "Near Intents blocks $50 million in Bitget hacker swaps",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test"
     },
     {
-      "headline": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
-      "take": "RSA attack fooled hardware vault, implications for crypto security",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto"
-    },
-    {
-      "headline": "Stripe warns AI companies of token theft risks amid rising costs",
-      "take": "Stripe warns AI companies of token theft risks amid costs",
+      "headline": "Ari Paul alleges Coinbase lost $25M of BlockTower funds in a security cover-up",
+      "take": "Ari Paul alleges Coinbase lost $25M of BlockTower funds in security cover-up",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stripe-ai-token-theft-fraud-risks/"
-    },
-    {
-      "headline": "Tether\u2019s USDT linked to Iran\u2019s shadow banking system, Senate report finds",
-      "take": "Tether's USDT linked to Iran's shadow banking system",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-usdt-iran-shadow-banking-senate-report/"
-    },
-    {
-      "headline": "UsePaid launches claim portal after pump token drops 38% due to X Money block",
-      "take": "UsePaid launches portal after pump token drops 38%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usepaid-claim-portal-paid-token-drop/"
+      "link": "https://cryptobriefing.com/ari-paul-coinbase-blocktower-25m-allegations/"
     }
   ],
   "policy": [
     {
-      "headline": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-      "take": "Australia calls Altman and Amodei to testify after AI agent hack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack"
-    },
-    {
-      "headline": "News outlets urge court to give little weight to DOJ support for OpenAI in copyright fight",
-      "take": "News outlets urge court to downweight DOJ support for OpenAI",
+      "headline": "White House blames Democrats for Crypto Clarity Act\u2019s Senate failure",
+      "take": "White House blames Democrats for Crypto Clarity Act's Senate failure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/news-outlets-dismiss-doj-openai-support/"
-    },
-    {
-      "headline": "Ro Khanna backs AI safety bill banning recursive self-improving technology",
-      "take": "Ro Khanna backs AI safety bill banning recursive self-improvement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ro-khanna-ai-safety-bill-recursive-ban/"
-    },
-    {
-      "headline": "US SEC follows CFTC in staff guidance for crypto",
-      "take": "US SEC follows CFTC in staff guidance for crypto",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-      "take": "Canadian crypto king set to represent himself at fraud trial",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/white-house-blames-democrats-for-crypto-clarity-acts-senate-failure/"
     }
   ]
 }

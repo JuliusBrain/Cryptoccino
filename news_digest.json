@@ -1,102 +1,114 @@
 {
-  "generated": "2026-09-29T18:07:22.560596+00:00",
-  "ts": 1790705242,
+  "generated": "2026-09-29T22:21:25.214326+00:00",
+  "ts": 1790720485,
   "market": [
     {
-      "headline": "Bitcoin traders position for $90K+ calls as ETFs see eight-day inflow streak",
-      "take": "Bitcoin traders position for ninety-thousand-plus calls amid eight-day ETF inflow streak",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-90k-options-calls/"
-    },
-    {
-      "headline": "Bitcoin rises 35% since August low while open interest drops 20%, Glassnode reports",
-      "take": "Bitcoin rises thirty-five percent since August low while open interest drops",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-rises-35-open-interest-falls-glassnode/"
-    },
-    {
-      "headline": "CryptoQuant warns of potential Bitcoin correction as profits peak",
-      "take": "CryptoQuant warns of potential Bitcoin correction as trader profits peak",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptoquant-bitcoin-correction-profits-peak/"
-    },
-    {
-      "headline": "Avalanche leads all chains with $266M RWA market cap growth in 30 days",
-      "take": "Avalanche leads all chains with two-hundred-sixty-six million RWA market growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-rwa-market-cap-growth/"
-    },
-    {
-      "headline": "Bitwise launches first US spot NEAR ETF with staking rewards",
-      "take": "Bitwise launches first US spot NEAR ETF with staking rewards",
+      "headline": "CryptoQuant says bitcoin correction could be near as traders\u2019 unrealized profit hits 21-month high",
+      "take": "Bitcoin traders' unrealized profits near 21-month high, correction risk signals mounting",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150"
+      "link": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206"
+    },
+    {
+      "headline": "BNB Chain adds 985K stablecoin holders in a single week, dwarfing every other network",
+      "take": "BNB Chain adds 985K stablecoin holders in week, outpacing competing networks significantly",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bnb-chain-stablecoin-holders-weekly-growth/"
+    },
+    {
+      "headline": "Spark Finance leads lending market with 190% loan growth to $3B",
+      "take": "Spark Finance lending reaches $3B with 190% growth, leading market expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spark-finance-lending-growth-3b/"
+    },
+    {
+      "headline": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+      "take": "Bitwise launches first US spot Near ETF as token nearly triples since August",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf"
+    },
+    {
+      "headline": "HANetf launches world\u2019s first euro-hedged Bitcoin ETP in Europe",
+      "take": "HANetf launches world's first euro-hedged Bitcoin ETP in Europe",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hanetf-euro-hedged-bitcoin-etp-europe/"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI seeks $30B in new funding round as IPO gets pushed to 2027",
-      "take": "OpenAI seeks thirty billion in new funding as IPO pushed to twenty twenty-seven",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-30b-funding-round-ipo-delay/"
+      "headline": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+      "take": "Cboe's S&P deal opens pathway to tokenized options contracts",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options"
     },
     {
-      "headline": "Jeeves raises $110M to expand fintech offerings including stablecoin wallet",
-      "take": "Jeeves raises one hundred ten million to expand fintech and stablecoin offerings",
+      "headline": "5C Group plans IPO as it expands AI data center pipeline across North America and Europe",
+      "take": "5C Group plans IPO, expanding AI data center pipeline across North America and Europe",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jeeves-raises-110m-stablecoin-wallet/"
+      "link": "https://cryptobriefing.com/5c-group-ipo-ai-data-centers/"
     },
     {
-      "headline": "OpenAI launches Dots always-on AI agents to challenge Meta\u2019s Muse",
-      "take": "OpenAI launches Dots always-on AI agents to challenge Meta's Muse",
+      "headline": "NEAR AI Cloud integrates Claude Sonnet 5.5 for coding and agents",
+      "take": "NEAR AI Cloud integrates Claude Sonnet 5.5 for coding and agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-launches-dots-persistent-ai-agents/"
+      "link": "https://cryptobriefing.com/near-ai-cloud-claude-sonnet-integration/"
     },
     {
-      "headline": "Baillie Gifford launches BAGEY, a tokenized bond fund settling in USDC or fiat",
-      "take": "Baillie Gifford launches tokenized bond fund settling in USDC or fiat",
+      "headline": "Volmex Finance launches Bitcoin implied volatility perpetual futures on Hyperliquid",
+      "take": "Volmex Finance launches Bitcoin implied volatility perpetual futures on Hyperliquid",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/baillie-gifford-bitgo-bagey-tokenized-bond-fund/"
+      "link": "https://cryptobriefing.com/volmex-bitcoin-volatility-futures-hyperliquid/"
     },
     {
-      "headline": "Anthropic could pay SpaceX up to $84.5B for computing capacity through 2029",
-      "take": "Anthropic could pay SpaceX eighty-four-point-five billion for computing through twenty twenty-nine",
+      "headline": "Bastion CEO says major companies want to own their payment rails, not rent from Visa or Mastercard",
+      "take": "Bastion CEO says major companies want to own their payment rails outright",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-spacex-xai-84-billion-compute-deal/"
+      "link": "https://cryptobriefing.com/bastion-ceo-companies-control-payment-systems/"
     }
   ],
   "security": [
     {
-      "headline": "NEAR Intents\u2019 SHIELD risk layer blocked over $50M in stolen Bitget funds, earning praise from CEO Gracy Chen",
-      "take": "NEAR's SHIELD risk layer blocked fifty million dollars in stolen Bitget funds",
+      "headline": "Bitget reopens withdrawals after major security breach drains roughly $388 million",
+      "take": "Bitget reports $388M security breach, reopens withdrawals after major incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-intents-shield-blocks-stolen-bitget-funds/"
+      "link": "https://cryptobriefing.com/bitget-reopens-withdrawals-after-hack/"
     },
     {
-      "headline": "OpenAI ignored employee warnings about security risks, NYT reports",
-      "take": "OpenAI ignored employee warnings about security risks, New York Times reports",
+      "headline": "SEC sues Cryptoaiml and TSAI over alleged $15M AI trading scams",
+      "take": "SEC sues Cryptoaiml and TSAI over alleged $15M AI trading scams",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ignored-employee-warnings-security-risks/"
+      "link": "https://cryptobriefing.com/sec-sues-cryptoaiml-tsai-ai-trading-scam/"
+    },
+    {
+      "headline": "Meta\u2019s Muse AI reportedly accesses Apple Messages without consent",
+      "take": "Meta's Muse AI reportedly accesses Apple Messages without user consent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-muse-ai-apple-messages-privacy/"
     }
   ],
   "policy": [
     {
-      "headline": "Comer probes Crypto.com, Hyperliquid, PredictIt on identity checks, suspicious trades",
-      "take": "House committee probes Crypto.com, Hyperliquid on identity checks and suspicious trades",
+      "headline": "Netherlands to tax unrealized Bitcoin gains starting in 2028",
+      "take": "Netherlands to tax unrealized Bitcoin gains starting in 2028",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/comer-probes-cryptocom-hyperliquid-predictit-on-identity-checks-suspicious/"
+      "link": "https://cryptobriefing.com/netherlands-to-tax-unrealized-bitcoin-gains-starting-in-2028/"
     },
     {
-      "headline": "Federal Reserve\u2019s Barr says AI is feeding inflation before it fixes it",
-      "take": "Federal Reserve's Barr says AI is feeding inflation before it fixes it",
+      "headline": "Donald Trump rejects new federal AI regulations after meeting with industry leaders",
+      "take": "Trump rejects new federal AI regulations after meeting with industry leaders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-barr-ai-inflation-rate-hike-2026/"
+      "link": "https://cryptobriefing.com/trump-rejects-federal-ai-regulations/"
     },
     {
-      "headline": "Democrats killed the Clarity Act",
-      "take": "Democrats killed the Clarity Act cryptocurrency regulation bill",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act"
+      "headline": "US SEC and CFTC to operate with just three commissioners after Peirce\u2019s departure",
+      "take": "SEC and CFTC to operate with three commissioners after Peirce's departure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-cftc-three-commissioners-peirce-departure/"
+    },
+    {
+      "headline": "US government tells AI companies to police themselves instead of waiting for regulation",
+      "take": "US government tells AI companies to self-police instead of awaiting regulation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-government-ai-self-regulation-over-oversight/"
     }
   ]
 }

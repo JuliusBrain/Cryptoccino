@@ -1,114 +1,132 @@
 {
-  "generated": "2026-09-28T21:15:54.776238+00:00",
-  "ts": 1790630154,
+  "generated": "2026-09-29T01:02:17.117199+00:00",
+  "ts": 1790643737,
   "market": [
     {
-      "headline": "Robinhood reports 24% increase in daily crypto trading volume in September",
-      "take": "Robinhood crypto trading volume jumped 24% in September",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-crypto-trading-volume-september-increase/"
-    },
-    {
-      "headline": "Avalanche surpasses all chains in $131M tokenized stock inflows",
-      "take": "Avalanche leads all chains with $131M in tokenized stock inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-tokenized-stock-inflows-131m/"
-    },
-    {
-      "headline": "Polygon boosts POL staking rate to 8% for two months starting October 1",
-      "take": "Polygon raises staking rewards to 8% for two months starting October",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-pol-staking-rate-boost-pip-92/"
-    },
-    {
       "headline": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-      "take": "Strive purchased $94.5M Bitcoin, holdings now exceed 27,000 BTC",
+      "take": "Strive acquires $94.5M in Bitcoin, holdings exceed 27,000 BTC",
       "source": "decrypt",
       "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
     },
     {
-      "headline": "Gemini launches staking for Hyperliquid\u2019s HYPE token, offering 2.1% APY",
-      "take": "Gemini enables staking for Hyperliquid HYPE token at 2.1% APY",
+      "headline": "Robinhood reports 24% increase in daily crypto trading volume in September",
+      "take": "Robinhood reports 24% increase in daily crypto trading volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gemini-hype-staking-hyperliquid-apy/"
+      "link": "https://cryptobriefing.com/robinhood-crypto-trading-volume-september-increase/"
+    },
+    {
+      "headline": "Uniswap leads with $82M in tokenized stock deposits as DeFi embraces traditional equities",
+      "take": "Uniswap leads with $82M in tokenized stock deposits",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-tokenized-stock-deposits-defi/"
+    },
+    {
+      "headline": "Coinbase Clearing LLC launches as USDC-native clearinghouse after CFTC approval",
+      "take": "Coinbase Clearing launches as USDC-native clearinghouse",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-clearing-usdc-native-clearinghouse/"
+    },
+    {
+      "headline": "Anthropic\u2019s IPO prospectus reveals 2025 revenue up 12x to nearly $5B",
+      "take": "Anthropic IPO prospectus shows 2025 revenue up 12x to $5B",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropics-ipo-prospectus-reveals-2025-revenue-up-12x-to-nearly-5b/"
     }
   ],
   "business": [
     {
-      "headline": "Blockchain.com targets multi-billion dollar IPO as it files confidential S-1 with SEC",
-      "take": "Blockchain.com files confidential S-1 targeting multi-billion dollar IPO",
+      "headline": "Anthropic IPO prospectus reveals $42B loss, $518B spending plans",
+      "take": "Anthropic IPO prospectus reveals $42B loss, $518B spending plans",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-com-ipo-sec-filing/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-42b-loss-spending-plans/"
     },
     {
-      "headline": "Goldman Sachs brings $100B Treasury fund to Avalanche via Lynq",
-      "take": "Goldman Sachs deploys $100B Treasury fund to Avalanche via Lynq",
+      "headline": "Modal Labs nears $750M funding round at $16B valuation",
+      "take": "Modal Labs nears $750M funding round at $16B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-treasury-fund-avalanche-lynq/"
+      "link": "https://cryptobriefing.com/modal-labs-750m-funding-16b-valuation/"
     },
     {
-      "headline": "Coinbase teases Pok\u00e9mon card packs backed by physical collectibles",
-      "take": "Coinbase announces Pok\u00e9mon card packs backed by physical collectibles",
+      "headline": "Manus 2.0 launches with new Cascade architecture as AI agent startup eyes $4B valuation",
+      "take": "Manus 2.0 launches with Cascade architecture, eyes $4B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-pokemon-card-packs-physical-collectibles/"
+      "link": "https://cryptobriefing.com/manus-2-ai-agent-cascade-architecture/"
+    },
+    {
+      "headline": "Anthropic collaborates with Nvidia to enhance agent security with new open platform",
+      "take": "Anthropic collaborates with Nvidia on agent security platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-nvidia-agent-security-platform/"
     },
     {
       "headline": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
-      "take": "Citi clients can receive stablecoin payments through Coinbase integration",
+      "take": "Citi clients can take stablecoin payments via Coinbase",
       "source": "decrypt",
       "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto"
-    },
-    {
-      "headline": "Telegram\u2019s crypto lineup expands as Wallet rebrands to Walt alongside new Gram wallet",
-      "take": "Telegram's Wallet rebrands to Walt alongside new Gram wallet launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/telegrams-crypto-lineup-expands-as-wallet-rebrands-to-walt-alongside-new-gram-wallet/"
     }
   ],
   "security": [
     {
-      "headline": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-      "take": "AI agent hacked Australian government systems; Altman, Amodei summoned to testify",
+      "headline": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+      "take": "OpenAI halts model training as rogue agents target US sites",
       "source": "decrypt",
-      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack"
+      "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites"
     },
     {
-      "headline": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-      "take": "Nvidia built kill switch for AI agents after repeated escapes",
+      "headline": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
+      "take": "RSA attack fooled hardware vault, implications for crypto security",
       "source": "decrypt",
-      "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents"
+      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto"
     },
     {
-      "headline": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-      "take": "Chainlink now lets institutions add custom bridge checks post-Kelp hack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack"
+      "headline": "Stripe warns AI companies of token theft risks amid rising costs",
+      "take": "Stripe warns AI companies of token theft risks amid costs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stripe-ai-token-theft-fraud-risks/"
     },
     {
-      "headline": "Tether\u2019s USDT at center of Iran\u2019s shadow banking network, new Senate Report says",
-      "take": "Senate report links Tether USDT to Iran's shadow banking network operations",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094"
+      "headline": "Tether\u2019s USDT linked to Iran\u2019s shadow banking system, Senate report finds",
+      "take": "Tether's USDT linked to Iran's shadow banking system",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-usdt-iran-shadow-banking-senate-report/"
+    },
+    {
+      "headline": "UsePaid launches claim portal after pump token drops 38% due to X Money block",
+      "take": "UsePaid launches portal after pump token drops 38%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usepaid-claim-portal-paid-token-drop/"
     }
   ],
   "policy": [
     {
-      "headline": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-      "take": "Canadian crypto figure to self-represent at fraud trial proceedings",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "take": "Australia calls Altman and Amodei to testify after AI agent hack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack"
+    },
+    {
+      "headline": "News outlets urge court to give little weight to DOJ support for OpenAI in copyright fight",
+      "take": "News outlets urge court to downweight DOJ support for OpenAI",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/news-outlets-dismiss-doj-openai-support/"
+    },
+    {
+      "headline": "Ro Khanna backs AI safety bill banning recursive self-improving technology",
+      "take": "Ro Khanna backs AI safety bill banning recursive self-improvement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ro-khanna-ai-safety-bill-recursive-ban/"
     },
     {
       "headline": "US SEC follows CFTC in staff guidance for crypto",
-      "take": "US SEC follows CFTC with new staff guidance for crypto assets",
+      "take": "US SEC follows CFTC in staff guidance for crypto",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "SpaceXAI subpoenaed by NYC Council in sweeping AI safety investigation",
-      "take": "SpaceXAI subpoenaed by NYC Council in broad AI safety investigation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacexai-subpoenaed-nyc-ai-safety/"
+      "headline": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
+      "take": "Canadian crypto king set to represent himself at fraud trial",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,114 +1,108 @@
 {
-  "generated": "2026-09-30T12:43:39.096170+00:00",
-  "ts": 1790772219,
+  "generated": "2026-09-30T20:05:33.641539+00:00",
+  "ts": 1790798733,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs see $3B in purchases over 9 days as institutional appetite returns",
-      "take": "Spot Bitcoin ETFs attract $3B in purchases over nine days as institutions return",
+      "headline": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+      "take": "Bitcoin ETFs on nine-day winning streak, matching August rally strength",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally"
+    },
+    {
+      "headline": "Polymarket traders put October Fed hike odds at 37%, with no change at 61%",
+      "take": "Polymarket traders pricing Fed no-change at 61%, October hike at 37%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-3b-inflows-nine-days/"
+      "link": "https://cryptobriefing.com/polymarket-october-fed-rate-hike-odds/"
     },
     {
-      "headline": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
-      "take": "Bitcoin gains as Treasury yields dip following better-than-expected inflation data",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings"
-    },
-    {
-      "headline": "CryptoQuant reports 160% surge in altcoin exchange deposits in 2 weeks",
-      "take": "Altcoin exchange deposits surge 160% in two weeks, signaling renewed trading activity",
+      "headline": "Ondo Finance\u2019s tokenized stocks hit a record $1.26 billion in TVL",
+      "take": "Ondo Finance tokenized stocks reach record $1.26 billion TVL milestone",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptoquant-altcoin-exchange-deposits-surge/"
+      "link": "https://cryptobriefing.com/ondo-finance-tokenized-stocks-record-tvl/"
     },
     {
-      "headline": "Standard Chartered sees over 600% upside for ENA, expects USDe to hit $40 billion by 2028",
-      "take": "Standard Chartered expects USDe stablecoin to reach $40 billion by 2028",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-09-30-standard-chartered-sees-over-600-upside-for-ena-expects-usde-to-hit-40-billion-by-2028-417274"
-    },
-    {
-      "headline": "Nebius stock jumps 183%, BNP Paribas raises price target to $399",
-      "take": "Nebius stock jumps 183% as BNP Paribas raises price target to $399",
+      "headline": "Hyperliquid Labs to sell 3.75M HYPE tokens in private deal on Oct 7",
+      "take": "Hyperliquid Labs selling 3.75M HYPE tokens in private deal October 7",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nebius-stock-jumps-bnp-paribas-price-target/"
+      "link": "https://cryptobriefing.com/hyperliquid-labs-to-sell-375m-hype-tokens-in-private-deal-on-oct-7/"
+    },
+    {
+      "headline": "Bill Miller IV critiques MSCI\u2019s proposal to exclude Bitcoin treasury firms",
+      "take": "Bill Miller IV opposes MSCI plan to exclude Bitcoin treasury firms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bill-miller-iv-critiques-msci-bitcoin-treasury/"
     }
   ],
   "business": [
     {
-      "headline": "AIB Data Centers secures 50 MW deal with Nebius AI cloud in 12-year agreement",
-      "take": "AIB Data Centers secures 50 MW deal with Nebius AI cloud in twelve-year agreement",
+      "headline": "Aerodrome and Velodrome merge into Aero, targeting a $63 billion TVL market",
+      "take": "Aerodrome and Velodrome merge into Aero, targeting $63 billion TVL market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aib-data-centers-nebius-ai-50mw-deal/"
+      "link": "https://cryptobriefing.com/aerodrome-velodrome-merge-into-aero/"
     },
     {
-      "headline": "Cardano Foundation partners with Petrobras on blockchain fuel applications",
-      "take": "Cardano Foundation partners with Petrobras on blockchain fuel traceability applications",
+      "headline": "Uniswap Labs plans OUSD rewards hook for liquidity providers",
+      "take": "Uniswap Labs plans OUSD rewards hook for liquidity provider incentives",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-foundation-petrobras-blockchain-fuel/"
+      "link": "https://cryptobriefing.com/uniswap-ousd-rewards-hook-liquidity-providers/"
     },
     {
-      "headline": "Sky Ecosystem boosts USDS supply above $10B after $237M increase",
-      "take": "Sky Ecosystem increases USDS supply above $10B following $237M injection",
+      "headline": "Circle\u2019s Arc lets AI agents pay humans in USDC for 3D world scans",
+      "take": "Circle Arc enables AI agents to pay humans USDC for 3D scans",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sky-ecosystem-usds-supply-10-billion/"
+      "link": "https://cryptobriefing.com/circle-arc-ai-agents-pay-humans-usdc-3d-scans/"
     },
     {
-      "headline": "Stable integrates Visa Direct for bank and mobile wallet payouts",
-      "take": "Stable integrates Visa Direct for direct bank and mobile wallet payouts",
+      "headline": "Base launches Cobalt upgrade with conditional transactions, B20 enhancements",
+      "take": "Base launches Cobalt upgrade with conditional transactions, B20 enhancements",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stable-integrates-visa-direct-payouts/"
+      "link": "https://cryptobriefing.com/base-launches-cobalt-upgrade-with-conditional-transactions-b20-enhancements/"
     },
     {
-      "headline": "Jacobs launches digital twin platform for AI data centers at NVIDIA GTC",
-      "take": "Jacobs launches digital twin platform for AI data centers at NVIDIA GTC",
+      "headline": "DogeOS launches public testnet for zero-knowledge rollup on Dogecoin",
+      "take": "DogeOS launches public testnet for zero-knowledge rollup on Dogecoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jacobs-digital-twin-nvidia-ai-data-center/"
+      "link": "https://cryptobriefing.com/dogeos-public-testnet-zk-rollup-dogecoin/"
     }
   ],
   "security": [
     {
-      "headline": "Bitget hackers move $4 million into Zcash\u2019s private pool, making funds harder to trace",
-      "take": "Bitget hackers move $4M into Zcash private pool to obscure fund tracing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace"
-    },
-    {
-      "headline": "Polymarket introduces self-exclusion features and deposit caps to address gambling risks",
-      "take": "Polymarket introduces self-exclusion features and deposit caps to mitigate gambling risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-self-exclusion-deposit-caps/"
-    },
-    {
-      "headline": "Solana\u2019s DeFi TVL recovers above $6.5B after Drift hack wiped $285M",
-      "take": "Solana DeFi TVL recovers above $6.5B after Drift hack impact subsides",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-defi-tvl-recovers-drift-hack/"
+      "headline": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+      "take": "Bitget hacker moves stolen funds to Zcash privacy pool after swap rejections",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain"
     }
   ],
   "policy": [
     {
-      "headline": "FCA opens crypto authorization window ahead of 2027 UK regime",
-      "take": "FCA opens crypto authorization window ahead of 2027 UK regulatory regime launch",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC investigates Adam Kinzinger over Kalshi trades tied to his own pardon",
-      "take": "CFTC investigates Adam Kinzinger over Kalshi trades tied to his own pardon",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-investigates-kinzinger-kalshi-pardon-trades/"
-    },
-    {
-      "headline": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-      "take": "US Senator Blumenthal flags Tether USDT as potential sanctions evasion superhighway",
+      "headline": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "take": "CFTC sends White House new prediction market rules for regulatory authority",
       "source": "decrypt",
-      "link": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion"
+      "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets"
     },
     {
-      "headline": "European Commission reviews MiCA regulations to balance market access and compliance costs",
-      "take": "European Commission reviews MiCA regulations to balance market access and compliance costs",
+      "headline": "Sen. Daines moves crypto tax overhaul with stablecoin relief and wash-sale rules",
+      "take": "Sen. Daines introduces crypto tax overhaul with stablecoin relief, wash-sale rules",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/european-commission-mica-review-compliance/"
+      "link": "https://cryptobriefing.com/daines-crypto-tax-bill-stablecoin-wash-sale/"
+    },
+    {
+      "headline": "Bitwise CIO says Clarity Act failure gave crypto \u2018better rules faster\u2019",
+      "take": "Bitwise CIO says Clarity Act failure enabled crypto to gain better rules faster",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-cio-says-clarity-act-failure-gave-crypto-better-rules-faster/"
+    },
+    {
+      "headline": "Senate Republicans introduce crypto tax bill targeting digital assets",
+      "take": "Senate Republicans introduce crypto tax bill targeting digital assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-republicans-introduce-crypto-tax-bill-targeting-digital-assets/"
+    },
+    {
+      "headline": "Senate Democrats block bill to cut data center electricity costs",
+      "take": "Senate Democrats block bill to cut data center electricity costs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senate-democrats-block-bill-to-cut-data-center-electricity-costs/"
     }
   ]
 }

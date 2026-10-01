@@ -1,108 +1,120 @@
 {
-  "generated": "2026-09-30T20:05:33.641539+00:00",
-  "ts": 1790798733,
+  "generated": "2026-10-01T00:35:34.751540+00:00",
+  "ts": 1790814934,
   "market": [
     {
-      "headline": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-      "take": "Bitcoin ETFs on nine-day winning streak, matching August rally strength",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally"
+      "headline": "Bitcoin gains as rate hike expectations ease after soft PCE data",
+      "take": "Bitcoin gains as rate hike expectations ease after soft PCE data",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-gains-rate-hike-expectations-ease/"
     },
     {
-      "headline": "Polymarket traders put October Fed hike odds at 37%, with no change at 61%",
-      "take": "Polymarket traders pricing Fed no-change at 61%, October hike at 37%",
+      "headline": "Bitcoin nears green September close as bulls look to October",
+      "take": "Bitcoin nears green September close as bulls look to October",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-october-fed-rate-hike-odds/"
+      "link": "https://cryptobriefing.com/bitcoin-nears-green-september-close-as-bulls-look-to-october/"
     },
     {
-      "headline": "Ondo Finance\u2019s tokenized stocks hit a record $1.26 billion in TVL",
-      "take": "Ondo Finance tokenized stocks reach record $1.26 billion TVL milestone",
+      "headline": "Most top NEAR traders on Hyperliquid hold short positions as the rally squeezes bears",
+      "take": "Most top NEAR traders on Hyperliquid hold short positions as rally squeezes bears",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-finance-tokenized-stocks-record-tvl/"
+      "link": "https://cryptobriefing.com/near-hyperliquid-top-traders-short-positions/"
     },
     {
-      "headline": "Hyperliquid Labs to sell 3.75M HYPE tokens in private deal on Oct 7",
-      "take": "Hyperliquid Labs selling 3.75M HYPE tokens in private deal October 7",
+      "headline": "Micron beats estimates with record $54.2B revenue as shares stay flat after hours",
+      "take": "Micron beats estimates with record $54.2B revenue as shares stay flat",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-labs-to-sell-375m-hype-tokens-in-private-deal-on-oct-7/"
-    },
-    {
-      "headline": "Bill Miller IV critiques MSCI\u2019s proposal to exclude Bitcoin treasury firms",
-      "take": "Bill Miller IV opposes MSCI plan to exclude Bitcoin treasury firms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bill-miller-iv-critiques-msci-bitcoin-treasury/"
+      "link": "https://cryptobriefing.com/micron-quarterly-revenue-tops-50-billion/"
     }
   ],
   "business": [
     {
-      "headline": "Aerodrome and Velodrome merge into Aero, targeting a $63 billion TVL market",
-      "take": "Aerodrome and Velodrome merge into Aero, targeting $63 billion TVL market",
+      "headline": "Anthropic plans historic IPO at a valuation that could top $2 trillion",
+      "take": "Anthropic plans historic IPO at valuation that could top $2 trillion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-velodrome-merge-into-aero/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-2-trillion-valuation-risks/"
+    },
+    {
+      "headline": "Kalshi nears roughly $1 billion raise at about $40 billion valuation ahead of possible IPO",
+      "take": "Kalshi nears roughly $1 billion raise at $40 billion valuation ahead of possible IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-nears-1-billion-raise-40-billion-valuation/"
+    },
+    {
+      "headline": "AvengerDAO Security Marketplace grows to 17 firms after adding six new security providers",
+      "take": "AvengerDAO Security Marketplace grows to 17 firms after adding six new security providers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/avengerdao-security-marketplace-adds-six-firms/"
+    },
+    {
+      "headline": "Solana Foundation launches Solana Scholars program for PhD internships",
+      "take": "Solana Foundation launches Solana Scholars program for PhD internships",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-foundation-launches-solana-scholars-phd/"
     },
     {
       "headline": "Uniswap Labs plans OUSD rewards hook for liquidity providers",
-      "take": "Uniswap Labs plans OUSD rewards hook for liquidity provider incentives",
+      "take": "Uniswap Labs plans OUSD rewards hook for liquidity providers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/uniswap-ousd-rewards-hook-liquidity-providers/"
-    },
-    {
-      "headline": "Circle\u2019s Arc lets AI agents pay humans in USDC for 3D world scans",
-      "take": "Circle Arc enables AI agents to pay humans USDC for 3D scans",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-arc-ai-agents-pay-humans-usdc-3d-scans/"
-    },
-    {
-      "headline": "Base launches Cobalt upgrade with conditional transactions, B20 enhancements",
-      "take": "Base launches Cobalt upgrade with conditional transactions, B20 enhancements",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-launches-cobalt-upgrade-with-conditional-transactions-b20-enhancements/"
-    },
-    {
-      "headline": "DogeOS launches public testnet for zero-knowledge rollup on Dogecoin",
-      "take": "DogeOS launches public testnet for zero-knowledge rollup on Dogecoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dogeos-public-testnet-zk-rollup-dogecoin/"
     }
   ],
   "security": [
     {
+      "headline": "MetaMask Staking exits its Lido validators following a security incident",
+      "take": "MetaMask Staking exits its Lido validators following a security incident",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/metamask-staking-exits-lido-validators/"
+    },
+    {
       "headline": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-      "take": "Bitget hacker moves stolen funds to Zcash privacy pool after swap rejections",
+      "take": "Bitget hacker turns to Zcash privacy pool after Near rejects $50M in swaps",
       "source": "decrypt",
       "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain"
+    },
+    {
+      "headline": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+      "take": "FBI tells its employees to assume hackers have their personal data",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data"
+    },
+    {
+      "headline": "OFAC Sanctions Tren de Aragua Fugitive Who Laundered ATM Heists With Crypto",
+      "take": "OFAC sanctions Tren de Aragua fugitive who laundered ATM heists with crypto",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions-tren-de-aragua-crypto-laundering-september-2026/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-      "take": "CFTC sends White House new prediction market rules for regulatory authority",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets"
+      "headline": "CFTC sends prediction market rules to the White House for review",
+      "take": "CFTC sends prediction market rules to the White House for review",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-prediction-market-rules-white-house/"
     },
     {
-      "headline": "Sen. Daines moves crypto tax overhaul with stablecoin relief and wash-sale rules",
-      "take": "Sen. Daines introduces crypto tax overhaul with stablecoin relief, wash-sale rules",
+      "headline": "FTC investigates OpenAI, Anthropic over AI safety concerns: Axios",
+      "take": "FTC investigates OpenAI, Anthropic over AI safety concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/daines-crypto-tax-bill-stablecoin-wash-sale/"
+      "link": "https://cryptobriefing.com/ftc-investigates-openai-anthropic-over-ai-safety-concerns-axios/"
     },
     {
-      "headline": "Bitwise CIO says Clarity Act failure gave crypto \u2018better rules faster\u2019",
-      "take": "Bitwise CIO says Clarity Act failure enabled crypto to gain better rules faster",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-cio-says-clarity-act-failure-gave-crypto-better-rules-faster/"
+      "headline": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+      "take": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365"
     },
     {
-      "headline": "Senate Republicans introduce crypto tax bill targeting digital assets",
-      "take": "Senate Republicans introduce crypto tax bill targeting digital assets",
+      "headline": "Swiss National Bank warns stablecoins may disrupt monetary policy",
+      "take": "Swiss National Bank warns stablecoins may disrupt monetary policy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-republicans-introduce-crypto-tax-bill-targeting-digital-assets/"
+      "link": "https://cryptobriefing.com/swiss-national-bank-stablecoins-monetary-policy/"
     },
     {
-      "headline": "Senate Democrats block bill to cut data center electricity costs",
-      "take": "Senate Democrats block bill to cut data center electricity costs",
+      "headline": "Senior congressional staffers back AI industry regulation, survey shows",
+      "take": "Senior congressional staffers back AI industry regulation, survey shows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-democrats-block-bill-to-cut-data-center-electricity-costs/"
+      "link": "https://cryptobriefing.com/congress-staffers-support-ai-regulation-survey/"
     }
   ]
 }

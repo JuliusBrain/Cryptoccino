@@ -1,120 +1,108 @@
 {
-  "generated": "2026-10-01T00:35:34.751540+00:00",
-  "ts": 1790814934,
+  "generated": "2026-10-01T10:15:15.417891+00:00",
+  "ts": 1790849715,
   "market": [
     {
-      "headline": "Bitcoin gains as rate hike expectations ease after soft PCE data",
-      "take": "Bitcoin gains as rate hike expectations ease after soft PCE data",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-gains-rate-hike-expectations-ease/"
+      "headline": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "take": "Citigroup raises twelve-month bitcoin target to $113,000 on resumed ETF inflows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume"
     },
     {
-      "headline": "Bitcoin nears green September close as bulls look to October",
-      "take": "Bitcoin nears green September close as bulls look to October",
+      "headline": "Bitcoin ETFs draw $6B in Q3 as BTC price rises nearly 43%",
+      "take": "Bitcoin ETFs attracted $6 billion in Q3 as BTC price rose nearly 43%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-nears-green-september-close-as-bulls-look-to-october/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-draw-6b-in-q3-as-btc-price-rises-nearly-43/"
     },
     {
-      "headline": "Most top NEAR traders on Hyperliquid hold short positions as the rally squeezes bears",
-      "take": "Most top NEAR traders on Hyperliquid hold short positions as rally squeezes bears",
+      "headline": "Binance Research projects tokenized equities could hit $349 billion by 2030",
+      "take": "Tokenized equities could reach $349 billion by 2030, Binance Research projects",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-hyperliquid-top-traders-short-positions/"
+      "link": "https://cryptobriefing.com/binance-research-tokenized-equities-349-billion-2030/"
     },
     {
-      "headline": "Micron beats estimates with record $54.2B revenue as shares stay flat after hours",
-      "take": "Micron beats estimates with record $54.2B revenue as shares stay flat",
+      "headline": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "take": "Bitcoin's rally to $85,500 fades as bond yields remain elevated",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
+    },
+    {
+      "headline": "XRP open interest on Binance falls 15% from six-month high",
+      "take": "XRP open interest on Binance fell 15% from six-month high",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/micron-quarterly-revenue-tops-50-billion/"
+      "link": "https://cryptobriefing.com/xrp-open-interest-binance-falls-15-percent/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic plans historic IPO at a valuation that could top $2 trillion",
-      "take": "Anthropic plans historic IPO at valuation that could top $2 trillion",
+      "headline": "Broadcom to backstop up to $42B for Anthropic infrastructure leases",
+      "take": "Broadcom to backstop up to $42 billion for Anthropic infrastructure leases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-2-trillion-valuation-risks/"
+      "link": "https://cryptobriefing.com/broadcom-anthropic-42b-infrastructure-lease-backstop/"
     },
     {
-      "headline": "Kalshi nears roughly $1 billion raise at about $40 billion valuation ahead of possible IPO",
-      "take": "Kalshi nears roughly $1 billion raise at $40 billion valuation ahead of possible IPO",
+      "headline": "Barclays expands AI partnership with Anthropic for global integration",
+      "take": "Barclays expands AI partnership with Anthropic for global integration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-nears-1-billion-raise-40-billion-valuation/"
+      "link": "https://cryptobriefing.com/barclays-expands-ai-partnership-with-anthropic-for-global-integration/"
     },
     {
-      "headline": "AvengerDAO Security Marketplace grows to 17 firms after adding six new security providers",
-      "take": "AvengerDAO Security Marketplace grows to 17 firms after adding six new security providers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avengerdao-security-marketplace-adds-six-firms/"
+      "headline": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "take": "Dogecoin gets DeFi testnet as DogeOS bets miners will secure apps",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps"
     },
     {
-      "headline": "Solana Foundation launches Solana Scholars program for PhD internships",
-      "take": "Solana Foundation launches Solana Scholars program for PhD internships",
+      "headline": "Tencent leases 100,000 AI chips from Oracle in five-year deal",
+      "take": "Tencent leases 100,000 AI chips from Oracle in five-year deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-foundation-launches-solana-scholars-phd/"
-    },
-    {
-      "headline": "Uniswap Labs plans OUSD rewards hook for liquidity providers",
-      "take": "Uniswap Labs plans OUSD rewards hook for liquidity providers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-ousd-rewards-hook-liquidity-providers/"
+      "link": "https://cryptobriefing.com/tencent-leases-ai-chips-oracle/"
     }
   ],
   "security": [
     {
-      "headline": "MetaMask Staking exits its Lido validators following a security incident",
-      "take": "MetaMask Staking exits its Lido validators following a security incident",
+      "headline": "MetaMask Exits Lido Validators Amid Infrastructure \u2018Security Incident\u2019",
+      "take": "MetaMask exits Lido validators after infrastructure security incident reported",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident"
+    },
+    {
+      "headline": "Sentora\u2019s Morpho vaults face outflows after MetaMask security incident",
+      "take": "Morpho vaults face outflows following MetaMask security incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metamask-staking-exits-lido-validators/"
+      "link": "https://cryptobriefing.com/sentora-morpho-vaults-outflows-metamask-incident/"
     },
     {
-      "headline": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-      "take": "Bitget hacker turns to Zcash privacy pool after Near rejects $50M in swaps",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain"
-    },
-    {
-      "headline": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-      "take": "FBI tells its employees to assume hackers have their personal data",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data"
-    },
-    {
-      "headline": "OFAC Sanctions Tren de Aragua Fugitive Who Laundered ATM Heists With Crypto",
-      "take": "OFAC sanctions Tren de Aragua fugitive who laundered ATM heists with crypto",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-tren-de-aragua-crypto-laundering-september-2026/"
+      "headline": "OpenAI agents obscured hacking activity on US government sites: FT",
+      "take": "OpenAI agents obscured hacking activity on US government sites",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-agents-obscured-hacking-activity-on-us-government-sites-ft/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC sends prediction market rules to the White House for review",
-      "take": "CFTC sends prediction market rules to the White House for review",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-prediction-market-rules-white-house/"
+      "headline": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "take": "CFTC seeks to define event contracts as swaps in prediction market fight",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "FTC investigates OpenAI, Anthropic over AI safety concerns: Axios",
-      "take": "FTC investigates OpenAI, Anthropic over AI safety concerns",
+      "headline": "Iran to boost crypto use for oil sales amid US sanctions crackdown",
+      "take": "Iran to boost crypto use for oil sales amid US sanctions crackdown",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ftc-investigates-openai-anthropic-over-ai-safety-concerns-axios/"
+      "link": "https://cryptobriefing.com/iran-to-boost-crypto-use-for-oil-sales-amid-us-sanctions-crackdown/"
     },
     {
-      "headline": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-      "take": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365"
+      "headline": "EU Presses Binance Over \u2018Reverse Solicitation\u2019 Exemption for Users: Report",
+      "take": "EU presses Binance over reverse solicitation exemption for users",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report"
     },
     {
-      "headline": "Swiss National Bank warns stablecoins may disrupt monetary policy",
-      "take": "Swiss National Bank warns stablecoins may disrupt monetary policy",
+      "headline": "A16z Crypto\u2019s Miles Jennings says the Genius Act makes the onchain shift hard to reverse",
+      "take": "A16z Crypto says Genius Act makes the onchain shift hard to reverse",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/swiss-national-bank-stablecoins-monetary-policy/"
-    },
-    {
-      "headline": "Senior congressional staffers back AI industry regulation, survey shows",
-      "take": "Senior congressional staffers back AI industry regulation, survey shows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/congress-staffers-support-ai-regulation-survey/"
+      "link": "https://cryptobriefing.com/a16z-miles-jennings-genius-act-korea-summit/"
     }
   ]
 }

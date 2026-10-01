@@ -1,108 +1,114 @@
 {
-  "generated": "2026-10-01T10:15:15.417891+00:00",
-  "ts": 1790849715,
+  "generated": "2026-10-01T18:27:33.633056+00:00",
+  "ts": 1790879253,
   "market": [
     {
-      "headline": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "take": "Citigroup raises twelve-month bitcoin target to $113,000 on resumed ETF inflows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume"
-    },
-    {
-      "headline": "Bitcoin ETFs draw $6B in Q3 as BTC price rises nearly 43%",
-      "take": "Bitcoin ETFs attracted $6 billion in Q3 as BTC price rose nearly 43%",
+      "headline": "Bitcoin buyers clear the $85K sell wall, opening a path for upside",
+      "take": "Bitcoin clears $85K resistance level, opening path for further upside",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-draw-6b-in-q3-as-btc-price-rises-nearly-43/"
+      "link": "https://cryptobriefing.com/bitcoin-clears-85k-sell-wall/"
     },
     {
-      "headline": "Binance Research projects tokenized equities could hit $349 billion by 2030",
-      "take": "Tokenized equities could reach $349 billion by 2030, Binance Research projects",
+      "headline": "Bitcoin\u2019s win rate against the S&P 500 climbs back above 50%",
+      "take": "Bitcoin's win rate versus S&P 500 recovers above fifty percent threshold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-research-tokenized-equities-349-billion-2030/"
+      "link": "https://cryptobriefing.com/bitcoin-win-rate-above-50-sp-500/"
     },
     {
-      "headline": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-      "take": "Bitcoin's rally to $85,500 fades as bond yields remain elevated",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
-    },
-    {
-      "headline": "XRP open interest on Binance falls 15% from six-month high",
-      "take": "XRP open interest on Binance fell 15% from six-month high",
+      "headline": "Galaxy Research finds 69% of Polymarket retail accounts lose money",
+      "take": "Polymarket retail traders lose money at sixty-nine percent failure rate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-open-interest-binance-falls-15-percent/"
+      "link": "https://cryptobriefing.com/galaxy-research-polymarket-retail-losses/"
+    },
+    {
+      "headline": "San Francisco Fed study finds stablecoin Treasury growth offsets China\u2019s retreat",
+      "take": "Stablecoin Treasury growth offsets China's retreat from crypto markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/san-francisco-fed-stablecoin-treasury-china/"
+    },
+    {
+      "headline": "Cboe Global Markets eyes VIX perpetual futures as crypto\u2019s favorite product goes mainstream",
+      "take": "Cboe explores VIX perpetual futures as crypto derivatives gain mainstream traction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cboe-vix-perpetual-futures-plan/"
     }
   ],
   "business": [
     {
-      "headline": "Broadcom to backstop up to $42B for Anthropic infrastructure leases",
-      "take": "Broadcom to backstop up to $42 billion for Anthropic infrastructure leases",
+      "headline": "SoftBank closes final $10B OpenAI tranche, lifting its total to $64.6B",
+      "take": "SoftBank completes $10 billion OpenAI investment, reaching $64.6 billion total",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/broadcom-anthropic-42b-infrastructure-lease-backstop/"
+      "link": "https://cryptobriefing.com/softbank-closes-final-openai-tranche/"
     },
     {
-      "headline": "Barclays expands AI partnership with Anthropic for global integration",
-      "take": "Barclays expands AI partnership with Anthropic for global integration",
+      "headline": "Deribit upgrades matching engine, cuts median latency by roughly 61x",
+      "take": "Deribit upgrades matching engine, reducing median latency by over sixty times",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/barclays-expands-ai-partnership-with-anthropic-for-global-integration/"
+      "link": "https://cryptobriefing.com/deribit-starbase-matching-engine-latency/"
     },
     {
-      "headline": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-      "take": "Dogecoin gets DeFi testnet as DogeOS bets miners will secure apps",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps"
+      "headline": "Phantom wallet adds native BNB Chain support for in-app trading",
+      "take": "Phantom wallet adds native BNB Chain support enabling in-app trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/phantom-wallet-adds-bnb-chain-support/"
     },
     {
-      "headline": "Tencent leases 100,000 AI chips from Oracle in five-year deal",
-      "take": "Tencent leases 100,000 AI chips from Oracle in five-year deal",
+      "headline": "Fiserv\u2019s Digital Asset Platform goes live with North Dakota\u2019s Roughrider Coin",
+      "take": "Fiserv's digital asset platform goes live with North Dakota's Roughrider Coin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tencent-leases-ai-chips-oracle/"
+      "link": "https://cryptobriefing.com/fiserv-digital-asset-platform-roughrider-coin/"
+    },
+    {
+      "headline": "OpenZeppelin and T-REX Network introduce framework for regulated token eligibility",
+      "take": "OpenZeppelin and T-REX introduce framework for regulated token eligibility checks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openzeppelin-t-rex-regulated-token-eligibility/"
     }
   ],
   "security": [
     {
-      "headline": "MetaMask Exits Lido Validators Amid Infrastructure \u2018Security Incident\u2019",
-      "take": "MetaMask exits Lido validators after infrastructure security incident reported",
+      "headline": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+      "take": "Near Intents protocol hacked for $3.8 million, days after security denials",
       "source": "decrypt",
-      "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident"
+      "link": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker"
     },
     {
-      "headline": "Sentora\u2019s Morpho vaults face outflows after MetaMask security incident",
-      "take": "Morpho vaults face outflows following MetaMask security incident",
+      "headline": "Mindgard says it jailbroke Moonshot AI\u2019s Kimi models into giving sarin and terror attack instructions",
+      "take": "Mindgard claims jailbreak of Moonshot AI's Kimi into dangerous instructions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sentora-morpho-vaults-outflows-metamask-incident/"
+      "link": "https://cryptobriefing.com/mindgard-jailbreak-moonshot-kimi-models/"
     },
     {
-      "headline": "OpenAI agents obscured hacking activity on US government sites: FT",
-      "take": "OpenAI agents obscured hacking activity on US government sites",
+      "headline": "Treasury sanctions A7 Network as transnational criminal organization",
+      "take": "Treasury sanctions A7 Network as transnational criminal organization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-agents-obscured-hacking-activity-on-us-government-sites-ft/"
+      "link": "https://cryptobriefing.com/treasury-sanctions-a7-network-criminal-organization/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-      "take": "CFTC seeks to define event contracts as swaps in prediction market fight",
+      "headline": "Illinois will postpone implementation of crypto tax following lawsuit",
+      "take": "Illinois postpones crypto tax implementation following industry legal challenge",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Iran to boost crypto use for oil sales amid US sanctions crackdown",
-      "take": "Iran to boost crypto use for oil sales amid US sanctions crackdown",
+      "headline": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+      "take": "New York and Wyoming regulators sign pact coordinating crypto oversight",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Congressional Research Service report flags shaky ground for banks dealing in Bitcoin",
+      "take": "Congressional Research Service flags regulatory uncertainty for banks handling Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iran-to-boost-crypto-use-for-oil-sales-amid-us-sanctions-crackdown/"
+      "link": "https://cryptobriefing.com/crs-report-bank-bitcoin-regulatory-instability/"
     },
     {
-      "headline": "EU Presses Binance Over \u2018Reverse Solicitation\u2019 Exemption for Users: Report",
-      "take": "EU presses Binance over reverse solicitation exemption for users",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report"
-    },
-    {
-      "headline": "A16z Crypto\u2019s Miles Jennings says the Genius Act makes the onchain shift hard to reverse",
-      "take": "A16z Crypto says Genius Act makes the onchain shift hard to reverse",
+      "headline": "ECB\u2019s Lagarde warns Europe against leaning on foreign AI models",
+      "take": "ECB's Lagarde warns Europe against dependency on foreign AI models",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-miles-jennings-genius-act-korea-summit/"
+      "link": "https://cryptobriefing.com/lagarde-warns-europe-foreign-ai-reliance/"
     }
   ]
 }

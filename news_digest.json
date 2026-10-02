@@ -1,114 +1,114 @@
 {
-  "generated": "2026-10-01T18:27:33.633056+00:00",
-  "ts": 1790879253,
+  "generated": "2026-10-02T00:51:25.140183+00:00",
+  "ts": 1790902285,
   "market": [
     {
-      "headline": "Bitcoin buyers clear the $85K sell wall, opening a path for upside",
-      "take": "Bitcoin clears $85K resistance level, opening path for further upside",
+      "headline": "Tokenized real-world assets hit $46.2 billion across 36 chains",
+      "take": "Tokenized real-world assets reached $46.2 billion across 36 blockchain networks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-clears-85k-sell-wall/"
+      "link": "https://cryptobriefing.com/tokenized-real-world-assets-hit-46-billion/"
     },
     {
-      "headline": "Bitcoin\u2019s win rate against the S&P 500 climbs back above 50%",
-      "take": "Bitcoin's win rate versus S&P 500 recovers above fifty percent threshold",
+      "headline": "Coinbase-issued tokenized stocks on Base generated $1.5B in DEX volume over the past 30 days, up 313% vs. the prior 30-day period",
+      "take": "Coinbase tokenized stocks on Base generated $1.5B in DEX volume, up 313%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-win-rate-above-50-sp-500/"
+      "link": "https://cryptobriefing.com/coinbase-issued-tokenized-stocks-on-base-generated-15b-in-dex-volume-over-the/"
     },
     {
-      "headline": "Galaxy Research finds 69% of Polymarket retail accounts lose money",
-      "take": "Polymarket retail traders lose money at sixty-nine percent failure rate",
+      "headline": "Bitwise NEAR ETF draws about $9 million in inflows on day three",
+      "take": "Bitwise NEAR ETF drew $9 million in inflows on its third day",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-research-polymarket-retail-losses/"
+      "link": "https://cryptobriefing.com/bitwise-near-etf-9-million-inflows-day-three/"
     },
     {
-      "headline": "San Francisco Fed study finds stablecoin Treasury growth offsets China\u2019s retreat",
-      "take": "Stablecoin Treasury growth offsets China's retreat from crypto markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/san-francisco-fed-stablecoin-treasury-china/"
-    },
-    {
-      "headline": "Cboe Global Markets eyes VIX perpetual futures as crypto\u2019s favorite product goes mainstream",
-      "take": "Cboe explores VIX perpetual futures as crypto derivatives gain mainstream traction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cboe-vix-perpetual-futures-plan/"
+      "headline": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
+      "take": "Zcash dropped 21% from recent highs but may have upside remaining",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally"
     }
   ],
   "business": [
     {
-      "headline": "SoftBank closes final $10B OpenAI tranche, lifting its total to $64.6B",
-      "take": "SoftBank completes $10 billion OpenAI investment, reaching $64.6 billion total",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/softbank-closes-final-openai-tranche/"
+      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "take": "Ethereum Foundation launched zkAPI for private AI model payments without identity disclosure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504"
     },
     {
-      "headline": "Deribit upgrades matching engine, cuts median latency by roughly 61x",
-      "take": "Deribit upgrades matching engine, reducing median latency by over sixty times",
+      "headline": "NEAR AI Cloud brings private inference to GitHub Copilot through a VSCode extension",
+      "take": "NEAR AI Cloud integrated private inference into GitHub Copilot via VSCode extension",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deribit-starbase-matching-engine-latency/"
+      "link": "https://cryptobriefing.com/near-ai-private-inference-github-copilot/"
     },
     {
-      "headline": "Phantom wallet adds native BNB Chain support for in-app trading",
-      "take": "Phantom wallet adds native BNB Chain support enabling in-app trading",
+      "headline": "Anthropic plans pre-IPO investor day on October 14",
+      "take": "Anthropic plans pre-IPO investor day on October 14",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/phantom-wallet-adds-bnb-chain-support/"
+      "link": "https://cryptobriefing.com/anthropic-pre-ipo-investor-day-october-14/"
     },
     {
-      "headline": "Fiserv\u2019s Digital Asset Platform goes live with North Dakota\u2019s Roughrider Coin",
-      "take": "Fiserv's digital asset platform goes live with North Dakota's Roughrider Coin",
+      "headline": "Volantis raises $88M Series A to attack the AI memory bottleneck with light",
+      "take": "Volantis raised $88 million Series A to solve AI memory bottleneck with light",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fiserv-digital-asset-platform-roughrider-coin/"
+      "link": "https://cryptobriefing.com/volantis-raises-88m-series-a-ai-memory/"
     },
     {
-      "headline": "OpenZeppelin and T-REX Network introduce framework for regulated token eligibility",
-      "take": "OpenZeppelin and T-REX introduce framework for regulated token eligibility checks",
+      "headline": "Grok Imagine 1.5 Lite lands on Venice at $0.04 per clip",
+      "take": "Grok Imagine 1.5 Lite launched on Venice platform at $0.04 per clip",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openzeppelin-t-rex-regulated-token-eligibility/"
+      "link": "https://cryptobriefing.com/grok-imagine-lite-venice-ai-video/"
     }
   ],
   "security": [
     {
-      "headline": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-      "take": "Near Intents protocol hacked for $3.8 million, days after security denials",
+      "headline": "How AI Helped Chainalysis Investigators Trace the $387 Million North Korea Stole from Bitget",
+      "take": "AI helped Chainalysis trace $387 million North Korea stole from Bitget",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/387m-bitget-theft-2026/"
+    },
+    {
+      "headline": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+      "take": "China's Moonshot AI reportedly attempted to copy OpenAI's hidden reasoning capabilities",
       "source": "decrypt",
-      "link": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker"
+      "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning"
     },
     {
-      "headline": "Mindgard says it jailbroke Moonshot AI\u2019s Kimi models into giving sarin and terror attack instructions",
-      "take": "Mindgard claims jailbreak of Moonshot AI's Kimi into dangerous instructions",
+      "headline": "Ro Khanna asks top AI labs to disclose Chinese attempts to steal model weights",
+      "take": "Ro Khanna urged top AI labs to disclose Chinese attempts to steal model weights",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mindgard-jailbreak-moonshot-kimi-models/"
+      "link": "https://cryptobriefing.com/ro-khanna-ai-labs-chinese-hacking-weights/"
     },
     {
-      "headline": "Treasury sanctions A7 Network as transnational criminal organization",
-      "take": "Treasury sanctions A7 Network as transnational criminal organization",
+      "headline": "US sanctions A7 network for allegedly aiding Iran\u2019s sanctions evasion",
+      "take": "US sanctioned A7 network for allegedly helping Iran evade economic sanctions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-sanctions-a7-network-criminal-organization/"
+      "link": "https://cryptobriefing.com/us-sanctions-a7-network-iran-evasion/"
     }
   ],
   "policy": [
     {
-      "headline": "Illinois will postpone implementation of crypto tax following lawsuit",
-      "take": "Illinois postpones crypto tax implementation following industry legal challenge",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+      "take": "SEC proposed framework allowing investment advisers and funds to self-custody crypto",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498"
     },
     {
-      "headline": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
-      "take": "New York and Wyoming regulators sign pact coordinating crypto oversight",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Congressional Research Service report flags shaky ground for banks dealing in Bitcoin",
-      "take": "Congressional Research Service flags regulatory uncertainty for banks handling Bitcoin",
+      "headline": "El Salvador\u2019s economy performs strongly, IMF says, as Bitcoin waiver clears the way for funding",
+      "take": "El Salvador's strong economy performance clears way for IMF funding despite Bitcoin policy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crs-report-bank-bitcoin-regulatory-instability/"
+      "link": "https://cryptobriefing.com/el-salvador-economy-imf-strong-growth/"
     },
     {
-      "headline": "ECB\u2019s Lagarde warns Europe against leaning on foreign AI models",
-      "take": "ECB's Lagarde warns Europe against dependency on foreign AI models",
+      "headline": "US cyber director: Public-private AI collaboration crucial for competition with China",
+      "take": "US cyber director: public-private AI collaboration critical for China competition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lagarde-warns-europe-foreign-ai-reliance/"
+      "link": "https://cryptobriefing.com/us-cyber-director-public-private-ai-collaboration-crucial-for-competition-with/"
+    },
+    {
+      "headline": "Trump to host 3rd \u2018exclusive\u2019 memecoin event amid corruption claims",
+      "take": "Trump hosting third exclusive memecoin event amid corruption allegations",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

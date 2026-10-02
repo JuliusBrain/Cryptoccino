@@ -1,108 +1,114 @@
 {
-  "generated": "2026-10-02T17:54:11.507130+00:00",
-  "ts": 1790963651,
+  "generated": "2026-10-02T22:19:07.205964+00:00",
+  "ts": 1790979547,
   "market": [
     {
-      "headline": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
-      "take": "Bitcoin approaches January highs as sell wall clears amid weak jobs data",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570"
+      "headline": "Bitcoin jumps 42.9% in Q3 2026, leaving gold and stocks behind",
+      "take": "Bitcoin surged 42.9% in Q3, outpacing gold and traditional stocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-jumps-q3-2026-outperforms-gold-stocks/"
     },
     {
-      "headline": "Grayscale\u2019s AI crypto sector gains 54% in September, lapping the broader market",
-      "take": "Grayscale AI crypto sector outperforms broader market with 54% September gain",
+      "headline": "Uniswap leads tokenized stock DEX trading with $17.1 billion in volume",
+      "take": "Uniswap leads tokenized stock DEX trading with $17.1 billion volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-ai-crypto-sector-gains-54-percent-september/"
+      "link": "https://cryptobriefing.com/uniswap-leads-tokenized-stock-dex-trading/"
     },
     {
-      "headline": "El Salvador\u2019s Bitcoin stash sits at $618 million despite IMF strings",
-      "take": "El Salvador's Bitcoin holdings worth $618 million despite IMF pressure",
+      "headline": "Largest cluster of net long Ethereum positions sits at $2,538",
+      "take": "Largest net long Ethereum positions cluster around $2,538 price level",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/el-salvador-bitcoin-reserve-618-million/"
+      "link": "https://cryptobriefing.com/ethereum-net-long-cluster-2538-hyperliquid/"
     },
     {
-      "headline": "Dormant Ethereum wallets stir on September 30 as exchange balances hold steady",
-      "take": "Dormant Ethereum wallets activate on September 30 while exchange balances stabilize",
+      "headline": "Canary amends PEPE ETF filing, signaling renewed crypto market confidence",
+      "take": "Canary amends PEPE ETF filing, signaling renewed crypto market confidence",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-dormant-wallets-move-september-30/"
+      "link": "https://cryptobriefing.com/canary-amends-pepe-etf-filing-signaling-renewed-crypto-market-confidence/"
+    },
+    {
+      "headline": "Fidelity explores broader access to tokenized money market fund",
+      "take": "Fidelity explores broader access to tokenized money market fund products",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fidelity-ethereum-tokenized-money-market-fund/"
     }
   ],
   "business": [
     {
-      "headline": "BNY weighs digital asset infrastructure deal with Kraken parent Payward: CoinDesk",
-      "take": "BNY Mellon in talks with Payward on digital asset infrastructure partnership",
+      "headline": "Robinhood Chain launches first Play2Earn game, Hollowfall, featuring $ORE token",
+      "take": "Robinhood Chain launches Hollowfall, first Play2Earn game on network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bny-talks-kraken-parent-payward-partnership/"
+      "link": "https://cryptobriefing.com/robinhood-chain-hollowfall-play2earn-ore-token/"
     },
     {
-      "headline": "Morpho tops $500M in deposits on Circle\u2019s Arc in just over two weeks",
-      "take": "Morpho surpasses $500M deposits on Circle's Arc in two weeks",
+      "headline": "Backpack brings tokenized BlackRock shares to Solana",
+      "take": "Backpack brings tokenized BlackRock shares to Solana ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-500m-deposits-circle-arc/"
+      "link": "https://cryptobriefing.com/backpack-tokenized-blackrock-blk-solana/"
     },
     {
-      "headline": "Hyperliquid takes HYPE multichain with Solana, Base, and Unichain via Wormhole",
-      "take": "Hyperliquid expands HYPE across Solana, Base, and Unichain via Wormhole",
+      "headline": "Nscale hires former Meta executive Justin Osofsky as COO ahead of US IPO",
+      "take": "Nscale hires former Meta executive Justin Osofsky as COO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-hype-solana-base-unichain-wormhole/"
+      "link": "https://cryptobriefing.com/nscale-hires-justin-osofsky-coo-ipo/"
     },
     {
-      "headline": "Centrifuge brings tokenized Treasury and credit funds to Arc",
-      "take": "Centrifuge brings tokenized Treasury and credit funds to Arc platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-tokenized-funds-arc-blockchain/"
+      "headline": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "take": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership"
     },
     {
-      "headline": "Aave Labs proposes Cayman foundation to hold Aave brand and IP for the DAO",
-      "take": "Aave Labs proposes Cayman foundation to hold brand and IP for DAO",
+      "headline": "Anchorage Digital lays off about 17% of staff as sector-wide cost pressures bite",
+      "take": "Anchorage Digital lays off 17% of staff amid sector cost pressures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-labs-proposes-cayman-foundation-dao-ip/"
+      "link": "https://cryptobriefing.com/anchorage-digital-lays-off-17-percent-staff/"
     }
   ],
   "security": [
     {
-      "headline": "Chainalysis links most of the stolen XRP in $387M Bitget hack to North Korea",
-      "take": "Chainalysis links most stolen XRP from $387M Bitget hack to North Korea",
+      "headline": "Arbitrum pauses new Stylus activations in emergency security action",
+      "take": "Arbitrum pauses new Stylus activations in emergency security action",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-bitget-hack-north-korea-xrp/"
+      "link": "https://cryptobriefing.com/arbitrum-pauses-new-stylus-activations/"
     },
     {
-      "headline": "NEAR Intents recovers $3.8 million from exploit and closes its investigation",
-      "take": "NEAR Intents recovers $3.8 million from exploit and closes investigation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-intents-recovers-exploit-funds/"
-    },
-    {
-      "headline": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
-      "take": "Drift opens exploit recovery claims with initial payouts at 1% of losses",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581"
+      "headline": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+      "take": "Blast Ethereum layer-2 shutting down after assets plunge 98%",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
     }
   ],
   "policy": [
     {
-      "headline": "SEC\u2019s Hester Peirce Departs After Shaping US Crypto Policy for Eight Years",
-      "take": "SEC's Hester Peirce departs after eight years shaping US crypto policy",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/crypto-s-longtime-washington-advocate-departs-sec"
-    },
-    {
-      "headline": "Trump's possible next AI czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
-      "take": "Jay Clayton, possible next AI czar, led SEC's regulation-by-enforcement approach",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec"
-    },
-    {
-      "headline": "Bitpanda CEO says MiCA boosts retail trust in regulated crypto firms",
-      "take": "Bitpanda CEO credits MiCA with boosting retail trust in regulated crypto",
+      "headline": "ICBA sues OCC over crypto trust charters, raising regulatory concerns",
+      "take": "Bank groups sue OCC over crypto trust charter regulatory approvals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitpanda-ceo-mica-retail-trust/"
+      "link": "https://cryptobriefing.com/icba-sues-occ-over-crypto-trust-charters-raising-regulatory-concerns/"
     },
     {
-      "headline": "The SEC is turning crypto custody into a fight over asset coverage",
-      "take": "SEC turning crypto custody into fight over asset coverage requirements",
+      "headline": "SEC Commissioner Hester Peirce exits after eight years as crypto\u2019s most prominent regulatory ally",
+      "take": "SEC Commissioner Hester Peirce exits after eight years shaping crypto policy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-custody-battle-sec-regulation/"
+      "link": "https://cryptobriefing.com/hester-peirce-sec-resignation-crypto-oversight/"
+    },
+    {
+      "headline": "SEC signals more crypto proposals after custody rule overhaul",
+      "take": "SEC signals more crypto proposals following custody rule overhaul",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-plans-more-crypto-regulatory-proposals/"
+    },
+    {
+      "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+      "take": "Circle pushes back on MiCA's bank-deposit mandate for stablecoins",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins"
+    },
+    {
+      "headline": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
+      "take": "European crypto users show more confidence in regulated firms under MiCA",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

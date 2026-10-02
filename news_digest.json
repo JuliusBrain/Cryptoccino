@@ -1,114 +1,126 @@
 {
-  "generated": "2026-10-02T00:51:25.140183+00:00",
-  "ts": 1790902285,
+  "generated": "2026-10-02T09:52:48.098415+00:00",
+  "ts": 1790934768,
   "market": [
     {
-      "headline": "Tokenized real-world assets hit $46.2 billion across 36 chains",
-      "take": "Tokenized real-world assets reached $46.2 billion across 36 blockchain networks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-real-world-assets-hit-46-billion/"
+      "headline": "Bitcoin Rises for Third Straight Week on Strong ETF Demand",
+      "take": "Bitcoin rises third week straight on strong institutional ETF inflows",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/bitcoin-rises-for-third-straight-week-on-strong-etf-demand"
     },
     {
-      "headline": "Coinbase-issued tokenized stocks on Base generated $1.5B in DEX volume over the past 30 days, up 313% vs. the prior 30-day period",
-      "take": "Coinbase tokenized stocks on Base generated $1.5B in DEX volume, up 313%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-issued-tokenized-stocks-on-base-generated-15b-in-dex-volume-over-the/"
+      "headline": "Why rising perpetual funding rates signal growing bullish leverage as bitcoin crosses $86,500",
+      "take": "Perpetual funding rates signal growing bullish leverage as Bitcoin crosses $86,500",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500"
     },
     {
-      "headline": "Bitwise NEAR ETF draws about $9 million in inflows on day three",
-      "take": "Bitwise NEAR ETF drew $9 million in inflows on its third day",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-near-etf-9-million-inflows-day-three/"
+      "headline": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+      "take": "Spot Bitcoin ETFs log $2.7 billion September inflows, institutional demand remains steady",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547"
     },
     {
-      "headline": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
-      "take": "Zcash dropped 21% from recent highs but may have upside remaining",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally"
+      "headline": "Crypto shorts lose $110 million in a 10-minute liquidation burst",
+      "take": "Crypto shorts lose $110 million in ten-minute liquidation burst",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-shorts-110-million-liquidated-10-minutes/"
+    },
+    {
+      "headline": "PIMCO President Stracke says AI demand, not inflation, is pushing yields higher",
+      "take": "AI demand, not inflation, driving yield increases according to PIMCO president",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pimco-stracke-ai-demand-rising-yields/"
     }
   ],
   "business": [
     {
-      "headline": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-      "take": "Ethereum Foundation launched zkAPI for private AI model payments without identity disclosure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504"
+      "headline": "Absa Becomes First African Bank to Offer Digital-Asset Custody",
+      "take": "Absa becomes first African bank offering digital-asset custody services",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/absa-becomes-first-african-bank-to-offer-digital-asset-custody"
     },
     {
-      "headline": "NEAR AI Cloud brings private inference to GitHub Copilot through a VSCode extension",
-      "take": "NEAR AI Cloud integrated private inference into GitHub Copilot via VSCode extension",
+      "headline": "Superhuman acquires GPTZero, the AI detector with $30 million in annual revenue",
+      "take": "Superhuman acquires GPTZero AI detector with $30 million annual revenue",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-ai-private-inference-github-copilot/"
+      "link": "https://cryptobriefing.com/superhuman-acquires-gptzero-ai-detector/"
     },
     {
-      "headline": "Anthropic plans pre-IPO investor day on October 14",
-      "take": "Anthropic plans pre-IPO investor day on October 14",
+      "headline": "Franklin Templeton teams up with ChinaAMC for its first ETFs in Asia",
+      "take": "Franklin Templeton partners with ChinaAMC for first Asia ETFs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-pre-ipo-investor-day-october-14/"
+      "link": "https://cryptobriefing.com/franklin-templeton-chinaamc-asia-etfs/"
     },
     {
-      "headline": "Volantis raises $88M Series A to attack the AI memory bottleneck with light",
-      "take": "Volantis raised $88 million Series A to solve AI memory bottleneck with light",
+      "headline": "Quanta Services posts record revenue as Big Tech pours $735 billion into data centers",
+      "take": "Tech firms pour $735 billion into data centers, Quanta posts record revenue",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/volantis-raises-88m-series-a-ai-memory/"
+      "link": "https://cryptobriefing.com/quanta-services-record-revenue-data-centers/"
     },
     {
-      "headline": "Grok Imagine 1.5 Lite lands on Venice at $0.04 per clip",
-      "take": "Grok Imagine 1.5 Lite launched on Venice platform at $0.04 per clip",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-imagine-lite-venice-ai-video/"
+      "headline": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+      "take": "Tether's USDT returning to Bitcoin over decade after original debut there",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade"
     }
   ],
   "security": [
     {
-      "headline": "How AI Helped Chainalysis Investigators Trace the $387 Million North Korea Stole from Bitget",
-      "take": "AI helped Chainalysis trace $387 million North Korea stole from Bitget",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/387m-bitget-theft-2026/"
-    },
-    {
-      "headline": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-      "take": "China's Moonshot AI reportedly attempted to copy OpenAI's hidden reasoning capabilities",
+      "headline": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+      "take": "Spanish police arrest 16-year-old accused of running KillSec ransomware group",
       "source": "decrypt",
-      "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning"
+      "link": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group"
     },
     {
-      "headline": "Ro Khanna asks top AI labs to disclose Chinese attempts to steal model weights",
-      "take": "Ro Khanna urged top AI labs to disclose Chinese attempts to steal model weights",
+      "headline": "AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers",
+      "take": "AI tools suspected in Shinhan Bank cyberattack exposing 25,000 customers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ro-khanna-ai-labs-chinese-hacking-weights/"
+      "link": "https://cryptobriefing.com/shinhan-bank-ai-cyberattack-25000-customers/"
     },
     {
-      "headline": "US sanctions A7 network for allegedly aiding Iran\u2019s sanctions evasion",
-      "take": "US sanctioned A7 network for allegedly helping Iran evade economic sanctions",
+      "headline": "Aave v3 exploit drains up to $310K after Safe module attack",
+      "take": "Aave v3 exploit drains up to $310K after Safe module attack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-sanctions-a7-network-iran-evasion/"
+      "link": "https://cryptobriefing.com/aave-v3-safe-module-exploit-310k/"
+    },
+    {
+      "headline": "OpenAI fires three researchers over handling of sensitive information",
+      "take": "OpenAI fires three researchers over handling of sensitive information",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-fires-three-researchers-sensitive-information/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-      "take": "SEC proposed framework allowing investment advisers and funds to self-custody crypto",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498"
-    },
-    {
-      "headline": "El Salvador\u2019s economy performs strongly, IMF says, as Bitcoin waiver clears the way for funding",
-      "take": "El Salvador's strong economy performance clears way for IMF funding despite Bitcoin policy",
+      "headline": "Congress weighs letting banks hold crypto, issue stablecoins",
+      "take": "Congress weighs allowing banks to hold crypto and issue stablecoins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/el-salvador-economy-imf-strong-growth/"
+      "link": "https://cryptobriefing.com/congress-weighs-letting-banks-hold-crypto-issue-stablecoins/"
     },
     {
-      "headline": "US cyber director: Public-private AI collaboration crucial for competition with China",
-      "take": "US cyber director: public-private AI collaboration critical for China competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-cyber-director-public-private-ai-collaboration-crucial-for-competition-with/"
-    },
-    {
-      "headline": "Trump to host 3rd \u2018exclusive\u2019 memecoin event amid corruption claims",
-      "take": "Trump hosting third exclusive memecoin event amid corruption allegations",
+      "headline": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+      "take": "South Korea advances tokenized securities rules ahead of 2027 rollout",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "take": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "A7 denies Iran links after US Treasury sanctions the Russian payments network",
+      "take": "A7 Russian payments network denies Iran links after US Treasury sanctions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/a7-denies-iran-links-us-sanctions/"
+    },
+    {
+      "headline": "China puts guardrails on AI companions over social stability concerns",
+      "take": "China puts guardrails on AI companions over social stability concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-regulates-ai-companion-chatbots/"
     }
   ]
 }

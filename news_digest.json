@@ -1,120 +1,53 @@
 {
-  "generated": "2026-10-03T05:24:45.454110+00:00",
-  "ts": 1791005085,
+  "generated": "2026-10-03T11:46:47.407255+00:00",
+  "ts": 1791028007,
   "market": [
     {
+      "headline": "BlackRock\u2019s IBIT buys $195.6 million of Bitcoin in a day, $1.57 billion over the past month",
+      "take": "BlackRock's Bitcoin ETF acquired $1.57B over past month",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-ibit-buys-bitcoin-past-month/"
+    },
+    {
       "headline": "SEC approves 3x leveraged Bitcoin and Ether ETPs, but trading has to wait",
-      "take": "SEC approves leveraged Bitcoin and Ether ETPs pending trading authorization",
+      "take": "SEC approves leveraged Bitcoin and Ether ETPs pending trading launch",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/"
     },
     {
-      "headline": "Uniswap leads tokenized stock DEX trading with $17.1 billion in volume",
-      "take": "Uniswap dominates tokenized stock DEX trading with $17.1B volume",
+      "headline": "Grayscale\u2019s Zcash ETF sheds $93.56 million in a single week",
+      "take": "Grayscale's Zcash ETF lost $93.56M in outflows last week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-leads-tokenized-stock-dex-trading/"
-    },
-    {
-      "headline": "Applied Digital stock rises 5% on Polaris Forge 1 update",
-      "take": "Applied Digital stock rises 5% following Polaris Forge 1 update",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/applied-digital-stock-polaris-forge-update/"
-    },
-    {
-      "headline": "Canary amends PEPE ETF filing, signaling renewed crypto market confidence",
-      "take": "Canary amends PEPE ETF filing signaling renewed crypto market confidence",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canary-amends-pepe-etf-filing-signaling-renewed-crypto-market-confidence/"
-    },
-    {
-      "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
-      "take": "Ethereum Layer-2 Blast shutting down after reaching $2.3B peak",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down"
+      "link": "https://cryptobriefing.com/grayscale-zcash-etf-weekly-outflow/"
     }
   ],
   "business": [
     {
+      "headline": "Hyperliquid receives $15M USDC for HYPE token buybacks",
+      "take": "Hyperliquid secures $15M USDC for HYPE token buyback program",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-receives-15m-usdc-for-hype-token-buybacks/"
+    },
+    {
       "headline": "XRP Asia launches to push XRP Ledger adoption across the region",
-      "take": "XRP Asia launches to expand XRP Ledger adoption across region",
+      "take": "XRP Asia launching to expand XRP Ledger adoption regionally",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/xrp-asia-launches-xrp-ledger-adoption/"
-    },
-    {
-      "headline": "Robinhood Chain launches first Play2Earn game, Hollowfall, featuring $ORE token",
-      "take": "Robinhood Chain launches Play2Earn game Hollowfall with ORE token",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-hollowfall-play2earn-ore-token/"
-    },
-    {
-      "headline": "Backpack brings tokenized BlackRock shares to Solana",
-      "take": "Backpack brings tokenized BlackRock shares to Solana ecosystem",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-tokenized-blackrock-blk-solana/"
-    },
-    {
-      "headline": "Anthropic targets mega-IPO before Thanksgiving, valued at $965B",
-      "take": "Anthropic targets mega-IPO before Thanksgiving valued at $965B",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-targets-mega-ipo-before-thanksgiving-valued-at-965b/"
-    },
-    {
-      "headline": "Anthropic to invest $100 million to train AI engineer talent",
-      "take": "Anthropic invests $100 million to train AI engineer talent pipeline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-to-invest-100-million-to-train-ai-engineer-talent/"
     }
   ],
-  "security": [
-    {
-      "headline": "Arbitrum pauses new Stylus activations in emergency security action",
-      "take": "Arbitrum pauses new Stylus activations in emergency security response",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arbitrum-pauses-new-stylus-activations/"
-    },
-    {
-      "headline": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-      "take": "California subpoenas OpenAI over AI models that hacked out of test",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack"
-    },
-    {
-      "headline": "OpenAI safety transparency lead David Robinson reportedly resigns",
-      "take": "OpenAI safety transparency lead David Robinson reportedly resigns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-safety-lead-david-robinson-resigns/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Global opposition to data centers rises, US states face potential moratoriums",
-      "take": "Global opposition to data centers rises, US states consider moratoriums",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/global-opposition-to-data-centers-rises-us-states-face-potential-moratoriums/"
-    },
-    {
-      "headline": "Kalshi, Coinbase win partial ruling on Illinois sports contracts",
-      "take": "Kalshi and Coinbase win partial ruling on Illinois sports contracts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-coinbase-partial-ruling-illinois-sports-contracts/"
-    },
-    {
-      "headline": "ICBA sues OCC over crypto trust charters, raising regulatory concerns",
-      "take": "ICBA sues OCC over crypto trust charters raising regulatory concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/icba-sues-occ-over-crypto-trust-charters-raising-regulatory-concerns/"
-    },
-    {
-      "headline": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
-      "take": "European crypto users show more faith in regulated firms under MiCA",
+      "headline": "Community banks sue OCC over trust bank charters of crypto firms",
+      "take": "Community banks challenge OCC's crypto firm trust bank charters",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-      "take": "Circle pushes back on MiCA bank-deposit mandate for stablecoins",
-      "source": "decrypt",
-      "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins"
+      "headline": "Hester Peirce argues financial privacy should be the default, not the exception",
+      "take": "Hester Peirce advocates financial privacy as default standard",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hester-peirce-financial-privacy-default/"
     }
   ]
 }

@@ -1,47 +1,102 @@
 {
-  "generated": "2026-10-03T11:46:47.407255+00:00",
-  "ts": 1791028007,
+  "generated": "2026-10-03T16:27:53.182750+00:00",
+  "ts": 1791044873,
   "market": [
     {
       "headline": "BlackRock\u2019s IBIT buys $195.6 million of Bitcoin in a day, $1.57 billion over the past month",
-      "take": "BlackRock's Bitcoin ETF acquired $1.57B over past month",
+      "take": "BlackRock's Bitcoin ETF bought $1.57B in past month",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/blackrock-ibit-buys-bitcoin-past-month/"
     },
     {
-      "headline": "SEC approves 3x leveraged Bitcoin and Ether ETPs, but trading has to wait",
-      "take": "SEC approves leveraged Bitcoin and Ether ETPs pending trading launch",
+      "headline": "Crypto job postings more than triple to 1,241 in September as applications slide",
+      "take": "Crypto job postings tripled in September despite falling applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/"
+      "link": "https://cryptobriefing.com/crypto-job-postings-triple-september-applications-fall/"
     },
     {
       "headline": "Grayscale\u2019s Zcash ETF sheds $93.56 million in a single week",
-      "take": "Grayscale's Zcash ETF lost $93.56M in outflows last week",
+      "take": "Grayscale's Zcash ETF lost $93.56 million in one week",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/grayscale-zcash-etf-weekly-outflow/"
+    },
+    {
+      "headline": "DefiLlama data shows 71% of blockchains generated zero fees in 24 hours",
+      "take": "Over 70% of blockchains generated zero fees in 24 hours",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/defillama-71-percent-blockchains-zero-fees/"
+    },
+    {
+      "headline": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "take": "BlackRock exploring tokenization's potential in investment portfolios",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio"
     }
   ],
   "business": [
     {
+      "headline": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "take": "OpenPayd targets year-end Nasdaq listing for US expansion",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions"
+    },
+    {
       "headline": "Hyperliquid receives $15M USDC for HYPE token buybacks",
-      "take": "Hyperliquid secures $15M USDC for HYPE token buyback program",
+      "take": "Hyperliquid secures $15 million USDC for HYPE token buybacks",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hyperliquid-receives-15m-usdc-for-hype-token-buybacks/"
     },
     {
-      "headline": "XRP Asia launches to push XRP Ledger adoption across the region",
-      "take": "XRP Asia launching to expand XRP Ledger adoption regionally",
+      "headline": "Meta\u2019s Muse turns AI shopping into a checkout with major retail partners",
+      "take": "Meta's Muse brings AI shopping checkout to major retailers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-asia-launches-xrp-ledger-adoption/"
+      "link": "https://cryptobriefing.com/meta-muse-agentic-shopping-retail-partnerships/"
+    },
+    {
+      "headline": "OpenAI suspended PewDiePie twice as he built his Ajax AI model, he says",
+      "take": "OpenAI suspended PewDiePie twice during Ajax AI model development",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-bans-pewdiepie-ajax-ai-model/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Central Bank of Iran plans to block rial accounts tied to crypto exchanges",
+      "take": "Iran's central bank plans to block rial accounts tied to crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/central-bank-iran-block-rial-accounts-tether/"
+    },
+    {
+      "headline": "TRUMP team wallets move $249 million in tokens to exchanges over eight months",
+      "take": "Trump token holders moved $249 million to exchanges in eight months",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-team-transfers-249m-tokens-exchanges/"
+    },
+    {
+      "headline": "OpenAI\u2019s review of rogue agent activity is costing a projected $500,000 a day",
+      "take": "OpenAI's rogue agent review costs estimated $500,000 daily",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-agent-medicare-breach-review-costs/"
+    }
+  ],
   "policy": [
     {
+      "headline": "CLARITY Act stalls in Senate, future uncertain amid political cycles",
+      "take": "CLARITY Act stalls in Senate, future remains uncertain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clarity-act-stalls-in-senate-future-uncertain-amid-political-cycles/"
+    },
+    {
       "headline": "Community banks sue OCC over trust bank charters of crypto firms",
-      "take": "Community banks challenge OCC's crypto firm trust bank charters",
+      "take": "Community banks sue OCC over crypto firm trust charters",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "take": "Trump expected to appoint Jay Clayton as new AI czar",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Hester Peirce argues financial privacy should be the default, not the exception",

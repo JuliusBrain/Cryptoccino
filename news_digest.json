@@ -1,42 +1,48 @@
 {
-  "generated": "2026-10-02T22:19:07.205964+00:00",
-  "ts": 1790979547,
+  "generated": "2026-10-03T05:24:45.454110+00:00",
+  "ts": 1791005085,
   "market": [
     {
-      "headline": "Bitcoin jumps 42.9% in Q3 2026, leaving gold and stocks behind",
-      "take": "Bitcoin surged 42.9% in Q3, outpacing gold and traditional stocks",
+      "headline": "SEC approves 3x leveraged Bitcoin and Ether ETPs, but trading has to wait",
+      "take": "SEC approves leveraged Bitcoin and Ether ETPs pending trading authorization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-jumps-q3-2026-outperforms-gold-stocks/"
+      "link": "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/"
     },
     {
       "headline": "Uniswap leads tokenized stock DEX trading with $17.1 billion in volume",
-      "take": "Uniswap leads tokenized stock DEX trading with $17.1 billion volume",
+      "take": "Uniswap dominates tokenized stock DEX trading with $17.1B volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/uniswap-leads-tokenized-stock-dex-trading/"
     },
     {
-      "headline": "Largest cluster of net long Ethereum positions sits at $2,538",
-      "take": "Largest net long Ethereum positions cluster around $2,538 price level",
+      "headline": "Applied Digital stock rises 5% on Polaris Forge 1 update",
+      "take": "Applied Digital stock rises 5% following Polaris Forge 1 update",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-net-long-cluster-2538-hyperliquid/"
+      "link": "https://cryptobriefing.com/applied-digital-stock-polaris-forge-update/"
     },
     {
       "headline": "Canary amends PEPE ETF filing, signaling renewed crypto market confidence",
-      "take": "Canary amends PEPE ETF filing, signaling renewed crypto market confidence",
+      "take": "Canary amends PEPE ETF filing signaling renewed crypto market confidence",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/canary-amends-pepe-etf-filing-signaling-renewed-crypto-market-confidence/"
     },
     {
-      "headline": "Fidelity explores broader access to tokenized money market fund",
-      "take": "Fidelity explores broader access to tokenized money market fund products",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-ethereum-tokenized-money-market-fund/"
+      "headline": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
+      "take": "Ethereum Layer-2 Blast shutting down after reaching $2.3B peak",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down"
     }
   ],
   "business": [
     {
+      "headline": "XRP Asia launches to push XRP Ledger adoption across the region",
+      "take": "XRP Asia launches to expand XRP Ledger adoption across region",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-asia-launches-xrp-ledger-adoption/"
+    },
+    {
       "headline": "Robinhood Chain launches first Play2Earn game, Hollowfall, featuring $ORE token",
-      "take": "Robinhood Chain launches Hollowfall, first Play2Earn game on network",
+      "take": "Robinhood Chain launches Play2Earn game Hollowfall with ORE token",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/robinhood-chain-hollowfall-play2earn-ore-token/"
     },
@@ -47,68 +53,68 @@
       "link": "https://cryptobriefing.com/backpack-tokenized-blackrock-blk-solana/"
     },
     {
-      "headline": "Nscale hires former Meta executive Justin Osofsky as COO ahead of US IPO",
-      "take": "Nscale hires former Meta executive Justin Osofsky as COO",
+      "headline": "Anthropic targets mega-IPO before Thanksgiving, valued at $965B",
+      "take": "Anthropic targets mega-IPO before Thanksgiving valued at $965B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nscale-hires-justin-osofsky-coo-ipo/"
+      "link": "https://cryptobriefing.com/anthropic-targets-mega-ipo-before-thanksgiving-valued-at-965b/"
     },
     {
-      "headline": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-      "take": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership"
-    },
-    {
-      "headline": "Anchorage Digital lays off about 17% of staff as sector-wide cost pressures bite",
-      "take": "Anchorage Digital lays off 17% of staff amid sector cost pressures",
+      "headline": "Anthropic to invest $100 million to train AI engineer talent",
+      "take": "Anthropic invests $100 million to train AI engineer talent pipeline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anchorage-digital-lays-off-17-percent-staff/"
+      "link": "https://cryptobriefing.com/anthropic-to-invest-100-million-to-train-ai-engineer-talent/"
     }
   ],
   "security": [
     {
       "headline": "Arbitrum pauses new Stylus activations in emergency security action",
-      "take": "Arbitrum pauses new Stylus activations in emergency security action",
+      "take": "Arbitrum pauses new Stylus activations in emergency security response",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/arbitrum-pauses-new-stylus-activations/"
     },
     {
-      "headline": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-      "take": "Blast Ethereum layer-2 shutting down after assets plunge 98%",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
+      "headline": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+      "take": "California subpoenas OpenAI over AI models that hacked out of test",
+      "source": "decrypt",
+      "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack"
+    },
+    {
+      "headline": "OpenAI safety transparency lead David Robinson reportedly resigns",
+      "take": "OpenAI safety transparency lead David Robinson reportedly resigns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-safety-lead-david-robinson-resigns/"
     }
   ],
   "policy": [
     {
+      "headline": "Global opposition to data centers rises, US states face potential moratoriums",
+      "take": "Global opposition to data centers rises, US states consider moratoriums",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/global-opposition-to-data-centers-rises-us-states-face-potential-moratoriums/"
+    },
+    {
+      "headline": "Kalshi, Coinbase win partial ruling on Illinois sports contracts",
+      "take": "Kalshi and Coinbase win partial ruling on Illinois sports contracts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-coinbase-partial-ruling-illinois-sports-contracts/"
+    },
+    {
       "headline": "ICBA sues OCC over crypto trust charters, raising regulatory concerns",
-      "take": "Bank groups sue OCC over crypto trust charter regulatory approvals",
+      "take": "ICBA sues OCC over crypto trust charters raising regulatory concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/icba-sues-occ-over-crypto-trust-charters-raising-regulatory-concerns/"
     },
     {
-      "headline": "SEC Commissioner Hester Peirce exits after eight years as crypto\u2019s most prominent regulatory ally",
-      "take": "SEC Commissioner Hester Peirce exits after eight years shaping crypto policy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hester-peirce-sec-resignation-crypto-oversight/"
-    },
-    {
-      "headline": "SEC signals more crypto proposals after custody rule overhaul",
-      "take": "SEC signals more crypto proposals following custody rule overhaul",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-plans-more-crypto-regulatory-proposals/"
+      "headline": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
+      "take": "European crypto users show more faith in regulated firms under MiCA",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-      "take": "Circle pushes back on MiCA's bank-deposit mandate for stablecoins",
+      "take": "Circle pushes back on MiCA bank-deposit mandate for stablecoins",
       "source": "decrypt",
       "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins"
-    },
-    {
-      "headline": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
-      "take": "European crypto users show more confidence in regulated firms under MiCA",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

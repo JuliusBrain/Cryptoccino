@@ -1,72 +1,102 @@
 {
-  "generated": "2026-10-04T12:29:05.208870+00:00",
-  "ts": 1791116945,
+  "generated": "2026-10-04T18:39:57.136123+00:00",
+  "ts": 1791139197,
   "market": [
     {
-      "headline": "ARK\u2019s Cathie Wood counters Bill Ackman\u2019s inflation warning",
-      "take": "Cathie Wood disputes Bill Ackman's inflation warning outlook",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cathie-wood-counters-bill-ackman-inflation/"
+      "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "take": "Bitcoin ETFs attracted $134 million as October trading began",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
     },
     {
-      "headline": "Wall Street IPO activity slows amid valuation concerns: FT",
-      "take": "Wall Street IPO activity declines amid growing valuation concerns",
+      "headline": "Tokenized stocks on Solana hit $12.4 billion in DEX volume this year",
+      "take": "Solana tokenized stocks reached $12.4 billion in DEX volume yearly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wall-street-ipo-activity-slows-amid-valuation-concerns-ft/"
+      "link": "https://cryptobriefing.com/solana-tokenized-stocks-12-billion-dex-volume/"
+    },
+    {
+      "headline": "RWA Foundation reports $6.2 billion tokenized credit market as holders climb 12.1%",
+      "take": "Tokenized credit market grew to $6.2 billion with 12.1% holder increase",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rwa-foundation-tokenized-credit-q3-report/"
+    },
+    {
+      "headline": "Binance\u2019s SAFU fund holds $1.27B in Bitcoin, sits on about $270M profit",
+      "take": "Binance's SAFU fund holds $1.27B in Bitcoin with $270M profit",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-safu-fund-bitcoin-270m-profit/"
+    },
+    {
+      "headline": "Michael Burry more confident than ever AI bubble will burst within a year, targets Micron and Nebius",
+      "take": "Michael Burry predicts AI bubble will burst within one year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/michael-burry-ai-bubble-micron-nebius-puts/"
     }
   ],
   "business": [
     {
-      "headline": "Cerebras sidesteps AI chip supply bottlenecks with 5nm wafer-scale design",
-      "take": "Cerebras develops 5nm wafer-scale chip design avoiding supply bottlenecks",
+      "headline": "Tempo leads stablecoin market cap growth with $462M increase",
+      "take": "Tempo leads stablecoin growth with $462 million market cap increase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cerebras-5nm-chips-sidestep-supply-bottlenecks/"
+      "link": "https://cryptobriefing.com/tempo-stablecoin-market-cap-growth-ousd/"
     },
     {
-      "headline": "Anthropic asks Claude users to share conversations for AI training",
-      "take": "Anthropic requests users share conversations to improve Claude training",
+      "headline": "Open Standard\u2019s OUSD stablecoin reaches $666.3 million market cap",
+      "take": "Open Standard's OUSD stablecoin reached $666.3 million market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data/"
+      "link": "https://cryptobriefing.com/open-standard-ousd-stablecoin-market-cap/"
     },
     {
-      "headline": "Hong Kong bankers skip summer break as AI drives record fundraising",
-      "take": "Hong Kong bankers cancel summer breaks for record AI fundraising activity",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-ai-record-fundraising-quarter/"
+      "headline": "Crypto poured years into new products. The next challenge is keeping users",
+      "take": "Crypto products built; next challenge is retaining user adoption long-term",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users"
     }
   ],
   "security": [
     {
-      "headline": "Philippine court freezes 25 crypto wallets and 86 bank accounts in flood control probe",
-      "take": "Philippine court freezes 25 crypto wallets in flood control investigation",
+      "headline": "OpenAI faces legal crisis after its AI agents hacked firms and governments",
+      "take": "OpenAI faces legal crisis after its AI agents hacked firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/philippine-court-freezes-crypto-wallets-flood-probe/"
+      "link": "https://cryptobriefing.com/openai-ai-agents-hacking-lawsuit/"
+    },
+    {
+      "headline": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+      "take": "Near Intents recovered $3.8 million after 48-hour extortion ultimatum",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum"
     }
   ],
   "policy": [
     {
-      "headline": "Japan sanctions Garantex, freezing assets of exchange tied to $96B in crypto transactions",
-      "take": "Japan sanctions Garantex exchange linked to ninety-six billion dollar transactions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-sanctions-garantex-crypto-exchange/"
+      "headline": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "take": "Trump appoints Jay Clayton, Ripple's SEC adversary, to lead AI initiative",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence"
     },
     {
-      "headline": "US advances crypto policy despite CLARITY Act stall",
-      "take": "US advances crypto policy framework despite CLARITY Act legislative stall",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-advances-crypto-policy-despite-clarity-act-stall/"
+      "headline": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "take": "Japan sanctioned Garantex exchange over Ukraine war-related Russian ties",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+      "take": "Banking group sues to block crypto's unauthorized entry into banking system",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking"
+    },
+    {
+      "headline": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
+      "take": "Clarity Act stalled but bankers continue crypto dealmaking activity",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet"
     },
     {
       "headline": "Russia\u2019s Finance Ministry pays wages in digital rubles for first time",
-      "take": "Russia's Finance Ministry pays wages in digital rubles for first time",
+      "take": "Russia's Finance Ministry paid wages in digital rubles for first time",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
-      "take": "Trump appoints Jay Clayton to lead new artificial intelligence task force",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-appoints-jay-clayton-ai-czar/"
     }
   ]
 }

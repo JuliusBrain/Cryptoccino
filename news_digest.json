@@ -1,45 +1,39 @@
 {
-  "generated": "2026-10-04T18:39:57.136123+00:00",
-  "ts": 1791139197,
+  "generated": "2026-10-04T23:58:43.883303+00:00",
+  "ts": 1791158323,
   "market": [
     {
       "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-      "take": "Bitcoin ETFs attracted $134 million as October trading began",
+      "take": "Bitcoin ETFs attracted $134 million inflows as October began",
       "source": "decrypt",
       "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
     },
     {
+      "headline": "Base pulls in $4.7 billion in net inflows since January 1",
+      "take": "Base blockchain accumulated $4.7 billion in net inflows since January",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/base-net-inflows-4-7-billion-2026/"
+    },
+    {
+      "headline": "Cathie Wood predicts Bitcoin could surge 1,665% by 2030",
+      "take": "Cathie Wood projects Bitcoin could surge 1,665 percent by 2030",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cathie-wood-bitcoin-price-prediction-2030/"
+    },
+    {
       "headline": "Tokenized stocks on Solana hit $12.4 billion in DEX volume this year",
-      "take": "Solana tokenized stocks reached $12.4 billion in DEX volume yearly",
+      "take": "Tokenized stocks on Solana reached $12.4 billion in DEX volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-tokenized-stocks-12-billion-dex-volume/"
     },
     {
       "headline": "RWA Foundation reports $6.2 billion tokenized credit market as holders climb 12.1%",
-      "take": "Tokenized credit market grew to $6.2 billion with 12.1% holder increase",
+      "take": "Tokenized credit market grew to $6.2 billion with rising holders",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/rwa-foundation-tokenized-credit-q3-report/"
-    },
-    {
-      "headline": "Binance\u2019s SAFU fund holds $1.27B in Bitcoin, sits on about $270M profit",
-      "take": "Binance's SAFU fund holds $1.27B in Bitcoin with $270M profit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-safu-fund-bitcoin-270m-profit/"
-    },
-    {
-      "headline": "Michael Burry more confident than ever AI bubble will burst within a year, targets Micron and Nebius",
-      "take": "Michael Burry predicts AI bubble will burst within one year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/michael-burry-ai-bubble-micron-nebius-puts/"
     }
   ],
   "business": [
-    {
-      "headline": "Tempo leads stablecoin market cap growth with $462M increase",
-      "take": "Tempo leads stablecoin growth with $462 million market cap increase",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tempo-stablecoin-market-cap-growth-ousd/"
-    },
     {
       "headline": "Open Standard\u2019s OUSD stablecoin reaches $666.3 million market cap",
       "take": "Open Standard's OUSD stablecoin reached $666.3 million market cap",
@@ -47,56 +41,62 @@
       "link": "https://cryptobriefing.com/open-standard-ousd-stablecoin-market-cap/"
     },
     {
+      "headline": "Reflection AI to release open-weight model aimed at DeepSeek and Qwen",
+      "take": "Reflection AI releasing open-weight model to compete with DeepSeek",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/reflection-ai-open-weight-model-deepseek-qwen/"
+    },
+    {
       "headline": "Crypto poured years into new products. The next challenge is keeping users",
-      "take": "Crypto products built; next challenge is retaining user adoption long-term",
+      "take": "Crypto platforms built new products; user retention remains key challenge",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users"
+    },
+    {
+      "headline": "Binance\u2019s SAFU fund holds $1.27B in Bitcoin, sits on about $270M profit",
+      "take": "Binance's SAFU fund holds $1.27 billion in Bitcoin reserves",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-safu-fund-bitcoin-270m-profit/"
     }
   ],
   "security": [
     {
       "headline": "OpenAI faces legal crisis after its AI agents hacked firms and governments",
-      "take": "OpenAI faces legal crisis after its AI agents hacked firms",
+      "take": "OpenAI faces legal action after AI agents breached firms, governments",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-ai-agents-hacking-lawsuit/"
     },
     {
       "headline": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-      "take": "Near Intents recovered $3.8 million after 48-hour extortion ultimatum",
+      "take": "Near Intents recovered $3.8 million after issuing 48-hour ultimatum",
       "source": "decrypt",
       "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum"
     }
   ],
   "policy": [
     {
-      "headline": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "take": "Trump appoints Jay Clayton, Ripple's SEC adversary, to lead AI initiative",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence"
+      "headline": "Zcash advocacy group registers its first lobbyist in Washington",
+      "take": "Zcash advocacy group registered its first lobbyist in Washington",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/zcash-advocacy-group-registers-first-lobbyist/"
+    },
+    {
+      "headline": "Punchbowl News survey shows Hill aides doubt crypto tax bill passes this year",
+      "take": "Congressional aides doubt crypto tax bill will pass this year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hill-aides-doubt-crypto-tax-bill-2026/"
     },
     {
       "headline": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "take": "Japan sanctioned Garantex exchange over Ukraine war-related Russian ties",
+      "take": "Japan sanctioned Garantex exchange over Russia-Ukraine war ties",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-      "take": "Banking group sues to block crypto's unauthorized entry into banking system",
+      "headline": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "take": "Trump named Jay Clayton, former SEC chair, to lead AI push",
       "source": "decrypt",
-      "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking"
-    },
-    {
-      "headline": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
-      "take": "Clarity Act stalled but bankers continue crypto dealmaking activity",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet"
-    },
-    {
-      "headline": "Russia\u2019s Finance Ministry pays wages in digital rubles for first time",
-      "take": "Russia's Finance Ministry paid wages in digital rubles for first time",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence"
     }
   ]
 }

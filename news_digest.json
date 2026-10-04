@@ -1,60 +1,72 @@
 {
-  "generated": "2026-10-04T06:00:49.042616+00:00",
-  "ts": 1791093649,
+  "generated": "2026-10-04T12:29:05.208870+00:00",
+  "ts": 1791116945,
   "market": [
     {
-      "headline": "Ethereum unstaking queue surges 392% since October start",
-      "take": "Ethereum unstaking queue surges sharply, signals potential validator exodus concerns",
+      "headline": "ARK\u2019s Cathie Wood counters Bill Ackman\u2019s inflation warning",
+      "take": "Cathie Wood disputes Bill Ackman's inflation warning outlook",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-unstaking-queue-surges-392-percent/"
+      "link": "https://cryptobriefing.com/cathie-wood-counters-bill-ackman-inflation/"
+    },
+    {
+      "headline": "Wall Street IPO activity slows amid valuation concerns: FT",
+      "take": "Wall Street IPO activity declines amid growing valuation concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wall-street-ipo-activity-slows-amid-valuation-concerns-ft/"
     }
   ],
   "business": [
     {
-      "headline": "Aleph Alpha releases Kolibri, a 78B-parameter open-weight AI model built in Europe",
-      "take": "Aleph Alpha releases open-weight European AI model competing with US giants",
+      "headline": "Cerebras sidesteps AI chip supply bottlenecks with 5nm wafer-scale design",
+      "take": "Cerebras develops 5nm wafer-scale chip design avoiding supply bottlenecks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aleph-alpha-releases-kolibri-ai-model/"
+      "link": "https://cryptobriefing.com/cerebras-5nm-chips-sidestep-supply-bottlenecks/"
+    },
+    {
+      "headline": "Anthropic asks Claude users to share conversations for AI training",
+      "take": "Anthropic requests users share conversations to improve Claude training",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data/"
     },
     {
       "headline": "Hong Kong bankers skip summer break as AI drives record fundraising",
-      "take": "Hong Kong banking sector sees record AI-driven fundraising activity despite summer",
+      "take": "Hong Kong bankers cancel summer breaks for record AI fundraising activity",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hong-kong-ai-record-fundraising-quarter/"
-    },
-    {
-      "headline": "VIS weighs second Singapore plant as AI demand fills its first fab",
-      "take": "Semiconductor firm VIS expands Singapore capacity as AI chip demand accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vis-second-singapore-plant-ai-demand/"
-    },
-    {
-      "headline": "Meta, Duke and UC Davis researchers unveil self-improving branches for agent harness optimization",
-      "take": "Meta and researchers advance self-improving AI agent optimization techniques",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-self-improving-agent-harness-optimization/"
     }
   ],
   "security": [
     {
-      "headline": "GitHub reinstates controversial \u2018AI torture chamber\u2019 repository after backlash",
-      "take": "GitHub restores AI security research repository following community pressure",
+      "headline": "Philippine court freezes 25 crypto wallets and 86 bank accounts in flood control probe",
+      "take": "Philippine court freezes 25 crypto wallets in flood control investigation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/github-reinstates-ai-torture-chamber-repository/"
+      "link": "https://cryptobriefing.com/philippine-court-freezes-crypto-wallets-flood-probe/"
     }
   ],
   "policy": [
     {
-      "headline": "US Super Intelligence Force gets 120 days to report on AI risks",
-      "take": "US Super Intelligence Force gets 120 days to assess AI-related risks",
+      "headline": "Japan sanctions Garantex, freezing assets of exchange tied to $96B in crypto transactions",
+      "take": "Japan sanctions Garantex exchange linked to ninety-six billion dollar transactions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/super-intelligence-force-ai-risks-report/"
+      "link": "https://cryptobriefing.com/japan-sanctions-garantex-crypto-exchange/"
     },
     {
-      "headline": "AWS ends NDAs with government agencies amid data center transparency push",
-      "take": "AWS drops NDAs with government agencies to increase data center transparency",
+      "headline": "US advances crypto policy despite CLARITY Act stall",
+      "take": "US advances crypto policy framework despite CLARITY Act legislative stall",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aws-ends-ndas-with-government-agencies-amid-data-center-transparency-push/"
+      "link": "https://cryptobriefing.com/us-advances-crypto-policy-despite-clarity-act-stall/"
+    },
+    {
+      "headline": "Russia\u2019s Finance Ministry pays wages in digital rubles for first time",
+      "take": "Russia's Finance Ministry pays wages in digital rubles for first time",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
+      "take": "Trump appoints Jay Clayton to lead new artificial intelligence task force",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-appoints-jay-clayton-ai-czar/"
     }
   ]
 }

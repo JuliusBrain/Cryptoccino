@@ -1,102 +1,60 @@
 {
-  "generated": "2026-10-03T21:24:13.471336+00:00",
-  "ts": 1791062653,
+  "generated": "2026-10-04T06:00:49.042616+00:00",
+  "ts": 1791093649,
   "market": [
     {
       "headline": "Ethereum unstaking queue surges 392% since October start",
-      "take": "Ethereum unstaking queue surges 392 percent since October began",
+      "take": "Ethereum unstaking queue surges sharply, signals potential validator exodus concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-unstaking-queue-surges-392-percent/"
-    },
-    {
-      "headline": "Crypto job postings more than triple to 1,241 in September as applications slide",
-      "take": "Crypto job postings triple to 1,241 in September; applications decline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-job-postings-triple-september-applications-fall/"
-    },
-    {
-      "headline": "DefiLlama data shows 71% of blockchains generated zero fees in 24 hours",
-      "take": "71 percent of blockchains generated zero fees in last 24 hours",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defillama-71-percent-blockchains-zero-fees/"
-    },
-    {
-      "headline": "TRUMP team wallets move $249 million in tokens to exchanges over eight months",
-      "take": "TRUMP team moved 249 million dollars in tokens to exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-team-transfers-249m-tokens-exchanges/"
-    },
-    {
-      "headline": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "take": "BlackRock explores how tokenization could reshape investment portfolios",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio"
     }
   ],
   "business": [
     {
-      "headline": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "take": "OpenPayd targets year-end Nasdaq listing for U.S. expansion",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions"
+      "headline": "Aleph Alpha releases Kolibri, a 78B-parameter open-weight AI model built in Europe",
+      "take": "Aleph Alpha releases open-weight European AI model competing with US giants",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aleph-alpha-releases-kolibri-ai-model/"
     },
     {
-      "headline": "Injective activates first meme perp treasury for RUNNER token",
-      "take": "Injective launches first meme perp treasury for RUNNER token",
+      "headline": "Hong Kong bankers skip summer break as AI drives record fundraising",
+      "take": "Hong Kong banking sector sees record AI-driven fundraising activity despite summer",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-runner-meme-perp-treasury/"
+      "link": "https://cryptobriefing.com/hong-kong-ai-record-fundraising-quarter/"
     },
     {
-      "headline": "Stacks Labs CTO Adriano Di Luzio outlines what changes with PoX-6",
-      "take": "Stacks Labs outlines protocol changes with PoX-6 activation",
+      "headline": "VIS weighs second Singapore plant as AI demand fills its first fab",
+      "take": "Semiconductor firm VIS expands Singapore capacity as AI chip demand accelerates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-labs-cto-pox-6-features/"
+      "link": "https://cryptobriefing.com/vis-second-singapore-plant-ai-demand/"
     },
     {
-      "headline": "Meta\u2019s Muse turns AI shopping into a checkout with major retail partners",
-      "take": "Meta's Muse enables AI shopping checkout with major retailers",
+      "headline": "Meta, Duke and UC Davis researchers unveil self-improving branches for agent harness optimization",
+      "take": "Meta and researchers advance self-improving AI agent optimization techniques",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-muse-agentic-shopping-retail-partnerships/"
+      "link": "https://cryptobriefing.com/meta-self-improving-agent-harness-optimization/"
     }
   ],
   "security": [
     {
-      "headline": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-      "take": "Chainalysis traced 387 million dollar Bitget hack to North Korea",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea"
-    },
-    {
-      "headline": "Central Bank of Iran plans to block rial accounts tied to crypto exchanges",
-      "take": "Central Bank of Iran plans to block rial accounts tied to crypto exchanges",
+      "headline": "GitHub reinstates controversial \u2018AI torture chamber\u2019 repository after backlash",
+      "take": "GitHub restores AI security research repository following community pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/central-bank-iran-block-rial-accounts-tether/"
+      "link": "https://cryptobriefing.com/github-reinstates-ai-torture-chamber-repository/"
     }
   ],
   "policy": [
     {
-      "headline": "CLARITY Act stalls in Senate, future uncertain amid political cycles",
-      "take": "CLARITY Act stalls in Senate; future uncertain amid political cycles",
+      "headline": "US Super Intelligence Force gets 120 days to report on AI risks",
+      "take": "US Super Intelligence Force gets 120 days to assess AI-related risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clarity-act-stalls-in-senate-future-uncertain-amid-political-cycles/"
+      "link": "https://cryptobriefing.com/super-intelligence-force-ai-risks-report/"
     },
     {
-      "headline": "Kalshi faces legal battles as US sports betting hits $166B",
-      "take": "Kalshi faces legal battles as U.S. sports betting reaches 166 billion dollars",
+      "headline": "AWS ends NDAs with government agencies amid data center transparency push",
+      "take": "AWS drops NDAs with government agencies to increase data center transparency",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-legal-battles-us-sports-betting/"
-    },
-    {
-      "headline": "Trump unveils voluntary AI safety accord with six tech giants",
-      "take": "Trump unveils voluntary AI safety accord with six tech companies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-voluntary-ai-safety-accord-tech-leaders/"
-    },
-    {
-      "headline": "Community banks sue OCC over trust bank charters of crypto firms",
-      "take": "Community banks sue OCC over trust charters for crypto firms",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/aws-ends-ndas-with-government-agencies-amid-data-center-transparency-push/"
     }
   ]
 }

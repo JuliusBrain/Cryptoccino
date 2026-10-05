@@ -1,96 +1,96 @@
 {
-  "generated": "2026-10-05T14:51:56.113660+00:00",
-  "ts": 1791211916,
+  "generated": "2026-10-05T22:03:27.746183+00:00",
+  "ts": 1791237807,
   "market": [
     {
-      "headline": "\u2018More orange than ever\u2019: Michael Saylor\u2019s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
-      "take": "MicroStrategy adds 334 bitcoin to reach 848,000 total holdings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631"
-    },
-    {
-      "headline": "VanEck BNB ETF reports $97M inflow on Friday as trackers show a quieter picture",
-      "take": "VanEck BNB ETF sees $97M inflow as tracker activity quiets",
+      "headline": "Ethereum exit queue eases to 767,349 ETH after MetaMask exits",
+      "take": "Ethereum exit queue eases as staking demand remains strong",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vaneck-bnb-etf-97m-inflow-friday/"
+      "link": "https://cryptobriefing.com/ethereum-exit-queue-eases-metamask-exits/"
     },
     {
-      "headline": "Tom Lee says ether \u2018dwarfing other macro assets\u2019 as Bitmine adds 15,112 ETH",
-      "take": "Ethereum accumulation accelerates as institutional interest shows signs",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660"
-    },
-    {
-      "headline": "Derive leads onchain options market as volume doubles to $5B",
-      "take": "Onchain options volume doubles to $5B with Derive leading market",
+      "headline": "Aave raises core GHO borrow rate as redemption reserves run thin",
+      "take": "Aave raises GHO borrow rate as redemption reserves tighten",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/derive-leads-onchain-options-volume-doubles/"
+      "link": "https://cryptobriefing.com/aave-raises-gho-borrow-rate-reserves/"
     },
     {
-      "headline": "Meme coins hit record low share of altcoin market, CryptoQuant analyst says",
-      "take": "Meme coins fall to record low share of altcoin market value",
+      "headline": "Umia token trades near $40M valuation after auction backed by Galaxy, DCG, and Draper Associates",
+      "take": "Umia token trades near $40M valuation with major backer support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meme-coins-record-low-altcoin-share/"
+      "link": "https://cryptobriefing.com/umia-token-auction-galaxy-dcg-draper/"
+    },
+    {
+      "headline": "Binance enables 1:1 conversion between stocks and bStocks",
+      "take": "Binance enables direct conversion between stocks and tokenized versions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-bstocks-1-1-stock-conversion/"
     }
   ],
   "business": [
     {
-      "headline": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "take": "Stripe expands stablecoin cards to over 100 countries by year-end",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year"
+      "headline": "Modern Treasury seeks US trust bank charter for digital asset custody",
+      "take": "Modern Treasury seeks US trust bank charter for digital custody",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/modern-treasury-occ-trust-bank-charter/"
     },
     {
-      "headline": "OKX and ICE tap Uniswap v4 hooks for a tokenized stock venue",
-      "take": "OKX and ICE build tokenized stock trading venue on Uniswap",
+      "headline": "Anchorage Digital expands USD accounts and SWIFT access through Standard Chartered",
+      "take": "Anchorage Digital expands USD accounts with Standard Chartered partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okx-ice-uniswap-v4-hooks-tokenized-stocks/"
+      "link": "https://cryptobriefing.com/anchorage-digital-expands-usd-accounts-and-swift-access-through-standard-chartered/"
     },
     {
-      "headline": "HIVE Digital\u2019s BUZZ HPC turns Bitcoin mining sites into Canadian AI infrastructure",
-      "take": "HIVE Digital converts Canadian bitcoin mines into AI infrastructure hubs",
+      "headline": "Solana\u2019s Stocklana hackathon draws 604 submissions chasing $126K in prizes",
+      "take": "Solana hackathon draws 604 submissions competing for $126K prizes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hive-buzz-hpc-canadian-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/solana-stocklana-hackathon-604-submissions/"
     },
     {
-      "headline": "TeraWulf doubles contracted power at Muskie AI/HPC campus to 1 GW",
-      "take": "TeraWulf doubles contracted power at AI campus to 1 gigawatt",
+      "headline": "Flying Tulip\u2019s NFT options market tops $5M in volume, says Cronje",
+      "take": "Flying Tulip's NFT options market surpasses $5M trading volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/terawulf-doubles-muskie-campus-power-1-gw/"
-    },
-    {
-      "headline": "Tim Draper\u2019s VC firm backs Xverse in round to build Bitcoin neobank",
-      "take": "Tim Draper backs Xverse in bitcoin neobank funding round",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/draper-associates-backs-xverse-bitcoin-neobank/"
+      "link": "https://cryptobriefing.com/flying-tulip-ftput-nft-options-5m-volume/"
     }
   ],
   "security": [
     {
-      "headline": "Researchers track Chinese AI agent fleet operating on Tencent infrastructure",
-      "take": "Researchers identify Chinese AI agent fleet operating on Tencent systems",
+      "headline": "Base vault drained of $6M in Aave deposit tokens after whitelist change",
+      "take": "Base vault drained of $6M in Aave tokens after whitelist change",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chinese-ai-agent-fleet-tencent-amap/"
+      "link": "https://cryptobriefing.com/base-vault-drained-6m-aave-whitelist/"
     },
     {
-      "headline": "OpenAI safety leader resigns, raising governance concerns",
-      "take": "OpenAI safety leader resigns, prompting governance concerns",
+      "headline": "ZachXBT fronted $349,700 to get inside an alleged Lazarus laundering ring",
+      "take": "ZachXBT fronted $350K to infiltrate alleged Lazarus laundering operation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-safety-leader-resigns-raising-governance-concerns/"
+      "link": "https://cryptobriefing.com/zachxbt-fronts-349700-lazarus-laundering-ring/"
+    },
+    {
+      "headline": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+      "take": "Anthropic employee reported user's private Claude conversations to police",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury withdraws proposed crypto rules on unhosted wallets, mixers",
-      "take": "US Treasury withdraws proposed crypto surveillance rules on wallets",
+      "headline": "Fairshake PAC backs 32 House incumbents who voted for the CLARITY Act",
+      "take": "Fairshake PAC backs 32 House incumbents who supported CLARITY Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-withdraws-proposed-crypto-rules-on-unhosted-wallets-mixers/"
+      "link": "https://cryptobriefing.com/fairshake-pac-backs-32-house-candidates/"
     },
     {
-      "headline": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
-      "take": "SEC coordinates with global regulators for fraud awareness campaign",
-      "source": "sec_press",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
+      "headline": "FinCEN withdraws proposed crypto mixing rule over \u2018legitimate activity\u2019 concerns",
+      "take": "FinCEN withdraws crypto mixing rule citing legitimate activity concerns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC no-action letter lets exchanges turn crypto futures into true perpetuals",
+      "take": "CFTC no-action letter allows exchanges to offer true perpetual contracts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-no-action-letter-perpetual-futures/"
     }
   ]
 }

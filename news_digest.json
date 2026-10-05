@@ -1,102 +1,83 @@
 {
-  "generated": "2026-10-04T23:58:43.883303+00:00",
-  "ts": 1791158323,
+  "generated": "2026-10-05T05:50:13.555960+00:00",
+  "ts": 1791179413,
   "market": [
     {
-      "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-      "take": "Bitcoin ETFs attracted $134 million inflows as October began",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
+      "headline": "Spot Bitcoin ETFs see $241M in net inflows for third straight week",
+      "take": "Spot Bitcoin ETFs attract $241M inflows for third consecutive week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-241m-inflows-third-week/"
+    },
+    {
+      "headline": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "take": "Bitcoin approaches $87K then reverses; eight-month high nearby",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses"
+    },
+    {
+      "headline": "Crypto bears get squeezed as $113 million in shorts liquidated in 24 hours",
+      "take": "$113M in crypto shorts liquidated within single 24-hour period",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-short-liquidations-113-million-24-hours/"
+    },
+    {
+      "headline": "Ethereum liquidity drops below 50% of Bitcoin\u2019s level",
+      "take": "Ethereum liquidity falls below half of Bitcoin's current level",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-liquidity-drops-below-bitcoin-50-percent/"
     },
     {
       "headline": "Base pulls in $4.7 billion in net inflows since January 1",
-      "take": "Base blockchain accumulated $4.7 billion in net inflows since January",
+      "take": "Base network sees $4.7B net inflows since January start",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/base-net-inflows-4-7-billion-2026/"
-    },
-    {
-      "headline": "Cathie Wood predicts Bitcoin could surge 1,665% by 2030",
-      "take": "Cathie Wood projects Bitcoin could surge 1,665 percent by 2030",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cathie-wood-bitcoin-price-prediction-2030/"
-    },
-    {
-      "headline": "Tokenized stocks on Solana hit $12.4 billion in DEX volume this year",
-      "take": "Tokenized stocks on Solana reached $12.4 billion in DEX volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-tokenized-stocks-12-billion-dex-volume/"
-    },
-    {
-      "headline": "RWA Foundation reports $6.2 billion tokenized credit market as holders climb 12.1%",
-      "take": "Tokenized credit market grew to $6.2 billion with rising holders",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rwa-foundation-tokenized-credit-q3-report/"
     }
   ],
   "business": [
     {
-      "headline": "Open Standard\u2019s OUSD stablecoin reaches $666.3 million market cap",
-      "take": "Open Standard's OUSD stablecoin reached $666.3 million market cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/open-standard-ousd-stablecoin-market-cap/"
-    },
-    {
-      "headline": "Reflection AI to release open-weight model aimed at DeepSeek and Qwen",
-      "take": "Reflection AI releasing open-weight model to compete with DeepSeek",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reflection-ai-open-weight-model-deepseek-qwen/"
-    },
-    {
-      "headline": "Crypto poured years into new products. The next challenge is keeping users",
-      "take": "Crypto platforms built new products; user retention remains key challenge",
+      "headline": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "take": "OKX and ICE joint venture files for 24/7 tokenized US stock trading",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users"
+      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks"
     },
     {
-      "headline": "Binance\u2019s SAFU fund holds $1.27B in Bitcoin, sits on about $270M profit",
-      "take": "Binance's SAFU fund holds $1.27 billion in Bitcoin reserves",
+      "headline": "Payward partners with Singapore Gulf Bank for 24/7 settlement services",
+      "take": "Payward partners with Singapore Gulf Bank for round-the-clock settlement",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-safu-fund-bitcoin-270m-profit/"
-    }
-  ],
-  "security": [
-    {
-      "headline": "OpenAI faces legal crisis after its AI agents hacked firms and governments",
-      "take": "OpenAI faces legal action after AI agents breached firms, governments",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-agents-hacking-lawsuit/"
+      "link": "https://cryptobriefing.com/payward-singapore-gulf-bank-24-7-settlement/"
     },
     {
-      "headline": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-      "take": "Near Intents recovered $3.8 million after issuing 48-hour ultimatum",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum"
+      "headline": "Bitwise brings its PAPY vault to Circle\u2019s Arc for USDC-based RWA lending",
+      "take": "Bitwise brings PAPY vault to Circle Arc for USDC-backed lending",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-papy-vault-arc-rwa-lending/"
+    },
+    {
+      "headline": "S&P Global Ratings launches risk assessment framework for onchain lending vaults",
+      "take": "S&P Global Ratings launches risk framework for onchain lending vaults",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp-global-ratings-onchain-lending-vaults/"
     }
   ],
+  "security": [],
   "policy": [
     {
-      "headline": "Zcash advocacy group registers its first lobbyist in Washington",
-      "take": "Zcash advocacy group registered its first lobbyist in Washington",
+      "headline": "Zcash hires Washington lobbyist to influence crypto policy",
+      "take": "Zcash hires Washington lobbyist to influence US crypto policy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-advocacy-group-registers-first-lobbyist/"
+      "link": "https://cryptobriefing.com/zcash-hires-washington-lobbyist-to-influence-crypto-policy/"
     },
     {
       "headline": "Punchbowl News survey shows Hill aides doubt crypto tax bill passes this year",
-      "take": "Congressional aides doubt crypto tax bill will pass this year",
+      "take": "Hill aides doubt crypto tax bill passage this year per survey",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/hill-aides-doubt-crypto-tax-bill-2026/"
     },
     {
-      "headline": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "take": "Japan sanctioned Garantex exchange over Russia-Ukraine war ties",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "take": "Trump named Jay Clayton, former SEC chair, to lead AI push",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence"
+      "headline": "Trump unveils voluntary AI accord as lawmakers push for real oversight",
+      "take": "Trump unveils voluntary AI accord while lawmakers push stricter oversight",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-ai-accord-lawmakers-oversight/"
     }
   ]
 }

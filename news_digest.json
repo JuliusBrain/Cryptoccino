@@ -1,83 +1,96 @@
 {
-  "generated": "2026-10-05T05:50:13.555960+00:00",
-  "ts": 1791179413,
+  "generated": "2026-10-05T14:51:56.113660+00:00",
+  "ts": 1791211916,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs see $241M in net inflows for third straight week",
-      "take": "Spot Bitcoin ETFs attract $241M inflows for third consecutive week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-241m-inflows-third-week/"
+      "headline": "\u2018More orange than ever\u2019: Michael Saylor\u2019s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
+      "take": "MicroStrategy adds 334 bitcoin to reach 848,000 total holdings",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631"
     },
     {
-      "headline": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "take": "Bitcoin approaches $87K then reverses; eight-month high nearby",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses"
+      "headline": "VanEck BNB ETF reports $97M inflow on Friday as trackers show a quieter picture",
+      "take": "VanEck BNB ETF sees $97M inflow as tracker activity quiets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/vaneck-bnb-etf-97m-inflow-friday/"
     },
     {
-      "headline": "Crypto bears get squeezed as $113 million in shorts liquidated in 24 hours",
-      "take": "$113M in crypto shorts liquidated within single 24-hour period",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-short-liquidations-113-million-24-hours/"
+      "headline": "Tom Lee says ether \u2018dwarfing other macro assets\u2019 as Bitmine adds 15,112 ETH",
+      "take": "Ethereum accumulation accelerates as institutional interest shows signs",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660"
     },
     {
-      "headline": "Ethereum liquidity drops below 50% of Bitcoin\u2019s level",
-      "take": "Ethereum liquidity falls below half of Bitcoin's current level",
+      "headline": "Derive leads onchain options market as volume doubles to $5B",
+      "take": "Onchain options volume doubles to $5B with Derive leading market",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-liquidity-drops-below-bitcoin-50-percent/"
+      "link": "https://cryptobriefing.com/derive-leads-onchain-options-volume-doubles/"
     },
     {
-      "headline": "Base pulls in $4.7 billion in net inflows since January 1",
-      "take": "Base network sees $4.7B net inflows since January start",
+      "headline": "Meme coins hit record low share of altcoin market, CryptoQuant analyst says",
+      "take": "Meme coins fall to record low share of altcoin market value",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-net-inflows-4-7-billion-2026/"
+      "link": "https://cryptobriefing.com/meme-coins-record-low-altcoin-share/"
     }
   ],
   "business": [
     {
-      "headline": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "take": "OKX and ICE joint venture files for 24/7 tokenized US stock trading",
+      "headline": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "take": "Stripe expands stablecoin cards to over 100 countries by year-end",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks"
+      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year"
     },
     {
-      "headline": "Payward partners with Singapore Gulf Bank for 24/7 settlement services",
-      "take": "Payward partners with Singapore Gulf Bank for round-the-clock settlement",
+      "headline": "OKX and ICE tap Uniswap v4 hooks for a tokenized stock venue",
+      "take": "OKX and ICE build tokenized stock trading venue on Uniswap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/payward-singapore-gulf-bank-24-7-settlement/"
+      "link": "https://cryptobriefing.com/okx-ice-uniswap-v4-hooks-tokenized-stocks/"
     },
     {
-      "headline": "Bitwise brings its PAPY vault to Circle\u2019s Arc for USDC-based RWA lending",
-      "take": "Bitwise brings PAPY vault to Circle Arc for USDC-backed lending",
+      "headline": "HIVE Digital\u2019s BUZZ HPC turns Bitcoin mining sites into Canadian AI infrastructure",
+      "take": "HIVE Digital converts Canadian bitcoin mines into AI infrastructure hubs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-papy-vault-arc-rwa-lending/"
+      "link": "https://cryptobriefing.com/hive-buzz-hpc-canadian-ai-infrastructure/"
     },
     {
-      "headline": "S&P Global Ratings launches risk assessment framework for onchain lending vaults",
-      "take": "S&P Global Ratings launches risk framework for onchain lending vaults",
+      "headline": "TeraWulf doubles contracted power at Muskie AI/HPC campus to 1 GW",
+      "take": "TeraWulf doubles contracted power at AI campus to 1 gigawatt",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp-global-ratings-onchain-lending-vaults/"
+      "link": "https://cryptobriefing.com/terawulf-doubles-muskie-campus-power-1-gw/"
+    },
+    {
+      "headline": "Tim Draper\u2019s VC firm backs Xverse in round to build Bitcoin neobank",
+      "take": "Tim Draper backs Xverse in bitcoin neobank funding round",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/draper-associates-backs-xverse-bitcoin-neobank/"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "Researchers track Chinese AI agent fleet operating on Tencent infrastructure",
+      "take": "Researchers identify Chinese AI agent fleet operating on Tencent systems",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chinese-ai-agent-fleet-tencent-amap/"
+    },
+    {
+      "headline": "OpenAI safety leader resigns, raising governance concerns",
+      "take": "OpenAI safety leader resigns, prompting governance concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-safety-leader-resigns-raising-governance-concerns/"
+    }
+  ],
   "policy": [
     {
-      "headline": "Zcash hires Washington lobbyist to influence crypto policy",
-      "take": "Zcash hires Washington lobbyist to influence US crypto policy",
+      "headline": "US Treasury withdraws proposed crypto rules on unhosted wallets, mixers",
+      "take": "US Treasury withdraws proposed crypto surveillance rules on wallets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zcash-hires-washington-lobbyist-to-influence-crypto-policy/"
+      "link": "https://cryptobriefing.com/us-treasury-withdraws-proposed-crypto-rules-on-unhosted-wallets-mixers/"
     },
     {
-      "headline": "Punchbowl News survey shows Hill aides doubt crypto tax bill passes this year",
-      "take": "Hill aides doubt crypto tax bill passage this year per survey",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hill-aides-doubt-crypto-tax-bill-2026/"
-    },
-    {
-      "headline": "Trump unveils voluntary AI accord as lawmakers push for real oversight",
-      "take": "Trump unveils voluntary AI accord while lawmakers push stricter oversight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ai-accord-lawmakers-oversight/"
+      "headline": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
+      "take": "SEC coordinates with global regulators for fraud awareness campaign",
+      "source": "sec_press",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
     }
   ]
 }

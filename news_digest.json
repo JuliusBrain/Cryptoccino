@@ -1,96 +1,90 @@
 {
-  "generated": "2026-10-05T22:03:27.746183+00:00",
-  "ts": 1791237807,
+  "generated": "2026-10-06T06:29:15.532886+00:00",
+  "ts": 1791268155,
   "market": [
     {
-      "headline": "Ethereum exit queue eases to 767,349 ETH after MetaMask exits",
-      "take": "Ethereum exit queue eases as staking demand remains strong",
+      "headline": "Bitcoin and Solana spot ETFs see net outflows as Ethereum records inflows",
+      "take": "Bitcoin and Solana ETFs see outflows while Ethereum records inflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-exit-queue-eases-metamask-exits/"
+      "link": "https://cryptobriefing.com/bitcoin-solana-etf-outflows-ethereum-inflows/"
     },
     {
-      "headline": "Aave raises core GHO borrow rate as redemption reserves run thin",
-      "take": "Aave raises GHO borrow rate as redemption reserves tighten",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-raises-gho-borrow-rate-reserves/"
+      "headline": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+      "take": "Bitcoin rejected at $87,000 resistance as stock markets near records",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records"
     },
     {
-      "headline": "Umia token trades near $40M valuation after auction backed by Galaxy, DCG, and Draper Associates",
-      "take": "Umia token trades near $40M valuation with major backer support",
+      "headline": "BlackRock ETF clients buy $69.85 million in Bitcoin",
+      "take": "BlackRock ETF clients added $69.85 million in Bitcoin purchases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/umia-token-auction-galaxy-dcg-draper/"
+      "link": "https://cryptobriefing.com/blackrock-etf-clients-buy-bitcoin-ibit/"
     },
     {
-      "headline": "Binance enables 1:1 conversion between stocks and bStocks",
-      "take": "Binance enables direct conversion between stocks and tokenized versions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-bstocks-1-1-stock-conversion/"
+      "headline": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "take": "Strive adds $169 million Bitcoin in largest four-month purchase",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months"
     }
   ],
   "business": [
     {
-      "headline": "Modern Treasury seeks US trust bank charter for digital asset custody",
-      "take": "Modern Treasury seeks US trust bank charter for digital custody",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/modern-treasury-occ-trust-bank-charter/"
+      "headline": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+      "take": "Solana Foundation launches institutional trade settlement program with JPMorgan input",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs"
     },
     {
-      "headline": "Anchorage Digital expands USD accounts and SWIFT access through Standard Chartered",
-      "take": "Anchorage Digital expands USD accounts with Standard Chartered partnership",
+      "headline": "Google Cloud to shut down Blockchain Node Engine and hand customers to Quicknode",
+      "take": "Google Cloud shuts Blockchain Node Engine, migrating customers to Quicknode",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anchorage-digital-expands-usd-accounts-and-swift-access-through-standard-chartered/"
+      "link": "https://cryptobriefing.com/google-cloud-blockchain-node-engine-quicknode/"
     },
     {
-      "headline": "Solana\u2019s Stocklana hackathon draws 604 submissions chasing $126K in prizes",
-      "take": "Solana hackathon draws 604 submissions competing for $126K prizes",
+      "headline": "Polymarket unveils Protocol V2, with full switchover for new markets on Nov 2",
+      "take": "Polymarket unveils Protocol V2 with full switchover for new markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-stocklana-hackathon-604-submissions/"
+      "link": "https://cryptobriefing.com/polymarket-protocol-v2-mainnet-switchover/"
     },
     {
-      "headline": "Flying Tulip\u2019s NFT options market tops $5M in volume, says Cronje",
-      "take": "Flying Tulip's NFT options market surpasses $5M trading volume",
+      "headline": "Grayscale adds BitGo as custodian for its Hyperliquid staking ETF in new 8-K filing",
+      "take": "Grayscale adds BitGo as custodian for Hyperliquid staking ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/flying-tulip-ftput-nft-options-5m-volume/"
+      "link": "https://cryptobriefing.com/grayscale-hyperliquid-staking-etf-bitgo-custodian/"
+    },
+    {
+      "headline": "Artizen pauses operations, tells users to claim payouts or withdraw funds",
+      "take": "Artizen pauses operations, tells users to claim payouts or withdraw",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/artizen-pauses-operations-art-usdc-withdrawals/"
     }
   ],
   "security": [
     {
-      "headline": "Base vault drained of $6M in Aave deposit tokens after whitelist change",
-      "take": "Base vault drained of $6M in Aave tokens after whitelist change",
+      "headline": "CertiK says AI agents now trace stolen crypto, but humans still own the mistakes",
+      "take": "AI agents now trace stolen crypto but humans own implementation risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-vault-drained-6m-aave-whitelist/"
-    },
-    {
-      "headline": "ZachXBT fronted $349,700 to get inside an alleged Lazarus laundering ring",
-      "take": "ZachXBT fronted $350K to infiltrate alleged Lazarus laundering operation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zachxbt-fronts-349700-lazarus-laundering-ring/"
-    },
-    {
-      "headline": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "take": "Anthropic employee reported user's private Claude conversations to police",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police"
+      "link": "https://cryptobriefing.com/certik-ai-agents-trace-stolen-crypto/"
     }
   ],
   "policy": [
     {
+      "headline": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+      "take": "U.S. scraps proposed $10,000 reporting rule for crypto to private wallets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets"
+    },
+    {
+      "headline": "Better Markets says the CFTC is the wrong cop for retail crypto",
+      "take": "Better Markets argues CFTC is wrong agency to regulate retail crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/better-markets-criticizes-cftc-retail-crypto/"
+    },
+    {
       "headline": "Fairshake PAC backs 32 House incumbents who voted for the CLARITY Act",
-      "take": "Fairshake PAC backs 32 House incumbents who supported CLARITY Act",
+      "take": "Fairshake PAC backs 32 House incumbents who voted CLARITY Act",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fairshake-pac-backs-32-house-candidates/"
-    },
-    {
-      "headline": "FinCEN withdraws proposed crypto mixing rule over \u2018legitimate activity\u2019 concerns",
-      "take": "FinCEN withdraws crypto mixing rule citing legitimate activity concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC no-action letter lets exchanges turn crypto futures into true perpetuals",
-      "take": "CFTC no-action letter allows exchanges to offer true perpetual contracts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-no-action-letter-perpetual-futures/"
     }
   ]
 }

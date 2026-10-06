@@ -1,90 +1,84 @@
 {
-  "generated": "2026-10-06T06:29:15.532886+00:00",
-  "ts": 1791268155,
+  "generated": "2026-10-06T16:00:03.644067+00:00",
+  "ts": 1791302403,
   "market": [
     {
-      "headline": "Bitcoin and Solana spot ETFs see net outflows as Ethereum records inflows",
-      "take": "Bitcoin and Solana ETFs see outflows while Ethereum records inflows",
+      "headline": "China\u2019s crypto rollout could trigger Bitcoin supercycle, says Solana Company CEO",
+      "take": "China's crypto rollout could trigger Bitcoin supercycle, says Solana CEO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-solana-etf-outflows-ethereum-inflows/"
+      "link": "https://cryptobriefing.com/china-crypto-rollout-bitcoin-supercycle/"
     },
     {
-      "headline": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-      "take": "Bitcoin rejected at $87,000 resistance as stock markets near records",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records"
-    },
-    {
-      "headline": "BlackRock ETF clients buy $69.85 million in Bitcoin",
-      "take": "BlackRock ETF clients added $69.85 million in Bitcoin purchases",
+      "headline": "Bloomberg Terminal integrates 24/7 Hyperliquid prices for enhanced market data",
+      "take": "Bloomberg Terminal integrates 24/7 Hyperliquid prices for enhanced market data",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-etf-clients-buy-bitcoin-ibit/"
+      "link": "https://cryptobriefing.com/bloomberg-terminal-integrates-247-hyperliquid-prices-for-enhanced-market-data/"
     },
     {
-      "headline": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "take": "Strive adds $169 million Bitcoin in largest four-month purchase",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months"
+      "headline": "Robinhood Chain memecoin trading hit $443M a day, then fell 96%",
+      "take": "Robinhood Chain memecoin trading hit $443M daily then fell ninety-six percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-memecoin-trading-surge-collapse/"
+    },
+    {
+      "headline": "Grayscale Ethereum Staking Mini ETF marks one year of staking payouts",
+      "take": "Grayscale Ethereum Staking Mini ETF marks one year of staking payouts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grayscale-ethereum-staking-mini-etf-one-year/"
     }
   ],
   "business": [
     {
-      "headline": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-      "take": "Solana Foundation launches institutional trade settlement program with JPMorgan input",
+      "headline": "Winklevoss files for spot Zcash ETF with US SEC",
+      "take": "Winklevoss files for spot Zcash ETF with US SEC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/winklevoss-files-spot-zcash-etf-sec/"
+    },
+    {
+      "headline": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+      "take": "Circle, Ripple, Standard Chartered back OKX at flat twenty-five billion valuation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation"
+    },
+    {
+      "headline": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "take": "Arbitrum joins Paxos-led stablecoin group Global Dollar for digital dollar growth",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs"
+      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth"
     },
     {
-      "headline": "Google Cloud to shut down Blockchain Node Engine and hand customers to Quicknode",
-      "take": "Google Cloud shuts Blockchain Node Engine, migrating customers to Quicknode",
+      "headline": "Aptos unveils MonoMove, claiming up to 55x faster smart contract execution",
+      "take": "Aptos unveils MonoMove claiming up to fifty-five times faster smart contract execution",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-cloud-blockchain-node-engine-quicknode/"
+      "link": "https://cryptobriefing.com/aptos-monomove-execution-engine-55x/"
     },
     {
-      "headline": "Polymarket unveils Protocol V2, with full switchover for new markets on Nov 2",
-      "take": "Polymarket unveils Protocol V2 with full switchover for new markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-protocol-v2-mainnet-switchover/"
-    },
-    {
-      "headline": "Grayscale adds BitGo as custodian for its Hyperliquid staking ETF in new 8-K filing",
-      "take": "Grayscale adds BitGo as custodian for Hyperliquid staking ETF",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-hyperliquid-staking-etf-bitgo-custodian/"
-    },
-    {
-      "headline": "Artizen pauses operations, tells users to claim payouts or withdraw funds",
-      "take": "Artizen pauses operations, tells users to claim payouts or withdraw",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/artizen-pauses-operations-art-usdc-withdrawals/"
+      "headline": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
+      "take": "Fortitude expands Zcash mining push with up to one hundred million equipment commitment",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790"
     }
   ],
   "security": [
     {
-      "headline": "CertiK says AI agents now trace stolen crypto, but humans still own the mistakes",
-      "take": "AI agents now trace stolen crypto but humans own implementation risks",
+      "headline": "Flash loan attacks drained $1.211 billion from DeFi, University of Winchester study finds",
+      "take": "Flash loan attacks drained one point two billion from DeFi since twenty twenty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/certik-ai-agents-trace-stolen-crypto/"
+      "link": "https://cryptobriefing.com/flash-loan-attacks-defi-winchester-study/"
+    },
+    {
+      "headline": "Centrifuge flags transparency gap as only 29.2% of tokenized assets show verifiable onchain data",
+      "take": "Centrifuge flags transparency gap as only twenty-nine percent of tokenized assets verified onchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/centrifuge-onchain-verifiable-data-tokenized-assets/"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "take": "U.S. scraps proposed $10,000 reporting rule for crypto to private wallets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets"
-    },
-    {
-      "headline": "Better Markets says the CFTC is the wrong cop for retail crypto",
-      "take": "Better Markets argues CFTC is wrong agency to regulate retail crypto",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/better-markets-criticizes-cftc-retail-crypto/"
-    },
-    {
-      "headline": "Fairshake PAC backs 32 House incumbents who voted for the CLARITY Act",
-      "take": "Fairshake PAC backs 32 House incumbents who voted CLARITY Act",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fairshake-pac-backs-32-house-candidates/"
+      "headline": "US crypto rules need to survive the next election",
+      "take": "US crypto rules need to survive the next election cycle ahead",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

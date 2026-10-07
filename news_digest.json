@@ -1,114 +1,96 @@
 {
-  "generated": "2026-10-06T22:41:11.154916+00:00",
-  "ts": 1791326471,
+  "generated": "2026-10-07T06:08:01.659363+00:00",
+  "ts": 1791353281,
   "market": [
     {
-      "headline": "Bitcoin\u2019s $85,000 wall may decide its next structural move",
-      "take": "Bitcoin tests $85,000 resistance level; breakout could signal structural shift",
+      "headline": "Bitcoin falls nearly $2,000 in 20 minutes as $400 million in longs get liquidated",
+      "take": "Bitcoin falls nearly two thousand dollars as four hundred million in longs liquidate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-85000-sell-wall-structural-shift/"
+      "link": "https://cryptobriefing.com/bitcoin-falls-2000-400m-liquidation/"
     },
     {
-      "headline": "Institutional capital is flowing into crypto, and Hyperliquid is capturing allocators\u2019 attention",
-      "take": "Institutional capital flowing into crypto; Hyperliquid gaining allocator attention",
+      "headline": "BlackRock ETF clients pull $202M from Ethereum as outflow streak hits six days",
+      "take": "BlackRock ETF clients pull two hundred million from Ethereum over six day streak",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutional-capital-is-flowing-into-crypto-and-hyperliquid-is-capturing/"
+      "link": "https://cryptobriefing.com/blackrock-etf-clients-sell-ethereum-202m/"
     },
     {
-      "headline": "Bitwise CIO Matt Hougan says Bitcoin is maturing into digital gold",
-      "take": "Bitcoin maturing into digital gold asset class, says Bitwise CIO",
+      "headline": "Ethereum holds near $2,700 as $414.1 million in longs sit in liquidation zones",
+      "take": "Ethereum holds near twenty-seven hundred with four hundred million in longs at risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-hougan-bitcoin-digital-gold-volatility/"
+      "link": "https://cryptobriefing.com/ethereum-2700-liquidation-zones-longs-shorts/"
     },
     {
-      "headline": "Canary\u2019s TRXS ETF brings staked TRX to US brokerage accounts",
-      "take": "Canary's staked TRX ETF brings Tron exposure to US brokerage platforms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canary-staked-trx-etf-trxs-launch/"
+      "headline": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "take": "U.S. government moves over one hundred million in Bitcoin and BNB, no sale confirmed",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
     },
     {
-      "headline": "VanEck says nuclear power approval could boost AI and ease Bitcoin sell pressure",
-      "take": "Nuclear power approval could ease Bitcoin sell pressure and support AI",
+      "headline": "Temasek warns AI and inflation are the biggest market risks for next year",
+      "take": "Temasek identifies artificial intelligence and inflation as biggest market risks ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vaneck-ceo-nuclear-power-ai-bitcoin/"
+      "link": "https://cryptobriefing.com/temasek-warns-ai-inflation-market-risks/"
     }
   ],
   "business": [
     {
-      "headline": "Circle welcomes DJ Khaled to team USDC, sparking backlash on X",
-      "take": "Circle adds DJ Khaled as Team USDC ambassador; crypto community expresses skepticism",
+      "headline": "Coinbase acquires Deribit, expands US derivatives offerings",
+      "take": "Coinbase acquires Deribit, expands United States derivatives and revives Pro branding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-dj-khaled-team-usdc-backlash/"
+      "link": "https://cryptobriefing.com/coinbase-acquires-deribit-expands-us-derivatives-offerings/"
     },
     {
-      "headline": "Ether.fi taps MoonPay to consolidate payments infrastructure across its crypto neobank",
-      "take": "Ether.fi partners with MoonPay to consolidate payments across crypto neobank",
+      "headline": "World Liberty Financial plans payments tech rollout for Web2 firms",
+      "take": "World Liberty Financial plans payments technology rollout targeting Web2 firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ether-fi-taps-moonpay-to-consolidate-payments-infrastructure-across-its-crypto-neobank/"
+      "link": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/"
     },
     {
-      "headline": "Coinbase launches live crypto price prediction markets",
-      "take": "Coinbase launches live crypto price prediction markets for users",
+      "headline": "BlackRock\u2019s Nikhil Sharma pitches tokenized money market funds as instant collateral at TOKEN2049",
+      "take": "BlackRock pitches tokenized money market funds as instant collateral solution",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-launches-crypto-price-prediction-markets/"
+      "link": "https://cryptobriefing.com/blackrock-sharma-tokenized-money-market-funds-token2049/"
     },
     {
-      "headline": "Monid raises $7.7 million to plug AI agents into pay-per-use tools",
-      "take": "Monid secures $7.7M to integrate AI agents with pay-per-use tools",
+      "headline": "Cardano Foundation launches CIP-0113 token standard for compliance controls",
+      "take": "Cardano Foundation launches token standard enabling compliance controls for issuers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/monid-raises-7-7-million-ai-agents-tools/"
+      "link": "https://cryptobriefing.com/cardano-cip-0113-token-compliance-standard/"
     },
     {
-      "headline": "Ferrari tokenized shares go live on Solana through Sunrise",
-      "take": "Ferrari tokenized shares launch on Solana via Sunrise protocol",
+      "headline": "Muneeb Ali pledges Stacks Labs IP transfer to the Stacks Endowment",
+      "take": "Muneeb Ali pledges Stacks Labs intellectual property to Stacks Endowment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ferrari-tokenized-shares-race-solana-sunrise/"
+      "link": "https://cryptobriefing.com/muneeb-ali-stacks-labs-ip-transfer-endowment/"
     }
   ],
   "security": [
     {
-      "headline": "Onyx DAO treasury moves 620M XCN as Blockaid flags governance exploit",
-      "take": "Onyx DAO moves 620M XCN tokens; Blockaid flags potential governance exploit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/onyx-dao-620m-xcn-blockaid-exploit/"
-    },
-    {
       "headline": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-      "take": "5.6 billion TikTok videos scraped and posted to public dataset",
+      "take": "Five point six billion TikTok videos scraped and shared on Hugging Face",
       "source": "decrypt",
       "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face"
+    },
+    {
+      "headline": "Kalshi faces legal challenges as court battles escalate",
+      "take": "Kalshi faces escalating legal challenges in court battles",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-legal-challenges-court-battles-escalate/"
     }
   ],
   "policy": [
     {
-      "headline": "IRS issues guidance on digital asset staking safe harbor for trusts",
-      "take": "IRS provides staking tax guidance safe harbor for trust structures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/irs-digital-asset-staking-safe-harbor-trusts/"
-    },
-    {
-      "headline": "SEC\u2019s new crypto FAQ is a reference, not a shield, says Renato Mariotti",
-      "take": "SEC's crypto FAQ offers guidance only; does not provide legal shield",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-crypto-faq-non-binding-mariotti/"
-    },
-    {
-      "headline": "BaFin denies MiCAR license to Bitcoin Group SE\u2019s futurum bank, leaving bitcoin.de in limbo",
-      "take": "BaFin rejects MiCAR banking license for Bitcoin Group SE's futurum bank",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bafin-denies-micar-license-bitcoin-group-futurum/"
-    },
-    {
-      "headline": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "take": "Conduit sues Tether over alleged unexplained freeze of $2.8M stablecoins",
+      "headline": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+      "take": "Bitcoin.de trading halted as German regulator rejects Markets in Crypto Assets application",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Crypto\u2019s Lobbying Juggernaut Hedges Bets on Favorable Legislation",
-      "take": "Crypto industry hedges lobbying bets across political parties for favorable rules",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-06/crypto-s-lobbying-juggernaut-hedges-bets-on-favorable-legislation"
+      "headline": "European Commission weighs broad levy on large corporations to sidestep US tariff threats",
+      "take": "European Commission weighs broad levy on large corporations to counter United States tariffs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/european-commission-broad-corporate-levy/"
     }
   ]
 }

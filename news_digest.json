@@ -1,96 +1,96 @@
 {
-  "generated": "2026-10-07T06:08:01.659363+00:00",
-  "ts": 1791353281,
+  "generated": "2026-10-07T13:33:15.451477+00:00",
+  "ts": 1791379995,
   "market": [
     {
-      "headline": "Bitcoin falls nearly $2,000 in 20 minutes as $400 million in longs get liquidated",
-      "take": "Bitcoin falls nearly two thousand dollars as four hundred million in longs liquidate",
+      "headline": "Crypto liquidations hit $608 million as Ether longs unwind, with a $26.64 million hit on Binance",
+      "take": "Crypto liquidations hit $608M as Ether longs unwind sharply",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-falls-2000-400m-liquidation/"
+      "link": "https://cryptobriefing.com/crypto-liquidations-608-million-ether-longs/"
     },
     {
-      "headline": "BlackRock ETF clients pull $202M from Ethereum as outflow streak hits six days",
-      "take": "BlackRock ETF clients pull two hundred million from Ethereum over six day streak",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-etf-clients-sell-ethereum-202m/"
-    },
-    {
-      "headline": "Ethereum holds near $2,700 as $414.1 million in longs sit in liquidation zones",
-      "take": "Ethereum holds near twenty-seven hundred with four hundred million in longs at risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-2700-liquidation-zones-longs-shorts/"
-    },
-    {
-      "headline": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
-      "take": "U.S. government moves over one hundred million in Bitcoin and BNB, no sale confirmed",
+      "headline": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+      "take": "Bitmine stops purchasing Ether, removing steady institutional buyer",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
+      "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases"
     },
     {
-      "headline": "Temasek warns AI and inflation are the biggest market risks for next year",
-      "take": "Temasek identifies artificial intelligence and inflation as biggest market risks ahead",
+      "headline": "Here\u2019s what bitcoin needs to break above $87,000",
+      "take": "Bitcoin struggles to break above $87,000 resistance level",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000"
+    },
+    {
+      "headline": "Solana liquidity shrinks over 28% since 2025 as MEXC leads market depth",
+      "take": "Solana liquidity drops 28% since year start, MEXC leads depth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/temasek-warns-ai-inflation-market-risks/"
+      "link": "https://cryptobriefing.com/solana-liquidity-shrinks-mexc-leads-depth/"
+    },
+    {
+      "headline": "Spark Savings USDT vault nearly doubles to $600 million in two weeks",
+      "take": "Spark Savings USDT vault surges to $600M in two weeks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spark-savings-usdt-600-million-deposits/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase acquires Deribit, expands US derivatives offerings",
-      "take": "Coinbase acquires Deribit, expands United States derivatives and revives Pro branding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-acquires-deribit-expands-us-derivatives-offerings/"
+      "headline": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "take": "GSR launches Hare, an onchain credit vault backed by $100M",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
     },
     {
-      "headline": "World Liberty Financial plans payments tech rollout for Web2 firms",
-      "take": "World Liberty Financial plans payments technology rollout targeting Web2 firms",
+      "headline": "Stablecoin payments startup Noah hits $38 million in seed funding",
+      "take": "Noah stablecoin payments startup raises $38M in seed funding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/"
+      "link": "https://cryptobriefing.com/noah-raises-16m-seed-round-38m/"
     },
     {
-      "headline": "BlackRock\u2019s Nikhil Sharma pitches tokenized money market funds as instant collateral at TOKEN2049",
-      "take": "BlackRock pitches tokenized money market funds as instant collateral solution",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-sharma-tokenized-money-market-funds-token2049/"
+      "headline": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+      "take": "OKX raises $25B from Circle, Ripple, and Standard Chartered",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart"
     },
     {
-      "headline": "Cardano Foundation launches CIP-0113 token standard for compliance controls",
-      "take": "Cardano Foundation launches token standard enabling compliance controls for issuers",
+      "headline": "CoreWeave enters India with first data centers through Adani Group partnership",
+      "take": "CoreWeave enters India with 240 MW data center via Adani",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cardano-cip-0113-token-compliance-standard/"
+      "link": "https://cryptobriefing.com/coreweave-india-data-centers-adani/"
     },
     {
-      "headline": "Muneeb Ali pledges Stacks Labs IP transfer to the Stacks Endowment",
-      "take": "Muneeb Ali pledges Stacks Labs intellectual property to Stacks Endowment",
+      "headline": "Circle partners with Tereina to bring USDC and EURC into SAP Pay",
+      "take": "Circle brings USDC and EURC to SAP Pay via Tereina partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/muneeb-ali-stacks-labs-ip-transfer-endowment/"
+      "link": "https://cryptobriefing.com/circle-tereina-usdc-eurc-sap-pay/"
     }
   ],
   "security": [
     {
-      "headline": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-      "take": "Five point six billion TikTok videos scraped and shared on Hugging Face",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face"
+      "headline": "Europol warns crypto wallets are the weak spot for future quantum attacks",
+      "take": "Europol warns crypto wallets face primary quantum attack risk",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/europol-crypto-wallets-quantum-attack-risk/"
     },
     {
-      "headline": "Kalshi faces legal challenges as court battles escalate",
-      "take": "Kalshi faces escalating legal challenges in court battles",
+      "headline": "Crypto trader Frogman hacked for over $4 million during TOKEN2049",
+      "take": "Crypto trader Frogman hacked for over $4M during TOKEN2049",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-legal-challenges-court-battles-escalate/"
+      "link": "https://cryptobriefing.com/frogman-hacked-4-million-token2049/"
+    },
+    {
+      "headline": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
+      "take": "Engineer receives 32 months for Bitcoin extortion plot scheme",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer"
     }
   ],
   "policy": [
     {
-      "headline": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
-      "take": "Bitcoin.de trading halted as German regulator rejects Markets in Crypto Assets application",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "European Commission weighs broad levy on large corporations to sidestep US tariff threats",
-      "take": "European Commission weighs broad levy on large corporations to counter United States tariffs",
+      "headline": "Tether signs MoU with Kazakhstan\u2019s central bank to explore tenge stablecoins and tokenized assets",
+      "take": "Tether signs MoU with Kazakhstan central bank for stablecoin exploration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/european-commission-broad-corporate-levy/"
+      "link": "https://cryptobriefing.com/tether-kazakhstan-national-bank-stablecoin-mou/"
     }
   ]
 }

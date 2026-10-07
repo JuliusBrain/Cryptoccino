@@ -1,96 +1,102 @@
 {
-  "generated": "2026-10-07T13:33:15.451477+00:00",
-  "ts": 1791379995,
+  "generated": "2026-10-07T20:39:31.083631+00:00",
+  "ts": 1791405571,
   "market": [
     {
-      "headline": "Crypto liquidations hit $608 million as Ether longs unwind, with a $26.64 million hit on Binance",
-      "take": "Crypto liquidations hit $608M as Ether longs unwind sharply",
+      "headline": "Bitwise says Bitcoin\u2019s Q3 rally signals a regime change",
+      "take": "Bitcoin's Q3 rally signals potential regime change in market structure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-liquidations-608-million-ether-longs/"
+      "link": "https://cryptobriefing.com/bitwise-bitcoin-q3-rally-regime-change/"
     },
     {
-      "headline": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-      "take": "Bitmine stops purchasing Ether, removing steady institutional buyer",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases"
+      "headline": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+      "take": "Crypto ETF market enters new phase as Zcash ETF tops one billion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953"
     },
     {
-      "headline": "Here\u2019s what bitcoin needs to break above $87,000",
-      "take": "Bitcoin struggles to break above $87,000 resistance level",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000"
-    },
-    {
-      "headline": "Solana liquidity shrinks over 28% since 2025 as MEXC leads market depth",
-      "take": "Solana liquidity drops 28% since year start, MEXC leads depth",
+      "headline": "Charles Schwab survey: 64% of Millennial crypto owners plan to buy more",
+      "take": "Sixty-four percent of millennial crypto owners plan to buy more assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-liquidity-shrinks-mexc-leads-depth/"
+      "link": "https://cryptobriefing.com/charles-schwab-survey-millennials-crypto-bitcoin/"
     },
     {
-      "headline": "Spark Savings USDT vault nearly doubles to $600 million in two weeks",
-      "take": "Spark Savings USDT vault surges to $600M in two weeks",
+      "headline": "Coinbase premium gap sinks to -$64 as Bitcoin trades at a US discount",
+      "take": "Coinbase premium gap sinks to minus sixty-four as Bitcoin trades at discount",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-savings-usdt-600-million-deposits/"
+      "link": "https://cryptobriefing.com/coinbase-premium-gap-bitcoin-us-discount/"
+    },
+    {
+      "headline": "Aave v4 on Base draws $4.7 million in Coinbase tokenized stock deposits",
+      "take": "Aave v4 on Base attracts four point seven million in tokenized stock deposits",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aave-v4-base-tokenized-stocks-deposits/"
     }
   ],
   "business": [
     {
-      "headline": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-      "take": "GSR launches Hare, an onchain credit vault backed by $100M",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
-    },
-    {
-      "headline": "Stablecoin payments startup Noah hits $38 million in seed funding",
-      "take": "Noah stablecoin payments startup raises $38M in seed funding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/noah-raises-16m-seed-round-38m/"
-    },
-    {
-      "headline": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
-      "take": "OKX raises $25B from Circle, Ripple, and Standard Chartered",
+      "headline": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "take": "Tether signs deal with Kazakhstan central bank to explore stablecoin and tokenized assets",
       "source": "decrypt",
-      "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart"
+      "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets"
     },
     {
-      "headline": "CoreWeave enters India with first data centers through Adani Group partnership",
-      "take": "CoreWeave enters India with 240 MW data center via Adani",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-india-data-centers-adani/"
+      "headline": "Polygon taps TRON\u2019s $94 billion stablecoin supply for seamless cross-border transfers",
+      "take": "Polygon taps TRON's ninety-four billion stablecoin supply for cross-border transfers",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails"
     },
     {
-      "headline": "Circle partners with Tereina to bring USDC and EURC into SAP Pay",
-      "take": "Circle brings USDC and EURC to SAP Pay via Tereina partnership",
+      "headline": "Strike launches Stacks to sort Bitcoin savings into goal-based buckets",
+      "take": "Strike launches Stacks to sort Bitcoin savings into goal-based savings buckets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-tereina-usdc-eurc-sap-pay/"
+      "link": "https://cryptobriefing.com/strike-launches-stacks-bitcoin-savings/"
+    },
+    {
+      "headline": "Ripple Custody adds Canton Network support for institutions",
+      "take": "Ripple Custody adds Canton Network support for institutional asset management",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-custody-canton-network-support/"
+    },
+    {
+      "headline": "Wells Fargo reportedly in talks with Kraken parent Payward over crypto trading liquidity",
+      "take": "Wells Fargo in talks with Kraken parent Payward over crypto trading liquidity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wells-fargo-payward-kraken-crypto-liquidity-talks/"
     }
   ],
   "security": [
     {
-      "headline": "Europol warns crypto wallets are the weak spot for future quantum attacks",
-      "take": "Europol warns crypto wallets face primary quantum attack risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/europol-crypto-wallets-quantum-attack-risk/"
-    },
-    {
-      "headline": "Crypto trader Frogman hacked for over $4 million during TOKEN2049",
-      "take": "Crypto trader Frogman hacked for over $4M during TOKEN2049",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/frogman-hacked-4-million-token2049/"
-    },
-    {
-      "headline": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
-      "take": "Engineer receives 32 months for Bitcoin extortion plot scheme",
+      "headline": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+      "take": "Hackers used AI agents to raid megachurch database exposing eight hundred fifty thousand members",
       "source": "decrypt",
-      "link": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer"
+      "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database"
+    },
+    {
+      "headline": "Federal judge dismisses privacy lawsuit against Crypto.com over cookie tracking",
+      "take": "Federal judge dismisses privacy lawsuit against Crypto.com over cookie tracking practices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/judge-dismisses-crypto-com-privacy-lawsuit/"
     }
   ],
   "policy": [
     {
-      "headline": "Tether signs MoU with Kazakhstan\u2019s central bank to explore tenge stablecoins and tokenized assets",
-      "take": "Tether signs MoU with Kazakhstan central bank for stablecoin exploration",
+      "headline": "French Hill says SEC and CFTC crypto rules are no substitute for the CLARITY Act",
+      "take": "Rep. French Hill says current SEC and CFTC rules lack adequate crypto clarity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-kazakhstan-national-bank-stablecoin-mou/"
+      "link": "https://cryptobriefing.com/french-hill-sec-cftc-crypto-rules-clarity-act/"
+    },
+    {
+      "headline": "US government moves over $560M in seized FTX-linked crypto to Coinbase Prime",
+      "take": "US government moves over five hundred sixty million in seized FTX crypto to Coinbase Prime",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-government-seized-ftx-funds-coinbase-prime/"
+    },
+    {
+      "headline": "Kalshi asks the CFTC to approve a never-expiring oil futures contract",
+      "take": "Kalshi asks CFTC to approve never-expiring oil futures contract for trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-perpetual-oil-futures-cftc/"
     }
   ]
 }

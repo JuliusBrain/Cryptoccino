@@ -1,84 +1,96 @@
 {
-  "generated": "2026-10-08T01:03:13.614628+00:00",
-  "ts": 1791421393,
+  "generated": "2026-10-08T10:42:25.783021+00:00",
+  "ts": 1791456145,
   "market": [
     {
-      "headline": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
-      "take": "Crypto ETF market entering new phase as Zcash ETF crosses one billion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953"
-    },
-    {
-      "headline": "Aave v4 on Base draws $4.7 million in Coinbase tokenized stock deposits",
-      "take": "Aave v4 on Base attracts 4.7 million in Coinbase tokenized stock deposits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-v4-base-tokenized-stocks-deposits/"
-    },
-    {
-      "headline": "Fed minutes show most officials favored another rate hike by year end",
-      "take": "Fed minutes indicate most officials favored another rate hike by year end",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-minutes-show-most-officials-favored-another-rate-hike-by-year-end/"
-    },
-    {
-      "headline": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-      "take": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+      "headline": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+      "take": "Bitcoin slides below $83k as Ethereum researcher's AI warning splits sentiment",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity"
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
+    },
+    {
+      "headline": "Bitcoin monthly inflows near $5B, but existing holders did most of the lifting",
+      "take": "Bitcoin monthly inflows near $5B, mostly from existing holders adding positions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-inflows-near-5b-rally-stalls/"
+    },
+    {
+      "headline": "IMF says tokenized repos average $300 billion to $350 billion a day",
+      "take": "Tokenized repos average $300\u2013350 billion daily, emerging as major financial instrument",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/imf-tokenized-repos-daily-volume/"
+    },
+    {
+      "headline": "BlackRock ETF clients pull $116.05 million from Ethereum fund",
+      "take": "BlackRock Ethereum ETF sees $116M client outflows in recent period",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-etha-ethereum-etf-outflows/"
+    },
+    {
+      "headline": "Solana stablecoin holders top 14 million, setting a new record",
+      "take": "Solana stablecoin holders reach record 14 million users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-stablecoin-holders-top-14-million/"
     }
   ],
   "business": [
     {
-      "headline": "Samsung Wallet brings USDC to 82 million Galaxy devices with Sui",
-      "take": "Samsung Wallet brings USDC to 82 million Galaxy devices with Sui",
+      "headline": "Ripple now earns prime brokerage fees after $1.25 billion Hidden Road deal",
+      "take": "Ripple earns prime brokerage fees on leveraged trades via $1.25B Hidden Road deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-wallet-usdc-sui-galaxy-devices/"
+      "link": "https://cryptobriefing.com/ripple-prime-brokerage-fees-hidden-road/"
     },
     {
-      "headline": "Anthropic launches Claude Haiku 5.5 with 75% lower average costs",
-      "take": "Anthropic launches Claude Haiku 5.5 with 75 percent lower average costs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-launches-claude-haiku-5-5-with-75-lower-average-costs/"
+      "headline": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "take": "Standard Chartered expands institutional crypto and RWA custody in Singapore",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody"
     },
     {
-      "headline": "Solana\u2019s Orca merges with Loopscale in push to finance AI, robotics and defense",
-      "take": "Orca and Loopscale merge into Formation targeting AI robotics defense financing",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924"
-    },
-    {
-      "headline": "Spiral is adding Bitcoin payments to Mesh LLM so machines can buy AI compute",
-      "take": "Spiral adds Bitcoin payments to Mesh LLM for machines to buy compute",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spiral-bitcoin-payments-mesh-llm-ai-compute/"
-    },
-    {
-      "headline": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-      "take": "Tether signs deal with Kazakhstan central bank to explore stablecoin tokenized assets",
+      "headline": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+      "take": "Samsung Wallet integrates USDC on 82M Galaxy devices for cross-border remittances",
       "source": "decrypt",
-      "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets"
+      "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices"
+    },
+    {
+      "headline": "Coinbase expands services for institutional crypto adoption",
+      "take": "Coinbase expands institutional crypto services for adoption acceleration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-expands-services-for-institutional-crypto-adoption/"
+    },
+    {
+      "headline": "SALT Lending says Bitcoin loans are paying for tuition and payroll, not just trades",
+      "take": "Bitcoin loans now funding tuition and payroll, not primarily speculation trades",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/salt-lending-bitcoin-loans-tuition-business/"
     }
   ],
   "security": [
     {
-      "headline": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
-      "take": "Hackers used AI agents to raid megachurch database exposing 850000 members",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database"
-    },
-    {
-      "headline": "Vitalik Buterin says there\u2019s a \u2018good chance\u2019 AI could break lattice cryptography within two years",
-      "take": "Vitalik Buterin says good chance AI could break lattice cryptography within two years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vitalik-buterin-ai-cryptography-warning/"
+      "headline": "\u2018Don\u2019t rush anything\u2019: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
+      "take": "Vitalik warns against rushing wallet migrations amid rising AI-driven threats",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007"
     }
   ],
   "policy": [
     {
-      "headline": "French Hill says SEC and CFTC crypto rules are no substitute for the CLARITY Act",
-      "take": "Rep French Hill says SEC CFTC crypto rules no substitute for CLARITY Act",
+      "headline": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
+      "take": "Greece cuts crypto capital gains tax to 10% from 15% in first framework",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june"
+    },
+    {
+      "headline": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "take": "ESMA gives crypto firms three months to exit non-compliant stablecoins",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Cuomo urges crypto industry to back both parties to pass federal rules",
+      "take": "Cuomo urges crypto industry bipartisan backing to pass federal regulations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/french-hill-sec-cftc-crypto-rules-clarity-act/"
+      "link": "https://cryptobriefing.com/cuomo-urges-crypto-bipartisan-support/"
     }
   ]
 }

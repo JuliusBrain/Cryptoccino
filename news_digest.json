@@ -1,96 +1,102 @@
 {
-  "generated": "2026-10-08T18:53:18.350023+00:00",
-  "ts": 1791485598,
+  "generated": "2026-10-09T01:15:32.480689+00:00",
+  "ts": 1791508532,
   "market": [
     {
+      "headline": "Bitcoin rebounds above $81,000 after Trump rules out Iran strikes",
+      "take": "Bitcoin rebounds above $81,000 after Trump rules out Iran strikes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-rebounds-81000-trump-iran-strikes/"
+    },
+    {
       "headline": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
-      "take": "JPMorgan estimates fifty billion dollars flowed into crypto this year",
+      "take": "JPMorgan estimates $50 billion has flowed into crypto this year",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115"
     },
     {
-      "headline": "Bitcoin slides toward $80K as crypto long liquidations top $1 billion",
-      "take": "Bitcoin slides toward eighty thousand as crypto long liquidations top one billion",
+      "headline": "CoreWeave institutional holders climb to 1,125 as total stake nears $40 billion",
+      "take": "CoreWeave institutional holders climb to 1,125 as total stake nears $40 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-slides-toward-80k-as-crypto-long-liquidations-top-1-billion/"
+      "link": "https://cryptobriefing.com/coreweave-institutional-holders-rise-1125/"
     },
     {
-      "headline": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
-      "take": "Bitcoin ETFs suffer worst loss since June as Uptober turns red",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red"
+      "headline": "Bitwise finds 5 US wealth platforms restrict Bitcoin ETP access",
+      "take": "Bitwise finds 5 US wealth platforms restrict Bitcoin ETP access",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-wealth-platforms-restrict-bitcoin-etps/"
     },
     {
-      "headline": "35% of Deribit\u2019s Bitcoin options open interest is set to expire October 30",
-      "take": "Thirty-five percent of Deribit Bitcoin options expire October thirty",
+      "headline": "Micron, Nvidia shares fall after OpenAI revenue report raises concerns",
+      "take": "Micron, Nvidia shares fall after OpenAI revenue report raises concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deribit-bitcoin-options-october-30-expiry/"
-    },
-    {
-      "headline": "Fundstrat\u2019s Tom Lee warns a 6% 10-year Treasury yield would pressure stocks",
-      "take": "Six percent ten-year Treasury yield would pressure stocks, analyst warns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tom-lee-6-percent-treasury-yield-stocks/"
+      "link": "https://cryptobriefing.com/micron-nvidia-fall-openai-revenue-report/"
     }
   ],
   "business": [
     {
-      "headline": "Former OpenAI, Cognition staffers launch Hone to build AI agents that run business operations",
-      "take": "Former OpenAI and Cognition staff launch Hone to build AI agents",
+      "headline": "Animoca Brands partners with Franklin Templeton to expand NUVA\u2019s tokenized asset lineup",
+      "take": "Animoca Brands partners with Franklin Templeton to expand tokenized asset lineup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hone-ai-agents-60-million-seed/"
+      "link": "https://cryptobriefing.com/animoca-brands-franklin-templeton-nuva-partnership/"
     },
     {
-      "headline": "Consensys and ClearToken team up on 24/7 settlement for wholesale markets",
-      "take": "Consensys and ClearToken partner on twenty-four-seven settlement for wholesale markets",
+      "headline": "Nasdaq CEO Adena Friedman says tokenization can free billions in trapped capital",
+      "take": "Nasdaq CEO says tokenization can free billions in trapped capital",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/consensys-cleartoken-24-7-settlement-partnership/"
+      "link": "https://cryptobriefing.com/nasdaq-friedman-tokenization-trapped-capital/"
     },
     {
-      "headline": "EDX Markets partners with VerifiedX to bring tokenized Bitcoin to institutional spot trading",
-      "take": "EDX Markets partners with VerifiedX on tokenized Bitcoin institutional trading",
+      "headline": "Aptos moves Shelby storage into private beta with real customer workloads",
+      "take": "Aptos moves Shelby storage into private beta with real customer workloads",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/edx-markets-verifiedx-tokenized-bitcoin-vbtc/"
+      "link": "https://cryptobriefing.com/aptos-shelby-private-beta-customer-workloads/"
     },
     {
-      "headline": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-      "take": "Solana DeFi firms Orca and Loopscale merge under new formation brand",
+      "headline": "Grass launches Contents API to feed live web data to AI agents",
+      "take": "Grass launches Contents API to feed live web data to AI agents",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/grass-launches-contents-api-ai-agents/"
+    },
+    {
+      "headline": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
+      "take": "AI startup Manus raises $500 million after China nixed Meta acquisition",
       "source": "decrypt",
-      "link": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand"
-    },
-    {
-      "headline": "Union Square Ventures raises $900 million and reduces active partnership",
-      "take": "Union Square Ventures raises nine hundred million and reduces active partnership",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/union-square-ventures-900-million-ai-funds/"
+      "link": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
     }
   ],
   "security": [
     {
-      "headline": "US government-linked wallet moves $1.01 billion in seized Bitcoin",
-      "take": "US government-linked wallet moves one point zero-one billion seized Bitcoin",
+      "headline": "Bitcoin address reuse leaves 4.33M BTC with exposed public keys",
+      "take": "Bitcoin address reuse leaves 4.33M BTC with exposed public keys",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-moves-bitcoin-bitfinex-hack/"
+      "link": "https://cryptobriefing.com/bitcoin-address-reuse-exposes-public-keys/"
     },
     {
-      "headline": "Anthropic updates usage policy to prohibit abusive behavior toward Claude",
-      "take": "Anthropic updates usage policy to prohibit abusive behavior toward Claude",
+      "headline": "OpenAI says Iranian operatives used ChatGPT to plant critical news articles",
+      "take": "OpenAI says Iranian operatives used ChatGPT to plant critical news articles",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-usage-policy-abusive-behavior-claude/"
+      "link": "https://cryptobriefing.com/openai-iranian-bogus-bylines-influence-operation/"
     }
   ],
   "policy": [
     {
-      "headline": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-      "take": "NFL joins pushback against prediction markets as Supreme Court asked to act",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act"
+      "headline": "UK Targets Cryptomus, Heleket, TokenSpot in New Russian Sanctions",
+      "take": "UK targets Cryptomus, Heleket, TokenSpot in new Russian sanctions",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/"
     },
     {
-      "headline": "Will AI Break Crypto Encryption? Ethereum\u2019s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-      "take": "Ethereum's Vitalik Buterin weighs in on AI threats to crypto encryption",
+      "headline": "Senator Blumenthal probes ties between Tether and Cantor Fitzgerald",
+      "take": "Senator Blumenthal probes ties between Tether and Cantor Fitzgerald",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blumenthal-probes-tether-cantor-fitzgerald/"
+    },
+    {
+      "headline": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+      "take": "NFL sides with states against Kalshi in Supreme Court prediction market fight",
       "source": "decrypt",
-      "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode"
+      "link": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market"
     }
   ]
 }

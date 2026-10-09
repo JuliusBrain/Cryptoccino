@@ -1,114 +1,102 @@
 {
-  "generated": "2026-10-09T10:41:21.681055+00:00",
-  "ts": 1791542481,
+  "generated": "2026-10-09T18:23:53.511226+00:00",
+  "ts": 1791570233,
   "market": [
     {
-      "headline": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "take": "Bitcoin rebounds to $82,000 as geopolitical tensions ease and oil prices fall",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes"
-    },
-    {
-      "headline": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
-      "take": "XRP ETFs gain while Bitcoin and Ether funds post outflows amid market rotation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
-    },
-    {
-      "headline": "Crypto ETFs shed $311.9 million in a single day as October outflows build",
-      "take": "Crypto ETFs shed $311.9 million in single day as October outflows accelerate",
+      "headline": "Businesses add 193,000 Bitcoin in 2026 while individuals sell 93,000",
+      "take": "Businesses accumulated 193k Bitcoin in 2026 while individuals sold 93k",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-etf-outflows-311-million-coinglass/"
+      "link": "https://cryptobriefing.com/businesses-add-bitcoin-individuals-sell-2026/"
     },
     {
-      "headline": "Ether bets were wiped out at six times bitcoin\u2019s rate in crypto\u2019s $1 billion flush",
-      "take": "Ether liquidations exceeded Bitcoin's at six-to-one ratio during market flush",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush"
+      "headline": "Robinhood\u2019s margin book hits record $21.6 billion, up 127% year over year",
+      "take": "Robinhood margin book hits record $21.6B, up 127% year-over-year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-margin-book-record-21-6-billion/"
     },
     {
-      "headline": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "take": "New bitcoin lending technology debuts with $500 million in initial commitments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments"
+      "headline": "Bitunix analysts flag $82,800 as pivotal Bitcoin level as ETF demand weakens",
+      "take": "Bitcoin traders watch $82,800 as key level amid weakening ETF demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pivotal-bitcoin-level-etf-demand/"
+    },
+    {
+      "headline": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+      "take": "Ethereum L2 Starknet jumps 20% after announcing L1 transition plans",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1"
     }
   ],
   "business": [
     {
-      "headline": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "take": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5M from Bain Capital Crypto",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131"
-    },
-    {
-      "headline": "Dogecoin prepares for upgrade with DogeOS testnet launch",
-      "take": "Dogecoin prepares network upgrade with DogeOS testnet launch underway",
+      "headline": "Coinbase opens full trading for DATA-USD and WHUF-USD pairs",
+      "take": "Coinbase opens full trading for DATA-USD and WHUF-USD pairs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dogecoin-dogeos-testnet-launch-upgrade/"
+      "link": "https://cryptobriefing.com/coinbase-full-trading-data-whuf-pairs/"
     },
     {
-      "headline": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "take": "XRP Ledger adds banking controls for stablecoins and tokenized asset issuance",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
+      "headline": "AsiaStrategy and Plume sign MOU to explore a tokenized products JV in Asia",
+      "take": "AsiaStrategy and Plume sign MOU for tokenized products joint venture in Asia",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/plume-asiastrategy-mou-tokenized-products-asia/"
     },
     {
-      "headline": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "take": "Marathon Digital transfers $81.1M bitcoin to Galaxy Digital, pivots focus to AI",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai"
+      "headline": "HSBC and Ant Digital test AI-agent payments with tokenized deposits",
+      "take": "HSBC and Ant Digital test AI-agent payments with tokenized deposits",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hsbc-ant-digital-ai-agent-tokenized-deposits/"
     },
     {
-      "headline": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "take": "Solana finalizes block time halving to 200 milliseconds in upcoming network upgrade",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears"
+      "headline": "Starknet\u2019s Stwo prover cuts peak memory to 2.1 GiB, putting STARK proofs on phones",
+      "take": "Starknet's Stwo prover reduces peak memory to 2.1 GiB for mobile STARK proofs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/starknet-stwo-prover-mobile-stark-proofs/"
     }
   ],
   "security": [
     {
-      "headline": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "take": "Dark web marketplace operator sentenced to 40 years, forfeits $101M in bitcoin",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison"
-    },
-    {
-      "headline": "ARTEX AI agent goes closed-source after being linked to South Korean bank hacks",
-      "take": "ARTEX AI agent goes closed-source after suspected links to South Korean bank hacks",
+      "headline": "Ledger incident losses near $90 million as Tether freezes linked USDT,\u00a0MistTrack says",
+      "take": "Ledger incident losses near $90M as Tether freezes linked USDT",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/artex-ai-closed-source-south-korean-bank-hack/"
+      "link": "https://cryptobriefing.com/tether-freezes-usdt-ledger-user-thefts/"
     },
     {
-      "headline": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "take": "SIM-swap fraudster jailed for stealing crypto, spending proceeds on luxury goods",
+      "headline": "Bitcoin holder loses 80 BTC worth $5.2 million after moving funds to reseller-bought Ledger",
+      "take": "Bitcoin holder loses 80 BTC after moving funds to reseller-bought Ledger device",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-holder-loses-80-btc-ledger-reseller/"
+    },
+    {
+      "headline": "Tether froze 1.45 million USDT in THORChain vaults, then reversed course three hours later",
+      "take": "Tether froze 1.45M USDT in THORChain vaults, then reversed after three hours",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/"
+    },
+    {
+      "headline": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "take": "DWF Labs subsidiaries sue BitGo for $141M over early token sales",
       "source": "decrypt",
-      "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed"
-    },
-    {
-      "headline": "DWF Labs affiliates sue BitGo for $141M over alleged Falcon Finance, ESPORTS token sales",
-      "take": "DWF Labs affiliates sue BitGo for $141M over alleged token sales involvement",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-141m-lawsuit-dwf-labs-lockup/"
+      "link": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales"
     }
   ],
   "policy": [
     {
-      "headline": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "take": "Thailand SEC finalizes Bitcoin and Ether ETF rules, regulatory framework launches October 16",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132"
+      "headline": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+      "take": "Blockchain.com seeks US approval for prediction markets and crypto derivatives",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives"
     },
     {
-      "headline": "France committee approves stablecoin tax, crypto exit tax for 2027 budget",
-      "take": "France approves stablecoin tax and crypto exit tax measures for 2027 budget",
+      "headline": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+      "take": "New York AG secures up to $35M and industry ban from ex-Celsius CEO Mashinsky",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky"
+    },
+    {
+      "headline": "Big banks and Democrats blocked the Clarity Act; next target in their sights",
+      "take": "Big banks and Democrats blocked Clarity Act; new regulatory targets emerging",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/france-committee-approves-stablecoin-tax-crypto-exit-tax-for-2027-budget/"
-    },
-    {
-      "headline": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "take": "UK sanctions three crypto exchanges over alleged connections to Russian operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links"
+      "link": "https://cryptobriefing.com/big-banks-and-democrats-blocked-the-clarity-act-next-target-in-their-sights/"
     }
   ]
 }

@@ -1,132 +1,84 @@
 {
-  "generated": "2026-10-10T09:57:25.466198+00:00",
-  "ts": 1791626245,
+  "generated": "2026-10-10T17:22:41.370662+00:00",
+  "ts": 1791652961,
   "market": [
     {
-      "headline": "Bitcoin slides toward $82.5K as over $2.4 billion in crypto liquidations hit longs",
-      "take": "Bitcoin slides toward $82.5K as $2.4B in crypto liquidations hit longs",
+      "headline": "Bitcoin ETF inflows hit $3 billion in eight days as institutions return",
+      "take": "Bitcoin ETF inflows surge to $3 billion in eight days as institutions return",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-slides-2-4-billion-liquidations/"
+      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-3-billion-september/"
     },
     {
-      "headline": "Prediction markets give Bitcoin a 2% shot at $200,000 in 2026, a record low",
-      "take": "Prediction markets assign Bitcoin only 2% odds of hitting $200K by 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-200000-odds-record-low-2026/"
+      "headline": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "take": "Ether ETFs extend outflow streak; Solana funds hit record 14-week inflow run",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215"
     },
     {
-      "headline": "Aerodrome rallies 48% in four weeks, outpacing Bitcoin and Ether",
-      "take": "Aerodrome rallies 48% in four weeks, outpacing Bitcoin and Ether",
+      "headline": "Papertrade draws $3B in Bitcoin open interest as on-chain perps exchange launches",
+      "take": "Papertrade launches on-chain perps exchange, draws $3 billion Bitcoin open interest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aerodrome-aero-rallies-velodrome-merger/"
+      "link": "https://cryptobriefing.com/papertrade-3b-open-interest-launch/"
     },
     {
-      "headline": "Bitcoin spot ETFs see $21M in net inflows on October 9",
-      "take": "Bitcoin spot ETFs see $21M in net inflows on October 9",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-spot-etfs-21m-inflows-october-9/"
-    },
-    {
-      "headline": "Bitcoin\u2019s volatility is falling, but its extreme price swings now outpace 2018",
-      "take": "Bitcoin volatility falling but extreme swings now outpace 2018 frequency",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-extreme-price-swings-2026-vs-2018/"
+      "headline": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "take": "Bitcoin volatility down overall but extreme swings more frequent than 2018",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018"
     }
   ],
   "business": [
     {
-      "headline": "Hyperliquid surpasses $1B revenue, $1B used for HYPE buybacks",
-      "take": "Hyperliquid surpasses $1B revenue, allocates $1B for HYPE token buybacks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-surpasses-1b-revenue-1b-used-for-hype-buybacks/"
+      "headline": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "take": "Sam Altman-backed Bitcoin life insurer raises $37.5 million after launch",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
     },
     {
-      "headline": "Coinbase and Gennius plan ONED USD stablecoin access through Latin American banks",
-      "take": "Coinbase and Gennius launch ONED USD stablecoin via Latin American banks",
+      "headline": "Papertrade shows $10.3 million in staker rewards shortly after launch",
+      "take": "Papertrade shows $10.3 million in staker rewards shortly after launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-gennius-oned-usd-stablecoin-latin-america/"
+      "link": "https://cryptobriefing.com/papertrade-staker-rewards-launch-hyperevm/"
     },
     {
-      "headline": "STRK rallies as Starknet weighs a move from Ethereum layer 2 to its own layer 1",
-      "take": "STRK rallies as Starknet considers move from Ethereum layer 2 to layer 1",
+      "headline": "Paxos Labs and Theo bet tokenized commodities can do more than sit there",
+      "take": "Paxos Labs and Theo expand tokenized commodities beyond gold into lending, oil",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strk-rallies-starknet-layer-1-transition/"
+      "link": "https://cryptobriefing.com/paxos-labs-theo-tokenized-commodities-yield/"
     },
     {
-      "headline": "Robinhood Chain transactions fall more than 40% as memecoin trading cools",
-      "take": "Robinhood Chain transactions fall over 40% as memecoin trading cools",
+      "headline": "TRON captures 23% of stablecoin card volume in Q3 2026",
+      "take": "TRON captures 23 percent of stablecoin card volume in Q3 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-transactions-fall-memecoin-cooldown/"
-    },
-    {
-      "headline": "Visa survey finds nearly half of Asia-Pacific consumers likely to use stablecoins",
-      "take": "Visa survey finds nearly half of Asia-Pacific consumers likely to use stablecoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/visa-survey-asia-pacific-stablecoin-adoption/"
+      "link": "https://cryptobriefing.com/tron-stablecoin-card-volume-q3-2026/"
     }
   ],
   "security": [
     {
-      "headline": "XRP Ledger discloses overflow bug that could have minted XRP beyond its supply cap",
-      "take": "XRP Ledger discloses overflow bug that could mint XRP beyond supply cap",
+      "headline": "Ledger investigates wallet tampering tied to tens of millions in crypto thefts",
+      "take": "Ledger investigates wallet tampering tied to tens of millions in thefts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-ledger-overflow-bug-extra-xrp/"
-    },
-    {
-      "headline": "Brazilian police seize $1.7M in crypto from phishing ring\u2019s wallets",
-      "take": "Brazilian police seize $1.7M in crypto from phishing ring wallets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brazilian-police-seize-crypto-phishing-ring/"
-    },
-    {
-      "headline": "Ledger theft-linked funds shift from USDT to USDD to dodge Tether freezes",
-      "take": "Ledger theft-linked funds shift from USDT to USDD to dodge Tether freezes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-theft-funds-usdt-usdd-freeze/"
-    },
-    {
-      "headline": "Anthropic reports rogue AI agents attempted access to US government sites",
-      "take": "Anthropic reports Claude AI agents attempted access to US government sites",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-reports-rogue-ai-agents-attempted-access-to-us-government-sites/"
-    },
-    {
-      "headline": "FBI Arrests Founder of Ransomware Negotiation Firm",
-      "take": "FBI arrests founder of ransomware negotiation firm for undisclosed charges",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+      "link": "https://cryptobriefing.com/ledger-investigates-cryptobilis-wallet-tampering-thefts/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC proposes new swap definition to regulate prediction markets",
-      "take": "CFTC proposes new swap definition to regulate prediction markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-swap-definition-prediction-markets/"
+      "headline": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "take": "CFTC draws regulatory line between prediction markets and gambling",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules"
     },
     {
-      "headline": "DOJ scrutinizes Binance compliance with its 2023 settlement",
-      "take": "DOJ scrutinizes Binance compliance with its 2023 settlement agreement",
+      "headline": "France proposes exit tax on crypto holders moving abroad with \u20ac800K",
+      "take": "France proposes exit tax on crypto holders moving abroad with \u20ac800K threshold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doj-reviews-binance-settlement-compliance/"
+      "link": "https://cryptobriefing.com/france-crypto-exit-tax-800k-stablecoin/"
     },
     {
-      "headline": "Kalshi investigates suspicious trades tied to Trump\u2019s press secretary pick",
-      "take": "Kalshi investigates suspicious trades tied to Trump press secretary pick",
+      "headline": "China calls for national blockchain network in new technology push",
+      "take": "China calls for national blockchain network in new technology push",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-investigates-press-secretary-trades/"
-    },
-    {
-      "headline": "Senate Democrats say data center tax breaks are costing billions",
-      "take": "Senate Democrats say data center tax breaks cost billions annually",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senate-democrats-data-center-tax-breaks/"
-    },
-    {
-      "headline": "Anthropic\u2019s Claude incidents prompt White House voluntary AI accord",
-      "take": "Anthropic Claude incidents prompt White House voluntary AI accord discussions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-incidents-white-house-ai-reporting/"
+      "link": "https://cryptobriefing.com/china-orders-national-blockchain-network/"
     }
   ]
 }

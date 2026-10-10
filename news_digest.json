@@ -1,54 +1,66 @@
 {
-  "generated": "2026-10-10T17:22:41.370662+00:00",
-  "ts": 1791652961,
+  "generated": "2026-10-10T21:50:15.536199+00:00",
+  "ts": 1791669015,
   "market": [
     {
       "headline": "Bitcoin ETF inflows hit $3 billion in eight days as institutions return",
-      "take": "Bitcoin ETF inflows surge to $3 billion in eight days as institutions return",
+      "take": "Bitcoin ETF inflows hit $3 billion in eight days as institutions return",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-etf-inflows-3-billion-september/"
     },
     {
       "headline": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-      "take": "Ether ETFs extend outflow streak; Solana funds hit record 14-week inflow run",
+      "take": "Ether ETF outflows extend nine days while Solana funds hit record inflows",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215"
     },
     {
+      "headline": "Uniswap v4 and v3 capture 47.2% of $161.4 billion in stablecoin DEX volume",
+      "take": "Uniswap v4 and v3 capture nearly half of stablecoin DEX volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-v4-v3-stablecoin-dex-volume/"
+    },
+    {
       "headline": "Papertrade draws $3B in Bitcoin open interest as on-chain perps exchange launches",
-      "take": "Papertrade launches on-chain perps exchange, draws $3 billion Bitcoin open interest",
+      "take": "Papertrade draws $3 billion Bitcoin open interest as on-chain perps exchange launches",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/papertrade-3b-open-interest-launch/"
     },
     {
-      "headline": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "take": "Bitcoin volatility down overall but extreme swings more frequent than 2018",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018"
+      "headline": "Hong Kong brokers\u2019 crypto trading commissions fall 13.5% in first half of 2026",
+      "take": "Hong Kong brokers' crypto trading commissions fell 13.5% in first half 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-brokers-crypto-commissions-fall/"
     }
   ],
   "business": [
     {
+      "headline": "Pump.fun ties callout rewards to followers\u2019 profits starting October 10",
+      "take": "Pump.fun ties callout rewards to followers' profits starting October 10",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pump-fun-callout-rewards-follower-profits/"
+    },
+    {
+      "headline": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "take": "Tokenized commodities expand beyond gold into lending and oil markets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
+    },
+    {
       "headline": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-      "take": "Sam Altman-backed Bitcoin life insurer raises $37.5 million after launch",
+      "take": "Sam Altman-backed life insurer running on Bitcoin raised $37.5 million",
       "source": "decrypt",
       "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
     },
     {
-      "headline": "Papertrade shows $10.3 million in staker rewards shortly after launch",
-      "take": "Papertrade shows $10.3 million in staker rewards shortly after launch",
+      "headline": "Nvidia reportedly in talks to acquire Reflection AI, its open-model bet",
+      "take": "Nvidia reportedly in talks to acquire Reflection AI for open-model strategy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/papertrade-staker-rewards-launch-hyperevm/"
-    },
-    {
-      "headline": "Paxos Labs and Theo bet tokenized commodities can do more than sit there",
-      "take": "Paxos Labs and Theo expand tokenized commodities beyond gold into lending, oil",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paxos-labs-theo-tokenized-commodities-yield/"
+      "link": "https://cryptobriefing.com/nvidia-talks-acquire-reflection-ai/"
     },
     {
       "headline": "TRON captures 23% of stablecoin card volume in Q3 2026",
-      "take": "TRON captures 23 percent of stablecoin card volume in Q3 2026",
+      "take": "TRON captures 23% of stablecoin card volume in Q3 2026",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/tron-stablecoin-card-volume-q3-2026/"
     }
@@ -59,6 +71,12 @@
       "take": "Ledger investigates wallet tampering tied to tens of millions in thefts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ledger-investigates-cryptobilis-wallet-tampering-thefts/"
+    },
+    {
+      "headline": "Papertrade traders lose $18.6 million while stakers collect $12.57 million in rewards",
+      "take": "Papertrade traders lose $18.6 million while stakers collect rewards",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/papertrade-traders-lose-staking-rewards/"
     }
   ],
   "policy": [
@@ -70,15 +88,21 @@
     },
     {
       "headline": "France proposes exit tax on crypto holders moving abroad with \u20ac800K",
-      "take": "France proposes exit tax on crypto holders moving abroad with \u20ac800K threshold",
+      "take": "France proposes exit tax on crypto holders moving abroad with \u20ac800K",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/france-crypto-exit-tax-800k-stablecoin/"
     },
     {
-      "headline": "China calls for national blockchain network in new technology push",
-      "take": "China calls for national blockchain network in new technology push",
+      "headline": "CFTC Chairman Selig says he is disappointed in Congress over stalled crypto bill",
+      "take": "CFTC Chairman disappointed in Congress over stalled crypto bill progress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-orders-national-blockchain-network/"
+      "link": "https://cryptobriefing.com/cftc-selig-disappointed-congress-clarity-act/"
+    },
+    {
+      "headline": "Trump\u2019s AI liability push leaves a big question: who pays when AI breaks things",
+      "take": "Trump's AI liability push leaves unclear question of who pays for damage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-ai-liability-push-accountability-concerns/"
     }
   ]
 }

@@ -1,102 +1,132 @@
 {
-  "generated": "2026-10-09T18:23:53.511226+00:00",
-  "ts": 1791570233,
+  "generated": "2026-10-10T00:57:09.892483+00:00",
+  "ts": 1791593829,
   "market": [
     {
-      "headline": "Businesses add 193,000 Bitcoin in 2026 while individuals sell 93,000",
-      "take": "Businesses accumulated 193k Bitcoin in 2026 while individuals sold 93k",
+      "headline": "STRK rallies as Starknet weighs a move from Ethereum layer 2 to its own layer 1",
+      "take": "STRK rallies as Starknet plans migration from Ethereum layer 2 to independent layer 1",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/businesses-add-bitcoin-individuals-sell-2026/"
+      "link": "https://cryptobriefing.com/strk-rallies-starknet-layer-1-transition/"
     },
     {
-      "headline": "Robinhood\u2019s margin book hits record $21.6 billion, up 127% year over year",
-      "take": "Robinhood margin book hits record $21.6B, up 127% year-over-year",
+      "headline": "Strive reportedly buys 638 Bitcoin with preferred stock proceeds this week",
+      "take": "Strive acquires 638 Bitcoin using preferred stock proceeds this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-margin-book-record-21-6-billion/"
+      "link": "https://cryptobriefing.com/strive-reportedly-buys-638-bitcoin-with-preferred-stock-proceeds-this-week/"
     },
     {
-      "headline": "Bitunix analysts flag $82,800 as pivotal Bitcoin level as ETF demand weakens",
-      "take": "Bitcoin traders watch $82,800 as key level amid weakening ETF demand",
+      "headline": "Solana token holder net income tops $400K for two weeks straight",
+      "take": "Solana token holder net income sustained above $400K for two consecutive weeks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pivotal-bitcoin-level-etf-demand/"
+      "link": "https://cryptobriefing.com/solana-token-holder-net-income-tops-400k-for-two-weeks-straight/"
     },
     {
-      "headline": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-      "take": "Ethereum L2 Starknet jumps 20% after announcing L1 transition plans",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1"
+      "headline": "Circle minted another 750 million USDC on Solana in the last 24 hours",
+      "take": "Circle mints additional 750 million USDC on Solana within 24 hours",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-minted-another-750-million-usdc-on-solana-in-the-last-24-hours/"
+    },
+    {
+      "headline": "Big Tech is borrowing hundreds of billions for AI, and bond investors are getting cautious",
+      "take": "Big Tech borrowing hundreds of billions for AI; bond investors show caution",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperscalers-borrow-billions-ai-debt-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase opens full trading for DATA-USD and WHUF-USD pairs",
-      "take": "Coinbase opens full trading for DATA-USD and WHUF-USD pairs",
+      "headline": "Coinbase and Gennius plan ONED USD stablecoin access through Latin American banks",
+      "take": "Coinbase and Gennius launch ONED USD stablecoin via Latin American banks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-full-trading-data-whuf-pairs/"
+      "link": "https://cryptobriefing.com/coinbase-gennius-oned-usd-stablecoin-latin-america/"
     },
     {
-      "headline": "AsiaStrategy and Plume sign MOU to explore a tokenized products JV in Asia",
-      "take": "AsiaStrategy and Plume sign MOU for tokenized products joint venture in Asia",
+      "headline": "Slush Wallet adds Halliday integration to simplify deposits into Sui",
+      "take": "Slush Wallet integrates Halliday to streamline deposits into Sui blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/plume-asiastrategy-mou-tokenized-products-asia/"
+      "link": "https://cryptobriefing.com/slush-wallet-halliday-sui-deposits/"
     },
     {
-      "headline": "HSBC and Ant Digital test AI-agent payments with tokenized deposits",
-      "take": "HSBC and Ant Digital test AI-agent payments with tokenized deposits",
+      "headline": "AI chiplet startup Eliyan draws takeover interest months after $1 billion valuation",
+      "take": "AI chiplet startup Eliyan attracts takeover interest post-$1 billion valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hsbc-ant-digital-ai-agent-tokenized-deposits/"
+      "link": "https://cryptobriefing.com/eliyan-ai-chiplet-takeover-interest/"
     },
     {
-      "headline": "Starknet\u2019s Stwo prover cuts peak memory to 2.1 GiB, putting STARK proofs on phones",
-      "take": "Starknet's Stwo prover reduces peak memory to 2.1 GiB for mobile STARK proofs",
+      "headline": "XRP treasury firm Evernorth completes deal to list under XRPN",
+      "take": "XRP treasury firm Evernorth completes listing under XRPN ticker",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-stwo-prover-mobile-stark-proofs/"
+      "link": "https://cryptobriefing.com/xrp-treasury-firm-evens-nasdaq-debut/"
+    },
+    {
+      "headline": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+      "take": "Blockchain.com seeks US regulatory approval for prediction markets and crypto derivatives",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives"
     }
   ],
   "security": [
     {
-      "headline": "Ledger incident losses near $90 million as Tether freezes linked USDT,\u00a0MistTrack says",
-      "take": "Ledger incident losses near $90M as Tether freezes linked USDT",
+      "headline": "Anthropic reports rogue AI agents attempted access to US government sites",
+      "take": "Anthropic reports rogue AI agents attempted unauthorized access to US government sites",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-freezes-usdt-ledger-user-thefts/"
+      "link": "https://cryptobriefing.com/anthropic-reports-rogue-ai-agents-attempted-access-to-us-government-sites/"
     },
     {
-      "headline": "Bitcoin holder loses 80 BTC worth $5.2 million after moving funds to reseller-bought Ledger",
-      "take": "Bitcoin holder loses 80 BTC after moving funds to reseller-bought Ledger device",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-holder-loses-80-btc-ledger-reseller/"
+      "headline": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "take": "FBI arrests founder of ransomware negotiation firm for criminal conduct",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
     },
     {
-      "headline": "Tether froze 1.45 million USDT in THORChain vaults, then reversed course three hours later",
-      "take": "Tether froze 1.45M USDT in THORChain vaults, then reversed after three hours",
+      "headline": "Ava Labs explores backup cryptography as Sirer flags AI security risks",
+      "take": "Ava Labs explores backup cryptography after security concerns flagged by Sirer",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/"
+      "link": "https://cryptobriefing.com/ava-labs-backup-cryptography-ai-security/"
     },
     {
-      "headline": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-      "take": "DWF Labs subsidiaries sue BitGo for $141M over early token sales",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales"
+      "headline": "Anthropic AI model sent a fake homicide tip to Philadelphia police during testing",
+      "take": "Anthropic AI model generated fake homicide tip to Philadelphia police during test",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ai-false-homicide-tip-philadelphia/"
+    },
+    {
+      "headline": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "take": "THORChain executive accuses Tether of temporarily freezing USDT vaults",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
-      "take": "Blockchain.com seeks US approval for prediction markets and crypto derivatives",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives"
-    },
-    {
-      "headline": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
-      "take": "New York AG secures up to $35M and industry ban from ex-Celsius CEO Mashinsky",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky"
-    },
-    {
-      "headline": "Big banks and Democrats blocked the Clarity Act; next target in their sights",
-      "take": "Big banks and Democrats blocked Clarity Act; new regulatory targets emerging",
+      "headline": "CFTC proposes new swap definition to regulate prediction markets",
+      "take": "CFTC proposes new swap definition to regulate prediction markets and event contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/big-banks-and-democrats-blocked-the-clarity-act-next-target-in-their-sights/"
+      "link": "https://cryptobriefing.com/cftc-swap-definition-prediction-markets/"
+    },
+    {
+      "headline": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+      "take": "US plans to seize approximately $1 billion in Iran-linked cryptocurrency this week",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "DOJ scrutinizes Binance compliance with its 2023 settlement",
+      "take": "DOJ scrutinizes Binance compliance with its 2023 settlement terms and conditions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/doj-reviews-binance-settlement-compliance/"
+    },
+    {
+      "headline": "French finance panel backs taxing Bitcoin-to-stablecoin swaps in 2027 budget",
+      "take": "French parliament backs taxing Bitcoin-to-stablecoin swaps in 2027 budget proposal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/french-finance-panel-backs-taxing-bitcoin-to-stablecoin-swaps-in-2027-budget/"
+    },
+    {
+      "headline": "Kalshi investigates suspicious trades tied to Trump\u2019s press secretary pick",
+      "take": "Kalshi investigates suspicious trading activity linked to Trump press secretary appointment",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-investigates-press-secretary-trades/"
     }
   ]
 }

@@ -1,78 +1,66 @@
 {
-  "generated": "2026-10-11T05:56:20.126282+00:00",
-  "ts": 1791698180,
+  "generated": "2026-10-11T13:00:52.715624+00:00",
+  "ts": 1791723652,
   "market": [
     {
-      "headline": "SUI rallies approximately 54% in four weeks, outpacing Bitcoin and Ether",
-      "take": "SUI rallies 54% in four weeks, outpacing Bitcoin and Ether",
+      "headline": "Bitfinex ETH longs climb to their highest level in over four years",
+      "take": "Bitfinex ETH longs reach four-year highs amid sustained bullish positioning",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sui-rallies-54-percent-outpacing-bitcoin-ether/"
+      "link": "https://cryptobriefing.com/bitfinex-eth-longs-four-year-high/"
     },
     {
-      "headline": "Ethereum ETFs see largest weekly net outflow since January",
-      "take": "Ethereum ETFs see largest weekly net outflow since January",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-etfs-largest-weekly-outflow-since-january/"
+      "headline": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "take": "IMF identifies tokenized stock demand but notes volatility and liquidity constraints",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid"
     },
     {
-      "headline": "US government\u2019s crypto holdings drop $16 billion from their peak",
-      "take": "US government crypto holdings drop $16 billion from peak",
+      "headline": "Filecoin nears the end of its six-year vesting schedule, cutting FIL issuance by about 75%",
+      "take": "Filecoin vesting concludes, reducing token issuance by approximately seventy-five percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-crypto-holdings-drop-16-billion/"
-    },
-    {
-      "headline": "Uniswap v4 and v3 capture 47.2% of $161.4 billion in stablecoin DEX volume",
-      "take": "Uniswap v4 and v3 capture 47% of $161B stablecoin DEX volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-v4-v3-stablecoin-dex-volume/"
+      "link": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/"
     }
   ],
   "business": [
     {
       "headline": "Circle mints 250M USDC on Solana, boosting liquidity and network potential",
-      "take": "Circle mints 250M USDC on Solana, boosting network liquidity",
+      "take": "Circle mints 250M USDC on Solana, expanding stablecoin presence and ecosystem liquidity",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/circle-mints-250m-usdc-on-solana-boosting-liquidity-and-network-potential/"
     },
     {
-      "headline": "Filecoin nears the end of its six-year vesting schedule, cutting FIL issuance by about 75%",
-      "take": "Filecoin vesting ends soon, cutting FIL issuance by roughly 75%",
+      "headline": "BitMine completes $350M stock buyback, which Tom Lee calls the largest in crypto",
+      "take": "BitMine completes largest crypto stock buyback at $350 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/"
+      "link": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/"
     },
     {
-      "headline": "Nvidia reportedly in talks to acquire Reflection AI, its open-model bet",
-      "take": "Nvidia reportedly in talks to acquire Reflection AI startup",
+      "headline": "OKX founder Star Xu sees crypto and traditional finance convergence",
+      "take": "OKX founder predicts convergence between crypto and traditional finance sectors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-talks-acquire-reflection-ai/"
-    },
-    {
-      "headline": "Pump.fun ties callout rewards to followers\u2019 profits starting October 10",
-      "take": "Pump.fun ties reward payouts to followers' trading profits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-callout-rewards-follower-profits/"
+      "link": "https://cryptobriefing.com/okx-founder-star-xu-sees-crypto-and-traditional-finance-convergence/"
     }
   ],
   "security": [
     {
-      "headline": "Papertrade faces oracle manipulation allegation as its loss-funded pool shows $3M",
-      "take": "Papertrade faces oracle manipulation allegation, $3M loss-funded pool exposed",
+      "headline": "Coldcard investigates phishing link posted on its X account after exploit",
+      "take": "Coldcard investigates phishing link distributed via compromised X account",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/papertrade-oracle-manipulation-allegation-pool/"
-    },
-    {
-      "headline": "Anthropic AI accessed US government sites, submitted fake police tip",
-      "take": "Anthropic AI accessed US government sites, submitted fake police tip",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-accessed-us-government-sites-submitted-fake-police-tip/"
+      "link": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
-      "take": "Kalshi investigating bets on Trump's press secretary pick before announcement",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222"
+      "headline": "Bank of England says it will be \u2018the banker to the stablecoin\u2019",
+      "take": "Bank of England commits to stablecoin banking infrastructure role",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/"
+    },
+    {
+      "headline": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "take": "CFTC proposes regulatory framework distinguishing prediction markets from gambling",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

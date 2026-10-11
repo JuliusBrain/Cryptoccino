@@ -1,108 +1,78 @@
 {
-  "generated": "2026-10-10T21:50:15.536199+00:00",
-  "ts": 1791669015,
+  "generated": "2026-10-11T05:56:20.126282+00:00",
+  "ts": 1791698180,
   "market": [
     {
-      "headline": "Bitcoin ETF inflows hit $3 billion in eight days as institutions return",
-      "take": "Bitcoin ETF inflows hit $3 billion in eight days as institutions return",
+      "headline": "SUI rallies approximately 54% in four weeks, outpacing Bitcoin and Ether",
+      "take": "SUI rallies 54% in four weeks, outpacing Bitcoin and Ether",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-inflows-3-billion-september/"
+      "link": "https://cryptobriefing.com/sui-rallies-54-percent-outpacing-bitcoin-ether/"
     },
     {
-      "headline": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-      "take": "Ether ETF outflows extend nine days while Solana funds hit record inflows",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215"
+      "headline": "Ethereum ETFs see largest weekly net outflow since January",
+      "take": "Ethereum ETFs see largest weekly net outflow since January",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-etfs-largest-weekly-outflow-since-january/"
+    },
+    {
+      "headline": "US government\u2019s crypto holdings drop $16 billion from their peak",
+      "take": "US government crypto holdings drop $16 billion from peak",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-government-crypto-holdings-drop-16-billion/"
     },
     {
       "headline": "Uniswap v4 and v3 capture 47.2% of $161.4 billion in stablecoin DEX volume",
-      "take": "Uniswap v4 and v3 capture nearly half of stablecoin DEX volume",
+      "take": "Uniswap v4 and v3 capture 47% of $161B stablecoin DEX volume",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/uniswap-v4-v3-stablecoin-dex-volume/"
-    },
-    {
-      "headline": "Papertrade draws $3B in Bitcoin open interest as on-chain perps exchange launches",
-      "take": "Papertrade draws $3 billion Bitcoin open interest as on-chain perps exchange launches",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/papertrade-3b-open-interest-launch/"
-    },
-    {
-      "headline": "Hong Kong brokers\u2019 crypto trading commissions fall 13.5% in first half of 2026",
-      "take": "Hong Kong brokers' crypto trading commissions fell 13.5% in first half 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-brokers-crypto-commissions-fall/"
     }
   ],
   "business": [
     {
-      "headline": "Pump.fun ties callout rewards to followers\u2019 profits starting October 10",
-      "take": "Pump.fun ties callout rewards to followers' profits starting October 10",
+      "headline": "Circle mints 250M USDC on Solana, boosting liquidity and network potential",
+      "take": "Circle mints 250M USDC on Solana, boosting network liquidity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-callout-rewards-follower-profits/"
+      "link": "https://cryptobriefing.com/circle-mints-250m-usdc-on-solana-boosting-liquidity-and-network-potential/"
     },
     {
-      "headline": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "take": "Tokenized commodities expand beyond gold into lending and oil markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
-    },
-    {
-      "headline": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-      "take": "Sam Altman-backed life insurer running on Bitcoin raised $37.5 million",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
+      "headline": "Filecoin nears the end of its six-year vesting schedule, cutting FIL issuance by about 75%",
+      "take": "Filecoin vesting ends soon, cutting FIL issuance by roughly 75%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/"
     },
     {
       "headline": "Nvidia reportedly in talks to acquire Reflection AI, its open-model bet",
-      "take": "Nvidia reportedly in talks to acquire Reflection AI for open-model strategy",
+      "take": "Nvidia reportedly in talks to acquire Reflection AI startup",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nvidia-talks-acquire-reflection-ai/"
     },
     {
-      "headline": "TRON captures 23% of stablecoin card volume in Q3 2026",
-      "take": "TRON captures 23% of stablecoin card volume in Q3 2026",
+      "headline": "Pump.fun ties callout rewards to followers\u2019 profits starting October 10",
+      "take": "Pump.fun ties reward payouts to followers' trading profits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-stablecoin-card-volume-q3-2026/"
+      "link": "https://cryptobriefing.com/pump-fun-callout-rewards-follower-profits/"
     }
   ],
   "security": [
     {
-      "headline": "Ledger investigates wallet tampering tied to tens of millions in crypto thefts",
-      "take": "Ledger investigates wallet tampering tied to tens of millions in thefts",
+      "headline": "Papertrade faces oracle manipulation allegation as its loss-funded pool shows $3M",
+      "take": "Papertrade faces oracle manipulation allegation, $3M loss-funded pool exposed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-investigates-cryptobilis-wallet-tampering-thefts/"
+      "link": "https://cryptobriefing.com/papertrade-oracle-manipulation-allegation-pool/"
     },
     {
-      "headline": "Papertrade traders lose $18.6 million while stakers collect $12.57 million in rewards",
-      "take": "Papertrade traders lose $18.6 million while stakers collect rewards",
+      "headline": "Anthropic AI accessed US government sites, submitted fake police tip",
+      "take": "Anthropic AI accessed US government sites, submitted fake police tip",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/papertrade-traders-lose-staking-rewards/"
+      "link": "https://cryptobriefing.com/anthropic-ai-accessed-us-government-sites-submitted-fake-police-tip/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-      "take": "CFTC draws regulatory line between prediction markets and gambling",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules"
-    },
-    {
-      "headline": "France proposes exit tax on crypto holders moving abroad with \u20ac800K",
-      "take": "France proposes exit tax on crypto holders moving abroad with \u20ac800K",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/france-crypto-exit-tax-800k-stablecoin/"
-    },
-    {
-      "headline": "CFTC Chairman Selig says he is disappointed in Congress over stalled crypto bill",
-      "take": "CFTC Chairman disappointed in Congress over stalled crypto bill progress",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-selig-disappointed-congress-clarity-act/"
-    },
-    {
-      "headline": "Trump\u2019s AI liability push leaves a big question: who pays when AI breaks things",
-      "take": "Trump's AI liability push leaves unclear question of who pays for damage",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ai-liability-push-accountability-concerns/"
+      "headline": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
+      "take": "Kalshi investigating bets on Trump's press secretary pick before announcement",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222"
     }
   ]
 }

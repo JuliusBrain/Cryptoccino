@@ -1,66 +1,108 @@
 {
-  "generated": "2026-10-11T13:00:52.715624+00:00",
-  "ts": 1791723652,
+  "generated": "2026-10-11T19:35:27.881342+00:00",
+  "ts": 1791747327,
   "market": [
     {
+      "headline": "Bitcoin tops $84,000 and liquidates nearly $83 million in short bets",
+      "take": "Bitcoin tops $84,000, liquidating nearly $83 million in short positions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-tops-84000-short-liquidations/"
+    },
+    {
+      "headline": "Solana captures 65% of tokenized equities trading volume",
+      "take": "Solana captures 65% of tokenized equities trading volume, leads blockchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-captures-65-tokenized-equities-volume/"
+    },
+    {
       "headline": "Bitfinex ETH longs climb to their highest level in over four years",
-      "take": "Bitfinex ETH longs reach four-year highs amid sustained bullish positioning",
+      "take": "Bitfinex ETH longs climb to highest level in over four years",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitfinex-eth-longs-four-year-high/"
     },
     {
-      "headline": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "take": "IMF identifies tokenized stock demand but notes volatility and liquidity constraints",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid"
+      "headline": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "take": "Bitcoin, Ethereum and Solana ETFs all posted losses during October",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october"
     },
     {
-      "headline": "Filecoin nears the end of its six-year vesting schedule, cutting FIL issuance by about 75%",
-      "take": "Filecoin vesting concludes, reducing token issuance by approximately seventy-five percent",
+      "headline": "Liquid Network halts Bitcoin redemptions with reserves at about 86% coverage",
+      "take": "Liquid Network halts Bitcoin redemptions with reserves at 86% coverage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/"
+      "link": "https://cryptobriefing.com/liquid-network-halts-bitcoin-redemptions-reserve-gap/"
     }
   ],
   "business": [
     {
-      "headline": "Circle mints 250M USDC on Solana, boosting liquidity and network potential",
-      "take": "Circle mints 250M USDC on Solana, expanding stablecoin presence and ecosystem liquidity",
+      "headline": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "take": "XRP Ledger patches decade-old bug that could have minted trillions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
+    },
+    {
+      "headline": "Bank of England says it will be \u2018the banker to the stablecoin\u2019",
+      "take": "Bank of England signals it will serve as stablecoin infrastructure banker",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-250m-usdc-on-solana-boosting-liquidity-and-network-potential/"
+      "link": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/"
+    },
+    {
+      "headline": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "take": "Zcash plans quantum-resistant and AI-resistant key protection mechanisms",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks"
     },
     {
       "headline": "BitMine completes $350M stock buyback, which Tom Lee calls the largest in crypto",
-      "take": "BitMine completes largest crypto stock buyback at $350 million",
+      "take": "BitMine completes $350 million stock buyback, largest reported in crypto",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/"
     },
     {
       "headline": "OKX founder Star Xu sees crypto and traditional finance convergence",
-      "take": "OKX founder predicts convergence between crypto and traditional finance sectors",
+      "take": "OKX founder sees growing convergence between crypto and traditional finance",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/okx-founder-star-xu-sees-crypto-and-traditional-finance-convergence/"
     }
   ],
   "security": [
     {
+      "headline": "Ledger confirms draining cases linked to CryptoBilis-sold devices",
+      "take": "Ledger confirms wallet drains linked to devices sold by CryptoBilis",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ledger-cryptobilis-hardware-implant-draining/"
+    },
+    {
       "headline": "Coldcard investigates phishing link posted on its X account after exploit",
-      "take": "Coldcard investigates phishing link distributed via compromised X account",
+      "take": "Coldcard investigates phishing link posted on its X account after exploit",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/"
     }
   ],
   "policy": [
     {
-      "headline": "Bank of England says it will be \u2018the banker to the stablecoin\u2019",
-      "take": "Bank of England commits to stablecoin banking infrastructure role",
+      "headline": "CFTC\u2019s new crypto market plan faces scrutiny after Loper Bright",
+      "take": "CFTC crypto market plan faces scrutiny following Loper Light ruling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/"
+      "link": "https://cryptobriefing.com/cftc-crypto-plan-loper-bright-scrutiny/"
     },
     {
       "headline": "CFTC proposals aimed at separating prediction markets from casino gambling",
-      "take": "CFTC proposes regulatory framework distinguishing prediction markets from gambling",
+      "take": "CFTC proposals aim to separate prediction markets from casino gambling",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange",
+      "take": "Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/"
+    },
+    {
+      "headline": "Singapore\u2019s MAS puts Hyperliquid on its investor alert list",
+      "take": "Singapore's MAS puts Hyperliquid on investor alert list for monitoring",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/singapore-mas-hyperliquid-investor-alert/"
     }
   ]
 }

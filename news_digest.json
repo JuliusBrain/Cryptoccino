@@ -1,102 +1,96 @@
 {
-  "generated": "2026-10-12T11:02:49.560018+00:00",
-  "ts": 1791802969,
+  "generated": "2026-10-12T21:18:22.209715+00:00",
+  "ts": 1791839902,
   "market": [
     {
-      "headline": "Spot Bitcoin and Ethereum ETFs bleed $1.22 billion in a single week",
-      "take": "Spot Bitcoin and Ethereum ETFs saw $1.22 billion outflows in one week",
+      "headline": "Bitcoin records first bullish 13/34-week EMA crossover in 3.5 years",
+      "take": "Bitcoin records first bullish 13/34-week EMA crossover in 3.5 years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etfs-1-22-billion-outflows/"
+      "link": "https://cryptobriefing.com/bitcoin-bullish-13-34-week-ema-crossover/"
     },
     {
-      "headline": "Tokenized stock DEX volume tops $3.4 billion a week after Robinhood Chain launch",
-      "take": "Tokenized stock DEX volume reached $3.4 billion weekly after Robinhood Chain launch",
+      "headline": "Morgan Stanley projects tokenized assets market could hit $10T by 2030",
+      "take": "Morgan Stanley projects tokenized assets market could hit $10T by 2030",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-chain-tokenized-stock-dex-volume/"
+      "link": "https://cryptobriefing.com/morgan-stanley-tokenized-assets-10-trillion-2030/"
     },
     {
-      "headline": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "take": "Altcoins rallied on thin trading while bitcoin held below $83,500",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000"
+      "headline": "Polymarket US trades $2.72 billion in notional volume in a single week",
+      "take": "Polymarket US trades $2.72 billion in notional volume in single week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-us-weekly-volume-surge/"
     },
     {
-      "headline": "Circle mints approximately $3.5 billion USDC on Solana in the past seven days",
-      "take": "Circle minted $3.5 billion USDC on Solana over seven days",
+      "headline": "USDC traded $40.2 billion on DEXs during Q3 weekends while banks were closed",
+      "take": "USDC traded $40.2 billion on DEXs during Q3 weekends",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-approximately-35-billion-usdc-on-solana-in-the-past-seven-days/"
+      "link": "https://cryptobriefing.com/usdc-40-billion-dex-weekend-volume-q3/"
+    },
+    {
+      "headline": "Robinhood reports $15B in stock token trading as its chain hits 100 days",
+      "take": "Robinhood reports $15B in stock token trading as chain hits 100 days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-chain-stock-tokens-15b-100-days/"
     }
   ],
   "business": [
     {
-      "headline": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "take": "SWI raised $894 million to convert Genesis Digital's bitcoin miners to AI",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai"
+      "headline": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
+      "take": "Standard Chartered holds Ripple stablecoin in Dubai, enables client trading",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai"
     },
     {
-      "headline": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "take": "Morgan Stanley plans to support tokenized equities by Q1 2027",
+      "headline": "Binance launches AI trading tool after 150,000-user beta",
+      "take": "Binance launches AI trading tool after 150,000-user beta phase",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256"
+      "link": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349"
     },
     {
-      "headline": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
-      "take": "Standard Chartered launched custody for Ripple's RLUSD on XRP Ledger",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258"
-    },
-    {
-      "headline": "Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout",
-      "take": "Kraken parent cleared Dubai's final approval for dirham trading launch",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Bullish plugs its Bitcoin options into Elwood Technologies for post-trade management",
-      "take": "Bullish integrated Bitcoin options into Elwood Technologies for post-trade management",
+      "headline": "Bitfinex Securities launches tokenized fund offerings using Tether\u2019s Hadron",
+      "take": "Bitfinex Securities launches tokenized fund offerings using Tether's Hadron",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bullish-bitcoin-options-elwood-integration/"
+      "link": "https://cryptobriefing.com/tokenized-fund-offerings-bitfinex/"
+    },
+    {
+      "headline": "China\u2019s top leadership calls for a national blockchain network, minus the tokens",
+      "take": "China's top leadership calls for national blockchain network minus tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/china-national-blockchain-network-guidelines/"
+    },
+    {
+      "headline": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+      "take": "Ripple-backed Evernorth hits Nasdaq holding 473 million XRP",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp"
     }
   ],
   "security": [
     {
-      "headline": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "take": "Ledger found unauthorized implant in at least one device sold by retailer",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis"
-    },
-    {
-      "headline": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-      "take": "Bug threatening XRP's 100 billion supply cap remained hidden for years",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years"
-    },
-    {
-      "headline": "Anthropic, OpenAI face scrutiny over AI security incidents",
-      "take": "Anthropic and OpenAI face scrutiny over AI security incidents",
+      "headline": "Anthropic warns small AI models may soon self-replicate on IoT devices",
+      "take": "Anthropic warns small AI models may self-replicate on IoT devices",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-openai-face-scrutiny-over-ai-security-incidents/"
+      "link": "https://cryptobriefing.com/anthropic-small-ai-models-self-replicate-iot/"
     }
   ],
   "policy": [
     {
-      "headline": "French lawmakers advance proposal for \u20ac100K crypto wallet disclosure",
-      "take": "French lawmakers advanced proposal requiring \u20ac100K crypto wallet disclosure",
+      "headline": "CFTC\u2019s leveraged crypto framework may run out of runway before 2028, TD Cowen warns",
+      "take": "CFTC's leveraged crypto framework may face 2028 election deadline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/french-lawmakers-crypto-wallet-disclosure/"
+      "link": "https://cryptobriefing.com/cftc-crypto-framework-2028-election-td-cowen/"
     },
     {
-      "headline": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "take": "Global watchdog flagged stablecoin and AI risks ahead of G20",
+      "headline": "Commerce plans to move CAISI under direct White House oversight",
+      "take": "Commerce plans to move CAISI under direct White House oversight",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/caisi-white-house-reporting-shift/"
+    },
+    {
+      "headline": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+      "take": "Crypto PACs report $2.7M spending blitz on House races",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Solana Policy Institute\u2019s Kristin Smith warns crypto rules may be hard to undo",
-      "take": "Solana Policy Institute warns crypto rules may prove difficult to reverse",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kristin-smith-crypto-rules-irreversible/"
+      "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

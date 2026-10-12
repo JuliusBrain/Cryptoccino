@@ -1,90 +1,102 @@
 {
-  "generated": "2026-10-12T00:36:54.053136+00:00",
-  "ts": 1791765414,
+  "generated": "2026-10-12T11:02:49.560018+00:00",
+  "ts": 1791802969,
   "market": [
     {
-      "headline": "Avalanche\u2019s AVAX gains 50% in four weeks, outpacing Bitcoin and Ether",
-      "take": "AVAX gained 50% in four weeks, outpacing Bitcoin and Ether",
+      "headline": "Spot Bitcoin and Ethereum ETFs bleed $1.22 billion in a single week",
+      "take": "Spot Bitcoin and Ethereum ETFs saw $1.22 billion outflows in one week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-avax-gains-50-percent-four-weeks/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etfs-1-22-billion-outflows/"
     },
     {
-      "headline": "Bitcoin tops $84,000 and liquidates nearly $83 million in short bets",
-      "take": "Bitcoin topped $84,000, liquidating nearly $83M in short bets",
+      "headline": "Tokenized stock DEX volume tops $3.4 billion a week after Robinhood Chain launch",
+      "take": "Tokenized stock DEX volume reached $3.4 billion weekly after Robinhood Chain launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-tops-84000-short-liquidations/"
+      "link": "https://cryptobriefing.com/robinhood-chain-tokenized-stock-dex-volume/"
     },
     {
-      "headline": "Solana captures 65% of tokenized equities trading volume",
-      "take": "Solana captured 65% of tokenized equities trading volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-captures-65-tokenized-equities-volume/"
+      "headline": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+      "take": "Altcoins rallied on thin trading while bitcoin held below $83,500",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000"
     },
     {
-      "headline": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",
-      "take": "Trader netted $1.28M on new exchange Papertrade via price movement",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239"
+      "headline": "Circle mints approximately $3.5 billion USDC on Solana in the past seven days",
+      "take": "Circle minted $3.5 billion USDC on Solana over seven days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-mints-approximately-35-billion-usdc-on-solana-in-the-past-seven-days/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase fine-tunes Qwen3.5-9B model for fraud prevention, beating frontier models",
-      "take": "Coinbase fine-tuned Qwen model for fraud prevention outperforming frontier models",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/"
+      "headline": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "take": "SWI raised $894 million to convert Genesis Digital's bitcoin miners to AI",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai"
     },
     {
-      "headline": "SoftBank\u2019s $100 billion AI fund push hints at a late-stage boom",
-      "take": "SoftBank's $100B AI fund push signals late-stage venture boom",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/softbank-100-billion-ai-fund-gulf/"
+      "headline": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
+      "take": "Morgan Stanley plans to support tokenized equities by Q1 2027",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256"
     },
     {
-      "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "take": "Tokenized stocks show real demand but remain volatile and illiquid",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds"
+      "headline": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
+      "take": "Standard Chartered launched custody for Ripple's RLUSD on XRP Ledger",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258"
+    },
+    {
+      "headline": "Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout",
+      "take": "Kraken parent cleared Dubai's final approval for dirham trading launch",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Bullish plugs its Bitcoin options into Elwood Technologies for post-trade management",
+      "take": "Bullish integrated Bitcoin options into Elwood Technologies for post-trade management",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bullish-bitcoin-options-elwood-integration/"
     }
   ],
   "security": [
     {
-      "headline": "Hackers reportedly drain up to $93 million through compromised Ledger reseller",
-      "take": "Hackers drained up to $93M through compromised Ledger reseller accounts",
+      "headline": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "take": "Ledger found unauthorized implant in at least one device sold by retailer",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis"
+    },
+    {
+      "headline": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "take": "Bug threatening XRP's 100 billion supply cap remained hidden for years",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years"
+    },
+    {
+      "headline": "Anthropic, OpenAI face scrutiny over AI security incidents",
+      "take": "Anthropic and OpenAI face scrutiny over AI security incidents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-reseller-supply-chain-hack-implants/"
-    },
-    {
-      "headline": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-      "take": "XRP Ledger patched decade-old bug that could mint trillions XRP",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
-    },
-    {
-      "headline": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
-      "take": "Zcash plans to hide keys from AI and quantum computing attacks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks"
+      "link": "https://cryptobriefing.com/anthropic-openai-face-scrutiny-over-ai-security-incidents/"
     }
   ],
   "policy": [
     {
-      "headline": "America\u2019s Credit Unions takes on crypto policy as stablecoin rules take shape",
-      "take": "America's Credit Unions engage crypto policy as stablecoin rules form",
+      "headline": "French lawmakers advance proposal for \u20ac100K crypto wallet disclosure",
+      "take": "French lawmakers advanced proposal requiring \u20ac100K crypto wallet disclosure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/americas-credit-unions-crypto-stablecoin-policy/"
+      "link": "https://cryptobriefing.com/french-lawmakers-crypto-wallet-disclosure/"
     },
     {
-      "headline": "Singapore\u2019s MAS puts Hyperliquid on its investor alert list",
-      "take": "Singapore's MAS placed Hyperliquid on its investor alert list",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/singapore-mas-hyperliquid-investor-alert/"
+      "headline": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "take": "Global watchdog flagged stablecoin and AI risks ahead of G20",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange",
-      "take": "Kyrgyzstan ordered liquidation of USDKG issuer and Coin Nomad Exchange",
+      "headline": "Solana Policy Institute\u2019s Kristin Smith warns crypto rules may be hard to undo",
+      "take": "Solana Policy Institute warns crypto rules may prove difficult to reverse",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/"
+      "link": "https://cryptobriefing.com/kristin-smith-crypto-rules-irreversible/"
     }
   ]
 }

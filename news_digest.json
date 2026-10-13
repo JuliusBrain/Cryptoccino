@@ -1,82 +1,88 @@
 {
-  "generated": "2026-10-12T21:18:22.209715+00:00",
-  "ts": 1791839902,
+  "generated": "2026-10-13T02:37:23.715677+00:00",
+  "ts": 1791859043,
   "market": [
     {
-      "headline": "Bitcoin records first bullish 13/34-week EMA crossover in 3.5 years",
-      "take": "Bitcoin records first bullish 13/34-week EMA crossover in 3.5 years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-bullish-13-34-week-ema-crossover/"
+      "headline": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+      "take": "Bitcoin slides below $82k as crypto liquidations surge past $770m",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374"
     },
     {
-      "headline": "Morgan Stanley projects tokenized assets market could hit $10T by 2030",
-      "take": "Morgan Stanley projects tokenized assets market could hit $10T by 2030",
+      "headline": "Bearish options made up 53.5% of Bitcoin\u2019s options volume this week",
+      "take": "Bearish options made up 53.5% of Bitcoin's options volume this week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-tokenized-assets-10-trillion-2030/"
-    },
-    {
-      "headline": "Polymarket US trades $2.72 billion in notional volume in a single week",
-      "take": "Polymarket US trades $2.72 billion in notional volume in single week",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-us-weekly-volume-surge/"
-    },
-    {
-      "headline": "USDC traded $40.2 billion on DEXs during Q3 weekends while banks were closed",
-      "take": "USDC traded $40.2 billion on DEXs during Q3 weekends",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-40-billion-dex-weekend-volume-q3/"
+      "link": "https://cryptobriefing.com/bearish-options-bitcoin-volume-this-week/"
     },
     {
       "headline": "Robinhood reports $15B in stock token trading as its chain hits 100 days",
-      "take": "Robinhood reports $15B in stock token trading as chain hits 100 days",
+      "take": "Robinhood reports $15B in stock token trading as its chain hits 100 days",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/robinhood-chain-stock-tokens-15b-100-days/"
+    },
+    {
+      "headline": "Cerebras stock hits record low of $146.98, down 62% from its first-day high",
+      "take": "Cerebras stock hits record low, down 62% from its first-day high",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cerebras-stock-record-low-down-62-percent/"
+    },
+    {
+      "headline": "Nvidia, AMD shares fall as OpenAI revenue report rattles AI investors",
+      "take": "Nvidia, AMD shares fall as OpenAI revenue report rattles AI investors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-amd-shares-fall-openai-revenue/"
     }
   ],
   "business": [
     {
+      "headline": "Microsoft integrates Anthropic models into Copilot, diversifies AI strategy",
+      "take": "Microsoft integrates Anthropic models into Copilot, diversifies AI strategy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/microsoft-integrates-anthropic-models-into-copilot-diversifies-ai-strategy/"
+    },
+    {
       "headline": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
-      "take": "Standard Chartered holds Ripple stablecoin in Dubai, enables client trading",
+      "take": "Standard Chartered will hold Ripple's stablecoin in Dubai for client trading",
       "source": "decrypt",
       "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai"
     },
     {
-      "headline": "Binance launches AI trading tool after 150,000-user beta",
-      "take": "Binance launches AI trading tool after 150,000-user beta phase",
+      "headline": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "take": "Blur to shut down frontend next month as NFT trading volume dwindles",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349"
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363"
     },
     {
-      "headline": "Bitfinex Securities launches tokenized fund offerings using Tether\u2019s Hadron",
-      "take": "Bitfinex Securities launches tokenized fund offerings using Tether's Hadron",
+      "headline": "Coinbase flags delayed Celestia transfers as trading continues normally",
+      "take": "Coinbase flags delayed Celestia transfers as trading continues normally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-fund-offerings-bitfinex/"
+      "link": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/"
     },
     {
-      "headline": "China\u2019s top leadership calls for a national blockchain network, minus the tokens",
-      "take": "China's top leadership calls for national blockchain network minus tokens",
+      "headline": "Mark Zuckerberg pledges vast AI spending as Meta takes aim at OpenAI and Anthropic",
+      "take": "Mark Zuckerberg pledges vast AI spending as Meta takes aim at OpenAI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-national-blockchain-network-guidelines/"
-    },
-    {
-      "headline": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-      "take": "Ripple-backed Evernorth hits Nasdaq holding 473 million XRP",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp"
+      "link": "https://cryptobriefing.com/zuckerberg-pledges-vast-meta-ai-spending/"
     }
   ],
   "security": [
     {
-      "headline": "Anthropic warns small AI models may soon self-replicate on IoT devices",
-      "take": "Anthropic warns small AI models may self-replicate on IoT devices",
+      "headline": "Anthropic says new defenses cut distillation data harvested from Claude by 90 to 99 percent",
+      "take": "Anthropic says new defenses cut distillation data harvested from Claude by 90 to 99 percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-small-ai-models-self-replicate-iot/"
+      "link": "https://cryptobriefing.com/anthropic-claude-distillation-attack-defenses/"
     }
   ],
   "policy": [
     {
+      "headline": "South Korea blocks access to 27 unregistered overseas crypto exchanges",
+      "take": "South Korea blocks access to 27 unregistered overseas crypto exchanges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/south-korea-blocks-27-overseas-crypto-exchanges/"
+    },
+    {
       "headline": "CFTC\u2019s leveraged crypto framework may run out of runway before 2028, TD Cowen warns",
-      "take": "CFTC's leveraged crypto framework may face 2028 election deadline",
+      "take": "CFTC's leveraged crypto framework may run out of runway before 2028",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-crypto-framework-2028-election-td-cowen/"
     },
@@ -88,7 +94,7 @@
     },
     {
       "headline": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
-      "take": "Crypto PACs report $2.7M spending blitz on House races",
+      "take": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

@@ -1,102 +1,102 @@
 {
-  "generated": "2026-10-14T05:04:16.241339+00:00",
-  "ts": 1791954256,
+  "generated": "2026-10-14T12:01:50.820596+00:00",
+  "ts": 1791979310,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs pull in $175.6 million as ether funds add $24.8 million",
-      "take": "Spot Bitcoin ETFs pull in $175.6M as ether funds add $24.8M",
+      "headline": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "take": "Bitcoin holds above $83,000 as traders await US inflation data",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag"
+    },
+    {
+      "headline": "USD stablecoins hold at $303.4 billion while euro tokens reach $810.1 million",
+      "take": "USD stablecoins stable at $303B while euro tokens grow to $810M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-inflows-ether-etfs-october/"
+      "link": "https://cryptobriefing.com/usd-stablecoin-market-cap-303-billion/"
     },
     {
-      "headline": "Bitcoin climbs toward $84,000 after Fed\u2019s Williams sees no rate hikes in 2027",
-      "take": "Bitcoin climbs toward $84,000 after Fed signals no rate hikes in 2027",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
+      "headline": "Hypercall records $592M in options volume since June launch",
+      "take": "Hypercall options exchange logs $592M volume since June launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hypercall-sp500-options-volume-hyperliquid/"
     },
     {
-      "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "take": "Strive raising $500M to buy additional bitcoin via preferred share class",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury"
+      "headline": "Standard Chartered opens direct Bitcoin and ether trading to affluent UAE clients",
+      "take": "Standard Chartered opens direct bitcoin and ether trading for UAE clients",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/standard-chartered-uae-bitcoin-ether-trading/"
     },
     {
-      "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "take": "BNY and Citadel Securities test tokenized U.S. Treasuries for Wall Street",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
+      "headline": "PancakeSwap proposes 88% LP fee share and a 69% CAKE emissions cut",
+      "take": "PancakeSwap proposes LP fee increase and CAKE emissions reduction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pancakeswap-88-lp-fee-share-cake-emissions/"
     }
   ],
   "business": [
     {
-      "headline": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "take": "Solana targets 150-millisecond finality with Alpenglow upgrade on October 21",
+      "headline": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+      "take": "Evernorth partners Ripple, Kraken, Coinbase, BitGo to deploy $648M XRP",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503"
+    },
+    {
+      "headline": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+      "take": "Kraken parent Payward acquires Lithuania's Saldo Bank for EU expansion",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push"
+    },
+    {
+      "headline": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+      "take": "Dutch central bank grants Qivalis e-money license for euro token",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality"
+      "link": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules"
     },
     {
-      "headline": "Ripple taps Meritz Securities to bring custody, tokenization to Korea\u2019s capital markets",
-      "take": "Ripple partners with Meritz Securities for Korea custody and tokenization",
+      "headline": "Centrifuge formally verifies 1,589 properties of its core protocol",
+      "take": "Centrifuge formally verifies 1,589 properties of core protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-meritz-securities-south-korea-partnership/"
+      "link": "https://cryptobriefing.com/centrifuge-formal-verification-certora-prover/"
     },
     {
-      "headline": "Clearpool launches redesigned dApp with swap tool for CPOOL to CLEAR migration",
-      "take": "Clearpool launches redesigned dApp with CPOOL to CLEAR migration swap",
+      "headline": "CoinShares partners with Safe and Railnet to offer stablecoin yield strategies",
+      "take": "CoinShares partners Safe and Railnet for stablecoin yield strategies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/clearpool-dapp-cpool-clear-migration/"
-    },
-    {
-      "headline": "Starknet launches Shadow Accounts to keep DeFi wallets unlinkable",
-      "take": "Starknet launches Shadow Accounts to keep DeFi wallets unlinkable",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/"
-    },
-    {
-      "headline": "Circle outlines seven-part framework for evaluating institutional wrapped assets",
-      "take": "Circle outlines seven-part framework for evaluating institutional wrapped assets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-framework-institutional-wrapped-assets/"
+      "link": "https://cryptobriefing.com/coinshares-safe-railnet-stablecoin-yield/"
     }
   ],
   "security": [
     {
-      "headline": "XBOW uses OpenAI\u2019s GPT-5.6 to exploit Chrome, earns $250,000 bounty",
-      "take": "XBOW uses GPT-5.6 to exploit Chrome, earns $250,000 bounty",
+      "headline": "BitMEX sued in UK for $27 million in Bitcoin over unlicensed derivatives",
+      "take": "BitMEX sued in UK for $27M Bitcoin over unlicensed derivatives trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/"
+      "link": "https://cryptobriefing.com/bitmex-sued-uk-27m-bitcoin-unlicensed-derivatives/"
     },
     {
-      "headline": "Microsoft Patches More Than 1,400 Security Flaws",
-      "take": "Microsoft patches more than 1,400 security flaws in latest update",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
-    },
-    {
-      "headline": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-      "take": "OpenAI engineer arrested for bugging office; company says AI caught him",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him"
+      "headline": "OpenAI and Google AI models keep getting tricked into making explicit content, researchers warn",
+      "take": "OpenAI and Google models exploited by researchers to generate explicit content",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-google-ai-models-tricked-explicit-content/"
     }
   ],
   "policy": [
     {
-      "headline": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "take": "Philippines central bank takes regulatory action against Coins.ph exchange",
+      "headline": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "take": "France proposes 31.4% tax on regulated stablecoins, may push traders offshore",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
+      "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore"
     },
     {
-      "headline": "Anthropic asks full appeals court to revisit Pentagon national security ruling",
-      "take": "Anthropic asks full appeals court to revisit Pentagon national security ruling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-appeals-court-national-security-ruling/"
+      "headline": "Sam Bankman-Fried\u2019s lawyer lays out ex-FTX CEO\u2019s Supreme Court case",
+      "take": "Sam Bankman-Fried's lawyer outlines Supreme Court case strategy",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Judge orders OpenAI to expedite document release in Apple trade secrets case",
-      "take": "Judge orders OpenAI to expedite document release in Apple trade secrets case",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/judge-orders-openai-to-expedite-document-release-in-apple-trade-secrets-case/"
+      "headline": "Coins.ph says Philippine central bank license intact amid revocation claims",
+      "take": "Coins.ph asserts Philippine central bank license remains intact",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

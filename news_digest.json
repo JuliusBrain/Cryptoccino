@@ -1,102 +1,108 @@
 {
-  "generated": "2026-10-14T12:01:50.820596+00:00",
-  "ts": 1791979310,
+  "generated": "2026-10-14T17:18:09.278220+00:00",
+  "ts": 1791998289,
   "market": [
     {
-      "headline": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-      "take": "Bitcoin holds above $83,000 as traders await US inflation data",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag"
+      "headline": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
+      "take": "Bitcoin drops below $82k as inflation data raises Fed rate hike odds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582"
     },
     {
-      "headline": "USD stablecoins hold at $303.4 billion while euro tokens reach $810.1 million",
-      "take": "USD stablecoins stable at $303B while euro tokens grow to $810M",
+      "headline": "$218M in long crypto positions liquidated in four hours",
+      "take": "$218 million in long positions liquidated within four hours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usd-stablecoin-market-cap-303-billion/"
+      "link": "https://cryptobriefing.com/218m-long-crypto-positions-liquidated-four-hours/"
     },
     {
-      "headline": "Hypercall records $592M in options volume since June launch",
-      "take": "Hypercall options exchange logs $592M volume since June launch",
+      "headline": "Traders buy bubble puts on CoreWeave as neocloud stocks plunge",
+      "take": "Traders buying put options on CoreWeave as cloud stocks decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hypercall-sp500-options-volume-hyperliquid/"
+      "link": "https://cryptobriefing.com/coreweave-puts-neocloud-stocks-plunge/"
     },
     {
-      "headline": "Standard Chartered opens direct Bitcoin and ether trading to affluent UAE clients",
-      "take": "Standard Chartered opens direct bitcoin and ether trading for UAE clients",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-chartered-uae-bitcoin-ether-trading/"
+      "headline": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+      "take": "Standard Chartered projects stablecoin market to reach $2 trillion by 2030",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578"
     },
     {
-      "headline": "PancakeSwap proposes 88% LP fee share and a 69% CAKE emissions cut",
-      "take": "PancakeSwap proposes LP fee increase and CAKE emissions reduction",
+      "headline": "Grayscale warns investors may overlook Ethereum and Solana in crypto cycle",
+      "take": "Grayscale warns investors may overlook Ethereum and Solana this cycle",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pancakeswap-88-lp-fee-share-cake-emissions/"
+      "link": "https://cryptobriefing.com/grayscale-ethereum-solana-overlooked-tokenization/"
     }
   ],
   "business": [
     {
-      "headline": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-      "take": "Evernorth partners Ripple, Kraken, Coinbase, BitGo to deploy $648M XRP",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503"
-    },
-    {
-      "headline": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
-      "take": "Kraken parent Payward acquires Lithuania's Saldo Bank for EU expansion",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push"
-    },
-    {
-      "headline": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
-      "take": "Dutch central bank grants Qivalis e-money license for euro token",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules"
-    },
-    {
-      "headline": "Centrifuge formally verifies 1,589 properties of its core protocol",
-      "take": "Centrifuge formally verifies 1,589 properties of core protocol",
+      "headline": "Hyperliquid expands tokenized stock offerings with EQX launch",
+      "take": "Hyperliquid expands tokenized stock offerings with EQX launch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-formal-verification-certora-prover/"
+      "link": "https://cryptobriefing.com/hyperliquid-expands-tokenized-stock-offerings-with-eqx-launch/"
     },
     {
-      "headline": "CoinShares partners with Safe and Railnet to offer stablecoin yield strategies",
-      "take": "CoinShares partners Safe and Railnet for stablecoin yield strategies",
+      "headline": "Myrmidon Staking launches pooled ETH staking product on Lido V3 stVaults",
+      "take": "Myrmidon Staking launches pooled Ethereum staking on Lido V3",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinshares-safe-railnet-stablecoin-yield/"
+      "link": "https://cryptobriefing.com/myrmidon-staking-pooled-eth-lido-v3/"
+    },
+    {
+      "headline": "Uniswap launches ETH/USDC pool with separate buy and sell fees",
+      "take": "Uniswap launches ETH/USDC pool with differentiated buy and sell fees",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uniswap-volatilepair-hook-eth-usdc-pool/"
+    },
+    {
+      "headline": "Circle\u2019s CCTP passes $100 million in cross-chain volume for non-USDC assets",
+      "take": "Circle's CCTP cross-chain volume exceeds $100 million for non-USDC assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-cctp-100m-non-usdc-volume/"
+    },
+    {
+      "headline": "A7 International enables USDT payments for foreign invoices via SWIFT",
+      "take": "A7 International enables USDT payments for foreign invoices via SWIFT",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/a7-international-usdt-payments-swift-foreign-invoices/"
     }
   ],
   "security": [
     {
-      "headline": "BitMEX sued in UK for $27 million in Bitcoin over unlicensed derivatives",
-      "take": "BitMEX sued in UK for $27M Bitcoin over unlicensed derivatives trading",
+      "headline": "UNCX Network vesting pool exploited for $86,000, Blockaid reports",
+      "take": "UNCX Network vesting pool exploited for $86,000 in loss",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmex-sued-uk-27m-bitcoin-unlicensed-derivatives/"
+      "link": "https://cryptobriefing.com/uncx-network-vesting-pool-exploited/"
     },
     {
-      "headline": "OpenAI and Google AI models keep getting tricked into making explicit content, researchers warn",
-      "take": "OpenAI and Google models exploited by researchers to generate explicit content",
+      "headline": "Coinbase joins law enforcement to combat West African scam networks",
+      "take": "Coinbase partners with law enforcement against West African scam networks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-google-ai-models-tricked-explicit-content/"
+      "link": "https://cryptobriefing.com/coinbase-joint-disruption-week-west-africa-scams/"
+    },
+    {
+      "headline": "TU Wien researchers work to formally prove the security of Bitcoin\u2019s Ark protocol",
+      "take": "Researchers formally proving security of Bitcoin's Ark protocol",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tu-wien-formal-security-proof-ark-protocol/"
     }
   ],
   "policy": [
     {
-      "headline": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-      "take": "France proposes 31.4% tax on regulated stablecoins, may push traders offshore",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore"
+      "headline": "OCC report finds debanking efforts tied to crypto activities",
+      "take": "OCC report links debanking efforts to cryptocurrency industry activities",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Sam Bankman-Fried\u2019s lawyer lays out ex-FTX CEO\u2019s Supreme Court case",
-      "take": "Sam Bankman-Fried's lawyer outlines Supreme Court case strategy",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Kalshi CEO warns state oversight could push prediction markets offshore",
+      "take": "Kalshi CEO warns state oversight could push prediction markets offshore",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-ceo-state-oversight-prediction-markets-offshore/"
     },
     {
-      "headline": "Coins.ph says Philippine central bank license intact amid revocation claims",
-      "take": "Coins.ph asserts Philippine central bank license remains intact",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Cboe wins SEC approval to list options on company performance metrics",
+      "take": "SEC approves Cboe listing options on company performance metrics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cboe-sec-approval-kpi-binary-options/"
     }
   ]
 }

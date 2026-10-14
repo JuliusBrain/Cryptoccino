@@ -1,108 +1,108 @@
 {
-  "generated": "2026-10-14T17:18:09.278220+00:00",
-  "ts": 1791998289,
+  "generated": "2026-10-14T21:46:25.763640+00:00",
+  "ts": 1792014385,
   "market": [
     {
-      "headline": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-      "take": "Bitcoin drops below $82k as inflation data raises Fed rate hike odds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582"
-    },
-    {
-      "headline": "$218M in long crypto positions liquidated in four hours",
-      "take": "$218 million in long positions liquidated within four hours",
+      "headline": "S&P 500, Nasdaq post worst day since July as AI trade falters",
+      "take": "S&P 500 and Nasdaq post worst day since July as AI trade falters",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/218m-long-crypto-positions-liquidated-four-hours/"
+      "link": "https://cryptobriefing.com/sp-500-nasdaq-worst-day-ai-trade/"
     },
     {
-      "headline": "Traders buy bubble puts on CoreWeave as neocloud stocks plunge",
-      "take": "Traders buying put options on CoreWeave as cloud stocks decline",
+      "headline": "Chip-stock index faces $1 trillion loss as AI concerns deepen",
+      "take": "Chip-stock index faces $1 trillion loss as AI concerns deepen",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-puts-neocloud-stocks-plunge/"
+      "link": "https://cryptobriefing.com/semiconductor-stocks-lose-1-trillion-ai-fears/"
     },
     {
-      "headline": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
-      "take": "Standard Chartered projects stablecoin market to reach $2 trillion by 2030",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578"
-    },
-    {
-      "headline": "Grayscale warns investors may overlook Ethereum and Solana in crypto cycle",
-      "take": "Grayscale warns investors may overlook Ethereum and Solana this cycle",
+      "headline": "Coinbase and Deribit launch six new equity perpetual futures markets",
+      "take": "Coinbase and Deribit launch six new equity perpetual futures markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-ethereum-solana-overlooked-tokenization/"
+      "link": "https://cryptobriefing.com/coinbase-deribit-six-equity-perpetual-futures/"
+    },
+    {
+      "headline": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "take": "Standard Chartered opens Bitcoin and Ethereum trading to wealthy UAE clients",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading"
+    },
+    {
+      "headline": "Bitso lists Western Union\u2019s USDPT stablecoin for users in Mexico",
+      "take": "Bitso lists Western Union's USDPT stablecoin for users in Mexico",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitso-lists-western-union-usdpt-stablecoin-mexico/"
     }
   ],
   "business": [
     {
-      "headline": "Hyperliquid expands tokenized stock offerings with EQX launch",
-      "take": "Hyperliquid expands tokenized stock offerings with EQX launch",
+      "headline": "VanEck withdraws SEC registration for its Lido Staked Ethereum ETF",
+      "take": "VanEck withdraws SEC registration for its Lido Staked Ethereum ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-expands-tokenized-stock-offerings-with-eqx-launch/"
+      "link": "https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/"
     },
     {
-      "headline": "Myrmidon Staking launches pooled ETH staking product on Lido V3 stVaults",
-      "take": "Myrmidon Staking launches pooled Ethereum staking on Lido V3",
+      "headline": "Riot Platforms moves its Bitcoin custody from NYDIG to BitGo Bank & Trust",
+      "take": "Riot Platforms moves its Bitcoin custody from NYDIG to BitGo",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/myrmidon-staking-pooled-eth-lido-v3/"
+      "link": "https://cryptobriefing.com/riot-platforms-bitgo-custody-agreement/"
     },
     {
-      "headline": "Uniswap launches ETH/USDC pool with separate buy and sell fees",
-      "take": "Uniswap launches ETH/USDC pool with differentiated buy and sell fees",
+      "headline": "Evernorth taps Ripple CEO Brad Garlinghouse as strategic advisor",
+      "take": "Evernorth taps Ripple CEO Brad Garlinghouse as strategic advisor",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-volatilepair-hook-eth-usdc-pool/"
+      "link": "https://cryptobriefing.com/evernorth-appoints-brad-garlinghouse-advisor/"
     },
     {
-      "headline": "Circle\u2019s CCTP passes $100 million in cross-chain volume for non-USDC assets",
-      "take": "Circle's CCTP cross-chain volume exceeds $100 million for non-USDC assets",
+      "headline": "Anthropic licenses Opaque Systems\u2019 confidential AI technology and hires key engineers",
+      "take": "Anthropic licenses Opaque Systems' confidential AI tech and hires engineers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-cctp-100m-non-usdc-volume/"
+      "link": "https://cryptobriefing.com/anthropic-licenses-opaque-systems-confidential-ai/"
     },
     {
-      "headline": "A7 International enables USDT payments for foreign invoices via SWIFT",
-      "take": "A7 International enables USDT payments for foreign invoices via SWIFT",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a7-international-usdt-payments-swift-foreign-invoices/"
+      "headline": "Solana Sets a Date for Its Next Major Upgrade",
+      "take": "Solana sets a date for its next major upgrade",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date"
     }
   ],
   "security": [
     {
-      "headline": "UNCX Network vesting pool exploited for $86,000, Blockaid reports",
-      "take": "UNCX Network vesting pool exploited for $86,000 in loss",
+      "headline": "CoreWeave bond slump raises credit-market stress concerns",
+      "take": "CoreWeave bond slump raises credit-market stress concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uncx-network-vesting-pool-exploited/"
-    },
-    {
-      "headline": "Coinbase joins law enforcement to combat West African scam networks",
-      "take": "Coinbase partners with law enforcement against West African scam networks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-joint-disruption-week-west-africa-scams/"
-    },
-    {
-      "headline": "TU Wien researchers work to formally prove the security of Bitcoin\u2019s Ark protocol",
-      "take": "Researchers formally proving security of Bitcoin's Ark protocol",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tu-wien-formal-security-proof-ark-protocol/"
+      "link": "https://cryptobriefing.com/coreweave-bond-slump-raises-credit-market-stress-concerns/"
     }
   ],
   "policy": [
     {
-      "headline": "OCC report finds debanking efforts tied to crypto activities",
-      "take": "OCC report links debanking efforts to cryptocurrency industry activities",
+      "headline": "Eight states sue OpenAI, claim ChatGPT risks minors and misleads consumers",
+      "take": "Eight states sue OpenAI, claim ChatGPT risks minors and misleads",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eight-states-sue-openai-claim-chatgpt-risks-minors-and-misleads-consumers/"
+    },
+    {
+      "headline": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "take": "Organizations join forces to fight Illinois crypto tax after pause",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Kalshi CEO warns state oversight could push prediction markets offshore",
-      "take": "Kalshi CEO warns state oversight could push prediction markets offshore",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-ceo-state-oversight-prediction-markets-offshore/"
+      "headline": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
+      "take": "EU authority classifies Circle's USDC as 'significant' under MiCA",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Cboe wins SEC approval to list options on company performance metrics",
-      "take": "SEC approves Cboe listing options on company performance metrics",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cboe-sec-approval-kpi-binary-options/"
+      "headline": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "take": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
+    },
+    {
+      "headline": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "take": "Russia's Sberbank wins approval to trade Bitcoin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin"
     }
   ]
 }

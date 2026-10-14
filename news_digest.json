@@ -1,108 +1,102 @@
 {
-  "generated": "2026-10-13T19:20:21.931170+00:00",
-  "ts": 1791919221,
+  "generated": "2026-10-14T00:20:23.050262+00:00",
+  "ts": 1791937223,
   "market": [
     {
-      "headline": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-      "take": "Strive purchases $280 million in Bitcoin, largest acquisition in recent months",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months"
-    },
-    {
-      "headline": "Super League buys its first Bitcoin for $83,041 ahead of Metaplanet deal",
-      "take": "Super League buys first Bitcoin at $83,041 ahead of Metaplanet deal",
+      "headline": "Optimism\u2019s OP jumps 18%, extending four-week gain to 66%",
+      "take": "Optimism token jumps 18%, extending four-week gains to 66%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/super-league-first-bitcoin-metaplanet-deal/"
+      "link": "https://cryptobriefing.com/optimism-op-jumps-18-percent-four-week-gain/"
     },
     {
-      "headline": "EvernorthXRP debuts XRPN shares at NASDAQ amid recent 4% downturn",
-      "take": "EvernorthXRP debuts XRPN shares on NASDAQ during recent XRP decline",
+      "headline": "ARK Invest reviews its Big Ideas 2026 crypto calls and keeps the $1 million Bitcoin target",
+      "take": "ARK Invest maintains $1 million Bitcoin price target for 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/evernorthxrp-debuts-xrpn-shares-at-nasdaq-amid-recent-4-downturn/"
+      "link": "https://cryptobriefing.com/ark-invest-big-ideas-2026-crypto-review/"
     },
     {
-      "headline": "CirBTC borrowing on Morpho hits $190 million as USDC liquidity runs thin",
-      "take": "CirBTC borrowing on Morpho reaches $190 million as stablecoin liquidity tightens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cirbtc-borrowing-morpho-190-million-liquidity/"
-    },
-    {
-      "headline": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-      "take": "MNX exchange offers pre-IPO futures for AI companies against major competitors",
+      "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "take": "Strive raising $500 million to acquire additional bitcoin holdings",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants"
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury"
+    },
+    {
+      "headline": "TRON settles $2.2 trillion in stablecoins in Q3 as onchain payments grow",
+      "take": "TRON settles $2.2 trillion in stablecoins as onchain payments grow",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tron-settles-2-trillion-stablecoins-q3/"
+    },
+    {
+      "headline": "Goldman Sachs sees calm in corporate credit, but expects it to fade soon",
+      "take": "Goldman Sachs expects corporate credit calm to fade soon",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-sachs-corporate-credit-calm-outlook/"
     }
   ],
   "business": [
     {
-      "headline": "Mastercard launches Open USD stablecoin on Solana for cross-border payments",
-      "take": "Mastercard launches Open USD stablecoin on Solana for cross-border payments",
+      "headline": "Polymarket weighs an equity path against a token launch",
+      "take": "Polymarket weighs equity path against launching native token",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mastercard-launches-open-usd-stablecoin-on-solana-for-cross-border-payments/"
+      "link": "https://cryptobriefing.com/polymarket-weighs-equity-or-token-launch/"
     },
     {
-      "headline": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-      "take": "Ripple and Stripe-owned Privy partner on embedded wallets for XRP Ledger",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463"
-    },
-    {
-      "headline": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
-      "take": "Interactive Brokers expands crypto services adding Ethereum staking via Zerohash",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457"
-    },
-    {
-      "headline": "Aave, Ethena and Hyperliquid founders name their biggest rivals at TOKEN2049",
-      "take": "Aave, Ethena and Hyperliquid founders discuss competitive landscape at TOKEN2049",
+      "headline": "Anthropic reportedly holding institutional investor day tomorrow ahead of potential IPO",
+      "take": "Anthropic holds investor day ahead of potential IPO filing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-ethena-hyperliquid-competition-token2049/"
+      "link": "https://cryptobriefing.com/anthropic-reportedly-holding-institutional-investor-day-tomorrow-ahead-of/"
     },
     {
-      "headline": "Fred Ehrsam invests in Venezuelan oil, calls it a once-in-a-generation opportunity",
-      "take": "Fred Ehrsam invests in Venezuelan oil calling it once-in-generation opportunity",
+      "headline": "Starknet launches Shadow Accounts to keep DeFi wallets unlinkable",
+      "take": "Starknet launches Shadow Accounts for unlinkable DeFi wallet privacy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fred-ehrsam-primavera-venezuela-oil-investment/"
+      "link": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/"
+    },
+    {
+      "headline": "Coinbase\u2019s Base launches \u201cEarn & Borrow\u201d for Ethereum layer-2 apps",
+      "take": "Coinbase Base layer-2 launches Earn & Borrow lending products",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbases-base-launches-earn-borrow-for-ethereum-layer-2-apps/"
+    },
+    {
+      "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "take": "BNY and Citadel Securities test tokenized US Treasury settlement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
     }
   ],
   "security": [
     {
-      "headline": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
-      "take": "Trezor cuts resellers after Ledger discovers spy implant in crypto hardware",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets"
-    },
-    {
-      "headline": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "take": "UK crypto trader reports $800,000 loss in knife assault during wrench attacks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion"
-    },
-    {
-      "headline": "Pluto Security raises $42 million to monitor enterprise AI tools",
-      "take": "Pluto Security raises $42 million to monitor enterprise AI tools for threats",
+      "headline": "OpenAI says FBI arrested employee after hidden recording device was found",
+      "take": "FBI arrests OpenAI employee after hidden recording device discovered",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pluto-security-raises-42m-shadow-ai/"
+      "link": "https://cryptobriefing.com/fbi-arrests-openai-engineer-recording-device/"
+    },
+    {
+      "headline": "Microsoft Patches More Than 1,400 Security Flaws",
+      "take": "Microsoft patches more than 1,400 security vulnerabilities",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
+    },
+    {
+      "headline": "OpenAI reportedly in talks to acquire security firm Trail of Bits",
+      "take": "OpenAI reportedly acquiring security firm Trail of Bits",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-talks-acquire-trail-of-bits/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC lets a single commissioner form a quorum when the rest are disqualified",
-      "take": "SEC allows single commissioner to form quorum when others are disqualified",
+      "headline": "Senators Cantwell and Rounds press Trump administration for coordinated AI cybersecurity response",
+      "take": "Senators press Trump administration for coordinated AI cybersecurity response",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-quorum-rule-single-commissioner/"
+      "link": "https://cryptobriefing.com/senators-urge-coordinated-ai-cybersecurity-response/"
     },
     {
-      "headline": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
-      "take": "SEC leadership vacuum could shape crypto regulatory outcomes going forward",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Chainalysis Reactor Withstands Daubert Scrutiny Again on Appeal",
-      "take": "Chainalysis Reactor survives Daubert scrutiny again on federal court appeal",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/chainalysis-daubert-standard-appeal/"
+      "headline": "Oracle asks FERC to fast-track gas pipeline for New Mexico AI data center",
+      "take": "Oracle seeks FERC fast-track approval for New Mexico data center pipeline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oracle-gas-pipeline-new-mexico-data-center/"
     }
   ]
 }

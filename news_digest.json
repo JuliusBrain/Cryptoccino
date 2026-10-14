@@ -1,102 +1,102 @@
 {
-  "generated": "2026-10-14T00:20:23.050262+00:00",
-  "ts": 1791937223,
+  "generated": "2026-10-14T05:04:16.241339+00:00",
+  "ts": 1791954256,
   "market": [
     {
-      "headline": "Optimism\u2019s OP jumps 18%, extending four-week gain to 66%",
-      "take": "Optimism token jumps 18%, extending four-week gains to 66%",
+      "headline": "Spot Bitcoin ETFs pull in $175.6 million as ether funds add $24.8 million",
+      "take": "Spot Bitcoin ETFs pull in $175.6M as ether funds add $24.8M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/optimism-op-jumps-18-percent-four-week-gain/"
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-inflows-ether-etfs-october/"
     },
     {
-      "headline": "ARK Invest reviews its Big Ideas 2026 crypto calls and keeps the $1 million Bitcoin target",
-      "take": "ARK Invest maintains $1 million Bitcoin price target for 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-big-ideas-2026-crypto-review/"
+      "headline": "Bitcoin climbs toward $84,000 after Fed\u2019s Williams sees no rate hikes in 2027",
+      "take": "Bitcoin climbs toward $84,000 after Fed signals no rate hikes in 2027",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
     },
     {
       "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "take": "Strive raising $500 million to acquire additional bitcoin holdings",
+      "take": "Strive raising $500M to buy additional bitcoin via preferred share class",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury"
     },
     {
-      "headline": "TRON settles $2.2 trillion in stablecoins in Q3 as onchain payments grow",
-      "take": "TRON settles $2.2 trillion in stablecoins as onchain payments grow",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-settles-2-trillion-stablecoins-q3/"
-    },
-    {
-      "headline": "Goldman Sachs sees calm in corporate credit, but expects it to fade soon",
-      "take": "Goldman Sachs expects corporate credit calm to fade soon",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-corporate-credit-calm-outlook/"
-    }
-  ],
-  "business": [
-    {
-      "headline": "Polymarket weighs an equity path against a token launch",
-      "take": "Polymarket weighs equity path against launching native token",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-weighs-equity-or-token-launch/"
-    },
-    {
-      "headline": "Anthropic reportedly holding institutional investor day tomorrow ahead of potential IPO",
-      "take": "Anthropic holds investor day ahead of potential IPO filing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-reportedly-holding-institutional-investor-day-tomorrow-ahead-of/"
-    },
-    {
-      "headline": "Starknet launches Shadow Accounts to keep DeFi wallets unlinkable",
-      "take": "Starknet launches Shadow Accounts for unlinkable DeFi wallet privacy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/"
-    },
-    {
-      "headline": "Coinbase\u2019s Base launches \u201cEarn & Borrow\u201d for Ethereum layer-2 apps",
-      "take": "Coinbase Base layer-2 launches Earn & Borrow lending products",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbases-base-launches-earn-borrow-for-ethereum-layer-2-apps/"
-    },
-    {
       "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "take": "BNY and Citadel Securities test tokenized US Treasury settlement",
+      "take": "BNY and Citadel Securities test tokenized U.S. Treasuries for Wall Street",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
     }
   ],
+  "business": [
+    {
+      "headline": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "take": "Solana targets 150-millisecond finality with Alpenglow upgrade on October 21",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality"
+    },
+    {
+      "headline": "Ripple taps Meritz Securities to bring custody, tokenization to Korea\u2019s capital markets",
+      "take": "Ripple partners with Meritz Securities for Korea custody and tokenization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-meritz-securities-south-korea-partnership/"
+    },
+    {
+      "headline": "Clearpool launches redesigned dApp with swap tool for CPOOL to CLEAR migration",
+      "take": "Clearpool launches redesigned dApp with CPOOL to CLEAR migration swap",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/clearpool-dapp-cpool-clear-migration/"
+    },
+    {
+      "headline": "Starknet launches Shadow Accounts to keep DeFi wallets unlinkable",
+      "take": "Starknet launches Shadow Accounts to keep DeFi wallets unlinkable",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/"
+    },
+    {
+      "headline": "Circle outlines seven-part framework for evaluating institutional wrapped assets",
+      "take": "Circle outlines seven-part framework for evaluating institutional wrapped assets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-framework-institutional-wrapped-assets/"
+    }
+  ],
   "security": [
     {
-      "headline": "OpenAI says FBI arrested employee after hidden recording device was found",
-      "take": "FBI arrests OpenAI employee after hidden recording device discovered",
+      "headline": "XBOW uses OpenAI\u2019s GPT-5.6 to exploit Chrome, earns $250,000 bounty",
+      "take": "XBOW uses GPT-5.6 to exploit Chrome, earns $250,000 bounty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fbi-arrests-openai-engineer-recording-device/"
+      "link": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/"
     },
     {
       "headline": "Microsoft Patches More Than 1,400 Security Flaws",
-      "take": "Microsoft patches more than 1,400 security vulnerabilities",
+      "take": "Microsoft patches more than 1,400 security flaws in latest update",
       "source": "krebsonsecurity",
       "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
     },
     {
-      "headline": "OpenAI reportedly in talks to acquire security firm Trail of Bits",
-      "take": "OpenAI reportedly acquiring security firm Trail of Bits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-talks-acquire-trail-of-bits/"
+      "headline": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+      "take": "OpenAI engineer arrested for bugging office; company says AI caught him",
+      "source": "decrypt",
+      "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him"
     }
   ],
   "policy": [
     {
-      "headline": "Senators Cantwell and Rounds press Trump administration for coordinated AI cybersecurity response",
-      "take": "Senators press Trump administration for coordinated AI cybersecurity response",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senators-urge-coordinated-ai-cybersecurity-response/"
+      "headline": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "take": "Philippines central bank takes regulatory action against Coins.ph exchange",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
     },
     {
-      "headline": "Oracle asks FERC to fast-track gas pipeline for New Mexico AI data center",
-      "take": "Oracle seeks FERC fast-track approval for New Mexico data center pipeline",
+      "headline": "Anthropic asks full appeals court to revisit Pentagon national security ruling",
+      "take": "Anthropic asks full appeals court to revisit Pentagon national security ruling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oracle-gas-pipeline-new-mexico-data-center/"
+      "link": "https://cryptobriefing.com/anthropic-appeals-court-national-security-ruling/"
+    },
+    {
+      "headline": "Judge orders OpenAI to expedite document release in Apple trade secrets case",
+      "take": "Judge orders OpenAI to expedite document release in Apple trade secrets case",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/judge-orders-openai-to-expedite-document-release-in-apple-trade-secrets-case/"
     }
   ]
 }

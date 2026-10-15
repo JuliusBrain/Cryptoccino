@@ -1,106 +1,112 @@
 {
-  "generated": "2026-10-14T21:46:25.763640+00:00",
-  "ts": 1792014385,
+  "generated": "2026-10-15T04:49:07.515095+00:00",
+  "ts": 1792039747,
   "market": [
     {
-      "headline": "S&P 500, Nasdaq post worst day since July as AI trade falters",
-      "take": "S&P 500 and Nasdaq post worst day since July as AI trade falters",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp-500-nasdaq-worst-day-ai-trade/"
+      "headline": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+      "take": "Bitcoin falls below $81K amid risk-off sentiment and Asian equity weakness",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623"
     },
     {
-      "headline": "Chip-stock index faces $1 trillion loss as AI concerns deepen",
-      "take": "Chip-stock index faces $1 trillion loss as AI concerns deepen",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/semiconductor-stocks-lose-1-trillion-ai-fears/"
+      "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "take": "Nearly $1B in crypto long positions liquidated as major assets slide",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide"
     },
     {
-      "headline": "Coinbase and Deribit launch six new equity perpetual futures markets",
-      "take": "Coinbase and Deribit launch six new equity perpetual futures markets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-deribit-six-equity-perpetual-futures/"
+      "headline": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "take": "Bitcoin mining pool shuts after 65% hashrate decline, once controlled 2.3% network",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65"
     },
     {
-      "headline": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "take": "Standard Chartered opens Bitcoin and Ethereum trading to wealthy UAE clients",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading"
-    },
-    {
-      "headline": "Bitso lists Western Union\u2019s USDPT stablecoin for users in Mexico",
-      "take": "Bitso lists Western Union's USDPT stablecoin for users in Mexico",
+      "headline": "Bitcoin mining stocks plunge more than 10% in AI debt reckoning",
+      "take": "Bitcoin mining stocks plunge over 10% as AI financing concerns intensify",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitso-lists-western-union-usdpt-stablecoin-mexico/"
+      "link": "https://cryptobriefing.com/bitcoin-mining-stocks-ai-debt-gartner-neoclouds-2026-10/"
     }
   ],
   "business": [
     {
-      "headline": "VanEck withdraws SEC registration for its Lido Staked Ethereum ETF",
-      "take": "VanEck withdraws SEC registration for its Lido Staked Ethereum ETF",
+      "headline": "ZKsync\u2019s Airbender hits real-time proving on one GPU, and Vitalik Buterin weighs in",
+      "take": "ZKsync's Airbender achieves real-time proving on single GPU with Vitalik support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/"
+      "link": "https://cryptobriefing.com/zksync-airbender-real-time-prover-vitalik/"
     },
     {
-      "headline": "Riot Platforms moves its Bitcoin custody from NYDIG to BitGo Bank & Trust",
-      "take": "Riot Platforms moves its Bitcoin custody from NYDIG to BitGo",
+      "headline": "Aptos makes Block-STM v2 its default parallel execution engine",
+      "take": "Aptos adopts Block-STM v2 as default parallel execution engine for performance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/riot-platforms-bitgo-custody-agreement/"
+      "link": "https://cryptobriefing.com/aptos-block-stm-v2-default-parallel-execution/"
     },
     {
-      "headline": "Evernorth taps Ripple CEO Brad Garlinghouse as strategic advisor",
-      "take": "Evernorth taps Ripple CEO Brad Garlinghouse as strategic advisor",
+      "headline": "Samsung Wallet adds USDC transfers on Solana for US Galaxy users",
+      "take": "Samsung Wallet enables USDC transfers on Solana for US Galaxy device users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/evernorth-appoints-brad-garlinghouse-advisor/"
+      "link": "https://cryptobriefing.com/samsung-wallet-usdc-solana-transfers/"
     },
     {
-      "headline": "Anthropic licenses Opaque Systems\u2019 confidential AI technology and hires key engineers",
-      "take": "Anthropic licenses Opaque Systems' confidential AI tech and hires engineers",
+      "headline": "Boros launches spread markets to trade funding rate gaps",
+      "take": "Boros launches spread markets for trading cryptocurrency funding rate gaps",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-licenses-opaque-systems-confidential-ai/"
+      "link": "https://cryptobriefing.com/boros-launches-funding-rate-spread-markets/"
     },
     {
-      "headline": "Solana Sets a Date for Its Next Major Upgrade",
-      "take": "Solana sets a date for its next major upgrade",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date"
+      "headline": "BingX EU secures Austrian MiCA license covering 29 EEA countries",
+      "take": "BingX EU secures Austrian MiCA license covering 29 EEA countries",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bingx-eu-austria-mica-casp-license/"
     }
   ],
   "security": [
     {
-      "headline": "CoreWeave bond slump raises credit-market stress concerns",
-      "take": "CoreWeave bond slump raises credit-market stress concerns",
+      "headline": "Ledger tells CryptoBilis buyers to stop using tampered wallets after $86 million to $93 million drain",
+      "take": "Ledger warns CryptoBilis customers of tampered wallet drain totaling $86M-$93M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-bond-slump-raises-credit-market-stress-concerns/"
+      "link": "https://cryptobriefing.com/ledger-cryptobilis-wallet-tampering-warning/"
+    },
+    {
+      "headline": "Coinbase website goes unreachable for some users after court-ordered block",
+      "take": "Coinbase website becomes unreachable for some users after court-ordered block",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-website-blocked-taiwan-court-order/"
+    },
+    {
+      "headline": "OpenAI engineer charged over hidden recording device, had one-way flight to Saudi Arabia",
+      "take": "OpenAI engineer charged over hidden recording device with one-way Saudi Arabia ticket",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-engineer-charged-hidden-recording-device/"
     }
   ],
   "policy": [
     {
-      "headline": "Eight states sue OpenAI, claim ChatGPT risks minors and misleads consumers",
-      "take": "Eight states sue OpenAI, claim ChatGPT risks minors and misleads",
+      "headline": "Tether paid millions to Bo Hines\u2019 firm while he worked at the White House",
+      "take": "Tether paid millions to White House aide's firm during employment overlap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eight-states-sue-openai-claim-chatgpt-risks-minors-and-misleads-consumers/"
-    },
-    {
-      "headline": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "take": "Organizations join forces to fight Illinois crypto tax after pause",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
-      "take": "EU authority classifies Circle's USDC as 'significant' under MiCA",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/tether-payments-bo-hines-nxum-white-house/"
     },
     {
       "headline": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-      "take": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "take": "Patrick Witt exits White House crypto policy role as Clarity Act stalls",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
     },
     {
+      "headline": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "take": "Organizations mobilize to challenge Illinois crypto tax after six-month regulatory pause",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SEC approves Cboe prediction market options tied to Coinbase, Nvidia, Tesla metrics",
+      "take": "SEC approves Cboe prediction market options on Coinbase, Nvidia, Tesla metrics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-approves-cboe-kpi-prediction-options/"
+    },
+    {
       "headline": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "take": "Russia's Sberbank wins approval to trade Bitcoin",
+      "take": "Russia's Sberbank gains approval to trade Bitcoin domestically",
       "source": "decrypt",
       "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin"
     }

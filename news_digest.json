@@ -1,108 +1,101 @@
 {
-  "generated": "2026-10-15T17:07:18.879002+00:00",
-  "ts": 1792084038,
+  "generated": "2026-10-15T21:29:18.914880+00:00",
+  "ts": 1792099758,
   "market": [
     {
-      "headline": "Bitcoin holds near $81,000 as wholesale prices jump 1.3%",
-      "take": "Bitcoin holds near $81,000 as wholesale prices jump 1.3%",
+      "headline": "Solana hits record $7B in tokenized equities volume in Q3 2026",
+      "take": "Solana tokenized equities volume reached record $7B in Q3 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-holds-81000-wholesale-prices-jump/"
+      "link": "https://cryptobriefing.com/solana-hits-record-7b-in-tokenized-equities-volume-in-q3-2026/"
     },
     {
-      "headline": "Citigroup projects tokenized assets could reach $5.5T by 2030",
-      "take": "Citigroup projects tokenized assets could reach $5.5T by 2030",
+      "headline": "Grayscale Research says 57% of S&P 500 companies are more volatile than Bitcoin",
+      "take": "Bitcoin volatility now lower than 57% of S&P 500 companies",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citigroup-tokenized-assets-5-5-trillion-2030/"
+      "link": "https://cryptobriefing.com/grayscale-sp-500-more-volatile-than-bitcoin/"
     },
     {
-      "headline": "Ethereum and its L2s settled 77% of stablecoin volume, with $16.75 trillion in transfers",
-      "take": "Ethereum and L2s settled 77% of stablecoin volume in transfers",
+      "headline": "Fidelity Digital Assets finds Bitcoin now moving with US Treasury real rates",
+      "take": "Bitcoin price movement increasingly correlates with US Treasury real rates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-l2s-settle-77-stablecoin-volume/"
+      "link": "https://cryptobriefing.com/fidelity-bitcoin-treasury-real-rates-correlation/"
     },
     {
-      "headline": "Circle Gateway surpasses $10 billion in total transfer volume",
-      "take": "Circle Gateway surpasses $10 billion in total transfer volume",
+      "headline": "Most net-long XRP positions sit above the current price, leaving traders underwater",
+      "take": "Most XRP long positions underwater as price sits below entry levels",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-gateway-surpasses-10b-transfer-volume/"
+      "link": "https://cryptobriefing.com/xrp-net-long-positions-above-current-price/"
     },
     {
-      "headline": "Cboe compares Bitcoin perpetual futures with 0DTE options on risk",
-      "take": "Cboe compares Bitcoin perpetual futures with 0DTE options on risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cboe-bitcoin-perpetual-futures-0dte-options/"
+      "headline": "The Grim Reaper Is Coming Earlier Than Ever for Memecoins",
+      "take": "Memecoin lifespans are shortening, survival rates declining rapidly",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/the-grim-reaper-is-coming-earlier-than-ever-for-memecoins"
     }
   ],
   "business": [
     {
+      "headline": "Network School acquires Farcaster from Neynar, rebrands it as Network State Protocol",
+      "take": "Network School acquires Farcaster, rebrands as Network State Protocol",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/network-school-acquires-farcaster-network-state-protocol/"
+    },
+    {
+      "headline": "x402 stablecoin payments see 152% jump in monthly active senders to 43,100",
+      "take": "x402 stablecoin monthly active senders jumped 152% to 43,100",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/x402-stablecoin-payments-active-senders-surge/"
+    },
+    {
       "headline": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-      "take": "Mastercard and BVNK launch platform merging fiat with stablecoins",
+      "take": "Mastercard and BVNK merge fiat and stablecoin payments platform",
       "source": "decrypt",
       "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins"
     },
     {
-      "headline": "Multiliquid raises $8 million to expand liquidity in $40 billion tokenized asset market",
-      "take": "Multiliquid raises $8 million for tokenized asset settlement expansion",
+      "headline": "CME Group brings forward curve pricing to GPU rental indices as AI compute matures into a tradable asset class",
+      "take": "CME enables curve pricing for GPU rental indices as asset class matures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/multiliquid-tokenized-asset-liquidity/"
+      "link": "https://cryptobriefing.com/cme-group-gpu-rental-forward-curve-pricing/"
     },
     {
-      "headline": "Binance.US seeks up to $100 million in funding at $1 billion valuation amid US expansion push",
-      "take": "Binance.US seeks $100 million funding at $1 billion valuation",
+      "headline": "MSCI\u2019s new index rules put Strategy at risk of removal starting November 30",
+      "take": "MSCI index rule changes threaten Strategy removal starting November 30",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-us-seeks-100-million-expansion/"
-    },
-    {
-      "headline": "Jio Platforms trades on crypto rails ahead of its record IPO",
-      "take": "Jio Platforms trades on crypto rails ahead of record IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jio-platforms-ipo-crypto-futures-bitget/"
-    },
-    {
-      "headline": "Ledger launches $849 phone like crypto wallet following chip implant attack",
-      "take": "Ledger launches $849 phone-like crypto wallet after chip attack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-launches-crypto-phone-wallet/"
+      "link": "https://cryptobriefing.com/msci-strategy-index-removal-november-30/"
     }
   ],
-  "security": [
-    {
-      "headline": "Ledger launches $849 phone like crypto wallet following chip implant attack",
-      "take": "Ledger launches $849 phone-like crypto wallet after chip attack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-launches-crypto-phone-wallet/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
-      "headline": "Bank of Russia to ban retail crypto transfers to non-custodial wallets",
-      "take": "Bank of Russia bans retail crypto transfers to non-custodial wallets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-central-bank-bans-self-custody-transfers/"
+      "headline": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "take": "Russia's central bank confirms plans to ban peer-to-peer Bitcoin trading",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading"
     },
     {
-      "headline": "Russia to ban direct P2P crypto trades starting July 2027",
-      "take": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+      "headline": "Taiwan blocks Coinbase and Kalshi websites over election betting concerns",
+      "take": "Taiwan blocks Coinbase and Kalshi over election betting concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-to-ban-direct-p2p-crypto-trades-starting-july-2027/"
+      "link": "https://cryptobriefing.com/taiwan-blocks-coinbase-kalshi-election-betting/"
+    },
+    {
+      "headline": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "take": "Ex-Trump crypto adviser profited after stablecoin bill passage, report says",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "take": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "take": "Sweden revisits digital krona as ECB advances digital euro development",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Australia sets July 2027 start for crypto transaction reporting to tax office",
-      "take": "Australia sets July 2027 start for crypto transaction tax reporting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-crypto-transaction-reporting-2027/"
-    },
-    {
-      "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "take": "Wall Street is done waiting on Congress for crypto rules",
+      "headline": "At the White House, crypto policy vacancy looms large",
+      "take": "Crypto policy vacancy looms large at the White House level",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
+      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large"
     }
   ]
 }

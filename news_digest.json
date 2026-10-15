@@ -1,114 +1,108 @@
 {
-  "generated": "2026-10-15T11:38:58.705719+00:00",
-  "ts": 1792064338,
+  "generated": "2026-10-15T17:07:18.879002+00:00",
+  "ts": 1792084038,
   "market": [
     {
-      "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "take": "Bitcoin, copper, stocks, yields fall; gold rises on macro uncertainty",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
-    },
-    {
-      "headline": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
-      "take": "Bitcoin holds above eighty thousand as Asian equities decline, altcoins slide",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
-    },
-    {
-      "headline": "Binance tokenized stocks surpass $1 billion as trading volume tops $40 billion",
-      "take": "Binance tokenized stocks top one billion; trading volume reaches forty billion",
+      "headline": "Bitcoin holds near $81,000 as wholesale prices jump 1.3%",
+      "take": "Bitcoin holds near $81,000 as wholesale prices jump 1.3%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-bstocks-surpasses-1-billion-aum/"
+      "link": "https://cryptobriefing.com/bitcoin-holds-81000-wholesale-prices-jump/"
     },
     {
-      "headline": "XRP whale inflows to Binance hit a seven-month high",
-      "take": "XRP whale inflows to Binance hit seven-month high, possible accumulation signal",
+      "headline": "Citigroup projects tokenized assets could reach $5.5T by 2030",
+      "take": "Citigroup projects tokenized assets could reach $5.5T by 2030",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-whale-inflows-binance-seven-month-high/"
+      "link": "https://cryptobriefing.com/citigroup-tokenized-assets-5-5-trillion-2030/"
     },
     {
-      "headline": "Pendle\u2019s High Yield USDC vault on Morpho tops $15M in a day",
-      "take": "Pendle's high-yield USDC vault on Morpho surpasses fifteen million in one day",
+      "headline": "Ethereum and its L2s settled 77% of stablecoin volume, with $16.75 trillion in transfers",
+      "take": "Ethereum and L2s settled 77% of stablecoin volume in transfers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-high-yield-usdc-vault-morpho/"
+      "link": "https://cryptobriefing.com/ethereum-l2s-settle-77-stablecoin-volume/"
+    },
+    {
+      "headline": "Circle Gateway surpasses $10 billion in total transfer volume",
+      "take": "Circle Gateway surpasses $10 billion in total transfer volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-gateway-surpasses-10b-transfer-volume/"
+    },
+    {
+      "headline": "Cboe compares Bitcoin perpetual futures with 0DTE options on risk",
+      "take": "Cboe compares Bitcoin perpetual futures with 0DTE options on risk",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cboe-bitcoin-perpetual-futures-0dte-options/"
     }
   ],
   "business": [
     {
-      "headline": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
-      "take": "Circle's USDC designated EU's first 'significant' e-money token by regulator",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637"
+      "headline": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "take": "Mastercard and BVNK launch platform merging fiat with stablecoins",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins"
     },
     {
-      "headline": "Lido brings one-transaction ETH staking to Arbitrum, Base, Linea and Optimism",
-      "take": "Lido enables one-transaction ETH staking across Arbitrum, Base, Linea, Optimism",
+      "headline": "Multiliquid raises $8 million to expand liquidity in $40 billion tokenized asset market",
+      "take": "Multiliquid raises $8 million for tokenized asset settlement expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/"
+      "link": "https://cryptobriefing.com/multiliquid-tokenized-asset-liquidity/"
     },
     {
-      "headline": "Fission raises $10M to fix the exit problem in tokenized funds",
-      "take": "Fission raises ten million to solve liquidity exit problem in tokenized funds",
+      "headline": "Binance.US seeks up to $100 million in funding at $1 billion valuation amid US expansion push",
+      "take": "Binance.US seeks $100 million funding at $1 billion valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fission-raises-10m-tokenized-fund-liquidity/"
+      "link": "https://cryptobriefing.com/binance-us-seeks-100-million-expansion/"
     },
     {
-      "headline": "Arkham launches Visualizer 2.0 with real-time transaction graphs",
-      "take": "Arkham launches Visualizer two-point-zero with real-time blockchain transaction graphs",
+      "headline": "Jio Platforms trades on crypto rails ahead of its record IPO",
+      "take": "Jio Platforms trades on crypto rails ahead of record IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arkham-visualizer-2-real-time-graphs/"
+      "link": "https://cryptobriefing.com/jio-platforms-ipo-crypto-futures-bitget/"
     },
     {
-      "headline": "Starknet explores move from Ethereum Layer 2 to standalone Layer 1 blockchain",
-      "take": "Starknet explores transition from Ethereum Layer 2 to standalone Layer 1",
+      "headline": "Ledger launches $849 phone like crypto wallet following chip implant attack",
+      "take": "Ledger launches $849 phone-like crypto wallet after chip attack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/"
+      "link": "https://cryptobriefing.com/ledger-launches-crypto-phone-wallet/"
     }
   ],
   "security": [
     {
-      "headline": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-      "take": "Brooklyn prosecutors dismantle one hundred twelve servers behind crypto scam targeting Russians",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers"
-    },
-    {
-      "headline": "ISS details AI-assisted breach of North African government database exposing 300,000 identity records",
-      "take": "AI-assisted breach exposes three hundred thousand identity records from North African government database",
+      "headline": "Ledger launches $849 phone like crypto wallet following chip implant attack",
+      "take": "Ledger launches $849 phone-like crypto wallet after chip attack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-breach-north-african-government-database/"
-    },
-    {
-      "headline": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "take": "Hex founder Richard Heart arrested in Istanbul according to Turkish media reports",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report"
+      "link": "https://cryptobriefing.com/ledger-launches-crypto-phone-wallet/"
     }
   ],
   "policy": [
     {
-      "headline": "OCC says major banks are easing digital asset restrictions, with limits",
-      "take": "OCC reports major US banks easing digital asset restrictions, though with guardrails",
+      "headline": "Bank of Russia to ban retail crypto transfers to non-custodial wallets",
+      "take": "Bank of Russia bans retail crypto transfers to non-custodial wallets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/"
+      "link": "https://cryptobriefing.com/russia-central-bank-bans-self-custody-transfers/"
     },
     {
-      "headline": "Australia\u2019s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "take": "Australia's financial watchdog seeks stricter crypto exchange rules before licensing deadline",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline"
-    },
-    {
-      "headline": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "take": "Hyperliquid founder advocates US oversight of trading platforms, not his blockchain",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain"
-    },
-    {
-      "headline": "FTC subpoenas OpenAI, Anthropic over consumer safety concerns: Axios",
-      "take": "FTC subpoenas OpenAI and Anthropic over consumer safety concerns, per Axios",
+      "headline": "Russia to ban direct P2P crypto trades starting July 2027",
+      "take": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ftc-subpoenas-openai-anthropic-over-consumer-safety-concerns-axios/"
+      "link": "https://cryptobriefing.com/russia-to-ban-direct-p2p-crypto-trades-starting-july-2027/"
+    },
+    {
+      "headline": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "take": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Australia sets July 2027 start for crypto transaction reporting to tax office",
+      "take": "Australia sets July 2027 start for crypto transaction tax reporting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-crypto-transaction-reporting-2027/"
+    },
+    {
+      "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "take": "Wall Street is done waiting on Congress for crypto rules",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
     }
   ]
 }

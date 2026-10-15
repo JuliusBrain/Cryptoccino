@@ -1,114 +1,114 @@
 {
-  "generated": "2026-10-15T04:49:07.515095+00:00",
-  "ts": 1792039747,
+  "generated": "2026-10-15T11:38:58.705719+00:00",
+  "ts": 1792064338,
   "market": [
     {
-      "headline": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-      "take": "Bitcoin falls below $81K amid risk-off sentiment and Asian equity weakness",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623"
-    },
-    {
-      "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "take": "Nearly $1B in crypto long positions liquidated as major assets slide",
+      "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "take": "Bitcoin, copper, stocks, yields fall; gold rises on macro uncertainty",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide"
+      "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
     },
     {
-      "headline": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-      "take": "Bitcoin mining pool shuts after 65% hashrate decline, once controlled 2.3% network",
+      "headline": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+      "take": "Bitcoin holds above eighty thousand as Asian equities decline, altcoins slide",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65"
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
     },
     {
-      "headline": "Bitcoin mining stocks plunge more than 10% in AI debt reckoning",
-      "take": "Bitcoin mining stocks plunge over 10% as AI financing concerns intensify",
+      "headline": "Binance tokenized stocks surpass $1 billion as trading volume tops $40 billion",
+      "take": "Binance tokenized stocks top one billion; trading volume reaches forty billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-mining-stocks-ai-debt-gartner-neoclouds-2026-10/"
+      "link": "https://cryptobriefing.com/binance-bstocks-surpasses-1-billion-aum/"
+    },
+    {
+      "headline": "XRP whale inflows to Binance hit a seven-month high",
+      "take": "XRP whale inflows to Binance hit seven-month high, possible accumulation signal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-whale-inflows-binance-seven-month-high/"
+    },
+    {
+      "headline": "Pendle\u2019s High Yield USDC vault on Morpho tops $15M in a day",
+      "take": "Pendle's high-yield USDC vault on Morpho surpasses fifteen million in one day",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pendle-high-yield-usdc-vault-morpho/"
     }
   ],
   "business": [
     {
-      "headline": "ZKsync\u2019s Airbender hits real-time proving on one GPU, and Vitalik Buterin weighs in",
-      "take": "ZKsync's Airbender achieves real-time proving on single GPU with Vitalik support",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/zksync-airbender-real-time-prover-vitalik/"
+      "headline": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
+      "take": "Circle's USDC designated EU's first 'significant' e-money token by regulator",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637"
     },
     {
-      "headline": "Aptos makes Block-STM v2 its default parallel execution engine",
-      "take": "Aptos adopts Block-STM v2 as default parallel execution engine for performance",
+      "headline": "Lido brings one-transaction ETH staking to Arbitrum, Base, Linea and Optimism",
+      "take": "Lido enables one-transaction ETH staking across Arbitrum, Base, Linea, Optimism",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-block-stm-v2-default-parallel-execution/"
+      "link": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/"
     },
     {
-      "headline": "Samsung Wallet adds USDC transfers on Solana for US Galaxy users",
-      "take": "Samsung Wallet enables USDC transfers on Solana for US Galaxy device users",
+      "headline": "Fission raises $10M to fix the exit problem in tokenized funds",
+      "take": "Fission raises ten million to solve liquidity exit problem in tokenized funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-wallet-usdc-solana-transfers/"
+      "link": "https://cryptobriefing.com/fission-raises-10m-tokenized-fund-liquidity/"
     },
     {
-      "headline": "Boros launches spread markets to trade funding rate gaps",
-      "take": "Boros launches spread markets for trading cryptocurrency funding rate gaps",
+      "headline": "Arkham launches Visualizer 2.0 with real-time transaction graphs",
+      "take": "Arkham launches Visualizer two-point-zero with real-time blockchain transaction graphs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/boros-launches-funding-rate-spread-markets/"
+      "link": "https://cryptobriefing.com/arkham-visualizer-2-real-time-graphs/"
     },
     {
-      "headline": "BingX EU secures Austrian MiCA license covering 29 EEA countries",
-      "take": "BingX EU secures Austrian MiCA license covering 29 EEA countries",
+      "headline": "Starknet explores move from Ethereum Layer 2 to standalone Layer 1 blockchain",
+      "take": "Starknet explores transition from Ethereum Layer 2 to standalone Layer 1",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bingx-eu-austria-mica-casp-license/"
+      "link": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/"
     }
   ],
   "security": [
     {
-      "headline": "Ledger tells CryptoBilis buyers to stop using tampered wallets after $86 million to $93 million drain",
-      "take": "Ledger warns CryptoBilis customers of tampered wallet drain totaling $86M-$93M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-cryptobilis-wallet-tampering-warning/"
+      "headline": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+      "take": "Brooklyn prosecutors dismantle one hundred twelve servers behind crypto scam targeting Russians",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers"
     },
     {
-      "headline": "Coinbase website goes unreachable for some users after court-ordered block",
-      "take": "Coinbase website becomes unreachable for some users after court-ordered block",
+      "headline": "ISS details AI-assisted breach of North African government database exposing 300,000 identity records",
+      "take": "AI-assisted breach exposes three hundred thousand identity records from North African government database",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-website-blocked-taiwan-court-order/"
+      "link": "https://cryptobriefing.com/ai-breach-north-african-government-database/"
     },
     {
-      "headline": "OpenAI engineer charged over hidden recording device, had one-way flight to Saudi Arabia",
-      "take": "OpenAI engineer charged over hidden recording device with one-way Saudi Arabia ticket",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-engineer-charged-hidden-recording-device/"
+      "headline": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+      "take": "Hex founder Richard Heart arrested in Istanbul according to Turkish media reports",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report"
     }
   ],
   "policy": [
     {
-      "headline": "Tether paid millions to Bo Hines\u2019 firm while he worked at the White House",
-      "take": "Tether paid millions to White House aide's firm during employment overlap",
+      "headline": "OCC says major banks are easing digital asset restrictions, with limits",
+      "take": "OCC reports major US banks easing digital asset restrictions, though with guardrails",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-payments-bo-hines-nxum-white-house/"
+      "link": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/"
     },
     {
-      "headline": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-      "take": "Patrick Witt exits White House crypto policy role as Clarity Act stalls",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
+      "headline": "Australia\u2019s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "take": "Australia's financial watchdog seeks stricter crypto exchange rules before licensing deadline",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline"
     },
     {
-      "headline": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "take": "Organizations mobilize to challenge Illinois crypto tax after six-month regulatory pause",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+      "take": "Hyperliquid founder advocates US oversight of trading platforms, not his blockchain",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain"
     },
     {
-      "headline": "SEC approves Cboe prediction market options tied to Coinbase, Nvidia, Tesla metrics",
-      "take": "SEC approves Cboe prediction market options on Coinbase, Nvidia, Tesla metrics",
+      "headline": "FTC subpoenas OpenAI, Anthropic over consumer safety concerns: Axios",
+      "take": "FTC subpoenas OpenAI and Anthropic over consumer safety concerns, per Axios",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-approves-cboe-kpi-prediction-options/"
-    },
-    {
-      "headline": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "take": "Russia's Sberbank gains approval to trade Bitcoin domestically",
-      "source": "decrypt",
-      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin"
+      "link": "https://cryptobriefing.com/ftc-subpoenas-openai-anthropic-over-consumer-safety-concerns-axios/"
     }
   ]
 }

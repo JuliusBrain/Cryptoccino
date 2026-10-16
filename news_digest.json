@@ -1,114 +1,108 @@
 {
-  "generated": "2026-10-16T11:32:50.291740+00:00",
-  "ts": 1792150370,
+  "generated": "2026-10-16T16:44:37.093201+00:00",
+  "ts": 1792169077,
   "market": [
     {
-      "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
-      "take": "Bitcoin recovered above $82,000 while altcoins gained amid ongoing ETF outflows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
-    },
-    {
-      "headline": "XRP spot volume surpasses Bitcoin and Ethereum on South Korea\u2019s Upbit",
-      "take": "XRP spot volume surpassed Bitcoin and Ethereum on South Korea's Upbit exchange",
+      "headline": "Bitcoin steadies near $82,000 as Warsh declines to signal another Fed hike",
+      "take": "Bitcoin steadies near $82,000 as Fed rate hike signals fade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-volume-surpasses-bitcoin-ethereum-upbit/"
+      "link": "https://cryptobriefing.com/bitcoin-steadies-82k-warsh-fed-rate-hike/"
     },
     {
-      "headline": "Ethereum market structure improves after Binance leverage flush",
-      "take": "Ethereum market structure improved following a Binance leverage flush event",
+      "headline": "Bitcoin ETFs trade over $7.5B in a week despite $145M in net selling",
+      "take": "Bitcoin ETFs see $7.5B weekly volume despite $145M net outflows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-market-structure-binance-leverage-flush/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-trade-7-5b-net-selling/"
     },
     {
-      "headline": "Bitcoin outflows rise as resilient US economy complicates Fed policy: CoinShares",
-      "take": "Bitcoin outflows rose as resilient US economy complicates Federal Reserve policy decisions",
+      "headline": "Injective jumps 27% in a day, leaving NEAR and Sei behind",
+      "take": "Injective rallies 27% in single day, outpacing NEAR and Sei",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinshares-434m-outflows-cpi-rise/"
+      "link": "https://cryptobriefing.com/injective-inj-surges-etf-staking-filings/"
     },
     {
-      "headline": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "take": "Altcoins outpaced bitcoin with Celestia jumping sixteen percent this period",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans"
+      "headline": "Cost to insure big tech debt surges as investors question AI returns",
+      "take": "Big tech debt insurance surges as investors question AI investment returns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/big-tech-debt-insurance-costs-surge-ai/"
+    },
+    {
+      "headline": "US AI debt default risk surges as CDS spreads widen for Oracle, SoftBank, CoreWeave",
+      "take": "US AI debt default risk rises; CDS spreads widen for major tech firms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-ai-debt-default-risk-surges-as-cds-spreads-widen-for-oracle-softbank/"
     }
   ],
   "business": [
     {
+      "headline": "Inferact raises $150M seed round to scale the vLLM inference engine",
+      "take": "Inferact raises $150M to scale vLLM inference engine at seed stage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/inferact-raises-150m-vllm-inference/"
+    },
+    {
+      "headline": "Hyundai Card cuts cross-border payment time by over 96% with Axiym on Avalanche",
+      "take": "Hyundai Card cuts cross-border payment time 96% using blockchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyundai-card-axiym-avalanche-stablecoin-payment/"
+    },
+    {
       "headline": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
-      "take": "Visa Direct moved USDC prefunding into commercial production with Inyo Global",
+      "take": "Visa Direct moves USDC prefunding to commercial production via partner",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802"
     },
     {
-      "headline": "Circle targets 40 new markets as stablecoin demand surges globally",
-      "take": "Circle targets forty new markets as global stablecoin demand surges significantly",
+      "headline": "Pump.fun moves into perpetual futures with Hyperliquid powering the engine",
+      "take": "Pump.fun launches perpetual futures trading powered by Hyperliquid",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-targets-40-new-markets-usdc/"
+      "link": "https://cryptobriefing.com/pumpfun-launches-perpetual-futures-hyperliquid/"
     },
     {
-      "headline": "Strive upsizes SATS IPO to $700M, priced at $90 per share",
-      "take": "Strive upsized SATS IPO to seven hundred million dollars at ninety per share",
+      "headline": "Cobo to shut down Cobo Wallet app on December 1",
+      "take": "Cobo Wallet app will shut down on December 1",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-sats-ipo-700-million-bitcoin/"
-    },
-    {
-      "headline": "Lido hosts October Poolside event to discuss decentralization initiatives",
-      "take": "Lido hosted October Poolside event to discuss protocol decentralization initiatives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-october-poolside-decentralization-event/"
-    },
-    {
-      "headline": "Circle minted another ~750 million USDC on Solana in the last 24 hours",
-      "take": "Circle minted seven hundred fifty million USDC on Solana in twenty-four hours",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-minted-another-750-million-usdc-on-solana-in-the-last-24-hours-2/"
+      "link": "https://cryptobriefing.com/cobo-wallet-app-shutdown-december-1/"
     }
   ],
   "security": [
     {
-      "headline": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "take": "Scammer lost almost five million bitcoin in Ledger spy-chip exploit recovery",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin"
-    },
-    {
-      "headline": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-      "take": "OpenAI model used Ethereum testnet wallet without permission for coding task",
+      "headline": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+      "take": "Three Canadian Armed Forces members charged in crypto exchange owner kidnapping",
       "source": "decrypt",
-      "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task"
+      "link": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner"
     },
     {
-      "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "take": "Quantum Alliance formed amid warnings that six point four million bitcoin face quantum threat",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next"
+      "headline": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+      "take": "Scammer lost $4.8M in Bitcoin to tampered Ledger hardware wallets",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis"
+    },
+    {
+      "headline": "OpenAI says research model spent another wallet\u2019s testnet ETH without authorization on coding task",
+      "take": "OpenAI research model spent another wallet's testnet ETH without authorization",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. judge rejects Gemini\u2019s appeal to void $5 million settlement despite CFTC backing",
-      "take": "US judge rejected Gemini's appeal to void five million dollar CFTC settlement",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
+      "headline": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
+      "take": "Judge blocks CFTC effort to drop Gemini's $5M settlement agreement",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no"
     },
     {
-      "headline": "China proposes export controls on advanced AI, from model weights to agents",
-      "take": "China proposed export controls on advanced AI from model weights to agents",
+      "headline": "Crypto.com, Gemini, and a16z among donors in $210.5M flow to Trump super PACs",
+      "take": "Crypto firms including Crypto.com and a16z donate $210.5M to Trump super PACs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-proposes-ai-export-controls/"
+      "link": "https://cryptobriefing.com/crypto-com-gemini-a16z-trump-super-pacs/"
     },
     {
-      "headline": "Taiwan moves to curb AI chip exports to China under US deal",
-      "take": "Taiwan moved to curb AI chip exports to China under US deal agreement",
+      "headline": "Anthropic opens talks with NYC comptroller following calls to delay $2 trillion IPO",
+      "take": "Anthropic opens talks with NYC comptroller over delayed $2T IPO timeline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taiwan-curbs-ai-chip-exports-china/"
-    },
-    {
-      "headline": "Trump\u2019s AI task force targets cybersecurity, biosecurity and model control risks",
-      "take": "Trump's AI task force targets cybersecurity, biosecurity and model control risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-ai-task-force-cybersecurity-biosecurity/"
+      "link": "https://cryptobriefing.com/anthropic-nyc-comptroller-levine-ipo-delay/"
     }
   ]
 }

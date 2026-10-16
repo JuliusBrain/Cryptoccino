@@ -1,101 +1,108 @@
 {
-  "generated": "2026-10-15T21:29:18.914880+00:00",
-  "ts": 1792099758,
+  "generated": "2026-10-16T04:39:17.800673+00:00",
+  "ts": 1792125557,
   "market": [
     {
-      "headline": "Solana hits record $7B in tokenized equities volume in Q3 2026",
-      "take": "Solana tokenized equities volume reached record $7B in Q3 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-hits-record-7b-in-tokenized-equities-volume-in-q3-2026/"
+      "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "take": "Bitcoin buyers absorbed a dip below eighty thousand as Asian stocks stabilized",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound"
     },
     {
-      "headline": "Grayscale Research says 57% of S&P 500 companies are more volatile than Bitcoin",
-      "take": "Bitcoin volatility now lower than 57% of S&P 500 companies",
+      "headline": "Hedge funds suffer worst day since August as AI stock selloff deepens",
+      "take": "Hedge funds posted worst single day since August amid deepening AI stock selloff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-sp-500-more-volatile-than-bitcoin/"
+      "link": "https://cryptobriefing.com/hedge-funds-worst-day-ai-stock-selloff/"
     },
     {
-      "headline": "Fidelity Digital Assets finds Bitcoin now moving with US Treasury real rates",
-      "take": "Bitcoin price movement increasingly correlates with US Treasury real rates",
+      "headline": "Phantom crosses $50 billion in perpetuals trading volume in just over a year",
+      "take": "Phantom wallet surpassed fifty billion in perpetuals volume within just over one year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-bitcoin-treasury-real-rates-correlation/"
-    },
-    {
-      "headline": "Most net-long XRP positions sit above the current price, leaving traders underwater",
-      "take": "Most XRP long positions underwater as price sits below entry levels",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-net-long-positions-above-current-price/"
+      "link": "https://cryptobriefing.com/phantom-surpasses-50b-perpetuals-volume/"
     },
     {
       "headline": "The Grim Reaper Is Coming Earlier Than Ever for Memecoins",
-      "take": "Memecoin lifespans are shortening, survival rates declining rapidly",
+      "take": "Memecoin lifecycles are shortening with accelerating decline cycles observed",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/the-grim-reaper-is-coming-earlier-than-ever-for-memecoins"
     }
   ],
   "business": [
     {
-      "headline": "Network School acquires Farcaster from Neynar, rebrands it as Network State Protocol",
-      "take": "Network School acquires Farcaster, rebrands as Network State Protocol",
+      "headline": "JPMorgan and Goldman Sachs sweeten terms on Volta\u2019s $5 billion AI loan",
+      "take": "JPMorgan and Goldman Sachs improved loan terms for Volta's five billion dollar AI facility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/network-school-acquires-farcaster-network-state-protocol/"
+      "link": "https://cryptobriefing.com/jpmorgan-goldman-volta-5b-ai-loan-2/"
     },
     {
-      "headline": "x402 stablecoin payments see 152% jump in monthly active senders to 43,100",
-      "take": "x402 stablecoin monthly active senders jumped 152% to 43,100",
+      "headline": "Aave V4 opens dollar-euro borrowing on Circle\u2019s Arc network",
+      "take": "Aave V4 launched dollar-euro borrowing markets on Circle's Arc network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/x402-stablecoin-payments-active-senders-surge/"
+      "link": "https://cryptobriefing.com/aave-v4-forex-spoke-eurc-usdc-arc/"
     },
     {
-      "headline": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-      "take": "Mastercard and BVNK merge fiat and stablecoin payments platform",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins"
+      "headline": "CoreWeave co-founders have sold $3.3 billion in stock since the IPO",
+      "take": "CoreWeave co-founders have cashed out three point three billion since IPO launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-co-founders-sell-3-billion-shares/"
     },
     {
-      "headline": "CME Group brings forward curve pricing to GPU rental indices as AI compute matures into a tradable asset class",
-      "take": "CME enables curve pricing for GPU rental indices as asset class matures",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-group-gpu-rental-forward-curve-pricing/"
-    },
-    {
-      "headline": "MSCI\u2019s new index rules put Strategy at risk of removal starting November 30",
-      "take": "MSCI index rule changes threaten Strategy removal starting November 30",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/msci-strategy-index-removal-november-30/"
+      "headline": "Farcaster acquired by Balaji\u2019s Network School, with new \u2018social smart contract\u2019 for users",
+      "take": "Balaji's Network School acquired Farcaster with new social smart contract layer",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "take": "OpenAI agent drained unauthorized Ethereum funds from unowned wallet on Sepolia",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own"
+    },
+    {
+      "headline": "Pirate Chain exploit mints around 39.8 million ARRR, team proposes rollback",
+      "take": "Pirate Chain exploit minted thirty nine point eight million ARRR tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pirate-chain-exploit-arrr-rollback/"
+    },
+    {
+      "headline": "Ledger supply-chain attack drains over 60 BTC from wallet tied to alleged crypto scammer",
+      "take": "Ledger supply chain attack stole over sixty Bitcoin from wallet of alleged crypto scammer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ledger-supply-chain-attack-crypto-scammer-btc/"
+    },
+    {
+      "headline": "bOSMO bug prompts holder compensation plan as liquidity dries up",
+      "take": "bOSMO bug triggered liquidity crisis prompting holder compensation plan",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bosmo-bug-holder-compensation-osmosis/"
+    }
+  ],
   "policy": [
     {
+      "headline": "Judge refuses to let Gemini and CFTC undo $5 million settlement",
+      "take": "Judge rejected Gemini and CFTC request to undo five million dollar settlement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/judge-denies-gemini-cftc-vacate-penalty/"
+    },
+    {
+      "headline": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "take": "Australia released draft bill adopting OECD crypto tax reporting framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC working to integrate Hyperliquid into US market, says Trump",
+      "take": "CFTC working to integrate Hyperliquid into US regulated markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-working-to-integrate-hyperliquid-into-us-market-says-trump/"
+    },
+    {
       "headline": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-      "take": "Russia's central bank confirms plans to ban peer-to-peer Bitcoin trading",
+      "take": "Russia's central bank confirmed incoming ban on peer to peer Bitcoin trading",
       "source": "decrypt",
       "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading"
-    },
-    {
-      "headline": "Taiwan blocks Coinbase and Kalshi websites over election betting concerns",
-      "take": "Taiwan blocks Coinbase and Kalshi over election betting concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taiwan-blocks-coinbase-kalshi-election-betting/"
-    },
-    {
-      "headline": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "take": "Ex-Trump crypto adviser profited after stablecoin bill passage, report says",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "take": "Sweden revisits digital krona as ECB advances digital euro development",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "At the White House, crypto policy vacancy looms large",
-      "take": "Crypto policy vacancy looms large at the White House level",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large"
     }
   ]
 }

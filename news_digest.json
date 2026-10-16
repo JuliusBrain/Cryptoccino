@@ -1,114 +1,114 @@
 {
-  "generated": "2026-10-16T21:18:36.622639+00:00",
-  "ts": 1792185516,
+  "generated": "2026-10-16T23:41:41.075748+00:00",
+  "ts": 1792194101,
   "market": [
     {
-      "headline": "Bitcoin Bounces, But Where Does It Go Next? Here\u2019s What the Charts Say",
-      "take": "Bitcoin rebounds; technical analysis suggests caution on next direction",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts"
+      "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "take": "Strive's bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839"
     },
     {
       "headline": "S&P 500 and Nasdaq close sharply lower as AI stock selloff weighs on markets",
-      "take": "S&P 500 and Nasdaq decline sharply as AI stock selloff pressures equities",
+      "take": "S&P 500 and Nasdaq close sharply lower as AI stock selloff weighs",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sp-500-nasdaq-fall-ai-selloff/"
     },
     {
-      "headline": "Blackwell Ultra GPU rental prices climb 17 straight days to a record high",
-      "take": "Blackwell Ultra GPU rental prices hit record after 17 consecutive daily climbs",
+      "headline": "Strategy passes JPMorgan in trading volume, ranks as 19th most-traded US stock",
+      "take": "Strategy passes JPMorgan in trading volume, ranks as 19th most-traded US stock",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackwell-ultra-gpu-rental-prices-record-high/"
+      "link": "https://cryptobriefing.com/strategy-mstr-passes-jpmorgan-trading-volume/"
     },
     {
-      "headline": "Celestia\u2019s Eden launch sends TIA up about 16% in a day",
-      "take": "Celestia's Eden launch drives TIA token up 16 percent in single day",
+      "headline": "Solana to enhance transaction speed with Alpenglow upgrade",
+      "take": "Solana to enhance transaction speed with Alpenglow upgrade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/celestia-eden-launch-tia-token-jumps/"
+      "link": "https://cryptobriefing.com/solana-to-enhance-transaction-speed-with-alpenglow-upgrade/"
     },
     {
-      "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "take": "TD Cowen raises Strive bitcoin buying strategy price target by 27 percent",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839"
+      "headline": "Bitcoin Bounces, But Where Does It Go Next? Here\u2019s What the Charts Say",
+      "take": "Bitcoin bounces amid mixed chart signals and broader market uncertainty",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts"
     }
   ],
   "business": [
     {
+      "headline": "OpenAI hires SpaceX\u2019s Graham Seamans to lead cybersecurity sales",
+      "take": "OpenAI hires SpaceX's Graham Seamans to lead cybersecurity sales",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-hires-graham-seamans-cybersecurity-sales/"
+    },
+    {
+      "headline": "Brett Harrison\u2019s Architect bets auctions can make AI inference cheaper",
+      "take": "Brett Harrison's Architect bets auctions can make AI inference cheaper",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/architect-liquid-inference-ai-auction-marketplace/"
+    },
+    {
       "headline": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-      "take": "Circle expanding stablecoin services into 40 emerging markets as adoption grows",
+      "take": "Circle plans push into 40 emerging markets as stablecoins go mainstream",
       "source": "decrypt",
       "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream"
     },
     {
       "headline": "Coinbase to power stablecoin-backed cards for Marqeta customers",
-      "take": "Coinbase partners with Marqeta to enable stablecoin-backed payment cards",
+      "take": "Coinbase to power stablecoin-backed cards for Marqeta customers",
       "source": "theblock",
       "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833"
     },
     {
-      "headline": "Solana to enhance transaction speed with Alpenglow upgrade",
-      "take": "Solana to boost transaction speed through Alpenglow protocol upgrade",
+      "headline": "Pump.fun pairs 0% Solana trades with a 0.45% app fee it plans to give away",
+      "take": "Pump.fun pairs 0% Solana trades with 0.45% app fee it plans to give away",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-to-enhance-transaction-speed-with-alpenglow-upgrade/"
-    },
-    {
-      "headline": "a16z unveils Aerie to improve quantum resistant signature aggregation for Ethereum",
-      "take": "A16z launches Aerie tool to improve quantum-resistant signatures for Ethereum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantum-resistant-signatures-improvement/"
-    },
-    {
-      "headline": "SEI perpetual futures arrive on CFTC-regulated OG.com Markets",
-      "take": "SEI perpetual futures now live on CFTC-regulated OG.com Markets platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sei-perpetual-futures-og-com-markets/"
+      "link": "https://cryptobriefing.com/pumpfun-zero-fee-solana-app-referral/"
     }
   ],
   "security": [
     {
       "headline": "OpenAI models hacked crypto wallet, breached websites: Ars Technica",
-      "take": "OpenAI models breached crypto wallets and websites in recent security incident",
+      "take": "OpenAI models hacked crypto wallet and breached websites",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-models-hacked-crypto-wallet-breached-websites-ars-technica/"
     },
     {
       "headline": "Claude traces NIST P-256 seed to a 1997 random number generator run",
-      "take": "Claude traces P-256 elliptic curve seed to weak 1997 random number generator",
+      "take": "Claude traces NIST P-256 seed to a 1997 random number generator run",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/claude-traces-nist-p256-seed-origins/"
     },
     {
-      "headline": "Ledger loss reports stem from panic scams, not tampered devices, says Monahan",
-      "take": "Ledger loss reports stem from panic scams, not compromised hardware, says CEO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-losses-panic-scams-not-tampering/"
-    },
-    {
       "headline": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-      "take": "India cyber agency warns AI agents accessed confidential business records unsecured",
+      "take": "India's cyber agency says AI agents read confidential business records without authorization",
       "source": "decrypt",
       "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records"
     }
   ],
   "policy": [
     {
+      "headline": "Anthropic pitches a frontier AI safety bill to US lawmakers, Politico reports",
+      "take": "Anthropic pitches frontier AI safety bill to US lawmakers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-pitches-ai-safety-bill-lawmakers/"
+    },
+    {
+      "headline": "CFTC excludes casino sportsbooks from swap definition",
+      "take": "CFTC excludes casino sportsbooks from swap definition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-excludes-casino-sportsbooks-swap-definition/"
+    },
+    {
       "headline": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
-      "take": "Judge blocks CFTC bid to drop Gemini $5 million settlement in crypto dispute",
+      "take": "CFTC wants to drop Gemini's $5M settlement; judge says no",
       "source": "decrypt",
       "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no"
     },
     {
       "headline": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "take": "Crypto PACs intensify spending against Senator Sherrod Brown in Ohio race",
+      "take": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC excludes casino sportsbooks from swap definition",
-      "take": "CFTC excludes casino sportsbooks from swap definition in regulatory clarification",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-excludes-casino-sportsbooks-swap-definition/"
     }
   ]
 }

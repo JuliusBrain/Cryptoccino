@@ -1,76 +1,94 @@
 {
-  "generated": "2026-10-17T10:52:53.370749+00:00",
-  "ts": 1792234373,
+  "generated": "2026-10-17T15:41:42.328174+00:00",
+  "ts": 1792251702,
   "market": [
     {
-      "headline": "Bitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million",
-      "take": "Bitcoin and Ethereum ETFs see outflows as investor appetite cools",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-82-million-outflows-october-16/"
-    },
-    {
       "headline": "Ether ETFs lose $320M in a week, outpacing Bitcoin fund outflows",
-      "take": "Ether ETF outflows accelerate, outpacing Bitcoin fund redemptions significantly",
+      "take": "Ether ETFs see $320M outflows in week, exceeding Bitcoin fund selling pressure",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ether-etfs-lose-320m-outpacing-bitcoin/"
     },
     {
-      "headline": "Wall Street faces fresh risks as AI rout meets oil shock",
-      "take": "Wall Street confronts compounding risks from AI decline and oil prices",
+      "headline": "Uniswap posts record $14.81 million monthly revenue as Robinhood Chain drives over half",
+      "take": "Uniswap records $14.81M monthly revenue, Robinhood Chain drives over half",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wall-street-ai-rout-oil-shock/"
-    }
-  ],
-  "business": [
+      "link": "https://cryptobriefing.com/uniswap-record-revenue-robinhood-chain/"
+    },
     {
       "headline": "Coinbase crypto-backed loans hit $2.3 billion as banks build tokenized deposits",
-      "take": "Coinbase crypto loans surge to $2.3B as banks tokenize deposits",
+      "take": "Coinbase crypto-backed loans reach $2.3B as tokenized deposits grow",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-crypto-backed-loans-tokenized-deposits/"
     },
     {
+      "headline": "Citrini sees a tokenization boom. The harder question is who profits",
+      "take": "Tokenization boom underway; question remains who captures the profits",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits"
+    },
+    {
+      "headline": "BIS paper finds banks could slow stablecoin growth by raising rates",
+      "take": "Banks raising rates could slow stablecoin growth by paying savers more",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bis-paper-banks-slow-stablecoin-growth-rates/"
+    }
+  ],
+  "business": [
+    {
+      "headline": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "take": "Polygon acquires Coinme to enter payments sector dominated by Visa, Stripe",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe"
+    },
+    {
+      "headline": "Major Bulgarian bank Postbank to add crypto and stock investments to app in early 2027",
+      "take": "Bulgarian bank Postbank to add crypto and stock investments in early 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/postbank-crypto-stocks-gold-app-2027/"
+    },
+    {
+      "headline": "Coinbase tokenized stocks in DeFi soar to $262M on Base platform",
+      "take": "Coinbase tokenized stocks on Base platform surge to $262M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-tokenized-stocks-in-defi-soar-to-262m-on-base-platform/"
+    },
+    {
       "headline": "Starknet integrates with ShapeShift, cutting the bridge step from swaps",
-      "take": "Starknet partnership with ShapeShift streamlines token swaps, eliminates bridge",
+      "take": "Starknet integrates ShapeShift, eliminating bridge step from swaps",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/starknet-integrates-shapeshift-no-bridge-swaps/"
     },
     {
-      "headline": "Anthropic signs lease for first Canadian data center with EverWind",
-      "take": "Anthropic secures first Canadian data center lease with EverWind",
+      "headline": "Anthropic\u2019s Louisiana data center could generate $1.3 billion a month",
+      "take": "Anthropic Louisiana data center could generate $1.3B monthly revenue",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-first-canadian-data-center-everwind/"
-    },
-    {
-      "headline": "OpenAI hires SpaceX\u2019s Graham Seamans to lead cybersecurity sales",
-      "take": "OpenAI recruits SpaceX cybersecurity executive for sales leadership",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-hires-graham-seamans-cybersecurity-sales/"
-    },
-    {
-      "headline": "Anthropic offers Blackstone double-digit yield in $60 billion chip financing push",
-      "take": "Anthropic offers Blackstone double-digit returns in $60B chip finance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-blackstone-double-digit-yield-chip-financing/"
+      "link": "https://cryptobriefing.com/anthropic-louisiana-data-center-revenue/"
     }
   ],
   "security": [
     {
-      "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",
-      "take": "Google's quantum breakthrough exposes early Bitcoin holdings to future threats",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
+      "headline": "CoreWeave faces bankruptcy risk amid $50B debt, bond yields over 15%",
+      "take": "CoreWeave faces bankruptcy risk amid $50B debt, bond yields exceed 15%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-faces-bankruptcy-risk-amid-50b-debt-bond-yields-over-15/"
+    },
+    {
+      "headline": "Brooklyn prosecutor Alona Katz takes on crypto scam networks behind $11 billion in losses",
+      "take": "Brooklyn prosecutor targets crypto scam networks behind $11B in losses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alona-katz-brooklyn-crypto-scam-crackdown/"
+    },
+    {
+      "headline": "Fidelity report finds Solana resilient but flags concentration in stake, hosting and clients",
+      "take": "Fidelity finds Solana resilient but flags concentration in stakes and hosting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fidelity-report-solana-resilience-concentration-risks/"
     }
   ],
   "policy": [
     {
-      "headline": "Anthropic pitches a frontier AI safety bill to US lawmakers, Politico reports",
-      "take": "Anthropic proposes frontier AI safety legislation to US Congress",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-pitches-ai-safety-bill-lawmakers/"
-    },
-    {
       "headline": "Lagarde says euro-area economy is resilient, digital euro imminent",
-      "take": "ECB signals digital euro rollout imminent as euro economy stabilizes",
+      "take": "ECB's Lagarde signals euro-area economy resilient, digital euro imminent",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

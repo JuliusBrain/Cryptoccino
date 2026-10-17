@@ -1,108 +1,78 @@
 {
-  "generated": "2026-10-17T04:36:54.847711+00:00",
-  "ts": 1792211814,
+  "generated": "2026-10-17T10:52:53.370749+00:00",
+  "ts": 1792234373,
   "market": [
     {
-      "headline": "BlackRock sells $71.78 million in Bitcoin as ETF redemptions pile up",
-      "take": "BlackRock selling Bitcoin as ETF redemptions accelerate signals shifting institutional demand",
+      "headline": "Bitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million",
+      "take": "Bitcoin and Ethereum ETFs see outflows as investor appetite cools",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-sells-71-million-bitcoin-ibit/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-82-million-outflows-october-16/"
     },
     {
-      "headline": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "take": "Strive's Bitcoin accumulation strategy gains analyst confidence with significant price target upgrade",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839"
-    },
-    {
-      "headline": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-      "take": "Bitcoin treasury index strategy faces potential removal under new MSCI methodology rules",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules"
-    },
-    {
-      "headline": "Solana to enhance transaction speed with Alpenglow upgrade",
-      "take": "Solana network upgrades to increase transaction processing speed with Alpenglow implementation",
+      "headline": "Ether ETFs lose $320M in a week, outpacing Bitcoin fund outflows",
+      "take": "Ether ETF outflows accelerate, outpacing Bitcoin fund redemptions significantly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-to-enhance-transaction-speed-with-alpenglow-upgrade/"
+      "link": "https://cryptobriefing.com/ether-etfs-lose-320m-outpacing-bitcoin/"
     },
     {
       "headline": "Wall Street faces fresh risks as AI rout meets oil shock",
-      "take": "Wall Street faces compounding pressures from AI sector downturn and oil market shock",
+      "take": "Wall Street confronts compounding risks from AI decline and oil prices",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/wall-street-ai-rout-oil-shock/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase to power stablecoin-backed cards for Marqeta customers",
-      "take": "Coinbase partners with Marqeta to issue stablecoin-backed payment cards to customers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833"
+      "headline": "Coinbase crypto-backed loans hit $2.3 billion as banks build tokenized deposits",
+      "take": "Coinbase crypto loans surge to $2.3B as banks tokenize deposits",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-crypto-backed-loans-tokenized-deposits/"
     },
     {
-      "headline": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-      "take": "Circle expanding stablecoin services into forty emerging markets amid mainstream adoption push",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream"
+      "headline": "Starknet integrates with ShapeShift, cutting the bridge step from swaps",
+      "take": "Starknet partnership with ShapeShift streamlines token swaps, eliminates bridge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/starknet-integrates-shapeshift-no-bridge-swaps/"
     },
     {
       "headline": "Anthropic signs lease for first Canadian data center with EverWind",
-      "take": "Anthropic leases first Canadian data center facility with EverWind for AI operations",
+      "take": "Anthropic secures first Canadian data center lease with EverWind",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-first-canadian-data-center-everwind/"
     },
     {
-      "headline": "Brett Harrison\u2019s Architect bets auctions can make AI inference cheaper",
-      "take": "Architect platform proposes auction mechanism to reduce AI inference computation costs",
+      "headline": "OpenAI hires SpaceX\u2019s Graham Seamans to lead cybersecurity sales",
+      "take": "OpenAI recruits SpaceX cybersecurity executive for sales leadership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/architect-liquid-inference-ai-auction-marketplace/"
+      "link": "https://cryptobriefing.com/openai-hires-graham-seamans-cybersecurity-sales/"
     },
     {
-      "headline": "Replit CEO Amjad Masad says company no longer working with Anthropic",
-      "take": "Replit ends working relationship with Anthropic following prior collaboration period",
+      "headline": "Anthropic offers Blackstone double-digit yield in $60 billion chip financing push",
+      "take": "Anthropic offers Blackstone double-digit returns in $60B chip finance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/replit-masad-anthropic-multi-model-disrupt/"
+      "link": "https://cryptobriefing.com/anthropic-blackstone-double-digit-yield-chip-financing/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI models hacked crypto wallet, breached websites: Ars Technica",
-      "take": "OpenAI models successfully compromised crypto wallet and website security in testing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-models-hacked-crypto-wallet-breached-websites-ars-technica/"
-    },
-    {
-      "headline": "Claude traces NIST P-256 seed to a 1997 random number generator run",
-      "take": "Claude AI traces cryptographic seed vulnerability back to 1997 random number generator",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-traces-nist-p256-seed-origins/"
-    },
-    {
-      "headline": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-      "take": "India's cyber agency reports AI agents accessing confidential business records without authorization",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records"
+      "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",
+      "take": "Google's quantum breakthrough exposes early Bitcoin holdings to future threats",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
     }
   ],
   "policy": [
     {
       "headline": "Anthropic pitches a frontier AI safety bill to US lawmakers, Politico reports",
-      "take": "Anthropic proposes frontier AI safety regulatory framework to US lawmakers for consideration",
+      "take": "Anthropic proposes frontier AI safety legislation to US Congress",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-pitches-ai-safety-bill-lawmakers/"
     },
     {
-      "headline": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "take": "Crypto PACs increase spending to oppose Senator Sherrod Brown in Ohio election race",
+      "headline": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "take": "ECB signals digital euro rollout imminent as euro economy stabilizes",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC excludes casino sportsbooks from swap definition",
-      "take": "CFTC excludes casino sportsbooks from swap regulatory definition limiting derivatives oversight",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-excludes-casino-sportsbooks-swap-definition/"
+      "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

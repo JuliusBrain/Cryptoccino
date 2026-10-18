@@ -1,84 +1,72 @@
 {
-  "generated": "2026-10-18T04:42:24.727974+00:00",
-  "ts": 1792298544,
+  "generated": "2026-10-18T11:17:56.480046+00:00",
+  "ts": 1792322276,
   "market": [
     {
-      "headline": "Bitcoin ETFs log $228M in weekly sales as monthly outflows near $618M",
-      "take": "Bitcoin ETFs see weekly inflows slow amid broader monthly outflow pressure",
+      "headline": "Justin Sun sells most of his ETH and moves into US stocks",
+      "take": "Justin Sun sells majority ETH holdings, reallocates to US stocks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-228m-sales-618m-outflows/"
+      "link": "https://cryptobriefing.com/justin-sun-sells-eth-buys-us-stocks/"
     },
     {
-      "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "take": "Circle defends USDC economics against stablecoin competitors offering better partner terms",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+      "headline": "El Salvador\u2019s Bitcoin reserve tops 7,800 coins despite IMF limits",
+      "take": "El Salvador accumulates 7,800 bitcoin despite IMF pressure against holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/el-salvador-bitcoin-reserve-tops-7800/"
+    },
+    {
+      "headline": "Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries",
+      "take": "Italy, Portugal, Singapore control two-thirds of tokenized US Treasury holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainalysis-tokenized-us-treasuries-foreign-holders/"
     }
   ],
   "business": [
     {
       "headline": "Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders",
-      "take": "Yuga Labs launches Mudwater trading cards on Solana for BAYC holders",
+      "take": "Yuga Labs launches Mudwater trading cards on Solana for NFT holders",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/yuga-labs-mudwater-trading-cards-solana/"
     },
     {
-      "headline": "Microsoft plans to pay Anthropic over $2B a year to keep Copilot competitive",
-      "take": "Microsoft commits over $2B annually to Anthropic for Copilot competitive edge",
+      "headline": "Nine companies, including Broadcom and UnitedHealth, block tokenized stock trading on OKXICE",
+      "take": "Major corporations block tokenized stock trading on OKXICE platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-anthropic-2b-copilot-deal/"
+      "link": "https://cryptobriefing.com/okxice-tokenized-stocks-issuer-objections/"
     },
     {
-      "headline": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "take": "Major banks view tokenization as growth opportunity, not competitive threat",
+      "headline": "OpenAI quietly lists three aurora alpha models in its API",
+      "take": "OpenAI quietly lists three aurora alpha models in API offerings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-aurora-alpha-models-api/"
+    },
+    {
+      "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "take": "Circle defends USDC economics as stablecoin competitors poach partner agreements",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat"
-    },
-    {
-      "headline": "Antithesis raises $105M at $525M valuation as AI code floods the zone",
-      "take": "Antithesis raises $105M to address AI-generated code quality and safety",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/antithesis-raises-105m-525m-valuation/"
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
     }
   ],
   "security": [
     {
+      "headline": "Cysic halts crypto bridge after unauthorized mint of 10M CYS",
+      "take": "Cysic halts bridge after 10M CYS tokens minted without authorization",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cysic-halts-bridge-unauthorized-cys-mint/"
+    },
+    {
       "headline": "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
-      "take": "Hardware wallets designed to resist hackers contained undisclosed surveillance capabilities",
+      "take": "Specialized crypto security devices discovered containing hidden surveillance mechanisms",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/articles/2026-10-18/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside"
-    },
-    {
-      "headline": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
-      "take": "Turkey arrests Hex founder Richard Heart, seizes $7.15M and six cold wallets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
-    },
-    {
-      "headline": "OpenCode discloses distillation attack that hit 1.4% of Console users",
-      "take": "OpenCode distillation attack compromised 1.4% of Console user accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/opencode-distillation-attack-api-key-breach/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC advances crypto regulation plan after CLARITY Act defeat in Senate",
-      "take": "CFTC advances crypto regulation plan following Senate CLARITY Act defeat",
+      "headline": "Solana\u2019s Alpenglow test migration success sets stage for mainnet activation",
+      "take": "Solana's Alpenglow migration succeeds, mainnet activation now anticipated",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-advances-crypto-regulation-plan-after-clarity-act-defeat-in-senate/"
-    },
-    {
-      "headline": "CIA deputy director says Bitcoin is a tool for intelligence collection",
-      "take": "CIA deputy director characterizes Bitcoin as tool for intelligence collection",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cia-deputy-director-bitcoin-intelligence-collection/"
-    },
-    {
-      "headline": "Anthropic draft bill proposes AI model shutdowns for major risks",
-      "take": "Anthropic draft bill proposes government authority to shut down AI models for major risks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-draft-bill-proposes-ai-model-shutdowns-for-major-risks/"
+      "link": "https://cryptobriefing.com/solanas-alpenglow-test-migration-success-sets-stage-for-mainnet-activation/"
     }
   ]
 }

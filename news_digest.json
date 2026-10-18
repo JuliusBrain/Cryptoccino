@@ -1,16 +1,22 @@
 {
-  "generated": "2026-10-18T20:51:51.238592+00:00",
-  "ts": 1792356711,
+  "generated": "2026-10-18T23:19:26.222677+00:00",
+  "ts": 1792365566,
   "market": [
     {
-      "headline": "Stablecoin payments climb 45% to $482B as Visa, Mastercard and Stripe bridge crypto and cash",
-      "take": "Stablecoin payments surge 45% to $482B as major payment networks adopt crypto rails",
+      "headline": "Bitcoin\u2019s MVRV drops below 30th percentile after $87K rejection",
+      "take": "Bitcoin rejected at $87K, MVRV ratio signals potential oversold conditions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-payments-rise-45-percent-482b/"
+      "link": "https://cryptobriefing.com/bitcoin-mvrv-below-30th-percentile-87k/"
+    },
+    {
+      "headline": "Bitcoin mid-term holders slash exchange transfers to 4.4% from 40.4% in June",
+      "take": "Mid-term holders cutting exchange transfers to 4.4%, suggesting reduced selling pressure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-mid-term-holders-exchange-transfers-drop/"
     },
     {
       "headline": "Small and mid-cap crypto outpaces Bitcoin since late August, CryptoQuant analyst says",
-      "take": "Small and mid-cap crypto assets outpace Bitcoin since late August",
+      "take": "Small and mid-cap crypto outperforming Bitcoin since late August",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/small-mid-cap-crypto-outpaces-bitcoin-cryptoquant/"
     },
@@ -22,33 +28,39 @@
     },
     {
       "headline": "Bitcoin\u2019s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "take": "Bitcoin's $100k year-end target divides analysts as inflation concerns persist",
+      "take": "Analysts divided on Bitcoin reaching $100K by year-end amid inflation uncertainty",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic revenue up 50%, cash-flow positive ahead of IPO",
-      "take": "Anthropic revenue up 50% and cash-flow positive ahead of potential IPO",
+      "headline": "TSMC posts record Q3 as AI chip demand pushes revenue up 50.9%",
+      "take": "TSMC posts record Q3 revenue, up 50.9% driven by AI chip demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-revenue-up-50-cash-flow-positive-ahead-of-ipo/"
+      "link": "https://cryptobriefing.com/tsmc-record-q3-ai-chip-demand/"
     },
     {
       "headline": "TeraWulf secures Google backing for its Lake Mariner data center campus",
-      "take": "TeraWulf secures Google backing for Lake Mariner data center campus expansion",
+      "take": "TeraWulf secures Google backing for Lake Mariner data center campus",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/terawulf-google-backing-lake-mariner/"
     },
     {
-      "headline": "Starknet brings programmable privacy to Zcash-style assets",
-      "take": "Starknet launches programmable privacy features compatible with Zcash-style assets",
+      "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "take": "Stablecoin payments jump 45% as major payment networks integrate crypto rails",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
+    },
+    {
+      "headline": "Private investors pile into AI startups Etched, Unconventional AI and Legora",
+      "take": "Private investors backing AI startups Etched, Unconventional AI, and Legora",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-programmable-privacy-zcash-strk20/"
+      "link": "https://cryptobriefing.com/private-investors-etched-unconventional-ai-legora/"
     },
     {
       "headline": "Stacks outlines Q4 priorities to grow BTC bonding and ship Epoch 4.1",
-      "take": "Stacks outlines Q4 priorities including BTC bonding expansion and Epoch 4.1 launch",
+      "take": "Stacks outlines Q4 priorities including BTC bonding and Epoch 4.1 launch",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/stacks-q4-btc-bonding-epoch-4-1/"
     }
@@ -56,47 +68,47 @@
   "security": [
     {
       "headline": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-      "take": "Cysic bridge suspended after attacker mints tokens and moves $727k to Ethereum",
+      "take": "Cysic bridge halted after attacker mints tokens, moves $727,000 to Ethereum",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863"
     },
     {
       "headline": "Qubic halts mainnet after wallet drain empties 1,404 accounts",
-      "take": "Qubic halts mainnet following wallet drain affecting 1,404 accounts",
+      "take": "Qubic mainnet halted after wallet drain empties 1,404 user accounts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/qubic-halts-mainnet-wallet-drain/"
     },
     {
-      "headline": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "take": "Q3 crypto hacks cost $1.18 billion; audits may give investors false security",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says"
+      "headline": "Legal risks mount for AI companies after autonomous agents breach outside systems",
+      "take": "Legal risks mount for AI companies as autonomous agents breach external systems",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/legal-risks-ai-companies-agent-hacking/"
     }
   ],
   "policy": [
     {
       "headline": "CFTC proposes federal oversight framework for US crypto exchanges",
-      "take": "CFTC proposes federal oversight framework for US crypto exchanges",
+      "take": "CFTC proposes federal oversight framework for US cryptocurrency exchanges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-proposes-federal-oversight-framework-for-us-crypto-exchanges/"
     },
     {
       "headline": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "take": "Latvia plans one-time 10% crypto tax declaration window in 2027",
+      "take": "Latvia parliament overhauls crypto taxation, plans one-time 10% declaration window 2027",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation"
     },
     {
-      "headline": "Crypto.com and Novig sue Missouri to block sports wagering laws",
-      "take": "Crypto.com and Novig sue Missouri to block new sports wagering laws",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-com-novig-sue-missouri-sports-wagering/"
+      "headline": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+      "take": "Crypto.com and Novig sue Missouri over sports wagering contract restrictions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866"
     },
     {
-      "headline": "The White House's crypto chief departs: State of Crypto",
-      "take": "White House crypto chief departs amid broader policy transitions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
+      "headline": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
+      "take": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-jay-clayton-ai-czar-super-intelligence-force/"
     }
   ]
 }

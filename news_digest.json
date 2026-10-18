@@ -1,72 +1,108 @@
 {
-  "generated": "2026-10-18T11:17:56.480046+00:00",
-  "ts": 1792322276,
+  "generated": "2026-10-18T15:56:26.009192+00:00",
+  "ts": 1792338986,
   "market": [
     {
+      "headline": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "take": "Bitcoin ETFs shed nearly $1B in two weeks as October underperforms",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red"
+    },
+    {
+      "headline": "Bitcoin\u2019s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "take": "Bitcoin year-end $100K target divides analysts amid inflation uncertainty",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
+    },
+    {
+      "headline": "Stablecoin payments climb 45% to $482B as Visa, Mastercard and Stripe bridge crypto and cash",
+      "take": "Stablecoin payments jump 45% to $482B as traditional payment firms integrate crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stablecoin-payments-rise-45-percent-482b/"
+    },
+    {
+      "headline": "Solana leads stablecoin transfers in September with record 557M transactions",
+      "take": "Solana leads stablecoin transfers with record 557M transactions in September",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-leads-stablecoin-transfers-in-september-with-record-557m-transactions/"
+    },
+    {
       "headline": "Justin Sun sells most of his ETH and moves into US stocks",
-      "take": "Justin Sun sells majority ETH holdings, reallocates to US stocks",
+      "take": "Justin Sun liquidates most ETH holdings, shifts capital to US stocks",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/justin-sun-sells-eth-buys-us-stocks/"
-    },
-    {
-      "headline": "El Salvador\u2019s Bitcoin reserve tops 7,800 coins despite IMF limits",
-      "take": "El Salvador accumulates 7,800 bitcoin despite IMF pressure against holdings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/el-salvador-bitcoin-reserve-tops-7800/"
-    },
-    {
-      "headline": "Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries",
-      "take": "Italy, Portugal, Singapore control two-thirds of tokenized US Treasury holdings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-tokenized-us-treasuries-foreign-holders/"
     }
   ],
   "business": [
     {
-      "headline": "Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders",
-      "take": "Yuga Labs launches Mudwater trading cards on Solana for NFT holders",
+      "headline": "Starknet brings programmable privacy to Zcash-style assets",
+      "take": "Starknet adds programmable privacy features to zero-knowledge asset protocols",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yuga-labs-mudwater-trading-cards-solana/"
+      "link": "https://cryptobriefing.com/starknet-programmable-privacy-zcash-strk20/"
     },
     {
-      "headline": "Nine companies, including Broadcom and UnitedHealth, block tokenized stock trading on OKXICE",
-      "take": "Major corporations block tokenized stock trading on OKXICE platform",
+      "headline": "Anthropic revenue up 50%, cash-flow positive ahead of IPO",
+      "take": "Anthropic reaches cash-flow positive status, revenue up 50% ahead of IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okxice-tokenized-stocks-issuer-objections/"
+      "link": "https://cryptobriefing.com/anthropic-revenue-up-50-cash-flow-positive-ahead-of-ipo/"
     },
     {
-      "headline": "OpenAI quietly lists three aurora alpha models in its API",
-      "take": "OpenAI quietly lists three aurora alpha models in API offerings",
+      "headline": "Circle defends USDC model, reveals just 7 cents profit per dollar",
+      "take": "Circle reveals USDC economics yield only 7 cents profit per dollar",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-aurora-alpha-models-api/"
+      "link": "https://cryptobriefing.com/circle-usdc-model-7-cents-profit-per-dollar/"
     },
     {
-      "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "take": "Circle defends USDC economics as stablecoin competitors poach partner agreements",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+      "headline": "Solana\u2019s Alpenglow test migration success sets stage for mainnet activation",
+      "take": "Solana's Alpenglow test migration succeeds, clears path for mainnet launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solanas-alpenglow-test-migration-success-sets-stage-for-mainnet-activation/"
     }
   ],
   "security": [
     {
+      "headline": "Qubic halts mainnet after wallet drain empties 1,404 accounts",
+      "take": "Qubic halts mainnet after wallet vulnerability drains 1,404 user accounts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/qubic-halts-mainnet-wallet-drain/"
+    },
+    {
+      "headline": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "take": "Q3 crypto hacks cost $1.18B despite audits giving investors false security confidence",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says"
+    },
+    {
       "headline": "Cysic halts crypto bridge after unauthorized mint of 10M CYS",
-      "take": "Cysic halts bridge after 10M CYS tokens minted without authorization",
+      "take": "Cysic halts crypto bridge following unauthorized minting of 10M CYS tokens",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cysic-halts-bridge-unauthorized-cys-mint/"
     },
     {
       "headline": "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
-      "take": "Specialized crypto security devices discovered containing hidden surveillance mechanisms",
+      "take": "Cryptographic security devices discovered to contain undisclosed surveillance capabilities",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/articles/2026-10-18/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside"
     }
   ],
   "policy": [
     {
-      "headline": "Solana\u2019s Alpenglow test migration success sets stage for mainnet activation",
-      "take": "Solana's Alpenglow migration succeeds, mainnet activation now anticipated",
+      "headline": "El Salvador\u2019s Bitcoin reserve tops 7,800 coins despite IMF limits",
+      "take": "El Salvador's Bitcoin reserve exceeds 7,800 coins despite IMF fiscal constraints",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solanas-alpenglow-test-migration-success-sets-stage-for-mainnet-activation/"
+      "link": "https://cryptobriefing.com/el-salvador-bitcoin-reserve-tops-7800/"
+    },
+    {
+      "headline": "Nine companies, including Broadcom and UnitedHealth, block tokenized stock trading on OKXICE",
+      "take": "Nine firms including Broadcom block tokenized stock trading on OKXICE platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/okxice-tokenized-stocks-issuer-objections/"
+    },
+    {
+      "headline": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "take": "Banks hold regulatory leverage over stablecoin adoption rates, BIS economists warn",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say"
     }
   ]
 }

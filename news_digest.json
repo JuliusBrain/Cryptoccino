@@ -1,65 +1,53 @@
 {
-  "generated": "2026-10-17T23:10:44.917029+00:00",
-  "ts": 1792278644,
+  "generated": "2026-10-18T04:42:24.727974+00:00",
+  "ts": 1792298544,
   "market": [
     {
       "headline": "Bitcoin ETFs log $228M in weekly sales as monthly outflows near $618M",
-      "take": "Bitcoin ETFs see $228M weekly inflows offset by $618M monthly outflows",
+      "take": "Bitcoin ETFs see weekly inflows slow amid broader monthly outflow pressure",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-etfs-228m-sales-618m-outflows/"
     },
     {
-      "headline": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "take": "Goldman, Wells Fargo, Morgan Stanley view tokenization as growth opportunity",
+      "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "take": "Circle defends USDC economics against stablecoin competitors offering better partner terms",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat"
-    },
-    {
-      "headline": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "take": "Banks may slow stablecoin adoption by offering higher savings rates",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
-    },
-    {
-      "headline": "Vitalik Buterin breaks down Bitcoin mining costs versus AI inference",
-      "take": "Bitcoin mining costs rival AI inference pricing in infrastructure competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vitalik-buterin-bitcoin-mining-ai-costs/"
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
     }
   ],
   "business": [
     {
+      "headline": "Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders",
+      "take": "Yuga Labs launches Mudwater trading cards on Solana for BAYC holders",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/yuga-labs-mudwater-trading-cards-solana/"
+    },
+    {
       "headline": "Microsoft plans to pay Anthropic over $2B a year to keep Copilot competitive",
-      "take": "Microsoft commits over $2B annually to keep Anthropic's Copilot competitive",
+      "take": "Microsoft commits over $2B annually to Anthropic for Copilot competitive edge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/microsoft-anthropic-2b-copilot-deal/"
     },
     {
+      "headline": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "take": "Major banks view tokenization as growth opportunity, not competitive threat",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat"
+    },
+    {
       "headline": "Antithesis raises $105M at $525M valuation as AI code floods the zone",
-      "take": "Antithesis raises $105M at $525M valuation amid AI code automation surge",
+      "take": "Antithesis raises $105M to address AI-generated code quality and safety",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/antithesis-raises-105m-525m-valuation/"
-    },
-    {
-      "headline": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "take": "Polygon acquires Coinme to enter payments sector against Visa, Stripe",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe"
-    },
-    {
-      "headline": "Major Bulgarian bank Postbank to add crypto and stock investments to app in early 2027",
-      "take": "Major Bulgarian bank Postbank launching crypto and stock investments in 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/postbank-crypto-stocks-gold-app-2027/"
-    },
-    {
-      "headline": "Nine crypto firms form Quantum Alliance to set post-quantum standards",
-      "take": "Nine crypto firms form Quantum Alliance to establish post-quantum security standards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantum-alliance-nine-crypto-firms-standards/"
     }
   ],
   "security": [
+    {
+      "headline": "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
+      "take": "Hardware wallets designed to resist hackers contained undisclosed surveillance capabilities",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside"
+    },
     {
       "headline": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
       "take": "Turkey arrests Hex founder Richard Heart, seizes $7.15M and six cold wallets",
@@ -68,47 +56,29 @@
     },
     {
       "headline": "OpenCode discloses distillation attack that hit 1.4% of Console users",
-      "take": "OpenCode discloses distillation attack affecting 1.4% of Console user base",
+      "take": "OpenCode distillation attack compromised 1.4% of Console user accounts",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/opencode-distillation-attack-api-key-breach/"
-    },
-    {
-      "headline": "Brooklyn prosecutor Alona Katz takes on crypto scam networks behind $11 billion in losses",
-      "take": "Brooklyn prosecutor targets crypto scam networks behind $11 billion in losses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/alona-katz-brooklyn-crypto-scam-crackdown/"
-    },
-    {
-      "headline": "CoreWeave faces bankruptcy risk amid $50B debt, bond yields over 15%",
-      "take": "CoreWeave faces bankruptcy risk with $50B debt and bond yields exceeding 15%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-faces-bankruptcy-risk-amid-50b-debt-bond-yields-over-15/"
     }
   ],
   "policy": [
     {
       "headline": "CFTC advances crypto regulation plan after CLARITY Act defeat in Senate",
-      "take": "CFTC advances crypto regulation plan following Senate defeat of CLARITY Act",
+      "take": "CFTC advances crypto regulation plan following Senate CLARITY Act defeat",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-advances-crypto-regulation-plan-after-clarity-act-defeat-in-senate/"
     },
     {
+      "headline": "CIA deputy director says Bitcoin is a tool for intelligence collection",
+      "take": "CIA deputy director characterizes Bitcoin as tool for intelligence collection",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cia-deputy-director-bitcoin-intelligence-collection/"
+    },
+    {
       "headline": "Anthropic draft bill proposes AI model shutdowns for major risks",
-      "take": "Anthropic proposes draft bill enabling AI model shutdowns for major safety risks",
+      "take": "Anthropic draft bill proposes government authority to shut down AI models for major risks",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-draft-bill-proposes-ai-model-shutdowns-for-major-risks/"
-    },
-    {
-      "headline": "Anthropic\u2019s AI safety bill draws fire over its frontier compute line",
-      "take": "Anthropic's AI safety bill draws criticism over frontier compute threshold definition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-safety-bill-frontier-threshold/"
-    },
-    {
-      "headline": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
-      "take": "Crypto Super PAC Fairshake invests millions opposing Ohio Senator Sherrod Brown",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown"
     }
   ]
 }

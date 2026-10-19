@@ -1,114 +1,101 @@
 {
-  "generated": "2026-10-18T23:19:26.222677+00:00",
-  "ts": 1792365566,
+  "generated": "2026-10-19T04:50:37.857255+00:00",
+  "ts": 1792385437,
   "market": [
     {
+      "headline": "Bitcoin Rebounds Above $82,000 as Oil\u2019s Retreat Lifts Risk Mood",
+      "take": "Bitcoin rebounds above $82k as oil retreat lifts risk appetite",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood"
+    },
+    {
+      "headline": "Bitcoin, Korea\u2019s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "take": "Bitcoin rallies with Kospi, Nasdaq futures on China GDP beat",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
+    },
+    {
+      "headline": "Upbit weekly trading volume falls 15.5% to 8.35 trillion won as XRP leads activity",
+      "take": "Upbit weekly volume falls 15.5% to 8.35 trillion won",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-weekly-trading-volume-falls-xrp-leads/"
+    },
+    {
       "headline": "Bitcoin\u2019s MVRV drops below 30th percentile after $87K rejection",
-      "take": "Bitcoin rejected at $87K, MVRV ratio signals potential oversold conditions",
+      "take": "Bitcoin MVRV drops below 30th percentile after $87k rejection",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-mvrv-below-30th-percentile-87k/"
     },
     {
-      "headline": "Bitcoin mid-term holders slash exchange transfers to 4.4% from 40.4% in June",
-      "take": "Mid-term holders cutting exchange transfers to 4.4%, suggesting reduced selling pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-mid-term-holders-exchange-transfers-drop/"
-    },
-    {
       "headline": "Small and mid-cap crypto outpaces Bitcoin since late August, CryptoQuant analyst says",
-      "take": "Small and mid-cap crypto outperforming Bitcoin since late August",
+      "take": "Small and mid-cap crypto outpaces Bitcoin since late August",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/small-mid-cap-crypto-outpaces-bitcoin-cryptoquant/"
-    },
-    {
-      "headline": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "take": "Bitcoin ETFs shed nearly $1 billion in two weeks amid market weakness",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red"
-    },
-    {
-      "headline": "Bitcoin\u2019s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "take": "Analysts divided on Bitcoin reaching $100K by year-end amid inflation uncertainty",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
     }
   ],
   "business": [
     {
-      "headline": "TSMC posts record Q3 as AI chip demand pushes revenue up 50.9%",
-      "take": "TSMC posts record Q3 revenue, up 50.9% driven by AI chip demand",
+      "headline": "BlackRock pushes deeper into tokenization with funds, portfolios and stablecoin reserves",
+      "take": "BlackRock deepens tokenization push with funds and stablecoin reserves",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-record-q3-ai-chip-demand/"
+      "link": "https://cryptobriefing.com/blackrock-advances-tokenization-blockchain-integration/"
+    },
+    {
+      "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "take": "Deutsche Bank targets Asia crypto custody expansion by 2027",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
+    },
+    {
+      "headline": "World launches ID suite for banks, makes Zoom deepfake check generally available",
+      "take": "World launches ID suite for banks, Zoom deepfake check available",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/world-id-zoom-deepfake-banks-suite/"
     },
     {
       "headline": "TeraWulf secures Google backing for its Lake Mariner data center campus",
-      "take": "TeraWulf secures Google backing for Lake Mariner data center campus",
+      "take": "TeraWulf secures Google backing for Lake Mariner data center",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/terawulf-google-backing-lake-mariner/"
     },
     {
-      "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-      "take": "Stablecoin payments jump 45% as major payment networks integrate crypto rails",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
-    },
-    {
-      "headline": "Private investors pile into AI startups Etched, Unconventional AI and Legora",
-      "take": "Private investors backing AI startups Etched, Unconventional AI, and Legora",
+      "headline": "TSMC posts record Q3 as AI chip demand pushes revenue up 50.9%",
+      "take": "TSMC posts record Q3 with AI chip revenue up 50.9%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/private-investors-etched-unconventional-ai-legora/"
-    },
-    {
-      "headline": "Stacks outlines Q4 priorities to grow BTC bonding and ship Epoch 4.1",
-      "take": "Stacks outlines Q4 priorities including BTC bonding and Epoch 4.1 launch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stacks-q4-btc-bonding-epoch-4-1/"
+      "link": "https://cryptobriefing.com/tsmc-record-q3-ai-chip-demand/"
     }
   ],
-  "security": [
-    {
-      "headline": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-      "take": "Cysic bridge halted after attacker mints tokens, moves $727,000 to Ethereum",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863"
-    },
-    {
-      "headline": "Qubic halts mainnet after wallet drain empties 1,404 accounts",
-      "take": "Qubic mainnet halted after wallet drain empties 1,404 user accounts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/qubic-halts-mainnet-wallet-drain/"
-    },
-    {
-      "headline": "Legal risks mount for AI companies after autonomous agents breach outside systems",
-      "take": "Legal risks mount for AI companies as autonomous agents breach external systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/legal-risks-ai-companies-agent-hacking/"
-    }
-  ],
+  "security": [],
   "policy": [
     {
       "headline": "CFTC proposes federal oversight framework for US crypto exchanges",
-      "take": "CFTC proposes federal oversight framework for US cryptocurrency exchanges",
+      "take": "CFTC proposes federal oversight framework for US crypto exchanges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-proposes-federal-oversight-framework-for-us-crypto-exchanges/"
     },
     {
-      "headline": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "take": "Latvia parliament overhauls crypto taxation, plans one-time 10% declaration window 2027",
+      "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "take": "SEC tokenized stock framework faces issuer pushback on listings",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation"
+      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
     },
     {
       "headline": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
-      "take": "Crypto.com and Novig sue Missouri over sports wagering contract restrictions",
+      "take": "Crypto.com and Novig sue Missouri over sports wagering laws",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866"
     },
     {
       "headline": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
-      "take": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
+      "take": "Trump names Jay Clayton AI czar to lead Super Intelligence Force",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/trump-jay-clayton-ai-czar-super-intelligence-force/"
+    },
+    {
+      "headline": "The White House's crypto chief departs: State of Crypto",
+      "take": "White House crypto chief departs",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
     }
   ]
 }

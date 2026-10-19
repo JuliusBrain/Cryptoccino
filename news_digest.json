@@ -1,108 +1,114 @@
 {
-  "generated": "2026-10-19T13:30:22.454256+00:00",
-  "ts": 1792416622,
+  "generated": "2026-10-19T20:37:25.408202+00:00",
+  "ts": 1792442245,
   "market": [
     {
-      "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-      "take": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
+      "headline": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "take": "JPMorgan launches JPM Coin on Ethereum for institutional dollar transfers",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars"
     },
     {
-      "headline": "Ether options signal growing downside fears as Bitcoin stays resilient, analyst says",
-      "take": "Ether options signal growing downside fears as Bitcoin stays resilient",
+      "headline": "Ethereum holds 54.1% of $300.3B stablecoin supply across 47 chains",
+      "take": "Ethereum hosts 54% of $300B stablecoin supply across 47 blockchains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ether-options-signal-growing-downside-fears-as-bitcoin-stays-resilient-analyst-says/"
+      "link": "https://cryptobriefing.com/ethereum-tron-stablecoin-supply-300-billion/"
     },
     {
-      "headline": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-      "take": "Crypto vault deposits top $10 billion as lending risks draw scrutiny",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
-    },
-    {
-      "headline": "CME\u2019s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "take": "CME launches bitcoin cash and uniswap futures amid global PMI shifts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
-    },
-    {
-      "headline": "Goldman Sachs upgrades CoreWeave to Buy, targets $106 amid Meta deal boost",
-      "take": "Goldman Sachs upgrades CoreWeave to Buy, targets $106 amid Meta deal",
+      "headline": "Tokenized Tesla and SpaceX shares reach $364.5 million in onchain market cap",
+      "take": "Tokenized Tesla and SpaceX shares reach $364.5M onchain market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-upgrades-coreweave-to-buy-targets-106-amid-meta-deal-boost/"
+      "link": "https://cryptobriefing.com/tokenized-tesla-spacex-shares-onchain-market-cap/"
+    },
+    {
+      "headline": "Circle\u2019s EURC adds $4.8 million in a week as euro stablecoins keep inching up",
+      "take": "Circle's euro stablecoin EURC grows as eurozone adoption gradually accelerates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-eurc-euro-stablecoin-market-cap-growth/"
+    },
+    {
+      "headline": "Digital gold could unlock $700 billion in investor demand: World Gold Council",
+      "take": "Digital gold could unlock $700B in traditional investor demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/digital-gold-demand-growth/"
     }
   ],
   "business": [
     {
-      "headline": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-      "take": "Strategy buys 267 bitcoin for $22M, repurchases $193M of STRC stock",
+      "headline": "Coinbase partners with Thunes to expand stablecoin payments to 140 countries",
+      "take": "Coinbase partners Thunes to expand stablecoin payments to 140 countries",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-thunes-partnership-stablecoin-payouts/"
+    },
+    {
+      "headline": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+      "take": "Mastercard brings fraud-fighting tools to stablecoin payment infrastructure",
       "source": "decrypt",
-      "link": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc"
+      "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments"
     },
     {
-      "headline": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-      "take": "Cardano founder Hoskinson builds new programming language for the network",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network"
+      "headline": "Ethereum Institutional taps former Coinbase research chief David Duong as Head of US",
+      "take": "Ethereum Institutional hires Coinbase research chief David Duong as US head",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-institutional-david-duong-head-of-us/"
     },
     {
-      "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-      "take": "JPMorgan's JPM Coin representing dollars coming to Ethereum for institutions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
+      "headline": "Brave retools its search engine for AI agents and plans a BAT overhaul",
+      "take": "Brave redesigns search engine for AI agents and plans BAT overhaul",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/brave-bat-roadmap-ai-agents-search/"
     },
     {
-      "headline": "Revolut secures Gibraltar crypto licence to support international expansion plans",
-      "take": "Revolut secures Gibraltar crypto licence to support international expansion plans",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889"
-    },
-    {
-      "headline": "AI Boom Lures Crypto Capital, But $2.7 Billion Firm Holds Out",
-      "take": "AI boom lures crypto capital, but $2.7 billion firm holds out",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-19/ai-boom-lures-crypto-capital-but-2-7-billion-firm-holds-out"
+      "headline": "Logos launches evidence layer for tokenized assets at Money20/20",
+      "take": "Logos launches evidence layer for tokenized assets at Money20/20 conference",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/logos-evidence-layer-tokenized-assets-money2020/"
     }
   ],
   "security": [
     {
-      "headline": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
-      "take": "Dutch authorities handed US data from seized anti-fascist server",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server"
+      "headline": "CFTC secures $288 million judgment against EminiFX over crypto Ponzi scheme",
+      "take": "CFTC wins $288M judgment against EminiFX crypto Ponzi scheme operator",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-eminifx-288-million-ponzi-judgment/"
     },
     {
-      "headline": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
-      "take": "Sam Altman's Worldcoin takes proof-of-human IDs to banks for AI fraud",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk"
+      "headline": "Project Eleven co-founder warns AI is finding cracks in post-quantum cryptography",
+      "take": "AI reportedly finding vulnerabilities in post-quantum cryptography systems",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-breaks-post-quantum-hawk-mceliece/"
     },
     {
-      "headline": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-      "take": "UK trio jailed over home invasion in failed cryptocurrency theft attempt",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt"
-    },
-    {
-      "headline": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-      "take": "Zcash developer proposes fix to stop quantum computers linking shielded swaps",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps"
+      "headline": "Thoma Bravo\u2019s Seth Boro warns of cybersecurity risks amid AI growth",
+      "take": "Cybersecurity risks rising as AI growth accelerates across enterprises",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/thoma-bravo-seth-boro-ai-cybersecurity-risks/"
     }
   ],
   "policy": [
     {
-      "headline": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
-      "take": "France advances stablecoin tax, eyes self-custodial wallets and exit proposals",
+      "headline": "Revolut secures Gibraltar crypto license to support global expansion",
+      "take": "Revolut secures Gibraltar crypto license enabling global expansion",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "BingX, YouHodler added to ESMA MiCA register in latest update",
-      "take": "BingX and YouHodler added to ESMA MiCA register in latest update",
+      "headline": "Tether says its freezes drove a 94% drop in Iran-linked stablecoin volumes",
+      "take": "Tether freezes reduced Iran-linked stablecoin volumes by 94 percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-iran-stablecoin-volumes-drop-94/"
+    },
+    {
+      "headline": "SEC to host roundtable on machine-understandable data for super intelligence",
+      "take": "SEC hosting roundtable on machine-understandable data standards",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-roundtable-machine-understandable-data-ai/"
+    },
+    {
+      "headline": "Market participants weigh in on SEC\u2019s proposed crypto regulations",
+      "take": "Market participants providing feedback on SEC crypto regulatory proposals",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

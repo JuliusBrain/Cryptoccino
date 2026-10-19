@@ -1,101 +1,108 @@
 {
-  "generated": "2026-10-19T04:50:37.857255+00:00",
-  "ts": 1792385437,
+  "generated": "2026-10-19T13:30:22.454256+00:00",
+  "ts": 1792416622,
   "market": [
     {
-      "headline": "Bitcoin Rebounds Above $82,000 as Oil\u2019s Retreat Lifts Risk Mood",
-      "take": "Bitcoin rebounds above $82k as oil retreat lifts risk appetite",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood"
-    },
-    {
-      "headline": "Bitcoin, Korea\u2019s Kospi and Nasdaq futures rally as China GDP beats estimates",
-      "take": "Bitcoin rallies with Kospi, Nasdaq futures on China GDP beat",
+      "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "take": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
     },
     {
-      "headline": "Upbit weekly trading volume falls 15.5% to 8.35 trillion won as XRP leads activity",
-      "take": "Upbit weekly volume falls 15.5% to 8.35 trillion won",
+      "headline": "Ether options signal growing downside fears as Bitcoin stays resilient, analyst says",
+      "take": "Ether options signal growing downside fears as Bitcoin stays resilient",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-weekly-trading-volume-falls-xrp-leads/"
+      "link": "https://cryptobriefing.com/ether-options-signal-growing-downside-fears-as-bitcoin-stays-resilient-analyst-says/"
     },
     {
-      "headline": "Bitcoin\u2019s MVRV drops below 30th percentile after $87K rejection",
-      "take": "Bitcoin MVRV drops below 30th percentile after $87k rejection",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-mvrv-below-30th-percentile-87k/"
+      "headline": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "take": "Crypto vault deposits top $10 billion as lending risks draw scrutiny",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
     },
     {
-      "headline": "Small and mid-cap crypto outpaces Bitcoin since late August, CryptoQuant analyst says",
-      "take": "Small and mid-cap crypto outpaces Bitcoin since late August",
+      "headline": "CME\u2019s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "take": "CME launches bitcoin cash and uniswap futures amid global PMI shifts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
+    },
+    {
+      "headline": "Goldman Sachs upgrades CoreWeave to Buy, targets $106 amid Meta deal boost",
+      "take": "Goldman Sachs upgrades CoreWeave to Buy, targets $106 amid Meta deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/small-mid-cap-crypto-outpaces-bitcoin-cryptoquant/"
+      "link": "https://cryptobriefing.com/goldman-sachs-upgrades-coreweave-to-buy-targets-106-amid-meta-deal-boost/"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock pushes deeper into tokenization with funds, portfolios and stablecoin reserves",
-      "take": "BlackRock deepens tokenization push with funds and stablecoin reserves",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-advances-tokenization-blockchain-integration/"
+      "headline": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+      "take": "Strategy buys 267 bitcoin for $22M, repurchases $193M of STRC stock",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc"
     },
     {
-      "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "take": "Deutsche Bank targets Asia crypto custody expansion by 2027",
+      "headline": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+      "take": "Cardano founder Hoskinson builds new programming language for the network",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
+      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network"
     },
     {
-      "headline": "World launches ID suite for banks, makes Zoom deepfake check generally available",
-      "take": "World launches ID suite for banks, Zoom deepfake check available",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-id-zoom-deepfake-banks-suite/"
+      "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "take": "JPMorgan's JPM Coin representing dollars coming to Ethereum for institutions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
     },
     {
-      "headline": "TeraWulf secures Google backing for its Lake Mariner data center campus",
-      "take": "TeraWulf secures Google backing for Lake Mariner data center",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/terawulf-google-backing-lake-mariner/"
+      "headline": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+      "take": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889"
     },
     {
-      "headline": "TSMC posts record Q3 as AI chip demand pushes revenue up 50.9%",
-      "take": "TSMC posts record Q3 with AI chip revenue up 50.9%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-record-q3-ai-chip-demand/"
+      "headline": "AI Boom Lures Crypto Capital, But $2.7 Billion Firm Holds Out",
+      "take": "AI boom lures crypto capital, but $2.7 billion firm holds out",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/ai-boom-lures-crypto-capital-but-2-7-billion-firm-holds-out"
     }
   ],
-  "security": [],
+  "security": [
+    {
+      "headline": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
+      "take": "Dutch authorities handed US data from seized anti-fascist server",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server"
+    },
+    {
+      "headline": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+      "take": "Sam Altman's Worldcoin takes proof-of-human IDs to banks for AI fraud",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk"
+    },
+    {
+      "headline": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+      "take": "UK trio jailed over home invasion in failed cryptocurrency theft attempt",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt"
+    },
+    {
+      "headline": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+      "take": "Zcash developer proposes fix to stop quantum computers linking shielded swaps",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps"
+    }
+  ],
   "policy": [
     {
-      "headline": "CFTC proposes federal oversight framework for US crypto exchanges",
-      "take": "CFTC proposes federal oversight framework for US crypto exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-proposes-federal-oversight-framework-for-us-crypto-exchanges/"
+      "headline": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "take": "France advances stablecoin tax, eyes self-custodial wallets and exit proposals",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "take": "SEC tokenized stock framework faces issuer pushback on listings",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
-    },
-    {
-      "headline": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
-      "take": "Crypto.com and Novig sue Missouri over sports wagering laws",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866"
-    },
-    {
-      "headline": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
-      "take": "Trump names Jay Clayton AI czar to lead Super Intelligence Force",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-jay-clayton-ai-czar-super-intelligence-force/"
-    },
-    {
-      "headline": "The White House's crypto chief departs: State of Crypto",
-      "take": "White House crypto chief departs",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
+      "headline": "BingX, YouHodler added to ESMA MiCA register in latest update",
+      "take": "BingX and YouHodler added to ESMA MiCA register in latest update",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

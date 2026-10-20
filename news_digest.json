@@ -1,96 +1,114 @@
 {
-  "generated": "2026-10-20T08:39:40.801218+00:00",
-  "ts": 1792485580,
+  "generated": "2026-10-20T14:21:06.411772+00:00",
+  "ts": 1792506066,
   "market": [
     {
-      "headline": "BlackRock\u2019s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-      "take": "BlackRock Bitcoin ETF draws record $665M inflow; Ethereum, Solana funds decline",
+      "headline": "Talos: Perpetual futures open interest slides to $67B as RWA contracts hit $9B",
+      "take": "Perpetual futures open interest declines to $67B as RWA contracts grow",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/talos-perpetual-futures-open-interest-rwa-contracts/"
+    },
+    {
+      "headline": "Bitcoin ETFs buy $526.6M in Bitcoin amid price weakness",
+      "take": "Bitcoin ETFs accumulate $526.6M in BTC during recent price weakness",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-buy-526-million-price-weakness/"
+    },
+    {
+      "headline": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
+      "take": "Stablecoins transfer over $400M hourly on average, off-hours activity dominates",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102"
+      "link": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111"
     },
     {
-      "headline": "J.P. Morgan projects Bitcoin to outperform US stocks and gold over the next decade",
-      "take": "J.P. Morgan projects Bitcoin outperformance versus US stocks and gold long-term",
+      "headline": "Blockchain.com launches options trading for BTC, ETH, SOL, and more",
+      "take": "Blockchain.com launches options trading for major cryptocurrencies including BTC and ETH",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-bitcoin-outperform-stocks-gold-decade/"
+      "link": "https://cryptobriefing.com/blockchain-com-launches-crypto-options-trading/"
     },
     {
-      "headline": "Morgan Stanley\u2019s MSOL draws inflows as Fidelity\u2019s FSOL sheds $1.8 million",
-      "take": "Morgan Stanley Solana ETF gains inflows while Fidelity Solana ETF sheds $1.8M",
+      "headline": "Arcus halves perpetuals fee tier thresholds as beta discounts end",
+      "take": "Arcus reduces perpetuals fee tier thresholds as beta discounts conclude",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morgan-stanley-msol-inflows-fidelity-fsol-outflows/"
-    },
-    {
-      "headline": "CryptoRank lists top 6 token unlocks this week, led by AKE at $62.42 million",
-      "take": "AKE leads weekly token unlocks at $62.42 million across major projects",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptorank-top-token-unlocks-ake-62-million/"
-    },
-    {
-      "headline": "Binance launches auto order routing on its Spot platform",
-      "take": "Binance launches auto order routing feature on spot trading platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-launches-auto-order-routing-spot/"
+      "link": "https://cryptobriefing.com/arcus-halves-perpetuals-fee-tier-thresholds/"
     }
   ],
   "business": [
     {
-      "headline": "Germany\u2019s Sparkasse Bank begins crypto services rollout for 50M customers",
-      "take": "Germany's Sparkasse Bank rolls out crypto services to 50 million customers",
+      "headline": "Injective partners with BDACS to bring KRW1 stablecoin to its RWA ecosystem",
+      "take": "Injective partners with BDACS to launch Korean won stablecoin for RWA",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/germanys-sparkasse-bank-begins-crypto-services-rollout-for-50m-customers/"
+      "link": "https://cryptobriefing.com/injective-bdacs-krw1-korean-won-stablecoin/"
     },
     {
-      "headline": "Pump.fun integrates Collector Crypt\u2019s gacha packs, CARDS jumps 19%",
-      "take": "Pump.fun integrates Collector Crypt gacha packs; CARDS token jumps 19%",
+      "headline": "Bitcoin Suisse launches trading, custody and staking in Portugal under MiCA",
+      "take": "Bitcoin Suisse expands to Portugal offering trading, custody and staking under MiCA",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-integrates-collector-crypt-gacha-cards/"
+      "link": "https://cryptobriefing.com/bitcoin-suisse-launches-portugal-mica/"
     },
     {
-      "headline": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-      "take": "Strive acquires $335M Bitcoin after raising $369M from investor inflows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin"
+      "headline": "Arkham launches Enterprise platform for advanced crypto analytics",
+      "take": "Arkham launches Enterprise analytics platform for advanced cryptocurrency analysis",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arkham-launches-enterprise-crypto-analytics-platform/"
     },
     {
-      "headline": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "take": "XRP Ledger repairs lending protocol before mainnet launch",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live"
+      "headline": "Daytona raises $60M Series B at $1B valuation to build a cloud for AI agents",
+      "take": "Daytona raises $60M Series B at $1B valuation for AI agent cloud infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/daytona-raises-60m-series-b-ai-agents/"
+    },
+    {
+      "headline": "Spark supplies over $400M USDC to Morpho\u2019s cbBTC/USDC market on Base",
+      "take": "Spark supplies over $400M USDC to Morpho's cbBTC/USDC market on Base",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spark-400m-usdc-morpho-cbbtc-base/"
     }
   ],
   "security": [
     {
-      "headline": "SlowMist traces Qubic wallet theft to weak randomness in seed generation",
-      "take": "SlowMist traces Qubic wallet theft to weak randomness in seed generation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/slowmist-qubic-wallet-key-recovery-flaw/"
+      "headline": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+      "take": "Drift exploiter transfers $61M ETH to Tornado Cash, retains $194M total",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Lido engineer warns of staking deposit hijack risk at Glamsterdam",
-      "take": "Lido engineer warns of staking deposit hijack risk at Glamsterdam",
+      "headline": "Bitget says no user data exposed in alleged TiDB Cloud breach",
+      "take": "Bitget confirms no user data exposed in alleged TiDB Cloud breach incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lido-engineer-glamsterdam-staking-deposit-risk/"
+      "link": "https://cryptobriefing.com/bitget-no-user-data-tidb-cloud-breach/"
     },
     {
-      "headline": "GMO Cybersecurity links Chinese AI tool ARTEX to breaches at Japanese firms",
-      "take": "Chinese AI tool ARTEX linked to breaches at Japanese firms by GMO",
+      "headline": "Blockaid finds issuer blacklists recovered nothing in 60 crypto exploits",
+      "take": "Blockaid study finds issuer blacklists recovered nothing across 60 crypto exploits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gmo-cybersecurity-artex-ai-tool-japan-breaches/"
+      "link": "https://cryptobriefing.com/blockaid-issuer-blacklists-recovered-nothing-exploits/"
     }
   ],
   "policy": [
     {
-      "headline": "Blockchain Association says Treasury\u2019s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-      "take": "Blockchain Association seeks clearer Treasury DeFi and foreign issuer rules",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092"
+      "headline": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "take": "Kazakhstan court bars Coinbase and five others from unlicensed crypto services",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre"
     },
     {
-      "headline": "Blockchain Association backs Treasury stablecoin rule but wants tighter definitions",
-      "take": "Blockchain Association backs Treasury stablecoin rule, requests tighter definitions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-association-treasury-stablecoin-rule/"
+      "headline": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
+      "take": "French lawmakers back stablecoin swap tax by narrow single vote margin",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote"
+    },
+    {
+      "headline": "Swiss regulator FINMA approves country\u2019s first spot bitcoin ETF for retail investors",
+      "take": "Swiss regulator FINMA approves country's first spot bitcoin ETF for retail",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127"
+    },
+    {
+      "headline": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+      "take": "UK banks including Lloyds and Barclays named in crypto transfer complaints",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

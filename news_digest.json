@@ -1,96 +1,108 @@
 {
-  "generated": "2026-10-20T19:20:35.453594+00:00",
-  "ts": 1792524035,
+  "generated": "2026-10-20T23:56:42.501015+00:00",
+  "ts": 1792540602,
   "market": [
     {
-      "headline": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
-      "take": "JPMorgan projects bitcoin returns at 10% annually over long term",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436"
+      "headline": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "take": "JPMorgan estimates Bitcoin fair value at ten percent annual return",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold"
     },
     {
-      "headline": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-      "take": "Ethereum staking reaches record highs despite declining yield rates",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414"
-    },
-    {
-      "headline": "Compound\u2019s COMP jumps 27%, outpacing Bitcoin and Ether",
-      "take": "Compound token COMP surges 27%, outpacing bitcoin and ether",
+      "headline": "Ethereum, Solana staking milestones: 43.8M ETH, 69% SOL staked by Q3",
+      "take": "Ethereum staking reaches 43.8M tokens, Solana hits 69% staked",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/compound-comp-jumps-27-outpacing-bitcoin-ether/"
+      "link": "https://cryptobriefing.com/ethereum-solana-staking-milestones-438m-eth-69-sol-staked-by-q3/"
     },
     {
-      "headline": "Tether sees $1B drop in USDT as Bitcoin recovery faces challenges",
-      "take": "Tether loses $1B in USDT reserves amid bitcoin recovery uncertainty",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-usdt-1-billion-drop-bitcoin-recovery/"
+      "headline": "Bitcoin Accumulators Are Upping the Ante With Yields Rising",
+      "take": "Bitcoin accumulators increase positions as yields rise across markets",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/bitcoin-accumulators-are-upping-the-ante-with-yields-rising"
     },
     {
-      "headline": "Stablecoin transfers quadruple to $891B as US banks adopt technology",
-      "take": "Stablecoin transfers quadruple to $891B as US banks adopt usage",
+      "headline": "Fidelity identifies preferred stocks as a demand catalyst for Bitcoin",
+      "take": "Fidelity identifies preferred stocks as potential Bitcoin demand driver",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-transfers-quadruple-891b-us-banks/"
+      "link": "https://cryptobriefing.com/fidelity-preferred-stocks-bitcoin-demand/"
+    },
+    {
+      "headline": "Credit risk for tech giants hits fresh highs as AI debt piles up",
+      "take": "Tech giants face rising credit risk from mounting artificial intelligence debt",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tech-credit-risk-hits-highs-ai-debt/"
     }
   ],
   "business": [
     {
-      "headline": "NEAR launches crypto treasury platform with private payments across 35 blockchains",
-      "take": "NEAR launches treasury platform enabling private payments across 35 chains",
+      "headline": "SpaceX reports $15B Q3 2026 revenue, beating expectations",
+      "take": "SpaceX reports fifteen billion Q3 revenue, beating forecasts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-confidential-treasury-platform-launch/"
+      "link": "https://cryptobriefing.com/spacex-reports-15b-q3-2026-revenue-beating-expectations/"
     },
     {
-      "headline": "Kamino validates Chainlink CCIP for cross-chain collateral, opening the door to higher borrowing limits",
-      "take": "Kamino validates Chainlink CCIP for cross-chain collateral access",
+      "headline": "Salesforce\u2019s $5.66 billion Braze deal sharpens its bet on marketing to AI agents",
+      "take": "Salesforce acquires Braze for 5.66 billion to deepen AI agent marketing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kamino-validates-chainlink-ccip-cross-chain-collateral/"
+      "link": "https://cryptobriefing.com/salesforce-braze-acquisition-ai-agents-marketing/"
     },
     {
-      "headline": "LayerZero sets November 30 launch for Zero mainnet and lzATLAS exchange engine",
-      "take": "LayerZero launches Zero mainnet and lzATLAS exchange engine November 30",
+      "headline": "Trueo partners with DeFiLlama to bring prediction markets to DeFi dashboards",
+      "take": "Trueo partners DeFiLlama to launch prediction markets on DeFi dashboards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/layerzero-zero-mainnet-lzatlas-launch/"
+      "link": "https://cryptobriefing.com/trueo-defillama-prediction-markets-partnership/"
     },
     {
-      "headline": "Nectar Group raises $5 million seed round for HoneyB Bitcoin yield platform",
-      "take": "Nectar Group raises $5M seed funding for HoneyB bitcoin yield platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nectar-group-honeyb-bitcoin-yield-seed/"
+      "headline": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+      "take": "OpenAI acquires Orchestra Bio to automate drug development processes",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development"
     },
     {
-      "headline": "Deutsche Bank and JPMorgan build on Ethereum for institutional services",
-      "take": "Deutsche Bank and JPMorgan build institutional services on Ethereum",
+      "headline": "Mural raises $28M in total funding as Tether leads $15M Series A",
+      "take": "Mural raises twenty-eight million total, Tether leads fifteen million Series A",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deutsche-bank-jpmorgan-build-on-ethereum/"
+      "link": "https://cryptobriefing.com/mural-raises-28m-tether-series-a/"
     }
   ],
   "security": [
     {
-      "headline": "0G Labs CEO says AI security incidents are limited for now, but warns more risks are coming",
-      "take": "0G Labs warns AI security incidents limited now but risks rising",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/0g-labs-ceo-ai-security-token2049/"
+      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "take": "Drift Protocol exploit wallet transfers sixty-one million Ethereum to Tornado Cash",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash"
     }
   ],
   "policy": [
     {
-      "headline": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-      "take": "Crypto firms and Wall Street push SEC to revise crypto asset regulation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444"
-    },
-    {
-      "headline": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
-      "take": "Utah lawsuit alleges Kalshi operates like illegal sports betting operation",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442"
-    },
-    {
-      "headline": "Goldman Sachs, McDonald\u2019s and Microsoft object to tokenized versions of their shares",
-      "take": "Goldman Sachs, McDonald's, Microsoft object to tokenized stock versions",
+      "headline": "SEC will keep taking Reg Crypto comments after the October 20 deadline",
+      "take": "SEC extends Reg Crypto public comment period past October twentieth deadline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-mcdonalds-microsoft-oppose-share-tokenization/"
+      "link": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/"
+    },
+    {
+      "headline": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "take": "Utah attorney general sues Kalshi prediction market, seeks company profits",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Arkansas foreign Bitcoin mining ownership law stays blocked as appeals court weighs case",
+      "take": "Arkansas foreign Bitcoin mining ownership law remains blocked on appeal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arkansas-foreign-bitcoin-mining-law-blocked/"
+    },
+    {
+      "headline": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "take": "Bitwise and Hyperliquid request SEC rule changes for token trading",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "take": "CFTC outlines forum agenda exploring AI trading and agentic finance",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
     }
   ]
 }

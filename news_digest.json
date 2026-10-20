@@ -1,102 +1,96 @@
 {
-  "generated": "2026-10-20T00:25:02.874458+00:00",
-  "ts": 1792455902,
+  "generated": "2026-10-20T08:39:40.801218+00:00",
+  "ts": 1792485580,
   "market": [
     {
-      "headline": "Ethereum options show downside skew as puts trade higher than calls",
-      "take": "Ethereum options traders positioning for downside with elevated put prices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-options-downside-skew-puts-calls/"
+      "headline": "BlackRock\u2019s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+      "take": "BlackRock Bitcoin ETF draws record $665M inflow; Ethereum, Solana funds decline",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102"
     },
     {
-      "headline": "Solana non-vote transactions surge 104% in Q3 2026, reaching 8.92B",
-      "take": "Solana non-vote transactions doubled in Q3, suggesting network activity growth",
+      "headline": "J.P. Morgan projects Bitcoin to outperform US stocks and gold over the next decade",
+      "take": "J.P. Morgan projects Bitcoin outperformance versus US stocks and gold long-term",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-non-vote-transactions-surge-104-in-q3-2026-reaching-892b/"
+      "link": "https://cryptobriefing.com/jpmorgan-bitcoin-outperform-stocks-gold-decade/"
     },
     {
-      "headline": "TRON handles about 73% of stablecoin transaction volume in September 2026",
-      "take": "TRON processing majority of stablecoin volume, consolidating payment dominance",
+      "headline": "Morgan Stanley\u2019s MSOL draws inflows as Fidelity\u2019s FSOL sheds $1.8 million",
+      "take": "Morgan Stanley Solana ETF gains inflows while Fidelity Solana ETF sheds $1.8M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-73-percent-stablecoin-volume-september-2026/"
+      "link": "https://cryptobriefing.com/morgan-stanley-msol-inflows-fidelity-fsol-outflows/"
     },
     {
-      "headline": "Sei network nears $16 billion in all-time DEX volume as Saphyre dominates trading",
-      "take": "Sei network reaches $16B DEX volume milestone with Saphyre leading",
+      "headline": "CryptoRank lists top 6 token unlocks this week, led by AKE at $62.42 million",
+      "take": "AKE leads weekly token unlocks at $62.42 million across major projects",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sei-network-dex-volume-15-9-billion/"
+      "link": "https://cryptobriefing.com/cryptorank-top-token-unlocks-ake-62-million/"
+    },
+    {
+      "headline": "Binance launches auto order routing on its Spot platform",
+      "take": "Binance launches auto order routing feature on spot trading platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-launches-auto-order-routing-spot/"
     }
   ],
   "business": [
     {
-      "headline": "Strive buys $335M in Bitcoin after $369M warrant windfall",
-      "take": "Strive invests $335M in Bitcoin following $369M institutional capital inflow",
+      "headline": "Germany\u2019s Sparkasse Bank begins crypto services rollout for 50M customers",
+      "take": "Germany's Sparkasse Bank rolls out crypto services to 50 million customers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-buys-335m-bitcoin-warrant-proceeds/"
+      "link": "https://cryptobriefing.com/germanys-sparkasse-bank-begins-crypto-services-rollout-for-50m-customers/"
     },
     {
-      "headline": "BNB Chain opens forum for community input on its new Layer 1",
-      "take": "BNB Chain opens community forum to guide Layer 1 protocol evolution",
+      "headline": "Pump.fun integrates Collector Crypt\u2019s gacha packs, CARDS jumps 19%",
+      "take": "Pump.fun integrates Collector Crypt gacha packs; CARDS token jumps 19%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-newl1-community-forum/"
+      "link": "https://cryptobriefing.com/pumpfun-integrates-collector-crypt-gacha-cards/"
     },
     {
-      "headline": "Solana launches v3 of its JavaScript SDK to streamline app development",
-      "take": "Solana releases v3 JavaScript SDK to ease application development friction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-web3js-v3-javascript-sdk-launch/"
+      "headline": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+      "take": "Strive acquires $335M Bitcoin after raising $369M from investor inflows",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin"
     },
     {
-      "headline": "Coinbase adds AXIS, PEARL, and STABLE to its asset listing roadmap",
-      "take": "Coinbase adds three new tokens to its listing roadmap for evaluation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-adds-axis-pearl-stable-roadmap/"
-    },
-    {
-      "headline": "Justin Sun outlines TRON\u2019s plans beyond digital dollars",
-      "take": "TRON expanding beyond stablecoins into broader ecosystem applications",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/justin-sun-tron-tokenized-stocks-plans/"
+      "headline": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "take": "XRP Ledger repairs lending protocol before mainnet launch",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live"
     }
   ],
   "security": [
     {
-      "headline": "Ex-OpenAI engineer accused of espionage had Saudi backing, prosecutors say",
-      "take": "Ex-OpenAI engineer accused of espionage had Saudi state backing, indictment shows",
+      "headline": "SlowMist traces Qubic wallet theft to weak randomness in seed generation",
+      "take": "SlowMist traces Qubic wallet theft to weak randomness in seed generation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ex-openai-engineer-espionage-saudi-backing/"
+      "link": "https://cryptobriefing.com/slowmist-qubic-wallet-key-recovery-flaw/"
     },
     {
-      "headline": "Papertrade keeps PAPER token non-transferable, citing manipulation risks",
-      "take": "Papertrade locks PAPER token transfers to prevent oracle manipulation attacks",
+      "headline": "Lido engineer warns of staking deposit hijack risk at Glamsterdam",
+      "take": "Lido engineer warns of staking deposit hijack risk at Glamsterdam",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/papertrade-paper-token-non-transferable/"
+      "link": "https://cryptobriefing.com/lido-engineer-glamsterdam-staking-deposit-risk/"
     },
     {
-      "headline": "Microsoft warns enterprises that AI agents could become insider threats",
-      "take": "Microsoft flags AI agents as emerging insider threat vector for enterprises",
+      "headline": "GMO Cybersecurity links Chinese AI tool ARTEX to breaches at Japanese firms",
+      "take": "Chinese AI tool ARTEX linked to breaches at Japanese firms by GMO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-warns-ai-agents-insider-threats/"
+      "link": "https://cryptobriefing.com/gmo-cybersecurity-artex-ai-tool-japan-breaches/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC secures more than $288 million order against former Long Island resident in Ponzi case",
-      "take": "CFTC wins $288M judgment against Long Island resident's commodity Ponzi scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-288-million-order-long-island-ponzi/"
+      "headline": "Blockchain Association says Treasury\u2019s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
+      "take": "Blockchain Association seeks clearer Treasury DeFi and foreign issuer rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092"
     },
     {
-      "headline": "Ramp applies for a national trust bank charter with the OCC",
-      "take": "Ramp pursuing national trust bank charter from OCC for regulated operations",
+      "headline": "Blockchain Association backs Treasury stablecoin rule but wants tighter definitions",
+      "take": "Blockchain Association backs Treasury stablecoin rule, requests tighter definitions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ramp-applies-occ-trust-bank-charter/"
-    },
-    {
-      "headline": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "take": "Tether disputes senator investigation findings, claims reduced Iran transaction flow",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes"
+      "link": "https://cryptobriefing.com/blockchain-association-treasury-stablecoin-rule/"
     }
   ]
 }

@@ -1,114 +1,102 @@
 {
-  "generated": "2026-10-19T20:37:25.408202+00:00",
-  "ts": 1792442245,
+  "generated": "2026-10-20T00:25:02.874458+00:00",
+  "ts": 1792455902,
   "market": [
     {
-      "headline": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-      "take": "JPMorgan launches JPM Coin on Ethereum for institutional dollar transfers",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars"
+      "headline": "Ethereum options show downside skew as puts trade higher than calls",
+      "take": "Ethereum options traders positioning for downside with elevated put prices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethereum-options-downside-skew-puts-calls/"
     },
     {
-      "headline": "Ethereum holds 54.1% of $300.3B stablecoin supply across 47 chains",
-      "take": "Ethereum hosts 54% of $300B stablecoin supply across 47 blockchains",
+      "headline": "Solana non-vote transactions surge 104% in Q3 2026, reaching 8.92B",
+      "take": "Solana non-vote transactions doubled in Q3, suggesting network activity growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-tron-stablecoin-supply-300-billion/"
+      "link": "https://cryptobriefing.com/solana-non-vote-transactions-surge-104-in-q3-2026-reaching-892b/"
     },
     {
-      "headline": "Tokenized Tesla and SpaceX shares reach $364.5 million in onchain market cap",
-      "take": "Tokenized Tesla and SpaceX shares reach $364.5M onchain market cap",
+      "headline": "TRON handles about 73% of stablecoin transaction volume in September 2026",
+      "take": "TRON processing majority of stablecoin volume, consolidating payment dominance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-tesla-spacex-shares-onchain-market-cap/"
+      "link": "https://cryptobriefing.com/tron-73-percent-stablecoin-volume-september-2026/"
     },
     {
-      "headline": "Circle\u2019s EURC adds $4.8 million in a week as euro stablecoins keep inching up",
-      "take": "Circle's euro stablecoin EURC grows as eurozone adoption gradually accelerates",
+      "headline": "Sei network nears $16 billion in all-time DEX volume as Saphyre dominates trading",
+      "take": "Sei network reaches $16B DEX volume milestone with Saphyre leading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-eurc-euro-stablecoin-market-cap-growth/"
-    },
-    {
-      "headline": "Digital gold could unlock $700 billion in investor demand: World Gold Council",
-      "take": "Digital gold could unlock $700B in traditional investor demand",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/digital-gold-demand-growth/"
+      "link": "https://cryptobriefing.com/sei-network-dex-volume-15-9-billion/"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase partners with Thunes to expand stablecoin payments to 140 countries",
-      "take": "Coinbase partners Thunes to expand stablecoin payments to 140 countries",
+      "headline": "Strive buys $335M in Bitcoin after $369M warrant windfall",
+      "take": "Strive invests $335M in Bitcoin following $369M institutional capital inflow",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-thunes-partnership-stablecoin-payouts/"
+      "link": "https://cryptobriefing.com/strive-buys-335m-bitcoin-warrant-proceeds/"
     },
     {
-      "headline": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-      "take": "Mastercard brings fraud-fighting tools to stablecoin payment infrastructure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments"
+      "headline": "BNB Chain opens forum for community input on its new Layer 1",
+      "take": "BNB Chain opens community forum to guide Layer 1 protocol evolution",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bnb-chain-newl1-community-forum/"
     },
     {
-      "headline": "Ethereum Institutional taps former Coinbase research chief David Duong as Head of US",
-      "take": "Ethereum Institutional hires Coinbase research chief David Duong as US head",
+      "headline": "Solana launches v3 of its JavaScript SDK to streamline app development",
+      "take": "Solana releases v3 JavaScript SDK to ease application development friction",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-institutional-david-duong-head-of-us/"
+      "link": "https://cryptobriefing.com/solana-web3js-v3-javascript-sdk-launch/"
     },
     {
-      "headline": "Brave retools its search engine for AI agents and plans a BAT overhaul",
-      "take": "Brave redesigns search engine for AI agents and plans BAT overhaul",
+      "headline": "Coinbase adds AXIS, PEARL, and STABLE to its asset listing roadmap",
+      "take": "Coinbase adds three new tokens to its listing roadmap for evaluation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brave-bat-roadmap-ai-agents-search/"
+      "link": "https://cryptobriefing.com/coinbase-adds-axis-pearl-stable-roadmap/"
     },
     {
-      "headline": "Logos launches evidence layer for tokenized assets at Money20/20",
-      "take": "Logos launches evidence layer for tokenized assets at Money20/20 conference",
+      "headline": "Justin Sun outlines TRON\u2019s plans beyond digital dollars",
+      "take": "TRON expanding beyond stablecoins into broader ecosystem applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/logos-evidence-layer-tokenized-assets-money2020/"
+      "link": "https://cryptobriefing.com/justin-sun-tron-tokenized-stocks-plans/"
     }
   ],
   "security": [
     {
-      "headline": "CFTC secures $288 million judgment against EminiFX over crypto Ponzi scheme",
-      "take": "CFTC wins $288M judgment against EminiFX crypto Ponzi scheme operator",
+      "headline": "Ex-OpenAI engineer accused of espionage had Saudi backing, prosecutors say",
+      "take": "Ex-OpenAI engineer accused of espionage had Saudi state backing, indictment shows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-eminifx-288-million-ponzi-judgment/"
+      "link": "https://cryptobriefing.com/ex-openai-engineer-espionage-saudi-backing/"
     },
     {
-      "headline": "Project Eleven co-founder warns AI is finding cracks in post-quantum cryptography",
-      "take": "AI reportedly finding vulnerabilities in post-quantum cryptography systems",
+      "headline": "Papertrade keeps PAPER token non-transferable, citing manipulation risks",
+      "take": "Papertrade locks PAPER token transfers to prevent oracle manipulation attacks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-breaks-post-quantum-hawk-mceliece/"
+      "link": "https://cryptobriefing.com/papertrade-paper-token-non-transferable/"
     },
     {
-      "headline": "Thoma Bravo\u2019s Seth Boro warns of cybersecurity risks amid AI growth",
-      "take": "Cybersecurity risks rising as AI growth accelerates across enterprises",
+      "headline": "Microsoft warns enterprises that AI agents could become insider threats",
+      "take": "Microsoft flags AI agents as emerging insider threat vector for enterprises",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thoma-bravo-seth-boro-ai-cybersecurity-risks/"
+      "link": "https://cryptobriefing.com/microsoft-warns-ai-agents-insider-threats/"
     }
   ],
   "policy": [
     {
-      "headline": "Revolut secures Gibraltar crypto license to support global expansion",
-      "take": "Revolut secures Gibraltar crypto license enabling global expansion",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Tether says its freezes drove a 94% drop in Iran-linked stablecoin volumes",
-      "take": "Tether freezes reduced Iran-linked stablecoin volumes by 94 percent",
+      "headline": "CFTC secures more than $288 million order against former Long Island resident in Ponzi case",
+      "take": "CFTC wins $288M judgment against Long Island resident's commodity Ponzi scheme",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-iran-stablecoin-volumes-drop-94/"
+      "link": "https://cryptobriefing.com/cftc-288-million-order-long-island-ponzi/"
     },
     {
-      "headline": "SEC to host roundtable on machine-understandable data for super intelligence",
-      "take": "SEC hosting roundtable on machine-understandable data standards",
+      "headline": "Ramp applies for a national trust bank charter with the OCC",
+      "take": "Ramp pursuing national trust bank charter from OCC for regulated operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-roundtable-machine-understandable-data-ai/"
+      "link": "https://cryptobriefing.com/ramp-applies-occ-trust-bank-charter/"
     },
     {
-      "headline": "Market participants weigh in on SEC\u2019s proposed crypto regulations",
-      "take": "Market participants providing feedback on SEC crypto regulatory proposals",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "take": "Tether disputes senator investigation findings, claims reduced Iran transaction flow",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes"
     }
   ]
 }

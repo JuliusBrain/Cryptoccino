@@ -1,114 +1,96 @@
 {
-  "generated": "2026-10-20T14:21:06.411772+00:00",
-  "ts": 1792506066,
+  "generated": "2026-10-20T19:20:35.453594+00:00",
+  "ts": 1792524035,
   "market": [
     {
-      "headline": "Talos: Perpetual futures open interest slides to $67B as RWA contracts hit $9B",
-      "take": "Perpetual futures open interest declines to $67B as RWA contracts grow",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/talos-perpetual-futures-open-interest-rwa-contracts/"
-    },
-    {
-      "headline": "Bitcoin ETFs buy $526.6M in Bitcoin amid price weakness",
-      "take": "Bitcoin ETFs accumulate $526.6M in BTC during recent price weakness",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-buy-526-million-price-weakness/"
-    },
-    {
-      "headline": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
-      "take": "Stablecoins transfer over $400M hourly on average, off-hours activity dominates",
+      "headline": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "take": "JPMorgan projects bitcoin returns at 10% annually over long term",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111"
+      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436"
     },
     {
-      "headline": "Blockchain.com launches options trading for BTC, ETH, SOL, and more",
-      "take": "Blockchain.com launches options trading for major cryptocurrencies including BTC and ETH",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockchain-com-launches-crypto-options-trading/"
+      "headline": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "take": "Ethereum staking reaches record highs despite declining yield rates",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414"
     },
     {
-      "headline": "Arcus halves perpetuals fee tier thresholds as beta discounts end",
-      "take": "Arcus reduces perpetuals fee tier thresholds as beta discounts conclude",
+      "headline": "Compound\u2019s COMP jumps 27%, outpacing Bitcoin and Ether",
+      "take": "Compound token COMP surges 27%, outpacing bitcoin and ether",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arcus-halves-perpetuals-fee-tier-thresholds/"
+      "link": "https://cryptobriefing.com/compound-comp-jumps-27-outpacing-bitcoin-ether/"
+    },
+    {
+      "headline": "Tether sees $1B drop in USDT as Bitcoin recovery faces challenges",
+      "take": "Tether loses $1B in USDT reserves amid bitcoin recovery uncertainty",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-usdt-1-billion-drop-bitcoin-recovery/"
+    },
+    {
+      "headline": "Stablecoin transfers quadruple to $891B as US banks adopt technology",
+      "take": "Stablecoin transfers quadruple to $891B as US banks adopt usage",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stablecoin-transfers-quadruple-891b-us-banks/"
     }
   ],
   "business": [
     {
-      "headline": "Injective partners with BDACS to bring KRW1 stablecoin to its RWA ecosystem",
-      "take": "Injective partners with BDACS to launch Korean won stablecoin for RWA",
+      "headline": "NEAR launches crypto treasury platform with private payments across 35 blockchains",
+      "take": "NEAR launches treasury platform enabling private payments across 35 chains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-bdacs-krw1-korean-won-stablecoin/"
+      "link": "https://cryptobriefing.com/near-confidential-treasury-platform-launch/"
     },
     {
-      "headline": "Bitcoin Suisse launches trading, custody and staking in Portugal under MiCA",
-      "take": "Bitcoin Suisse expands to Portugal offering trading, custody and staking under MiCA",
+      "headline": "Kamino validates Chainlink CCIP for cross-chain collateral, opening the door to higher borrowing limits",
+      "take": "Kamino validates Chainlink CCIP for cross-chain collateral access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-suisse-launches-portugal-mica/"
+      "link": "https://cryptobriefing.com/kamino-validates-chainlink-ccip-cross-chain-collateral/"
     },
     {
-      "headline": "Arkham launches Enterprise platform for advanced crypto analytics",
-      "take": "Arkham launches Enterprise analytics platform for advanced cryptocurrency analysis",
+      "headline": "LayerZero sets November 30 launch for Zero mainnet and lzATLAS exchange engine",
+      "take": "LayerZero launches Zero mainnet and lzATLAS exchange engine November 30",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arkham-launches-enterprise-crypto-analytics-platform/"
+      "link": "https://cryptobriefing.com/layerzero-zero-mainnet-lzatlas-launch/"
     },
     {
-      "headline": "Daytona raises $60M Series B at $1B valuation to build a cloud for AI agents",
-      "take": "Daytona raises $60M Series B at $1B valuation for AI agent cloud infrastructure",
+      "headline": "Nectar Group raises $5 million seed round for HoneyB Bitcoin yield platform",
+      "take": "Nectar Group raises $5M seed funding for HoneyB bitcoin yield platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/daytona-raises-60m-series-b-ai-agents/"
+      "link": "https://cryptobriefing.com/nectar-group-honeyb-bitcoin-yield-seed/"
     },
     {
-      "headline": "Spark supplies over $400M USDC to Morpho\u2019s cbBTC/USDC market on Base",
-      "take": "Spark supplies over $400M USDC to Morpho's cbBTC/USDC market on Base",
+      "headline": "Deutsche Bank and JPMorgan build on Ethereum for institutional services",
+      "take": "Deutsche Bank and JPMorgan build institutional services on Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-400m-usdc-morpho-cbbtc-base/"
+      "link": "https://cryptobriefing.com/deutsche-bank-jpmorgan-build-on-ethereum/"
     }
   ],
   "security": [
     {
-      "headline": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "take": "Drift exploiter transfers $61M ETH to Tornado Cash, retains $194M total",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Bitget says no user data exposed in alleged TiDB Cloud breach",
-      "take": "Bitget confirms no user data exposed in alleged TiDB Cloud breach incident",
+      "headline": "0G Labs CEO says AI security incidents are limited for now, but warns more risks are coming",
+      "take": "0G Labs warns AI security incidents limited now but risks rising",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-no-user-data-tidb-cloud-breach/"
-    },
-    {
-      "headline": "Blockaid finds issuer blacklists recovered nothing in 60 crypto exploits",
-      "take": "Blockaid study finds issuer blacklists recovered nothing across 60 crypto exploits",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockaid-issuer-blacklists-recovered-nothing-exploits/"
+      "link": "https://cryptobriefing.com/0g-labs-ceo-ai-security-token2049/"
     }
   ],
   "policy": [
     {
-      "headline": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "take": "Kazakhstan court bars Coinbase and five others from unlicensed crypto services",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre"
-    },
-    {
-      "headline": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
-      "take": "French lawmakers back stablecoin swap tax by narrow single vote margin",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote"
-    },
-    {
-      "headline": "Swiss regulator FINMA approves country\u2019s first spot bitcoin ETF for retail investors",
-      "take": "Swiss regulator FINMA approves country's first spot bitcoin ETF for retail",
+      "headline": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "take": "Crypto firms and Wall Street push SEC to revise crypto asset regulation",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127"
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444"
     },
     {
-      "headline": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
-      "take": "UK banks including Lloyds and Barclays named in crypto transfer complaints",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
+      "take": "Utah lawsuit alleges Kalshi operates like illegal sports betting operation",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442"
+    },
+    {
+      "headline": "Goldman Sachs, McDonald\u2019s and Microsoft object to tokenized versions of their shares",
+      "take": "Goldman Sachs, McDonald's, Microsoft object to tokenized stock versions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-mcdonalds-microsoft-oppose-share-tokenization/"
     }
   ]
 }

@@ -1,108 +1,102 @@
 {
-  "generated": "2026-10-21T17:18:52.441100+00:00",
-  "ts": 1792603132,
+  "generated": "2026-10-21T21:47:43.967382+00:00",
+  "ts": 1792619263,
   "market": [
     {
-      "headline": "Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite",
-      "take": "Bitcoin rallies as technology stocks rebound, lifting speculative appetite",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite"
-    },
-    {
-      "headline": "Bitcoin\u2019s Fed relief may not last as economists see December hike, Bitunix says",
-      "take": "Bitcoin's Fed relief may prove temporary amid expectations of December rate hike",
+      "headline": "Bitcoin climbs to $84,737 as tech stocks rebound and risk appetite returns",
+      "take": "Bitcoin climbs to $84,737 as tech stocks rebound and risk appetite returns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-rate-hike-impact-bitcoin/"
+      "link": "https://cryptobriefing.com/bitcoin-rises-tech-stocks-rebound/"
     },
     {
-      "headline": "Crypto winter looks different this time as incumbents gain market share amid stalled VC funding, Blockchain.com co-CEO says",
-      "take": "Crypto market structure shifting as incumbents gain share during VC funding slowdown",
+      "headline": "Santiment reports crypto derivatives open interest climbs to $23B for Bitcoin",
+      "take": "Crypto derivatives open interest climbs to $23B for Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-shifts-incumbents-grow/"
+      "link": "https://cryptobriefing.com/santiment-crypto-derivatives-open-interest-climbs/"
     },
     {
-      "headline": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-      "take": "Grayscale expands in-kind subscriptions across ten crypto ETFs and trusts",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559"
-    },
-    {
-      "headline": "Injective burns over 7.2 million INJ through its buyback and revenue flywheel",
-      "take": "Injective burns over 7.2 million INJ tokens through buyback and revenue program",
+      "headline": "Less than 5% of Bitcoin put options sit above $84,000 as bullish bets dominate",
+      "take": "Less than 5% of Bitcoin put options sit above $84,000 as bullish bets dominate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-burns-over-7-million-inj-buyback/"
+      "link": "https://cryptobriefing.com/bitcoin-put-options-84000-bullish-positioning/"
+    },
+    {
+      "headline": "Lam Research posts record $8.22 billion quarter as AI chip demand accelerates",
+      "take": "Lam Research posts record $8.22B quarter as AI chip demand accelerates",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lam-research-record-q1-2027-revenue/"
+    },
+    {
+      "headline": "Binance cuts nearly three hours of Blue Ocean data from US stock perp funding",
+      "take": "Binance cuts nearly three hours of Blue Ocean data from US stock perp funding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-excludes-blue-ocean-data-stock-perp-funding/"
     }
   ],
   "business": [
     {
-      "headline": "Dataline raises $10.6M for decentralized AI data network, plans token sale on Uniswap",
-      "take": "Dataline raises $10.6M for decentralized AI data network, plans Uniswap token sale",
+      "headline": "AI agent startup Instinct raises $1B at a $10B valuation",
+      "take": "AI agent startup Instinct raises $1B at a $10B valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dataline-raises-10-6m-ai-data-network-token-sale/"
+      "link": "https://cryptobriefing.com/ai-startup-instinct-raises-1b-10b-valuation/"
     },
     {
-      "headline": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-      "take": "Dogecoin ecosystem gets dedicated company to build infrastructure and applications",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem"
-    },
-    {
-      "headline": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "take": "a16z-backed DATA rethinks blockchain strategy following $30 million Sui partnership",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
-    },
-    {
-      "headline": "DTCC plans to launch its Tokenization Service this month after 30-plus firms tested the rails",
-      "take": "DTCC launching tokenization service this month after testing with 30-plus firms",
+      "headline": "Matter Labs launches Prividium Commander for bank digital asset operations",
+      "take": "Matter Labs launches Prividium Commander for bank digital asset operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/"
+      "link": "https://cryptobriefing.com/matter-labs-prividium-commander-launch/"
     },
     {
-      "headline": "Bybit seeks broker partnerships to challenge Robinhood in the US",
-      "take": "Bybit seeks major US broker partnerships to compete with Robinhood",
+      "headline": "Vantage and Rio Bank settle a loan payment with tokenized deposits on Ethereum",
+      "take": "Vantage and Rio Bank settle loan payment with tokenized deposits on Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bybit-broker-partnerships-robinhood-us/"
+      "link": "https://cryptobriefing.com/vantage-rio-bank-tokenized-deposit-loan-payment/"
+    },
+    {
+      "headline": "Coinbase lets AI agents trade perps after a five-minute feedback loop",
+      "take": "Coinbase lets AI agents trade perps after a five-minute feedback loop",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-ai-agents-perps-trading/"
+    },
+    {
+      "headline": "Dolomite adds $100 million in Concrete\u2019s Bitcoin-backed collateral",
+      "take": "Dolomite adds $100 million in Concrete's Bitcoin-backed collateral",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dolomite-adds-100m-concrete-btccx-collateral/"
     }
   ],
   "security": [
     {
-      "headline": "Eclair addresses bugs that risk Lightning Network thefts",
-      "take": "Eclair patches Lightning Network bugs that posed theft risks for users",
+      "headline": "OpenAI model helps researchers uncover severe PHP flaws affecting most websites",
+      "take": "OpenAI model helps researchers uncover severe PHP flaws affecting most websites",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eclair-patches-lightning-network-theft-bugs/"
+      "link": "https://cryptobriefing.com/openai-model-finds-severe-php-flaws/"
     },
     {
-      "headline": "OpenAI helps uncover critical PHP vulnerabilities affecting millions of websites",
-      "take": "Critical PHP vulnerabilities affecting millions of websites uncovered with OpenAI help",
+      "headline": "Backpack had about 90% of its capital on FTX at collapse, says founder",
+      "take": "Backpack had about 90% of its capital on FTX at collapse, says founder",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-critical-php-vulnerabilities-checker-tool/"
-    },
-    {
-      "headline": "Italian police target 30 suspects in \u20ac68 million mafia-linked crypto laundering probe",
-      "take": "Italian police target 30 suspects in \u20ac68 million mafia-linked crypto laundering investigation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/italy-mafia-crypto-laundering-probe-milan/"
+      "link": "https://cryptobriefing.com/backpack-90-percent-capital-ftx-collapse/"
     }
   ],
   "policy": [
     {
-      "headline": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
-      "take": "Treasury Secretary Bessent compares proposed GENIUS Act to Lincoln-era banking reforms",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Plume presents vault regulatory framework to SEC\u2019s Crypto Task Force",
+      "take": "Plume presents vault regulatory framework to SEC's Crypto Task Force",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/plume-vault-framework-sec-crypto-task-force/"
     },
     {
-      "headline": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
-      "take": "Blockchain groups including Chainlink and Cardano urge SEC for clearer crypto rules",
+      "headline": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "take": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
-      "take": "Trump plans White House event highlighting overseas cryptocurrency abuse concerns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
+      "headline": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+      "take": "American Bankers Association accuses OCC of undermining Congress with stablecoin rule",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629"
     }
   ]
 }

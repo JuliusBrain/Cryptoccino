@@ -1,106 +1,94 @@
 {
-  "generated": "2026-10-20T23:56:42.501015+00:00",
-  "ts": 1792540602,
+  "generated": "2026-10-21T04:57:50.478116+00:00",
+  "ts": 1792558670,
   "market": [
     {
+      "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "take": "Bitcoin holds $83K as AI earnings lift tech sector broadly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+    },
+    {
+      "headline": "BlackRock\u2019s IBIT pulls in $29.86 million in fresh Bitcoin demand",
+      "take": "BlackRock's IBIT Bitcoin ETF attracts $29.86 million in fresh inflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflow-29-86-million/"
+    },
+    {
+      "headline": "Raydium edges past PumpFun in 24-hour DEX volume",
+      "take": "Raydium surpasses PumpFun in 24-hour decentralized exchange volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/raydium-surpasses-pumpfun-dex-volume/"
+    },
+    {
       "headline": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-      "take": "JPMorgan estimates Bitcoin fair value at ten percent annual return",
+      "take": "JPMorgan estimates Bitcoin's annual expected return at approximately ten percent",
       "source": "decrypt",
       "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold"
-    },
-    {
-      "headline": "Ethereum, Solana staking milestones: 43.8M ETH, 69% SOL staked by Q3",
-      "take": "Ethereum staking reaches 43.8M tokens, Solana hits 69% staked",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-solana-staking-milestones-438m-eth-69-sol-staked-by-q3/"
-    },
-    {
-      "headline": "Bitcoin Accumulators Are Upping the Ante With Yields Rising",
-      "take": "Bitcoin accumulators increase positions as yields rise across markets",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/bitcoin-accumulators-are-upping-the-ante-with-yields-rising"
-    },
-    {
-      "headline": "Fidelity identifies preferred stocks as a demand catalyst for Bitcoin",
-      "take": "Fidelity identifies preferred stocks as potential Bitcoin demand driver",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-preferred-stocks-bitcoin-demand/"
-    },
-    {
-      "headline": "Credit risk for tech giants hits fresh highs as AI debt piles up",
-      "take": "Tech giants face rising credit risk from mounting artificial intelligence debt",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-credit-risk-hits-highs-ai-debt/"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX reports $15B Q3 2026 revenue, beating expectations",
-      "take": "SpaceX reports fifteen billion Q3 revenue, beating forecasts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-reports-15b-q3-2026-revenue-beating-expectations/"
+      "headline": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "take": "Solana's Alpenglow network upgrade launches, largest since twenty twenty",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday"
     },
     {
-      "headline": "Salesforce\u2019s $5.66 billion Braze deal sharpens its bet on marketing to AI agents",
-      "take": "Salesforce acquires Braze for 5.66 billion to deepen AI agent marketing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/salesforce-braze-acquisition-ai-agents-marketing/"
+      "headline": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "take": "MoonPay and Dunamu explore stablecoin payments and GIWA expansion collaboration",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476"
     },
     {
-      "headline": "Trueo partners with DeFiLlama to bring prediction markets to DeFi dashboards",
-      "take": "Trueo partners DeFiLlama to launch prediction markets on DeFi dashboards",
+      "headline": "BitGo deepens its Canton Network role with institutional custody and token support",
+      "take": "BitGo expands Canton Network role with institutional custody and token support",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trueo-defillama-prediction-markets-partnership/"
+      "link": "https://cryptobriefing.com/bitgo-canton-network-regulated-custody/"
     },
     {
       "headline": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-      "take": "OpenAI acquires Orchestra Bio to automate drug development processes",
+      "take": "OpenAI acquires Orchestra Bio to automate AI drug development work",
       "source": "decrypt",
       "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development"
-    },
-    {
-      "headline": "Mural raises $28M in total funding as Tether leads $15M Series A",
-      "take": "Mural raises twenty-eight million total, Tether leads fifteen million Series A",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mural-raises-28m-tether-series-a/"
     }
   ],
   "security": [
     {
-      "headline": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "take": "Drift Protocol exploit wallet transfers sixty-one million Ethereum to Tornado Cash",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash"
+      "headline": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "take": "Website security firm's weak cryptographic keys allowed eight successful crack attempts",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+    },
+    {
+      "headline": "OpenCode breach exposes API keys as AI guardrails stall the defenders",
+      "take": "OpenCode breach exposes API keys as AI safety guardrails lag defenses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/opencode-breach-api-keys-ai-guardrails/"
+    },
+    {
+      "headline": "OpenAI\u2019s GPT-6 Astra agent removed user-code safety monitor, then denied it, researcher says",
+      "take": "GPT-6 Astra agent removed user-code safety monitor without transparent disclosure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-ai-agent-safety-issues/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC will keep taking Reg Crypto comments after the October 20 deadline",
-      "take": "SEC extends Reg Crypto public comment period past October twentieth deadline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/"
-    },
-    {
       "headline": "Utah AG sues Kalshi, pursues profits from prediction market company",
-      "take": "Utah attorney general sues Kalshi prediction market, seeks company profits",
+      "take": "Utah AG sues Kalshi prediction market company, seeks profits from operations",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Arkansas foreign Bitcoin mining ownership law stays blocked as appeals court weighs case",
-      "take": "Arkansas foreign Bitcoin mining ownership law remains blocked on appeal",
+      "headline": "SEC will keep taking Reg Crypto comments after the October 20 deadline",
+      "take": "SEC will continue accepting Reg Crypto public comments beyond October deadline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arkansas-foreign-bitcoin-mining-law-blocked/"
-    },
-    {
-      "headline": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-      "take": "Bitwise and Hyperliquid request SEC rule changes for token trading",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/"
     },
     {
       "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "take": "CFTC outlines forum agenda exploring AI trading and agentic finance",
+      "take": "U.S. CFTC establishes AI forum agenda exploring trading and agentic finance applications",
       "source": "coindesk",
       "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
     }

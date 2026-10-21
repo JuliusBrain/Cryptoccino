@@ -1,96 +1,108 @@
 {
-  "generated": "2026-10-21T11:59:06.873217+00:00",
-  "ts": 1792583946,
+  "generated": "2026-10-21T17:18:52.441100+00:00",
+  "ts": 1792603132,
   "market": [
     {
-      "headline": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
-      "take": "Bitcoin volatility near 2026 lows as Fed decision and midterms approach",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524"
+      "headline": "Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite",
+      "take": "Bitcoin rallies as technology stocks rebound, lifting speculative appetite",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite"
     },
     {
-      "headline": "Bitcoin price resistance near $87K reinforced by late 2025 buyers, Glassnode says",
-      "take": "Bitcoin resistance near $87K reinforced by late 2025 buyers",
+      "headline": "Bitcoin\u2019s Fed relief may not last as economists see December hike, Bitunix says",
+      "take": "Bitcoin's Fed relief may prove temporary amid expectations of December rate hike",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-resistance-87k-late-2025-buyers-glassnode/"
+      "link": "https://cryptobriefing.com/fed-rate-hike-impact-bitcoin/"
     },
     {
-      "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-      "take": "Bitcoin risk management grows popular as price-betting era fades",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades"
+      "headline": "Crypto winter looks different this time as incumbents gain market share amid stalled VC funding, Blockchain.com co-CEO says",
+      "take": "Crypto market structure shifting as incumbents gain share during VC funding slowdown",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-market-shifts-incumbents-grow/"
     },
     {
-      "headline": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-      "take": "Crypto rises with Asian tech stocks, Zcash extends gain",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
+      "headline": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+      "take": "Grayscale expands in-kind subscriptions across ten crypto ETFs and trusts",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559"
+    },
+    {
+      "headline": "Injective burns over 7.2 million INJ through its buyback and revenue flywheel",
+      "take": "Injective burns over 7.2 million INJ tokens through buyback and revenue program",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-burns-over-7-million-inj-buyback/"
     }
   ],
   "business": [
     {
-      "headline": "Polymarket reportedly eyes $21B valuation as investors push for a COO",
-      "take": "Polymarket eyes $21B valuation as investors push for COO",
+      "headline": "Dataline raises $10.6M for decentralized AI data network, plans token sale on Uniswap",
+      "take": "Dataline raises $10.6M for decentralized AI data network, plans Uniswap token sale",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-21b-valuation-coo-push/"
+      "link": "https://cryptobriefing.com/dataline-raises-10-6m-ai-data-network-token-sale/"
     },
     {
-      "headline": "Blacksmith hits $1 billion valuation after $66 million Series C led by Sequoia",
-      "take": "Blacksmith hits $1B valuation after $66M Series C from Sequoia",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blacksmith-1-billion-valuation-sequoia-series-c/"
+      "headline": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+      "take": "Dogecoin ecosystem gets dedicated company to build infrastructure and applications",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem"
     },
     {
-      "headline": "BitGo launches BitGo Labs to build at the intersection of AI and crypto",
-      "take": "BitGo launches Labs unit to build at intersection of AI and crypto",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-launches-bitgo-labs-ai-crypto/"
+      "headline": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+      "take": "a16z-backed DATA rethinks blockchain strategy following $30 million Sui partnership",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
     },
     {
-      "headline": "Etherscan connects with Claude AI for wallet and transaction queries",
-      "take": "Etherscan integrates Claude AI for wallet and transaction queries",
+      "headline": "DTCC plans to launch its Tokenization Service this month after 30-plus firms tested the rails",
+      "take": "DTCC launching tokenization service this month after testing with 30-plus firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etherscan-claude-connector-ai-wallet-queries/"
+      "link": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/"
     },
     {
-      "headline": "Solana\u2019s Alpenglow upgrade set to cut finality to 150ms",
-      "take": "Solana Alpenglow upgrade cuts transaction finality to 150 milliseconds",
+      "headline": "Bybit seeks broker partnerships to challenge Robinhood in the US",
+      "take": "Bybit seeks major US broker partnerships to compete with Robinhood",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-alpenglow-upgrade-finality-150ms/"
+      "link": "https://cryptobriefing.com/bybit-broker-partnerships-robinhood-us/"
     }
   ],
   "security": [
     {
-      "headline": "Drift exploiter moves $109M in Ether to Tornado Cash in two days",
-      "take": "Drift exploiter moves $109M ETH to Tornado Cash within two days",
+      "headline": "Eclair addresses bugs that risk Lightning Network thefts",
+      "take": "Eclair patches Lightning Network bugs that posed theft risks for users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/drift-exploiter-tornado-cash-109m-ether/"
+      "link": "https://cryptobriefing.com/eclair-patches-lightning-network-theft-bugs/"
     },
     {
-      "headline": "Italy Targets Crypto Money-Laundering Ring Across Europe",
-      "take": "Italy targets crypto money-laundering ring operating across Europe",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/italy-targets-crypto-money-laundering-ring-across-europe"
+      "headline": "OpenAI helps uncover critical PHP vulnerabilities affecting millions of websites",
+      "take": "Critical PHP vulnerabilities affecting millions of websites uncovered with OpenAI help",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-critical-php-vulnerabilities-checker-tool/"
+    },
+    {
+      "headline": "Italian police target 30 suspects in \u20ac68 million mafia-linked crypto laundering probe",
+      "take": "Italian police target 30 suspects in \u20ac68 million mafia-linked crypto laundering investigation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/italy-mafia-crypto-laundering-probe-milan/"
     }
   ],
   "policy": [
     {
-      "headline": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-      "take": "OCC finalizes GENIUS Act stablecoin rules ahead of January deadline",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline"
+      "headline": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+      "take": "Treasury Secretary Bessent compares proposed GENIUS Act to Lincoln-era banking reforms",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "France proposes liability for crypto exchanges offering DeFi access",
-      "take": "France proposes liability for crypto exchanges offering DeFi access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/france-proposes-crypto-exchange-defi-liability/"
+      "headline": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+      "take": "Blockchain groups including Chainlink and Cardano urge SEC for clearer crypto rules",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Stand With Crypto logs 10,092 complaints over blocked UK crypto transfers",
-      "take": "Stand With Crypto logs over 10K complaints on blocked UK transfers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stand-with-crypto-uk-blocked-transfers-report/"
+      "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
+      "take": "Trump plans White House event highlighting overseas cryptocurrency abuse concerns",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
     }
   ]
 }

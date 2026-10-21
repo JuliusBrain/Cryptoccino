@@ -1,96 +1,96 @@
 {
-  "generated": "2026-10-21T04:57:50.478116+00:00",
-  "ts": 1792558670,
+  "generated": "2026-10-21T11:59:06.873217+00:00",
+  "ts": 1792583946,
   "market": [
     {
-      "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "take": "Bitcoin holds $83K as AI earnings lift tech sector broadly",
+      "headline": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
+      "take": "Bitcoin volatility near 2026 lows as Fed decision and midterms approach",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524"
+    },
+    {
+      "headline": "Bitcoin price resistance near $87K reinforced by late 2025 buyers, Glassnode says",
+      "take": "Bitcoin resistance near $87K reinforced by late 2025 buyers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-resistance-87k-late-2025-buyers-glassnode/"
+    },
+    {
+      "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+      "take": "Bitcoin risk management grows popular as price-betting era fades",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+      "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades"
     },
     {
-      "headline": "BlackRock\u2019s IBIT pulls in $29.86 million in fresh Bitcoin demand",
-      "take": "BlackRock's IBIT Bitcoin ETF attracts $29.86 million in fresh inflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflow-29-86-million/"
-    },
-    {
-      "headline": "Raydium edges past PumpFun in 24-hour DEX volume",
-      "take": "Raydium surpasses PumpFun in 24-hour decentralized exchange volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/raydium-surpasses-pumpfun-dex-volume/"
-    },
-    {
-      "headline": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-      "take": "JPMorgan estimates Bitcoin's annual expected return at approximately ten percent",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold"
+      "headline": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+      "take": "Crypto rises with Asian tech stocks, Zcash extends gain",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
     }
   ],
   "business": [
     {
-      "headline": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "take": "Solana's Alpenglow network upgrade launches, largest since twenty twenty",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday"
-    },
-    {
-      "headline": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "take": "MoonPay and Dunamu explore stablecoin payments and GIWA expansion collaboration",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476"
-    },
-    {
-      "headline": "BitGo deepens its Canton Network role with institutional custody and token support",
-      "take": "BitGo expands Canton Network role with institutional custody and token support",
+      "headline": "Polymarket reportedly eyes $21B valuation as investors push for a COO",
+      "take": "Polymarket eyes $21B valuation as investors push for COO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-canton-network-regulated-custody/"
+      "link": "https://cryptobriefing.com/polymarket-21b-valuation-coo-push/"
     },
     {
-      "headline": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-      "take": "OpenAI acquires Orchestra Bio to automate AI drug development work",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development"
+      "headline": "Blacksmith hits $1 billion valuation after $66 million Series C led by Sequoia",
+      "take": "Blacksmith hits $1B valuation after $66M Series C from Sequoia",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blacksmith-1-billion-valuation-sequoia-series-c/"
+    },
+    {
+      "headline": "BitGo launches BitGo Labs to build at the intersection of AI and crypto",
+      "take": "BitGo launches Labs unit to build at intersection of AI and crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitgo-launches-bitgo-labs-ai-crypto/"
+    },
+    {
+      "headline": "Etherscan connects with Claude AI for wallet and transaction queries",
+      "take": "Etherscan integrates Claude AI for wallet and transaction queries",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/etherscan-claude-connector-ai-wallet-queries/"
+    },
+    {
+      "headline": "Solana\u2019s Alpenglow upgrade set to cut finality to 150ms",
+      "take": "Solana Alpenglow upgrade cuts transaction finality to 150 milliseconds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-alpenglow-upgrade-finality-150ms/"
     }
   ],
   "security": [
     {
-      "headline": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "take": "Website security firm's weak cryptographic keys allowed eight successful crack attempts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+      "headline": "Drift exploiter moves $109M in Ether to Tornado Cash in two days",
+      "take": "Drift exploiter moves $109M ETH to Tornado Cash within two days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/drift-exploiter-tornado-cash-109m-ether/"
     },
     {
-      "headline": "OpenCode breach exposes API keys as AI guardrails stall the defenders",
-      "take": "OpenCode breach exposes API keys as AI safety guardrails lag defenses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/opencode-breach-api-keys-ai-guardrails/"
-    },
-    {
-      "headline": "OpenAI\u2019s GPT-6 Astra agent removed user-code safety monitor, then denied it, researcher says",
-      "take": "GPT-6 Astra agent removed user-code safety monitor without transparent disclosure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ai-agent-safety-issues/"
+      "headline": "Italy Targets Crypto Money-Laundering Ring Across Europe",
+      "take": "Italy targets crypto money-laundering ring operating across Europe",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/italy-targets-crypto-money-laundering-ring-across-europe"
     }
   ],
   "policy": [
     {
-      "headline": "Utah AG sues Kalshi, pursues profits from prediction market company",
-      "take": "Utah AG sues Kalshi prediction market company, seeks profits from operations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
+      "take": "OCC finalizes GENIUS Act stablecoin rules ahead of January deadline",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline"
     },
     {
-      "headline": "SEC will keep taking Reg Crypto comments after the October 20 deadline",
-      "take": "SEC will continue accepting Reg Crypto public comments beyond October deadline",
+      "headline": "France proposes liability for crypto exchanges offering DeFi access",
+      "take": "France proposes liability for crypto exchanges offering DeFi access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/"
+      "link": "https://cryptobriefing.com/france-proposes-crypto-exchange-defi-liability/"
     },
     {
-      "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "take": "U.S. CFTC establishes AI forum agenda exploring trading and agentic finance applications",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
+      "headline": "Stand With Crypto logs 10,092 complaints over blocked UK crypto transfers",
+      "take": "Stand With Crypto logs over 10K complaints on blocked UK transfers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stand-with-crypto-uk-blocked-transfers-report/"
     }
   ]
 }

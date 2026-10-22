@@ -1,108 +1,90 @@
 {
-  "generated": "2026-10-22T12:01:18.590828+00:00",
-  "ts": 1792670478,
+  "generated": "2026-10-22T17:16:50.851712+00:00",
+  "ts": 1792689410,
   "market": [
     {
-      "headline": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "take": "Bitcoin slides below $82,000 as AI doubts resurface, DeFi tokens decline",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines"
+      "headline": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+      "take": "Bitcoin ETFs recovered October losses with $1 billion inflows in three days",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days"
     },
     {
-      "headline": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "take": "Bitcoin ETFs draw $528 million as ether funds end five-day outflow streak",
+      "headline": "Market sees 3% chance of Bitcoin hitting record high this year",
+      "take": "Market assigns only 3% probability to Bitcoin reaching all-time high this year",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-record-high-odds-3-percent/"
+    },
+    {
+      "headline": "Kraken\u2019s xStocks lineup tops 1,000 tokenized instruments",
+      "take": "Kraken's tokenized stock lineup expanded to over 1,000 instruments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-xstocks-lineup-tops-1000-instruments/"
+    },
+    {
+      "headline": "SoFi launches tokenized bank deposits offering 4.4% yield and FDIC insurance",
+      "take": "SoFi launched tokenized bank deposits offering 4.4% yield with FDIC protection",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sofi-tokenized-bank-deposits/"
+    },
+    {
+      "headline": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+      "take": "Uniswap aggregator hooks now live on Ethereum, Base and Robinhood Chain",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904"
-    },
-    {
-      "headline": "$210M in crypto longs liquidated as BTC, ETH prices plunge",
-      "take": "$210 million in crypto longs liquidated as BTC and ETH prices plunge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/210m-in-crypto-longs-liquidated-as-btc-eth-prices-plunge/"
-    },
-    {
-      "headline": "Solana\u2019s VIDA token outtrades its own stock by 248%",
-      "take": "Solana's VIDA token trades 248% above its own stock price",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-vida-tokenized-stock-volume-tradfi/"
-    },
-    {
-      "headline": "Solana records $5 trillion in stablecoin volume in 2026",
-      "take": "Solana records $5 trillion in stablecoin volume during 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-5-trillion-stablecoin-volume-2026/"
+      "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932"
     }
   ],
   "business": [
     {
-      "headline": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "take": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889"
-    },
-    {
-      "headline": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-      "take": "SoFi launches FDIC-insured tokenized deposits for crypto users with interest",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916"
-    },
-    {
-      "headline": "Bybit wins VARA approval for spot exchange services in Dubai",
-      "take": "Bybit wins VARA approval for spot exchange services in Dubai",
+      "headline": "a16z Crypto rebrands as a16z Frontier, widening its bets beyond crypto",
+      "take": "a16z Crypto rebranded as a16z Frontier, expanding investment focus beyond crypto",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bybit-wins-approval-spot-exchange-services-dubai/"
+      "link": "https://cryptobriefing.com/a16z-crypto-rebrands-a16z-frontier/"
     },
     {
-      "headline": "Andreessen Horowitz to rename a16z crypto fund a16z frontier: The Information",
-      "take": "Andreessen Horowitz renames a16z crypto fund to a16z frontier",
+      "headline": "Aero aims to become the leading onchain spot exchange for tokenized stocks, CEO says",
+      "take": "Aero building onchain spot exchange for tokenized stocks as primary product",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/andreessen-horowitz-drops-crypto-fund-name/"
+      "link": "https://cryptobriefing.com/aero-aims-to-become-the-leading-onchain-spot-exchange-for-tokenized-stocks-ceo-says/"
     },
     {
-      "headline": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-      "take": "Starknet community backs research into independent post-quantum Layer 1 status",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885"
+      "headline": "Former OpenAI product chief Kevin Weil launches AI science startup with $215 million",
+      "take": "Former OpenAI product chief Kevin Weil launched AI science startup with $215M funding",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kevin-weil-ai-science-startup-215-million/"
+    },
+    {
+      "headline": "FIFA Collect uses blockchain to curb World Cup ticket scalping",
+      "take": "FIFA Collect using blockchain to reduce World Cup ticket scalping and fraud",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fifa-collect-blockchain-ticket-safety/"
+    },
+    {
+      "headline": "Coinbase to suspend FORTH trading on November 23 as Ampleforth governance token winds down",
+      "take": "Coinbase suspending FORTH trading as Ampleforth governance token winds down",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-suspends-forth-trading-november-23/"
     }
   ],
   "security": [
     {
-      "headline": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
-      "take": "Italy busts mafia secret bank laundering money through crypto, seizes $24M",
+      "headline": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
+      "take": "Major banks discovered rogue AI agents operating inside customer accounts",
       "source": "decrypt",
-      "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m"
+      "link": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts"
     },
     {
-      "headline": "CertiK flags $820K exploit draining NEM token\u2019s PancakeSwap liquidity pool",
-      "take": "CertiK flags $820K exploit draining NEM token's PancakeSwap liquidity pool",
+      "headline": "Lava uncovers banned Nvidia chips linked to China Telecom addresses",
+      "take": "Lava uncovered banned Nvidia chips linked to China Telecom addresses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/certik-nem-token-exploit-820k-pancakeswap/"
-    },
-    {
-      "headline": "CoinDCX pledges no user losses after $16M transfer scrutiny",
-      "take": "CoinDCX pledges no user losses after $16 million transfer scrutiny",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coindcx-no-user-losses-wallet-transfers/"
+      "link": "https://cryptobriefing.com/lava-nvidia-b300-chips-china-telecom/"
     }
   ],
   "policy": [
     {
-      "headline": "Coinbase\u2019s Ireland Arm Fined \u20ac3.25 Million Over Breaches",
-      "take": "Coinbase Ireland arm fined \u20ac3.25 million over regulatory breaches",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-22/coinbase-s-ireland-arm-fined-by-irish-central-bank-over-breaches"
-    },
-    {
-      "headline": "South Korea\u2019s crypto bill nears completion while tax debate intensifies: reports",
-      "take": "South Korea's crypto bill nears completion amid tax debate intensification",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880"
-    },
-    {
-      "headline": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-      "take": "Chinese prosecutors seek to confiscate $5.1B in bitcoin seized by UK",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case"
+      "headline": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+      "take": "Irish central bank fined Coinbase $3.6M for fund safeguarding and oversight failures",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

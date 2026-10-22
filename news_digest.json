@@ -1,90 +1,90 @@
 {
-  "generated": "2026-10-22T17:16:50.851712+00:00",
-  "ts": 1792689410,
+  "generated": "2026-10-22T21:42:28.558414+00:00",
+  "ts": 1792705348,
   "market": [
     {
-      "headline": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-      "take": "Bitcoin ETFs recovered October losses with $1 billion inflows in three days",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days"
-    },
-    {
-      "headline": "Market sees 3% chance of Bitcoin hitting record high this year",
-      "take": "Market assigns only 3% probability to Bitcoin reaching all-time high this year",
+      "headline": "Ethereum options traders are paying up for volatility the market hasn\u2019t delivered",
+      "take": "Ethereum options traders paying premium for volatility market hasn't yet delivered",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-record-high-odds-3-percent/"
+      "link": "https://cryptobriefing.com/ethereum-implied-volatility-premium-90th-percentile/"
     },
     {
-      "headline": "Kraken\u2019s xStocks lineup tops 1,000 tokenized instruments",
-      "take": "Kraken's tokenized stock lineup expanded to over 1,000 instruments",
+      "headline": "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
+      "take": "Fifteen-minute prediction markets emerging as niche Bitcoin trading alternative",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/fifteen-minute-prediction-market-bets-scratch-the-bitcoin-itch"
+    },
+    {
+      "headline": "TS Lombard models a $20 trillion wipeout if the AI boom cracks",
+      "take": "Model projects twenty trillion dollar loss if artificial intelligence boom collapses",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-xstocks-lineup-tops-1000-instruments/"
-    },
-    {
-      "headline": "SoFi launches tokenized bank deposits offering 4.4% yield and FDIC insurance",
-      "take": "SoFi launched tokenized bank deposits offering 4.4% yield with FDIC protection",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sofi-tokenized-bank-deposits/"
-    },
-    {
-      "headline": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-      "take": "Uniswap aggregator hooks now live on Ethereum, Base and Robinhood Chain",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932"
+      "link": "https://cryptobriefing.com/ts-lombard-20-trillion-ai-crash/"
     }
   ],
   "business": [
     {
-      "headline": "a16z Crypto rebrands as a16z Frontier, widening its bets beyond crypto",
-      "take": "a16z Crypto rebranded as a16z Frontier, expanding investment focus beyond crypto",
+      "headline": "Extended completes migration to Circle\u2019s Arc with USDC and cirBTC collateral",
+      "take": "Extended completes migration to Circle's Arc blockchain infrastructure with USDC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-crypto-rebrands-a16z-frontier/"
+      "link": "https://cryptobriefing.com/extended-migrates-arc-usdc-cirbtc-collateral/"
     },
     {
-      "headline": "Aero aims to become the leading onchain spot exchange for tokenized stocks, CEO says",
-      "take": "Aero building onchain spot exchange for tokenized stocks as primary product",
+      "headline": "Tech giant LG CNS taps Chainlink to scale Korea\u2019s tokenized finance and stablecoin markets",
+      "take": "LG CNS partners with Chainlink to scale Korea's tokenized finance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aero-aims-to-become-the-leading-onchain-spot-exchange-for-tokenized-stocks-ceo-says/"
+      "link": "https://cryptobriefing.com/tech-giant-lg-cns-taps-chainlink-to-scale-koreas-tokenized-finance-and-stablecoin-markets/"
     },
     {
-      "headline": "Former OpenAI product chief Kevin Weil launches AI science startup with $215 million",
-      "take": "Former OpenAI product chief Kevin Weil launched AI science startup with $215M funding",
+      "headline": "Reflect Money launches Create for custom yield-bearing stablecoins on Solana",
+      "take": "Reflect Money launches custom yield-bearing stablecoin platform on Solana",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kevin-weil-ai-science-startup-215-million/"
+      "link": "https://cryptobriefing.com/reflect-money-create-solana-stablecoins/"
     },
     {
-      "headline": "FIFA Collect uses blockchain to curb World Cup ticket scalping",
-      "take": "FIFA Collect using blockchain to reduce World Cup ticket scalping and fraud",
+      "headline": "DoubleZero builds a private fiber network for high-performance blockchains",
+      "take": "DoubleZero building private fiber network optimized for blockchain performance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fifa-collect-blockchain-ticket-safety/"
+      "link": "https://cryptobriefing.com/doublezero-dedicated-network-high-performance-blockchains/"
     },
     {
-      "headline": "Coinbase to suspend FORTH trading on November 23 as Ampleforth governance token winds down",
-      "take": "Coinbase suspending FORTH trading as Ampleforth governance token winds down",
+      "headline": "SharpLink taps Anchorage to put $400 million in ETH to work onchain",
+      "take": "SharpLink taps Anchorage to deploy four hundred million dollars in Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-suspends-forth-trading-november-23/"
+      "link": "https://cryptobriefing.com/sharplink-anchorage-onchain-eth-deployment/"
     }
   ],
   "security": [
     {
-      "headline": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
-      "take": "Major banks discovered rogue AI agents operating inside customer accounts",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts"
+      "headline": "OpenAI patches monitoring gaps found by METR and Redwood red team",
+      "take": "OpenAI patches monitoring gaps identified by METR and Redwood researchers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-patches-agent-monitoring-vulnerabilities-red-team/"
     },
     {
-      "headline": "Lava uncovers banned Nvidia chips linked to China Telecom addresses",
-      "take": "Lava uncovered banned Nvidia chips linked to China Telecom addresses",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lava-nvidia-b300-chips-china-telecom/"
+      "headline": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+      "take": "Coinbase fined three point six million euros in Ireland for safeguarding failures",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding"
     }
   ],
   "policy": [
     {
-      "headline": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-      "take": "Irish central bank fined Coinbase $3.6M for fund safeguarding and oversight failures",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "US Treasury proposes rules to block American investments in AI and semiconductors",
+      "take": "US Treasury proposes blocking American investments in artificial intelligence semiconductors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-proposes-ai-semiconductor-investment-rules/"
+    },
+    {
+      "headline": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+      "take": "Blockchain Association pushes for crypto tax clarity as broader legislation stalls",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475"
+    },
+    {
+      "headline": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+      "take": "JPMorgan says crypto regulatory moves partly offset Clarity Act setback",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473"
     }
   ]
 }

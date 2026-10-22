@@ -1,102 +1,84 @@
 {
-  "generated": "2026-10-21T21:47:43.967382+00:00",
-  "ts": 1792619263,
+  "generated": "2026-10-22T04:58:32.705037+00:00",
+  "ts": 1792645112,
   "market": [
     {
-      "headline": "Bitcoin climbs to $84,737 as tech stocks rebound and risk appetite returns",
-      "take": "Bitcoin climbs to $84,737 as tech stocks rebound and risk appetite returns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-rises-tech-stocks-rebound/"
+      "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "take": "Bitcoin ETFs drew $1.08B in three days, insufficient for sustained rally",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
     },
     {
-      "headline": "Santiment reports crypto derivatives open interest climbs to $23B for Bitcoin",
-      "take": "Crypto derivatives open interest climbs to $23B for Bitcoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/santiment-crypto-derivatives-open-interest-climbs/"
+      "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "take": "Bitcoin retreats from $85K as AI sector volatility persists",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
     },
     {
-      "headline": "Less than 5% of Bitcoin put options sit above $84,000 as bullish bets dominate",
-      "take": "Less than 5% of Bitcoin put options sit above $84,000 as bullish bets dominate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-put-options-84000-bullish-positioning/"
-    },
-    {
-      "headline": "Lam Research posts record $8.22 billion quarter as AI chip demand accelerates",
-      "take": "Lam Research posts record $8.22B quarter as AI chip demand accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lam-research-record-q1-2027-revenue/"
-    },
-    {
-      "headline": "Binance cuts nearly three hours of Blue Ocean data from US stock perp funding",
-      "take": "Binance cuts nearly three hours of Blue Ocean data from US stock perp funding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-excludes-blue-ocean-data-stock-perp-funding/"
+      "headline": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
+      "take": "Prominent investor warns AI sector is almost certainly in a bubble",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats"
     }
   ],
   "business": [
     {
-      "headline": "AI agent startup Instinct raises $1B at a $10B valuation",
-      "take": "AI agent startup Instinct raises $1B at a $10B valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-startup-instinct-raises-1b-10b-valuation/"
+      "headline": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "take": "Aerodrome and Velodrome merge to launch Aero across seven networks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514"
     },
     {
       "headline": "Matter Labs launches Prividium Commander for bank digital asset operations",
-      "take": "Matter Labs launches Prividium Commander for bank digital asset operations",
+      "take": "Matter Labs launches Prividium Commander for institutional digital asset operations",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/matter-labs-prividium-commander-launch/"
     },
     {
-      "headline": "Vantage and Rio Bank settle a loan payment with tokenized deposits on Ethereum",
-      "take": "Vantage and Rio Bank settle loan payment with tokenized deposits on Ethereum",
+      "headline": "Extended moves settlement from Starknet to Circle\u2019s Arc on October 22",
+      "take": "Extended moves settlement from Starknet to Circle's Arc on October 22",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vantage-rio-bank-tokenized-deposit-loan-payment/"
+      "link": "https://cryptobriefing.com/extended-migrates-settlement-starknet-to-arc/"
     },
     {
-      "headline": "Coinbase lets AI agents trade perps after a five-minute feedback loop",
-      "take": "Coinbase lets AI agents trade perps after a five-minute feedback loop",
+      "headline": "CoinGecko API lands on API3\u2019s AirnodeHub marketplace for AI agents",
+      "take": "CoinGecko API joins API3's AirnodeHub marketplace for AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-ai-agents-perps-trading/"
-    },
-    {
-      "headline": "Dolomite adds $100 million in Concrete\u2019s Bitcoin-backed collateral",
-      "take": "Dolomite adds $100 million in Concrete's Bitcoin-backed collateral",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dolomite-adds-100m-concrete-btccx-collateral/"
+      "link": "https://cryptobriefing.com/coingecko-api-api3-airnodehub-ai-agents/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI model helps researchers uncover severe PHP flaws affecting most websites",
-      "take": "OpenAI model helps researchers uncover severe PHP flaws affecting most websites",
+      "headline": "Obol urges immediate Charon upgrade after CA key compromise",
+      "take": "Obol urges immediate Charon upgrade after CA key compromise",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-model-finds-severe-php-flaws/"
+      "link": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/"
     },
     {
-      "headline": "Backpack had about 90% of its capital on FTX at collapse, says founder",
-      "take": "Backpack had about 90% of its capital on FTX at collapse, says founder",
+      "headline": "Pump.fun\u2019s Kimchi coin routes every creator fee to one address",
+      "take": "Pump.fun's Kimchi coin routes all creator fees to single address",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-90-percent-capital-ftx-collapse/"
+      "link": "https://cryptobriefing.com/pump-fun-kimchi-coin-creator-fees/"
     }
   ],
   "policy": [
     {
-      "headline": "Plume presents vault regulatory framework to SEC\u2019s Crypto Task Force",
-      "take": "Plume presents vault regulatory framework to SEC's Crypto Task Force",
+      "headline": "US Treasury finalizes stablecoin rules under GENIUS Act, boosting crypto clarity",
+      "take": "US Treasury finalizes stablecoin rules under GENIUS Act",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/plume-vault-framework-sec-crypto-task-force/"
+      "link": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/"
     },
     {
-      "headline": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "take": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC chair calls for uniform US crypto regulations amid state disparities",
+      "take": "CFTC chair calls for uniform national crypto regulations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-chair-calls-for-uniform-us-crypto-regulations-amid-state-disparities/"
     },
     {
-      "headline": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
-      "take": "American Bankers Association accuses OCC of undermining Congress with stablecoin rule",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629"
+      "headline": "American Bankers Association criticizes OCC\u2019s GENIUS rules on stablecoins",
+      "take": "American Bankers Association criticizes OCC's GENIUS stablecoin rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aba-criticizes-occ-genius-stablecoin-rules/"
     }
   ]
 }

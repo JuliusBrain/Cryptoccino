@@ -1,84 +1,108 @@
 {
-  "generated": "2026-10-22T04:58:32.705037+00:00",
-  "ts": 1792645112,
+  "generated": "2026-10-22T12:01:18.590828+00:00",
+  "ts": 1792670478,
   "market": [
     {
-      "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "take": "Bitcoin ETFs drew $1.08B in three days, insufficient for sustained rally",
+      "headline": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "take": "Bitcoin slides below $82,000 as AI doubts resurface, DeFi tokens decline",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines"
     },
     {
-      "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "take": "Bitcoin retreats from $85K as AI sector volatility persists",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
+      "headline": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "take": "Bitcoin ETFs draw $528 million as ether funds end five-day outflow streak",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904"
     },
     {
-      "headline": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
-      "take": "Prominent investor warns AI sector is almost certainly in a bubble",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats"
+      "headline": "$210M in crypto longs liquidated as BTC, ETH prices plunge",
+      "take": "$210 million in crypto longs liquidated as BTC and ETH prices plunge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/210m-in-crypto-longs-liquidated-as-btc-eth-prices-plunge/"
+    },
+    {
+      "headline": "Solana\u2019s VIDA token outtrades its own stock by 248%",
+      "take": "Solana's VIDA token trades 248% above its own stock price",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-vida-tokenized-stock-volume-tradfi/"
+    },
+    {
+      "headline": "Solana records $5 trillion in stablecoin volume in 2026",
+      "take": "Solana records $5 trillion in stablecoin volume during 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-5-trillion-stablecoin-volume-2026/"
     }
   ],
   "business": [
     {
-      "headline": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-      "take": "Aerodrome and Velodrome merge to launch Aero across seven networks",
+      "headline": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "take": "Dune launches onchain trading data feeds as tokenized markets expand",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514"
+      "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889"
     },
     {
-      "headline": "Matter Labs launches Prividium Commander for bank digital asset operations",
-      "take": "Matter Labs launches Prividium Commander for institutional digital asset operations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/matter-labs-prividium-commander-launch/"
+      "headline": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+      "take": "SoFi launches FDIC-insured tokenized deposits for crypto users with interest",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916"
     },
     {
-      "headline": "Extended moves settlement from Starknet to Circle\u2019s Arc on October 22",
-      "take": "Extended moves settlement from Starknet to Circle's Arc on October 22",
+      "headline": "Bybit wins VARA approval for spot exchange services in Dubai",
+      "take": "Bybit wins VARA approval for spot exchange services in Dubai",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/extended-migrates-settlement-starknet-to-arc/"
+      "link": "https://cryptobriefing.com/bybit-wins-approval-spot-exchange-services-dubai/"
     },
     {
-      "headline": "CoinGecko API lands on API3\u2019s AirnodeHub marketplace for AI agents",
-      "take": "CoinGecko API joins API3's AirnodeHub marketplace for AI agents",
+      "headline": "Andreessen Horowitz to rename a16z crypto fund a16z frontier: The Information",
+      "take": "Andreessen Horowitz renames a16z crypto fund to a16z frontier",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coingecko-api-api3-airnodehub-ai-agents/"
+      "link": "https://cryptobriefing.com/andreessen-horowitz-drops-crypto-fund-name/"
+    },
+    {
+      "headline": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+      "take": "Starknet community backs research into independent post-quantum Layer 1 status",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885"
     }
   ],
   "security": [
     {
-      "headline": "Obol urges immediate Charon upgrade after CA key compromise",
-      "take": "Obol urges immediate Charon upgrade after CA key compromise",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/"
+      "headline": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+      "take": "Italy busts mafia secret bank laundering money through crypto, seizes $24M",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m"
     },
     {
-      "headline": "Pump.fun\u2019s Kimchi coin routes every creator fee to one address",
-      "take": "Pump.fun's Kimchi coin routes all creator fees to single address",
+      "headline": "CertiK flags $820K exploit draining NEM token\u2019s PancakeSwap liquidity pool",
+      "take": "CertiK flags $820K exploit draining NEM token's PancakeSwap liquidity pool",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pump-fun-kimchi-coin-creator-fees/"
+      "link": "https://cryptobriefing.com/certik-nem-token-exploit-820k-pancakeswap/"
+    },
+    {
+      "headline": "CoinDCX pledges no user losses after $16M transfer scrutiny",
+      "take": "CoinDCX pledges no user losses after $16 million transfer scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coindcx-no-user-losses-wallet-transfers/"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury finalizes stablecoin rules under GENIUS Act, boosting crypto clarity",
-      "take": "US Treasury finalizes stablecoin rules under GENIUS Act",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/"
+      "headline": "Coinbase\u2019s Ireland Arm Fined \u20ac3.25 Million Over Breaches",
+      "take": "Coinbase Ireland arm fined \u20ac3.25 million over regulatory breaches",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/coinbase-s-ireland-arm-fined-by-irish-central-bank-over-breaches"
     },
     {
-      "headline": "CFTC chair calls for uniform US crypto regulations amid state disparities",
-      "take": "CFTC chair calls for uniform national crypto regulations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-chair-calls-for-uniform-us-crypto-regulations-amid-state-disparities/"
+      "headline": "South Korea\u2019s crypto bill nears completion while tax debate intensifies: reports",
+      "take": "South Korea's crypto bill nears completion amid tax debate intensification",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880"
     },
     {
-      "headline": "American Bankers Association criticizes OCC\u2019s GENIUS rules on stablecoins",
-      "take": "American Bankers Association criticizes OCC's GENIUS stablecoin rules",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aba-criticizes-occ-genius-stablecoin-rules/"
+      "headline": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+      "take": "Chinese prosecutors seek to confiscate $5.1B in bitcoin seized by UK",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case"
     }
   ]
 }

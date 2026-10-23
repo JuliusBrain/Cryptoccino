@@ -1,126 +1,108 @@
 {
-  "generated": "2026-10-23T05:00:01.093765+00:00",
-  "ts": 1792731601,
+  "generated": "2026-10-23T11:47:17.701181+00:00",
+  "ts": 1792756037,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs shed $635 million on October 22, with BlackRock\u2019s IBIT leading the exodus",
-      "take": "Spot Bitcoin ETFs saw $635 million outflow on October 22",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-635-million-outflows-october-22/"
-    },
-    {
-      "headline": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "take": "Bitcoin slid below $81,500 amid broader tech stock sell-off",
+      "headline": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day\u2019s inflows",
+      "take": "Bitcoin ETFs see $636 million in net outflows after prior day gains",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990"
+      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483"
     },
     {
-      "headline": "$383 million in crypto longs liquidated in 24 hours",
-      "take": "$383 million in crypto longs liquidated within 24 hours",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/383-million-crypto-longs-liquidated-24-hours/"
-    },
-    {
-      "headline": "Bitcoin ETFs log $525M inflow as Ethereum ETFs attract $14M",
-      "take": "Bitcoin ETFs gained $525M inflow while Ethereum attracted $14M",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etf-525m-inflow-ethereum-14m/"
-    },
-    {
-      "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "take": "Bitcoin and gold recovered early losses as yen weakened",
+      "headline": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+      "take": "Bitcoin volatility now eight times higher than euro, rivals Nvidia swings",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
+      "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s"
+    },
+    {
+      "headline": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+      "take": "Bitcoin holds above $81,000 as AI selloff eases and oil climbs",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs"
+    },
+    {
+      "headline": "Strategy acquires 122,578 Bitcoin since July 2025 IPO",
+      "take": "Strategy accumulates 122,578 Bitcoin since its July 2025 IPO launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-acquires-122578-bitcoin-since-july-2025-ipo/"
+    },
+    {
+      "headline": "Glassnode and Fasanara Digital map TradFi\u2019s move into crypto derivatives in Q4 2026 report",
+      "take": "Traditional finance accelerating derivatives entry into crypto through Q4 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/glassnode-fasanara-q4-2026-digital-asset-report/"
     }
   ],
   "business": [
     {
-      "headline": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
-      "take": "HSBC launched RedCoin HKD stablecoin to retail users in Hong Kong",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018"
-    },
-    {
-      "headline": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-      "take": "Chainlink partners with LG CNS on Korean won stablecoin expansion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993"
-    },
-    {
-      "headline": "A16z Crypto rebrands as a16z Frontier, signaling broader tech focus",
-      "take": "a16z Crypto rebrands as a16z Frontier to signal broader tech focus",
+      "headline": "HSBC rolls out HKD stablecoin RedCoin as it prepares tokenized investment services",
+      "take": "HSBC launches RedCoin HKD stablecoin for tokenized investment services rollout",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-crypto-rebrands-as-a16z-frontier-signaling-broader-tech-focus/"
+      "link": "https://cryptobriefing.com/hsbc-hkd-stablecoin-redcoin/"
     },
     {
-      "headline": "Calle launches BitNotes, a multi-mint Cashu wallet that prints ecash on paper",
-      "take": "Calle launched BitNotes, a multi-mint Cashu wallet printing ecash paper",
+      "headline": "Futu opens BNB deposits and withdrawals to Hong Kong professional investors",
+      "take": "Futu opens BNB deposits and withdrawals to Hong Kong professional investors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/calle-launches-bitnotes-cashu-ecash-wallet/"
+      "link": "https://cryptobriefing.com/futu-bnb-deposits-withdrawals-hong-kong/"
     },
     {
-      "headline": "Circle Match enables hourly auctions for USDC minting and redemption",
-      "take": "Circle Match enables hourly auctions for USDC minting and redemption",
+      "headline": "Centrifuge opens production tokenization infrastructure to institutions",
+      "take": "Centrifuge opens tokenized production infrastructure to institutional participants",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-match-hourly-usdc-auctions/"
+      "link": "https://cryptobriefing.com/centrifuge-institutions-tokenize-funds-production/"
+    },
+    {
+      "headline": "Malaysia and Thailand join Singapore\u2019s BLOOM initiative for stablecoins",
+      "take": "Malaysia and Thailand join Singapore's BLOOM stablecoin initiative",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/malaysia-thailand-join-singapore-bloom-stablecoins/"
+    },
+    {
+      "headline": "Raffles Family Office targets Asia\u2019s stablecoin billionaires with new wealth management services",
+      "take": "Raffles Family Office targets Asia's stablecoin billionaires with wealth management",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/raffles-family-office-stablecoin-billionaires-asia/"
     }
   ],
   "security": [
     {
-      "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "take": "Ethereum delays Glamsterdam test after security concerns flagged",
+      "headline": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "take": "India's largest exchange denies hack after $16 million suspicious outflows detected",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts"
-    },
-    {
-      "headline": "CZ says AI hacking fears in crypto are overblown, warns phishing is the real threat",
-      "take": "CZ says AI hacking fears overblown; phishing remains primary threat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cz-ai-hacking-fears-overblown-phishing/"
-    },
-    {
-      "headline": "Polymarket fires chief marketing officer after internal investigation",
-      "take": "Polymarket fired its chief marketing officer following internal investigation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-fires-cmo-matthew-modabber/"
-    },
-    {
-      "headline": "Anthropic uses Claude to prove security properties in 123 open-source libraries",
-      "take": "Anthropic uses Claude to verify security properties in open-source libraries",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-formal-verification-123-libraries/"
+      "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows"
     }
   ],
   "policy": [
     {
-      "headline": "South Korea moves to classify stablecoins as payment instruments under forex law",
-      "take": "South Korea classifies stablecoins as payment instruments under forex law",
+      "headline": "South Korea to regulate stablecoins under forex law for payments",
+      "take": "South Korea amends forex law to regulate stablecoins as payment instruments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/south-korea-stablecoins-payment-forex-law/"
+      "link": "https://cryptobriefing.com/south-korea-to-regulate-stablecoins-under-forex-law-for-payments/"
     },
     {
-      "headline": "Pentagon bans US forces from using military info to bet in prediction markets",
-      "take": "Pentagon bans US forces from using military info in prediction markets",
+      "headline": "Blockchain Association urges Congress to pass crypto tax rules before the clock runs out",
+      "take": "Blockchain Association urges Congress to pass crypto tax rules immediately",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockchain-association-congress-crypto-tax-rules/"
+    },
+    {
+      "headline": "Bybit secures first full Dubai license for spot trading services",
+      "take": "Bybit secures Dubai's first full spot trading license for crypto operations",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-      "take": "Senate's top Democratic investigator probes Tether payments to firm",
+      "headline": "Sweden\u2019s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "take": "Sweden's central bank revives e-krona debate amid stablecoin and digital euro rise",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+      "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom"
     },
     {
-      "headline": "Nasdaq CEO warns against tokenized stock derivatives that obscure market trading",
-      "take": "Nasdaq CEO warns against tokenized stock derivatives obscuring market trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-warns-tokenized-stock-derivatives/"
-    },
-    {
-      "headline": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "take": "Circle shareholder sues Trump and associates over crypto dealings",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+      "take": "New York seeks $1.3 billion from NovaTech founders after default judgment",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453"
     }
   ]
 }

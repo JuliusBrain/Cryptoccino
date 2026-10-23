@@ -1,120 +1,102 @@
 {
-  "generated": "2026-10-23T17:14:40.009567+00:00",
-  "ts": 1792775680,
+  "generated": "2026-10-23T21:29:05.159599+00:00",
+  "ts": 1792790945,
   "market": [
     {
-      "headline": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-      "take": "Bitcoin ETFs saw $636M outflows as October declined amid risk-off sentiment",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again"
-    },
-    {
-      "headline": "Brent crude tops $116 as oil spike drags crypto into risk-off mood",
-      "take": "Crude oil spiked above $116, dragging crypto into broader risk-off mood",
+      "headline": "Franklin Templeton to launch two 95% stock, 5% Bitcoin ETFs",
+      "take": "Franklin Templeton launches Bitcoin-inclusive ETFs with ninety-five percent stocks allocation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brent-crude-116-crypto-risk-off/"
+      "link": "https://cryptobriefing.com/franklin-templeton-stock-bitcoin-etfs/"
     },
     {
-      "headline": "More Americans now own Bitcoin than gold, River survey finds",
-      "take": "Survey finds more Americans now own Bitcoin than gold as adoption grows",
+      "headline": "KBC Group adds roughly $5.9 million in Strategy shares to its Bitcoin bet",
+      "take": "KBC Group increases Bitcoin holdings through Strategy shares to roughly six million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/more-americans-own-bitcoin-than-gold/"
+      "link": "https://cryptobriefing.com/kbc-group-increases-strategy-stake-bitcoin/"
     },
     {
-      "headline": "Spark\u2019s RLUSD/USDS pool processes $453M in 30 days",
-      "take": "Spark's RLUSD/USDS liquidity pool processed $453M in stablecoin volume",
+      "headline": "CFTC data shows Bitcoin futures speculators net long 2,418 contracts",
+      "take": "Bitcoin futures speculators hold net long position of twenty-four hundred contracts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spark-rlusd-usds-pool-453m-30-days/"
+      "link": "https://cryptobriefing.com/cftc-cot-bitcoin-net-long-2418-contracts/"
     },
     {
-      "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "take": "Robinhood reports surge in Bitcoin and gold prediction market trading activity",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
+      "headline": "CoreWeave stock falls 30% amid refinancing concerns in AI sector",
+      "take": "CoreWeave stock drops thirty percent amid AI sector refinancing concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-stock-falls-30-amid-refinancing-concerns-in-ai-sector/"
     }
   ],
   "business": [
     {
-      "headline": "Tokenized assets pull in more than $1 billion in fresh capital in 30 days",
-      "take": "Tokenized assets attracted over $1 billion in fresh capital within 30 days",
+      "headline": "Frax CEO says businesses will drive next wave of stablecoin adoption as firm tests lending product",
+      "take": "Frax tests lending product, expects businesses to drive stablecoin adoption forward",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-assets-1-billion-net-inflows/"
+      "link": "https://cryptobriefing.com/frax-ceo-says-businesses-will-drive-next-wave-of-stablecoin-adoption-as-firm-tests-lending-product/"
     },
     {
-      "headline": "BNB Chain processes 1.51B transactions in Q3 as tokenized equity trading jumps 11x",
-      "take": "BNB Chain processed 1.51B transactions in Q3 as tokenized equity trading surged",
+      "headline": "Meta acquires AI data platform Sundial to bolster its analytics push",
+      "take": "Meta acquires Sundial data platform to strengthen analytics and AI capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-q3-transactions-tokenized-equities/"
+      "link": "https://cryptobriefing.com/meta-acquires-ai-data-platform-sundial/"
     },
     {
-      "headline": "Circle Gateway adds cirBTC and EURC to its unified crosschain balances",
-      "take": "Circle Gateway adds cirBTC and EURC to unified crosschain balance infrastructure",
+      "headline": "Block unveils Dessa, an AI voice model trained only on human conversation",
+      "take": "Block unveils Dessa, new AI voice model trained exclusively on human conversation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-gateway-cirbtc-eurc-unified-balances/"
+      "link": "https://cryptobriefing.com/block-unveils-dessa-ai-voice-model/"
     },
     {
-      "headline": "BisonFi overtakes Pump.fun as Solana\u2019s top DEX by daily volume",
-      "take": "BisonFi overtakes Pump.fun to become Solana's top DEX by daily volume",
+      "headline": "Amazon\u2019s AI business hits $25 billion run rate, outpacing early AWS",
+      "take": "Amazon AI business reaches twenty-five billion annual run rate, outpaces early AWS",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bisonfi-surpasses-pumpfun-top-solana-dex/"
-    },
-    {
-      "headline": "CoreWeave and Blackstone deal sparks trillion-dollar chip-backed debt market",
-      "take": "CoreWeave and Blackstone partnership signals emerging trillion-dollar chip-backed debt market",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-and-blackstone-deal-sparks-trillion-dollar-chip-backed-debt-market/"
+      "link": "https://cryptobriefing.com/amazon-ai-business-25-billion-run-rate/"
     }
   ],
   "security": [
     {
       "headline": "Initia halts network after security incident as attacker reportedly mints tokens",
-      "take": "Initia network halted after security incident; attacker minted and cashed out $2.6M",
+      "take": "Initia network halts after security incident; attacker reportedly mints unauthorized tokens",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755"
     },
     {
       "headline": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
-      "take": "New York orders crypto scammers who used prayer groups to pay $1.3B restitution",
+      "take": "Crypto scammers using prayer groups to solicit victims ordered to pay 1.3 billion",
       "source": "decrypt",
       "link": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york"
     },
     {
-      "headline": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
-      "take": "Interpol recovered $105M in African cybercrime sweep targeting illegal crypto mines",
+      "headline": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "take": "Bitcoin Core updates security policy recognizing AI can quickly identify code vulnerabilities",
       "source": "decrypt",
-      "link": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines"
-    },
-    {
-      "headline": "Bitcoin Core updates security policy for AI-assisted bug hunting",
-      "take": "Bitcoin Core updates security policy to enable AI-assisted bug hunting programs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-core-ai-bug-disclosure-policy/"
+      "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats"
     }
   ],
   "policy": [
     {
-      "headline": "SEC flags tokenization as high-risk area in 2027 market examinations",
-      "take": "SEC flags tokenization as high-risk examination area for 2027 market inspections",
+      "headline": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm",
+      "take": "Senate Democrat investigates Tether payments to firm of ex-White House crypto adviser",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser"
+    },
+    {
+      "headline": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "take": "IRS plans to lower tax disclosure penalties including penalties for crypto transactions",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-      "take": "Singapore, Malaysia, Thailand central banks expand cross-border stablecoin pilot initiative",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492"
+      "headline": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "take": "Netanyahu explores blockchain strategy to circumvent potential banking sanctions against Israel",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel"
     },
     {
-      "headline": "China targets national blockchain network completion by 2030",
-      "take": "China targets completion of national blockchain network infrastructure by 2030",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-national-blockchain-network-2030/"
-    },
-    {
-      "headline": "Netanyahu seeks blockchain plan to counter potential financial sanctions",
-      "take": "Netanyahu seeks blockchain strategy to counter potential international financial sanctions",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/netanyahu-blockchain-plan-counter-sanctions/"
+      "headline": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "take": "SEC flags AI superintelligence and tokenization as potential systemic market risks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list"
     }
   ]
 }

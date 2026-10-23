@@ -1,90 +1,126 @@
 {
-  "generated": "2026-10-22T21:42:28.558414+00:00",
-  "ts": 1792705348,
+  "generated": "2026-10-23T05:00:01.093765+00:00",
+  "ts": 1792731601,
   "market": [
     {
-      "headline": "Ethereum options traders are paying up for volatility the market hasn\u2019t delivered",
-      "take": "Ethereum options traders paying premium for volatility market hasn't yet delivered",
+      "headline": "Spot Bitcoin ETFs shed $635 million on October 22, with BlackRock\u2019s IBIT leading the exodus",
+      "take": "Spot Bitcoin ETFs saw $635 million outflow on October 22",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-implied-volatility-premium-90th-percentile/"
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-635-million-outflows-october-22/"
     },
     {
-      "headline": "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
-      "take": "Fifteen-minute prediction markets emerging as niche Bitcoin trading alternative",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/fifteen-minute-prediction-market-bets-scratch-the-bitcoin-itch"
+      "headline": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+      "take": "Bitcoin slid below $81,500 amid broader tech stock sell-off",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990"
     },
     {
-      "headline": "TS Lombard models a $20 trillion wipeout if the AI boom cracks",
-      "take": "Model projects twenty trillion dollar loss if artificial intelligence boom collapses",
+      "headline": "$383 million in crypto longs liquidated in 24 hours",
+      "take": "$383 million in crypto longs liquidated within 24 hours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ts-lombard-20-trillion-ai-crash/"
+      "link": "https://cryptobriefing.com/383-million-crypto-longs-liquidated-24-hours/"
+    },
+    {
+      "headline": "Bitcoin ETFs log $525M inflow as Ethereum ETFs attract $14M",
+      "take": "Bitcoin ETFs gained $525M inflow while Ethereum attracted $14M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etf-525m-inflow-ethereum-14m/"
+    },
+    {
+      "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "take": "Bitcoin and gold recovered early losses as yen weakened",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
     }
   ],
   "business": [
     {
-      "headline": "Extended completes migration to Circle\u2019s Arc with USDC and cirBTC collateral",
-      "take": "Extended completes migration to Circle's Arc blockchain infrastructure with USDC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/extended-migrates-arc-usdc-cirbtc-collateral/"
+      "headline": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "take": "HSBC launched RedCoin HKD stablecoin to retail users in Hong Kong",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018"
     },
     {
-      "headline": "Tech giant LG CNS taps Chainlink to scale Korea\u2019s tokenized finance and stablecoin markets",
-      "take": "LG CNS partners with Chainlink to scale Korea's tokenized finance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-giant-lg-cns-taps-chainlink-to-scale-koreas-tokenized-finance-and-stablecoin-markets/"
+      "headline": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+      "take": "Chainlink partners with LG CNS on Korean won stablecoin expansion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993"
     },
     {
-      "headline": "Reflect Money launches Create for custom yield-bearing stablecoins on Solana",
-      "take": "Reflect Money launches custom yield-bearing stablecoin platform on Solana",
+      "headline": "A16z Crypto rebrands as a16z Frontier, signaling broader tech focus",
+      "take": "a16z Crypto rebrands as a16z Frontier to signal broader tech focus",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/reflect-money-create-solana-stablecoins/"
+      "link": "https://cryptobriefing.com/a16z-crypto-rebrands-as-a16z-frontier-signaling-broader-tech-focus/"
     },
     {
-      "headline": "DoubleZero builds a private fiber network for high-performance blockchains",
-      "take": "DoubleZero building private fiber network optimized for blockchain performance",
+      "headline": "Calle launches BitNotes, a multi-mint Cashu wallet that prints ecash on paper",
+      "take": "Calle launched BitNotes, a multi-mint Cashu wallet printing ecash paper",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doublezero-dedicated-network-high-performance-blockchains/"
+      "link": "https://cryptobriefing.com/calle-launches-bitnotes-cashu-ecash-wallet/"
     },
     {
-      "headline": "SharpLink taps Anchorage to put $400 million in ETH to work onchain",
-      "take": "SharpLink taps Anchorage to deploy four hundred million dollars in Ethereum",
+      "headline": "Circle Match enables hourly auctions for USDC minting and redemption",
+      "take": "Circle Match enables hourly auctions for USDC minting and redemption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sharplink-anchorage-onchain-eth-deployment/"
+      "link": "https://cryptobriefing.com/circle-match-hourly-usdc-auctions/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI patches monitoring gaps found by METR and Redwood red team",
-      "take": "OpenAI patches monitoring gaps identified by METR and Redwood researchers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-patches-agent-monitoring-vulnerabilities-red-team/"
+      "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "take": "Ethereum delays Glamsterdam test after security concerns flagged",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts"
     },
     {
-      "headline": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "take": "Coinbase fined three point six million euros in Ireland for safeguarding failures",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding"
+      "headline": "CZ says AI hacking fears in crypto are overblown, warns phishing is the real threat",
+      "take": "CZ says AI hacking fears overblown; phishing remains primary threat",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cz-ai-hacking-fears-overblown-phishing/"
+    },
+    {
+      "headline": "Polymarket fires chief marketing officer after internal investigation",
+      "take": "Polymarket fired its chief marketing officer following internal investigation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-fires-cmo-matthew-modabber/"
+    },
+    {
+      "headline": "Anthropic uses Claude to prove security properties in 123 open-source libraries",
+      "take": "Anthropic uses Claude to verify security properties in open-source libraries",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-formal-verification-123-libraries/"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury proposes rules to block American investments in AI and semiconductors",
-      "take": "US Treasury proposes blocking American investments in artificial intelligence semiconductors",
+      "headline": "South Korea moves to classify stablecoins as payment instruments under forex law",
+      "take": "South Korea classifies stablecoins as payment instruments under forex law",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-proposes-ai-semiconductor-investment-rules/"
+      "link": "https://cryptobriefing.com/south-korea-stablecoins-payment-forex-law/"
     },
     {
-      "headline": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
-      "take": "Blockchain Association pushes for crypto tax clarity as broader legislation stalls",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475"
+      "headline": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "take": "Pentagon bans US forces from using military info in prediction markets",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
-      "take": "JPMorgan says crypto regulatory moves partly offset Clarity Act setback",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473"
+      "headline": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "take": "Senate's top Democratic investigator probes Tether payments to firm",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+    },
+    {
+      "headline": "Nasdaq CEO warns against tokenized stock derivatives that obscure market trading",
+      "take": "Nasdaq CEO warns against tokenized stock derivatives obscuring market trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nasdaq-warns-tokenized-stock-derivatives/"
+    },
+    {
+      "headline": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "take": "Circle shareholder sues Trump and associates over crypto dealings",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

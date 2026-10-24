@@ -1,7 +1,7 @@
 # Pinned for supply-chain integrity (a moved/typosquatted release would run on
 # the daily runner, which holds the API key + write access to main). Dependabot
 # (.github/dependabot.yml) proposes updates.
-feedparser==6.0.12
+feedparser==6.0.14
 anthropic==0.107.1
 pyyaml==6.0.3
 python-dateutil==2.9.0.post0

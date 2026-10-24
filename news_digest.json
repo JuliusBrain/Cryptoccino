@@ -1,108 +1,96 @@
 {
-  "generated": "2026-10-24T04:44:54.169652+00:00",
-  "ts": 1792817094,
+  "generated": "2026-10-24T11:12:12.758975+00:00",
+  "ts": 1792840332,
   "market": [
     {
-      "headline": "Franklin Templeton to launch two 95% stock, 5% Bitcoin ETFs",
-      "take": "Franklin Templeton launches Bitcoin-weighted ETFs with 95% stocks, 5% Bitcoin allocation",
+      "headline": "Kalshi and Polymarket hit record $2.7 billion in weekly crypto volume",
+      "take": "Prediction markets Kalshi and Polymarket reach $2.7 billion weekly volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/franklin-templeton-stock-bitcoin-etfs/"
+      "link": "https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/"
+    },
+    {
+      "headline": "Solana outshines XRP with higher transactions and stablecoin usage: Motley Fool",
+      "take": "Solana leads XRP in transaction volume and stablecoin adoption metrics",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-outshines-xrp-with-higher-transactions-and-stablecoin-usage-motley-fool/"
     },
     {
       "headline": "Arthur Hayes says high-FDV tokens no longer pump on Binance",
-      "take": "High-FDV tokens no longer generate momentum on Binance, according to Arthur Hayes",
+      "take": "High-FDV tokens no longer attract pump cycles on major exchanges",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/arthur-hayes-high-fdv-tokens-flop-labs/"
     },
     {
-      "headline": "CoreWeave stock falls 30% amid refinancing concerns in AI sector",
-      "take": "CoreWeave stock declines 30% amid AI sector refinancing uncertainty and concerns",
+      "headline": "Coinbase Derivatives pauses futures trading for up to nine hours of maintenance",
+      "take": "Coinbase Derivatives paused futures trading for scheduled maintenance period",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-stock-falls-30-amid-refinancing-concerns-in-ai-sector/"
-    },
-    {
-      "headline": "Hyperliquid Strategies expands stock buyback program to $100M as PURR shares fall over 30%",
-      "take": "Hyperliquid Strategies expands buyback program to $100M as PURR shares fall sharply",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-strategies-expands-stock-buyback-program-to-100m-as-purr-shares-fall-over-30/"
+      "link": "https://cryptobriefing.com/coinbase-derivatives-futures-trading-maintenance/"
     }
   ],
   "business": [
     {
-      "headline": "Meta acquires AI data platform Sundial to bolster its analytics push",
-      "take": "Meta acquires AI data platform Sundial to strengthen its analytics capabilities",
+      "headline": "Stripe and Plasma plan stablecoin cards for 100-plus countries by 2027",
+      "take": "Stripe and Plasma launching stablecoin cards across 100+ countries by 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-acquires-ai-data-platform-sundial/"
+      "link": "https://cryptobriefing.com/stripe-plasma-stablecoin-card-2027/"
     },
     {
-      "headline": "Jack Dorsey\u2019s Block unveils Dessa, an AI voice model trained entirely on human conversations",
-      "take": "Block unveils Dessa, an AI voice model trained entirely on human conversations",
+      "headline": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "take": "Franklin Templeton adds $150 million XRP Ledger fund shares in single wallet",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet"
+    },
+    {
+      "headline": "HIVE commits more than $250 million to build an AI hub in Paraguay",
+      "take": "HIVE investing over $250 million to build AI infrastructure hub in Paraguay",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/block-unveils-dessa-ai-voice-model/"
+      "link": "https://cryptobriefing.com/hive-250-million-ai-hub-paraguay/"
     },
     {
       "headline": "Anthropic revenue hits $16B in H1 2026 amid IPO valuation talks",
-      "take": "Anthropic reports $16B H1 2026 revenue amid ongoing IPO valuation discussions",
+      "take": "Anthropic revenue hits $16 billion in first half 2026, pursuing IPO",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-revenue-hits-16b-in-h1-2026-amid-ipo-valuation-talks/"
-    },
-    {
-      "headline": "GenLayer founder: AI agents to drive crypto use in digital currency shift",
-      "take": "GenLayer founder predicts AI agents will drive broader adoption of digital currencies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/genlayer-founder-ai-agents-to-drive-crypto-use-in-digital-currency-shift/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI uncovers remote code execution flaw in Brotli compression library",
-      "take": "OpenAI discovers remote code execution vulnerability in Brotli compression library",
+      "headline": "Chinese national extradited to US over alleged Cambodian crypto scam network",
+      "take": "Chinese national extradited to US over alleged Cambodian cryptocurrency scam network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-brotli-remote-code-execution-vulnerability/"
+      "link": "https://cryptobriefing.com/chinese-national-extradited-cambodian-crypto-scam/"
+    },
+    {
+      "headline": "Moonshot AI curbs hacking ability in Kimi K3.1 Pro model",
+      "take": "Moonshot AI patches hacking vulnerabilities in Kimi K3.1 Pro model",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moonshot-ai-kimi-k3-1-pro-hacking-curbs/"
     },
     {
       "headline": "Papertrade faces criticism over PAPER token transfer restrictions amid security concerns",
-      "take": "Papertrade faces criticism over PAPER token transfer restrictions citing security concerns",
+      "take": "Papertrade faces criticism over PAPER token transfer restrictions and security concerns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/papertrade-faces-criticism-over-paper-token-transfer-restrictions-amid-security/"
-    },
-    {
-      "headline": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-      "take": "Bitcoin Core updates security policy to address AI-assisted vulnerability discovery risks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats"
     }
   ],
   "policy": [
     {
       "headline": "CME CEO: Hyperliquid faces US market entry hurdles over KYC issues",
-      "take": "CME CEO warns Hyperliquid faces U.S. market entry obstacles due to KYC requirements",
+      "take": "CME CEO cites KYC regulatory hurdles blocking Hyperliquid US market entry",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cme-ceo-hyperliquid-faces-us-market-entry-hurdles-over-kyc-issues/"
     },
     {
-      "headline": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "take": "IRS plans to lower tax disclosure penalties, including those affecting crypto transactions",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm",
-      "take": "Senate Democrat investigates Tether payments to firm founded by ex-White House crypto adviser",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser"
-    },
-    {
-      "headline": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-      "take": "SEC identifies AI superintelligence and tokenization as emerging systemic market risks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list"
-    },
-    {
-      "headline": "Texas Attorney General Ken Paxton sues OpenAI and Sam Altman over ChatGPT safety claims",
-      "take": "Texas Attorney General sues OpenAI and Sam Altman over ChatGPT safety misrepresentations",
+      "headline": "UK commits approximately \u00a3600 million to AI security, with a biosecurity lab at the center",
+      "take": "UK commits \u00a3600 million to AI security including dedicated biosecurity lab",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-paxton-sues-openai-sam-altman/"
+      "link": "https://cryptobriefing.com/uk-600-million-ai-security-biosecurity-lab/"
+    },
+    {
+      "headline": "US lifts tariffs on Canadian goods, reshuffles trade relations",
+      "take": "US lifts Canadian tariffs and reshuffles broader trade policy arrangements",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-lifts-tariffs-on-canadian-goods-reshuffles-trade-relations/"
     }
   ]
 }

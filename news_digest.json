@@ -1,50 +1,68 @@
 {
-  "generated": "2026-10-24T20:56:12.695423+00:00",
-  "ts": 1792875372,
+  "generated": "2026-10-24T23:20:43.747149+00:00",
+  "ts": 1792884043,
   "market": [
     {
       "headline": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "take": "Crypto longs lost $404 million in four hours as bitcoin briefly slipped below $80,000",
+      "take": "Crypto longs lose $404 million as bitcoin briefly drops below $80,000",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
     },
     {
+      "headline": "Morgan Stanley sees $2.9 trillion in data center spending, and a $1.5 trillion hole",
+      "take": "Morgan Stanley sees $2.9 trillion data center spending, $1.5 trillion supply gap",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morgan-stanley-data-center-capex-forecast/"
+    },
+    {
       "headline": "Pump.fun surpasses Hyperliquid in daily revenue with $2M in 24 hours",
-      "take": "Pump.fun surpassed Hyperliquid in daily revenue with $2 million in twenty-four hours",
+      "take": "Pump.fun surpasses Hyperliquid in daily revenue with $2 million earned",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/pumpfun-surpasses-hyperliquid-in-daily-revenue-with-2m-in-24-hours/"
     },
     {
+      "headline": "Apollo economist warns AI boom may be unsustainable as stocks tumble",
+      "take": "Economist warns AI sector's financial sustainability questioned as stocks tumble",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apollo-slok-warns-ai-boom-unsustainable/"
+    },
+    {
       "headline": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "take": "Bitcoin's wealthy holders increasingly turning to loans and yield strategies for returns",
+      "take": "Bitcoin holders increasingly use loans and yield strategies for mature investing",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo"
     }
   ],
   "business": [
     {
-      "headline": "Tether\u2019s mining toolkit wins backing from 15 Bitcoin mining companies",
-      "take": "Tether's mining toolkit now backed by fifteen Bitcoin mining companies",
+      "headline": "Morgan Stanley-led credit line for TeraWulf grows to $400 million",
+      "take": "Morgan Stanley-led credit line for TeraWulf grows to $400 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-mdk-15-mining-companies-automation/"
-    },
-    {
-      "headline": "Anthropic targets November IPO as Polymarket traders bet on $ANT ticker",
-      "take": "Anthropic targets November IPO as Polymarket traders bet on ANT ticker",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-november-ipo-ant-ticker/"
+      "link": "https://cryptobriefing.com/morgan-stanley-terawulf-400-million-credit-line/"
     },
     {
       "headline": "Solana co-founder Toly floats a validator stake-weighted oracle to mint SOL against tokenized collateral",
-      "take": "Solana co-founder proposes validator stake-weighted oracle to mint SOL against collateral",
+      "take": "Solana co-founder proposes validator stake-weighted oracle for SOL collateral minting",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-toly-validator-stake-weighted-oracle/"
     },
     {
-      "headline": "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "take": "Hong Kong's biggest bank deployed stablecoin to three million wallets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets"
+      "headline": "Anthropic targets November IPO as Polymarket traders bet on $ANT ticker",
+      "take": "Anthropic targets November IPO as traders bet on $ANT ticker",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-november-ipo-ant-ticker/"
+    },
+    {
+      "headline": "Amazon launches TorchNeuron to let AI developers run PyTorch code on Trainium chips",
+      "take": "Amazon launches TorchNeuron for PyTorch code on Trainium chips",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/amazon-torchneuron-trainium-pytorch-nvidia/"
+    },
+    {
+      "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "take": "Block's new voice AI sounds human, raising both excitement and fraud concerns",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
     }
   ],
   "security": [
@@ -53,32 +71,32 @@
       "take": "Keystone Hardware Wallet website breach exposed customer data",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/"
-    },
-    {
-      "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "take": "Block's new voice AI sounds remarkably human, raising both wonder and fraud concerns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
     }
   ],
   "policy": [
     {
+      "headline": "Sweden\u2019s Government Offices blocks ChatGPT and Claude, approves Microsoft Copilot",
+      "take": "Sweden blocks ChatGPT and Claude, approves Microsoft Copilot for government",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sweden-government-blocks-chatgpt-claude-copilot/"
+    },
+    {
+      "headline": "Argentine judge clears Milei and 10 others in LIBRA case, finding no \u2018criminally relevant deception\u2019",
+      "take": "Argentine judge clears Milei in LIBRA memecoin case, finds no criminality",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606"
+    },
+    {
       "headline": "IRS to address crypto tax issues via voluntary disclosure program",
-      "take": "IRS to address crypto tax issues through voluntary disclosure program",
+      "take": "IRS addresses crypto tax issues through voluntary disclosure program",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/irs-to-address-crypto-tax-issues-via-voluntary-disclosure-program/"
     },
     {
-      "headline": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "take": "Argentina dropped criminal probe into President Milei over crashed memecoin LIBRA",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra"
-    },
-    {
-      "headline": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-      "take": "U.S. Clarity Act failure gives Asia and Middle East competitive edge in crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo"
+      "headline": "Hyperliquid founder urges US focus on market operators for regulatory access",
+      "take": "Hyperliquid founder urges US regulatory focus on market operators for access",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-founder-urges-us-focus-on-market-operators-for-regulatory-access/"
     }
   ]
 }

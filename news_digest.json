@@ -1,102 +1,84 @@
 {
-  "generated": "2026-10-24T23:20:43.747149+00:00",
-  "ts": 1792884043,
+  "generated": "2026-10-25T04:52:02.203074+00:00",
+  "ts": 1792903922,
   "market": [
     {
       "headline": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "take": "Crypto longs lose $404 million as bitcoin briefly drops below $80,000",
+      "take": "Bitcoin dipped below $80k, liquidating $404M in longs within hours",
       "source": "theblock",
       "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
     },
     {
       "headline": "Morgan Stanley sees $2.9 trillion in data center spending, and a $1.5 trillion hole",
-      "take": "Morgan Stanley sees $2.9 trillion data center spending, $1.5 trillion supply gap",
+      "take": "Morgan Stanley projects $2.9T data center spending with $1.5T funding gap",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/morgan-stanley-data-center-capex-forecast/"
     },
     {
+      "headline": "Nvidia H200 rental costs rise about 160% since January",
+      "take": "Nvidia H200 rental costs surged 160% since January amid AI demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-h200-rental-costs-rise-160-percent/"
+    },
+    {
+      "headline": "New AI billionaires in the US and China add $87 billion in 2026",
+      "take": "AI billionaires in US and China gained $87B wealth in 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-ai-billionaires-us-china-87-billion/"
+    },
+    {
       "headline": "Pump.fun surpasses Hyperliquid in daily revenue with $2M in 24 hours",
-      "take": "Pump.fun surpasses Hyperliquid in daily revenue with $2 million earned",
+      "take": "Pump.fun generated $2M daily revenue, outpacing Hyperliquid recently",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/pumpfun-surpasses-hyperliquid-in-daily-revenue-with-2m-in-24-hours/"
-    },
-    {
-      "headline": "Apollo economist warns AI boom may be unsustainable as stocks tumble",
-      "take": "Economist warns AI sector's financial sustainability questioned as stocks tumble",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apollo-slok-warns-ai-boom-unsustainable/"
-    },
-    {
-      "headline": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "take": "Bitcoin holders increasingly use loans and yield strategies for mature investing",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo"
     }
   ],
   "business": [
     {
       "headline": "Morgan Stanley-led credit line for TeraWulf grows to $400 million",
-      "take": "Morgan Stanley-led credit line for TeraWulf grows to $400 million",
+      "take": "TeraWulf crypto mining secured $400M credit line led by Morgan Stanley",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/morgan-stanley-terawulf-400-million-credit-line/"
     },
     {
       "headline": "Solana co-founder Toly floats a validator stake-weighted oracle to mint SOL against tokenized collateral",
-      "take": "Solana co-founder proposes validator stake-weighted oracle for SOL collateral minting",
+      "take": "Solana co-founder proposes stake-weighted oracle for SOL collateral minting",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-toly-validator-stake-weighted-oracle/"
     },
     {
       "headline": "Anthropic targets November IPO as Polymarket traders bet on $ANT ticker",
-      "take": "Anthropic targets November IPO as traders bet on $ANT ticker",
+      "take": "Anthropic targets November IPO; Polymarket traders betting on ANT ticker",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-november-ipo-ant-ticker/"
     },
     {
-      "headline": "Amazon launches TorchNeuron to let AI developers run PyTorch code on Trainium chips",
-      "take": "Amazon launches TorchNeuron for PyTorch code on Trainium chips",
+      "headline": "Nvidia and SPIL plan 15x expansion of co-packaged optics capacity by mid-2027",
+      "take": "Nvidia and SPIL plan 15x expansion of optical packaging by mid-2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-torchneuron-trainium-pytorch-nvidia/"
-    },
-    {
-      "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "take": "Block's new voice AI sounds human, raising both excitement and fraud concerns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
+      "link": "https://cryptobriefing.com/nvidia-jensen-huang-optical-volume-ai-data-centers/"
     }
   ],
   "security": [
     {
       "headline": "Keystone Hardware Wallet says website breach exposed customer data",
-      "take": "Keystone Hardware Wallet website breach exposed customer data",
+      "take": "Keystone Hardware Wallet breach exposed customer data via website compromise",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/"
+    },
+    {
+      "headline": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "take": "Google updated privacy policy to feed Gmail and Photos data to ads",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads"
     }
   ],
   "policy": [
     {
-      "headline": "Sweden\u2019s Government Offices blocks ChatGPT and Claude, approves Microsoft Copilot",
-      "take": "Sweden blocks ChatGPT and Claude, approves Microsoft Copilot for government",
+      "headline": "Circle CEO Jeremy Allaire says Democrats won\u2019t reverse the GENIUS Act",
+      "take": "Circle CEO says Democrats won't reverse the GENIUS Act on crypto",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sweden-government-blocks-chatgpt-claude-copilot/"
-    },
-    {
-      "headline": "Argentine judge clears Milei and 10 others in LIBRA case, finding no \u2018criminally relevant deception\u2019",
-      "take": "Argentine judge clears Milei in LIBRA memecoin case, finds no criminality",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606"
-    },
-    {
-      "headline": "IRS to address crypto tax issues via voluntary disclosure program",
-      "take": "IRS addresses crypto tax issues through voluntary disclosure program",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/irs-to-address-crypto-tax-issues-via-voluntary-disclosure-program/"
-    },
-    {
-      "headline": "Hyperliquid founder urges US focus on market operators for regulatory access",
-      "take": "Hyperliquid founder urges US regulatory focus on market operators for access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-founder-urges-us-focus-on-market-operators-for-regulatory-access/"
+      "link": "https://cryptobriefing.com/circle-allaire-genius-act-bipartisan-support/"
     }
   ]
 }

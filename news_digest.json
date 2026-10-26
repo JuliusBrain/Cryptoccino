@@ -1,78 +1,108 @@
 {
-  "generated": "2026-10-26T13:14:23.992375+00:00",
-  "ts": 1793020463,
+  "generated": "2026-10-26T20:34:21.701001+00:00",
+  "ts": 1793046861,
   "market": [
     {
-      "headline": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "take": "Bitcoin dips below $80,000 as Fed decision and midterms approach",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms"
-    },
-    {
-      "headline": "Bitcoin\u2019s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "take": "Galaxy Research declares bear market over; analysts suggest attractive entry point",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says"
-    },
-    {
-      "headline": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "take": "Options traders bet $68 million on post-election Bitcoin breakout to $90,000",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000"
-    },
-    {
-      "headline": "US spot XRP ETFs see $4.25 million in weekly inflows after brief outflow",
-      "take": "US spot XRP ETFs attract $4.25 million weekly inflows after brief outflow",
+      "headline": "Galaxy Research says Bitcoin\u2019s bear market ended in June as accumulation begins",
+      "take": "Bitcoin bear market ended June; accumulation phase beginning according Galaxy Research",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-spot-xrp-etfs-4-million-inflows/"
+      "link": "https://cryptobriefing.com/galaxy-research-bitcoin-bear-market-ended/"
+    },
+    {
+      "headline": "Bitcoin\u2019s $80K consolidation could end within days as macro events approach, ARP Digital says",
+      "take": "Bitcoin consolidating near $80K; breakout possible within days on macro catalysts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-consolidation-end-macro-events/"
+    },
+    {
+      "headline": "BNB Chain leads all blockchains in tokenized fund growth, adding $3.7 billion",
+      "take": "BNB Chain leads blockchains with $3.7B in tokenized fund growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bnb-chain-leads-tokenized-fund-growth/"
+    },
+    {
+      "headline": "Backpack Securities tops $584 million in weekly tokenized stock volume",
+      "take": "Backpack Securities hits $584M weekly volume in tokenized stocks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/backpack-securities-weekly-tokenized-stock-volume/"
+    },
+    {
+      "headline": "Goldman Sachs says the AI growth boost is nearing its peak, while Apollo finds zero payoff outside tech",
+      "take": "Goldman Sachs: AI growth boost peaking; returns concentrated in tech sector",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-apollo-ai-boom-peak-zero-payoff/"
     }
   ],
   "business": [
     {
-      "headline": "Strive lifts Bitcoin holdings to 43,000 BTC after largest-ever purchase",
-      "take": "Strive lifts Bitcoin holdings to 43,000 BTC in largest-ever single purchase",
+      "headline": "Anthropic files for US IPO amid rapid growth and rising costs",
+      "take": "Anthropic files for US IPO amid rapid growth and rising operating costs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-bitcoin-holdings-overtakes-mara/"
+      "link": "https://cryptobriefing.com/anthropic-files-for-us-ipo-amid-rapid-growth-and-rising-costs/"
     },
     {
-      "headline": "Brave plans Rewards Card as waitlist passes 230,000 sign-ups",
-      "take": "Brave plans Rewards Card launch with 230,000-strong waitlist",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/brave-rewards-card-bat-waitlist/"
-    },
-    {
-      "headline": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
-      "take": "Aviva Investors and Ripple tokenize $29 billion sterling fund on XRP Ledger",
+      "headline": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
+      "take": "BNB Chain pitches AI infrastructure role; BNB Standard rings Nasdaq bell",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712"
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790"
     },
     {
-      "headline": "Sony-backed Soneium unveils native SONEIUM token and tokenized IP investment products",
-      "take": "Sony-backed Soneium unveils native token and tokenized IP investment products",
+      "headline": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+      "take": "Kraken parent Payward first CFTC-regulated HIP-3 perpetuals deployer via Hyperliquid",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787"
+    },
+    {
+      "headline": "Mochatrade raises $6M to offer US stock perpetuals to Indian traders",
+      "take": "Mochatrade raises $6M funding for US stock perpetuals to Indian traders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/soneium-plans-native-soneium-token/"
+      "link": "https://cryptobriefing.com/mochatrade-raises-6m-us-stock-perpetuals-india/"
+    },
+    {
+      "headline": "DeFi Development Corp buys 5,346 Solana, lifting its treasury to about 2.595M SOL",
+      "take": "DeFi Development Corp buys 5,346 SOL; treasury reaches ~2.595M Solana",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/defi-development-corp-buys-5346-solana/"
     }
   ],
   "security": [
     {
-      "headline": "Overwatch raises $15M to fight AI-enhanced cybercrime",
-      "take": "Overwatch raises $15 million to combat AI-enhanced cybercrime threats",
+      "headline": "AI agents found paths into Anthropic\u2019s business systems in under 12 hours, startup says",
+      "take": "AI agents breached Anthropic business systems in under 12 hours during testing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/overwatch-raises-15m-ai-cybercrime/"
+      "link": "https://cryptobriefing.com/ai-agents-anthropic-systems-cathedral-test/"
+    },
+    {
+      "headline": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+      "take": "South Korea arrests seven in first major AI-assisted hacking investigation",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case"
+    },
+    {
+      "headline": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+      "take": "Bitcoin wallet patch fixes critical flaw that redirected funds to attackers",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers"
     }
   ],
   "policy": [
     {
-      "headline": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
-      "take": "Israel's central bank opposes Netanyahu plan to use crypto for sanctions evasion",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions"
+      "headline": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "take": "Canada opens stablecoin consultation citing US GENIUS Act framework",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
-      "take": "South Korea delays crypto gains tax implementation to 2029",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649"
+      "headline": "OCC urges US community banks to become stablecoin issuers before January 2027 deadline",
+      "take": "OCC urges US community banks to become stablecoin issuers by January 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/occ-urges-community-banks-stablecoin-issuers/"
+    },
+    {
+      "headline": "FTC demands Anthropic execs testify in expanding AI safety probe",
+      "take": "FTC demands Anthropic executives testify in expanding AI safety investigation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ftc-demands-anthropic-execs-testify-in-expanding-ai-safety-probe/"
     }
   ]
 }

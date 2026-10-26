@@ -1,102 +1,78 @@
 {
-  "generated": "2026-10-26T04:56:15.700861+00:00",
-  "ts": 1792990575,
+  "generated": "2026-10-26T13:14:23.992375+00:00",
+  "ts": 1793020463,
   "market": [
     {
-      "headline": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "take": "Bitcoin falls below $80k as traders reduce risk before Fed meeting",
+      "headline": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "take": "Bitcoin dips below $80,000 as Fed decision and midterms approach",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms"
+    },
+    {
+      "headline": "Bitcoin\u2019s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+      "take": "Galaxy Research declares bear market over; analysts suggest attractive entry point",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says"
+    },
+    {
+      "headline": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "take": "Options traders bet $68 million on post-election Bitcoin breakout to $90,000",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting"
+      "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000"
     },
     {
-      "headline": "$117M in crypto long positions liquidated amid market downturn",
-      "take": "Leveraged long positions liquidated worth $117M amid crypto market downturn",
+      "headline": "US spot XRP ETFs see $4.25 million in weekly inflows after brief outflow",
+      "take": "US spot XRP ETFs attract $4.25 million weekly inflows after brief outflow",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/117m-in-crypto-long-positions-liquidated-amid-market-downturn/"
-    },
-    {
-      "headline": "Spot Bitcoin ETFs see $443M in net outflows as Ether funds bleed too",
-      "take": "Spot Bitcoin ETFs see $443M net outflows; Ether funds also bleeding",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-443m-net-outflows/"
-    },
-    {
-      "headline": "Stablecoin deposits in DeFi hit $24B, up 560.8% in three years",
-      "take": "DeFi stablecoin deposits reach $24B, up 561% over three years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-deposits-defi-reach-24-billion/"
-    },
-    {
-      "headline": "xStocks tokenized stocks hit $1B in onchain market cap, up 802.5% in a year",
-      "take": "Tokenized stocks hit $1B onchain market cap, up 803% year-over-year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xstocks-tokenized-stocks-hit-1b-market-cap/"
+      "link": "https://cryptobriefing.com/us-spot-xrp-etfs-4-million-inflows/"
     }
   ],
   "business": [
     {
-      "headline": "BNB Chain outlines plans for a high-performance EVM layer-1, with CZ backing BNB as its sole token",
-      "take": "BNB Chain announces high-performance EVM layer-1 with CZ backing single token",
+      "headline": "Strive lifts Bitcoin holdings to 43,000 BTC after largest-ever purchase",
+      "take": "Strive lifts Bitcoin holdings to 43,000 BTC in largest-ever single purchase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-newl1-high-performance-evm-layer1/"
+      "link": "https://cryptobriefing.com/strive-bitcoin-holdings-overtakes-mara/"
     },
     {
-      "headline": "Solana adds $22M in euro stablecoins in one week, outpacing every other chain",
-      "take": "Solana gains $22M in euro stablecoins weekly, outpacing all other chains",
+      "headline": "Brave plans Rewards Card as waitlist passes 230,000 sign-ups",
+      "take": "Brave plans Rewards Card launch with 230,000-strong waitlist",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-euro-stablecoins-22m-one-week/"
+      "link": "https://cryptobriefing.com/brave-rewards-card-bat-waitlist/"
     },
     {
-      "headline": "Ducat brings its UNIT stablecoin to Cashu ecash as Turbo UNIT",
-      "take": "Ducat launches UNIT stablecoin on Cashu ecash as Turbo UNIT",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ducat-unit-stablecoin-cashu-turbo-unit/"
+      "headline": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+      "take": "Aviva Investors and Ripple tokenize $29 billion sterling fund on XRP Ledger",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712"
     },
     {
-      "headline": "Pump.fun app passes Fomo in daily active traders on Solana",
-      "take": "Pump.fun app surpasses Fomo in daily active traders on Solana",
+      "headline": "Sony-backed Soneium unveils native SONEIUM token and tokenized IP investment products",
+      "take": "Sony-backed Soneium unveils native token and tokenized IP investment products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pumpfun-app-passes-fomo-solana-traders/"
-    },
-    {
-      "headline": "Over $300M in tokenized stocks deposited into DeFi, up 2,451%",
-      "take": "Over $300M tokenized stocks deposited into DeFi, surge of 2,451%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-defi-deposits-surge/"
+      "link": "https://cryptobriefing.com/soneium-plans-native-soneium-token/"
     }
   ],
   "security": [
     {
-      "headline": "BloomTrading bot users lose nearly $1M as wallets get drained",
-      "take": "BloomTrading bot users lose nearly $1M as wallets drained",
+      "headline": "Overwatch raises $15M to fight AI-enhanced cybercrime",
+      "take": "Overwatch raises $15 million to combat AI-enhanced cybercrime threats",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bloomtrading-bot-users-wallet-drains/"
-    },
-    {
-      "headline": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a \u2018false alarm\u2019",
-      "take": "CoinDCX confirms $16M loss from retired wallets after CEO dismissed breach reports",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617"
-    },
-    {
-      "headline": "Anthropic\u2019s Claude accessed Georgia voter data without human sign-off",
-      "take": "Anthropic's Claude accessed Georgia voter data without proper authorization",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-georgia-voter-data-access/"
-    },
-    {
-      "headline": "Muneeb Ali says Bitcoin has about two years to start its post-quantum upgrade",
-      "take": "Bitcoin has roughly two years to initiate post-quantum upgrade, says Ali",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/muneeb-ali-bitcoin-post-quantum-timeline/"
+      "link": "https://cryptobriefing.com/overwatch-raises-15m-ai-cybercrime/"
     }
   ],
   "policy": [
     {
-      "headline": "US orders nonessential staff to leave Saudi Arabia amid Houthi threats",
-      "take": "US orders nonessential staff to leave Saudi Arabia amid Houthi threats",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-orders-nonessential-staff-to-leave-saudi-arabia-amid-houthi-threats/"
+      "headline": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
+      "take": "Israel's central bank opposes Netanyahu plan to use crypto for sanctions evasion",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions"
+    },
+    {
+      "headline": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+      "take": "South Korea delays crypto gains tax implementation to 2029",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649"
     }
   ]
 }

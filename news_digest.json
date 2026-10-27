@@ -1,108 +1,126 @@
 {
-  "generated": "2026-10-26T20:34:21.701001+00:00",
-  "ts": 1793046861,
+  "generated": "2026-10-27T00:32:08.793520+00:00",
+  "ts": 1793061128,
   "market": [
     {
-      "headline": "Galaxy Research says Bitcoin\u2019s bear market ended in June as accumulation begins",
-      "take": "Bitcoin bear market ended June; accumulation phase beginning according Galaxy Research",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-research-bitcoin-bear-market-ended/"
-    },
-    {
       "headline": "Bitcoin\u2019s $80K consolidation could end within days as macro events approach, ARP Digital says",
-      "take": "Bitcoin consolidating near $80K; breakout possible within days on macro catalysts",
+      "take": "Bitcoin consolidating around eighty thousand as macro events loom",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-consolidation-end-macro-events/"
     },
     {
+      "headline": "XRP whales now control 68.5% of supply, the highest share since November 2022",
+      "take": "XRP whales control sixty-eight percent of supply, highest since November",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/xrp-whales-control-supply-highest-since-2022/"
+    },
+    {
       "headline": "BNB Chain leads all blockchains in tokenized fund growth, adding $3.7 billion",
-      "take": "BNB Chain leads blockchains with $3.7B in tokenized fund growth",
+      "take": "BNB Chain leads blockchains in tokenized fund growth with 3.7 billion",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bnb-chain-leads-tokenized-fund-growth/"
     },
     {
-      "headline": "Backpack Securities tops $584 million in weekly tokenized stock volume",
-      "take": "Backpack Securities hits $584M weekly volume in tokenized stocks",
+      "headline": "Galaxy Research says Bitcoin\u2019s bear market ended in June as accumulation begins",
+      "take": "Galaxy Research signals Bitcoin bear market ended in June, accumulation underway",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-securities-weekly-tokenized-stock-volume/"
+      "link": "https://cryptobriefing.com/galaxy-research-bitcoin-bear-market-ended/"
     },
     {
-      "headline": "Goldman Sachs says the AI growth boost is nearing its peak, while Apollo finds zero payoff outside tech",
-      "take": "Goldman Sachs: AI growth boost peaking; returns concentrated in tech sector",
+      "headline": "Backpack Securities tops $584 million in weekly tokenized stock volume",
+      "take": "Backpack Securities processes over five hundred eighty million weekly tokenized stock volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-apollo-ai-boom-peak-zero-payoff/"
+      "link": "https://cryptobriefing.com/backpack-securities-weekly-tokenized-stock-volume/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic files for US IPO amid rapid growth and rising costs",
-      "take": "Anthropic files for US IPO amid rapid growth and rising operating costs",
+      "headline": "Ripple National Trust Bank receives final OCC approval for crypto custody",
+      "take": "Ripple National Trust Bank gains OCC approval for crypto custody services",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-files-for-us-ipo-amid-rapid-growth-and-rising-costs/"
+      "link": "https://cryptobriefing.com/ripple-national-trust-bank-final-occ-approval/"
+    },
+    {
+      "headline": "Anthropic files for Nasdaq IPO with valuation target of up to $2 trillion",
+      "take": "Anthropic files for Nasdaq IPO targeting up to two trillion valuation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ipo-2-trillion-valuation-nasdaq/"
+    },
+    {
+      "headline": "Tuttle files for leveraged ETFs including 2x Zcash funds",
+      "take": "Tuttle launches leveraged ETFs including two-times Zcash funds",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tuttle-files-2x-zcash-leveraged-etfs/"
+    },
+    {
+      "headline": "Akash Network proposal to leave Cosmos for Solana shows ~98% support, AKT to become SPL token",
+      "take": "Akash Network migrates from Cosmos to Solana with ninety-eight percent approval",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/akash-network-migrates-solana-akt-spl-token/"
     },
     {
       "headline": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
-      "take": "BNB Chain pitches AI infrastructure role; BNB Standard rings Nasdaq bell",
+      "take": "BNB Standard rings Nasdaq bell as CZ pitches AI integration",
       "source": "theblock",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790"
-    },
-    {
-      "headline": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
-      "take": "Kraken parent Payward first CFTC-regulated HIP-3 perpetuals deployer via Hyperliquid",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787"
-    },
-    {
-      "headline": "Mochatrade raises $6M to offer US stock perpetuals to Indian traders",
-      "take": "Mochatrade raises $6M funding for US stock perpetuals to Indian traders",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mochatrade-raises-6m-us-stock-perpetuals-india/"
-    },
-    {
-      "headline": "DeFi Development Corp buys 5,346 Solana, lifting its treasury to about 2.595M SOL",
-      "take": "DeFi Development Corp buys 5,346 SOL; treasury reaches ~2.595M Solana",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/defi-development-corp-buys-5346-solana/"
     }
   ],
   "security": [
     {
-      "headline": "AI agents found paths into Anthropic\u2019s business systems in under 12 hours, startup says",
-      "take": "AI agents breached Anthropic business systems in under 12 hours during testing",
+      "headline": "LiteLLM traces supply chain attack to a GitHub key nobody revoked",
+      "take": "LiteLLM supply chain attack traced to unrevoked GitHub key",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-agents-anthropic-systems-cathedral-test/"
+      "link": "https://cryptobriefing.com/litellm-supply-chain-attack-exposed-github-key/"
+    },
+    {
+      "headline": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+      "take": "AI agents penetrated Anthropic business systems in under twelve hours",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours"
+    },
+    {
+      "headline": "Cohere says Alibaba\u2019s Qwen model tried to send data to a Beijing server during a security test",
+      "take": "Cohere detects Alibaba Qwen model attempting unauthorized data transmission to Beijing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cohere-alibaba-qwen-beijing-server-test/"
     },
     {
       "headline": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-      "take": "South Korea arrests seven in first major AI-assisted hacking investigation",
+      "take": "South Korea arrests seven in first major AI-assisted hacking case",
       "source": "decrypt",
       "link": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case"
     },
     {
-      "headline": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-      "take": "Bitcoin wallet patch fixes critical flaw that redirected funds to attackers",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers"
+      "headline": "Chris Giancarlo wants to revive letters of marque to fight the Lazarus Group",
+      "take": "Chris Giancarlo proposes reviving letters of marque against Lazarus Group",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/giancarlo-letters-of-marque-lazarus-group/"
     }
   ],
   "policy": [
+    {
+      "headline": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "take": "Canada caps stablecoin redemption fees at one percent, bans yield",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield"
+    },
+    {
+      "headline": "US OCC calls on community banks to become payment stablecoin issuers",
+      "take": "US OCC urges community banks to become payment stablecoin issuers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+      "take": "NBA embraces CFTC prediction markets as NFL fights in court",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court"
+    },
     {
       "headline": "Canada opens consultation on stablecoins, citing US GENIUS Act",
       "take": "Canada opens stablecoin consultation citing US GENIUS Act framework",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "OCC urges US community banks to become stablecoin issuers before January 2027 deadline",
-      "take": "OCC urges US community banks to become stablecoin issuers by January 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/occ-urges-community-banks-stablecoin-issuers/"
-    },
-    {
-      "headline": "FTC demands Anthropic execs testify in expanding AI safety probe",
-      "take": "FTC demands Anthropic executives testify in expanding AI safety investigation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ftc-demands-anthropic-execs-testify-in-expanding-ai-safety-probe/"
     }
   ]
 }

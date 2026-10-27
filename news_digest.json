@@ -1,102 +1,108 @@
 {
-  "generated": "2026-10-27T15:24:37.490906+00:00",
-  "ts": 1793114677,
+  "generated": "2026-10-27T22:21:22.397356+00:00",
+  "ts": 1793139682,
   "market": [
     {
-      "headline": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
-      "take": "Galaxy Digital posts $323M quarterly profit, announces $200M share buyback",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860"
-    },
-    {
-      "headline": "Bitcoin could outperform gold, equities as year-end seasonality favors risk assets, analyst says",
-      "take": "Bitcoin could outperform gold and equities as year-end seasonality favors risk",
+      "headline": "Robinhood posts $808 million in Q3 adjusted EBITDA as crypto revenue falls 55%",
+      "take": "Robinhood Q3 EBITDA reaches $808 million despite crypto revenue falling 55%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-gold-correlation-risk-assets/"
+      "link": "https://cryptobriefing.com/robinhood-q3-adjusted-ebitda-808m/"
     },
     {
-      "headline": "VanEck launches Wealth Builder ETF with Bitcoin exposure",
-      "take": "VanEck launches Wealth Builder ETF offering direct Bitcoin exposure to investors",
+      "headline": "Spiko\u2019s tokenized funds hit $3 billion market cap, up 536% in a year",
+      "take": "Spiko tokenized funds hit $3 billion market cap, up 536% year-over-year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vaneck-wealth-builder-etf-bitcoin-exposure/"
+      "link": "https://cryptobriefing.com/spiko-tokenized-funds-3-billion-market-cap/"
     },
     {
-      "headline": "Gate equity volume surpasses $90B in four months as crypto traders turn to stocks",
-      "take": "Gate equity volume exceeds $90B in four months as crypto traders diversify",
+      "headline": "Bankman-Fried Favorite Solana Faces Crossroad While Courting Wall Street",
+      "take": "Solana faces strategic crossroads while pursuing institutional Wall Street partnerships",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/bankman-fried-favorite-solana-faces-crossroad-while-courting-wall-street"
+    },
+    {
+      "headline": "Polymarket US launches 5-minute crypto up or down markets",
+      "take": "Polymarket US launches 5-minute crypto price prediction markets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gate-equity-volume-90-billion-four-months/"
+      "link": "https://cryptobriefing.com/polymarket-us-five-minute-crypto-markets/"
     },
     {
-      "headline": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "take": "Bitcoin miners shift into AI, creating emerging market for computing power",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power"
+      "headline": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
+      "take": "China stock market lost $2.4 trillion as investor AI boom skepticism deepens",
+      "source": "decrypt",
+      "link": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom"
     }
   ],
   "business": [
     {
-      "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "take": "Janus Henderson and Centrifuge launch first licensed Nasdaq-100 onchain fund",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
-    },
-    {
-      "headline": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
-      "take": "Ripple and BNY Mellon explore XRP Ledger for invoice financing infrastructure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891"
-    },
-    {
-      "headline": "Robinhood to integrate Ripple Treasury in expanded strategic partnership",
-      "take": "Robinhood expands partnership with Ripple to integrate Treasury services",
+      "headline": "Anthropic reveals $131.7 billion cash pile in IPO filing",
+      "take": "Anthropic IPO filing reveals $131.7 billion cash pile and human extinction risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-integrates-ripple-treasury-operations/"
+      "link": "https://cryptobriefing.com/anthropic-131-billion-cash-ipo-filing/"
     },
     {
-      "headline": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "take": "Luxor mining firm raises $16M to scale AI compute business expansion",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858"
-    },
-    {
-      "headline": "Bitget Wallet targets cross-border payments with new virtual accounts",
-      "take": "Bitget Wallet targets cross-border payments with new virtual account feature",
+      "headline": "Robinhood adopts Ripple\u2019s RLUSD stablecoin, expands institutional services",
+      "take": "Robinhood adopts Ripple's RLUSD stablecoin, expands institutional services",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-wallet-virtual-account-usd-eur/"
+      "link": "https://cryptobriefing.com/robinhood-adopts-ripples-rlusd-stablecoin-expands-institutional-services/"
+    },
+    {
+      "headline": "Cerebras Systems stock jumps about 10% on Oracle cloud collaboration",
+      "take": "Cerebras Systems stock jumps 10% on Oracle cloud collaboration announcement",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cerebras-stock-jumps-oracle-collaboration/"
+    },
+    {
+      "headline": "Robinhood says about 200,000 customers have opened AI-powered trading accounts",
+      "take": "Robinhood reports 200,000 customers opened AI-powered trading accounts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robinhood-ai-trading-accounts-200k-customers/"
+    },
+    {
+      "headline": "Anthropic partners with six companies to push Claude into drug discovery",
+      "take": "Anthropic partners with six companies to integrate Claude into drug discovery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-drug-discovery-partnerships/"
     }
   ],
   "security": [
     {
-      "headline": "Missouri man pleads guilty in Bitcoin robbery and kidnapping scheme",
-      "take": "Missouri man pleads guilty in Bitcoin robbery and kidnapping scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/missouri-man-pleads-guilty-bitcoin-kidnapping-plot/"
+      "headline": "International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service",
+      "take": "Law enforcement seizes Virtualine bulletproof hosting service domain",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/"
     },
     {
-      "headline": "Polymarket investigates dozens of midterm election bets for insider trading",
-      "take": "Polymarket investigates dozens of midterm election bets for insider trading",
+      "headline": "Bank of America warns customers against sharing passwords with AI assistants",
+      "take": "Bank of America warns customers against sharing passwords with AI assistants",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-investigates-midterm-election-insider-trading/"
-    },
-    {
-      "headline": "Northeastern study finds AI agents overstep user permissions in 19.2% of runs",
-      "take": "Northeastern study finds AI agents overstep user permissions in 19.2% of runs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/northeastern-study-ai-agents-overstep-permissions/"
+      "link": "https://cryptobriefing.com/bank-of-america-ai-assistants-passwords/"
     }
   ],
   "policy": [
     {
-      "headline": "Akash Network votes to migrate from Cosmos to Solana for cost efficiency",
-      "take": "Akash Network votes to migrate from Cosmos to Solana for cost efficiency",
+      "headline": "US Treasury tracks and freezes Iranian crypto funds, Bessent says",
+      "take": "US Treasury tracks and freezes Iranian cryptocurrency funds, Bessent confirms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/akash-network-votes-to-migrate-from-cosmos-to-solana-for-cost-efficiency/"
+      "link": "https://cryptobriefing.com/us-treasury-freezes-iranian-crypto-funds/"
     },
     {
-      "headline": "Democrats expected to regain control of US House: report",
-      "take": "Democrats expected to regain control of US House in upcoming elections",
+      "headline": "Bessent says the US will win in digital assets and strengthen the dollar",
+      "take": "Treasury Secretary Bessent says US will win digital assets race, strengthen dollar",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/democrats-expected-to-regain-control-of-us-house-report/"
+      "link": "https://cryptobriefing.com/bessent-us-win-digital-assets-dollar/"
+    },
+    {
+      "headline": "Delaware\u2019s AI-run company proposal draws congressional scrutiny over owner liability",
+      "take": "Delaware AI-run company proposal draws congressional scrutiny over owner liability",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/delaware-ai-run-companies-comer-liability/"
+    },
+    {
+      "headline": "Kalshi caps deposits for traders aged 18 to 20 ahead of US midterms",
+      "take": "Kalshi caps deposits for traders aged 18 to 20 ahead of midterms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-young-trader-safeguards-midterms/"
     }
   ]
 }

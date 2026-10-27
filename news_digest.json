@@ -1,126 +1,90 @@
 {
-  "generated": "2026-10-27T00:32:08.793520+00:00",
-  "ts": 1793061128,
+  "generated": "2026-10-27T09:07:05.890856+00:00",
+  "ts": 1793092025,
   "market": [
     {
-      "headline": "Bitcoin\u2019s $80K consolidation could end within days as macro events approach, ARP Digital says",
-      "take": "Bitcoin consolidating around eighty thousand as macro events loom",
+      "headline": "Bitcoin ETFs pull in $110 million as Ether funds shed $88.58 million",
+      "take": "Bitcoin ETFs gained $110M while Ether funds lost $88.58M in recent trading",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-consolidation-end-macro-events/"
+      "link": "https://cryptobriefing.com/bitcoin-etfs-inflows-ether-funds-outflows/"
     },
     {
-      "headline": "XRP whales now control 68.5% of supply, the highest share since November 2022",
-      "take": "XRP whales control sixty-eight percent of supply, highest since November",
+      "headline": "Grayscale says Bitcoin is now less volatile than Oracle, Coinbase, Honeywell and SanDisk",
+      "take": "Bitcoin now shows lower volatility than Oracle, Coinbase, Honeywell, SanDisk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-whales-control-supply-highest-since-2022/"
+      "link": "https://cryptobriefing.com/grayscale-bitcoin-less-volatile-than-stocks/"
     },
     {
-      "headline": "BNB Chain leads all blockchains in tokenized fund growth, adding $3.7 billion",
-      "take": "BNB Chain leads blockchains in tokenized fund growth with 3.7 billion",
+      "headline": "Bitcoin short-term holder profit drops to 70%, which Glassnode says may favor buyers",
+      "take": "Bitcoin short-term holder profit at 70% may signal favorable conditions for buyers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-leads-tokenized-fund-growth/"
-    },
-    {
-      "headline": "Galaxy Research says Bitcoin\u2019s bear market ended in June as accumulation begins",
-      "take": "Galaxy Research signals Bitcoin bear market ended in June, accumulation underway",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/galaxy-research-bitcoin-bear-market-ended/"
-    },
-    {
-      "headline": "Backpack Securities tops $584 million in weekly tokenized stock volume",
-      "take": "Backpack Securities processes over five hundred eighty million weekly tokenized stock volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-securities-weekly-tokenized-stock-volume/"
+      "link": "https://cryptobriefing.com/bitcoin-short-term-holder-profit-drops-glassnode/"
     }
   ],
   "business": [
     {
-      "headline": "Ripple National Trust Bank receives final OCC approval for crypto custody",
-      "take": "Ripple National Trust Bank gains OCC approval for crypto custody services",
+      "headline": "Binance files for Brazil crypto license ahead of October 30 deadline",
+      "take": "Binance files for Brazil crypto license ahead of October 30 regulatory deadline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-national-trust-bank-final-occ-approval/"
+      "link": "https://cryptobriefing.com/binance-files-brazil-crypto-license/"
     },
     {
-      "headline": "Anthropic files for Nasdaq IPO with valuation target of up to $2 trillion",
-      "take": "Anthropic files for Nasdaq IPO targeting up to two trillion valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-2-trillion-valuation-nasdaq/"
+      "headline": "Ripple Gets Final US Approval for National Trust Bank",
+      "take": "Ripple receives final US approval to launch its own national trust bank",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/ripple-gets-final-us-approval-for-national-trust-bank"
     },
     {
-      "headline": "Tuttle files for leveraged ETFs including 2x Zcash funds",
-      "take": "Tuttle launches leveraged ETFs including two-times Zcash funds",
+      "headline": "BNB Chain tokenized assets surge in Q3 as RWA supply reaches $4.96B",
+      "take": "BNB Chain tokenized assets reach $4.96B supply in Q3 real-world asset expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tuttle-files-2x-zcash-leveraged-etfs/"
+      "link": "https://cryptobriefing.com/bnb-chain-tokenized-assets-q3-rwa-supply/"
     },
     {
-      "headline": "Akash Network proposal to leave Cosmos for Solana shows ~98% support, AKT to become SPL token",
-      "take": "Akash Network migrates from Cosmos to Solana with ninety-eight percent approval",
+      "headline": "BlackRock signs MOU with SBI and Startale to explore linking tokenized MMFs with yen stablecoin JPYSC",
+      "take": "BlackRock, SBI, Startale collaborate linking tokenized MMFs with yen stablecoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/akash-network-migrates-solana-akt-spl-token/"
+      "link": "https://cryptobriefing.com/blackrock-sbi-startale-tokenized-mmf-jpysc/"
     },
     {
-      "headline": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
-      "take": "BNB Standard rings Nasdaq bell as CZ pitches AI integration",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790"
+      "headline": "Anthropic files for IPO as first major US AI software firm",
+      "take": "Anthropic files for IPO as major US artificial intelligence software company",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-files-for-ipo-as-first-major-us-ai-software-firm/"
     }
   ],
   "security": [
     {
-      "headline": "LiteLLM traces supply chain attack to a GitHub key nobody revoked",
-      "take": "LiteLLM supply chain attack traced to unrevoked GitHub key",
+      "headline": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "take": "Solana charges 1 SOL per bug report to reduce AI-driven security spam",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam"
+    },
+    {
+      "headline": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "take": "Ethereum patched Glamsterdam bug that risked sending staking deposits to builders",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders"
+    },
+    {
+      "headline": "CertiK flags Tornado Cash deposits tied to wallet behind $1.58 million drain",
+      "take": "CertiK flags Tornado Cash deposits linked to wallet draining $1.58 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/litellm-supply-chain-attack-exposed-github-key/"
-    },
-    {
-      "headline": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-      "take": "AI agents penetrated Anthropic business systems in under twelve hours",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours"
-    },
-    {
-      "headline": "Cohere says Alibaba\u2019s Qwen model tried to send data to a Beijing server during a security test",
-      "take": "Cohere detects Alibaba Qwen model attempting unauthorized data transmission to Beijing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cohere-alibaba-qwen-beijing-server-test/"
-    },
-    {
-      "headline": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-      "take": "South Korea arrests seven in first major AI-assisted hacking case",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case"
-    },
-    {
-      "headline": "Chris Giancarlo wants to revive letters of marque to fight the Lazarus Group",
-      "take": "Chris Giancarlo proposes reviving letters of marque against Lazarus Group",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/giancarlo-letters-of-marque-lazarus-group/"
+      "link": "https://cryptobriefing.com/certik-tornado-cash-deposits-wallet-drain/"
     }
   ],
   "policy": [
     {
-      "headline": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "take": "Canada caps stablecoin redemption fees at one percent, bans yield",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield"
+      "headline": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "take": "Ripple gains final OCC approval for national trust bank and RLUSD federal oversight",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810"
     },
     {
-      "headline": "US OCC calls on community banks to become payment stablecoin issuers",
-      "take": "US OCC urges community banks to become payment stablecoin issuers",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-      "take": "NBA embraces CFTC prediction markets as NFL fights in court",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court"
-    },
-    {
-      "headline": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "take": "Canada opens stablecoin consultation citing US GENIUS Act framework",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "take": "Zcash co-founder proposes ending grant funding given $125M treasury reserves",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury"
     }
   ]
 }

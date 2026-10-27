@@ -1,90 +1,102 @@
 {
-  "generated": "2026-10-27T09:07:05.890856+00:00",
-  "ts": 1793092025,
+  "generated": "2026-10-27T15:24:37.490906+00:00",
+  "ts": 1793114677,
   "market": [
     {
-      "headline": "Bitcoin ETFs pull in $110 million as Ether funds shed $88.58 million",
-      "take": "Bitcoin ETFs gained $110M while Ether funds lost $88.58M in recent trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-inflows-ether-funds-outflows/"
+      "headline": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
+      "take": "Galaxy Digital posts $323M quarterly profit, announces $200M share buyback",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860"
     },
     {
-      "headline": "Grayscale says Bitcoin is now less volatile than Oracle, Coinbase, Honeywell and SanDisk",
-      "take": "Bitcoin now shows lower volatility than Oracle, Coinbase, Honeywell, SanDisk",
+      "headline": "Bitcoin could outperform gold, equities as year-end seasonality favors risk assets, analyst says",
+      "take": "Bitcoin could outperform gold and equities as year-end seasonality favors risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-bitcoin-less-volatile-than-stocks/"
+      "link": "https://cryptobriefing.com/bitcoin-gold-correlation-risk-assets/"
     },
     {
-      "headline": "Bitcoin short-term holder profit drops to 70%, which Glassnode says may favor buyers",
-      "take": "Bitcoin short-term holder profit at 70% may signal favorable conditions for buyers",
+      "headline": "VanEck launches Wealth Builder ETF with Bitcoin exposure",
+      "take": "VanEck launches Wealth Builder ETF offering direct Bitcoin exposure to investors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-short-term-holder-profit-drops-glassnode/"
+      "link": "https://cryptobriefing.com/vaneck-wealth-builder-etf-bitcoin-exposure/"
+    },
+    {
+      "headline": "Gate equity volume surpasses $90B in four months as crypto traders turn to stocks",
+      "take": "Gate equity volume exceeds $90B in four months as crypto traders diversify",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gate-equity-volume-90-billion-four-months/"
+    },
+    {
+      "headline": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+      "take": "Bitcoin miners shift into AI, creating emerging market for computing power",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power"
     }
   ],
   "business": [
     {
-      "headline": "Binance files for Brazil crypto license ahead of October 30 deadline",
-      "take": "Binance files for Brazil crypto license ahead of October 30 regulatory deadline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-files-brazil-crypto-license/"
+      "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "take": "Janus Henderson and Centrifuge launch first licensed Nasdaq-100 onchain fund",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
     },
     {
-      "headline": "Ripple Gets Final US Approval for National Trust Bank",
-      "take": "Ripple receives final US approval to launch its own national trust bank",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-27/ripple-gets-final-us-approval-for-national-trust-bank"
+      "headline": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+      "take": "Ripple and BNY Mellon explore XRP Ledger for invoice financing infrastructure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891"
     },
     {
-      "headline": "BNB Chain tokenized assets surge in Q3 as RWA supply reaches $4.96B",
-      "take": "BNB Chain tokenized assets reach $4.96B supply in Q3 real-world asset expansion",
+      "headline": "Robinhood to integrate Ripple Treasury in expanded strategic partnership",
+      "take": "Robinhood expands partnership with Ripple to integrate Treasury services",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-tokenized-assets-q3-rwa-supply/"
+      "link": "https://cryptobriefing.com/robinhood-integrates-ripple-treasury-operations/"
     },
     {
-      "headline": "BlackRock signs MOU with SBI and Startale to explore linking tokenized MMFs with yen stablecoin JPYSC",
-      "take": "BlackRock, SBI, Startale collaborate linking tokenized MMFs with yen stablecoin",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-sbi-startale-tokenized-mmf-jpysc/"
+      "headline": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "take": "Luxor mining firm raises $16M to scale AI compute business expansion",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858"
     },
     {
-      "headline": "Anthropic files for IPO as first major US AI software firm",
-      "take": "Anthropic files for IPO as major US artificial intelligence software company",
+      "headline": "Bitget Wallet targets cross-border payments with new virtual accounts",
+      "take": "Bitget Wallet targets cross-border payments with new virtual account feature",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-files-for-ipo-as-first-major-us-ai-software-firm/"
+      "link": "https://cryptobriefing.com/bitget-wallet-virtual-account-usd-eur/"
     }
   ],
   "security": [
     {
-      "headline": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-      "take": "Solana charges 1 SOL per bug report to reduce AI-driven security spam",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam"
-    },
-    {
-      "headline": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "take": "Ethereum patched Glamsterdam bug that risked sending staking deposits to builders",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders"
-    },
-    {
-      "headline": "CertiK flags Tornado Cash deposits tied to wallet behind $1.58 million drain",
-      "take": "CertiK flags Tornado Cash deposits linked to wallet draining $1.58 million",
+      "headline": "Missouri man pleads guilty in Bitcoin robbery and kidnapping scheme",
+      "take": "Missouri man pleads guilty in Bitcoin robbery and kidnapping scheme",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/certik-tornado-cash-deposits-wallet-drain/"
+      "link": "https://cryptobriefing.com/missouri-man-pleads-guilty-bitcoin-kidnapping-plot/"
+    },
+    {
+      "headline": "Polymarket investigates dozens of midterm election bets for insider trading",
+      "take": "Polymarket investigates dozens of midterm election bets for insider trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polymarket-investigates-midterm-election-insider-trading/"
+    },
+    {
+      "headline": "Northeastern study finds AI agents overstep user permissions in 19.2% of runs",
+      "take": "Northeastern study finds AI agents overstep user permissions in 19.2% of runs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/northeastern-study-ai-agents-overstep-permissions/"
     }
   ],
   "policy": [
     {
-      "headline": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
-      "take": "Ripple gains final OCC approval for national trust bank and RLUSD federal oversight",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810"
+      "headline": "Akash Network votes to migrate from Cosmos to Solana for cost efficiency",
+      "take": "Akash Network votes to migrate from Cosmos to Solana for cost efficiency",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/akash-network-votes-to-migrate-from-cosmos-to-solana-for-cost-efficiency/"
     },
     {
-      "headline": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "take": "Zcash co-founder proposes ending grant funding given $125M treasury reserves",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury"
+      "headline": "Democrats expected to regain control of US House: report",
+      "take": "Democrats expected to regain control of US House in upcoming elections",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/democrats-expected-to-regain-control-of-us-house-report/"
     }
   ]
 }

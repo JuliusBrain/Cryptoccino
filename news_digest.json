@@ -1,108 +1,108 @@
 {
-  "generated": "2026-10-28T13:07:02.470235+00:00",
-  "ts": 1793192822,
+  "generated": "2026-10-28T20:20:28.952360+00:00",
+  "ts": 1793218828,
   "market": [
     {
-      "headline": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "take": "Bitcoin rebounds above $81K as Asian chip rally extends into crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9"
-    },
-    {
-      "headline": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "take": "Nearly 90% of large businesses adopting tokenized cash for faster payments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs"
-    },
-    {
-      "headline": "Open Standard leads stablecoin market cap growth with $794M in OUSD",
-      "take": "Open Standard leads stablecoin growth with $794M OUSD market cap",
+      "headline": "Fed holds interest rates steady at 3.75% to 4% as Bitcoin approaches $81K",
+      "take": "Fed holds rates steady at 3.75\u20134% as Bitcoin approaches $81K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/open-standard-ousd-stablecoin-market-cap-growth/"
+      "link": "https://cryptobriefing.com/fed-holds-interest-rates-steady-at-3-75-to-4-as-bitcoin-approaches-81k/"
     },
     {
-      "headline": "Circle mints 750M USDC on Solana, boosting potential liquidity",
-      "take": "Circle mints 750M USDC on Solana, expanding liquidity options",
+      "headline": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
+      "take": "December rate hike remains possible despite Fed's current pause stance",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike"
+    },
+    {
+      "headline": "Treasury\u2019s Bessent highlights bond yield, oil price correlation amid inflation concerns",
+      "take": "Treasury highlights bond-yield and oil-price correlation amid inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-750m-usdc-on-solana-boosting-potential-liquidity/"
+      "link": "https://cryptobriefing.com/treasurys-bessent-highlights-bond-yield-oil-price-correlation-amid-inflation/"
+    },
+    {
+      "headline": "Gold could rebound despite hawkish Fed outlook, analyst says",
+      "take": "Gold could rebound despite hawkish Fed outlook, analysts suggest",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-prices-under-pressure-rate-hike/"
+    },
+    {
+      "headline": "Capital B targets 42,000 BTC by 2029, a nearly 12x jump from current holdings",
+      "take": "Capital B targets 42,000 BTC by 2029, nearly 12x current holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/capital-b-targets-42000-btc-2029/"
     }
   ],
   "business": [
     {
-      "headline": "Ripple targets $900M revenue run rate by 2026 with institutional growth",
-      "take": "Ripple targets $900M revenue run rate by 2026 via institutional growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-targets-900m-revenue-run-rate-by-2026-with-institutional-growth/"
-    },
-    {
-      "headline": "Ripple and Coinbase partner to expand access to $2.6 billion RLUSD stablecoin",
-      "take": "Ripple and Coinbase expand $2.6B RLUSD stablecoin access together",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-adds-ripple-rlusd-stablecoin/"
-    },
-    {
-      "headline": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
-      "take": "Goldman, BlackRock alumni raise $4M to tokenize farm and apartment loans",
+      "headline": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+      "take": "AI security startup Upwind raises $400M at $3.8B valuation",
       "source": "decrypt",
-      "link": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain"
+      "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m"
     },
     {
-      "headline": "Cancore raises $7.2 million to develop AI-powered trading for tokenized assets",
-      "take": "Cancore raises $7.2M for AI-powered trading on tokenized assets",
+      "headline": "Microsoft beats Q4 estimates as cloud and AI demand keep climbing",
+      "take": "Microsoft beats Q4 estimates as cloud and AI demand accelerate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-powered-trading-tokenized-assets/"
+      "link": "https://cryptobriefing.com/microsoft-q4-earnings-beat-cloud-ai/"
     },
     {
-      "headline": "Brazil\u2019s banking giant Ita\u00fa formalizes crypto\u00a0custody and trading services under new regulatory framework",
-      "take": "Brazil's Ita\u00fa formalizes crypto custody and trading under new rules",
+      "headline": "ServiceNow and OpenAI expand partnership with ChatGPT plugin and security features",
+      "take": "ServiceNow and OpenAI expand partnership with ChatGPT plugins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/itau-formalizes-crypto-trading-15-assets/"
+      "link": "https://cryptobriefing.com/servicenow-openai-chatgpt-plugin-security/"
+    },
+    {
+      "headline": "Anthropic unveils AI reporting tools to boost enterprise transparency",
+      "take": "Anthropic unveils AI reporting tools to boost enterprise transparency",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-unveils-ai-reporting-tools-to-boost-enterprise-transparency/"
+    },
+    {
+      "headline": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "take": "OpenAI plans to buy Google AI chips, exploring alternatives to Nvidia",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia"
     }
   ],
   "security": [
     {
-      "headline": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
-      "take": "Bithumb confirms hackers accessed internal systems, leaked personal data",
+      "headline": "Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud",
+      "take": "Treasury sanctions Russians and North Koreans in IT worker fraud scheme",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/"
+    },
+    {
+      "headline": "Trezor\u2019s Roj\u010dyk wants a human signature on every AI wallet transaction",
+      "take": "Trezor advocates for human signatures on every AI wallet transaction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trezor-rojcyk-human-signatures-ai-wallets/"
+    },
+    {
+      "headline": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
+      "take": "AI can quietly influence expert decisions 86% of the time, study finds",
       "source": "decrypt",
-      "link": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data"
-    },
-    {
-      "headline": "Cisco open sources Project Quarry to detect rogue AI agents",
-      "take": "Cisco open-sources Project Quarry to detect rogue AI agents",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cisco-open-sources-project-quarry-ai-agents/"
-    },
-    {
-      "headline": "Casap raises $33.5M to fight the fraud customers commit against their own banks",
-      "take": "Casap raises $33.5M to combat fraud customers commit against banks",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/casap-raises-56m-customer-fraud-banking/"
+      "link": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions"
     }
   ],
   "policy": [
     {
-      "headline": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-      "take": "Moody's rates Ripple's RLUSD stablecoin A2 after OCC approval",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval"
-    },
-    {
-      "headline": "Thailand\u2019s Supreme Court rules Bitcoin qualifies as property in robbery case",
-      "take": "Thailand's Supreme Court rules Bitcoin qualifies as property legally",
+      "headline": "Anthropic flags US data center moratoriums as top growth risk in S-1 filing",
+      "take": "Anthropic flags US data center moratoriums as key growth risk",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thailand-supreme-court-bitcoin-legal-property/"
+      "link": "https://cryptobriefing.com/anthropic-flags-us-data-center-moratoriums-as-top-growth-risk-in-s-1-filing/"
     },
     {
-      "headline": "Google previews crypto custody security system for banks, with broader rollout expected around 2027",
-      "take": "Google previews crypto custody security system for banks, 2027 rollout",
+      "headline": "US DOJ examines Nvidia\u2019s $12.93 billion Hugging Face acquisition",
+      "take": "US DOJ examines Nvidia's $12.93 billion Hugging Face acquisition",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-multi-party-compute-crypto-custody-banks/"
+      "link": "https://cryptobriefing.com/doj-examines-nvidia-hugging-face-acquisition/"
     },
     {
-      "headline": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
-      "take": "JPMorgan, BlackRock, Coca-Cola, Dell oppose OKX-ICE tokenized stock plan",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan"
+      "headline": "UK fast-tracks grid access for strategic AI data centres",
+      "take": "UK fast-tracks grid access for strategic AI data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-fast-tracks-grid-access-ai-data-centres/"
     }
   ]
 }

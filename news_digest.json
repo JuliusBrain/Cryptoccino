@@ -1,120 +1,108 @@
 {
-  "generated": "2026-10-28T05:51:58.572461+00:00",
-  "ts": 1793166718,
+  "generated": "2026-10-28T13:07:02.470235+00:00",
+  "ts": 1793192822,
   "market": [
     {
-      "headline": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "take": "Bitcoin approaches $81,000 before Federal Reserve decision announcement",
+      "headline": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "take": "Bitcoin rebounds above $81K as Asian chip rally extends into crypto",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9"
     },
     {
-      "headline": "Fidelity ETF clients buy $24.54 million worth of Bitcoin",
-      "take": "Fidelity Bitcoin ETF clients purchase $24.54 million in holdings",
+      "headline": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "take": "Nearly 90% of large businesses adopting tokenized cash for faster payments",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs"
+    },
+    {
+      "headline": "Open Standard leads stablecoin market cap growth with $794M in OUSD",
+      "take": "Open Standard leads stablecoin growth with $794M OUSD market cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-etf-clients-buy-bitcoin-fbtc/"
+      "link": "https://cryptobriefing.com/open-standard-ousd-stablecoin-market-cap-growth/"
     },
     {
-      "headline": "Ark Invest adds 35,403 Circle shares in $2.9 million ARKW buy",
-      "take": "Ark Invest adds 35,403 Circle shares in $2.9 million purchase",
+      "headline": "Circle mints 750M USDC on Solana, boosting potential liquidity",
+      "take": "Circle mints 750M USDC on Solana, expanding liquidity options",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-buys-circle-shares-arkw/"
-    },
-    {
-      "headline": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
-      "take": "Robinhood Chain raises $26 million as crypto revenue climbs 20%",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935"
-    },
-    {
-      "headline": "USDC Treasury mints 250 million USDC on Solana as October pattern continues",
-      "take": "USDC Treasury mints 250 million USDC on Solana network",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-solana/"
+      "link": "https://cryptobriefing.com/circle-mints-750m-usdc-on-solana-boosting-potential-liquidity/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic taps JPMorgan to lead US retail slice of its IPO",
-      "take": "Anthropic taps JPMorgan to lead US retail portion of IPO",
+      "headline": "Ripple targets $900M revenue run rate by 2026 with institutional growth",
+      "take": "Ripple targets $900M revenue run rate by 2026 via institutional growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-jpmorgan-lead-us-retail-ipo/"
+      "link": "https://cryptobriefing.com/ripple-targets-900m-revenue-run-rate-by-2026-with-institutional-growth/"
     },
     {
-      "headline": "DBS survey finds 88% of large businesses are using or piloting tokenised money",
-      "take": "DBS survey finds 88% of large businesses testing tokenized money",
+      "headline": "Ripple and Coinbase partner to expand access to $2.6 billion RLUSD stablecoin",
+      "take": "Ripple and Coinbase expand $2.6B RLUSD stablecoin access together",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dbs-survey-businesses-tokenised-money/"
+      "link": "https://cryptobriefing.com/coinbase-adds-ripple-rlusd-stablecoin/"
     },
     {
-      "headline": "Binance credits ASMLB holders with $1.79 per share dividend in extra tokens",
-      "take": "Binance credits ASMLB holders with $1.79 per share dividend",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-asmlb-dividend-179-per-share/"
+      "headline": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+      "take": "Goldman, BlackRock alumni raise $4M to tokenize farm and apartment loans",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain"
     },
     {
-      "headline": "Base plans 200ms block times with Denim mainnet upgrade",
-      "take": "Base plans 200 millisecond block times with Denim upgrade",
+      "headline": "Cancore raises $7.2 million to develop AI-powered trading for tokenized assets",
+      "take": "Cancore raises $7.2M for AI-powered trading on tokenized assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-denim-200ms-block-times-mainnet/"
+      "link": "https://cryptobriefing.com/ai-powered-trading-tokenized-assets/"
     },
     {
-      "headline": "Vitalik Buterin sends $1M in USDC to his Kanro Fund",
-      "take": "Vitalik Buterin donates $1 million USDC to Kanro Fund",
+      "headline": "Brazil\u2019s banking giant Ita\u00fa formalizes crypto\u00a0custody and trading services under new regulatory framework",
+      "take": "Brazil's Ita\u00fa formalizes crypto custody and trading under new rules",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vitalik-buterin-1m-usdc-kanro-fund/"
+      "link": "https://cryptobriefing.com/itau-formalizes-crypto-trading-15-assets/"
     }
   ],
   "security": [
     {
-      "headline": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "take": "Bithumb hacked through employee system amid South Korean cyber attacks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
+      "headline": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+      "take": "Bithumb confirms hackers accessed internal systems, leaked personal data",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data"
     },
     {
-      "headline": "Bitcoin treasury Datavault AI plunges 50% after firm says it can\u2019t access its BTC",
-      "take": "Datavault AI plunges 50% after losing access to $150 million Bitcoin",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
-    },
-    {
-      "headline": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "take": "Coinbase user data exposed by third-party Amplitude vendor incident",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
-    },
-    {
-      "headline": "Solflare says staking provider security incident halted its validator\u2019s rewards",
-      "take": "Solflare staking provider security incident halted validator rewards",
+      "headline": "Cisco open sources Project Quarry to detect rogue AI agents",
+      "take": "Cisco open-sources Project Quarry to detect rogue AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/"
+      "link": "https://cryptobriefing.com/cisco-open-sources-project-quarry-ai-agents/"
     },
     {
-      "headline": "International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service",
-      "take": "Law enforcement seizes domain of Virtualine bulletproof hosting service",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/"
+      "headline": "Casap raises $33.5M to fight the fraud customers commit against their own banks",
+      "take": "Casap raises $33.5M to combat fraud customers commit against banks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/casap-raises-56m-customer-fraud-banking/"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi CEO Tarek Mansour makes the case for prediction markets as legal fights pile up",
-      "take": "Kalshi CEO defends prediction markets amid mounting legal challenges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-ceo-prediction-markets-regulatory-challenges/"
+      "headline": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+      "take": "Moody's rates Ripple's RLUSD stablecoin A2 after OCC approval",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval"
     },
     {
-      "headline": "Anthropic seeks FedRAMP Moderate approval for Claude Enterprise through 20x program",
-      "take": "Anthropic seeks FedRAMP Moderate approval for Claude Enterprise government",
+      "headline": "Thailand\u2019s Supreme Court rules Bitcoin qualifies as property in robbery case",
+      "take": "Thailand's Supreme Court rules Bitcoin qualifies as property legally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-enterprise-fedramp-moderate-20x/"
+      "link": "https://cryptobriefing.com/thailand-supreme-court-bitcoin-legal-property/"
     },
     {
-      "headline": "Bessent says the US will win in digital assets and strengthen the dollar",
-      "take": "Treasury Secretary Bessent says US will lead in digital assets",
+      "headline": "Google previews crypto custody security system for banks, with broader rollout expected around 2027",
+      "take": "Google previews crypto custody security system for banks, 2027 rollout",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-us-win-digital-assets-dollar/"
+      "link": "https://cryptobriefing.com/google-multi-party-compute-crypto-custody-banks/"
+    },
+    {
+      "headline": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "take": "JPMorgan, BlackRock, Coca-Cola, Dell oppose OKX-ICE tokenized stock plan",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan"
     }
   ]
 }

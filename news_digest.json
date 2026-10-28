@@ -1,108 +1,120 @@
 {
-  "generated": "2026-10-27T22:21:22.397356+00:00",
-  "ts": 1793139682,
+  "generated": "2026-10-28T05:51:58.572461+00:00",
+  "ts": 1793166718,
   "market": [
     {
-      "headline": "Robinhood posts $808 million in Q3 adjusted EBITDA as crypto revenue falls 55%",
-      "take": "Robinhood Q3 EBITDA reaches $808 million despite crypto revenue falling 55%",
+      "headline": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "take": "Bitcoin approaches $81,000 before Federal Reserve decision announcement",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
+    },
+    {
+      "headline": "Fidelity ETF clients buy $24.54 million worth of Bitcoin",
+      "take": "Fidelity Bitcoin ETF clients purchase $24.54 million in holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-q3-adjusted-ebitda-808m/"
+      "link": "https://cryptobriefing.com/fidelity-etf-clients-buy-bitcoin-fbtc/"
     },
     {
-      "headline": "Spiko\u2019s tokenized funds hit $3 billion market cap, up 536% in a year",
-      "take": "Spiko tokenized funds hit $3 billion market cap, up 536% year-over-year",
+      "headline": "Ark Invest adds 35,403 Circle shares in $2.9 million ARKW buy",
+      "take": "Ark Invest adds 35,403 Circle shares in $2.9 million purchase",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spiko-tokenized-funds-3-billion-market-cap/"
+      "link": "https://cryptobriefing.com/ark-invest-buys-circle-shares-arkw/"
     },
     {
-      "headline": "Bankman-Fried Favorite Solana Faces Crossroad While Courting Wall Street",
-      "take": "Solana faces strategic crossroads while pursuing institutional Wall Street partnerships",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/bankman-fried-favorite-solana-faces-crossroad-while-courting-wall-street"
+      "headline": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
+      "take": "Robinhood Chain raises $26 million as crypto revenue climbs 20%",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935"
     },
     {
-      "headline": "Polymarket US launches 5-minute crypto up or down markets",
-      "take": "Polymarket US launches 5-minute crypto price prediction markets",
+      "headline": "USDC Treasury mints 250 million USDC on Solana as October pattern continues",
+      "take": "USDC Treasury mints 250 million USDC on Solana network",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-us-five-minute-crypto-markets/"
-    },
-    {
-      "headline": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
-      "take": "China stock market lost $2.4 trillion as investor AI boom skepticism deepens",
-      "source": "decrypt",
-      "link": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom"
+      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-solana/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic reveals $131.7 billion cash pile in IPO filing",
-      "take": "Anthropic IPO filing reveals $131.7 billion cash pile and human extinction risk",
+      "headline": "Anthropic taps JPMorgan to lead US retail slice of its IPO",
+      "take": "Anthropic taps JPMorgan to lead US retail portion of IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-131-billion-cash-ipo-filing/"
+      "link": "https://cryptobriefing.com/anthropic-jpmorgan-lead-us-retail-ipo/"
     },
     {
-      "headline": "Robinhood adopts Ripple\u2019s RLUSD stablecoin, expands institutional services",
-      "take": "Robinhood adopts Ripple's RLUSD stablecoin, expands institutional services",
+      "headline": "DBS survey finds 88% of large businesses are using or piloting tokenised money",
+      "take": "DBS survey finds 88% of large businesses testing tokenized money",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-adopts-ripples-rlusd-stablecoin-expands-institutional-services/"
+      "link": "https://cryptobriefing.com/dbs-survey-businesses-tokenised-money/"
     },
     {
-      "headline": "Cerebras Systems stock jumps about 10% on Oracle cloud collaboration",
-      "take": "Cerebras Systems stock jumps 10% on Oracle cloud collaboration announcement",
+      "headline": "Binance credits ASMLB holders with $1.79 per share dividend in extra tokens",
+      "take": "Binance credits ASMLB holders with $1.79 per share dividend",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cerebras-stock-jumps-oracle-collaboration/"
+      "link": "https://cryptobriefing.com/binance-asmlb-dividend-179-per-share/"
     },
     {
-      "headline": "Robinhood says about 200,000 customers have opened AI-powered trading accounts",
-      "take": "Robinhood reports 200,000 customers opened AI-powered trading accounts",
+      "headline": "Base plans 200ms block times with Denim mainnet upgrade",
+      "take": "Base plans 200 millisecond block times with Denim upgrade",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robinhood-ai-trading-accounts-200k-customers/"
+      "link": "https://cryptobriefing.com/base-denim-200ms-block-times-mainnet/"
     },
     {
-      "headline": "Anthropic partners with six companies to push Claude into drug discovery",
-      "take": "Anthropic partners with six companies to integrate Claude into drug discovery",
+      "headline": "Vitalik Buterin sends $1M in USDC to his Kanro Fund",
+      "take": "Vitalik Buterin donates $1 million USDC to Kanro Fund",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-drug-discovery-partnerships/"
+      "link": "https://cryptobriefing.com/vitalik-buterin-1m-usdc-kanro-fund/"
     }
   ],
   "security": [
     {
-      "headline": "International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service",
-      "take": "Law enforcement seizes Virtualine bulletproof hosting service domain",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/"
+      "headline": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "take": "Bithumb hacked through employee system amid South Korean cyber attacks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
     },
     {
-      "headline": "Bank of America warns customers against sharing passwords with AI assistants",
-      "take": "Bank of America warns customers against sharing passwords with AI assistants",
+      "headline": "Bitcoin treasury Datavault AI plunges 50% after firm says it can\u2019t access its BTC",
+      "take": "Datavault AI plunges 50% after losing access to $150 million Bitcoin",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+    },
+    {
+      "headline": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "take": "Coinbase user data exposed by third-party Amplitude vendor incident",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
+    },
+    {
+      "headline": "Solflare says staking provider security incident halted its validator\u2019s rewards",
+      "take": "Solflare staking provider security incident halted validator rewards",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-america-ai-assistants-passwords/"
+      "link": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/"
+    },
+    {
+      "headline": "International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service",
+      "take": "Law enforcement seizes domain of Virtualine bulletproof hosting service",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury tracks and freezes Iranian crypto funds, Bessent says",
-      "take": "US Treasury tracks and freezes Iranian cryptocurrency funds, Bessent confirms",
+      "headline": "Kalshi CEO Tarek Mansour makes the case for prediction markets as legal fights pile up",
+      "take": "Kalshi CEO defends prediction markets amid mounting legal challenges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-freezes-iranian-crypto-funds/"
+      "link": "https://cryptobriefing.com/kalshi-ceo-prediction-markets-regulatory-challenges/"
+    },
+    {
+      "headline": "Anthropic seeks FedRAMP Moderate approval for Claude Enterprise through 20x program",
+      "take": "Anthropic seeks FedRAMP Moderate approval for Claude Enterprise government",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-enterprise-fedramp-moderate-20x/"
     },
     {
       "headline": "Bessent says the US will win in digital assets and strengthen the dollar",
-      "take": "Treasury Secretary Bessent says US will win digital assets race, strengthen dollar",
+      "take": "Treasury Secretary Bessent says US will lead in digital assets",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bessent-us-win-digital-assets-dollar/"
-    },
-    {
-      "headline": "Delaware\u2019s AI-run company proposal draws congressional scrutiny over owner liability",
-      "take": "Delaware AI-run company proposal draws congressional scrutiny over owner liability",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/delaware-ai-run-companies-comer-liability/"
-    },
-    {
-      "headline": "Kalshi caps deposits for traders aged 18 to 20 ahead of US midterms",
-      "take": "Kalshi caps deposits for traders aged 18 to 20 ahead of midterms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-young-trader-safeguards-midterms/"
     }
   ]
 }

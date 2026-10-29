@@ -1,102 +1,108 @@
 {
-  "generated": "2026-10-29T10:07:44.772197+00:00",
-  "ts": 1793268464,
+  "generated": "2026-10-29T18:31:28.538575+00:00",
+  "ts": 1793298688,
   "market": [
     {
-      "headline": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-      "take": "Bitcoin drops below eighty thousand amid tech sector uncertainty and Fed hawkishness",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+      "headline": "$11 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
+      "take": "Eleven billion dollars in Bitcoin options expire tomorrow, shaping price direction",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means"
     },
     {
-      "headline": "US Bitcoin ETFs attract $137M, Ether funds see $21M outflows",
-      "take": "Bitcoin ETFs see inflows while Ethereum funds experience outflows this week",
+      "headline": "Bitcoin rebounds as investors reassess rate outlook amid AI stock sell-off",
+      "take": "Bitcoin rebounds as investors reassess rate outlook amid AI stock sell-off",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-bitcoin-etfs-137m-inflows-ether-outflows/"
+      "link": "https://cryptobriefing.com/bitcoin-market-dynamics-amid-ai-selloff/"
     },
     {
-      "headline": "Tokenized stocks hit $4.63 billion, matching stablecoins\u2019 March 2020 size",
-      "take": "Tokenized stocks reach four point six billion, matching stablecoins from early pandemic",
+      "headline": "TRON leads stablecoin market cap growth with $279.5M in 24 hours",
+      "take": "TRON leads stablecoin market cap growth with 279.5 million in 24 hours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-hit-4-63-billion-market-cap/"
+      "link": "https://cryptobriefing.com/tron-leads-stablecoin-market-cap-growth/"
     },
     {
-      "headline": "Morpho Blue closes in on Aave V3 in stablecoin supply",
-      "take": "Morpho Blue stablecoin supply approaching Aave V3 levels in DeFi competition",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-blue-nears-aave-v3-stablecoin-supply/"
+      "headline": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+      "take": "Hyperliquid token jumps 13 percent as ICE moves perpetual futures toward US",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us"
     },
     {
-      "headline": "Pendle posts first TVL gain in a year as real-world assets take over",
-      "take": "Pendle achieves first TVL gain in year as real-world assets gain traction",
+      "headline": "Vanguard\u2019s stake in Bitcoin treasury firm Strive climbs to $51.5 million",
+      "take": "Vanguard's stake in Bitcoin treasury firm Strive climbs to 51.5 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-q3-tvl-rises-43-percent-rwa/"
+      "link": "https://cryptobriefing.com/vanguard-stake-strive-bitcoin-treasury/"
     }
   ],
   "business": [
     {
-      "headline": "Bermuda taps WalletConnect to bring crypto payments to PTIX event tickets",
-      "take": "Bermuda integrates WalletConnect for crypto payments in onchain economy expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bermuda-walletconnect-ptix-crypto-payments/"
-    },
-    {
-      "headline": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-      "take": "Former Swift CEO Lazaro Campos joins OpenTrade stablecoin firm as chairman",
+      "headline": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "take": "Polygon and Solana partner to bring stablecoin payments to banks",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise"
+      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
     },
     {
-      "headline": "Hyperliquid burns $4B in HYPE tokens, reducing supply by nearly 5%",
-      "take": "Hyperliquid burns four billion HYPE tokens, reducing circulating supply by five percent",
+      "headline": "Shopify and Coinbase\u2019s stablecoin payment protocol tops $42M in volume on Base",
+      "take": "Shopify and Coinbase stablecoin payment protocol tops 42 million in volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-burns-4b-in-hype-tokens-reducing-supply-by-nearly-5/"
+      "link": "https://cryptobriefing.com/stablecoin-payment-protocol-shopify-coinbase/"
     },
     {
-      "headline": "Anthropic could begin marketing its IPO the week of Nov. 9",
-      "take": "Anthropic to begin IPO marketing campaign starting week of November ninth",
+      "headline": "MoonPay partners with Whop to let AI agents shop and pay for users",
+      "take": "MoonPay partners with Whop to let AI agents shop and pay",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-could-begin-marketing-its-ipo-the-week-of-nov-9/"
+      "link": "https://cryptobriefing.com/moonpay-whop-ai-agent-payments/"
+    },
+    {
+      "headline": "Stellar climbs to second place in active developers, behind only Ethereum",
+      "take": "Stellar climbs to second place in active developers, behind only Ethereum",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stellar-ranks-second-active-developers/"
+    },
+    {
+      "headline": "Ethena says it has paid out over $800M in USDe ecosystem rewards",
+      "take": "Ethena says it has paid out over 800 million in ecosystem rewards",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethena-800m-usde-rewards-fee-switch/"
     }
   ],
   "security": [
     {
-      "headline": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-      "take": "AI discovered method to crash Bitcoin nodes on Windows and Mac systems publicly",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"
-    },
-    {
-      "headline": "Ethereum clients patch vulnerability to prevent ETH reward redirection",
-      "take": "Ethereum clients patch vulnerability preventing unauthorized ETH validator reward redirection",
+      "headline": "Polymarket restricts trading to cancel-only mode amid wallet drain reports",
+      "take": "Polymarket restricts trading to cancel-only mode amid wallet drain reports",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-patch-glamsterdam-deposit-vulnerability/"
-    },
-    {
-      "headline": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-      "take": "Indian certificate authority security breach affects Ethereum, developers issue rapid fixes",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards"
+      "link": "https://cryptobriefing.com/polymarket-cancel-only-mode-wallet-drain/"
     }
   ],
   "policy": [
     {
-      "headline": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "take": "Thai Supreme Court rules Bitcoin qualifies as property in criminal theft conviction case",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction"
+      "headline": "French Senate adopts bill for automatic sharing of crypto tax data",
+      "take": "French Senate adopts bill for automatic sharing of crypto tax data",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Utah charges predictions platform Kalshi with illegal gambling",
-      "take": "Utah files criminal charges against Kalshi prediction platform alleging illegal gambling operations",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling"
-    },
-    {
-      "headline": "CFTC chief Selig envisions AI agents trading crypto on their own",
-      "take": "CFTC chief envisions future where AI agents autonomously trade cryptocurrency markets",
+      "headline": "Thailand\u2019s Supreme Court rules Bitcoin is property under criminal law",
+      "take": "Thailand's Supreme Court rules Bitcoin is property under criminal law",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-selig-ai-autonomous-trading-crypto/"
+      "link": "https://cryptobriefing.com/thailand-supreme-court-bitcoin-property-ruling/"
+    },
+    {
+      "headline": "Ripple\u2019s chief legal officer calls for clear crypto safety rules under the GENIUS Act",
+      "take": "Ripple's chief legal officer calls for clear crypto safety rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-alderoty-genius-act-crypto-safety-rules/"
+    },
+    {
+      "headline": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "take": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from sanctions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
+    },
+    {
+      "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "take": "Crypto exchange HTX exits UK after settling with the FCA",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
     }
   ]
 }

@@ -1,120 +1,102 @@
 {
-  "generated": "2026-10-29T01:01:32.891469+00:00",
-  "ts": 1793235692,
+  "generated": "2026-10-29T10:07:44.772197+00:00",
+  "ts": 1793268464,
   "market": [
     {
-      "headline": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-      "take": "Bitcoin options expiry of $11 billion could trigger volatility in coming sessions",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry"
-    },
-    {
-      "headline": "Strategy shares hit 5-month high; Saylor eyes Bitcoin buys at $100 mark",
-      "take": "Strategy shares hit five-month high; Saylor signals interest in Bitcoin purchases",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strategy-shares-hit-5-month-high-saylor-eyes-bitcoin-buys-at-100-mark/"
-    },
-    {
-      "headline": "Wall Street moves past the Fed pause and back to tech earnings and AI",
-      "take": "Wall Street attention shifts from Fed policy to tech earnings and AI progress",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wall-street-tech-earnings-ai-fed-pause/"
-    },
-    {
-      "headline": "DekaBank buys $15.2 million in shares of Bitcoin treasury firm Strategy",
-      "take": "German asset manager buys $15.2 million stake in Bitcoin treasury firm Strategy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dekabank-buys-strategy-shares-bitcoin/"
-    },
-    {
-      "headline": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "take": "Bitcoin-backed mortgages launching in Canada despite limited borrower awareness",
+      "headline": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "take": "Bitcoin drops below eighty thousand amid tech sector uncertainty and Fed hawkishness",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost"
+      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+    },
+    {
+      "headline": "US Bitcoin ETFs attract $137M, Ether funds see $21M outflows",
+      "take": "Bitcoin ETFs see inflows while Ethereum funds experience outflows this week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-bitcoin-etfs-137m-inflows-ether-outflows/"
+    },
+    {
+      "headline": "Tokenized stocks hit $4.63 billion, matching stablecoins\u2019 March 2020 size",
+      "take": "Tokenized stocks reach four point six billion, matching stablecoins from early pandemic",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-stocks-hit-4-63-billion-market-cap/"
+    },
+    {
+      "headline": "Morpho Blue closes in on Aave V3 in stablecoin supply",
+      "take": "Morpho Blue stablecoin supply approaching Aave V3 levels in DeFi competition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morpho-blue-nears-aave-v3-stablecoin-supply/"
+    },
+    {
+      "headline": "Pendle posts first TVL gain in a year as real-world assets take over",
+      "take": "Pendle achieves first TVL gain in year as real-world assets gain traction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pendle-q3-tvl-rises-43-percent-rwa/"
     }
   ],
   "business": [
     {
-      "headline": "Aviva Investors tokenizes \u00a350 million share class of Sterling Liquidity Fund on XRP Ledger",
-      "take": "Aviva Investors tokenizes \u00a350 million sterling fund share class on XRP Ledger",
+      "headline": "Bermuda taps WalletConnect to bring crypto payments to PTIX event tickets",
+      "take": "Bermuda integrates WalletConnect for crypto payments in onchain economy expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aviva-investors-tokenizes-sterling-liquidity-fund-xrp-ledger/"
+      "link": "https://cryptobriefing.com/bermuda-walletconnect-ptix-crypto-payments/"
     },
     {
-      "headline": "London Metal Exchange explores tokenizing Hong Kong warehouse metal for financing",
-      "take": "London Metal Exchange explores tokenizing warehouse metal holdings for improved financing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lme-tokenize-hong-kong-warehouse-metal/"
+      "headline": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "take": "Former Swift CEO Lazaro Campos joins OpenTrade stablecoin firm as chairman",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise"
     },
     {
-      "headline": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-      "take": "AI security startup Upwind raises $400 million at $3.8 billion valuation",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m"
+      "headline": "Hyperliquid burns $4B in HYPE tokens, reducing supply by nearly 5%",
+      "take": "Hyperliquid burns four billion HYPE tokens, reducing circulating supply by five percent",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-burns-4b-in-hype-tokens-reducing-supply-by-nearly-5/"
     },
     {
-      "headline": "Solana introduces BP Badges for Breakpoint 2026 attendees",
-      "take": "Solana introduces BP Badges program for Breakpoint 2026 conference attendees",
+      "headline": "Anthropic could begin marketing its IPO the week of Nov. 9",
+      "take": "Anthropic to begin IPO marketing campaign starting week of November ninth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-bp-badge-breakpoint-2026/"
-    },
-    {
-      "headline": "Microsoft Foundry passes 120,000 customers as revenue more than triples",
-      "take": "Microsoft Foundry surpasses 120,000 customers with revenue more than tripling",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-foundry-120000-customers-revenue-triples/"
+      "link": "https://cryptobriefing.com/anthropic-could-begin-marketing-its-ipo-the-week-of-nov-9/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin Core bug lets malicious peers crash Windows and Mac nodes",
-      "take": "Bitcoin Core vulnerability allows malicious peers to crash Windows and Mac nodes",
+      "headline": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "take": "AI discovered method to crash Bitcoin nodes on Windows and Mac systems publicly",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"
+    },
+    {
+      "headline": "Ethereum clients patch vulnerability to prevent ETH reward redirection",
+      "take": "Ethereum clients patch vulnerability preventing unauthorized ETH validator reward redirection",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-core-bug-crashes-windows-mac-nodes/"
+      "link": "https://cryptobriefing.com/ethereum-patch-glamsterdam-deposit-vulnerability/"
     },
     {
-      "headline": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
-      "take": "Bitcoin Treasury Datavault AI reports inaccessible BTC holdings; stock price tanks",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc"
-    },
-    {
-      "headline": "Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud",
-      "take": "Treasury sanctions Russians and North Koreans coordinating DPRK IT worker fraud scheme",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/"
-    },
-    {
-      "headline": "TikTok researchers warn that MCP tools can quietly turn AI agents against their users",
-      "take": "TikTok researchers warn MCP tools could covertly redirect AI agent behavior",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tiktok-paper-mcp-llm-agent-security-risks/"
+      "headline": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "take": "Indian certificate authority security breach affects Ethereum, developers issue rapid fixes",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards"
     }
   ],
   "policy": [
     {
-      "headline": "Utah files criminal gambling charges against Kalshi and its co-founders",
-      "take": "Utah files criminal gambling charges against prediction market Kalshi and founders",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/utah-criminal-charges-kalshi-gambling/"
-    },
-    {
-      "headline": "CFTC to host public roundtable on 24/7 derivatives trading on Dec. 15",
-      "take": "CFTC to host public roundtable on twenty-four-seven derivatives trading December fifteenth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-roundtable-24-7-derivatives-trading/"
-    },
-    {
-      "headline": "Canadian \u2018crypto king\u2019 case to go to jury as criminal trial winds down",
-      "take": "Canadian crypto king criminal trial nears jury verdict after extended proceedings",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-      "take": "CFTC chief raises AI policing concerns but views autonomous trading as eventual path",
+      "headline": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "take": "Thai Supreme Court rules Bitcoin qualifies as property in criminal theft conviction case",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading"
+      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction"
+    },
+    {
+      "headline": "Utah charges predictions platform Kalshi with illegal gambling",
+      "take": "Utah files criminal charges against Kalshi prediction platform alleging illegal gambling operations",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling"
+    },
+    {
+      "headline": "CFTC chief Selig envisions AI agents trading crypto on their own",
+      "take": "CFTC chief envisions future where AI agents autonomously trade cryptocurrency markets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-selig-ai-autonomous-trading-crypto/"
     }
   ]
 }

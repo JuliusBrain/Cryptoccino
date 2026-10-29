@@ -1,108 +1,120 @@
 {
-  "generated": "2026-10-28T20:20:28.952360+00:00",
-  "ts": 1793218828,
+  "generated": "2026-10-29T01:01:32.891469+00:00",
+  "ts": 1793235692,
   "market": [
     {
-      "headline": "Fed holds interest rates steady at 3.75% to 4% as Bitcoin approaches $81K",
-      "take": "Fed holds rates steady at 3.75\u20134% as Bitcoin approaches $81K",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-holds-interest-rates-steady-at-3-75-to-4-as-bitcoin-approaches-81k/"
+      "headline": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+      "take": "Bitcoin options expiry of $11 billion could trigger volatility in coming sessions",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry"
     },
     {
-      "headline": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
-      "take": "December rate hike remains possible despite Fed's current pause stance",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike"
+      "headline": "Strategy shares hit 5-month high; Saylor eyes Bitcoin buys at $100 mark",
+      "take": "Strategy shares hit five-month high; Saylor signals interest in Bitcoin purchases",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/strategy-shares-hit-5-month-high-saylor-eyes-bitcoin-buys-at-100-mark/"
     },
     {
-      "headline": "Treasury\u2019s Bessent highlights bond yield, oil price correlation amid inflation concerns",
-      "take": "Treasury highlights bond-yield and oil-price correlation amid inflation concerns",
+      "headline": "Wall Street moves past the Fed pause and back to tech earnings and AI",
+      "take": "Wall Street attention shifts from Fed policy to tech earnings and AI progress",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasurys-bessent-highlights-bond-yield-oil-price-correlation-amid-inflation/"
+      "link": "https://cryptobriefing.com/wall-street-tech-earnings-ai-fed-pause/"
     },
     {
-      "headline": "Gold could rebound despite hawkish Fed outlook, analyst says",
-      "take": "Gold could rebound despite hawkish Fed outlook, analysts suggest",
+      "headline": "DekaBank buys $15.2 million in shares of Bitcoin treasury firm Strategy",
+      "take": "German asset manager buys $15.2 million stake in Bitcoin treasury firm Strategy",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-under-pressure-rate-hike/"
+      "link": "https://cryptobriefing.com/dekabank-buys-strategy-shares-bitcoin/"
     },
     {
-      "headline": "Capital B targets 42,000 BTC by 2029, a nearly 12x jump from current holdings",
-      "take": "Capital B targets 42,000 BTC by 2029, nearly 12x current holdings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/capital-b-targets-42000-btc-2029/"
+      "headline": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "take": "Bitcoin-backed mortgages launching in Canada despite limited borrower awareness",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost"
     }
   ],
   "business": [
     {
+      "headline": "Aviva Investors tokenizes \u00a350 million share class of Sterling Liquidity Fund on XRP Ledger",
+      "take": "Aviva Investors tokenizes \u00a350 million sterling fund share class on XRP Ledger",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aviva-investors-tokenizes-sterling-liquidity-fund-xrp-ledger/"
+    },
+    {
+      "headline": "London Metal Exchange explores tokenizing Hong Kong warehouse metal for financing",
+      "take": "London Metal Exchange explores tokenizing warehouse metal holdings for improved financing",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lme-tokenize-hong-kong-warehouse-metal/"
+    },
+    {
       "headline": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-      "take": "AI security startup Upwind raises $400M at $3.8B valuation",
+      "take": "AI security startup Upwind raises $400 million at $3.8 billion valuation",
       "source": "decrypt",
       "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m"
     },
     {
-      "headline": "Microsoft beats Q4 estimates as cloud and AI demand keep climbing",
-      "take": "Microsoft beats Q4 estimates as cloud and AI demand accelerate",
+      "headline": "Solana introduces BP Badges for Breakpoint 2026 attendees",
+      "take": "Solana introduces BP Badges program for Breakpoint 2026 conference attendees",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-q4-earnings-beat-cloud-ai/"
+      "link": "https://cryptobriefing.com/solana-bp-badge-breakpoint-2026/"
     },
     {
-      "headline": "ServiceNow and OpenAI expand partnership with ChatGPT plugin and security features",
-      "take": "ServiceNow and OpenAI expand partnership with ChatGPT plugins",
+      "headline": "Microsoft Foundry passes 120,000 customers as revenue more than triples",
+      "take": "Microsoft Foundry surpasses 120,000 customers with revenue more than tripling",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/servicenow-openai-chatgpt-plugin-security/"
-    },
-    {
-      "headline": "Anthropic unveils AI reporting tools to boost enterprise transparency",
-      "take": "Anthropic unveils AI reporting tools to boost enterprise transparency",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-unveils-ai-reporting-tools-to-boost-enterprise-transparency/"
-    },
-    {
-      "headline": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-      "take": "OpenAI plans to buy Google AI chips, exploring alternatives to Nvidia",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia"
+      "link": "https://cryptobriefing.com/microsoft-foundry-120000-customers-revenue-triples/"
     }
   ],
   "security": [
     {
+      "headline": "Bitcoin Core bug lets malicious peers crash Windows and Mac nodes",
+      "take": "Bitcoin Core vulnerability allows malicious peers to crash Windows and Mac nodes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-core-bug-crashes-windows-mac-nodes/"
+    },
+    {
+      "headline": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
+      "take": "Bitcoin Treasury Datavault AI reports inaccessible BTC holdings; stock price tanks",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc"
+    },
+    {
       "headline": "Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud",
-      "take": "Treasury sanctions Russians and North Koreans in IT worker fraud scheme",
+      "take": "Treasury sanctions Russians and North Koreans coordinating DPRK IT worker fraud scheme",
       "source": "chainalysis",
       "link": "https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/"
     },
     {
-      "headline": "Trezor\u2019s Roj\u010dyk wants a human signature on every AI wallet transaction",
-      "take": "Trezor advocates for human signatures on every AI wallet transaction",
+      "headline": "TikTok researchers warn that MCP tools can quietly turn AI agents against their users",
+      "take": "TikTok researchers warn MCP tools could covertly redirect AI agent behavior",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trezor-rojcyk-human-signatures-ai-wallets/"
-    },
-    {
-      "headline": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
-      "take": "AI can quietly influence expert decisions 86% of the time, study finds",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions"
+      "link": "https://cryptobriefing.com/tiktok-paper-mcp-llm-agent-security-risks/"
     }
   ],
   "policy": [
     {
-      "headline": "Anthropic flags US data center moratoriums as top growth risk in S-1 filing",
-      "take": "Anthropic flags US data center moratoriums as key growth risk",
+      "headline": "Utah files criminal gambling charges against Kalshi and its co-founders",
+      "take": "Utah files criminal gambling charges against prediction market Kalshi and founders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-flags-us-data-center-moratoriums-as-top-growth-risk-in-s-1-filing/"
+      "link": "https://cryptobriefing.com/utah-criminal-charges-kalshi-gambling/"
     },
     {
-      "headline": "US DOJ examines Nvidia\u2019s $12.93 billion Hugging Face acquisition",
-      "take": "US DOJ examines Nvidia's $12.93 billion Hugging Face acquisition",
+      "headline": "CFTC to host public roundtable on 24/7 derivatives trading on Dec. 15",
+      "take": "CFTC to host public roundtable on twenty-four-seven derivatives trading December fifteenth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doj-examines-nvidia-hugging-face-acquisition/"
+      "link": "https://cryptobriefing.com/cftc-roundtable-24-7-derivatives-trading/"
     },
     {
-      "headline": "UK fast-tracks grid access for strategic AI data centres",
-      "take": "UK fast-tracks grid access for strategic AI data centers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-fast-tracks-grid-access-ai-data-centres/"
+      "headline": "Canadian \u2018crypto king\u2019 case to go to jury as criminal trial winds down",
+      "take": "Canadian crypto king criminal trial nears jury verdict after extended proceedings",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "take": "CFTC chief raises AI policing concerns but views autonomous trading as eventual path",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading"
     }
   ]
 }

@@ -1,90 +1,90 @@
 {
-  "generated": "2026-10-30T01:06:49.782697+00:00",
-  "ts": 1793322409,
+  "generated": "2026-10-30T10:10:07.308840+00:00",
+  "ts": 1793355007,
   "market": [
     {
-      "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
-      "take": "Binance lost $5.7 billion in suspected hack, largest crypto theft on record",
+      "headline": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "take": "Bitcoin, ether, XRP selloff liquidates $1.5B in leveraged positions",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
     },
     {
-      "headline": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
-      "take": "Coinbase reported $719 million Q3 profit driven by cryptocurrency market gains",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains"
+      "headline": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+      "take": "Coinbase Q3 net income rises 66% as prediction markets gain traction",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189"
     },
     {
-      "headline": "Stablecoins account for over 80% of WalletConnect volume",
-      "take": "Stablecoins now represent over 80 percent of WalletConnect transaction volume",
+      "headline": "Hyperliquid surpasses Zcash in market cap at $22B",
+      "take": "Hyperliquid surpasses Zcash in market cap, reaching $22 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoins-over-80-percent-walletconnect-volume/"
+      "link": "https://cryptobriefing.com/hyperliquid-surpasses-zcash-in-market-cap-at-22b/"
     },
     {
-      "headline": "ICE plans Hyperliquid-based perpetual futures for US markets, HYPE token surges",
-      "take": "ICE launching Hyperliquid-based perpetual futures for US markets, HYPE token rallied",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ice-plans-hyperliquid-based-perpetual-futures-for-us-markets-hype-token-surges/"
-    },
-    {
-      "headline": "Bitcoin\u2019s 18th Birthday Is Not Without Growing Pains",
-      "take": "Bitcoin turns eighteen amid scaling and adoption challenges for blockchain networks",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-29/bitcoin-s-18th-birthday-is-not-without-growing-pains"
+      "headline": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
+      "take": "Standard Chartered forecasts additional pain after $6B Binance hack",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic plans Nasdaq IPO with multi-class shares built to keep founders in charge",
-      "take": "Anthropic planning Nasdaq IPO with four-class share structure preserving founder control",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-multi-class-share-structure-nasdaq/"
+      "headline": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "take": "Strategy CFO Andrew Kang resigns despite company posting record operating profit",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
     },
     {
-      "headline": "MANTRA brings Privy embedded wallets to its RWA apps",
-      "take": "MANTRA integrating Privy embedded wallets into real-world asset applications",
+      "headline": "Anthropic commits up to $567B for compute and infrastructure expansion",
+      "take": "Anthropic commits up to $567B for compute and infrastructure expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mantra-privy-embedded-wallets-rwa/"
+      "link": "https://cryptobriefing.com/anthropic-commits-up-to-567b-for-compute-and-infrastructure-expansion/"
     },
     {
-      "headline": "Marvell Technology reportedly in talks to buy Lumentum in all-stock AI deal",
-      "take": "Marvell Technology in talks to acquire Lumentum in all-stock AI-focused deal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/marvell-technology-lumentum-acquisition-talks/"
-    },
-    {
-      "headline": "Grok Bot sees 6X growth in daily active users in two months",
-      "take": "Grok Bot achieved six times growth in daily active users within two months",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-bot-daily-active-users-growth/"
+      "headline": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "take": "XRP Ledger developers tighten rules for restricted token holders",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
     }
   ],
   "security": [
     {
-      "headline": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "take": "Binance hack drained $5.5 billion; Tether and Circle froze $1.8 billion USDT",
+      "headline": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
+      "take": "Binance discovers additional breach points in $6.3 billion hack incident",
       "source": "decrypt",
-      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
+      "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack"
     },
     {
-      "headline": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
-      "take": "Polymarket resumed after $2.65 million exploit from compromised third-party provider",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158"
+      "headline": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "take": "Trezor warns buyers of suspected hardware implant in Safe 5 devices",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5"
     },
     {
-      "headline": "GLM-5.3 exploits Firefox vulnerabilities, prompting a Mozilla patch",
-      "take": "GLM-5.3 exploited Firefox vulnerabilities, prompting Mozilla to release security patch",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/glm-5-3-firefox-exploits-mozilla-patch/"
+      "headline": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "take": "Binance hacker splits $1.4B bitcoin across 19 unfreezable wallets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+    },
+    {
+      "headline": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "take": "Institutional investors rush to withdraw funds from exchanges post-Binance hack",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
     }
   ],
   "policy": [
     {
-      "headline": "Democrats target Texas Senate seat in 2026 race against Ken Paxton",
-      "take": "Democrats targeting Texas Senate seat in 2026 race against Ken Paxton",
+      "headline": "Trump administration grants crypto two-year grace period, says Tron founder",
+      "take": "Trump administration grants crypto two-year grace period, Tron founder claims",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/democrats-target-texas-senate-seat-in-2026-race-against-ken-paxton/"
+      "link": "https://cryptobriefing.com/trump-administration-grants-crypto-two-year-grace-period-says-tron-founder/"
+    },
+    {
+      "headline": "ASIC chair raises concerns over prediction markets for retail clients",
+      "take": "ASIC chair raises concerns over prediction markets for retail clients",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/asic-chair-prediction-markets-retail-concerns/"
     }
   ]
 }

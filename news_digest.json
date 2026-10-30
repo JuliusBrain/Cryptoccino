@@ -1,108 +1,90 @@
 {
-  "generated": "2026-10-29T18:31:28.538575+00:00",
-  "ts": 1793298688,
+  "generated": "2026-10-30T01:06:49.782697+00:00",
+  "ts": 1793322409,
   "market": [
     {
-      "headline": "$11 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
-      "take": "Eleven billion dollars in Bitcoin options expire tomorrow, shaping price direction",
+      "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "take": "Binance lost $5.7 billion in suspected hack, largest crypto theft on record",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+    },
+    {
+      "headline": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "take": "Coinbase reported $719 million Q3 profit driven by cryptocurrency market gains",
       "source": "decrypt",
-      "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means"
+      "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains"
     },
     {
-      "headline": "Bitcoin rebounds as investors reassess rate outlook amid AI stock sell-off",
-      "take": "Bitcoin rebounds as investors reassess rate outlook amid AI stock sell-off",
+      "headline": "Stablecoins account for over 80% of WalletConnect volume",
+      "take": "Stablecoins now represent over 80 percent of WalletConnect transaction volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-market-dynamics-amid-ai-selloff/"
+      "link": "https://cryptobriefing.com/stablecoins-over-80-percent-walletconnect-volume/"
     },
     {
-      "headline": "TRON leads stablecoin market cap growth with $279.5M in 24 hours",
-      "take": "TRON leads stablecoin market cap growth with 279.5 million in 24 hours",
+      "headline": "ICE plans Hyperliquid-based perpetual futures for US markets, HYPE token surges",
+      "take": "ICE launching Hyperliquid-based perpetual futures for US markets, HYPE token rallied",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-leads-stablecoin-market-cap-growth/"
+      "link": "https://cryptobriefing.com/ice-plans-hyperliquid-based-perpetual-futures-for-us-markets-hype-token-surges/"
     },
     {
-      "headline": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-      "take": "Hyperliquid token jumps 13 percent as ICE moves perpetual futures toward US",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us"
-    },
-    {
-      "headline": "Vanguard\u2019s stake in Bitcoin treasury firm Strive climbs to $51.5 million",
-      "take": "Vanguard's stake in Bitcoin treasury firm Strive climbs to 51.5 million",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vanguard-stake-strive-bitcoin-treasury/"
+      "headline": "Bitcoin\u2019s 18th Birthday Is Not Without Growing Pains",
+      "take": "Bitcoin turns eighteen amid scaling and adoption challenges for blockchain networks",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-29/bitcoin-s-18th-birthday-is-not-without-growing-pains"
     }
   ],
   "business": [
     {
-      "headline": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "take": "Polygon and Solana partner to bring stablecoin payments to banks",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
+      "headline": "Anthropic plans Nasdaq IPO with multi-class shares built to keep founders in charge",
+      "take": "Anthropic planning Nasdaq IPO with four-class share structure preserving founder control",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ipo-multi-class-share-structure-nasdaq/"
     },
     {
-      "headline": "Shopify and Coinbase\u2019s stablecoin payment protocol tops $42M in volume on Base",
-      "take": "Shopify and Coinbase stablecoin payment protocol tops 42 million in volume",
+      "headline": "MANTRA brings Privy embedded wallets to its RWA apps",
+      "take": "MANTRA integrating Privy embedded wallets into real-world asset applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-payment-protocol-shopify-coinbase/"
+      "link": "https://cryptobriefing.com/mantra-privy-embedded-wallets-rwa/"
     },
     {
-      "headline": "MoonPay partners with Whop to let AI agents shop and pay for users",
-      "take": "MoonPay partners with Whop to let AI agents shop and pay",
+      "headline": "Marvell Technology reportedly in talks to buy Lumentum in all-stock AI deal",
+      "take": "Marvell Technology in talks to acquire Lumentum in all-stock AI-focused deal",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moonpay-whop-ai-agent-payments/"
+      "link": "https://cryptobriefing.com/marvell-technology-lumentum-acquisition-talks/"
     },
     {
-      "headline": "Stellar climbs to second place in active developers, behind only Ethereum",
-      "take": "Stellar climbs to second place in active developers, behind only Ethereum",
+      "headline": "Grok Bot sees 6X growth in daily active users in two months",
+      "take": "Grok Bot achieved six times growth in daily active users within two months",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stellar-ranks-second-active-developers/"
-    },
-    {
-      "headline": "Ethena says it has paid out over $800M in USDe ecosystem rewards",
-      "take": "Ethena says it has paid out over 800 million in ecosystem rewards",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethena-800m-usde-rewards-fee-switch/"
+      "link": "https://cryptobriefing.com/grok-bot-daily-active-users-growth/"
     }
   ],
   "security": [
     {
-      "headline": "Polymarket restricts trading to cancel-only mode amid wallet drain reports",
-      "take": "Polymarket restricts trading to cancel-only mode amid wallet drain reports",
+      "headline": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "take": "Binance hack drained $5.5 billion; Tether and Circle froze $1.8 billion USDT",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
+    },
+    {
+      "headline": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+      "take": "Polymarket resumed after $2.65 million exploit from compromised third-party provider",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158"
+    },
+    {
+      "headline": "GLM-5.3 exploits Firefox vulnerabilities, prompting a Mozilla patch",
+      "take": "GLM-5.3 exploited Firefox vulnerabilities, prompting Mozilla to release security patch",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-cancel-only-mode-wallet-drain/"
+      "link": "https://cryptobriefing.com/glm-5-3-firefox-exploits-mozilla-patch/"
     }
   ],
   "policy": [
     {
-      "headline": "French Senate adopts bill for automatic sharing of crypto tax data",
-      "take": "French Senate adopts bill for automatic sharing of crypto tax data",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Thailand\u2019s Supreme Court rules Bitcoin is property under criminal law",
-      "take": "Thailand's Supreme Court rules Bitcoin is property under criminal law",
+      "headline": "Democrats target Texas Senate seat in 2026 race against Ken Paxton",
+      "take": "Democrats targeting Texas Senate seat in 2026 race against Ken Paxton",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thailand-supreme-court-bitcoin-property-ruling/"
-    },
-    {
-      "headline": "Ripple\u2019s chief legal officer calls for clear crypto safety rules under the GENIUS Act",
-      "take": "Ripple's chief legal officer calls for clear crypto safety rules",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ripple-alderoty-genius-act-crypto-safety-rules/"
-    },
-    {
-      "headline": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "take": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from sanctions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
-    },
-    {
-      "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
-      "take": "Crypto exchange HTX exits UK after settling with the FCA",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
+      "link": "https://cryptobriefing.com/democrats-target-texas-senate-seat-in-2026-race-against-ken-paxton/"
     }
   ]
 }

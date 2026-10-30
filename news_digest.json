@@ -1,90 +1,84 @@
 {
-  "generated": "2026-10-30T10:10:07.308840+00:00",
-  "ts": 1793355007,
+  "generated": "2026-10-30T18:03:47.836718+00:00",
+  "ts": 1793383427,
   "market": [
     {
-      "headline": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "take": "Bitcoin, ether, XRP selloff liquidates $1.5B in leveraged positions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
-    },
-    {
-      "headline": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
-      "take": "Coinbase Q3 net income rises 66% as prediction markets gain traction",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189"
-    },
-    {
-      "headline": "Hyperliquid surpasses Zcash in market cap at $22B",
-      "take": "Hyperliquid surpasses Zcash in market cap, reaching $22 billion",
+      "headline": "NASDAQ 100 drops 4%, erasing $1.3T; Bitcoin falls below $77K",
+      "take": "NASDAQ drops 4% erasing $1.3T; Bitcoin falls below $77K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-surpasses-zcash-in-market-cap-at-22b/"
+      "link": "https://cryptobriefing.com/nasdaq-100-drops-4-erasing-13t-bitcoin-falls-below-77k/"
     },
     {
-      "headline": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-      "take": "Standard Chartered forecasts additional pain after $6B Binance hack",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+      "headline": "254,045 crypto traders liquidated in 24 hours as $1.67 billion in positions wiped out",
+      "take": "254,045 traders liquidated in 24 hours as $1.67B wiped out",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-traders-liquidated-1-67-billion/"
+    },
+    {
+      "headline": "Tether posts $1.5 billion Q3 profit as reserve buffer nearly doubles",
+      "take": "Tether posts $1.5B Q3 profit as reserve buffer nearly doubles",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-q3-2026-profit-reserve-buffer/"
+    },
+    {
+      "headline": "Bitcoin short-term holders sell at loss for first time in 72 days",
+      "take": "Bitcoin short-term holders sell at loss for first time in 72 days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-short-term-holders-sell-at-loss/"
+    },
+    {
+      "headline": "Crypto stocks plunge as Bitcoin holds up better despite 39% drop from peak",
+      "take": "Crypto stocks plunge as Bitcoin holds up better despite peak drop",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-stocks-plunge-bitcoin-falls-39-peak/"
     }
   ],
   "business": [
     {
-      "headline": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "take": "Strategy CFO Andrew Kang resigns despite company posting record operating profit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
-    },
-    {
-      "headline": "Anthropic commits up to $567B for compute and infrastructure expansion",
-      "take": "Anthropic commits up to $567B for compute and infrastructure expansion",
+      "headline": "IPX unveils KPI-gated escrow to tie crowdfunding payouts to milestones",
+      "take": "IPX unveils KPI-gated escrow to tie crowdfunding payouts to milestones",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-commits-up-to-567b-for-compute-and-infrastructure-expansion/"
+      "link": "https://cryptobriefing.com/ipx-kpi-gated-escrow-crowdfunding/"
     },
     {
-      "headline": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "take": "XRP Ledger developers tighten rules for restricted token holders",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
+      "headline": "Broadridge sees growth potential in tokenization despite challenges",
+      "take": "Broadridge sees growth potential in tokenization despite challenges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/broadridge-tokenization-growth-dlr-repo/"
     }
   ],
   "security": [
     {
-      "headline": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-      "take": "Binance discovers additional breach points in $6.3 billion hack incident",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack"
+      "headline": "Binance\u2019s $6 Billion Heist Rattles Crypto and Draws FBI Scrutiny",
+      "take": "Binance's $6 billion heist rattles crypto and draws FBI scrutiny",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/binance-s-6-billion-heist-rattles-crypto-and-draws-fbi-scrutiny"
     },
     {
-      "headline": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "take": "Trezor warns buyers of suspected hardware implant in Safe 5 devices",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5"
+      "headline": "Circle freezes more than $800 million in USDC after $6.3 billion Binance breach",
+      "take": "Circle freezes $823M USDC after $6.3B Binance breach discovered",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-freezes-usdc-binance-breach/"
     },
     {
-      "headline": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-      "take": "Binance hacker splits $1.4B bitcoin across 19 unfreezable wallets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
-    },
-    {
-      "headline": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "take": "Institutional investors rush to withdraw funds from exchanges post-Binance hack",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+      "headline": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+      "take": "Texas brothers sentenced to 15 years for $8M crypto heist",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221"
     }
   ],
   "policy": [
     {
-      "headline": "Trump administration grants crypto two-year grace period, says Tron founder",
-      "take": "Trump administration grants crypto two-year grace period, Tron founder claims",
+      "headline": "CFTC chair cites Binance\u2019s $6.3 billion hack to push offshore exchange registration",
+      "take": "CFTC chair cites Binance hack to push offshore exchange registration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-administration-grants-crypto-two-year-grace-period-says-tron-founder/"
+      "link": "https://cryptobriefing.com/cftc-selig-binance-hack-offshore-registration/"
     },
     {
-      "headline": "ASIC chair raises concerns over prediction markets for retail clients",
-      "take": "ASIC chair raises concerns over prediction markets for retail clients",
+      "headline": "UK crypto firms urged to learn from Europe\u2019s MiCA licensing challenges",
+      "take": "UK crypto firms urged to learn from Europe's MiCA licensing challenges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asic-chair-prediction-markets-retail-concerns/"
+      "link": "https://cryptobriefing.com/uk-crypto-firms-mica-licensing-lessons/"
     }
   ]
 }

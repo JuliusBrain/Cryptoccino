@@ -1,84 +1,96 @@
 {
-  "generated": "2026-10-30T18:03:47.836718+00:00",
-  "ts": 1793383427,
+  "generated": "2026-10-30T22:26:53.292120+00:00",
+  "ts": 1793399213,
   "market": [
     {
-      "headline": "NASDAQ 100 drops 4%, erasing $1.3T; Bitcoin falls below $77K",
-      "take": "NASDAQ drops 4% erasing $1.3T; Bitcoin falls below $77K",
+      "headline": "Bitcoin slides 8% in October, nearing $76K",
+      "take": "Bitcoin slides eight percent in October, approaching seventy-six thousand dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-drops-4-erasing-13t-bitcoin-falls-below-77k/"
+      "link": "https://cryptobriefing.com/bitcoin-slides-october-nearing-76k/"
     },
     {
-      "headline": "254,045 crypto traders liquidated in 24 hours as $1.67 billion in positions wiped out",
-      "take": "254,045 traders liquidated in 24 hours as $1.67B wiped out",
+      "headline": "Nasdaq 100 and S&P 500 shed nearly $3.3 trillion as AI spending fears hit tech",
+      "take": "Nasdaq and S&P shed three point three trillion as AI spending fears hit tech",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-traders-liquidated-1-67-billion/"
+      "link": "https://cryptobriefing.com/nasdaq-sp-500-lose-3-trillion-ai-selloff/"
     },
     {
-      "headline": "Tether posts $1.5 billion Q3 profit as reserve buffer nearly doubles",
-      "take": "Tether posts $1.5B Q3 profit as reserve buffer nearly doubles",
+      "headline": "Choice launches sLINJ, a leveraged INJ staking token targeting about 12% APY",
+      "take": "Choice launches sLINJ leveraged staking token targeting approximately twelve percent annual yield",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-q3-2026-profit-reserve-buffer/"
+      "link": "https://cryptobriefing.com/choice-launches-slinj-leveraged-inj-staking/"
     },
     {
-      "headline": "Bitcoin short-term holders sell at loss for first time in 72 days",
-      "take": "Bitcoin short-term holders sell at loss for first time in 72 days",
+      "headline": "Tokenized stocks could follow stablecoins\u2019 growth path over next five years, Flowdesk CEO says",
+      "take": "Tokenized stocks could follow stablecoins' growth trajectory over next five years",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-short-term-holders-sell-at-loss/"
+      "link": "https://cryptobriefing.com/tokenized-equities-expansion-stablecoins/"
     },
     {
-      "headline": "Crypto stocks plunge as Bitcoin holds up better despite 39% drop from peak",
-      "take": "Crypto stocks plunge as Bitcoin holds up better despite peak drop",
+      "headline": "Canary Staked INJ ETF aims to bring regulated Injective staking to Nasdaq",
+      "take": "Canary Staked INJ ETF brings regulated Injective staking to Nasdaq exchange",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-stocks-plunge-bitcoin-falls-39-peak/"
+      "link": "https://cryptobriefing.com/canary-staked-inj-etf-injective-nasdaq/"
     }
   ],
   "business": [
     {
-      "headline": "IPX unveils KPI-gated escrow to tie crowdfunding payouts to milestones",
-      "take": "IPX unveils KPI-gated escrow to tie crowdfunding payouts to milestones",
+      "headline": "Cohere opens Series E targeting up to C$7 billion, leans on neocloud providers for compute",
+      "take": "Cohere opens Series E funding round targeting up to seven billion Canadian dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ipx-kpi-gated-escrow-crowdfunding/"
+      "link": "https://cryptobriefing.com/cohere-series-e-neocloud-ai-infrastructure/"
     },
     {
-      "headline": "Broadridge sees growth potential in tokenization despite challenges",
-      "take": "Broadridge sees growth potential in tokenization despite challenges",
+      "headline": "Walmart-backed OnePay now lets users deposit USDC straight into checking",
+      "take": "Walmart-backed OnePay enables users to deposit USDC directly into checking accounts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/broadridge-tokenization-growth-dlr-repo/"
+      "link": "https://cryptobriefing.com/onepay-usdc-deposits-checking-accounts/"
+    },
+    {
+      "headline": "Internet Computer arrives as a Claude connector for AI-driven app interaction",
+      "take": "Internet Computer launches Claude connector for AI-driven application interaction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/internet-computer-icp-claude-connector/"
     }
   ],
   "security": [
     {
-      "headline": "Binance\u2019s $6 Billion Heist Rattles Crypto and Draws FBI Scrutiny",
-      "take": "Binance's $6 billion heist rattles crypto and draws FBI scrutiny",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-30/binance-s-6-billion-heist-rattles-crypto-and-draws-fbi-scrutiny"
-    },
-    {
-      "headline": "Circle freezes more than $800 million in USDC after $6.3 billion Binance breach",
-      "take": "Circle freezes $823M USDC after $6.3B Binance breach discovered",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-freezes-usdc-binance-breach/"
-    },
-    {
-      "headline": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
-      "take": "Texas brothers sentenced to 15 years for $8M crypto heist",
+      "headline": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "take": "Attackers breached Binance in record six point three billion dollar crypto hack",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221"
+      "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+    },
+    {
+      "headline": "Chainalysis: North Korea-linked hacks account for nearly 89% of crypto hack losses in 2026",
+      "take": "North Korea-linked hacks account for nearly eighty-nine percent of crypto hack losses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainalysis-north-korea-hacks-89-percent-losses/"
+    },
+    {
+      "headline": "N0n ransomware group spends $7K on AI tools, then leaves its own server wide open",
+      "take": "Ransomware group spends seven thousand dollars on AI tools, leaves server exposed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/n0n-ransomware-ai-tools-exposed-server/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC chair cites Binance\u2019s $6.3 billion hack to push offshore exchange registration",
-      "take": "CFTC chair cites Binance hack to push offshore exchange registration",
+      "headline": "Lummis argues Clarity Act would classify Binance as a covered person",
+      "take": "Lummis argues Clarity Act would classify Binance as covered person under regulation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-selig-binance-hack-offshore-registration/"
+      "link": "https://cryptobriefing.com/lummis-clarity-act-binance-covered-person/"
     },
     {
-      "headline": "UK crypto firms urged to learn from Europe\u2019s MiCA licensing challenges",
-      "take": "UK crypto firms urged to learn from Europe's MiCA licensing challenges",
+      "headline": "CFTC proposes federal registration option for leveraged crypto exchanges",
+      "take": "CFTC proposes federal registration option for leveraged cryptocurrency exchanges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uk-crypto-firms-mica-licensing-lessons/"
+      "link": "https://cryptobriefing.com/cftc-proposes-federal-registration-option-for-leveraged-crypto-exchanges/"
+    },
+    {
+      "headline": "New York bans AI chatbot features for minors starting January 1, 2027",
+      "take": "New York bans AI chatbot features for minors starting January one twenty twenty-seven",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-york-bans-ai-chatbot-features-minors/"
     }
   ]
 }

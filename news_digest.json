@@ -1,72 +1,90 @@
 {
-  "generated": "2026-10-31T12:43:04.355056+00:00",
-  "ts": 1793450584,
+  "generated": "2026-10-31T19:21:06.157885+00:00",
+  "ts": 1793474466,
   "market": [
     {
-      "headline": "Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million",
-      "take": "Spot Bitcoin ETFs shed $643M in a day amid market pressure",
+      "headline": "Ethereum hosts 54% of all stablecoins as tokenized stocks jump 170%",
+      "take": "Ethereum dominates stablecoin market with 54% share as tokenized stocks surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-643-million-outflows/"
+      "link": "https://cryptobriefing.com/ethereum-stablecoins-tokenized-stocks-growth/"
     },
     {
-      "headline": "Nasdaq posts its largest one-day drop since June 5 as AI spending fears hit tech",
-      "take": "Nasdaq posts largest one-day drop since June on AI spending fears",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-largest-drop-since-june-ai-fears/"
+      "headline": "Institutions embrace crypto staking despite shrinking yields",
+      "take": "Institutions continue crypto staking adoption despite yield compression",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields"
     },
     {
-      "headline": "Titan Builder briefly tops DeFiLlama\u2019s 24-hour revenue rankings at $22.83 million",
-      "take": "Titan Builder briefly tops DeFiLlama revenue rankings at $22.83 million",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/titan-builder-tops-defillama-revenue-rankings/"
+      "headline": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "take": "Uber tests tokenization with HSBC and Franklin Templeton for idle cash deployment",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic files for IPO, aims for $2T valuation on NASDAQ",
-      "take": "Anthropic files for IPO aiming for $2 trillion valuation on NASDAQ",
+      "headline": "Anthropic IPO eyes $1.5T-$2T valuation amid $81B loss, $16B revenue surge",
+      "take": "Anthropic targets $1.5T-$2T IPO valuation on $16B revenue surge",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-files-for-ipo-aims-for-2t-valuation-on-nasdaq/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-eyes-15t-2t-valuation-amid-81b-loss-16b-revenue-surge/"
     },
     {
-      "headline": "Anthropic reveals nearly $900 billion in future commitments in IPO filing",
-      "take": "Anthropic discloses nearly $900 billion in future commitments in IPO filing",
+      "headline": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
+      "take": "OpenAI valued at $1.25T after funding round below target expectations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-filing-900-billion-commitments/"
+      "link": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/"
     },
     {
-      "headline": "Anthropic\u2019s AI now handles 26% of core R&D work, report says",
-      "take": "Anthropic's AI now handles 26% of core R&D work internally",
+      "headline": "Digital Realty raises full-year guidance after record leasing bookings",
+      "take": "Digital Realty raises guidance after record data center leasing bookings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/david-sacks-anthropic-recursive-self-improvement/"
+      "link": "https://cryptobriefing.com/digital-realty-raises-guidance-record-leasing/"
+    },
+    {
+      "headline": "Sazmining starts selling Proto mining boards to individual Bitcoin miners",
+      "take": "Sazmining launches Proto mining boards for individual Bitcoin miners",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sazmining-proto-hashboards-retail-bitcoin-mining/"
     }
   ],
   "security": [
     {
-      "headline": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "take": "Binance's $6.3 billion hack: centralization enabled breach but limited customer loss",
+      "headline": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "take": "Binance covers 90% of $6.3B hack losses, restarts withdrawals soon",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion"
+      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
     },
     {
-      "headline": "LaunchOnSF restores website as StepDrainer attack spreads to 10 more sites",
-      "take": "StepDrainer attack spreads to 10 additional sites after LaunchOnSF restoration",
+      "headline": "Hackers hijack 12 DeFi websites registered with Name.com, draining about $138K",
+      "take": "Hackers compromise 12 DeFi sites registered with Name.com, steal $138K",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/launchonsf-restores-website-stepdrainer-attack/"
+      "link": "https://cryptobriefing.com/hackers-hijack-defi-websites-name-com/"
     },
     {
-      "headline": "Chainalysis discloses cyberattack exposing customer names and emails",
-      "take": "Chainalysis cyberattack exposes customer names and email addresses",
+      "headline": "THORChain pauses operations after Ethereum reorg triggers double refund",
+      "take": "THORChain pauses after Ethereum reorg causes unintended double refunds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-discloses-cyberattack-user-data/"
+      "link": "https://cryptobriefing.com/thorchain-pauses-ethereum-reorg-double-refund/"
+    },
+    {
+      "headline": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "take": "London crypto theft problem highlighted by stolen iPhone case",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
+    },
+    {
+      "headline": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
+      "take": "Chainalysis breach exposes customer names and emails via offensive techniques",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
     }
   ],
   "policy": [
     {
-      "headline": "Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident",
-      "take": "Senator Lummis: CLARITY Act could assist crypto firms in breach situations",
+      "headline": "CFTC Chair Selig vows to take state fight over prediction markets to the Supreme Court",
+      "take": "CFTC Chair vows Supreme Court fight over state prediction market restrictions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senator-lummis-clarity-act-could-aid-crypto-firms-in-hacks-like-6b-binance/"
+      "link": "https://cryptobriefing.com/cftc-selig-supreme-court-state-challenges/"
     }
   ]
 }

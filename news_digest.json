@@ -1,96 +1,108 @@
 {
-  "generated": "2026-10-30T22:26:53.292120+00:00",
-  "ts": 1793399213,
+  "generated": "2026-10-31T05:53:33.574692+00:00",
+  "ts": 1793426013,
   "market": [
     {
-      "headline": "Bitcoin slides 8% in October, nearing $76K",
-      "take": "Bitcoin slides eight percent in October, approaching seventy-six thousand dollars",
+      "headline": "Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million",
+      "take": "Spot Bitcoin and Ethereum ETFs see outflows totaling nearly $800 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-slides-october-nearing-76k/"
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-643-million-outflows/"
     },
     {
-      "headline": "Nasdaq 100 and S&P 500 shed nearly $3.3 trillion as AI spending fears hit tech",
-      "take": "Nasdaq and S&P shed three point three trillion as AI spending fears hit tech",
+      "headline": "Nasdaq posts its largest one-day drop since June 5 as AI spending fears hit tech",
+      "take": "Nasdaq posts largest one-day drop since June as AI spending concerns weigh",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-sp-500-lose-3-trillion-ai-selloff/"
+      "link": "https://cryptobriefing.com/nasdaq-largest-drop-since-june-ai-fears/"
+    },
+    {
+      "headline": "Tether receives $223M USDT transfer from Bitfinex",
+      "take": "Tether receives $223 million USDT transfer from Bitfinex",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-receives-223m-usdt-from-bitfinex/"
+    },
+    {
+      "headline": "CoreWeave shares fall 10% on financing worries, tech sector selloff",
+      "take": "CoreWeave shares fall 10% amid financing worries and tech sector selloff",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-shares-fall-10-on-financing-worries-tech-sector-selloff/"
     },
     {
       "headline": "Choice launches sLINJ, a leveraged INJ staking token targeting about 12% APY",
-      "take": "Choice launches sLINJ leveraged staking token targeting approximately twelve percent annual yield",
+      "take": "Choice launches leveraged INJ staking token targeting approximately 12% APY",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/choice-launches-slinj-leveraged-inj-staking/"
-    },
-    {
-      "headline": "Tokenized stocks could follow stablecoins\u2019 growth path over next five years, Flowdesk CEO says",
-      "take": "Tokenized stocks could follow stablecoins' growth trajectory over next five years",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-equities-expansion-stablecoins/"
-    },
-    {
-      "headline": "Canary Staked INJ ETF aims to bring regulated Injective staking to Nasdaq",
-      "take": "Canary Staked INJ ETF brings regulated Injective staking to Nasdaq exchange",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/canary-staked-inj-etf-injective-nasdaq/"
     }
   ],
   "business": [
     {
       "headline": "Cohere opens Series E targeting up to C$7 billion, leans on neocloud providers for compute",
-      "take": "Cohere opens Series E funding round targeting up to seven billion Canadian dollars",
+      "take": "Cohere opens Series E funding round targeting up to C$7 billion valuation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cohere-series-e-neocloud-ai-infrastructure/"
     },
     {
-      "headline": "Walmart-backed OnePay now lets users deposit USDC straight into checking",
-      "take": "Walmart-backed OnePay enables users to deposit USDC directly into checking accounts",
+      "headline": "OpenAI trims its funding goal by $10 billion as AI investor demand cools",
+      "take": "OpenAI cuts funding goal by $10 billion amid cooling investor demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/onepay-usdc-deposits-checking-accounts/"
+      "link": "https://cryptobriefing.com/openai-cuts-funding-goal-valuation-target/"
     },
     {
-      "headline": "Internet Computer arrives as a Claude connector for AI-driven app interaction",
-      "take": "Internet Computer launches Claude connector for AI-driven application interaction",
+      "headline": "Recall Foundation plans to burn 358.6M RECALL tokens as it winds down",
+      "take": "Recall Foundation plans to burn 358.6 million RECALL tokens as operations wind down",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/internet-computer-icp-claude-connector/"
+      "link": "https://cryptobriefing.com/recall-foundation-burn-recall-tokens-wind-down/"
+    },
+    {
+      "headline": "Salesforce agrees to buy defense tech startup Rune for $375 million",
+      "take": "Salesforce agrees to acquire defense tech startup Rune for $375 million",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/salesforce-acquires-rune-defense-tech-375-million/"
     }
   ],
   "security": [
     {
-      "headline": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
-      "take": "Attackers breached Binance in record six point three billion dollar crypto hack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+      "headline": "Binance hot wallet breach affects $6B, customer funds secure",
+      "take": "Binance hot wallet breach affects $6 billion; customer funds remain secure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-hot-wallet-breach-affects-6b-customer-funds-secure/"
     },
     {
-      "headline": "Chainalysis: North Korea-linked hacks account for nearly 89% of crypto hack losses in 2026",
-      "take": "North Korea-linked hacks account for nearly eighty-nine percent of crypto hack losses",
+      "headline": "120 million TRX from the Binance hack moves to an unknown wallet",
+      "take": "120 million TRX from Binance hack transferred to unknown wallet on-chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-north-korea-hacks-89-percent-losses/"
+      "link": "https://cryptobriefing.com/binance-hack-120m-trx-unknown-wallet/"
     },
     {
-      "headline": "N0n ransomware group spends $7K on AI tools, then leaves its own server wide open",
-      "take": "Ransomware group spends seven thousand dollars on AI tools, leaves server exposed",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/n0n-ransomware-ai-tools-exposed-server/"
+      "headline": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "take": "Experts divided on Binance hack asset freeze strategies; recovery remains uncertain",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+    },
+    {
+      "headline": "Chainalysis Security Incident Information",
+      "take": "Chainalysis discloses security incident affecting monitoring services",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/security-incident-october-30/"
     }
   ],
   "policy": [
     {
-      "headline": "Lummis argues Clarity Act would classify Binance as a covered person",
-      "take": "Lummis argues Clarity Act would classify Binance as covered person under regulation",
+      "headline": "Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident",
+      "take": "Senator Lummis: CLARITY Act could help crypto firms address security incidents like Binance",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lummis-clarity-act-binance-covered-person/"
+      "link": "https://cryptobriefing.com/senator-lummis-clarity-act-could-aid-crypto-firms-in-hacks-like-6b-binance/"
     },
     {
-      "headline": "CFTC proposes federal registration option for leveraged crypto exchanges",
-      "take": "CFTC proposes federal registration option for leveraged cryptocurrency exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-proposes-federal-registration-option-for-leveraged-crypto-exchanges/"
+      "headline": "President Trump says they\u2019re looking into Binance hack as calls grow for crypto rules",
+      "take": "Trump administration reviewing Binance hack as calls grow for enhanced crypto oversight rules",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236"
     },
     {
-      "headline": "New York bans AI chatbot features for minors starting January 1, 2027",
-      "take": "New York bans AI chatbot features for minors starting January one twenty twenty-seven",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-york-bans-ai-chatbot-features-minors/"
+      "headline": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+      "take": "CFTC Chair says offshore exchanges need US regulatory oversight following Binance breach",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair"
     }
   ]
 }

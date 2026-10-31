@@ -1,108 +1,72 @@
 {
-  "generated": "2026-10-31T05:53:33.574692+00:00",
-  "ts": 1793426013,
+  "generated": "2026-10-31T12:43:04.355056+00:00",
+  "ts": 1793450584,
   "market": [
     {
       "headline": "Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million",
-      "take": "Spot Bitcoin and Ethereum ETFs see outflows totaling nearly $800 million",
+      "take": "Spot Bitcoin ETFs shed $643M in a day amid market pressure",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/spot-bitcoin-etfs-643-million-outflows/"
     },
     {
       "headline": "Nasdaq posts its largest one-day drop since June 5 as AI spending fears hit tech",
-      "take": "Nasdaq posts largest one-day drop since June as AI spending concerns weigh",
+      "take": "Nasdaq posts largest one-day drop since June on AI spending fears",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nasdaq-largest-drop-since-june-ai-fears/"
     },
     {
-      "headline": "Tether receives $223M USDT transfer from Bitfinex",
-      "take": "Tether receives $223 million USDT transfer from Bitfinex",
+      "headline": "Titan Builder briefly tops DeFiLlama\u2019s 24-hour revenue rankings at $22.83 million",
+      "take": "Titan Builder briefly tops DeFiLlama revenue rankings at $22.83 million",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-receives-223m-usdt-from-bitfinex/"
-    },
-    {
-      "headline": "CoreWeave shares fall 10% on financing worries, tech sector selloff",
-      "take": "CoreWeave shares fall 10% amid financing worries and tech sector selloff",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-shares-fall-10-on-financing-worries-tech-sector-selloff/"
-    },
-    {
-      "headline": "Choice launches sLINJ, a leveraged INJ staking token targeting about 12% APY",
-      "take": "Choice launches leveraged INJ staking token targeting approximately 12% APY",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/choice-launches-slinj-leveraged-inj-staking/"
+      "link": "https://cryptobriefing.com/titan-builder-tops-defillama-revenue-rankings/"
     }
   ],
   "business": [
     {
-      "headline": "Cohere opens Series E targeting up to C$7 billion, leans on neocloud providers for compute",
-      "take": "Cohere opens Series E funding round targeting up to C$7 billion valuation",
+      "headline": "Anthropic files for IPO, aims for $2T valuation on NASDAQ",
+      "take": "Anthropic files for IPO aiming for $2 trillion valuation on NASDAQ",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cohere-series-e-neocloud-ai-infrastructure/"
+      "link": "https://cryptobriefing.com/anthropic-files-for-ipo-aims-for-2t-valuation-on-nasdaq/"
     },
     {
-      "headline": "OpenAI trims its funding goal by $10 billion as AI investor demand cools",
-      "take": "OpenAI cuts funding goal by $10 billion amid cooling investor demand",
+      "headline": "Anthropic reveals nearly $900 billion in future commitments in IPO filing",
+      "take": "Anthropic discloses nearly $900 billion in future commitments in IPO filing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-cuts-funding-goal-valuation-target/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-filing-900-billion-commitments/"
     },
     {
-      "headline": "Recall Foundation plans to burn 358.6M RECALL tokens as it winds down",
-      "take": "Recall Foundation plans to burn 358.6 million RECALL tokens as operations wind down",
+      "headline": "Anthropic\u2019s AI now handles 26% of core R&D work, report says",
+      "take": "Anthropic's AI now handles 26% of core R&D work internally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/recall-foundation-burn-recall-tokens-wind-down/"
-    },
-    {
-      "headline": "Salesforce agrees to buy defense tech startup Rune for $375 million",
-      "take": "Salesforce agrees to acquire defense tech startup Rune for $375 million",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/salesforce-acquires-rune-defense-tech-375-million/"
+      "link": "https://cryptobriefing.com/david-sacks-anthropic-recursive-self-improvement/"
     }
   ],
   "security": [
     {
-      "headline": "Binance hot wallet breach affects $6B, customer funds secure",
-      "take": "Binance hot wallet breach affects $6 billion; customer funds remain secure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hot-wallet-breach-affects-6b-customer-funds-secure/"
-    },
-    {
-      "headline": "120 million TRX from the Binance hack moves to an unknown wallet",
-      "take": "120 million TRX from Binance hack transferred to unknown wallet on-chain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hack-120m-trx-unknown-wallet/"
-    },
-    {
-      "headline": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "take": "Experts divided on Binance hack asset freeze strategies; recovery remains uncertain",
+      "headline": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "take": "Binance's $6.3 billion hack: centralization enabled breach but limited customer loss",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion"
     },
     {
-      "headline": "Chainalysis Security Incident Information",
-      "take": "Chainalysis discloses security incident affecting monitoring services",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/security-incident-october-30/"
+      "headline": "LaunchOnSF restores website as StepDrainer attack spreads to 10 more sites",
+      "take": "StepDrainer attack spreads to 10 additional sites after LaunchOnSF restoration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/launchonsf-restores-website-stepdrainer-attack/"
+    },
+    {
+      "headline": "Chainalysis discloses cyberattack exposing customer names and emails",
+      "take": "Chainalysis cyberattack exposes customer names and email addresses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/chainalysis-discloses-cyberattack-user-data/"
     }
   ],
   "policy": [
     {
       "headline": "Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident",
-      "take": "Senator Lummis: CLARITY Act could help crypto firms address security incidents like Binance",
+      "take": "Senator Lummis: CLARITY Act could assist crypto firms in breach situations",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/senator-lummis-clarity-act-could-aid-crypto-firms-in-hacks-like-6b-binance/"
-    },
-    {
-      "headline": "President Trump says they\u2019re looking into Binance hack as calls grow for crypto rules",
-      "take": "Trump administration reviewing Binance hack as calls grow for enhanced crypto oversight rules",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236"
-    },
-    {
-      "headline": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-      "take": "CFTC Chair says offshore exchanges need US regulatory oversight following Binance breach",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair"
     }
   ]
 }

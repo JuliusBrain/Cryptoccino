@@ -1,64 +1,106 @@
 {
-  "generated": "2026-11-01T13:37:18.324147+00:00",
-  "ts": 1793540238,
+  "generated": "2026-11-01T19:44:46.260131+00:00",
+  "ts": 1793562286,
   "market": [
     {
-      "headline": "AI token spending jumps 122% to 160% as prices fall 67%, a16z data shows",
-      "take": "AI token spending surges while prices fall sharply, suggesting sector rebalancing",
+      "headline": "Crypto liquidations hit $12.5 billion in October 2026 as longs take the beating",
+      "take": "Crypto liquidations hit $12.5 billion in October as longs face pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/a16z-ai-token-spending-surges-prices-fall/"
+      "link": "https://cryptobriefing.com/crypto-liquidations-october-2026-longs/"
     },
     {
-      "headline": "Strategy\u2019s Michael Saylor says the next Bitcoin bull market has already begun",
-      "take": "Michael Saylor signals Bitcoin bull market has begun, though timing remains uncertain",
+      "headline": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+      "take": "Bitcoin ETF investors exit positions following record Binance hack incident",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
+    },
+    {
+      "headline": "Tech selloff may ease pressure on the Federal Reserve, says BMO economist",
+      "take": "Tech selloff may ease Federal Reserve pressure, economist suggests",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/michael-saylor-bitcoin-bull-market-begun/"
-    }
-  ],
-  "business": [
+      "link": "https://cryptobriefing.com/tech-selloff-ease-pressure-federal-reserve/"
+    },
     {
       "headline": "Meta\u2019s ad revenue surges 26%, outpacing Google\u2019s growth",
-      "take": "Meta's ad revenue grows 26%, outpacing Google in key monetization metric",
+      "take": "Meta ad revenue surges 26%, outpacing Google growth",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/meta-ad-revenue-outpaces-google-search/"
     }
   ],
+  "business": [
+    {
+      "headline": "Binance sees nearly $3.8 billion withdrawn in 10 hours after reopening",
+      "take": "Binance sees $3.8 billion withdrawn in 10 hours after reopening",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-3-8-billion-withdrawals-after-hack/"
+    },
+    {
+      "headline": "Obol World sends 80% of revenue to buybacks and burns, launches API for bots",
+      "take": "Obol World redirects 80% revenue to buybacks, launches bot API",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/obol-world-api-80-percent-buybacks/"
+    },
+    {
+      "headline": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "take": "Crypto card startups lose money to attract customers with rewards",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards"
+    }
+  ],
   "security": [
     {
-      "headline": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-      "take": "Binance phased withdrawals restart after $6.3 billion hack, begins Bitcoin network",
+      "headline": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "take": "North Korean hackers launder $242 million Binance theft via Tron",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+    },
+    {
+      "headline": "Solana Mobile patches bug after malicious app appears in dApp Portal",
+      "take": "Solana Mobile patches bug after malicious app found in dApp Portal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-mobile-patches-bug-malicious-app-dapp-portal/"
+    },
+    {
+      "headline": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "take": "AI agents bypassed crypto spending limits without human approval in tests",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
+      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
     },
     {
-      "headline": "485,270 SOL worth $46M moves from Binance hack to unknown wallet",
-      "take": "Stolen SOL worth $46M moves from Binance breach to unknown wallet",
+      "headline": "Talis Protocol pauses listings after NFT exploit nets attacker about $3,100",
+      "take": "Talis Protocol pauses listings after NFT exploit steals $3,100",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hack-sol-transfer-unknown-wallet/"
+      "link": "https://cryptobriefing.com/talis-protocol-pauses-listings-nft-exploit/"
     },
     {
-      "headline": "OneKey founder warns older iPhones have unpatchable chip vulnerabilities",
-      "take": "OneKey founder warns older iPhones contain unpatchable hardware chip vulnerabilities",
+      "headline": "Elon Musk warns AI agents could become crypto\u2019s next big security threat",
+      "take": "Elon Musk warns AI agents could become crypto's next security threat",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/onekey-founder-older-iphone-chip-vulnerabilities/"
-    },
-    {
-      "headline": "North Korean hackers move $38M through Relay Protocol in 7 hours",
-      "take": "North Korean hackers move $38M through Relay Protocol within seven hours",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korean-hackers-relay-protocol-38m/"
+      "link": "https://cryptobriefing.com/elon-musk-ai-hacks-crypto-binance/"
     }
   ],
   "policy": [
     {
+      "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "take": "Crypto reader's guide to 2026 midterm election and regulatory outlook",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
+    },
+    {
+      "headline": "Trump says US would contact North Korea if it\u2019s tied to the $6.3 billion Binance hack",
+      "take": "Trump says US would contact North Korea if tied to Binance hack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-north-korea-binance-hack/"
+    },
+    {
       "headline": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-      "take": "Ohio Senator Sherrod Brown's election poses headwinds for crypto policy next year",
+      "take": "Sherrod Brown's Ohio edge threatens rough crypto regulatory year ahead",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
     },
     {
       "headline": "China Communist Party Urges Tougher Action on Crypto Corruption",
-      "take": "China Communist Party escalates action against crypto-related corruption activity",
+      "take": "China Communist Party urges tougher action on crypto corruption",
       "source": "bloomberg_crypto",
       "link": "https://www.bloomberg.com/news/articles/2026-11-01/china-communist-party-urges-tougher-action-on-crypto-corruption"
     }

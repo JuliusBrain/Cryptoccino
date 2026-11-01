@@ -1,78 +1,78 @@
 {
-  "generated": "2026-11-01T00:10:43.442137+00:00",
-  "ts": 1793491843,
+  "generated": "2026-11-01T06:18:24.024593+00:00",
+  "ts": 1793513904,
   "market": [
     {
-      "headline": "Circle redeems roughly $11.7 billion in USDC as supply slips to $70 billion",
-      "take": "Circle redeems $11.7B USDC; stablecoin supply drops to $70 billion",
+      "headline": "US spot Ethereum ETFs log record 23-day net outflow streak",
+      "take": "US spot Ethereum ETFs see record outflow streak over 23 days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-usdc-supply-falls-70-billion/"
+      "link": "https://cryptobriefing.com/us-spot-ethereum-etfs-record-outflow-streak/"
+    },
+    {
+      "headline": "AI token spending jumps 122% to 160% as prices fall 67%, a16z data shows",
+      "take": "AI token spending jumps 122-160% while prices fall 67% this period",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/a16z-ai-token-spending-surges-prices-fall/"
     },
     {
       "headline": "Ethereum hosts 54% of all stablecoins as tokenized stocks jump 170%",
-      "take": "Ethereum hosts 54% of stablecoins as tokenized stocks surge 170%",
+      "take": "Ethereum hosts 54% of all stablecoins; tokenized stocks jump 170%",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-stablecoins-tokenized-stocks-growth/"
     },
     {
-      "headline": "Institutions embrace crypto staking despite shrinking yields",
-      "take": "Institutions continue crypto staking despite declining yield returns",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields"
+      "headline": "Circle redeems roughly $11.7 billion in USDC as supply slips to $70 billion",
+      "take": "Circle redeems $11.7B USDC; supply drops to $70 billion total",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-usdc-supply-falls-70-billion/"
     }
   ],
   "business": [
     {
-      "headline": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "take": "Uber tests tokenization with HSBC and Franklin Templeton for cash",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
-    },
-    {
-      "headline": "Anthropic IPO eyes $1.5T-$2T valuation amid $81B loss, $16B revenue surge",
-      "take": "Anthropic targets $1.5T\u2013$2T IPO valuation with $16B revenue surge",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-eyes-15t-2t-valuation-amid-81b-loss-16b-revenue-surge/"
-    },
-    {
       "headline": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
-      "take": "OpenAI valued at $1.25 trillion as funding round misses target",
+      "take": "OpenAI valued at $1.25 trillion in funding round below target",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/"
+    },
+    {
+      "headline": "USDC Treasury mints $250M in USD Coin on Solana",
+      "take": "USDC Treasury mints $250M USD Coin on Solana network",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-usdc-solana/"
     }
   ],
   "security": [
     {
-      "headline": "Binance covers 90% of $6B hack losses, plans withdrawals Nov 1",
-      "take": "Binance covers 90% of $6B hack losses; withdrawals restart November 1",
+      "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "take": "FBI confirms North Korea stole $6B from Binance; requests DeFi blocks",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+    },
+    {
+      "headline": "North Korean hackers move $38M through Relay Protocol in 7 hours",
+      "take": "North Korean hackers move $38M through Relay Protocol in 7 hours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-covers-90-of-6b-hack-losses-plans-withdrawals-nov-1/"
+      "link": "https://cryptobriefing.com/north-korean-hackers-relay-protocol-38m/"
     },
     {
       "headline": "Name.com restores hijacked domains after attack hit at least 12 DeFi front ends",
-      "take": "Hijacked Name.com domains hit at least 12 DeFi front ends",
+      "take": "Name.com attack hijacks domains; at least 12 DeFi front ends hit",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/name-com-restores-hijacked-defi-domains/"
     },
     {
-      "headline": "THORChain pauses operations after Ethereum reorg triggers double refund",
-      "take": "THORChain pauses after Ethereum reorg triggers unintended double refunds",
+      "headline": "OneKey founder warns older iPhones have unpatchable chip vulnerabilities",
+      "take": "OneKey founder warns older iPhones have unpatchable chip vulnerabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thorchain-pauses-ethereum-reorg-double-refund/"
+      "link": "https://cryptobriefing.com/onekey-founder-older-iphone-chip-vulnerabilities/"
     }
   ],
   "policy": [
     {
       "headline": "Binance $6B hack fuels Washington debate on crypto regulation before election",
-      "take": "Binance $6B hack fuels Washington debate on crypto regulation",
+      "take": "Binance $6B hack sparks Washington debate on crypto regulation",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/binance-6b-hack-fuels-washington-debate-on-crypto-regulation-before-election/"
-    },
-    {
-      "headline": "CFTC Chair Selig vows to take state fight over prediction markets to the Supreme Court",
-      "take": "CFTC Chair pledges Supreme Court fight over prediction markets authority",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-selig-supreme-court-state-challenges/"
     }
   ]
 }

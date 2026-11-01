@@ -1,88 +1,76 @@
 {
-  "generated": "2026-10-31T19:21:06.157885+00:00",
-  "ts": 1793474466,
+  "generated": "2026-11-01T00:10:43.442137+00:00",
+  "ts": 1793491843,
   "market": [
     {
+      "headline": "Circle redeems roughly $11.7 billion in USDC as supply slips to $70 billion",
+      "take": "Circle redeems $11.7B USDC; stablecoin supply drops to $70 billion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-usdc-supply-falls-70-billion/"
+    },
+    {
       "headline": "Ethereum hosts 54% of all stablecoins as tokenized stocks jump 170%",
-      "take": "Ethereum dominates stablecoin market with 54% share as tokenized stocks surge",
+      "take": "Ethereum hosts 54% of stablecoins as tokenized stocks surge 170%",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/ethereum-stablecoins-tokenized-stocks-growth/"
     },
     {
       "headline": "Institutions embrace crypto staking despite shrinking yields",
-      "take": "Institutions continue crypto staking adoption despite yield compression",
+      "take": "Institutions continue crypto staking despite declining yield returns",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields"
-    },
-    {
-      "headline": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "take": "Uber tests tokenization with HSBC and Franklin Templeton for idle cash deployment",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
     }
   ],
   "business": [
     {
+      "headline": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "take": "Uber tests tokenization with HSBC and Franklin Templeton for cash",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
+    },
+    {
       "headline": "Anthropic IPO eyes $1.5T-$2T valuation amid $81B loss, $16B revenue surge",
-      "take": "Anthropic targets $1.5T-$2T IPO valuation on $16B revenue surge",
+      "take": "Anthropic targets $1.5T\u2013$2T IPO valuation with $16B revenue surge",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/anthropic-ipo-eyes-15t-2t-valuation-amid-81b-loss-16b-revenue-surge/"
     },
     {
       "headline": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
-      "take": "OpenAI valued at $1.25T after funding round below target expectations",
+      "take": "OpenAI valued at $1.25 trillion as funding round misses target",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/"
-    },
-    {
-      "headline": "Digital Realty raises full-year guidance after record leasing bookings",
-      "take": "Digital Realty raises guidance after record data center leasing bookings",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/digital-realty-raises-guidance-record-leasing/"
-    },
-    {
-      "headline": "Sazmining starts selling Proto mining boards to individual Bitcoin miners",
-      "take": "Sazmining launches Proto mining boards for individual Bitcoin miners",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sazmining-proto-hashboards-retail-bitcoin-mining/"
     }
   ],
   "security": [
     {
-      "headline": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-      "take": "Binance covers 90% of $6.3B hack losses, restarts withdrawals soon",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
+      "headline": "Binance covers 90% of $6B hack losses, plans withdrawals Nov 1",
+      "take": "Binance covers 90% of $6B hack losses; withdrawals restart November 1",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-covers-90-of-6b-hack-losses-plans-withdrawals-nov-1/"
     },
     {
-      "headline": "Hackers hijack 12 DeFi websites registered with Name.com, draining about $138K",
-      "take": "Hackers compromise 12 DeFi sites registered with Name.com, steal $138K",
+      "headline": "Name.com restores hijacked domains after attack hit at least 12 DeFi front ends",
+      "take": "Hijacked Name.com domains hit at least 12 DeFi front ends",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hackers-hijack-defi-websites-name-com/"
+      "link": "https://cryptobriefing.com/name-com-restores-hijacked-defi-domains/"
     },
     {
       "headline": "THORChain pauses operations after Ethereum reorg triggers double refund",
-      "take": "THORChain pauses after Ethereum reorg causes unintended double refunds",
+      "take": "THORChain pauses after Ethereum reorg triggers unintended double refunds",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/thorchain-pauses-ethereum-reorg-double-refund/"
-    },
-    {
-      "headline": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-      "take": "London crypto theft problem highlighted by stolen iPhone case",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
-    },
-    {
-      "headline": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
-      "take": "Chainalysis breach exposes customer names and emails via offensive techniques",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
     }
   ],
   "policy": [
     {
+      "headline": "Binance $6B hack fuels Washington debate on crypto regulation before election",
+      "take": "Binance $6B hack fuels Washington debate on crypto regulation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-6b-hack-fuels-washington-debate-on-crypto-regulation-before-election/"
+    },
+    {
       "headline": "CFTC Chair Selig vows to take state fight over prediction markets to the Supreme Court",
-      "take": "CFTC Chair vows Supreme Court fight over state prediction market restrictions",
+      "take": "CFTC Chair pledges Supreme Court fight over prediction markets authority",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-selig-supreme-court-state-challenges/"
     }

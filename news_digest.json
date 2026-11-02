@@ -1,108 +1,114 @@
 {
-  "generated": "2026-11-01T19:44:46.260131+00:00",
-  "ts": 1793562286,
+  "generated": "2026-11-02T00:49:31.115380+00:00",
+  "ts": 1793580571,
   "market": [
     {
       "headline": "Crypto liquidations hit $12.5 billion in October 2026 as longs take the beating",
-      "take": "Crypto liquidations hit $12.5 billion in October as longs face pressure",
+      "take": "Crypto liquidations reached $12.5 billion in October as long positions unwound",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/crypto-liquidations-october-2026-longs/"
     },
     {
-      "headline": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "take": "Bitcoin ETF investors exit positions following record Binance hack incident",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
+      "headline": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "take": "Binance saw $3.64 billion net outflows after reopening withdrawals post-hack",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
     },
     {
       "headline": "Tech selloff may ease pressure on the Federal Reserve, says BMO economist",
-      "take": "Tech selloff may ease Federal Reserve pressure, economist suggests",
+      "take": "Tech selloff may reduce Federal Reserve pressure on interest rate policy",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/tech-selloff-ease-pressure-federal-reserve/"
     },
     {
-      "headline": "Meta\u2019s ad revenue surges 26%, outpacing Google\u2019s growth",
-      "take": "Meta ad revenue surges 26%, outpacing Google growth",
+      "headline": "Nu Holdings stock sinks after Lula wins Brazil\u2019s presidential runoff",
+      "take": "Nu Holdings stock fell after Lula won Brazil's presidential runoff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-ad-revenue-outpaces-google-search/"
+      "link": "https://cryptobriefing.com/nu-holdings-stock-drops-brazil-election/"
+    },
+    {
+      "headline": "Sweeper bots burn $4,800 in Bitcoin fees chasing $12.67",
+      "take": "Sweeper bots burned $4,800 in fees pursuing a $12.67 transaction",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sweeper-bots-burn-bitcoin-fees-weak-key/"
     }
   ],
   "business": [
     {
-      "headline": "Binance sees nearly $3.8 billion withdrawn in 10 hours after reopening",
-      "take": "Binance sees $3.8 billion withdrawn in 10 hours after reopening",
+      "headline": "Aramco takes 49% stake in Saudi AI company HUMAIN for $2.6 billion plus assets",
+      "take": "Aramco acquired 49% of Saudi AI firm HUMAIN for $2.6 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-3-8-billion-withdrawals-after-hack/"
+      "link": "https://cryptobriefing.com/aramco-49-percent-stake-humain-ai/"
+    },
+    {
+      "headline": "Andrej Karpathy launches HackerTube, a Claude-curated YouTube alternative built from Hacker News comments",
+      "take": "Andrej Karpathy launched HackerTube, a Claude-powered YouTube alternative",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/andrej-karpathy-launches-hackertube/"
+    },
+    {
+      "headline": "Microsoft shifts Copilot to usage-based pricing, boosting growth potential",
+      "take": "Microsoft shifted Copilot to usage-based pricing model for growth",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/microsoft-copilot-usage-based-pricing-growth/"
+    },
+    {
+      "headline": "Anthropic hints at Claude Mythos 5.5 for cybersecurity and biology research",
+      "take": "Anthropic hinted at Claude Mythos 5.5 for cybersecurity and biology",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-claude-mythos-5-5-cybersecurity/"
     },
     {
       "headline": "Obol World sends 80% of revenue to buybacks and burns, launches API for bots",
-      "take": "Obol World redirects 80% revenue to buybacks, launches bot API",
+      "take": "Obol World directs 80% of revenue to buybacks and burns",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/obol-world-api-80-percent-buybacks/"
-    },
-    {
-      "headline": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-      "take": "Crypto card startups lose money to attract customers with rewards",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards"
     }
   ],
   "security": [
     {
       "headline": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
-      "take": "North Korean hackers launder $242 million Binance theft via Tron",
+      "take": "North Korean hackers laundered $242 million Binance theft via Tron",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
     },
     {
       "headline": "Solana Mobile patches bug after malicious app appears in dApp Portal",
-      "take": "Solana Mobile patches bug after malicious app found in dApp Portal",
+      "take": "Solana Mobile patched bug after malicious app appeared in dApp Portal",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-mobile-patches-bug-malicious-app-dapp-portal/"
     },
     {
       "headline": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "take": "AI agents bypassed crypto spending limits without human approval in tests",
+      "take": "AI agents bypassed crypto spending limits without human approval in test",
       "source": "coindesk",
       "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
     },
     {
       "headline": "Talis Protocol pauses listings after NFT exploit nets attacker about $3,100",
-      "take": "Talis Protocol pauses listings after NFT exploit steals $3,100",
+      "take": "Talis Protocol paused listings after NFT exploit netted attacker $3,100",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/talis-protocol-pauses-listings-nft-exploit/"
-    },
-    {
-      "headline": "Elon Musk warns AI agents could become crypto\u2019s next big security threat",
-      "take": "Elon Musk warns AI agents could become crypto's next security threat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/elon-musk-ai-hacks-crypto-binance/"
     }
   ],
   "policy": [
     {
-      "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "take": "Crypto reader's guide to 2026 midterm election and regulatory outlook",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
-    },
-    {
-      "headline": "Trump says US would contact North Korea if it\u2019s tied to the $6.3 billion Binance hack",
-      "take": "Trump says US would contact North Korea if tied to Binance hack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-north-korea-binance-hack/"
-    },
-    {
       "headline": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-      "take": "Sherrod Brown's Ohio edge threatens rough crypto regulatory year ahead",
+      "take": "Sherrod Brown's Ohio victory signals potential headwinds for crypto policy",
       "source": "coindesk",
       "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
     },
     {
-      "headline": "China Communist Party Urges Tougher Action on Crypto Corruption",
-      "take": "China Communist Party urges tougher action on crypto corruption",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-01/china-communist-party-urges-tougher-action-on-crypto-corruption"
+      "headline": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "take": "Crypto PACs funded major Republican push in final weeks before election",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election"
+    },
+    {
+      "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "take": "2026 midterms will shape crypto regulatory and legislative landscape ahead",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
     }
   ]
 }

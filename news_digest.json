@@ -1,114 +1,84 @@
 {
-  "generated": "2026-11-02T00:49:31.115380+00:00",
-  "ts": 1793580571,
+  "generated": "2026-11-02T11:21:44.176215+00:00",
+  "ts": 1793618504,
   "market": [
     {
-      "headline": "Crypto liquidations hit $12.5 billion in October 2026 as longs take the beating",
-      "take": "Crypto liquidations reached $12.5 billion in October as long positions unwound",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-liquidations-october-2026-longs/"
+      "headline": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+      "take": "FBI attributes $6 billion Binance hack to North Korea; exchange resumes withdrawals",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
     },
     {
-      "headline": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "take": "Binance saw $3.64 billion net outflows after reopening withdrawals post-hack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
+      "headline": "OKX leads crypto exchanges with $445M in daily inflows as Binance sees $7B outflows",
+      "take": "OKX gains $445M daily inflows while Binance sees $7B outflows post-hack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/okx-leads-inflows-binance-7b-outflows/"
     },
     {
-      "headline": "Tech selloff may ease pressure on the Federal Reserve, says BMO economist",
-      "take": "Tech selloff may reduce Federal Reserve pressure on interest rate policy",
+      "headline": "Bitcoin holds above $77K ahead of US midterm elections",
+      "take": "Bitcoin holds above $77K despite Binance hack and US midterm elections",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-selloff-ease-pressure-federal-reserve/"
+      "link": "https://cryptobriefing.com/bitcoin-holds-76k-ahead-us-midterms/"
     },
     {
-      "headline": "Nu Holdings stock sinks after Lula wins Brazil\u2019s presidential runoff",
-      "take": "Nu Holdings stock fell after Lula won Brazil's presidential runoff",
+      "headline": "Bitcoin spot ETFs see $203M net outflows, Ethereum ETFs lose $432M",
+      "take": "Bitcoin ETFs lose $203M while Ethereum ETFs drop $432M following hack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nu-holdings-stock-drops-brazil-election/"
+      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-october/"
     },
     {
-      "headline": "Sweeper bots burn $4,800 in Bitcoin fees chasing $12.67",
-      "take": "Sweeper bots burned $4,800 in fees pursuing a $12.67 transaction",
+      "headline": "Metaplanet buys back 22.46 million shares for $37.8 million to lift Bitcoin per share",
+      "take": "Metaplanet repurchases 22.46M shares for $37.8M to increase Bitcoin per share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sweeper-bots-burn-bitcoin-fees-weak-key/"
+      "link": "https://cryptobriefing.com/metaplanet-share-buyback-bitcoin-per-share/"
     }
   ],
   "business": [
     {
-      "headline": "Aramco takes 49% stake in Saudi AI company HUMAIN for $2.6 billion plus assets",
-      "take": "Aramco acquired 49% of Saudi AI firm HUMAIN for $2.6 billion",
+      "headline": "HSBC\u2019s RedCoin stablecoin attracts 50,000 users in just over a week",
+      "take": "HSBC's RedCoin stablecoin attracts 50,000 users within over a week",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aramco-49-percent-stake-humain-ai/"
+      "link": "https://cryptobriefing.com/hsbc-redcoin-stablecoin-50000-users/"
     },
     {
-      "headline": "Andrej Karpathy launches HackerTube, a Claude-curated YouTube alternative built from Hacker News comments",
-      "take": "Andrej Karpathy launched HackerTube, a Claude-powered YouTube alternative",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/andrej-karpathy-launches-hackertube/"
+      "headline": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+      "take": "Metals.io launches copper-backed tokens for 25 tonnes stored in Germany",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany"
     },
     {
-      "headline": "Microsoft shifts Copilot to usage-based pricing, boosting growth potential",
-      "take": "Microsoft shifted Copilot to usage-based pricing model for growth",
+      "headline": "OpenAI and Abu Dhabi launch machine-readable government initiative",
+      "take": "OpenAI and Abu Dhabi launch machine-readable government initiative together",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-copilot-usage-based-pricing-growth/"
+      "link": "https://cryptobriefing.com/openai-abu-dhabi-machine-readable-government/"
     },
     {
-      "headline": "Anthropic hints at Claude Mythos 5.5 for cybersecurity and biology research",
-      "take": "Anthropic hinted at Claude Mythos 5.5 for cybersecurity and biology",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-mythos-5-5-cybersecurity/"
-    },
-    {
-      "headline": "Obol World sends 80% of revenue to buybacks and burns, launches API for bots",
-      "take": "Obol World directs 80% of revenue to buybacks and burns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/obol-world-api-80-percent-buybacks/"
+      "headline": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "take": "Hong Kong extends tokenized settlement to 24/7, plans stablecoin trials",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
-      "headline": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
-      "take": "North Korean hackers laundered $242 million Binance theft via Tron",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
-    },
-    {
-      "headline": "Solana Mobile patches bug after malicious app appears in dApp Portal",
-      "take": "Solana Mobile patched bug after malicious app appeared in dApp Portal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-mobile-patches-bug-malicious-app-dapp-portal/"
-    },
-    {
-      "headline": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "take": "AI agents bypassed crypto spending limits without human approval in test",
+      "headline": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "take": "BTCPay users advised to switch servers off after wallet draining reports",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
-    },
-    {
-      "headline": "Talis Protocol pauses listings after NFT exploit nets attacker about $3,100",
-      "take": "Talis Protocol paused listings after NFT exploit netted attacker $3,100",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/talis-protocol-pauses-listings-nft-exploit/"
+      "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
     }
   ],
   "policy": [
     {
-      "headline": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-      "take": "Sherrod Brown's Ohio victory signals potential headwinds for crypto policy",
+      "headline": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+      "take": "China's Communist Party calls for crackdown on corruption using crypto",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
+      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain"
     },
     {
-      "headline": "Crypto PACs made big Republican push in final weeks before November 3 election",
-      "take": "Crypto PACs funded major Republican push in final weeks before election",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election"
-    },
-    {
-      "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "take": "2026 midterms will shape crypto regulatory and legislative landscape ahead",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
+      "headline": "Bank of Korea probes financial firms\u2019 exposure to crypto risks",
+      "take": "Bank of Korea probes 31 financial firms' exposure to crypto risk scenarios",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

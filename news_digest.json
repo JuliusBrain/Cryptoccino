@@ -1,84 +1,126 @@
 {
-  "generated": "2026-11-02T11:21:44.176215+00:00",
-  "ts": 1793618504,
+  "generated": "2026-11-02T21:45:20.870268+00:00",
+  "ts": 1793655920,
   "market": [
     {
-      "headline": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-      "take": "FBI attributes $6 billion Binance hack to North Korea; exchange resumes withdrawals",
+      "headline": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "take": "Bitcoin traders anticipate post-election rally as exchange outflows signal supply tightness",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
+    },
+    {
+      "headline": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "take": "Analyst calls bottom on AI stock selloff citing tight supply and crypto resilience",
       "source": "decrypt",
-      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
+      "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
     },
     {
-      "headline": "OKX leads crypto exchanges with $445M in daily inflows as Binance sees $7B outflows",
-      "take": "OKX gains $445M daily inflows while Binance sees $7B outflows post-hack",
+      "headline": "Super League adds 8 BTC ahead of Metaplanet deal, bringing total to 15",
+      "take": "Super League adds bitcoin ahead of Metaplanet deal, expanding holdings to fifteen",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okx-leads-inflows-binance-7b-outflows/"
+      "link": "https://cryptobriefing.com/super-league-adds-8-btc-metaplanet-deal/"
     },
     {
-      "headline": "Bitcoin holds above $77K ahead of US midterm elections",
-      "take": "Bitcoin holds above $77K despite Binance hack and US midterm elections",
+      "headline": "Uniswap turns eight, says DEXs now hold 40% of exchange market share",
+      "take": "Decentralized exchanges now capture forty percent of total cryptocurrency exchange market share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-holds-76k-ahead-us-midterms/"
+      "link": "https://cryptobriefing.com/uniswap-eighth-anniversary-dex-market-share/"
     },
     {
-      "headline": "Bitcoin spot ETFs see $203M net outflows, Ethereum ETFs lose $432M",
-      "take": "Bitcoin ETFs lose $203M while Ethereum ETFs drop $432M following hack",
+      "headline": "StraitsX CEO says stablecoin cards are now buying groceries, not lambos",
+      "take": "Stablecoin cards transitioning from luxury purchases to everyday grocery buying use",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-october/"
-    },
-    {
-      "headline": "Metaplanet buys back 22.46 million shares for $37.8 million to lift Bitcoin per share",
-      "take": "Metaplanet repurchases 22.46M shares for $37.8M to increase Bitcoin per share",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metaplanet-share-buyback-bitcoin-per-share/"
+      "link": "https://cryptobriefing.com/straitsx-ceo-stablecoin-cards-money2020/"
     }
   ],
   "business": [
     {
-      "headline": "HSBC\u2019s RedCoin stablecoin attracts 50,000 users in just over a week",
-      "take": "HSBC's RedCoin stablecoin attracts 50,000 users within over a week",
+      "headline": "Injective unveils Institutional Rail, a dedicated gateway for banks and funds",
+      "take": "Injective launches dedicated institutional gateway for banks and investment funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hsbc-redcoin-stablecoin-50000-users/"
+      "link": "https://cryptobriefing.com/injective-institutional-rail-banks-funds/"
     },
     {
-      "headline": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
-      "take": "Metals.io launches copper-backed tokens for 25 tonnes stored in Germany",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany"
-    },
-    {
-      "headline": "OpenAI and Abu Dhabi launch machine-readable government initiative",
-      "take": "OpenAI and Abu Dhabi launch machine-readable government initiative together",
+      "headline": "RedStone powers new Apple perpetual futures market on Hyperliquid",
+      "take": "RedStone powers Apple perpetual futures market launch on Hyperliquid protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-abu-dhabi-machine-readable-government/"
+      "link": "https://cryptobriefing.com/redstone-apple-perp-hyperliquid-entropy/"
     },
     {
-      "headline": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "take": "Hong Kong extends tokenized settlement to 24/7, plans stablecoin trials",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "NYSE expands tokenization push with firms serving nearly 99% of S&P 500",
+      "take": "NYSE expands tokenization initiative with firms representing nearly all S&P 500 companies",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nyse-expands-tokenization-push-with-firms-serving-nearly-99-of-sp-500/"
+    },
+    {
+      "headline": "Securitize expands tokenized US stock offering to 25 equities",
+      "take": "Securitize adds twelve more tokenized US stock offerings to existing thirteen equities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/securitize-expands-tokenized-stocks-25-equities/"
+    },
+    {
+      "headline": "Solana Labs opens applications for Incubator Cohort 6",
+      "take": "Solana Labs opens applications for sixth cohort of blockchain development incubator",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-labs-incubator-cohort-6-applications/"
     }
   ],
   "security": [
     {
-      "headline": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-      "take": "BTCPay users advised to switch servers off after wallet draining reports",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
+      "headline": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "take": "Unknown attacker steals one hundred six million from EU entity days after Binance breach",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack"
+    },
+    {
+      "headline": "Mercado Bitcoin, Brazil\u2019s largest crypto exchange, hit by $46 million security breach",
+      "take": "Mercado Bitcoin suffers forty-six million dollar security breach affecting Brazilian users",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
+    },
+    {
+      "headline": "Opsek founder says Binance attackers may have had access for weeks before the hack",
+      "take": "Binance breach attackers likely maintained system access for weeks before discovery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/opsek-founder-binance-hack-prior-access/"
+    },
+    {
+      "headline": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+      "take": "North Korea laundering Binance hack proceeds through new wallets every twenty-five seconds",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
+    },
+    {
+      "headline": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+      "take": "Claude-built exploit targets unpatched Ubuntu bug creating Linux security vulnerability",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu"
     }
   ],
   "policy": [
     {
-      "headline": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
-      "take": "China's Communist Party calls for crackdown on corruption using crypto",
+      "headline": "Big crypto wants the one thing it can\u2019t buy: your vote",
+      "take": "Cryptocurrency industry seeks political influence and voter engagement amid regulatory debates",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain"
+      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote"
     },
     {
-      "headline": "Bank of Korea probes financial firms\u2019 exposure to crypto risks",
-      "take": "Bank of Korea probes 31 financial firms' exposure to crypto risk scenarios",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "New Jersey drops staking lawsuit against Coinbase, clearing path for users to resume",
+      "take": "New Jersey dismisses staking lawsuit against Coinbase, allowing user participation resumption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/new-jersey-drops-coinbase-staking-lawsuit/"
+    },
+    {
+      "headline": "Tokenized assets must prove investor rights after DTCC launch, CineNow executive says",
+      "take": "Tokenized assets must demonstrate investor rights protections following DTCC market launch",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dtcc-tokenization-service-proving-investor-rights/"
+    },
+    {
+      "headline": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+      "take": "Nvidia and Nike lead largest wave yet of objections to tokenized stock offerings",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections"
     }
   ]
 }

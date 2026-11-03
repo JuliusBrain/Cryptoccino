@@ -1,126 +1,108 @@
 {
-  "generated": "2026-11-02T21:45:20.870268+00:00",
-  "ts": 1793655920,
+  "generated": "2026-11-03T06:56:10.402753+00:00",
+  "ts": 1793688970,
   "market": [
     {
-      "headline": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-      "take": "Bitcoin traders anticipate post-election rally as exchange outflows signal supply tightness",
+      "headline": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "take": "Bitcoin falls below $77k as chip sector weakness pressures risk assets",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
     },
     {
-      "headline": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-      "take": "Analyst calls bottom on AI stock selloff citing tight supply and crypto resilience",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
-    },
-    {
-      "headline": "Super League adds 8 BTC ahead of Metaplanet deal, bringing total to 15",
-      "take": "Super League adds bitcoin ahead of Metaplanet deal, expanding holdings to fifteen",
+      "headline": "US Bitcoin ETFs see $399M in outflows, Ether funds lose $140M",
+      "take": "Bitcoin ETFs see $399M outflows, Ether funds lose $140M in redemptions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/super-league-adds-8-btc-metaplanet-deal/"
+      "link": "https://cryptobriefing.com/us-bitcoin-ether-etfs-outflows-november/"
     },
     {
-      "headline": "Uniswap turns eight, says DEXs now hold 40% of exchange market share",
-      "take": "Decentralized exchanges now capture forty percent of total cryptocurrency exchange market share",
+      "headline": "BlackRock sells $405M worth of Bitcoin as IBIT redemptions pile up",
+      "take": "BlackRock sells $405M Bitcoin as IBIT redemptions accelerate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-eighth-anniversary-dex-market-share/"
+      "link": "https://cryptobriefing.com/blackrock-sells-405m-bitcoin-ibit/"
     },
     {
-      "headline": "StraitsX CEO says stablecoin cards are now buying groceries, not lambos",
-      "take": "Stablecoin cards transitioning from luxury purchases to everyday grocery buying use",
+      "headline": "Tether CEO says company now holds about 150,000 Bitcoin",
+      "take": "Tether holds approximately 150,000 Bitcoin in reserve now",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/straitsx-ceo-stablecoin-cards-money2020/"
+      "link": "https://cryptobriefing.com/tether-ceo-150000-bitcoin-holdings/"
+    },
+    {
+      "headline": "Bitwise\u2019s Matt Hougan says median top-20 crypto asset is down 15% this year",
+      "take": "Median top-20 crypto asset down 15% year-to-date through November",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-median-top-20-crypto-down-15/"
     }
   ],
   "business": [
     {
-      "headline": "Injective unveils Institutional Rail, a dedicated gateway for banks and funds",
-      "take": "Injective launches dedicated institutional gateway for banks and investment funds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-institutional-rail-banks-funds/"
+      "headline": "Arbitrum\u2019s council moved $30 million of Binance hack funds without the hacker\u2019s key",
+      "take": "Arbitrum council moved $30M Binance hack funds without hacker authorization",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
     },
     {
-      "headline": "RedStone powers new Apple perpetual futures market on Hyperliquid",
-      "take": "RedStone powers Apple perpetual futures market launch on Hyperliquid protocol",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/redstone-apple-perp-hyperliquid-entropy/"
+      "headline": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+      "take": "Ark Invest adds Circle and Robinhood, buys $3.4M Coinbase stake",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352"
     },
     {
-      "headline": "NYSE expands tokenization push with firms serving nearly 99% of S&P 500",
-      "take": "NYSE expands tokenization initiative with firms representing nearly all S&P 500 companies",
+      "headline": "NEAR Protocol approves cut to max annual issuance from 2.5% to 1.6%",
+      "take": "NEAR Protocol reduces maximum annual issuance from 2.5% to 1.6%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nyse-expands-tokenization-push-with-firms-serving-nearly-99-of-sp-500/"
+      "link": "https://cryptobriefing.com/near-protocol-cuts-max-issuance-1-6-percent/"
     },
     {
-      "headline": "Securitize expands tokenized US stock offering to 25 equities",
-      "take": "Securitize adds twelve more tokenized US stock offerings to existing thirteen equities",
+      "headline": "Ethereum Foundation launches evm.fast challenge to verify block limits",
+      "take": "Ethereum Foundation launches evm.fast challenge for block limit verification",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/securitize-expands-tokenized-stocks-25-equities/"
+      "link": "https://cryptobriefing.com/ethereum-foundation-evm-fast-challenge-block-limits/"
     },
     {
-      "headline": "Solana Labs opens applications for Incubator Cohort 6",
-      "take": "Solana Labs opens applications for sixth cohort of blockchain development incubator",
+      "headline": "Ohio teachers\u2019 pension boosts Strategy stake by 83% to 110,011 shares",
+      "take": "Ohio teachers' pension increases Strategy Holdings stake by 83%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-labs-incubator-cohort-6-applications/"
+      "link": "https://cryptobriefing.com/ohio-teachers-pension-boosts-strategy-stake/"
     }
   ],
   "security": [
     {
-      "headline": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-      "take": "Unknown attacker steals one hundred six million from EU entity days after Binance breach",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack"
+      "headline": "Disrupting the Mercado Bitcoin Attack: How Chainalysis Led the Freeze of Nearly $10M in Stolen Funds",
+      "take": "Chainalysis froze nearly $10M stolen in Mercado Bitcoin attack",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/"
     },
     {
-      "headline": "Mercado Bitcoin, Brazil\u2019s largest crypto exchange, hit by $46 million security breach",
-      "take": "Mercado Bitcoin suffers forty-six million dollar security breach affecting Brazilian users",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
-    },
-    {
-      "headline": "Opsek founder says Binance attackers may have had access for weeks before the hack",
-      "take": "Binance breach attackers likely maintained system access for weeks before discovery",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/opsek-founder-binance-hack-prior-access/"
-    },
-    {
-      "headline": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
-      "take": "North Korea laundering Binance hack proceeds through new wallets every twenty-five seconds",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
-    },
-    {
-      "headline": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
-      "take": "Claude-built exploit targets unpatched Ubuntu bug creating Linux security vulnerability",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu"
+      "headline": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "take": "Tech firms dismantle botnet that compromised 1.3M TV boxes as proxies",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
     }
   ],
   "policy": [
     {
-      "headline": "Big crypto wants the one thing it can\u2019t buy: your vote",
-      "take": "Cryptocurrency industry seeks political influence and voter engagement amid regulatory debates",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote"
-    },
-    {
-      "headline": "New Jersey drops staking lawsuit against Coinbase, clearing path for users to resume",
-      "take": "New Jersey dismisses staking lawsuit against Coinbase, allowing user participation resumption",
+      "headline": "WEF and BCG lay out a nine-part playbook for digital asset regulation",
+      "take": "WEF and BCG publish nine-point digital asset regulation framework playbook",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/new-jersey-drops-coinbase-staking-lawsuit/"
+      "link": "https://cryptobriefing.com/wef-bcg-digital-assets-regulation-report/"
     },
     {
-      "headline": "Tokenized assets must prove investor rights after DTCC launch, CineNow executive says",
-      "take": "Tokenized assets must demonstrate investor rights protections following DTCC market launch",
+      "headline": "Crypto.com to shut down consumer app in Hong Kong on February 1, 2027",
+      "take": "Crypto.com shutting Hong Kong consumer app February 1, 2027 due to regulations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dtcc-tokenization-service-proving-investor-rights/"
+      "link": "https://cryptobriefing.com/crypto-com-shut-down-hong-kong-app/"
     },
     {
-      "headline": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-      "take": "Nvidia and Nike lead largest wave yet of objections to tokenized stock offerings",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections"
+      "headline": "North Korea denies involvement in $6.3B Binance hack, calls FBI claims absurd",
+      "take": "North Korea denies involvement in record $6.3B Binance hack",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/north-korea-denies-involvement-in-6-3b-binance-hack-calls-fbi-claims-absurd/"
+    },
+    {
+      "headline": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
+      "take": "New Jersey drops Coinbase staking order as crypto regulation clarifies",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

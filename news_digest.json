@@ -1,108 +1,108 @@
 {
-  "generated": "2026-11-03T06:56:10.402753+00:00",
-  "ts": 1793688970,
+  "generated": "2026-11-03T17:07:45.118574+00:00",
+  "ts": 1793725665,
   "market": [
     {
-      "headline": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-      "take": "Bitcoin falls below $77k as chip sector weakness pressures risk assets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+      "headline": "Bitcoin ETFs Lose $1 Billion as Midterms, Binance Hack Weigh on Sentiment",
+      "take": "Bitcoin ETFs shed $1 billion amid Binance hack and broader sentiment pressure",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/bitcoin-etfs-lose-1-billion-as-midterms-binance-hack-weigh-on-sentiment"
     },
     {
-      "headline": "US Bitcoin ETFs see $399M in outflows, Ether funds lose $140M",
-      "take": "Bitcoin ETFs see $399M outflows, Ether funds lose $140M in redemptions",
+      "headline": "Tron stablecoins post largest weekly gain, adding $256.5 million",
+      "take": "Tron stablecoins post largest weekly gain, accumulating $256.5 million in volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-bitcoin-ether-etfs-outflows-november/"
+      "link": "https://cryptobriefing.com/tron-stablecoins-256-million-weekly-gain/"
     },
     {
-      "headline": "BlackRock sells $405M worth of Bitcoin as IBIT redemptions pile up",
-      "take": "BlackRock sells $405M Bitcoin as IBIT redemptions accelerate",
+      "headline": "Tokenized stocks on Solana surge 3.5x since January 1",
+      "take": "Tokenized stocks on Solana surge 3.5x since January, attracting DeFi deposits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-sells-405m-bitcoin-ibit/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-solana-surge-3-5x/"
     },
     {
-      "headline": "Tether CEO says company now holds about 150,000 Bitcoin",
-      "take": "Tether holds approximately 150,000 Bitcoin in reserve now",
+      "headline": "Bitcoin has already hit cycle bottom, Moon Pursuit Capital founder says",
+      "take": "Bitcoin has already hit cycle bottom, according to Moon Pursuit Capital founder",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-ceo-150000-bitcoin-holdings/"
-    },
-    {
-      "headline": "Bitwise\u2019s Matt Hougan says median top-20 crypto asset is down 15% this year",
-      "take": "Median top-20 crypto asset down 15% year-to-date through November",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-median-top-20-crypto-down-15/"
+      "link": "https://cryptobriefing.com/bitcoin-cycle-bottom-moon-pursuit-capital/"
     }
   ],
   "business": [
     {
-      "headline": "Arbitrum\u2019s council moved $30 million of Binance hack funds without the hacker\u2019s key",
-      "take": "Arbitrum council moved $30M Binance hack funds without hacker authorization",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
-    },
-    {
-      "headline": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
-      "take": "Ark Invest adds Circle and Robinhood, buys $3.4M Coinbase stake",
+      "headline": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "take": "CFTC approves individual stock perpetual futures trading in US for first time",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352"
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422"
     },
     {
-      "headline": "NEAR Protocol approves cut to max annual issuance from 2.5% to 1.6%",
-      "take": "NEAR Protocol reduces maximum annual issuance from 2.5% to 1.6%",
+      "headline": "Tokenized stocks from Robinhood, Binance, and Coinbase attract $130.5M in DeFi deposits",
+      "take": "Tokenized stocks from major exchanges attract $130.5 million in new DeFi deposits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-protocol-cuts-max-issuance-1-6-percent/"
+      "link": "https://cryptobriefing.com/tokenized-stocks-robinhood-binance-coinbase-defi-deposits/"
     },
     {
-      "headline": "Ethereum Foundation launches evm.fast challenge to verify block limits",
-      "take": "Ethereum Foundation launches evm.fast challenge for block limit verification",
+      "headline": "Kamino commits $20M to expand tokenized asset offerings",
+      "take": "Kamino commits $20 million to expand tokenized asset offerings across platforms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-foundation-evm-fast-challenge-block-limits/"
+      "link": "https://cryptobriefing.com/kamino-commits-20m-tokenized-assets/"
     },
     {
-      "headline": "Ohio teachers\u2019 pension boosts Strategy stake by 83% to 110,011 shares",
-      "take": "Ohio teachers' pension increases Strategy Holdings stake by 83%",
+      "headline": "Jupiter brings Asian equity perpetuals to Solana with Chainlink data",
+      "take": "Jupiter launches Asian equity perpetuals on Solana using Chainlink price feeds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ohio-teachers-pension-boosts-strategy-stake/"
+      "link": "https://cryptobriefing.com/jupiter-chainlink-asian-equity-perpetuals/"
+    },
+    {
+      "headline": "ORE and Jito Foundation swap treasury stakes in reciprocal deal",
+      "take": "ORE and Jito Foundation execute reciprocal treasury stake swap deal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ore-jito-foundation-reciprocal-treasury-holdings/"
     }
   ],
   "security": [
     {
-      "headline": "Disrupting the Mercado Bitcoin Attack: How Chainalysis Led the Freeze of Nearly $10M in Stolen Funds",
-      "take": "Chainalysis froze nearly $10M stolen in Mercado Bitcoin attack",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/"
+      "headline": "Binance reveals fake job interview and compromised AI tool behind $6.34B hack",
+      "take": "Binance $6.34 billion hack began with fake job interview, months-long campaign",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-attacker-compromised-computer-ai-tool/"
     },
     {
-      "headline": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "take": "Tech firms dismantle botnet that compromised 1.3M TV boxes as proxies",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
+      "headline": "Kraken, Crypto.com block funds linked to suspected $133M crypto theft: Report",
+      "take": "Kraken and Crypto.com block funds linked to suspected $133 million crypto theft",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-theft-investigation-kraken-crypto-com/"
+    },
+    {
+      "headline": "Binance blocks 57 suspected North Korea-linked cyber threats in 2026",
+      "take": "Binance blocks fifty-seven suspected North Korea-linked cyber threats in 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-blocks-57-north-korea-cyber-threats/"
+    },
+    {
+      "headline": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+      "take": "UK assesses AI-powered ransomware attack on critical infrastructure highly likely by 2028",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028"
     }
   ],
   "policy": [
     {
-      "headline": "WEF and BCG lay out a nine-part playbook for digital asset regulation",
-      "take": "WEF and BCG publish nine-point digital asset regulation framework playbook",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wef-bcg-digital-assets-regulation-report/"
+      "headline": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "take": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties"
     },
     {
-      "headline": "Crypto.com to shut down consumer app in Hong Kong on February 1, 2027",
-      "take": "Crypto.com shutting Hong Kong consumer app February 1, 2027 due to regulations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-com-shut-down-hong-kong-app/"
+      "headline": "South Korea's president says country needs a \u2018cybersecurity czar\u2019 following $6.3 billion Binance hack",
+      "take": "South Korea's president calls for dedicated cybersecurity czar after $6.3 billion hack",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack"
     },
     {
-      "headline": "North Korea denies involvement in $6.3B Binance hack, calls FBI claims absurd",
-      "take": "North Korea denies involvement in record $6.3B Binance hack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korea-denies-involvement-in-6-3b-binance-hack-calls-fbi-claims-absurd/"
-    },
-    {
-      "headline": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
-      "take": "New Jersey drops Coinbase staking order as crypto regulation clarifies",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "CFTC Secures Court Order Directing Texas Man and His Company to Pay Over $13 Million in Commodities Fraud",
+      "take": "CFTC secures court order requiring Texas man's company pay $13 million fraud restitution",
+      "source": "cftc_enforcement",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9320-26"
     }
   ]
 }

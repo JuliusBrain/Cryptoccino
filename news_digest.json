@@ -1,90 +1,96 @@
 {
-  "generated": "2026-11-04T06:37:22.708783+00:00",
-  "ts": 1793774242,
+  "generated": "2026-11-04T17:19:47.472761+00:00",
+  "ts": 1793812787,
   "market": [
     {
-      "headline": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
-      "take": "Bitcoin recovers to $78,000 as midterm election uncertainty fades",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
-    },
-    {
-      "headline": "XRP wallets holding 1 million tokens climb to 2,147, highest of 2026",
-      "take": "XRP wallets holding 1M tokens reach 2,147, highest level this year",
+      "headline": "Bitcoin hits $80,000, triggering $415M in liquidations",
+      "take": "Bitcoin reaches $80,000, causing $415 million in liquidations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-wallets-1-million-tokens-2026-high/"
+      "link": "https://cryptobriefing.com/bitcoin-80000-415m-liquidations-short-squeeze/"
     },
     {
-      "headline": "Coinbase adds CARDS to listing roadmap, token rises 4%",
-      "take": "Coinbase adds CARDS token to listing roadmap, token rises 4%",
+      "headline": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+      "take": "Tech stocks surge while Tesla and Nvidia decline after Democratic sweep",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank"
+    },
+    {
+      "headline": "US, Brent crude futures fall over $4 amid geopolitical tensions",
+      "take": "Crude futures fall over $4 amid geopolitical tensions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-adds-cards-listing-roadmap/"
-    },
-    {
-      "headline": "South Korea\u2019s ruling party formally proposes deferral of crypto income tax",
-      "take": "South Korea ruling party formally proposes deferring crypto income tax",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
+      "link": "https://cryptobriefing.com/us-brent-crude-futures-fall-over-4-amid-geopolitical-tensions/"
     }
   ],
   "business": [
     {
-      "headline": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "take": "Block faces $764M DOJ settlement as bitcoin profit plunges 50%",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50"
+      "headline": "Phaze raises $8.75 million seed round led by a16z to build remote desktops for humans and AI agents",
+      "take": "Phaze raises $8.75 million seed round led by a16z for AI agents",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/phaze-raises-seed-round-a16z-remote-desktop/"
     },
     {
-      "headline": "Coinbase resumes crypto staking in New Jersey after order reversal",
-      "take": "Coinbase resumes crypto staking in New Jersey after order reversal",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-resumes-crypto-staking-in-new-jersey-after-order-reversal/"
+      "headline": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "take": "Schroders launches tokenized emerging markets debt fund on Solana",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
     },
     {
-      "headline": "Solana co-founder Anatoly Yakovenko tells data centers to pivot to crypto",
-      "take": "Solana co-founder urges data centers to pivot toward crypto operations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-yakovenko-data-centers-pivot-crypto/"
+      "headline": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+      "take": "Morgan Stanley tokenizes securities, bringing Wall Street onchain",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities"
     },
     {
-      "headline": "Ark Invest buys 12,835 Circle shares for roughly $965K, trims Bullish",
-      "take": "Ark Invest buys 12,835 Circle shares for roughly $965K",
+      "headline": "Anthropic uses Claude AI to accelerate custom chip design, challenges Nvidia, AMD",
+      "take": "Anthropic uses Claude AI to accelerate custom chip design",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-buys-circle-shares-sells-bullish/"
+      "link": "https://cryptobriefing.com/anthropic-uses-claude-ai-to-accelerate-custom-chip-design-challenges-nvidia-amd/"
+    },
+    {
+      "headline": "ApeChain migrates to Chainlink CCIP for cross-chain infrastructure",
+      "take": "ApeChain migrates to Chainlink CCIP for cross-chain infrastructure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/apechain-migrates-chainlink-ccip-cross-chain/"
     }
   ],
   "security": [
     {
-      "headline": "French bank Cr\u00e9dit Mutuel Ark\u00e9a exploited for over $133 million, ZachXBT says",
-      "take": "French bank Cr\u00e9dit Mutuel Ark\u00e9a exploited for over $133M",
+      "headline": "Cr\u00e9dit Mutuel Ark\u00e9a Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+      "take": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack linked to $133M crypto theft",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft"
+    },
+    {
+      "headline": "Coinbase says 99% of customer assets sit in cold storage after Binance\u2019s $6.3 billion breach",
+      "take": "Coinbase maintains 99% of customer assets in cold storage post-Binance hack",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
     },
     {
-      "headline": "BitMart confirms hack as analyst links breach to Mercado Bitcoin attack",
-      "take": "BitMart confirms hack, analyst links breach to Mercado Bitcoin attack",
+      "headline": "Coinbase\u2019s scam-prevention chat agent stops deepfake Musk giveaway during Tesla demo",
+      "take": "Coinbase chat agent blocks deepfake Musk giveaway scam during demo",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitmart-reports-minor-hack-amid-wind-down/"
-    },
-    {
-      "headline": "Flash-loan oracle attack inflates CoreVault redemptions 33x, drains 160.26 BNB",
-      "take": "Flash-loan oracle attack inflates CoreVault redemptions 33x, drains 160 BNB",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/corevault-flash-loan-oracle-attack-bnb/"
+      "link": "https://cryptobriefing.com/coinbase-ai-agent-stops-deepfake-musk-scam/"
     }
   ],
   "policy": [
     {
-      "headline": "Democrats claim control of the US Senate",
-      "take": "Democrats claim control of the US Senate after midterm elections",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+      "take": "Bitcoin rebounds after Democratic sweep but faces tougher Washington fight",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington"
     },
     {
-      "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
-      "take": "U.S.-sanctioned Moscow Exchange to list Bitcoin and USDT in December",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
+      "headline": "US midterms 2026: Voters back stricter data center regulations",
+      "take": "US voters back stricter data center regulations in 2026 midterms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-midterms-2026-voters-back-stricter-data-center-regulations/"
+    },
+    {
+      "headline": "EU AI rules to apply in Northern Ireland, but only for AI-integrated goods",
+      "take": "EU AI rules apply in Northern Ireland for AI-integrated goods only",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/eu-ai-rules-northern-ireland-embedded-goods/"
     }
   ]
 }

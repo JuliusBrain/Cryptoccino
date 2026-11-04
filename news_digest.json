@@ -1,96 +1,102 @@
 {
-  "generated": "2026-11-04T17:19:47.472761+00:00",
-  "ts": 1793812787,
+  "generated": "2026-11-04T23:45:06.014076+00:00",
+  "ts": 1793835906,
   "market": [
     {
-      "headline": "Bitcoin hits $80,000, triggering $415M in liquidations",
-      "take": "Bitcoin reaches $80,000, causing $415 million in liquidations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-80000-415m-liquidations-short-squeeze/"
+      "headline": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "take": "Bitcoin rebounds past $80,000 as markets shrug off recent turmoil",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030"
     },
     {
-      "headline": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
-      "take": "Tech stocks surge while Tesla and Nvidia decline after Democratic sweep",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank"
+      "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "take": "Tokenization and stablecoins may weather political shifts better than broader crypto rules",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
     },
     {
-      "headline": "US, Brent crude futures fall over $4 amid geopolitical tensions",
-      "take": "Crude futures fall over $4 amid geopolitical tensions",
+      "headline": "Oil prices plummet as Democratic sweep signals US policy shift on Iran",
+      "take": "Oil prices plummet as Democratic sweep signals potential US policy shift on Iran",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-brent-crude-futures-fall-over-4-amid-geopolitical-tensions/"
+      "link": "https://cryptobriefing.com/oil-prices-plummet-as-democratic-sweep-signals-us-policy-shift-on-iran/"
+    },
+    {
+      "headline": "D-Wave Quantum stock drops as much as 36% in October amid sector retreat",
+      "take": "D-Wave Quantum stock drops 36% in October amid broader sector retreat",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/d-wave-quantum-stock-drops-october/"
+    },
+    {
+      "headline": "Standard Asset Company outlines $1.5 billion Bitcoin and UAE real estate strategy",
+      "take": "Standard Asset Company outlines $1.5 billion Bitcoin and UAE real estate strategy",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/standard-asset-company-bitcoin-uae-real-estate-2/"
     }
   ],
   "business": [
     {
-      "headline": "Phaze raises $8.75 million seed round led by a16z to build remote desktops for humans and AI agents",
-      "take": "Phaze raises $8.75 million seed round led by a16z for AI agents",
+      "headline": "Anthropic adds /storage command to Claude desktop for storage management",
+      "take": "Anthropic adds storage command to Claude desktop for file management",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/phaze-raises-seed-round-a16z-remote-desktop/"
+      "link": "https://cryptobriefing.com/anthropic-claude-desktop-storage-command/"
     },
     {
-      "headline": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
-      "take": "Schroders launches tokenized emerging markets debt fund on Solana",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
-    },
-    {
-      "headline": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-      "take": "Morgan Stanley tokenizes securities, bringing Wall Street onchain",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities"
-    },
-    {
-      "headline": "Anthropic uses Claude AI to accelerate custom chip design, challenges Nvidia, AMD",
-      "take": "Anthropic uses Claude AI to accelerate custom chip design",
+      "headline": "Ethereum Economic Zone aims to stitch fragmented rollups back together",
+      "take": "Ethereum Economic Zone aims to reconnect fragmented rollups into unified ecosystem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-uses-claude-ai-to-accelerate-custom-chip-design-challenges-nvidia-amd/"
+      "link": "https://cryptobriefing.com/ethereum-economic-zone-connects-rollups/"
     },
     {
-      "headline": "ApeChain migrates to Chainlink CCIP for cross-chain infrastructure",
-      "take": "ApeChain migrates to Chainlink CCIP for cross-chain infrastructure",
+      "headline": "Tokenized CRCL now represents 2% of Circle\u2019s market cap",
+      "take": "Tokenized CRCL now represents 2% of Circle's total market capitalization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/apechain-migrates-chainlink-ccip-cross-chain/"
+      "link": "https://cryptobriefing.com/tokenized-crcl-2-percent-circle-market-cap/"
+    },
+    {
+      "headline": "CoreWeave faces debt challenges amid potential neocloud stock rally",
+      "take": "CoreWeave faces debt challenges amid potential neocloud stock expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-faces-debt-challenges-amid-potential-neocloud-stock-rally/"
     }
   ],
   "security": [
     {
-      "headline": "Cr\u00e9dit Mutuel Ark\u00e9a Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "take": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack linked to $133M crypto theft",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft"
-    },
-    {
-      "headline": "Coinbase says 99% of customer assets sit in cold storage after Binance\u2019s $6.3 billion breach",
-      "take": "Coinbase maintains 99% of customer assets in cold storage post-Binance hack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
-    },
-    {
-      "headline": "Coinbase\u2019s scam-prevention chat agent stops deepfake Musk giveaway during Tesla demo",
-      "take": "Coinbase chat agent blocks deepfake Musk giveaway scam during demo",
+      "headline": "Taylor Monahan on the $30M bank hack that exchanges couldn\u2019t freeze",
+      "take": "Bank hack worth $30M demonstrates exchange inability to freeze stolen funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-ai-agent-stops-deepfake-musk-scam/"
+      "link": "https://cryptobriefing.com/taylor-monahan-30m-bank-hack-tracing/"
+    },
+    {
+      "headline": "Former FBI agent set to plead guilty to stealing $1M in crypto",
+      "take": "Former FBI agent set to plead guilty to stealing $1 million in cryptocurrency",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/former-fbi-agent-plead-guilty-crypto-theft/"
+    },
+    {
+      "headline": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
+      "take": "Coinbase reports 99% of customer crypto held offline, away from hacker reach",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
     }
   ],
   "policy": [
     {
-      "headline": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-      "take": "Bitcoin rebounds after Democratic sweep but faces tougher Washington fight",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington"
+      "headline": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "take": "Democratic sweep of Congress forces crypto industry to reassess Washington strategy",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362"
     },
     {
-      "headline": "US midterms 2026: Voters back stricter data center regulations",
-      "take": "US voters back stricter data center regulations in 2026 midterms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-midterms-2026-voters-back-stricter-data-center-regulations/"
+      "headline": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+      "take": "Crypto super PAC suffers costly setback as Democrats sweep Congressional elections",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
     },
     {
-      "headline": "EU AI rules to apply in Northern Ireland, but only for AI-integrated goods",
-      "take": "EU AI rules apply in Northern Ireland for AI-integrated goods only",
+      "headline": "Congresswoman Yassamin Ansari calls to ban artificial superintelligence and pause advanced AI development",
+      "take": "Congresswoman Ansari calls for ban on artificial superintelligence and AI development pause",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-ai-rules-northern-ireland-embedded-goods/"
+      "link": "https://cryptobriefing.com/yassamin-ansari-pause-advanced-ai-development/"
     }
   ]
 }

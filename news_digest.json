@@ -1,102 +1,114 @@
 {
-  "generated": "2026-11-04T23:45:06.014076+00:00",
-  "ts": 1793835906,
+  "generated": "2026-11-05T06:57:14.228820+00:00",
+  "ts": 1793861834,
   "market": [
     {
-      "headline": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-      "take": "Bitcoin rebounds past $80,000 as markets shrug off recent turmoil",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030"
+      "headline": "BlackRock leads $53.02 million Ethereum ETF inflow, ending a weeklong outflow streak",
+      "take": "Ethereum ETF sees $53M inflow, reversing a week of outflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blackrock-ethereum-etf-inflow-53-million/"
     },
     {
-      "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "take": "Tokenization and stablecoins may weather political shifts better than broader crypto rules",
+      "headline": "Spot Bitcoin ETFs see $75M in net inflows as BlackRock\u2019s IBIT sheds $201M",
+      "take": "Spot Bitcoin ETFs post $75M net inflows despite BlackRock IBIT outflow",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-inflows-ibit-outflow/"
+    },
+    {
+      "headline": "Fidelity buys $237M worth of Bitcoin as FBTC inflows jump",
+      "take": "Fidelity purchases $237M in Bitcoin as FBTC inflows accelerate",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fidelity-buys-237m-bitcoin-fbtc-inflows/"
+    },
+    {
+      "headline": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "take": "Bitcoin holds above $80K amid post-election rally and macro shifts",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
+      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
     },
     {
-      "headline": "Oil prices plummet as Democratic sweep signals US policy shift on Iran",
-      "take": "Oil prices plummet as Democratic sweep signals potential US policy shift on Iran",
+      "headline": "Arthur Hayes warns AI equity dilution could pressure Bitcoin prices",
+      "take": "Arthur Hayes warns AI equity dilution could pressure Bitcoin prices",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oil-prices-plummet-as-democratic-sweep-signals-us-policy-shift-on-iran/"
-    },
-    {
-      "headline": "D-Wave Quantum stock drops as much as 36% in October amid sector retreat",
-      "take": "D-Wave Quantum stock drops 36% in October amid broader sector retreat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/d-wave-quantum-stock-drops-october/"
-    },
-    {
-      "headline": "Standard Asset Company outlines $1.5 billion Bitcoin and UAE real estate strategy",
-      "take": "Standard Asset Company outlines $1.5 billion Bitcoin and UAE real estate strategy",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/standard-asset-company-bitcoin-uae-real-estate-2/"
+      "link": "https://cryptobriefing.com/arthur-hayes-ai-dilution-bitcoin-liquidity/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic adds /storage command to Claude desktop for storage management",
-      "take": "Anthropic adds storage command to Claude desktop for file management",
+      "headline": "Polygon proposes hard fork to recover $7M in stolen Binance, Polymarket funds",
+      "take": "Polygon proposes hard fork to recover $7M in stolen funds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-claude-desktop-storage-command/"
+      "link": "https://cryptobriefing.com/polygon-hard-fork-recover-stolen-pol/"
     },
     {
-      "headline": "Ethereum Economic Zone aims to stitch fragmented rollups back together",
-      "take": "Ethereum Economic Zone aims to reconnect fragmented rollups into unified ecosystem",
+      "headline": "Aptos stitches stablecoins, tokenized funds and payments into one onchain stack",
+      "take": "Aptos integrates stablecoins, tokenized funds and payments onchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-economic-zone-connects-rollups/"
+      "link": "https://cryptobriefing.com/aptos-stablecoins-tokenized-funds-onchain-finance/"
     },
     {
-      "headline": "Tokenized CRCL now represents 2% of Circle\u2019s market cap",
-      "take": "Tokenized CRCL now represents 2% of Circle's total market capitalization",
+      "headline": "Ethereum outlines fork plan to reach Lean Ethereum by 2029",
+      "take": "Ethereum outlines plan to reach Lean Ethereum by 2029",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-crcl-2-percent-circle-market-cap/"
+      "link": "https://cryptobriefing.com/ethereum-fork-plan-lean-ethereum-2029/"
     },
     {
-      "headline": "CoreWeave faces debt challenges amid potential neocloud stock rally",
-      "take": "CoreWeave faces debt challenges amid potential neocloud stock expansion",
+      "headline": "Jupiter holds top DEX aggregator spot for eighth straight quarter in Q3 2026",
+      "take": "Jupiter retains top DEX aggregator position for eighth consecutive quarter",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-faces-debt-challenges-amid-potential-neocloud-stock-rally/"
+      "link": "https://cryptobriefing.com/jupiter-top-dex-aggregator-q3-2026/"
+    },
+    {
+      "headline": "Blockaid secures $40M in funding commitments after $6.3B Binance hack",
+      "take": "Blockaid secures $40M funding commitments following Binance hack incident",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockaid-40m-funding-binance-hack/"
     }
   ],
   "security": [
     {
-      "headline": "Taylor Monahan on the $30M bank hack that exchanges couldn\u2019t freeze",
-      "take": "Bank hack worth $30M demonstrates exchange inability to freeze stolen funds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taylor-monahan-30m-bank-hack-tracing/"
+      "headline": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
+      "take": "Cr\u00e9dit Mutuel Ark\u00e9a cyberattack results in $133M in suspected losses",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372"
     },
     {
-      "headline": "Former FBI agent set to plead guilty to stealing $1M in crypto",
-      "take": "Former FBI agent set to plead guilty to stealing $1 million in cryptocurrency",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/former-fbi-agent-plead-guilty-crypto-theft/"
+      "headline": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+      "take": "XRP Ledger fixes disclosed bug that could create unauthorized tokens",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens"
     },
     {
-      "headline": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
-      "take": "Coinbase reports 99% of customer crypto held offline, away from hacker reach",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
+      "headline": "Trust Wallet users warned of phishing site trastwallet.cam",
+      "take": "Trust Wallet users targeted by phishing site impersonating legitimate platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trust-wallet-phishing-site-trastwallet-cam/"
+    },
+    {
+      "headline": "Binance tracked assets climb $3.4 billion in two days after post-hack withdrawal restart",
+      "take": "Binance tracked assets climb $3.4B after post-hack withdrawal restart",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-assets-rise-after-hack/"
     }
   ],
   "policy": [
     {
-      "headline": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-      "take": "Democratic sweep of Congress forces crypto industry to reassess Washington strategy",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362"
-    },
-    {
-      "headline": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-      "take": "Crypto super PAC suffers costly setback as Democrats sweep Congressional elections",
+      "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "take": "Tokenization and stablecoins may survive Democratic sweep, broader rules uncertain",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
     },
     {
-      "headline": "Congresswoman Yassamin Ansari calls to ban artificial superintelligence and pause advanced AI development",
-      "take": "Congresswoman Ansari calls for ban on artificial superintelligence and AI development pause",
+      "headline": "The pile of lawsuits against Kalshi just grew by one",
+      "take": "Kalshi faces additional lawsuit amid regulatory scrutiny over prediction markets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
+    },
+    {
+      "headline": "Tron, Tether and Binance\u2019s T3 Financial Crime Unit quietly disbanded",
+      "take": "Tron, Tether and Binance's T3 Financial Crime Unit quietly disbanded",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/yassamin-ansari-pause-advanced-ai-development/"
+      "link": "https://cryptobriefing.com/tron-tether-binance-t3-crime-unit-disbanded/"
     }
   ]
 }

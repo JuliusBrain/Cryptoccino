@@ -1,96 +1,102 @@
 {
-  "generated": "2026-11-05T17:27:52.745957+00:00",
-  "ts": 1793899672,
+  "generated": "2026-11-05T23:41:16.666398+00:00",
+  "ts": 1793922076,
   "market": [
     {
-      "headline": "Bitcoin tumbles below $77K as tech and crypto stocks plunge in broad market selloff",
-      "take": "Bitcoin drops below $77K amid broad tech and crypto selloff",
+      "headline": "Global markets slump as S&P 500, NASDAQ, Bitcoin see sharp declines",
+      "take": "Global stocks and Bitcoin fall sharply amid broad market selloff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-tumbles-below-77k-as-tech-and-crypto-stocks-plunge-in-broad-market-selloff/"
+      "link": "https://cryptobriefing.com/global-markets-slump-as-sp-500-nasdaq-bitcoin-see-sharp-declines/"
     },
     {
-      "headline": "Crypto market sheds $140 billion in four hours",
-      "take": "Crypto market sheds $140 billion in four hours as risk aversion spreads",
+      "headline": "Hyperliquid reports $621M profit on HYPE token paper gains",
+      "take": "Hyperliquid Strategies reports $13.3M quarterly revenue, $620.6M net income",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-cap-drops-140-billion/"
+      "link": "https://cryptobriefing.com/hyperliquid-reports-621m-profit-on-hype-token-paper-gains/"
     },
     {
-      "headline": "$631M in crypto longs liquidated in 24 hours as leverage bites again",
-      "take": "Liquidations spike with $631M in crypto longs wiped out in 24 hours",
+      "headline": "Circle\u2019s Cross-Chain Transfer Protocol passes $300 billion in all-time volume",
+      "take": "Circle's cross-chain protocol surpasses $300 billion in all-time volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/631m-crypto-longs-liquidated-24-hours/"
+      "link": "https://cryptobriefing.com/circle-cctp-surpasses-300-billion-volume/"
     },
     {
-      "headline": "Tokenized stock trading volume hits $1.11B as tech stocks plunge",
-      "take": "Tokenized stock trading volume reaches $1.11B as equity markets decline",
+      "headline": "Oil prices drop sharply, easing inflation pressures: Citi strategist",
+      "take": "Oil prices drop sharply, easing near-term inflation pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stock-trading-volume-surges/"
-    },
-    {
-      "headline": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
-      "take": "Canary's Injective ETF launches on Nasdaq with staking reward exposure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115"
+      "link": "https://cryptobriefing.com/oil-prices-drop-sharply-easing-inflation-pressures-citi-strategist/"
     }
   ],
   "business": [
     {
-      "headline": "Solana Labs launches Leap trading app for tokenized stocks, ETFs and crypto",
-      "take": "Solana Labs launches Leap app for trading tokenized stocks, ETFs, crypto",
+      "headline": "Anthropic launches Claude Personal Finance with direct access to bank accounts",
+      "take": "Anthropic launches Claude Personal Finance with direct bank account access",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-labs-leap-tokenized-stocks-app/"
+      "link": "https://cryptobriefing.com/claude-personal-finance-launch/"
     },
     {
-      "headline": "Coinbase brings USDC to Samsung Wallet as the default dollar stablecoin for US Galaxy users",
-      "take": "Coinbase integrates USDC as default stablecoin in Samsung Galaxy Wallet",
+      "headline": "Airbnb plans to launch AI travel agent in first half of 2027",
+      "take": "Airbnb plans AI travel agent launch in first half of 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-usdc-samsung-wallet-galaxy/"
+      "link": "https://cryptobriefing.com/airbnb-ai-travel-agent-2027-launch/"
     },
     {
-      "headline": "Blockchain.com launches 24/7 API trading for institutional crypto clients",
-      "take": "Blockchain.com launches 24/7 institutional-grade API trading for crypto",
+      "headline": "Five9 to acquire AI startup Level AI for $325 million in cash, per report",
+      "take": "Five9 acquires AI startup Level AI for $325 million in cash",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutional-api-trading-blockchain-com/"
+      "link": "https://cryptobriefing.com/five9-acquire-level-ai-325-million/"
     },
     {
-      "headline": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "take": "Standard Chartered and SBI back crypto insurer Soter with $23.5M funding",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection"
+      "headline": "IonQ posts $173.8 million Q3 revenue and raises 2026 guidance to $505M-$515M",
+      "take": "IonQ posts $173.8M Q3 revenue, raises 2026 guidance to $505M-$515M",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ionq-q3-revenue-raises-2026-guidance/"
     },
     {
-      "headline": "Uniswap hosts its first permissioned asset with GromaCorp\u2019s real estate token",
-      "take": "Uniswap hosts first permissioned asset with GromaCorp's real estate token",
+      "headline": "Cloudflare stock surges 17% after hours as Q3 revenue jumps 39% to $782M",
+      "take": "Cloudflare stock surges 17% after-hours on Q3 revenue jump to $782M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-first-permissioned-asset-gromacoin/"
+      "link": "https://cryptobriefing.com/cloudflare-q3-revenue-beats-estimates/"
     }
   ],
   "security": [
     {
-      "headline": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
-      "take": "TraderTraitor hacking squad linked to $6.3B Binance security breach",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist"
+      "headline": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "take": "Mercado Bitcoin hack scope larger than initially disclosed, blockchain shows",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data"
     },
     {
-      "headline": "Crypto hacks top $1.1 billion in 2026, with less than 1% recovered",
-      "take": "Crypto hacks exceed $1.1 billion in 2026 with minimal recovery rate",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-hacks-2026-billion-stolen-recovered/"
+      "headline": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "take": "Zcash upgrade could permanently lock $16 million in cryptocurrency",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto"
     }
   ],
   "policy": [
     {
-      "headline": "Greece imposes 10% tax on crypto gains, first \u20ac500 tax-free",
-      "take": "Greece imposes 10% tax on crypto gains with \u20ac500 tax-free threshold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/greece-10-percent-crypto-gains-tax/"
+      "headline": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+      "take": "Hyperliquid Strategies files for CFTC FCM registration to offer US futures",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
     },
     {
-      "headline": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-      "take": "Democrats plan broader crypto market structure bill following election victory",
+      "headline": "CFTC orders DCMs to drop domestic geographic restrictions within 30 days",
+      "take": "CFTC orders derivatives markets to drop domestic geographic limits within 30 days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-dcm-impartial-access-geographic-restrictions/"
+    },
+    {
+      "headline": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+      "take": "DOJ creates task force to monitor AI systems for potential abuse",
       "source": "decrypt",
-      "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report"
+      "link": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse"
+    },
+    {
+      "headline": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "take": "Crypto ally French Hill reelected but loses House Financial Services chair",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,114 +1,96 @@
 {
-  "generated": "2026-11-05T06:57:14.228820+00:00",
-  "ts": 1793861834,
+  "generated": "2026-11-05T17:27:52.745957+00:00",
+  "ts": 1793899672,
   "market": [
     {
-      "headline": "BlackRock leads $53.02 million Ethereum ETF inflow, ending a weeklong outflow streak",
-      "take": "Ethereum ETF sees $53M inflow, reversing a week of outflows",
+      "headline": "Bitcoin tumbles below $77K as tech and crypto stocks plunge in broad market selloff",
+      "take": "Bitcoin drops below $77K amid broad tech and crypto selloff",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ethereum-etf-inflow-53-million/"
+      "link": "https://cryptobriefing.com/bitcoin-tumbles-below-77k-as-tech-and-crypto-stocks-plunge-in-broad-market-selloff/"
     },
     {
-      "headline": "Spot Bitcoin ETFs see $75M in net inflows as BlackRock\u2019s IBIT sheds $201M",
-      "take": "Spot Bitcoin ETFs post $75M net inflows despite BlackRock IBIT outflow",
+      "headline": "Crypto market sheds $140 billion in four hours",
+      "take": "Crypto market sheds $140 billion in four hours as risk aversion spreads",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-inflows-ibit-outflow/"
+      "link": "https://cryptobriefing.com/crypto-market-cap-drops-140-billion/"
     },
     {
-      "headline": "Fidelity buys $237M worth of Bitcoin as FBTC inflows jump",
-      "take": "Fidelity purchases $237M in Bitcoin as FBTC inflows accelerate",
+      "headline": "$631M in crypto longs liquidated in 24 hours as leverage bites again",
+      "take": "Liquidations spike with $631M in crypto longs wiped out in 24 hours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-buys-237m-bitcoin-fbtc-inflows/"
+      "link": "https://cryptobriefing.com/631m-crypto-longs-liquidated-24-hours/"
     },
     {
-      "headline": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-      "take": "Bitcoin holds above $80K amid post-election rally and macro shifts",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
+      "headline": "Tokenized stock trading volume hits $1.11B as tech stocks plunge",
+      "take": "Tokenized stock trading volume reaches $1.11B as equity markets decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-stock-trading-volume-surges/"
     },
     {
-      "headline": "Arthur Hayes warns AI equity dilution could pressure Bitcoin prices",
-      "take": "Arthur Hayes warns AI equity dilution could pressure Bitcoin prices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arthur-hayes-ai-dilution-bitcoin-liquidity/"
+      "headline": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+      "take": "Canary's Injective ETF launches on Nasdaq with staking reward exposure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115"
     }
   ],
   "business": [
     {
-      "headline": "Polygon proposes hard fork to recover $7M in stolen Binance, Polymarket funds",
-      "take": "Polygon proposes hard fork to recover $7M in stolen funds",
+      "headline": "Solana Labs launches Leap trading app for tokenized stocks, ETFs and crypto",
+      "take": "Solana Labs launches Leap app for trading tokenized stocks, ETFs, crypto",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-hard-fork-recover-stolen-pol/"
+      "link": "https://cryptobriefing.com/solana-labs-leap-tokenized-stocks-app/"
     },
     {
-      "headline": "Aptos stitches stablecoins, tokenized funds and payments into one onchain stack",
-      "take": "Aptos integrates stablecoins, tokenized funds and payments onchain",
+      "headline": "Coinbase brings USDC to Samsung Wallet as the default dollar stablecoin for US Galaxy users",
+      "take": "Coinbase integrates USDC as default stablecoin in Samsung Galaxy Wallet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aptos-stablecoins-tokenized-funds-onchain-finance/"
+      "link": "https://cryptobriefing.com/coinbase-usdc-samsung-wallet-galaxy/"
     },
     {
-      "headline": "Ethereum outlines fork plan to reach Lean Ethereum by 2029",
-      "take": "Ethereum outlines plan to reach Lean Ethereum by 2029",
+      "headline": "Blockchain.com launches 24/7 API trading for institutional crypto clients",
+      "take": "Blockchain.com launches 24/7 institutional-grade API trading for crypto",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-fork-plan-lean-ethereum-2029/"
+      "link": "https://cryptobriefing.com/institutional-api-trading-blockchain-com/"
     },
     {
-      "headline": "Jupiter holds top DEX aggregator spot for eighth straight quarter in Q3 2026",
-      "take": "Jupiter retains top DEX aggregator position for eighth consecutive quarter",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-top-dex-aggregator-q3-2026/"
+      "headline": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "take": "Standard Chartered and SBI back crypto insurer Soter with $23.5M funding",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection"
     },
     {
-      "headline": "Blockaid secures $40M in funding commitments after $6.3B Binance hack",
-      "take": "Blockaid secures $40M funding commitments following Binance hack incident",
+      "headline": "Uniswap hosts its first permissioned asset with GromaCorp\u2019s real estate token",
+      "take": "Uniswap hosts first permissioned asset with GromaCorp's real estate token",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockaid-40m-funding-binance-hack/"
+      "link": "https://cryptobriefing.com/uniswap-first-permissioned-asset-gromacoin/"
     }
   ],
   "security": [
     {
-      "headline": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
-      "take": "Cr\u00e9dit Mutuel Ark\u00e9a cyberattack results in $133M in suspected losses",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372"
-    },
-    {
-      "headline": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-      "take": "XRP Ledger fixes disclosed bug that could create unauthorized tokens",
+      "headline": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "take": "TraderTraitor hacking squad linked to $6.3B Binance security breach",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens"
+      "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist"
     },
     {
-      "headline": "Trust Wallet users warned of phishing site trastwallet.cam",
-      "take": "Trust Wallet users targeted by phishing site impersonating legitimate platform",
+      "headline": "Crypto hacks top $1.1 billion in 2026, with less than 1% recovered",
+      "take": "Crypto hacks exceed $1.1 billion in 2026 with minimal recovery rate",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trust-wallet-phishing-site-trastwallet-cam/"
-    },
-    {
-      "headline": "Binance tracked assets climb $3.4 billion in two days after post-hack withdrawal restart",
-      "take": "Binance tracked assets climb $3.4B after post-hack withdrawal restart",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-assets-rise-after-hack/"
+      "link": "https://cryptobriefing.com/crypto-hacks-2026-billion-stolen-recovered/"
     }
   ],
   "policy": [
     {
-      "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "take": "Tokenization and stablecoins may survive Democratic sweep, broader rules uncertain",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
-    },
-    {
-      "headline": "The pile of lawsuits against Kalshi just grew by one",
-      "take": "Kalshi faces additional lawsuit amid regulatory scrutiny over prediction markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
-    },
-    {
-      "headline": "Tron, Tether and Binance\u2019s T3 Financial Crime Unit quietly disbanded",
-      "take": "Tron, Tether and Binance's T3 Financial Crime Unit quietly disbanded",
+      "headline": "Greece imposes 10% tax on crypto gains, first \u20ac500 tax-free",
+      "take": "Greece imposes 10% tax on crypto gains with \u20ac500 tax-free threshold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-tether-binance-t3-crime-unit-disbanded/"
+      "link": "https://cryptobriefing.com/greece-10-percent-crypto-gains-tax/"
+    },
+    {
+      "headline": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+      "take": "Democrats plan broader crypto market structure bill following election victory",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report"
     }
   ]
 }

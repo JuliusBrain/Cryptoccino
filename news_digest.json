@@ -1,114 +1,96 @@
 {
-  "generated": "2026-11-06T16:49:12.588638+00:00",
-  "ts": 1793983752,
+  "generated": "2026-11-06T23:14:34.641868+00:00",
+  "ts": 1794006874,
   "market": [
     {
-      "headline": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-      "take": "Crypto liquidations exceed $1 billion as Bitcoin tests 11-week lows",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock"
-    },
-    {
-      "headline": "Strive\u2019s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "take": "Strive's Bitcoin holdings generate $509 million Q3 profit on BTC gains",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907"
-    },
-    {
-      "headline": "A December hike would repeat a pattern Bitcoin has lost every time",
-      "take": "Bitcoin historically loses every time after December rate hike pattern",
+      "headline": "LPL Financial boosts Bitcoin ETF stake by 50% to $261 million",
+      "take": "Major financial firm doubles down on Bitcoin ETF holdings to $261M",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/december-hike-bitcoin-pattern-crypto-briefing-research/"
+      "link": "https://cryptobriefing.com/lpl-financial-bitcoin-etf-stake-261-million/"
     },
     {
-      "headline": "Bitcoin closer to being allowed in U.S. retirement accounts",
-      "take": "US moving closer to allowing Bitcoin in retirement accounts",
+      "headline": "Avalanche\u2019s tokenized asset base tops $1.7 billion as BUIDL swings and Axiym sets a record",
+      "take": "Avalanche tokenized assets exceed $1.7B as institutional adoption accelerates",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-closer-to-being-allowed-in-us-retirement-accounts/"
+      "link": "https://cryptobriefing.com/avalanche-tokenized-rwas-buidl-axiym-q3/"
+    },
+    {
+      "headline": "Solana Labs launches Leap iPhone beta for crypto swaps, SOL price dips 6%",
+      "take": "Solana launches iPhone app for crypto swaps amid modest price decline",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-labs-launches-leap-iphone-beta-for-crypto-swaps-sol-price-dips-6/"
+    },
+    {
+      "headline": "CFTC data shows speculators pile into 5-year Treasury shorts for week of November 3, 2026",
+      "take": "Speculators increase short positions on five-year Treasury futures contracts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-cot-report-5-year-treasury-shorts-bitcoin/"
     }
   ],
   "business": [
     {
-      "headline": "Hawkeye Digital taps Securitize to tokenize its shares on Ethereum",
-      "take": "Hawkeye Digital tokenizes shares on Ethereum via Securitize platform",
+      "headline": "Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8",
+      "take": "Nym deploys privacy mixnet SDK for wallets and decentralized applications",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hawkeye-digital-taps-securitize-to-tokenize-its-shares-on-ethereum/"
+      "link": "https://cryptobriefing.com/nym-mixnet-sdk-wallets-devcon-8/"
     },
     {
-      "headline": "Coinbase offers gold-backed loans powered by Morpho",
-      "take": "Coinbase launches gold-backed loans powered by Morpho protocol",
+      "headline": "Centrifuge brings Schroders emerging markets debt fund onchain via Solana",
+      "take": "Centrifuge tokenizes Schroders emerging markets debt fund on Solana blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-gold-backed-loans-morpho-paxg/"
+      "link": "https://cryptobriefing.com/centrifuge-schroders-tokenized-emerging-markets-debt-solana/"
     },
     {
-      "headline": "ONDO to offer tokenized Anthropic shares to non-US investors at IPO",
-      "take": "ONDO offers tokenized Anthropic shares to non-US IPO investors",
+      "headline": "Samsung adds USDC support on Solana for 82M Galaxy devices in US",
+      "take": "Samsung adds USDC stablecoin support across 82M Galaxy devices in US",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ondo-to-offer-tokenized-anthropic-shares-to-non-us-investors-at-ipo/"
+      "link": "https://cryptobriefing.com/samsung-adds-usdc-support-on-solana-for-82m-galaxy-devices-in-us/"
     },
     {
-      "headline": "Aave Labs acquires Avon team to build out fixed-rate lending",
-      "take": "Aave Labs acquires Avon team to build fixed-rate lending",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/aave-labs-acquires-avon-fixed-rate-lending/"
-    },
-    {
-      "headline": "Centrifuge brings New York Life\u2019s high-yield bond strategy onchain",
-      "take": "Centrifuge brings New York Life bond strategy onchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-nylim-high-yield-bond-onchain/"
+      "headline": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "take": "Apple and Meta reject tokenized stock trading, crypto firms step in",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
     }
   ],
   "security": [
     {
-      "headline": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-      "take": "$3.1 billion in stolen Binance crypto remains unlaundered so far",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
+      "headline": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "take": "Gnosis Pay breach exposes customer data though funds remain secure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934"
     },
     {
-      "headline": "Binance hackers reportedly spent eight weeks inside before $6.3 billion theft",
-      "take": "Binance hackers spent eight weeks inside before $6.3 billion theft",
+      "headline": "UC Berkeley study finds fine-tuning can quietly break AI privacy safeguards",
+      "take": "Fine-tuning can quietly bypass AI privacy safeguards, Berkeley study finds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hackers-eight-weeks-access-theft/"
-    },
-    {
-      "headline": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-      "take": "Gnosis Pay says hackers accessed customer data in breach",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data"
-    },
-    {
-      "headline": "Former FBI agent pleads guilty to stealing $2.47 million in seized crypto",
-      "take": "Former FBI agent pleads guilty to stealing $2.47 million crypto",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/former-fbi-agent-pleads-guilty-crypto-theft/"
+      "link": "https://cryptobriefing.com/uc-berkeley-ai-fine-tuning-privacy-collapse/"
     }
   ],
   "policy": [
     {
-      "headline": "Rule allowing crypto in 401(k)s reaches White House for final review",
-      "take": "Rule allowing crypto in 401(k)s reaches White House final review",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-401k-rule-white-house-final-review/"
-    },
-    {
-      "headline": "Rep. Maxine Waters calls for stricter crypto regulations targeting Trump projects",
-      "take": "Rep. Waters calls for stricter crypto regulations targeting Trump projects",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rep-maxine-waters-calls-for-stricter-crypto-regulations-targeting-trump-projects/"
-    },
-    {
-      "headline": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "take": "Thailand moves to block Bitget crypto exchange local acquisition",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
-    },
-    {
-      "headline": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
-      "take": "Democrats' midterm sweep shapes future of CLARITY Act prospects",
+      "headline": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+      "take": "US Treasury cuts MEXC exchange from financial system over illicit transactions",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
+      "take": "Treasury withdraws controversial crypto surveillance travel rule proposal",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
+    },
+    {
+      "headline": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "take": "Greece implements 10% crypto gains tax and 15% on staking rewards",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
+    },
+    {
+      "headline": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "take": "US 401k proposal allows altcoins but faces significant regulatory hurdles",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

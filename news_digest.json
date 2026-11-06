@@ -1,72 +1,114 @@
 {
-  "generated": "2026-11-06T06:56:50.452609+00:00",
-  "ts": 1793948210,
+  "generated": "2026-11-06T16:49:12.588638+00:00",
+  "ts": 1793983752,
   "market": [
     {
-      "headline": "BlackRock Bitcoin ETF clients pull $104.97 million from the fund",
-      "take": "BlackRock Bitcoin ETF saw $105M in client outflows",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-bitcoin-etf-clients-sell-105m/"
+      "headline": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "take": "Crypto liquidations exceed $1 billion as Bitcoin tests 11-week lows",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock"
     },
     {
-      "headline": "NEAR falls out of top 20 cryptocurrencies after 9% drop",
-      "take": "NEAR protocol dropped 9% and fell out of top 20 cryptocurrencies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-falls-out-of-top-20-crypto/"
+      "headline": "Strive\u2019s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+      "take": "Strive's Bitcoin holdings generate $509 million Q3 profit on BTC gains",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907"
     },
     {
-      "headline": "Kalshi launches single-stock perps, logging over $300 million in early trading",
-      "take": "Kalshi single-stock perpetuals logged over $300M in early trading volume",
+      "headline": "A December hike would repeat a pattern Bitcoin has lost every time",
+      "take": "Bitcoin historically loses every time after December rate hike pattern",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-launches-single-stock-perps/"
+      "link": "https://cryptobriefing.com/december-hike-bitcoin-pattern-crypto-briefing-research/"
+    },
+    {
+      "headline": "Bitcoin closer to being allowed in U.S. retirement accounts",
+      "take": "US moving closer to allowing Bitcoin in retirement accounts",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-closer-to-being-allowed-in-us-retirement-accounts/"
     }
   ],
   "business": [
     {
-      "headline": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
-      "take": "Zcash NU7 upgrade went live, enabling faster private transactions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments"
-    },
-    {
-      "headline": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
-      "take": "Hyperliquid Strategies filed as CFTC-registered FCM with $13.3M quarterly revenue",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
-    },
-    {
-      "headline": "Amazon plans data center campus near Glen Rose on Vistra land beside Comanche Peak",
-      "take": "Amazon plans 60MW data center campus near Glen Rose, Texas",
+      "headline": "Hawkeye Digital taps Securitize to tokenize its shares on Ethereum",
+      "take": "Hawkeye Digital tokenizes shares on Ethereum via Securitize platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-data-center-glen-rose-comanche-peak/"
+      "link": "https://cryptobriefing.com/hawkeye-digital-taps-securitize-to-tokenize-its-shares-on-ethereum/"
     },
     {
-      "headline": "World Liberty Financial introduces WLFI token repurchase program",
-      "take": "World Liberty Financial launched WLFI token repurchase program",
+      "headline": "Coinbase offers gold-backed loans powered by Morpho",
+      "take": "Coinbase launches gold-backed loans powered by Morpho protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/world-liberty-financial-wlfi-token-buyback/"
+      "link": "https://cryptobriefing.com/coinbase-gold-backed-loans-morpho-paxg/"
+    },
+    {
+      "headline": "ONDO to offer tokenized Anthropic shares to non-US investors at IPO",
+      "take": "ONDO offers tokenized Anthropic shares to non-US IPO investors",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ondo-to-offer-tokenized-anthropic-shares-to-non-us-investors-at-ipo/"
+    },
+    {
+      "headline": "Aave Labs acquires Avon team to build out fixed-rate lending",
+      "take": "Aave Labs acquires Avon team to build fixed-rate lending",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aave-labs-acquires-avon-fixed-rate-lending/"
+    },
+    {
+      "headline": "Centrifuge brings New York Life\u2019s high-yield bond strategy onchain",
+      "take": "Centrifuge brings New York Life bond strategy onchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/centrifuge-nylim-high-yield-bond-onchain/"
     }
   ],
   "security": [
     {
-      "headline": "Hackers Paid $15 to Drain $2.5 Billion From Binance in One Hit",
-      "take": "Hackers drained $2.5B from Binance in single coordinated attack",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/hackers-paid-15-to-drain-2-5-billion-from-binance-in-one-hit"
+      "headline": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+      "take": "$3.1 billion in stolen Binance crypto remains unlaundered so far",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
     },
     {
-      "headline": "North Korea reportedly rewards top hackers with Pyongyang apartments after alleged Binance heist",
-      "take": "North Korea reportedly rewarded top hackers with Pyongyang apartments post-Binance heist",
+      "headline": "Binance hackers reportedly spent eight weeks inside before $6.3 billion theft",
+      "take": "Binance hackers spent eight weeks inside before $6.3 billion theft",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korea-hackers-perks-binance-heist/"
+      "link": "https://cryptobriefing.com/binance-hackers-eight-weeks-access-theft/"
+    },
+    {
+      "headline": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "take": "Gnosis Pay says hackers accessed customer data in breach",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data"
+    },
+    {
+      "headline": "Former FBI agent pleads guilty to stealing $2.47 million in seized crypto",
+      "take": "Former FBI agent pleads guilty to stealing $2.47 million crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/former-fbi-agent-pleads-guilty-crypto-theft/"
     }
   ],
   "policy": [
     {
-      "headline": "Meta, Google and TikTok sue California AG to block teen social media law",
-      "take": "Meta, Google, TikTok sued California AG to block teen social media law",
+      "headline": "Rule allowing crypto in 401(k)s reaches White House for final review",
+      "take": "Rule allowing crypto in 401(k)s reaches White House final review",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-google-tiktok-sue-california-teen-law/"
+      "link": "https://cryptobriefing.com/crypto-401k-rule-white-house-final-review/"
+    },
+    {
+      "headline": "Rep. Maxine Waters calls for stricter crypto regulations targeting Trump projects",
+      "take": "Rep. Waters calls for stricter crypto regulations targeting Trump projects",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/rep-maxine-waters-calls-for-stricter-crypto-regulations-targeting-trump-projects/"
+    },
+    {
+      "headline": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "take": "Thailand moves to block Bitget crypto exchange local acquisition",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
+    },
+    {
+      "headline": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
+      "take": "Democrats' midterm sweep shapes future of CLARITY Act prospects",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

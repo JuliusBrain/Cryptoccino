@@ -1,78 +1,108 @@
 {
-  "generated": "2026-11-07T13:14:01.295408+00:00",
-  "ts": 1794057241,
+  "generated": "2026-11-07T19:28:49.943740+00:00",
+  "ts": 1794079729,
   "market": [
     {
-      "headline": "AI panic grips markets, NASDAQ 100 loses $2.5T amid investor concerns",
-      "take": "AI panic drives NASDAQ 100 down $2.5 trillion amid investor concerns",
+      "headline": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "take": "Bitcoin ETFs turned negative for 2026 after largest weekly outflow since June",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+    },
+    {
+      "headline": "Hyperliquid whales stack Bitcoin shorts to highest level since October 2025",
+      "take": "Hyperliquid whales accumulated Bitcoin shorts at highest level since October",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-panic-grips-markets-nasdaq-100-loses-25t-amid-investor-concerns/"
+      "link": "https://cryptobriefing.com/hyperliquid-whales-bitcoin-shorts-highest-since-october-2025/"
+    },
+    {
+      "headline": "5-year Treasury yield for first time since 2007, impacting REITs",
+      "take": "Five-year Treasury yield hits first peak since 2007, affecting asset classes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/5-year-treasury-yield-for-first-time-since-2007-impacting-reits/"
     },
     {
       "headline": "Fidelity\u2019s Jurrien Timmer favors Bitcoin over gold amid sell-off",
-      "take": "Fidelity strategist favors Bitcoin over gold during current market sell-off",
+      "take": "Fidelity strategist suggests Bitcoin offers better value than gold currently",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/fidelity-timmer-bitcoin-over-gold-sell-off/"
     },
     {
-      "headline": "Bitcoin spot ETFs see $412 million in net outflows on November 6",
-      "take": "Bitcoin spot ETFs experience $412 million in net outflows November 6",
+      "headline": "Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets",
+      "take": "Ethereum leads smart contract platforms in stablecoins and tokenized assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-spot-etfs-412m-outflows-november-6/"
-    },
-    {
-      "headline": "IREN stock surges 20% as AI cloud revenue jumps 182%",
-      "take": "IREN stock surges 20% as AI cloud revenue jumps 182% year-over-year",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/iren-stock-surges-ai-cloud-revenue/"
+      "link": "https://cryptobriefing.com/grayscale-ethereum-leads-stablecoins-tokenized-assets/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic prepares to kick off IPO roadshow next week, report says",
-      "take": "Anthropic prepares IPO roadshow next week for NASDAQ listing",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-prepares-to-kick-off-ipo-roadshow-next-week-report-says/"
+      "headline": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "take": "Binance closing European user accounts by year end, implementing new fee structure",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end"
     },
     {
-      "headline": "Arm Holdings posts record quarter, sets $15 billion AGI CPU revenue target for 2031",
-      "take": "Arm Holdings posts record quarter, targets $15B AGI CPU revenue by 2031",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arm-holdings-earnings-agi-cpu-target/"
+      "headline": "Binance Says Kaiser Ng Leaving, Names Justin Yek New CFO",
+      "take": "Binance CFO Kaiser Ng departing, Justin Yek named replacement",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo"
     },
     {
-      "headline": "TSMC reportedly weighs 3D DRAM production at Nvidia\u2019s request",
-      "take": "TSMC weighs 3D DRAM production at Nvidia's request",
+      "headline": "Fireworks hires former Meta executive Dave Wehner as CFO",
+      "take": "Fireworks hires former Meta CFO Dave Wehner to lead finance operations",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-3d-dram-production-nvidia-request/"
+      "link": "https://cryptobriefing.com/fireworks-hires-dave-wehner-cfo/"
     },
     {
       "headline": "Tether open-source project adds Bluetooth messaging for iPhone and Linux",
-      "take": "Tether open-source project adds Bluetooth messaging for iPhone and Linux",
+      "take": "Tether adds Bluetooth messaging capability for iPhone and Linux devices",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/tether-linux-iphone-bluetooth-messaging/"
+    },
+    {
+      "headline": "MoonPay executive discusses loyalty rewards for branded stablecoins",
+      "take": "MoonPay exploring loyalty rewards programs tied to branded stablecoins",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/moonpay-executive-loyalty-rewards-branded-stablecoins/"
     }
   ],
   "security": [
     {
-      "headline": "Polymarket investigates suspicious bets placed hours before NYT/Siena polls",
-      "take": "Polymarket investigates suspicious bets placed before NYT/Siena polls released",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-investigates-suspicious-poll-bets/"
+      "headline": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "take": "Gnosis Pay breach compromises card numbers, addresses and linked crypto wallets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
     },
     {
-      "headline": "Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin",
-      "take": "Blockstream adopts Falcon-1024 quantum-resistant signature for Bitcoin security",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockstream-falcon-1024-bitcoin-quantum-signatures/"
+      "headline": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "take": "U.S. Treasury targets crypto exchange MEXC over sixteen billion in alleged illicit flows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
     }
   ],
   "policy": [
     {
-      "headline": "Harwood, ND voters reject data center restrictions, support Applied Digital project",
-      "take": "North Dakota voters reject data center restrictions, support Applied Digital",
+      "headline": "Democrats eye data center limits, AI legislation after electoral win",
+      "take": "Democrats propose data center limits and new AI legislation following electoral victory",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/harwood-nd-voters-reject-data-center-restrictions-support-applied-digital/"
+      "link": "https://cryptobriefing.com/democrats-eye-data-center-limits-ai-legislation-after-electoral-win/"
+    },
+    {
+      "headline": "Rep. Don Beyer pushes for House Select Committee on AI with subpoena power",
+      "take": "Rep. Don Beyer pushes for House AI committee with subpoena authority",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/don-beyer-house-select-committee-ai/"
+    },
+    {
+      "headline": "OFAC\u2019s sanctions search tool checks crypto wallets, but a clean result isn\u2019t a clearance",
+      "take": "OFAC sanctions tool screens crypto wallets but clean result does not guarantee clearance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ofac-sanctions-search-crypto-wallet-addresses/"
+    },
+    {
+      "headline": "Governments urged to expand power grids over restricting data centers: Fortune",
+      "take": "Governments advised to expand power grids rather than restrict data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/governments-urged-to-expand-power-grids-over-restricting-data-centers-fortune/"
     }
   ]
 }

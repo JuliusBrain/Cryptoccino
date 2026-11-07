@@ -1,94 +1,82 @@
 {
-  "generated": "2026-11-06T23:14:34.641868+00:00",
-  "ts": 1794006874,
+  "generated": "2026-11-07T06:08:13.940163+00:00",
+  "ts": 1794031693,
   "market": [
     {
-      "headline": "LPL Financial boosts Bitcoin ETF stake by 50% to $261 million",
-      "take": "Major financial firm doubles down on Bitcoin ETF holdings to $261M",
+      "headline": "Bitcoin spot ETFs see $412 million in net outflows on November 6",
+      "take": "Bitcoin spot ETFs face sustained outflows amid market uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lpl-financial-bitcoin-etf-stake-261-million/"
-    },
-    {
-      "headline": "Avalanche\u2019s tokenized asset base tops $1.7 billion as BUIDL swings and Axiym sets a record",
-      "take": "Avalanche tokenized assets exceed $1.7B as institutional adoption accelerates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/avalanche-tokenized-rwas-buidl-axiym-q3/"
-    },
-    {
-      "headline": "Solana Labs launches Leap iPhone beta for crypto swaps, SOL price dips 6%",
-      "take": "Solana launches iPhone app for crypto swaps amid modest price decline",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-labs-launches-leap-iphone-beta-for-crypto-swaps-sol-price-dips-6/"
+      "link": "https://cryptobriefing.com/bitcoin-spot-etfs-412m-outflows-november-6/"
     },
     {
       "headline": "CFTC data shows speculators pile into 5-year Treasury shorts for week of November 3, 2026",
-      "take": "Speculators increase short positions on five-year Treasury futures contracts",
+      "take": "Speculators significantly increase short positions on five-year Treasury futures",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-cot-report-5-year-treasury-shorts-bitcoin/"
+    },
+    {
+      "headline": "Solana Labs launches Leap iPhone beta for crypto swaps, SOL price dips 6%",
+      "take": "Solana launches mobile crypto swap app as SOL price declines",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-labs-launches-leap-iphone-beta-for-crypto-swaps-sol-price-dips-6/"
     }
   ],
   "business": [
     {
+      "headline": "OpenAI raises $11B, valued at $1.2T, defers IPO plans",
+      "take": "OpenAI raises $11B at $1.2T valuation, delays public offering",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-raises-11b-valued-at-12t-defers-ipo-plans/"
+    },
+    {
+      "headline": "Binance France to close all customer accounts by year end, with fees on idle balances from November 29",
+      "take": "Binance France closing all accounts by year-end with November fees",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-france-close-accounts-fees-november/"
+    },
+    {
+      "headline": "Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin",
+      "take": "Blockstream selects Falcon-1024 quantum-resistant signature for Bitcoin security",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockstream-falcon-1024-bitcoin-quantum-signatures/"
+    },
+    {
       "headline": "Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8",
-      "take": "Nym deploys privacy mixnet SDK for wallets and decentralized applications",
+      "take": "Nym launches privacy mixnet SDK for wallets and decentralized apps",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/nym-mixnet-sdk-wallets-devcon-8/"
-    },
-    {
-      "headline": "Centrifuge brings Schroders emerging markets debt fund onchain via Solana",
-      "take": "Centrifuge tokenizes Schroders emerging markets debt fund on Solana blockchain",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/centrifuge-schroders-tokenized-emerging-markets-debt-solana/"
-    },
-    {
-      "headline": "Samsung adds USDC support on Solana for 82M Galaxy devices in US",
-      "take": "Samsung adds USDC stablecoin support across 82M Galaxy devices in US",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-adds-usdc-support-on-solana-for-82m-galaxy-devices-in-us/"
-    },
-    {
-      "headline": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "take": "Apple and Meta reject tokenized stock trading, crypto firms step in",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
     }
   ],
   "security": [
     {
-      "headline": "Gnosis Pay data breach exposes customer info; funds unaffected",
-      "take": "Gnosis Pay breach exposes customer data though funds remain secure",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934"
+      "headline": "US Treasury cuts off MEXC from financial system over $16B in illicit transactions",
+      "take": "US Treasury blocks MEXC exchange from financial system over illicit transactions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mexc-financial-sanctions-illicit-transactions/"
     },
     {
-      "headline": "UC Berkeley study finds fine-tuning can quietly break AI privacy safeguards",
-      "take": "Fine-tuning can quietly bypass AI privacy safeguards, Berkeley study finds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uc-berkeley-ai-fine-tuning-privacy-collapse/"
+      "headline": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "take": "Gnosis Pay suffers data breach exposing customer information",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934"
     }
   ],
   "policy": [
     {
-      "headline": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-      "take": "US Treasury cuts MEXC exchange from financial system over illicit transactions",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
-      "take": "Treasury withdraws controversial crypto surveillance travel rule proposal",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
-    },
-    {
       "headline": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-      "take": "Greece implements 10% crypto gains tax and 15% on staking rewards",
+      "take": "Greece enacts 10% crypto gains tax plus 15% staking levy",
       "source": "decrypt",
       "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
     },
     {
+      "headline": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
+      "take": "US Treasury withdraws proposed crypto surveillance travel rule requirements",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
+    },
+    {
       "headline": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-      "take": "US 401k proposal allows altcoins but faces significant regulatory hurdles",
+      "take": "US 401(k) proposal opens potential altcoin access with remaining obstacles",
       "source": "cointelegraph_regulation",
       "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }

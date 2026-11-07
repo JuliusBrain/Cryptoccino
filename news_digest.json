@@ -1,84 +1,78 @@
 {
-  "generated": "2026-11-07T06:08:13.940163+00:00",
-  "ts": 1794031693,
+  "generated": "2026-11-07T13:14:01.295408+00:00",
+  "ts": 1794057241,
   "market": [
     {
+      "headline": "AI panic grips markets, NASDAQ 100 loses $2.5T amid investor concerns",
+      "take": "AI panic drives NASDAQ 100 down $2.5 trillion amid investor concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-panic-grips-markets-nasdaq-100-loses-25t-amid-investor-concerns/"
+    },
+    {
+      "headline": "Fidelity\u2019s Jurrien Timmer favors Bitcoin over gold amid sell-off",
+      "take": "Fidelity strategist favors Bitcoin over gold during current market sell-off",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/fidelity-timmer-bitcoin-over-gold-sell-off/"
+    },
+    {
       "headline": "Bitcoin spot ETFs see $412 million in net outflows on November 6",
-      "take": "Bitcoin spot ETFs face sustained outflows amid market uncertainty",
+      "take": "Bitcoin spot ETFs experience $412 million in net outflows November 6",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/bitcoin-spot-etfs-412m-outflows-november-6/"
     },
     {
-      "headline": "CFTC data shows speculators pile into 5-year Treasury shorts for week of November 3, 2026",
-      "take": "Speculators significantly increase short positions on five-year Treasury futures",
+      "headline": "IREN stock surges 20% as AI cloud revenue jumps 182%",
+      "take": "IREN stock surges 20% as AI cloud revenue jumps 182% year-over-year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-cot-report-5-year-treasury-shorts-bitcoin/"
-    },
-    {
-      "headline": "Solana Labs launches Leap iPhone beta for crypto swaps, SOL price dips 6%",
-      "take": "Solana launches mobile crypto swap app as SOL price declines",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-labs-launches-leap-iphone-beta-for-crypto-swaps-sol-price-dips-6/"
+      "link": "https://cryptobriefing.com/iren-stock-surges-ai-cloud-revenue/"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI raises $11B, valued at $1.2T, defers IPO plans",
-      "take": "OpenAI raises $11B at $1.2T valuation, delays public offering",
+      "headline": "Anthropic prepares to kick off IPO roadshow next week, report says",
+      "take": "Anthropic prepares IPO roadshow next week for NASDAQ listing",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-raises-11b-valued-at-12t-defers-ipo-plans/"
+      "link": "https://cryptobriefing.com/anthropic-prepares-to-kick-off-ipo-roadshow-next-week-report-says/"
     },
     {
-      "headline": "Binance France to close all customer accounts by year end, with fees on idle balances from November 29",
-      "take": "Binance France closing all accounts by year-end with November fees",
+      "headline": "Arm Holdings posts record quarter, sets $15 billion AGI CPU revenue target for 2031",
+      "take": "Arm Holdings posts record quarter, targets $15B AGI CPU revenue by 2031",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-france-close-accounts-fees-november/"
+      "link": "https://cryptobriefing.com/arm-holdings-earnings-agi-cpu-target/"
     },
     {
-      "headline": "Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin",
-      "take": "Blockstream selects Falcon-1024 quantum-resistant signature for Bitcoin security",
+      "headline": "TSMC reportedly weighs 3D DRAM production at Nvidia\u2019s request",
+      "take": "TSMC weighs 3D DRAM production at Nvidia's request",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockstream-falcon-1024-bitcoin-quantum-signatures/"
+      "link": "https://cryptobriefing.com/tsmc-3d-dram-production-nvidia-request/"
     },
     {
-      "headline": "Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8",
-      "take": "Nym launches privacy mixnet SDK for wallets and decentralized apps",
+      "headline": "Tether open-source project adds Bluetooth messaging for iPhone and Linux",
+      "take": "Tether open-source project adds Bluetooth messaging for iPhone and Linux",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nym-mixnet-sdk-wallets-devcon-8/"
+      "link": "https://cryptobriefing.com/tether-linux-iphone-bluetooth-messaging/"
     }
   ],
   "security": [
     {
-      "headline": "US Treasury cuts off MEXC from financial system over $16B in illicit transactions",
-      "take": "US Treasury blocks MEXC exchange from financial system over illicit transactions",
+      "headline": "Polymarket investigates suspicious bets placed hours before NYT/Siena polls",
+      "take": "Polymarket investigates suspicious bets placed before NYT/Siena polls released",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mexc-financial-sanctions-illicit-transactions/"
+      "link": "https://cryptobriefing.com/polymarket-investigates-suspicious-poll-bets/"
     },
     {
-      "headline": "Gnosis Pay data breach exposes customer info; funds unaffected",
-      "take": "Gnosis Pay suffers data breach exposing customer information",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934"
+      "headline": "Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin",
+      "take": "Blockstream adopts Falcon-1024 quantum-resistant signature for Bitcoin security",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blockstream-falcon-1024-bitcoin-quantum-signatures/"
     }
   ],
   "policy": [
     {
-      "headline": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-      "take": "Greece enacts 10% crypto gains tax plus 15% staking levy",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
-    },
-    {
-      "headline": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
-      "take": "US Treasury withdraws proposed crypto surveillance travel rule requirements",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
-    },
-    {
-      "headline": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-      "take": "US 401(k) proposal opens potential altcoin access with remaining obstacles",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Harwood, ND voters reject data center restrictions, support Applied Digital project",
+      "take": "North Dakota voters reject data center restrictions, support Applied Digital",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/harwood-nd-voters-reject-data-center-restrictions-support-applied-digital/"
     }
   ]
 }

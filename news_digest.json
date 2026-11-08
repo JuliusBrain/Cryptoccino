@@ -1,54 +1,108 @@
 {
-  "generated": "2026-11-08T10:31:05.646960+00:00",
-  "ts": 1794133865,
+  "generated": "2026-11-08T17:57:46.720406+00:00",
+  "ts": 1794160666,
   "market": [
     {
-      "headline": "Altcoins shed about $200 billion as 70% slip below 200-day moving average",
-      "take": "Altcoins down $200B with majority below 200-day moving average",
+      "headline": "Nvidia, Broadcom, Micron seen as key buys post-semiconductor sell-off",
+      "take": "Nvidia, Broadcom, Micron seen as key semiconductor recovery plays",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/altcoins-lose-200-billion-moving-average/"
+      "link": "https://cryptobriefing.com/nvidia-broadcom-micron-seen-as-key-buys-post-semiconductor-sell-off/"
     },
     {
-      "headline": "Berkshire Hathaway holds $377B cash, sells more stocks amid market caution",
-      "take": "Berkshire Hathaway holds record $377B cash, continues stock selling",
+      "headline": "Asian investors react to AI selloff amid US policy uncertainty",
+      "take": "Asian investors selling AI stocks amid US policy uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/berkshire-hathaway-holds-377b-cash-sells-more-stocks-amid-market-caution/"
+      "link": "https://cryptobriefing.com/asian-investors-react-to-ai-selloff-amid-us-policy-uncertainty/"
     },
     {
-      "headline": "Energy stocks rally may falter if oil supply recovers, prices stabilize",
-      "take": "Energy stock rally vulnerable if oil supply recovers and prices stabilize",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/energy-stocks-rally-may-falter-if-oil-supply-recovers-prices-stabilize/"
+      "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "take": "Finnish homes heated by bitcoin miners profit when BTC exceeds $70k",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
     }
   ],
   "business": [
     {
-      "headline": "Quantinuum raises 2026 revenue outlook after record bookings",
-      "take": "Quantinuum raises 2026 revenue outlook following record bookings",
+      "headline": "Anthropic secures $3B deal for gas-fired electricity ahead of IPO: FT",
+      "take": "Anthropic secures $3B gas-fired power deal ahead of IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantinuum-raises-2026-revenue-outlook/"
+      "link": "https://cryptobriefing.com/anthropic-secures-3b-deal-for-gas-fired-electricity-ahead-of-ipo-ft/"
     },
     {
-      "headline": "OKX founder Star Xu advises users to avoid direct MEXC transfers",
-      "take": "OKX founder advises users against direct MEXC transfers",
+      "headline": "Trump era spurs $1.5T US M&A surge, SpaceX buys xAI for $250B",
+      "take": "Trump era drives $1.5T US M&A surge, SpaceX acquires xAI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okx-star-xu-avoid-mexc-transfers/"
+      "link": "https://cryptobriefing.com/trump-era-spurs-15t-us-ma-surge-spacex-buys-xai-for-250b/"
+    },
+    {
+      "headline": "OpenAI, Anthropic reveal new AI models, products in week 45 of 2026",
+      "take": "OpenAI and Anthropic launch new AI models and products",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-anthropic-reveal-new-ai-models-products-in-week-45-of-2026/"
+    },
+    {
+      "headline": "CoreWeave says it will self-fund grid costs for its Texas data centers",
+      "take": "CoreWeave commits to self-fund grid costs for Texas data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-self-fund-texas-data-center-costs/"
+    },
+    {
+      "headline": "Quantinuum raises 2026 revenue outlook after record bookings",
+      "take": "Quantinuum raises 2026 revenue outlook on record bookings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/quantinuum-raises-2026-revenue-outlook/"
     }
   ],
   "security": [
     {
-      "headline": "Former Holograph Foundation employee sentenced to five years over $14M HLG token mint",
-      "take": "Former Holograph employee sentenced five years for $14M token mint fraud",
+      "headline": "Bitquery traces $6.01M theft to Keplr wallets created with Google and Apple logins",
+      "take": "Bitquery traces $6.01M Keplr theft to wallets using Google, Apple logins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/holograph-employee-sentenced-hlg-token-mint/"
+      "link": "https://cryptobriefing.com/keplr-social-login-wallets-6m-theft-bitquery/"
+    },
+    {
+      "headline": "Web3Auth pauses embedded wallet service after security issue, Keplr users hit",
+      "take": "Web3Auth pauses embedded wallet service after security incident",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/web3auth-pauses-embedded-wallet-keplr/"
+    },
+    {
+      "headline": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
+      "take": "Bitcoin developer proposes quantum attack resistance mechanism",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet"
+    },
+    {
+      "headline": "Tsinghua study finds AI agents slipped past top chain-of-thought monitors 59.94% of the time",
+      "take": "AI agents bypassed top chain-of-thought monitors nearly 60 percent of time",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tsinghua-tracemrt-ai-monitor-evasion-study/"
+    },
+    {
+      "headline": "Robocurve tests AI models with real robot arms, finds safety issues",
+      "take": "Robocurve testing finds safety issues with AI-controlled robot arms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/robocurve-ai-robot-arms-safety-tests/"
     }
   ],
   "policy": [
     {
-      "headline": "EU launches task force to stop crypto sanctions evasion by Russia",
-      "take": "EU launches task force targeting crypto sanctions evasion by Russia",
+      "headline": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "take": "Vitalik Buterin argues ETH should function as store of value",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
+    },
+    {
+      "headline": "Dutch government commits \u20ac120 million to AI infrastructure and safety",
+      "take": "Dutch government commits \u20ac120 million to AI infrastructure and safety",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-launches-task-force-to-stop-crypto-sanctions-evasion-by-russia/"
+      "link": "https://cryptobriefing.com/dutch-government-120-million-ai-strategy/"
+    },
+    {
+      "headline": "Voter backlash threatens AI data center expansion in Texas, Georgia, Ohio",
+      "take": "Voter opposition threatens AI data center expansion in multiple states",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/voter-backlash-threatens-ai-data-center-expansion-in-texas-georgia-ohio/"
     }
   ]
 }

@@ -1,108 +1,96 @@
 {
-  "generated": "2026-11-08T17:57:46.720406+00:00",
-  "ts": 1794160666,
+  "generated": "2026-11-08T22:13:45.308814+00:00",
+  "ts": 1794176025,
   "market": [
     {
-      "headline": "Nvidia, Broadcom, Micron seen as key buys post-semiconductor sell-off",
-      "take": "Nvidia, Broadcom, Micron seen as key semiconductor recovery plays",
+      "headline": "$1B liquidated from crypto market as Bitcoin, Ethereum drop",
+      "take": "Billion dollars liquidated as Bitcoin and Ethereum prices decline sharply",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-broadcom-micron-seen-as-key-buys-post-semiconductor-sell-off/"
-    },
-    {
-      "headline": "Asian investors react to AI selloff amid US policy uncertainty",
-      "take": "Asian investors selling AI stocks amid US policy uncertainty",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/asian-investors-react-to-ai-selloff-amid-us-policy-uncertainty/"
+      "link": "https://cryptobriefing.com/1b-crypto-liquidations-bitcoin-ethereum-drop/"
     },
     {
       "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "take": "Finnish homes heated by bitcoin miners profit when BTC exceeds $70k",
+      "take": "Finnish homes receive waste heat from Bitcoin mining operations above price threshold",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
+    },
+    {
+      "headline": "Stablecoin growth has stalled. The payments boom hasn't",
+      "take": "Stablecoin adoption plateaus while payments infrastructure continues expanding",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic secures $3B deal for gas-fired electricity ahead of IPO: FT",
-      "take": "Anthropic secures $3B gas-fired power deal ahead of IPO",
+      "headline": "SpaceX plans $24 billion AI supercomputer and gas plant in Starbase, Texas",
+      "take": "SpaceX planning twenty-four billion dollar AI supercomputer at Texas facility",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-secures-3b-deal-for-gas-fired-electricity-ahead-of-ipo-ft/"
+      "link": "https://cryptobriefing.com/spacex-24-billion-ai-supercomputer-starbase/"
     },
     {
-      "headline": "Trump era spurs $1.5T US M&A surge, SpaceX buys xAI for $250B",
-      "take": "Trump era drives $1.5T US M&A surge, SpaceX acquires xAI",
+      "headline": "Anthropic to begin IPO roadshow next week amid AI market volatility",
+      "take": "Anthropic begins IPO roadshow amid volatile artificial intelligence market conditions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-era-spurs-15t-us-ma-surge-spacex-buys-xai-for-250b/"
+      "link": "https://cryptobriefing.com/anthropic-to-begin-ipo-roadshow-next-week-amid-ai-market-volatility/"
     },
     {
-      "headline": "OpenAI, Anthropic reveal new AI models, products in week 45 of 2026",
-      "take": "OpenAI and Anthropic launch new AI models and products",
+      "headline": "Coinbase Wallet plans to add AI agent capabilities this year",
+      "take": "Coinbase Wallet integrating AI agent capabilities for users this year",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-anthropic-reveal-new-ai-models-products-in-week-45-of-2026/"
+      "link": "https://cryptobriefing.com/coinbase-wallet-ai-agent-capabilities/"
     },
     {
-      "headline": "CoreWeave says it will self-fund grid costs for its Texas data centers",
-      "take": "CoreWeave commits to self-fund grid costs for Texas data centers",
+      "headline": "DeepSeek reports one million daily users for its AI agent platform, challenging Anthropic and OpenAI",
+      "take": "DeepSeek AI agent attracts million daily users, competing with major labs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-self-fund-texas-data-center-costs/"
+      "link": "https://cryptobriefing.com/deepseek-reports-one-million-daily-users-for-its-ai-agent-platform-challenging/"
     },
     {
-      "headline": "Quantinuum raises 2026 revenue outlook after record bookings",
-      "take": "Quantinuum raises 2026 revenue outlook on record bookings",
+      "headline": "TSMC explores advanced 3D memory chip production at Nvidia\u2019s request",
+      "take": "TSMC explores advanced three-dimensional memory production at Nvidia's request",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quantinuum-raises-2026-revenue-outlook/"
+      "link": "https://cryptobriefing.com/tsmc-explores-advanced-3d-memory-chip-production-at-nvidias-request/"
     }
   ],
   "security": [
     {
-      "headline": "Bitquery traces $6.01M theft to Keplr wallets created with Google and Apple logins",
-      "take": "Bitquery traces $6.01M Keplr theft to wallets using Google, Apple logins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/keplr-social-login-wallets-6m-theft-bitquery/"
+      "headline": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+      "take": "Web3Auth preemptively moved five point six million from Keplr before breach",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029"
     },
     {
-      "headline": "Web3Auth pauses embedded wallet service after security issue, Keplr users hit",
-      "take": "Web3Auth pauses embedded wallet service after security incident",
+      "headline": "LNbits urges users to shut down servers amid wave of attacks",
+      "take": "LNbits urges shutdown of servers during ongoing security attack wave",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/web3auth-pauses-embedded-wallet-keplr/"
+      "link": "https://cryptobriefing.com/lnbits-urges-users-shut-down-servers/"
     },
     {
       "headline": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
-      "take": "Bitcoin developer proposes quantum attack resistance mechanism",
+      "take": "Bitcoin developer proposes quantum resistance approach for future network security",
       "source": "decrypt",
       "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet"
-    },
-    {
-      "headline": "Tsinghua study finds AI agents slipped past top chain-of-thought monitors 59.94% of the time",
-      "take": "AI agents bypassed top chain-of-thought monitors nearly 60 percent of time",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsinghua-tracemrt-ai-monitor-evasion-study/"
-    },
-    {
-      "headline": "Robocurve tests AI models with real robot arms, finds safety issues",
-      "take": "Robocurve testing finds safety issues with AI-controlled robot arms",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robocurve-ai-robot-arms-safety-tests/"
     }
   ],
   "policy": [
     {
-      "headline": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "take": "Vitalik Buterin argues ETH should function as store of value",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
-    },
-    {
-      "headline": "Dutch government commits \u20ac120 million to AI infrastructure and safety",
-      "take": "Dutch government commits \u20ac120 million to AI infrastructure and safety",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dutch-government-120-million-ai-strategy/"
-    },
-    {
       "headline": "Voter backlash threatens AI data center expansion in Texas, Georgia, Ohio",
-      "take": "Voter opposition threatens AI data center expansion in multiple states",
+      "take": "Voter opposition threatens AI data center expansion plans across multiple states",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/voter-backlash-threatens-ai-data-center-expansion-in-texas-georgia-ohio/"
+    },
+    {
+      "headline": "Texas considers moratorium on new data centers amid grid frequency concerns",
+      "take": "Texas considers data center moratorium due to electric grid frequency concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/texas-considers-moratorium-on-new-data-centers-amid-grid-frequency-concerns/"
+    },
+    {
+      "headline": "What the election results mean for crypto: State of Crypto",
+      "take": "Election results create policy shifts affecting cryptocurrency regulatory landscape",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
     }
   ]
 }

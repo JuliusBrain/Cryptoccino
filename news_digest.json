@@ -1,96 +1,108 @@
 {
-  "generated": "2026-11-08T22:13:45.308814+00:00",
-  "ts": 1794176025,
+  "generated": "2026-11-09T06:46:50.635770+00:00",
+  "ts": 1794206810,
   "market": [
     {
+      "headline": "Binance leads Nvidia perpetual trading with $360.35 million in daily volume",
+      "take": "Binance leads Nvidia perpetual trading with $360 million daily volume",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-leads-nvidia-perpetual-trading-volume/"
+    },
+    {
       "headline": "$1B liquidated from crypto market as Bitcoin, Ethereum drop",
-      "take": "Billion dollars liquidated as Bitcoin and Ethereum prices decline sharply",
+      "take": "$1B liquidated from crypto market as Bitcoin, Ethereum prices drop",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/1b-crypto-liquidations-bitcoin-ethereum-drop/"
     },
     {
-      "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "take": "Finnish homes receive waste heat from Bitcoin mining operations above price threshold",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
+      "headline": "Upbit weekly volume falls 20.8% to 6.7 trillion won as XRP leads trading",
+      "take": "Upbit weekly volume falls 20.8% to 6.7 trillion won this week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/upbit-weekly-volume-drops-xrp-leads/"
+    },
+    {
+      "headline": "Gold prices fall as strong US jobs data fuels December rate hike expectations",
+      "take": "Gold prices fall as strong US jobs data fuels rate hike expectations",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/gold-prices-fall-as-strong-us-jobs-data-fuels-december-rate-hike-expectations/"
     },
     {
       "headline": "Stablecoin growth has stalled. The payments boom hasn't",
-      "take": "Stablecoin adoption plateaus while payments infrastructure continues expanding",
+      "take": "Stablecoin growth has stalled despite predicted payments industry boom",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
     }
   ],
   "business": [
     {
-      "headline": "SpaceX plans $24 billion AI supercomputer and gas plant in Starbase, Texas",
-      "take": "SpaceX planning twenty-four billion dollar AI supercomputer at Texas facility",
+      "headline": "Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure",
+      "take": "Nvidia, Rebellions and SK Telecom partner on sovereign AI infrastructure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-24-billion-ai-supercomputer-starbase/"
+      "link": "https://cryptobriefing.com/nvidia-rebellions-sk-telecom-sovereign-ai/"
     },
     {
-      "headline": "Anthropic to begin IPO roadshow next week amid AI market volatility",
-      "take": "Anthropic begins IPO roadshow amid volatile artificial intelligence market conditions",
+      "headline": "King Yuan Electronics keeps its Texas AI chip testing plant on schedule",
+      "take": "King Yuan Electronics keeps Texas AI chip testing plant on schedule",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-to-begin-ipo-roadshow-next-week-amid-ai-market-volatility/"
+      "link": "https://cryptobriefing.com/king-yuan-electronics-texas-ai-chip-testing-plant/"
     },
     {
-      "headline": "Coinbase Wallet plans to add AI agent capabilities this year",
-      "take": "Coinbase Wallet integrating AI agent capabilities for users this year",
+      "headline": "Advanced Micro Devices eyes $94B revenue by 2027, nearing $100B threshold",
+      "take": "Advanced Micro Devices targets $94B revenue by 2027 threshold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-wallet-ai-agent-capabilities/"
+      "link": "https://cryptobriefing.com/amd-targets-100-billion-revenue-2027/"
     },
     {
-      "headline": "DeepSeek reports one million daily users for its AI agent platform, challenging Anthropic and OpenAI",
-      "take": "DeepSeek AI agent attracts million daily users, competing with major labs",
+      "headline": "Bloom Energy stock falls 16% despite two major data center deals",
+      "take": "Bloom Energy stock falls 16% despite winning two major data center deals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/deepseek-reports-one-million-daily-users-for-its-ai-agent-platform-challenging/"
+      "link": "https://cryptobriefing.com/bloom-energy-stock-falls-data-center-deals/"
     },
     {
-      "headline": "TSMC explores advanced 3D memory chip production at Nvidia\u2019s request",
-      "take": "TSMC explores advanced three-dimensional memory production at Nvidia's request",
+      "headline": "Samsung, SK hynix and Micron pursue a common charging standard for fab robots",
+      "take": "Samsung, SK hynix, Micron pursue common charging standard for fab robots",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-explores-advanced-3d-memory-chip-production-at-nvidias-request/"
+      "link": "https://cryptobriefing.com/samsung-sk-hynix-micron-robot-charging-standard/"
     }
   ],
   "security": [
     {
-      "headline": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
-      "take": "Web3Auth preemptively moved five point six million from Keplr before breach",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029"
-    },
-    {
-      "headline": "LNbits urges users to shut down servers amid wave of attacks",
-      "take": "LNbits urges shutdown of servers during ongoing security attack wave",
+      "headline": "Three men charged in alleged $129 million AI voice-cloning fraud scheme",
+      "take": "Three men charged in alleged $129 million AI voice-cloning fraud scheme",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lnbits-urges-users-shut-down-servers/"
+      "link": "https://cryptobriefing.com/three-men-charged-129m-ai-impersonation-fraud/"
     },
     {
-      "headline": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
-      "take": "Bitcoin developer proposes quantum resistance approach for future network security",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet"
+      "headline": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "take": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Evan Luthra details Oxford kidnapping, losing over $2M in crypto",
+      "take": "Evan Luthra details Oxford kidnapping, losing over $2M in crypto",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/evan-luthra-oxford-kidnapping-crypto-theft/"
     }
   ],
   "policy": [
     {
-      "headline": "Voter backlash threatens AI data center expansion in Texas, Georgia, Ohio",
-      "take": "Voter opposition threatens AI data center expansion plans across multiple states",
+      "headline": "Senator Blumenthal sets January 4 deadline for Binance and Tether records",
+      "take": "Senator Blumenthal sets January 4 deadline for Binance and Tether records",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/voter-backlash-threatens-ai-data-center-expansion-in-texas-georgia-ohio/"
+      "link": "https://cryptobriefing.com/blumenthal-binance-tether-records-deadline/"
     },
     {
-      "headline": "Texas considers moratorium on new data centers amid grid frequency concerns",
-      "take": "Texas considers data center moratorium due to electric grid frequency concerns",
+      "headline": "Kalshi, Polymarket face scrutiny from Democrats after midterms",
+      "take": "Kalshi, Polymarket face Democratic scrutiny after midterm elections",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-considers-moratorium-on-new-data-centers-amid-grid-frequency-concerns/"
+      "link": "https://cryptobriefing.com/kalshi-polymarket-democrats-scrutiny-midterms/"
     },
     {
-      "headline": "What the election results mean for crypto: State of Crypto",
-      "take": "Election results create policy shifts affecting cryptocurrency regulatory landscape",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
+      "headline": "Trump defends family\u2019s crypto business in 60 Minutes interview",
+      "take": "Trump defends family's crypto business in 60 Minutes interview",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-defends-family-crypto-60-minutes/"
     }
   ]
 }

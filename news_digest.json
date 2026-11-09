@@ -1,108 +1,84 @@
 {
-  "generated": "2026-11-09T06:46:50.635770+00:00",
-  "ts": 1794206810,
+  "generated": "2026-11-09T19:53:28.810793+00:00",
+  "ts": 1794254008,
   "market": [
     {
-      "headline": "Binance leads Nvidia perpetual trading with $360.35 million in daily volume",
-      "take": "Binance leads Nvidia perpetual trading with $360 million daily volume",
+      "headline": "Marathon sells 15,133 BTC to cut debt and fund its AI pivot",
+      "take": "Marathon sells BTC holdings to reduce debt and fund AI expansion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-leads-nvidia-perpetual-trading-volume/"
+      "link": "https://cryptobriefing.com/marathon-sells-15133-btc-debt-ai-pivot/"
     },
     {
-      "headline": "$1B liquidated from crypto market as Bitcoin, Ethereum drop",
-      "take": "$1B liquidated from crypto market as Bitcoin, Ethereum prices drop",
+      "headline": "Hyperliquid equities volume tops Bitcoin trading again as traders buy the stock dip",
+      "take": "Hyperliquid equities volume exceeds Bitcoin trading as retail buys dips",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/1b-crypto-liquidations-bitcoin-ethereum-drop/"
+      "link": "https://cryptobriefing.com/hyperliquid-equities-volume-tops-bitcoin-again/"
     },
     {
-      "headline": "Upbit weekly volume falls 20.8% to 6.7 trillion won as XRP leads trading",
-      "take": "Upbit weekly volume falls 20.8% to 6.7 trillion won this week",
+      "headline": "Ethereum stablecoin and tokenized fund market cap drops 19% to $168B",
+      "take": "Ethereum stablecoin and tokenized fund market cap fell nineteen percent",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-weekly-volume-drops-xrp-leads/"
-    },
-    {
-      "headline": "Gold prices fall as strong US jobs data fuels December rate hike expectations",
-      "take": "Gold prices fall as strong US jobs data fuels rate hike expectations",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gold-prices-fall-as-strong-us-jobs-data-fuels-december-rate-hike-expectations/"
-    },
-    {
-      "headline": "Stablecoin growth has stalled. The payments boom hasn't",
-      "take": "Stablecoin growth has stalled despite predicted payments industry boom",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
+      "link": "https://cryptobriefing.com/ethereum-stablecoin-tokenized-fund-market-drops-19/"
     }
   ],
   "business": [
     {
-      "headline": "Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure",
-      "take": "Nvidia, Rebellions and SK Telecom partner on sovereign AI infrastructure",
+      "headline": "MiPlata launches Visa prepaid card for direct stablecoin spending",
+      "take": "MiPlata launches Visa card enabling direct stablecoin spending globally",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-rebellions-sk-telecom-sovereign-ai/"
+      "link": "https://cryptobriefing.com/miplata-visa-prepaid-card-stablecoin-spending/"
     },
     {
-      "headline": "King Yuan Electronics keeps its Texas AI chip testing plant on schedule",
-      "take": "King Yuan Electronics keeps Texas AI chip testing plant on schedule",
+      "headline": "PNC Bank pilots USDC payments for corporate clients via Coinbase on Ethereum",
+      "take": "PNC Bank pilots USDC payments for corporate clients via Ethereum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/king-yuan-electronics-texas-ai-chip-testing-plant/"
+      "link": "https://cryptobriefing.com/pnc-bank-pilots-usdc-payments-for-corporate-clients-via-coinbase-on-ethereum/"
     },
     {
-      "headline": "Advanced Micro Devices eyes $94B revenue by 2027, nearing $100B threshold",
-      "take": "Advanced Micro Devices targets $94B revenue by 2027 threshold",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amd-targets-100-billion-revenue-2027/"
+      "headline": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
+      "take": "Robinhood backs stock tokenization on OKX\u2013ICE platform despite low adoption",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
     },
     {
-      "headline": "Bloom Energy stock falls 16% despite two major data center deals",
-      "take": "Bloom Energy stock falls 16% despite winning two major data center deals",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bloom-energy-stock-falls-data-center-deals/"
-    },
-    {
-      "headline": "Samsung, SK hynix and Micron pursue a common charging standard for fab robots",
-      "take": "Samsung, SK hynix, Micron pursue common charging standard for fab robots",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-sk-hynix-micron-robot-charging-standard/"
+      "headline": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+      "take": "Solana ecosystem adds another tokenized stock venue after SEC notification",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec"
     }
   ],
   "security": [
     {
-      "headline": "Three men charged in alleged $129 million AI voice-cloning fraud scheme",
-      "take": "Three men charged in alleged $129 million AI voice-cloning fraud scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/three-men-charged-129m-ai-impersonation-fraud/"
+      "headline": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "take": "Binance hack launderers mint meme coins to move stolen cryptocurrency",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
     },
     {
-      "headline": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-      "take": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "Hackers hijack Ethersphere\u2019s bee-js package and Swarm Desktop app to push wallet-stealing malware",
+      "take": "Hackers compromise bee-js and Swarm Desktop to distribute wallet-stealing malware",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ethersphere-bee-js-swarm-desktop-malware/"
     },
     {
-      "headline": "Evan Luthra details Oxford kidnapping, losing over $2M in crypto",
-      "take": "Evan Luthra details Oxford kidnapping, losing over $2M in crypto",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/evan-luthra-oxford-kidnapping-crypto-theft/"
+      "headline": "Sanctioned Canadian Crypto OTCs Served Iran and Drug Cartels",
+      "take": "Canadian crypto OTC platforms allegedly served Iran and international drug cartels",
+      "source": "chainalysis",
+      "link": "https://www.chainalysis.com/blog/ofac-canadian-otcs/"
     }
   ],
   "policy": [
     {
-      "headline": "Senator Blumenthal sets January 4 deadline for Binance and Tether records",
-      "take": "Senator Blumenthal sets January 4 deadline for Binance and Tether records",
+      "headline": "US states consider data center moratoriums over electricity use concerns",
+      "take": "US states weigh data center moratoriums citing cryptocurrency electricity consumption",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blumenthal-binance-tether-records-deadline/"
+      "link": "https://cryptobriefing.com/us-states-consider-data-center-moratoriums-over-electricity-use-concerns/"
     },
     {
-      "headline": "Kalshi, Polymarket face scrutiny from Democrats after midterms",
-      "take": "Kalshi, Polymarket face Democratic scrutiny after midterm elections",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-polymarket-democrats-scrutiny-midterms/"
-    },
-    {
-      "headline": "Trump defends family\u2019s crypto business in 60 Minutes interview",
-      "take": "Trump defends family's crypto business in 60 Minutes interview",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-defends-family-crypto-60-minutes/"
+      "headline": "Ethereum Foundation, Vitalik Buterin sued over firing after \u2018suicide pledge\u2019 dispute",
+      "take": "Ethereum Foundation and Vitalik Buterin face lawsuit over employment dispute",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
     }
   ]
 }

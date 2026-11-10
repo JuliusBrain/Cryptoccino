@@ -1,108 +1,90 @@
 {
-  "generated": "2026-11-10T03:37:42.171183+00:00",
-  "ts": 1794281862,
+  "generated": "2026-11-10T14:59:40.843687+00:00",
+  "ts": 1794322780,
   "market": [
     {
-      "headline": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-      "take": "Marathon Digital posts $634M Q3 profit from Bitcoin gains, sells BTC to repay debt",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
-    },
-    {
-      "headline": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-      "take": "Bitcoin faces inflation test as analysts question whether CPI relief will drive gains",
+      "headline": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "take": "U.S. CPI rose 0.4% in October, stronger than expected",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
+      "link": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
     },
     {
-      "headline": "HIVE, MARA mine more Bitcoin but bring in less revenue as prices slide",
-      "take": "HIVE and Marathon mine more Bitcoin but revenue drops as prices decline",
+      "headline": "Tether supply drops $6.6 billion in 60 days, outpacing the post-FTX decline",
+      "take": "Tether supply drops $6.6 billion in 60 days, outpacing post-FTX decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hive-mara-more-bitcoin-lower-revenue/"
+      "link": "https://cryptobriefing.com/tether-supply-drops-66-billion-60-days/"
     },
     {
-      "headline": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
-      "take": "Securitize shares surge 12% after Q3 results and River One acquisition agreement",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955"
-    },
-    {
-      "headline": "BitFuFu increases Bitcoin holdings by 66 BTC to 1,454 BTC",
-      "take": "BitFuFu increases Bitcoin holdings by 66 BTC to total 1,454 BTC",
+      "headline": "$179M in crypto longs liquidated in one hour after hot October CPI",
+      "take": "$179 million in crypto longs liquidated after hot October CPI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitfufu-bitcoin-holdings-1454-btc/"
+      "link": "https://cryptobriefing.com/crypto-longs-liquidated-october-cpi/"
+    },
+    {
+      "headline": "Oil prices drop over 20% as markets anticipate Iran conflict de-escalation",
+      "take": "Oil prices drop over 20% as markets anticipate Iran de-escalation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/oil-prices-drop-over-20-as-markets-anticipate-iran-conflict-de-escalation/"
+    },
+    {
+      "headline": "Bitdeer posts record $320.7 million Q3 revenue as AI lease pipeline grows",
+      "take": "Bitdeer posts record $320.7M Q3 revenue, AI lease pipeline grows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitdeer-q3-2026-earnings-revenue-record/"
     }
   ],
   "business": [
     {
-      "headline": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-      "take": "Securitize expands into $6 trillion asset-backed finance market via River One deal",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
+      "headline": "Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain",
+      "take": "Alta raises $47.5M Series A for compliance-first blockchain for banks",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/alta-raises-series-a-index-ventures/"
     },
     {
-      "headline": "Pendle\u2019s real-world asset TVL tops $850 million as RWAs take over the protocol",
-      "take": "Pendle's real-world asset TVL exceeds $850M as RWAs dominate the protocol",
+      "headline": "Base overtakes Solana to become the second-largest DeFi chain",
+      "take": "Base overtakes Solana to become the second-largest DeFi chain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-rwa-tvl-tops-850-million/"
+      "link": "https://cryptobriefing.com/base-surpasses-solana-second-largest-defi-chain/"
     },
     {
-      "headline": "Pendle becomes the largest DeFi venue for tokenized stocks with about 18.5% market share",
-      "take": "Pendle becomes largest DeFi venue for tokenized stocks with 18.5% market share",
+      "headline": "Decrypt partners with Helius to bring confidential transfers to its Money Account",
+      "take": "Decrypt Money Account gains confidential transfers via Helius privacy tech",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-largest-defi-tokenized-stocks-venue/"
+      "link": "https://cryptobriefing.com/decrypt-helius-confidential-transfers-money-account/"
     },
     {
-      "headline": "MARA lays out AI expansion plans and lands a $79M GPU contract",
-      "take": "Marathon Digital outlines AI expansion plans and secures $79M GPU contract",
+      "headline": "Visa expands stablecoin settlements to weekends and holidays",
+      "take": "Visa expands stablecoin settlements to weekends and holidays",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mara-ai-expansion-79m-gpu-contract/"
+      "link": "https://cryptobriefing.com/visa-stablecoin-settlement-weekends-holidays/"
     },
     {
-      "headline": "Anthropic targets November NASDAQ IPO amid AI stock downturn: WSJ",
-      "take": "Anthropic targets November NASDAQ IPO amid AI stock market downturn",
+      "headline": "Moody\u2019s pilots credit ratings distribution across blockchains with Chainlink",
+      "take": "Moody's pilots credit ratings distribution across blockchains with Chainlink",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-targets-november-nasdaq-ipo-amid-ai-stock-downturn-wsj/"
+      "link": "https://cryptobriefing.com/moodys-chainlink-credit-ratings-blockchain-pilot/"
     }
   ],
   "security": [
     {
-      "headline": "NEAR AI pauses cloud inference after detecting unauthorized access",
-      "take": "NEAR AI pauses cloud inference after detecting unauthorized access incident",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/near-ai-pauses-cloud-inference-unauthorized-access/"
+      "headline": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "take": "Binance warns of Apple iOS flaw that could expose iPhone private keys",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys"
     },
     {
-      "headline": "Australia mandates AI breach reporting and plans a regulator after OpenAI agent incident",
-      "take": "Australia mandates AI breach reporting and plans regulator after OpenAI incident",
+      "headline": "Clearpool\u2019s CLEAR token clears Cantina security review ahead of November 17 migration",
+      "take": "Clearpool's CLEAR token clears Cantina security review ahead of migration",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/australia-ai-breach-reporting-regulator-openai/"
-    },
-    {
-      "headline": "CFTC Sanctions Eight Individuals for Acting as Unregistered Associated Persons of Foreign Introducing Brokers",
-      "take": "CFTC sanctions eight individuals for acting as unregistered foreign broker associates",
-      "source": "cftc_enforcement",
-      "link": "https://www.cftc.gov/PressRoom/PressReleases/9324-26"
+      "link": "https://cryptobriefing.com/clearpool-clear-token-cantina-security-review-migration/"
     }
   ],
   "policy": [
     {
-      "headline": "US Commerce Department moves to block China\u2019s remote access to Nvidia chips",
-      "take": "US Commerce Department moves to block China's remote access to Nvidia chips",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/commerce-department-blocks-china-remote-nvidia-access/"
-    },
-    {
-      "headline": "Crypto must solidify political influence to avoid regulatory rollback: McHenry",
-      "take": "Crypto must solidify political influence to avoid regulatory rollback, McHenry warns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-must-solidify-political-influence-to-avoid-regulatory-rollback-mchenry/"
-    },
-    {
-      "headline": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-      "take": "Australia considers 47% tax rate on crypto gains, raising relocation discussions",
+      "headline": "Poland\u2019s lower house backs sanctions bill covering crypto freezes",
+      "take": "Poland's lower house backs sanctions bill covering crypto freezes",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

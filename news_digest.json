@@ -1,84 +1,108 @@
 {
-  "generated": "2026-11-09T19:53:28.810793+00:00",
-  "ts": 1794254008,
+  "generated": "2026-11-10T03:37:42.171183+00:00",
+  "ts": 1794281862,
   "market": [
     {
-      "headline": "Marathon sells 15,133 BTC to cut debt and fund its AI pivot",
-      "take": "Marathon sells BTC holdings to reduce debt and fund AI expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/marathon-sells-15133-btc-debt-ai-pivot/"
+      "headline": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+      "take": "Marathon Digital posts $634M Q3 profit from Bitcoin gains, sells BTC to repay debt",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
     },
     {
-      "headline": "Hyperliquid equities volume tops Bitcoin trading again as traders buy the stock dip",
-      "take": "Hyperliquid equities volume exceeds Bitcoin trading as retail buys dips",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-equities-volume-tops-bitcoin-again/"
+      "headline": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "take": "Bitcoin faces inflation test as analysts question whether CPI relief will drive gains",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
     },
     {
-      "headline": "Ethereum stablecoin and tokenized fund market cap drops 19% to $168B",
-      "take": "Ethereum stablecoin and tokenized fund market cap fell nineteen percent",
+      "headline": "HIVE, MARA mine more Bitcoin but bring in less revenue as prices slide",
+      "take": "HIVE and Marathon mine more Bitcoin but revenue drops as prices decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethereum-stablecoin-tokenized-fund-market-drops-19/"
+      "link": "https://cryptobriefing.com/hive-mara-more-bitcoin-lower-revenue/"
+    },
+    {
+      "headline": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "take": "Securitize shares surge 12% after Q3 results and River One acquisition agreement",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955"
+    },
+    {
+      "headline": "BitFuFu increases Bitcoin holdings by 66 BTC to 1,454 BTC",
+      "take": "BitFuFu increases Bitcoin holdings by 66 BTC to total 1,454 BTC",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitfufu-bitcoin-holdings-1454-btc/"
     }
   ],
   "business": [
     {
-      "headline": "MiPlata launches Visa prepaid card for direct stablecoin spending",
-      "take": "MiPlata launches Visa card enabling direct stablecoin spending globally",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/miplata-visa-prepaid-card-stablecoin-spending/"
-    },
-    {
-      "headline": "PNC Bank pilots USDC payments for corporate clients via Coinbase on Ethereum",
-      "take": "PNC Bank pilots USDC payments for corporate clients via Ethereum",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pnc-bank-pilots-usdc-payments-for-corporate-clients-via-coinbase-on-ethereum/"
-    },
-    {
-      "headline": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
-      "take": "Robinhood backs stock tokenization on OKX\u2013ICE platform despite low adoption",
+      "headline": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "take": "Securitize expands into $6 trillion asset-backed finance market via River One deal",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
+      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
     },
     {
-      "headline": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-      "take": "Solana ecosystem adds another tokenized stock venue after SEC notification",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec"
+      "headline": "Pendle\u2019s real-world asset TVL tops $850 million as RWAs take over the protocol",
+      "take": "Pendle's real-world asset TVL exceeds $850M as RWAs dominate the protocol",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pendle-rwa-tvl-tops-850-million/"
+    },
+    {
+      "headline": "Pendle becomes the largest DeFi venue for tokenized stocks with about 18.5% market share",
+      "take": "Pendle becomes largest DeFi venue for tokenized stocks with 18.5% market share",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/pendle-largest-defi-tokenized-stocks-venue/"
+    },
+    {
+      "headline": "MARA lays out AI expansion plans and lands a $79M GPU contract",
+      "take": "Marathon Digital outlines AI expansion plans and secures $79M GPU contract",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mara-ai-expansion-79m-gpu-contract/"
+    },
+    {
+      "headline": "Anthropic targets November NASDAQ IPO amid AI stock downturn: WSJ",
+      "take": "Anthropic targets November NASDAQ IPO amid AI stock market downturn",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-targets-november-nasdaq-ipo-amid-ai-stock-downturn-wsj/"
     }
   ],
   "security": [
     {
-      "headline": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-      "take": "Binance hack launderers mint meme coins to move stolen cryptocurrency",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
-    },
-    {
-      "headline": "Hackers hijack Ethersphere\u2019s bee-js package and Swarm Desktop app to push wallet-stealing malware",
-      "take": "Hackers compromise bee-js and Swarm Desktop to distribute wallet-stealing malware",
+      "headline": "NEAR AI pauses cloud inference after detecting unauthorized access",
+      "take": "NEAR AI pauses cloud inference after detecting unauthorized access incident",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ethersphere-bee-js-swarm-desktop-malware/"
+      "link": "https://cryptobriefing.com/near-ai-pauses-cloud-inference-unauthorized-access/"
     },
     {
-      "headline": "Sanctioned Canadian Crypto OTCs Served Iran and Drug Cartels",
-      "take": "Canadian crypto OTC platforms allegedly served Iran and international drug cartels",
-      "source": "chainalysis",
-      "link": "https://www.chainalysis.com/blog/ofac-canadian-otcs/"
+      "headline": "Australia mandates AI breach reporting and plans a regulator after OpenAI agent incident",
+      "take": "Australia mandates AI breach reporting and plans regulator after OpenAI incident",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/australia-ai-breach-reporting-regulator-openai/"
+    },
+    {
+      "headline": "CFTC Sanctions Eight Individuals for Acting as Unregistered Associated Persons of Foreign Introducing Brokers",
+      "take": "CFTC sanctions eight individuals for acting as unregistered foreign broker associates",
+      "source": "cftc_enforcement",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9324-26"
     }
   ],
   "policy": [
     {
-      "headline": "US states consider data center moratoriums over electricity use concerns",
-      "take": "US states weigh data center moratoriums citing cryptocurrency electricity consumption",
+      "headline": "US Commerce Department moves to block China\u2019s remote access to Nvidia chips",
+      "take": "US Commerce Department moves to block China's remote access to Nvidia chips",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-states-consider-data-center-moratoriums-over-electricity-use-concerns/"
+      "link": "https://cryptobriefing.com/commerce-department-blocks-china-remote-nvidia-access/"
     },
     {
-      "headline": "Ethereum Foundation, Vitalik Buterin sued over firing after \u2018suicide pledge\u2019 dispute",
-      "take": "Ethereum Foundation and Vitalik Buterin face lawsuit over employment dispute",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
+      "headline": "Crypto must solidify political influence to avoid regulatory rollback: McHenry",
+      "take": "Crypto must solidify political influence to avoid regulatory rollback, McHenry warns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-must-solidify-political-influence-to-avoid-regulatory-rollback-mchenry/"
+    },
+    {
+      "headline": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "take": "Australia considers 47% tax rate on crypto gains, raising relocation discussions",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

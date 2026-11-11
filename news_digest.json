@@ -1,96 +1,120 @@
 {
-  "generated": "2026-11-10T21:20:12.923966+00:00",
-  "ts": 1794345612,
+  "generated": "2026-11-11T01:18:47.039232+00:00",
+  "ts": 1794359927,
   "market": [
     {
-      "headline": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
-      "take": "Bitcoin slides below $74k after hotter-than-expected inflation data",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301"
+      "headline": "OpenAI revenue hits $10 billion in Q3 as enterprise demand surges",
+      "take": "OpenAI revenue hits $10 billion in Q3 as enterprise demand surges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-revenue-hits-10-billion-q3/"
     },
     {
       "headline": "CoreWeave reports Q3 revenue of $3.66 billion, surpassing estimates",
-      "take": "CoreWeave reports $3.66B Q3 revenue, beating analyst expectations",
+      "take": "CoreWeave reports Q3 revenue of $3.66 billion, surpassing estimates",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coreweave-reports-q3-revenue-of-366-billion-surpassing-estimates/"
     },
     {
-      "headline": "HighTower Advisors boosts Bitcoin spot ETF exposure by 50% in Q3",
-      "take": "HighTower Advisors increases Bitcoin ETF exposure by 50% in Q3",
+      "headline": "US 10-year Treasury yields surpass 5% amid inflation concerns",
+      "take": "US 10-year Treasury yields surpass 5% amid inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hightower-advisors-bitcoin-etf-exposure-q3/"
+      "link": "https://cryptobriefing.com/us-10-year-treasury-yields-surpass-5-amid-inflation-concerns/"
     },
     {
-      "headline": "US 10-year Treasury auction sees reduced foreign demand, highest yield tail since Feb",
-      "take": "US 10-year Treasury yield reaches 5%, foreign demand slips",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-10-year-treasury-auction-sees-reduced-foreign-demand-highest-yield-tail/"
+      "headline": "Bitcoin\u2019s Risk Barometer Is Breaking Down",
+      "take": "Bitcoin's risk barometer signals potential volatility or structural change",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/bitcoin-s-risk-barometer-is-breaking-down"
     },
     {
-      "headline": "Capital B adds 12 Bitcoin, lifting its treasury to 3,550 BTC",
-      "take": "Capital B adds 12 Bitcoin, expanding treasury to 3,550 BTC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/capital-b-adds-12-bitcoin-3550-btc/"
+      "headline": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+      "take": "Solana token hits three-month low despite Forward Industries treasury growth",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330"
     }
   ],
   "business": [
     {
+      "headline": "CoreWeave plans multibillion-dollar chip-backed debt deal for expansion",
+      "take": "CoreWeave plans multibillion-dollar chip-backed debt deal for expansion",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-plans-multibillion-dollar-chip-backed-debt-deal-for-expansion/"
+    },
+    {
+      "headline": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+      "take": "Bitcoin miner HIVE eyes $45 million in annual revenue from AI deal",
+      "source": "decrypt",
+      "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
+    },
+    {
       "headline": "Metaplex Foundation signs MOU with Crucible Limited to tokenize gold production on Solana",
-      "take": "Metaplex Foundation partners with Crucible to tokenize gold on Solana",
+      "take": "Metaplex Foundation signs MOU to tokenize gold production on Solana",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/metaplex-crucible-tokenized-gold-solana/"
     },
     {
-      "headline": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto\u2019s Stablecoin Giants",
-      "take": "Goldman, Citi commit $270M to stablecoin venture challenging market leaders",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants"
+      "headline": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
+      "take": "Ava Labs exec says NYSE deal marks end of blockchain's general purpose era",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ava-labs-nyse-deal-general-purpose-blockchain/"
     },
     {
-      "headline": "Sharplink Onchain Yield Fund anchors launch of USHP, a tokenized US home price index",
-      "take": "Sharplink launches tokenized US home price index fund on blockchain",
+      "headline": "Anthropic says Claude Mythos got Claude running on AMD GPUs in about three days",
+      "take": "Anthropic's Claude Mythos got Claude running on AMD GPUs in days",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sharplink-ushp-tokenized-home-price-index/"
-    },
-    {
-      "headline": "Inkbox raises $5.3 million and launches cloud-hosted AI agents with persistent computers",
-      "take": "Inkbox raises $5.3M, launches cloud-hosted AI agents with persistence",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/inkbox-raises-5-million-cloud-ai-agents/"
-    },
-    {
-      "headline": "Token Terminal expands tokenized stock dataset to 5,859 tokens across 18 chains",
-      "take": "Token Terminal expands tokenized stock data to 5,859 tokens across chains",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/token-terminal-tokenized-stocks-dataset-5859/"
+      "link": "https://cryptobriefing.com/claude-mythos-amd-mi355x-three-days/"
     }
   ],
   "security": [
     {
+      "headline": "Binance $6B hack sends North Korea\u2019s funds across 11 chains",
+      "take": "Binance $6B hack sends North Korea's funds across 11 chains",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/north-korea-binance-heist-crypto-briefing-research/"
+    },
+    {
       "headline": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-      "take": "NEAR AI breach exposes user data from 18 AI agent integrations",
+      "take": "Near AI breach exposes user details and data from 18 AI agents",
       "source": "decrypt",
       "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
+    },
+    {
+      "headline": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "take": "Microsoft fixes nearly 1,100 security vulnerabilities in latest patch",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+    },
+    {
+      "headline": "Arcus fixes accounting bug, covers approximately $2 million shortfall from treasury",
+      "take": "Arcus fixes accounting bug, covers approximately $2 million shortfall",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arcus-accounting-bug-treasury-covers-shortfall/"
     }
   ],
   "policy": [
     {
-      "headline": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "take": "Republicans threaten subpoena of Nvidia CEO over export restrictions impact",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena"
+      "headline": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "take": "CFTC warns Kalshi of imminent charges over contract notification",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
       "headline": "CFTC extends review of Nvidia GPU rental futures by 60 days",
-      "take": "CFTC extends review of Nvidia GPU futures contracts by 60 days",
+      "take": "CFTC extends review of Nvidia GPU rental futures by 60 days",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-extends-review-compute-futures-nymex/"
     },
     {
       "headline": "Dallas Fed\u2019s Logan calls for two more 25-basis-point rate hikes",
-      "take": "Dallas Fed president calls for two more 25-basis-point rate increases",
+      "take": "Dallas Fed's Logan calls for two more 25-basis-point rate hikes",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/dallas-feds-logan-calls-for-two-more-25-basis-point-rate-hikes/"
+    },
+    {
+      "headline": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "take": "Crypto trust firms explore whether they can compete with banks in US derivatives",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

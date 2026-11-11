@@ -1,114 +1,108 @@
 {
-  "generated": "2026-11-11T11:07:51.716056+00:00",
-  "ts": 1794395271,
+  "generated": "2026-11-11T19:41:12.967926+00:00",
+  "ts": 1794426072,
   "market": [
     {
-      "headline": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "take": "Bitcoin steady as AI sector optimism supports broader crypto sentiment",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation"
-    },
-    {
-      "headline": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
-      "take": "Tron reports 22% Q3 net income rise driven by staking revenue growth",
+      "headline": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
+      "take": "Stablecoin supply contracted 14.2 billion dollars, largest drop since 2022",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786"
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
     },
     {
-      "headline": "Circle mints 500 million USDC on Solana in past 24 hours",
-      "take": "Circle mints 500 million USDC on Solana, signaling stablecoin demand",
+      "headline": "CoinShares survey: Bitcoin leads growth outlook as Ethereum sentiment improves",
+      "take": "Bitcoin leads growth outlook; Ethereum sentiment improves among investors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-500-million-usdc-on-solana-in-past-24-hours/"
+      "link": "https://cryptobriefing.com/coinshares-survey-bitcoin-growth-outlook-ethereum/"
     },
     {
-      "headline": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-      "take": "Bitmine posts $6.3B net loss as ether prices decline 44% year-on-year",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
-    },
-    {
-      "headline": "Hyperliquid faces market skepticism despite claims of billions in waiting capital",
-      "take": "Hyperliquid faces market skepticism over billions in claimed waiting capital",
+      "headline": "Base crosses $5 billion in DEX volume for tokenized stocks",
+      "take": "Base DEX volume for tokenized stocks crossed five billion dollars",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-faces-market-skepticism-despite-claims-of-billions-in-waiting/"
+      "link": "https://cryptobriefing.com/base-tokenized-stocks-5-billion-dex-volume/"
+    },
+    {
+      "headline": "Anthropic reportedly guides Q4 run-rate to $77 billion, below October\u2019s $81 billion",
+      "take": "Anthropic guidance slides to 77 billion quarterly run-rate from 81",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-q4-arr-guidance-77-billion/"
+    },
+    {
+      "headline": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+      "take": "Bitcoin faces first back-to-back annual losses in history with caveat",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history"
     }
   ],
   "business": [
     {
-      "headline": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-      "take": "Kraken xStocks adds 200 UK and EU tokenized equities, assets reach $1.1B",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
+      "headline": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+      "take": "Deutsche Bank launches crypto custody after five years of development",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
     },
     {
-      "headline": "MEGA commits $30M to new products, plans decentralization by Q1 2027",
-      "take": "MEGA commits $30M to new products, plans decentralization rollout by Q1 2027",
+      "headline": "BitGo powers launch of SoFi USD stablecoin on Monad",
+      "take": "BitGo powers SoFi USD stablecoin launch on Monad blockchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mega-30m-products-decentralization-q1-2027/"
+      "link": "https://cryptobriefing.com/bitgo-sofi-usd-stablecoin-monad/"
     },
     {
-      "headline": "Khosla Ventures co-leads Coframe\u2019s $25M round to build AI websites for every visitor",
-      "take": "Khosla Ventures co-leads $25M funding for Coframe AI website builder platform",
+      "headline": "Solana Mobile names Helius and Jito as first independent dApp Store Guardians",
+      "take": "Solana Mobile names Helius and Jito as first dApp Store Guardians",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/khosla-ventures-coframe-25m-ai-websites/"
+      "link": "https://cryptobriefing.com/solana-mobile-helius-jito-dapp-store-guardians/"
     },
     {
-      "headline": "FTX sold its Anthropic stake for $1.34 billion. It may now be worth over $30 billion",
-      "take": "FTX sold Anthropic stake for $1.34B; stake now valued over $30 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ftx-anthropic-stake-worth-over-30-billion/"
+      "headline": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+      "take": "OKX-ICE tokenized stock venue launching after big tech companies exit",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
     },
     {
-      "headline": "eToro grows funded accounts 18% to 4.39M in Q3 2026 as profit falls 74%",
-      "take": "eToro grows funded accounts 18% to 4.39M in Q3 as profit falls 74%",
+      "headline": "Israel Discount Bank opens in-app Bitcoin trading on November 26",
+      "take": "Israel Discount Bank opens in-app Bitcoin trading on November 26",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etoro-funded-accounts-q3-2026-results/"
+      "link": "https://cryptobriefing.com/israel-discount-bank-bitcoin-trading-app/"
     }
   ],
   "security": [
     {
-      "headline": "Crosschain protocol Across restores systems after domain hijack",
-      "take": "Across crosschain protocol restores systems after domain hijack incident",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
+      "headline": "Bitget Wallet rolls out expanded AI protections to all users amid phishing surge",
+      "take": "Bitget Wallet expands AI protections to all users amid phishing surge",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitget-wallet-ai-threat-detection-expands/"
     },
     {
-      "headline": "Claroc finds 35,578 Grok Build apps open to anyone with a link",
-      "take": "Claroc finds 35,578 Grok Build apps exposed to anyone with a link",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claroc-grok-build-apps-exposed-online/"
+      "headline": "Who Runs the Ransomware Group Qilin?",
+      "take": "Investigation reveals operational details of ransomware group Qilin",
+      "source": "krebsonsecurity",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/"
     },
     {
-      "headline": "Robert Barr jailed for 8 years over \u00a32 million crypto theft plot run from prison",
-      "take": "Prisoner jailed 8 years for \u00a32M crypto theft plot orchestrated from cell",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/robert-barr-jailed-crypto-theft-prison/"
+      "headline": "A High-Severity Bug Could Have Stalled Bitcoin Mining\u2014Bitcoin Core Has a Fix",
+      "take": "High-severity Bitcoin mining bug patched more than one year ago",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
     }
   ],
   "policy": [
     {
-      "headline": "House Democrats prepare tougher crypto rules with SEC oversight",
-      "take": "House Democrats prepare stricter crypto rules with enhanced SEC oversight powers",
+      "headline": "Texas bill would let cities and counties invest up to $10M each in Bitcoin",
+      "take": "Texas bill allows cities and counties to invest up to ten million each in Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-democrats-sec-crypto-market-structure-bill/"
+      "link": "https://cryptobriefing.com/texas-bill-cities-counties-invest-bitcoin/"
     },
     {
-      "headline": "ECB warns legislative delays could postpone digital euro launch",
-      "take": "ECB warns legislative delays could postpone digital euro launch timetable",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-      "take": "SEC enforcement actions fall 24%, with crypto cases still a regulatory focus",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Giancarlo says US crypto can thrive without the Clarity Act",
-      "take": "Giancarlo says US crypto markets can thrive without proposed Clarity Act",
+      "headline": "Maxine Waters aims for \u201ctough but fair\u201d crypto rules as Democrats draft framework",
+      "take": "Maxine Waters aims for tough but fair crypto rules under Democratic framework",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/giancarlo-crypto-growth-without-clarity-act/"
+      "link": "https://cryptobriefing.com/mchenry-warns-crypto-laws-maxine-waters/"
+    },
+    {
+      "headline": "Senators press HHS on prediction markets tied to drug trials",
+      "take": "Senators press HHS on prediction markets tied to drug trial outcomes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senators-press-hhs-drug-trial-prediction-markets/"
     }
   ]
 }

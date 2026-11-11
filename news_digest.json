@@ -1,120 +1,114 @@
 {
-  "generated": "2026-11-11T01:18:47.039232+00:00",
-  "ts": 1794359927,
+  "generated": "2026-11-11T11:07:51.716056+00:00",
+  "ts": 1794395271,
   "market": [
     {
-      "headline": "OpenAI revenue hits $10 billion in Q3 as enterprise demand surges",
-      "take": "OpenAI revenue hits $10 billion in Q3 as enterprise demand surges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-revenue-hits-10-billion-q3/"
+      "headline": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+      "take": "Bitcoin steady as AI sector optimism supports broader crypto sentiment",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation"
     },
     {
-      "headline": "CoreWeave reports Q3 revenue of $3.66 billion, surpassing estimates",
-      "take": "CoreWeave reports Q3 revenue of $3.66 billion, surpassing estimates",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-reports-q3-revenue-of-366-billion-surpassing-estimates/"
-    },
-    {
-      "headline": "US 10-year Treasury yields surpass 5% amid inflation concerns",
-      "take": "US 10-year Treasury yields surpass 5% amid inflation concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-10-year-treasury-yields-surpass-5-amid-inflation-concerns/"
-    },
-    {
-      "headline": "Bitcoin\u2019s Risk Barometer Is Breaking Down",
-      "take": "Bitcoin's risk barometer signals potential volatility or structural change",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/bitcoin-s-risk-barometer-is-breaking-down"
-    },
-    {
-      "headline": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
-      "take": "Solana token hits three-month low despite Forward Industries treasury growth",
+      "headline": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+      "take": "Tron reports 22% Q3 net income rise driven by staking revenue growth",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330"
+      "link": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786"
+    },
+    {
+      "headline": "Circle mints 500 million USDC on Solana in past 24 hours",
+      "take": "Circle mints 500 million USDC on Solana, signaling stablecoin demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circle-mints-500-million-usdc-on-solana-in-past-24-hours/"
+    },
+    {
+      "headline": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+      "take": "Bitmine posts $6.3B net loss as ether prices decline 44% year-on-year",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
+    },
+    {
+      "headline": "Hyperliquid faces market skepticism despite claims of billions in waiting capital",
+      "take": "Hyperliquid faces market skepticism over billions in claimed waiting capital",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hyperliquid-faces-market-skepticism-despite-claims-of-billions-in-waiting/"
     }
   ],
   "business": [
     {
-      "headline": "CoreWeave plans multibillion-dollar chip-backed debt deal for expansion",
-      "take": "CoreWeave plans multibillion-dollar chip-backed debt deal for expansion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-plans-multibillion-dollar-chip-backed-debt-deal-for-expansion/"
+      "headline": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+      "take": "Kraken xStocks adds 200 UK and EU tokenized equities, assets reach $1.1B",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
     },
     {
-      "headline": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-      "take": "Bitcoin miner HIVE eyes $45 million in annual revenue from AI deal",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
+      "headline": "MEGA commits $30M to new products, plans decentralization by Q1 2027",
+      "take": "MEGA commits $30M to new products, plans decentralization rollout by Q1 2027",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/mega-30m-products-decentralization-q1-2027/"
     },
     {
-      "headline": "Metaplex Foundation signs MOU with Crucible Limited to tokenize gold production on Solana",
-      "take": "Metaplex Foundation signs MOU to tokenize gold production on Solana",
+      "headline": "Khosla Ventures co-leads Coframe\u2019s $25M round to build AI websites for every visitor",
+      "take": "Khosla Ventures co-leads $25M funding for Coframe AI website builder platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/metaplex-crucible-tokenized-gold-solana/"
+      "link": "https://cryptobriefing.com/khosla-ventures-coframe-25m-ai-websites/"
     },
     {
-      "headline": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
-      "take": "Ava Labs exec says NYSE deal marks end of blockchain's general purpose era",
+      "headline": "FTX sold its Anthropic stake for $1.34 billion. It may now be worth over $30 billion",
+      "take": "FTX sold Anthropic stake for $1.34B; stake now valued over $30 billion",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ava-labs-nyse-deal-general-purpose-blockchain/"
+      "link": "https://cryptobriefing.com/ftx-anthropic-stake-worth-over-30-billion/"
     },
     {
-      "headline": "Anthropic says Claude Mythos got Claude running on AMD GPUs in about three days",
-      "take": "Anthropic's Claude Mythos got Claude running on AMD GPUs in days",
+      "headline": "eToro grows funded accounts 18% to 4.39M in Q3 2026 as profit falls 74%",
+      "take": "eToro grows funded accounts 18% to 4.39M in Q3 as profit falls 74%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/claude-mythos-amd-mi355x-three-days/"
+      "link": "https://cryptobriefing.com/etoro-funded-accounts-q3-2026-results/"
     }
   ],
   "security": [
     {
-      "headline": "Binance $6B hack sends North Korea\u2019s funds across 11 chains",
-      "take": "Binance $6B hack sends North Korea's funds across 11 chains",
+      "headline": "Crosschain protocol Across restores systems after domain hijack",
+      "take": "Across crosschain protocol restores systems after domain hijack incident",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
+    },
+    {
+      "headline": "Claroc finds 35,578 Grok Build apps open to anyone with a link",
+      "take": "Claroc finds 35,578 Grok Build apps exposed to anyone with a link",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/north-korea-binance-heist-crypto-briefing-research/"
+      "link": "https://cryptobriefing.com/claroc-grok-build-apps-exposed-online/"
     },
     {
-      "headline": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-      "take": "Near AI breach exposes user details and data from 18 AI agents",
-      "source": "decrypt",
-      "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
-    },
-    {
-      "headline": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "take": "Microsoft fixes nearly 1,100 security vulnerabilities in latest patch",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
-    },
-    {
-      "headline": "Arcus fixes accounting bug, covers approximately $2 million shortfall from treasury",
-      "take": "Arcus fixes accounting bug, covers approximately $2 million shortfall",
+      "headline": "Robert Barr jailed for 8 years over \u00a32 million crypto theft plot run from prison",
+      "take": "Prisoner jailed 8 years for \u00a32M crypto theft plot orchestrated from cell",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arcus-accounting-bug-treasury-covers-shortfall/"
+      "link": "https://cryptobriefing.com/robert-barr-jailed-crypto-theft-prison/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
-      "take": "CFTC warns Kalshi of imminent charges over contract notification",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "CFTC extends review of Nvidia GPU rental futures by 60 days",
-      "take": "CFTC extends review of Nvidia GPU rental futures by 60 days",
+      "headline": "House Democrats prepare tougher crypto rules with SEC oversight",
+      "take": "House Democrats prepare stricter crypto rules with enhanced SEC oversight powers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-extends-review-compute-futures-nymex/"
+      "link": "https://cryptobriefing.com/house-democrats-sec-crypto-market-structure-bill/"
     },
     {
-      "headline": "Dallas Fed\u2019s Logan calls for two more 25-basis-point rate hikes",
-      "take": "Dallas Fed's Logan calls for two more 25-basis-point rate hikes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dallas-feds-logan-calls-for-two-more-25-basis-point-rate-hikes/"
-    },
-    {
-      "headline": "Can crypto trust firms compete with banks in US derivatives settlements?",
-      "take": "Crypto trust firms explore whether they can compete with banks in US derivatives",
+      "headline": "ECB warns legislative delays could postpone digital euro launch",
+      "take": "ECB warns legislative delays could postpone digital euro launch timetable",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+      "take": "SEC enforcement actions fall 24%, with crypto cases still a regulatory focus",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Giancarlo says US crypto can thrive without the Clarity Act",
+      "take": "Giancarlo says US crypto markets can thrive without proposed Clarity Act",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/giancarlo-crypto-growth-without-clarity-act/"
     }
   ]
 }

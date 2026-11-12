@@ -1,102 +1,96 @@
 {
-  "generated": "2026-11-12T02:17:41.051457+00:00",
-  "ts": 1794449861,
+  "generated": "2026-11-12T11:26:35.289092+00:00",
+  "ts": 1794482795,
   "market": [
     {
-      "headline": "Stablecoin supply drops $14B in 30 days, fastest since June 2022",
-      "take": "Stablecoin supply fell $14 billion in 30 days, steepest drop since mid-2022",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-supply-drops-14b-in-30-days-fastest-since-june-2022/"
-    },
-    {
-      "headline": "Dan Ives values Nvidia at $300 a share with Jensen Huang, $225 without him",
-      "take": "Analyst values Nvidia at $300 per share with Huang, $225 without him",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dan-ives-nvidia-300-jensen-huang/"
-    },
-    {
-      "headline": "CoreWeave jumps 10%, sparks rally in AI cloud stocks",
-      "take": "CoreWeave stock rallies 10%, lifting broader AI cloud infrastructure sector",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-jumps-ai-cloud-stocks-rally/"
-    },
-    {
-      "headline": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-      "take": "Bitcoin short-term holders moved $3.6 billion to exchanges at losses",
+      "headline": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+      "take": "Bitcoin ETFs see $1.4 billion in outflows as investors reduce risk exposure",
       "source": "decrypt",
-      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk"
     },
     {
-      "headline": "Coinbase adds perpetual futures for GRAM, GRASS, QNT, and ZRO",
-      "take": "Coinbase adds perpetual futures trading for four mid-cap tokens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-perpetual-futures-gram-grass-qnt-zro/"
+      "headline": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+      "take": "MSCI exclusion of Strategy could reduce buying pressure on bitcoin holdings",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
+    },
+    {
+      "headline": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+      "take": "Canaan considers selling more bitcoin for buybacks as mining revenue collapses",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96"
     }
   ],
   "business": [
     {
-      "headline": "Solana Company posts $3.4 million in Q3 revenue as staking income climbs",
-      "take": "Solana Company reported $3.4 million Q3 revenue as staking income grew",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-company-q3-revenue-staking/"
+      "headline": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
+      "take": "Tron, Tether, and Chainalysis form alliance to combat AI-powered crypto crime",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514"
     },
     {
-      "headline": "AMD ships 2nm Venice server chips, enterprise SP8 platform due in 2027",
-      "take": "AMD ships 2nm Venice server chips, enterprise platform expected 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amd-ships-2nm-venice-epyc-server-processor/"
+      "headline": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
+      "take": "Sygnum launches ETH Alpha Fund targeting eight to ten percent annual returns",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386"
     },
     {
-      "headline": "Nvidia and Alphabet commit $10 billion each alongside Anthropic\u2019s IPO",
-      "take": "Nvidia and Alphabet each commit $10 billion alongside Anthropic's IPO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-alphabet-anthropic-ipo-private-placement/"
+      "headline": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "take": "Gemini sells UK and European operations to KAST for under ten million dollars",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
     },
     {
-      "headline": "CoreWeave seeks $4B investment-grade loan to boost financial stability",
-      "take": "CoreWeave seeks $4 billion investment-grade loan for financial stability",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-seeks-4b-investment-grade-loan-to-boost-financial-stability/"
+      "headline": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "take": "Polymarket cuts staff under investor pressure as prediction market competition intensifies",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead"
     },
     {
-      "headline": "OpenAI brings ChatGPT\u2019s personal finance feature to desktop with interactive widgets",
-      "take": "OpenAI brings ChatGPT personal finance feature to desktop with widgets",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-chatgpt-finance-desktop-us-users/"
+      "headline": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
+      "take": "Ripple's bank-lending system nears launch on XRP Ledger for institutional use",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger"
     }
   ],
   "security": [
     {
-      "headline": "United Airlines restricts AI agents\u2019 access over security concerns",
-      "take": "United Airlines restricts AI agents' system access over security risks",
+      "headline": "TSMC confirms employee data leak as hackers seek 3 BTC for the records",
+      "take": "TSMC confirms employee data breach; hackers demand three bitcoin for records",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/united-airlines-restricts-ai-agents-access/"
+      "link": "https://cryptobriefing.com/tsmc-employee-data-leak-3-btc/"
     },
     {
-      "headline": "Suiet wallet to shut down as Sui DeFi activity cools",
-      "take": "Suiet wallet shutting down as Sui ecosystem DeFi activity cools",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/suiet-wallet-shut-down-sui-ecosystem/"
+      "headline": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
+      "take": "Chainstack reports AI-powered security breach exposed customer data; threat contained",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509"
+    },
+    {
+      "headline": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "take": "Bitcoin Core reveals bug allowing thousands of nodes to trust strangers on Tor",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
     }
   ],
   "policy": [
     {
-      "headline": "Senators Warren and Coons urge Trump administration to preserve Nvidia export records",
-      "take": "Senators Warren and Coons urge Trump administration to preserve Nvidia export records",
+      "headline": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+      "take": "India's financial watchdog raids CoinDCX and Delta over alleged illegal cross-border trades",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades"
+    },
+    {
+      "headline": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "take": "South Korea permits crypto exchanges to freeze withdrawals during suspected hacking incidents",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Georgia residents sue OpenAI over $20 billion data center deal",
+      "take": "Georgia residents sue OpenAI over twenty billion dollar data center project",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/warren-coons-nvidia-export-records-china/"
-    },
-    {
-      "headline": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
-      "take": "SEC enters dispute over regulatory authority for stock perpetual derivatives",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427"
-    },
-    {
-      "headline": "Sen. Warren, Merkley raise ethics concerns over Trump aide\u2019s prediction market bets",
-      "take": "Senator Warren raises ethics concerns over Trump aide's prediction market bets",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394"
+      "link": "https://cryptobriefing.com/georgia-residents-sue-openai-data-center/"
     }
   ]
 }

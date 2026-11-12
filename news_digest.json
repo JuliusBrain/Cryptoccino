@@ -1,108 +1,102 @@
 {
-  "generated": "2026-11-11T19:41:12.967926+00:00",
-  "ts": 1794426072,
+  "generated": "2026-11-12T02:17:41.051457+00:00",
+  "ts": 1794449861,
   "market": [
     {
-      "headline": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
-      "take": "Stablecoin supply contracted 14.2 billion dollars, largest drop since 2022",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
-    },
-    {
-      "headline": "CoinShares survey: Bitcoin leads growth outlook as Ethereum sentiment improves",
-      "take": "Bitcoin leads growth outlook; Ethereum sentiment improves among investors",
+      "headline": "Stablecoin supply drops $14B in 30 days, fastest since June 2022",
+      "take": "Stablecoin supply fell $14 billion in 30 days, steepest drop since mid-2022",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinshares-survey-bitcoin-growth-outlook-ethereum/"
+      "link": "https://cryptobriefing.com/stablecoin-supply-drops-14b-in-30-days-fastest-since-june-2022/"
     },
     {
-      "headline": "Base crosses $5 billion in DEX volume for tokenized stocks",
-      "take": "Base DEX volume for tokenized stocks crossed five billion dollars",
+      "headline": "Dan Ives values Nvidia at $300 a share with Jensen Huang, $225 without him",
+      "take": "Analyst values Nvidia at $300 per share with Huang, $225 without him",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/base-tokenized-stocks-5-billion-dex-volume/"
+      "link": "https://cryptobriefing.com/dan-ives-nvidia-300-jensen-huang/"
     },
     {
-      "headline": "Anthropic reportedly guides Q4 run-rate to $77 billion, below October\u2019s $81 billion",
-      "take": "Anthropic guidance slides to 77 billion quarterly run-rate from 81",
+      "headline": "CoreWeave jumps 10%, sparks rally in AI cloud stocks",
+      "take": "CoreWeave stock rallies 10%, lifting broader AI cloud infrastructure sector",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-q4-arr-guidance-77-billion/"
+      "link": "https://cryptobriefing.com/coreweave-jumps-ai-cloud-stocks-rally/"
     },
     {
-      "headline": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
-      "take": "Bitcoin faces first back-to-back annual losses in history with caveat",
+      "headline": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "take": "Bitcoin short-term holders moved $3.6 billion to exchanges at losses",
       "source": "decrypt",
-      "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history"
+      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+    },
+    {
+      "headline": "Coinbase adds perpetual futures for GRAM, GRASS, QNT, and ZRO",
+      "take": "Coinbase adds perpetual futures trading for four mid-cap tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-perpetual-futures-gram-grass-qnt-zro/"
     }
   ],
   "business": [
     {
-      "headline": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-      "take": "Deutsche Bank launches crypto custody after five years of development",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
-    },
-    {
-      "headline": "BitGo powers launch of SoFi USD stablecoin on Monad",
-      "take": "BitGo powers SoFi USD stablecoin launch on Monad blockchain",
+      "headline": "Solana Company posts $3.4 million in Q3 revenue as staking income climbs",
+      "take": "Solana Company reported $3.4 million Q3 revenue as staking income grew",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitgo-sofi-usd-stablecoin-monad/"
+      "link": "https://cryptobriefing.com/solana-company-q3-revenue-staking/"
     },
     {
-      "headline": "Solana Mobile names Helius and Jito as first independent dApp Store Guardians",
-      "take": "Solana Mobile names Helius and Jito as first dApp Store Guardians",
+      "headline": "AMD ships 2nm Venice server chips, enterprise SP8 platform due in 2027",
+      "take": "AMD ships 2nm Venice server chips, enterprise platform expected 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-mobile-helius-jito-dapp-store-guardians/"
+      "link": "https://cryptobriefing.com/amd-ships-2nm-venice-epyc-server-processor/"
     },
     {
-      "headline": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
-      "take": "OKX-ICE tokenized stock venue launching after big tech companies exit",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
-    },
-    {
-      "headline": "Israel Discount Bank opens in-app Bitcoin trading on November 26",
-      "take": "Israel Discount Bank opens in-app Bitcoin trading on November 26",
+      "headline": "Nvidia and Alphabet commit $10 billion each alongside Anthropic\u2019s IPO",
+      "take": "Nvidia and Alphabet each commit $10 billion alongside Anthropic's IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/israel-discount-bank-bitcoin-trading-app/"
+      "link": "https://cryptobriefing.com/nvidia-alphabet-anthropic-ipo-private-placement/"
+    },
+    {
+      "headline": "CoreWeave seeks $4B investment-grade loan to boost financial stability",
+      "take": "CoreWeave seeks $4 billion investment-grade loan for financial stability",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-seeks-4b-investment-grade-loan-to-boost-financial-stability/"
+    },
+    {
+      "headline": "OpenAI brings ChatGPT\u2019s personal finance feature to desktop with interactive widgets",
+      "take": "OpenAI brings ChatGPT personal finance feature to desktop with widgets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-chatgpt-finance-desktop-us-users/"
     }
   ],
   "security": [
     {
-      "headline": "Bitget Wallet rolls out expanded AI protections to all users amid phishing surge",
-      "take": "Bitget Wallet expands AI protections to all users amid phishing surge",
+      "headline": "United Airlines restricts AI agents\u2019 access over security concerns",
+      "take": "United Airlines restricts AI agents' system access over security risks",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitget-wallet-ai-threat-detection-expands/"
+      "link": "https://cryptobriefing.com/united-airlines-restricts-ai-agents-access/"
     },
     {
-      "headline": "Who Runs the Ransomware Group Qilin?",
-      "take": "Investigation reveals operational details of ransomware group Qilin",
-      "source": "krebsonsecurity",
-      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/"
-    },
-    {
-      "headline": "A High-Severity Bug Could Have Stalled Bitcoin Mining\u2014Bitcoin Core Has a Fix",
-      "take": "High-severity Bitcoin mining bug patched more than one year ago",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
+      "headline": "Suiet wallet to shut down as Sui DeFi activity cools",
+      "take": "Suiet wallet shutting down as Sui ecosystem DeFi activity cools",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/suiet-wallet-shut-down-sui-ecosystem/"
     }
   ],
   "policy": [
     {
-      "headline": "Texas bill would let cities and counties invest up to $10M each in Bitcoin",
-      "take": "Texas bill allows cities and counties to invest up to ten million each in Bitcoin",
+      "headline": "Senators Warren and Coons urge Trump administration to preserve Nvidia export records",
+      "take": "Senators Warren and Coons urge Trump administration to preserve Nvidia export records",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-bill-cities-counties-invest-bitcoin/"
+      "link": "https://cryptobriefing.com/warren-coons-nvidia-export-records-china/"
     },
     {
-      "headline": "Maxine Waters aims for \u201ctough but fair\u201d crypto rules as Democrats draft framework",
-      "take": "Maxine Waters aims for tough but fair crypto rules under Democratic framework",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mchenry-warns-crypto-laws-maxine-waters/"
+      "headline": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+      "take": "SEC enters dispute over regulatory authority for stock perpetual derivatives",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427"
     },
     {
-      "headline": "Senators press HHS on prediction markets tied to drug trials",
-      "take": "Senators press HHS on prediction markets tied to drug trial outcomes",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senators-press-hhs-drug-trial-prediction-markets/"
+      "headline": "Sen. Warren, Merkley raise ethics concerns over Trump aide\u2019s prediction market bets",
+      "take": "Senator Warren raises ethics concerns over Trump aide's prediction market bets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394"
     }
   ]
 }

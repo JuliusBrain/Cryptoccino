@@ -1,96 +1,102 @@
 {
-  "generated": "2026-11-12T11:26:35.289092+00:00",
-  "ts": 1794482795,
+  "generated": "2026-11-12T20:02:11.830355+00:00",
+  "ts": 1794513731,
   "market": [
     {
-      "headline": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-      "take": "Bitcoin ETFs see $1.4 billion in outflows as investors reduce risk exposure",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk"
+      "headline": "Bitcoin falls to 12-week low as Jensen Huang\u2019s exit from Nvidia rattles markets",
+      "take": "Bitcoin falls to twelve-week low following Jensen Huang's Nvidia departure",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
     },
     {
-      "headline": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "take": "MSCI exclusion of Strategy could reduce buying pressure on bitcoin holdings",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
+      "headline": "Retail investors buy $111M in Nvidia shares in 30 minutes amid stock pressure",
+      "take": "Retail investors buy record $111M Nvidia shares in thirty minutes",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/retail-investors-buy-111m-in-nvidia-shares-in-30-minutes-amid-stock-pressure/"
     },
     {
-      "headline": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "take": "Canaan considers selling more bitcoin for buybacks as mining revenue collapses",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96"
+      "headline": "Institutional ownership of Nvidia falls 46.01% quarter over quarter to 23.7%",
+      "take": "Nvidia institutional ownership drops 46% quarter over quarter to 23.7%",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/institutional-ownership-of-nvidia-falls-4601-quarter-over-quarter-to-237/"
+    },
+    {
+      "headline": "SPCX overtakes CRCL in tracked tokenized stock value",
+      "take": "SPCX overtakes CRCL in tracked tokenized stock value",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacex-tokenized-stock-value-surpasses-circle/"
+    },
+    {
+      "headline": "Fed\u2019s Daly signals potential for more rate hikes amid rising inflation pressures",
+      "take": "Fed's Daly signals potential for more rate hikes amid inflation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/feds-daly-signals-potential-for-more-rate-hikes-amid-rising-inflation-pressures/"
     }
   ],
   "business": [
     {
-      "headline": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
-      "take": "Tron, Tether, and Chainalysis form alliance to combat AI-powered crypto crime",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514"
+      "headline": "CircuitAI launches AI-driven liquidity provider agent on Uniswap",
+      "take": "CircuitAI launches AI-driven liquidity provider agent on Uniswap",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/circuitai-ai-liquidity-agent-uniswap-robinhood-chain/"
     },
     {
-      "headline": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-      "take": "Sygnum launches ETH Alpha Fund targeting eight to ten percent annual returns",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386"
+      "headline": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens",
+      "take": "Binance finishes covering $6.3 billion of stolen customer tokens",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens"
     },
     {
-      "headline": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-      "take": "Gemini sells UK and European operations to KAST for under ten million dollars",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
+      "headline": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force\u2014Replacing One That Just Collapsed",
+      "take": "Tron, Tether, Chainalysis form new crypto-crime task force",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm"
     },
     {
-      "headline": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-      "take": "Polymarket cuts staff under investor pressure as prediction market competition intensifies",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead"
-    },
-    {
-      "headline": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
-      "take": "Ripple's bank-lending system nears launch on XRP Ledger for institutional use",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger"
+      "headline": "Meta\u2019s Muse AI agent can now make phone calls for US users",
+      "take": "Meta's Muse AI agent can now make phone calls for US users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meta-muse-ai-agent-phone-calls/"
     }
   ],
   "security": [
     {
-      "headline": "TSMC confirms employee data leak as hackers seek 3 BTC for the records",
-      "take": "TSMC confirms employee data breach; hackers demand three bitcoin for records",
+      "headline": "Harvard-led study finds AI models commit more fraud when acting on behalf of users",
+      "take": "Harvard study finds AI models commit more fraud acting for users",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tsmc-employee-data-leak-3-btc/"
+      "link": "https://cryptobriefing.com/harvard-study-ai-models-fraud-acting-for-users/"
     },
     {
-      "headline": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-      "take": "Chainstack reports AI-powered security breach exposed customer data; threat contained",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509"
-    },
-    {
-      "headline": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "take": "Bitcoin Core reveals bug allowing thousands of nodes to trust strangers on Tor",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
+      "headline": "OpenAI\u2019s GPT-6 Astra becomes its first model rated Critical for cybersecurity",
+      "take": "OpenAI's GPT-6 Astra becomes first model rated critical for cybersecurity",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/openai-gpt-6-astra-critical-cybersecurity/"
     }
   ],
   "policy": [
     {
-      "headline": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "take": "India's financial watchdog raids CoinDCX and Delta over alleged illegal cross-border trades",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades"
-    },
-    {
-      "headline": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "take": "South Korea permits crypto exchanges to freeze withdrawals during suspected hacking incidents",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Georgia residents sue OpenAI over $20 billion data center deal",
-      "take": "Georgia residents sue OpenAI over twenty billion dollar data center project",
+      "headline": "Louisiana AG sues Kalshi, Polymarket, Robinhood, Coinbase, and Gemini over prediction markets",
+      "take": "Louisiana AG sues Kalshi, Polymarket, Robinhood, Coinbase, Gemini",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/georgia-residents-sue-openai-data-center/"
+      "link": "https://cryptobriefing.com/louisiana-ag-sues-kalshi-robinhood-coinbase-gemini/"
+    },
+    {
+      "headline": "Howard Lutnick faces bipartisan fire over Nvidia chip exports to China",
+      "take": "Howard Lutnick faces bipartisan fire over Nvidia chip exports to China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/lutnick-bipartisan-criticism-nvidia-chip-exports/"
+    },
+    {
+      "headline": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "take": "Illinois crypto tax impossible to enforce as written, industry tells court",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court"
+    },
+    {
+      "headline": "NYDFS sets fresh advertising standards for crypto firms",
+      "take": "NYDFS sets fresh advertising standards for crypto firms",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014"
     }
   ]
 }

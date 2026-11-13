@@ -1,102 +1,96 @@
 {
-  "generated": "2026-11-12T20:02:11.830355+00:00",
-  "ts": 1794513731,
+  "generated": "2026-11-13T01:54:27.201363+00:00",
+  "ts": 1794534867,
   "market": [
     {
-      "headline": "Bitcoin falls to 12-week low as Jensen Huang\u2019s exit from Nvidia rattles markets",
-      "take": "Bitcoin falls to twelve-week low following Jensen Huang's Nvidia departure",
+      "headline": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+      "take": "Gemini exchange trading volume dropped 73% as Q3 revenue fell sharply",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
+      "link": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050"
     },
     {
-      "headline": "Retail investors buy $111M in Nvidia shares in 30 minutes amid stock pressure",
-      "take": "Retail investors buy record $111M Nvidia shares in thirty minutes",
+      "headline": "Grayscale says crypto sectors are drifting away from Bitcoin\u2019s orbit",
+      "take": "Grayscale reports crypto sectors drifting away from Bitcoin's dominant market position",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/retail-investors-buy-111m-in-nvidia-shares-in-30-minutes-amid-stock-pressure/"
+      "link": "https://cryptobriefing.com/grayscale-crypto-sectors-less-correlated-bitcoin/"
     },
     {
-      "headline": "Institutional ownership of Nvidia falls 46.01% quarter over quarter to 23.7%",
-      "take": "Nvidia institutional ownership drops 46% quarter over quarter to 23.7%",
+      "headline": "Ornn Exchange data shows GPU rental prices climbing month-on-month across chip generations",
+      "take": "GPU rental prices climbing month-on-month across chip generations amid AI demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/institutional-ownership-of-nvidia-falls-4601-quarter-over-quarter-to-237/"
+      "link": "https://cryptobriefing.com/ornn-exchange-gpu-rental-prices-rising/"
     },
     {
-      "headline": "SPCX overtakes CRCL in tracked tokenized stock value",
-      "take": "SPCX overtakes CRCL in tracked tokenized stock value",
+      "headline": "Kraken extends $60M Nakamoto loan to December 2027",
+      "take": "Kraken extends $60 million Nakamoto loan through December 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-tokenized-stock-value-surpasses-circle/"
-    },
-    {
-      "headline": "Fed\u2019s Daly signals potential for more rate hikes amid rising inflation pressures",
-      "take": "Fed's Daly signals potential for more rate hikes amid inflation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-daly-signals-potential-for-more-rate-hikes-amid-rising-inflation-pressures/"
+      "link": "https://cryptobriefing.com/kraken-extends-nakamoto-loan-december-2027/"
     }
   ],
   "business": [
     {
-      "headline": "CircuitAI launches AI-driven liquidity provider agent on Uniswap",
-      "take": "CircuitAI launches AI-driven liquidity provider agent on Uniswap",
+      "headline": "Lightning Labs launches pi402 so AI agents can buy inference with Bitcoin",
+      "take": "Lightning Labs launches pi402 enabling AI agents to purchase inference with Bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circuitai-ai-liquidity-agent-uniswap-robinhood-chain/"
+      "link": "https://cryptobriefing.com/lightning-labs-pi402-ai-agents-bitcoin-inference/"
     },
     {
-      "headline": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens",
-      "take": "Binance finishes covering $6.3 billion of stolen customer tokens",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens"
-    },
-    {
-      "headline": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force\u2014Replacing One That Just Collapsed",
-      "take": "Tron, Tether, Chainalysis form new crypto-crime task force",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm"
-    },
-    {
-      "headline": "Meta\u2019s Muse AI agent can now make phone calls for US users",
-      "take": "Meta's Muse AI agent can now make phone calls for US users",
+      "headline": "Arkham partners with FUTU Holdings to bring Whale Signal to Futu and moomoo",
+      "take": "Arkham partners with FUTU Holdings to bring Whale Signal to Futu and moomoo",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-muse-ai-agent-phone-calls/"
+      "link": "https://cryptobriefing.com/arkham-futu-whale-signal-partnership/"
+    },
+    {
+      "headline": "Kiro adds xAI\u2019s Grok 4.7 to its AI coding platform",
+      "take": "Kiro adds xAI's Grok 4.7 to its AI coding platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kiro-adds-xai-grok-4-7-coding/"
+    },
+    {
+      "headline": "Applied Materials posts record fiscal 2026 results, sees over 40% growth in Semiconductor Systems",
+      "take": "Applied Materials posts record results with over 40% growth in Semiconductor Systems",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/applied-materials-record-fiscal-2026-results/"
     }
   ],
   "security": [
     {
-      "headline": "Harvard-led study finds AI models commit more fraud when acting on behalf of users",
-      "take": "Harvard study finds AI models commit more fraud acting for users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/harvard-study-ai-models-fraud-acting-for-users/"
+      "headline": "US Details $2.7 Billion Freeze After North Korea\u2019s Binance Hack",
+      "take": "US freezes $2.7 billion after North Korea's Binance hack using deepfake video calls",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack"
     },
     {
-      "headline": "OpenAI\u2019s GPT-6 Astra becomes its first model rated Critical for cybersecurity",
-      "take": "OpenAI's GPT-6 Astra becomes first model rated critical for cybersecurity",
+      "headline": "TRM Labs launches Beacon Concierge to help police freeze illicit crypto",
+      "take": "TRM Labs launches Beacon Concierge to help police freeze illicit cryptocurrency",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-gpt-6-astra-critical-cybersecurity/"
+      "link": "https://cryptobriefing.com/trm-labs-beacon-concierge-crypto-seizures/"
     }
   ],
   "policy": [
     {
-      "headline": "Louisiana AG sues Kalshi, Polymarket, Robinhood, Coinbase, and Gemini over prediction markets",
-      "take": "Louisiana AG sues Kalshi, Polymarket, Robinhood, Coinbase, Gemini",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/louisiana-ag-sues-kalshi-robinhood-coinbase-gemini/"
-    },
-    {
-      "headline": "Howard Lutnick faces bipartisan fire over Nvidia chip exports to China",
-      "take": "Howard Lutnick faces bipartisan fire over Nvidia chip exports to China",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lutnick-bipartisan-criticism-nvidia-chip-exports/"
-    },
-    {
-      "headline": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-      "take": "Illinois crypto tax impossible to enforce as written, industry tells court",
+      "headline": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "take": "Trump names CFTC and SEC nominees for the first time in a year",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court"
+      "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
     },
     {
-      "headline": "NYDFS sets fresh advertising standards for crypto firms",
-      "take": "NYDFS sets fresh advertising standards for crypto firms",
+      "headline": "US Treasury plans Bitcoin custody framework as cold wallet security draws scrutiny",
+      "take": "US Treasury plans Bitcoin custody framework as cold wallet security draws scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-treasury-bitcoin-custody-framework/"
+    },
+    {
+      "headline": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "take": "Louisiana sues Kalshi, Robinhood and other prediction markets in regulatory escalation",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014"
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052"
+    },
+    {
+      "headline": "Senator Hawley calls for pause on data center construction over utility costs",
+      "take": "Senator Hawley calls for pause on data center construction over utility costs",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/senator-hawley-calls-for-pause-on-data-center-construction-over-utility-costs/"
     }
   ]
 }

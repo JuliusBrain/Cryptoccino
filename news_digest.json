@@ -1,96 +1,90 @@
 {
-  "generated": "2026-11-13T01:54:27.201363+00:00",
-  "ts": 1794534867,
+  "generated": "2026-11-13T11:10:00.465024+00:00",
+  "ts": 1794568200,
   "market": [
     {
-      "headline": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
-      "take": "Gemini exchange trading volume dropped 73% as Q3 revenue fell sharply",
+      "headline": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "take": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+    },
+    {
+      "headline": "Over $225 million in crypto positions liquidated in a single hour",
+      "take": "Over $225 million in crypto positions liquidated in a single hour",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-liquidations-225-million-one-hour/"
+    },
+    {
+      "headline": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock\u2019s bitcoin ETF",
+      "take": "JPMorgan raises Strategy holdings 36% and adds $540M to Bitcoin ETF",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050"
+      "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671"
     },
     {
-      "headline": "Grayscale says crypto sectors are drifting away from Bitcoin\u2019s orbit",
-      "take": "Grayscale reports crypto sectors drifting away from Bitcoin's dominant market position",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grayscale-crypto-sectors-less-correlated-bitcoin/"
+      "headline": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "take": "Bitcoin ETFs down over $1.5 billion in net outflows for year",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
     },
     {
-      "headline": "Ornn Exchange data shows GPU rental prices climbing month-on-month across chip generations",
-      "take": "GPU rental prices climbing month-on-month across chip generations amid AI demand",
+      "headline": "Ethereum Foundation sells 2,000 ETH as price hovers near $2,000",
+      "take": "Ethereum Foundation sells 2,000 ETH as price hovers near $2,000",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ornn-exchange-gpu-rental-prices-rising/"
-    },
-    {
-      "headline": "Kraken extends $60M Nakamoto loan to December 2027",
-      "take": "Kraken extends $60 million Nakamoto loan through December 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kraken-extends-nakamoto-loan-december-2027/"
+      "link": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/"
     }
   ],
   "business": [
     {
-      "headline": "Lightning Labs launches pi402 so AI agents can buy inference with Bitcoin",
-      "take": "Lightning Labs launches pi402 enabling AI agents to purchase inference with Bitcoin",
+      "headline": "Zach Herbert explains Foundation\u2019s QuantumLink, a post-quantum Bluetooth bet for hardware wallets",
+      "take": "Foundation unveils QuantumLink, post-quantum Bluetooth hardware wallet protocol",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lightning-labs-pi402-ai-agents-bitcoin-inference/"
+      "link": "https://cryptobriefing.com/zach-herbert-foundation-quantumlink-post-quantum/"
     },
     {
-      "headline": "Arkham partners with FUTU Holdings to bring Whale Signal to Futu and moomoo",
-      "take": "Arkham partners with FUTU Holdings to bring Whale Signal to Futu and moomoo",
+      "headline": "ENGIE and Google plan Ch\u00e2teauroux data center that could heat the town",
+      "take": "ENGIE and Google plan Ch\u00e2teauroux data center with heating capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/arkham-futu-whale-signal-partnership/"
+      "link": "https://cryptobriefing.com/engie-google-chateauroux-data-center-waste-heat/"
     },
     {
-      "headline": "Kiro adds xAI\u2019s Grok 4.7 to its AI coding platform",
-      "take": "Kiro adds xAI's Grok 4.7 to its AI coding platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kiro-adds-xai-grok-4-7-coding/"
-    },
-    {
-      "headline": "Applied Materials posts record fiscal 2026 results, sees over 40% growth in Semiconductor Systems",
-      "take": "Applied Materials posts record results with over 40% growth in Semiconductor Systems",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/applied-materials-record-fiscal-2026-results/"
+      "headline": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "take": "TRM Labs launches service to help police seize stolen crypto quickly",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609"
     }
   ],
   "security": [
     {
-      "headline": "US Details $2.7 Billion Freeze After North Korea\u2019s Binance Hack",
-      "take": "US freezes $2.7 billion after North Korea's Binance hack using deepfake video calls",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack"
+      "headline": "Arcus pays out 2,234,391 USDG after integer underflow exploit",
+      "take": "Arcus pays out 2.2M USDG after integer underflow exploit discovery",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/arcus-integer-underflow-exploit-usdg/"
     },
     {
-      "headline": "TRM Labs launches Beacon Concierge to help police freeze illicit crypto",
-      "take": "TRM Labs launches Beacon Concierge to help police freeze illicit cryptocurrency",
+      "headline": "Anthropic investigates authentication errors hitting Claude AI and Claude Code",
+      "take": "Anthropic investigates authentication errors affecting Claude AI services",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trm-labs-beacon-concierge-crypto-seizures/"
+      "link": "https://cryptobriefing.com/anthropic-investigates-claude-authentication-errors/"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "take": "Trump names CFTC and SEC nominees for the first time in a year",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
-    },
-    {
-      "headline": "US Treasury plans Bitcoin custody framework as cold wallet security draws scrutiny",
-      "take": "US Treasury plans Bitcoin custody framework as cold wallet security draws scrutiny",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-treasury-bitcoin-custody-framework/"
-    },
-    {
-      "headline": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
-      "take": "Louisiana sues Kalshi, Robinhood and other prediction markets in regulatory escalation",
+      "headline": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "take": "White House sends crypto-relevant nominees to fill SEC and CFTC seats",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052"
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175"
     },
     {
-      "headline": "Senator Hawley calls for pause on data center construction over utility costs",
-      "take": "Senator Hawley calls for pause on data center construction over utility costs",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/senator-hawley-calls-for-pause-on-data-center-construction-over-utility-costs/"
+      "headline": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
+      "take": "Thailand seeks $148,000 daily cap on stablecoin transfers to prevent laundering",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676"
+    },
+    {
+      "headline": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+      "take": "DOJ and CFTC sue Arkansas to block state enforcement against Kalshi",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669"
     }
   ]
 }

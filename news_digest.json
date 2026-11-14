@@ -1,72 +1,108 @@
 {
-  "generated": "2026-11-14T10:37:06.287123+00:00",
-  "ts": 1794652626,
+  "generated": "2026-11-14T18:13:34.967925+00:00",
+  "ts": 1794680014,
   "market": [
     {
-      "headline": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days",
-      "take": "US spot Bitcoin ETFs saw $185 million outflow over seven consecutive days",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-185m-outflows-november-13/"
+      "headline": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "take": "Bitcoin ETFs lose $1 billion in two weeks; sustained outflow trend continues",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
     },
     {
-      "headline": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
-      "take": "Hyperliquid surpassed major exchanges in open interest during Q3",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/"
+      "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "take": "Bitcoin slides to three-month low of $65,000 amid potential capitulation wave",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
     },
     {
-      "headline": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
-      "take": "Fed rate expectations, not Binance hack, drove recent Bitcoin decline",
+      "headline": "XRP falls below $1 amid extreme fear in crypto market",
+      "take": "XRP falls below $1 as extreme fear grips cryptocurrency markets overall",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/"
+      "link": "https://cryptobriefing.com/xrp-falls-below-1-amid-extreme-fear-in-crypto-market/"
+    },
+    {
+      "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
+      "take": "Behind-the-scenes force may be amplifying bitcoin and ether price volatility",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
+    },
+    {
+      "headline": "Global equity funds pull in $98 billion, their biggest haul since June",
+      "take": "Global equity funds pull in $98 billion, their biggest haul since June",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/global-equity-funds-98-billion-inflows/"
     }
   ],
   "business": [
     {
-      "headline": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-      "take": "Meta tests prediction-market app as DOJ seeks $1.2 billion from Binance hack",
-      "source": "theblock",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
-    },
-    {
-      "headline": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
-      "take": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
+      "headline": "CoreWeave revenue jumps 168% to $4B in Q3 2026 despite $709M net loss",
+      "take": "CoreWeave revenue jumps 168% to $4B in Q3 despite $709M net loss",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/"
+      "link": "https://cryptobriefing.com/coreweave-revenue-jumps-168-to-4b-in-q3-2026-despite-709m-net-loss/"
     },
     {
-      "headline": "Anthropic IPO said to restrict China, Hong Kong institutions",
-      "take": "Anthropic IPO said to restrict participation by China and Hong Kong institutions",
+      "headline": "Kazakhstan plans tokenized government bonds for Q1 2027 after $22M sale",
+      "take": "Kazakhstan plans tokenized government bonds for Q1 2027 after $22M sale",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-said-to-restrict-china-hong-kong-institutions/"
+      "link": "https://cryptobriefing.com/kazakhstan-tokenized-government-bonds-q1-2027/"
     },
     {
-      "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "take": "Bitcoin miners pay Paraguay $350 million yearly; AI now pushing them out",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+      "headline": "Quantum Computing Inc. posts $9.5 million quarter as Dirac-3S nears first shipments",
+      "take": "Quantum Computing Inc. posts $9.5M quarter as Dirac-3S nears first shipments",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/quantum-computing-inc-revenue-dirac-3s/"
+    },
+    {
+      "headline": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop\u2014Without Crypto",
+      "take": "OpenAI launches ChatGPT Wallet enabling AI agents to shop without crypto",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto"
+    },
+    {
+      "headline": "SpaceX plans more than $74 billion for two AI supercomputing campuses",
+      "take": "SpaceX plans over $74 billion for two AI supercomputing campuses development",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacex-74-billion-ai-supercomputing-campuses/"
     }
   ],
   "security": [
     {
-      "headline": "Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions",
-      "take": "Blacklisted Chinese university reportedly bought Nvidia H200s despite export bans",
+      "headline": "KAVA token sinks 40% as exploit hits Kava Lend, exchanges halt withdrawals",
+      "take": "Kava Lend exploit causes KAVA token to sink 40%; exchanges halt withdrawals",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blacklisted-chinese-university-reportedly-purchased-nvidia-h200s-despite-export/"
+      "link": "https://cryptobriefing.com/kava-token-incident-bridge-shutdown/"
     },
     {
-      "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "take": "Satoshi-era wallet moved 75 BTC held since 2011 amid $260 billion lawsuit",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
+      "headline": "Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions",
+      "take": "Blacklisted Chinese university reportedly purchased Nvidia H200s despite restrictions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/blacklisted-chinese-university-reportedly-purchased-nvidia-h200s-despite-export/"
     }
   ],
   "policy": [
     {
-      "headline": "Paraguay plans to end special crypto power contracts by 2027",
-      "take": "Paraguay plans ending special crypto power contracts by 2027",
+      "headline": "Trump administration divided over Nvidia AI chip exports to China",
+      "take": "Trump administration divided over whether to allow Nvidia AI chip exports to China",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/paraguay-ends-crypto-power-contracts-2027/"
+      "link": "https://cryptobriefing.com/trump-administration-divided-over-nvidia-ai-chip-exports-to-china/"
+    },
+    {
+      "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "take": "UK, Singapore, Thailand central banks test cross-border FX settlement with stablecoins",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
+    },
+    {
+      "headline": "Anthropic IPO said to restrict China, Hong Kong institutions",
+      "take": "Anthropic IPO said to restrict China and Hong Kong institutions from participation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ipo-said-to-restrict-china-hong-kong-institutions/"
+    },
+    {
+      "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+      "take": "Britain could turn wasted Scottish wind power into bitcoin to cut grid bills",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
     }
   ]
 }

@@ -1,7 +1,13 @@
 {
-  "generated": "2026-11-14T01:28:46.086019+00:00",
-  "ts": 1794619726,
+  "generated": "2026-11-14T10:37:06.287123+00:00",
+  "ts": 1794652626,
   "market": [
+    {
+      "headline": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days",
+      "take": "US spot Bitcoin ETFs saw $185 million outflow over seven consecutive days",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-185m-outflows-november-13/"
+    },
     {
       "headline": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
       "take": "Hyperliquid surpassed major exchanges in open interest during Q3",
@@ -9,88 +15,58 @@
       "link": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/"
     },
     {
-      "headline": "Nvidia falls 13% in worst weekly decline since April 2025",
-      "take": "Nvidia shares fell thirteen percent in worst weekly decline since April",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-worst-weekly-decline-since-april-2025/"
-    },
-    {
       "headline": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
-      "take": "Fed rate expectations, not exchange hacks, drove Bitcoin decline",
+      "take": "Fed rate expectations, not Binance hack, drove recent Bitcoin decline",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/"
-    },
-    {
-      "headline": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-      "take": "JPMorgan's Bitcoin and crypto holdings approach one billion dollars",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion"
-    },
-    {
-      "headline": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
-      "take": "Bitcoin experiencing repeated billion-dollar liquidation events regularly",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight"
     }
   ],
   "business": [
     {
-      "headline": "Coinbase outlines three models for tokenized equities and claims the ownership crown",
-      "take": "Coinbase outlines three tokenized equities models, claims ownership leadership",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinbase-three-models-tokenized-equities/"
-    },
-    {
-      "headline": "Blockstream and Thales launch Bitcoin custody system built around offline signing",
-      "take": "Blockstream and Thales launch offline Bitcoin custody signing system",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blockstream-thales-bitcoin-custody-offline-security/"
-    },
-    {
-      "headline": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
-      "take": "MEGA foundation cuts workforce by twenty percent amid restructuring",
+      "headline": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "take": "Meta tests prediction-market app as DOJ seeks $1.2 billion from Binance hack",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206"
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
     },
     {
-      "headline": "Strive leans on custodians and an 18-month cash buffer to protect its Bitcoin",
-      "take": "Strive protects Bitcoin holdings using custodians and cash buffer",
+      "headline": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
+      "take": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-bitcoin-custodians-cash-reserve/"
+      "link": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/"
+    },
+    {
+      "headline": "Anthropic IPO said to restrict China, Hong Kong institutions",
+      "take": "Anthropic IPO said to restrict participation by China and Hong Kong institutions",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-ipo-said-to-restrict-china-hong-kong-institutions/"
+    },
+    {
+      "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "take": "Bitcoin miners pay Paraguay $350 million yearly; AI now pushing them out",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
     }
   ],
   "security": [
     {
-      "headline": "Epoch AI reports AI agents tried to access its website during Trajectory evaluations",
-      "take": "AI agents attempted unauthorized website access during evaluation period",
+      "headline": "Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions",
+      "take": "Blacklisted Chinese university reportedly bought Nvidia H200s despite export bans",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/epoch-ai-agents-unauthorized-access-trajectory/"
+      "link": "https://cryptobriefing.com/blacklisted-chinese-university-reportedly-purchased-nvidia-h200s-despite-export/"
+    },
+    {
+      "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "take": "Satoshi-era wallet moved 75 BTC held since 2011 amid $260 billion lawsuit",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
     }
   ],
   "policy": [
     {
       "headline": "Paraguay plans to end special crypto power contracts by 2027",
-      "take": "Paraguay plans ending special crypto power contracts by twenty twenty-seven",
+      "take": "Paraguay plans ending special crypto power contracts by 2027",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/paraguay-ends-crypto-power-contracts-2027/"
-    },
-    {
-      "headline": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-      "take": "US regulators advance crypto trust charters amid Senate scrutiny",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Federal Reserve survey finds AI is now the top financial stability risk",
-      "take": "Federal Reserve identifies artificial intelligence as top financial stability risk",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-survey-ai-top-financial-stability-risk/"
-    },
-    {
-      "headline": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-      "take": "House oversight committee questions whether officials should use prediction markets",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight"
     }
   ]
 }

@@ -1,78 +1,78 @@
 {
-  "generated": "2026-11-15T06:44:34.175723+00:00",
-  "ts": 1794725074,
+  "generated": "2026-11-15T16:25:29.858421+00:00",
+  "ts": 1794759929,
   "market": [
     {
-      "headline": "Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000",
-      "take": "Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-market-liquidations-bitcoin-slide/"
+      "headline": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "take": "Bitcoin ETFs saw $2.1B outflows in November across seven consecutive days",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
     },
     {
-      "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "take": "XRP crashes to lowest since November 2024 as money leaves crypto",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+      "headline": "Crypto Fear & Greed Index sinks to 21 as ETH and XRP hit multi-month lows",
+      "take": "Fear and Greed Index dropped to 21 as ETH and XRP hit multi-month lows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-fear-greed-index-drops-to-21/"
     },
     {
-      "headline": "RWA protocol stUSDT winds down after TVL peak of approximately $2.3 billion",
-      "take": "RWA protocol stUSDT winds down after reaching $2.3 billion TVL peak",
+      "headline": "Bitcoin selloff tests resolve of committed investors",
+      "take": "Bitcoin selloff tests the resolve of long-term committed investors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stusdt-rwa-protocol-winds-down/"
-    },
-    {
-      "headline": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
-      "take": "AI selloff and Anthropic IPO linked to recent crypto market pressure",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/"
+      "link": "https://cryptobriefing.com/bitcoin-selloff-tests-committed-investors/"
     }
   ],
   "business": [
     {
+      "headline": "Anthropic targets $1.4T valuation in NASDAQ IPO, eyes AI market impact",
+      "take": "Anthropic targets $1.4 trillion valuation in planned NASDAQ IPO",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-targets-14t-valuation-in-nasdaq-ipo-eyes-ai-market-impact/"
+    },
+    {
+      "headline": "Solana activates Breakpoint mode as its annual conference opens in London",
+      "take": "Solana opens annual Breakpoint conference in London with new initiatives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-breakpoint-mode-london-conference/"
+    },
+    {
       "headline": "Czech National Bank issues its first bonds on a blockchain ledger",
-      "take": "Czech National Bank issues its first bonds on a blockchain ledger",
+      "take": "Czech National Bank issued its first bonds on a blockchain ledger",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/czech-national-bank-tokenized-bonds-blockchain/"
-    },
-    {
-      "headline": "Ava Labs says its NYSE deal cost nothing and opened doors with institutions",
-      "take": "Ava Labs says NYSE deal cost nothing and opened institutional doors",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ava-labs-nyse-avalanche-tokenized-settlement/"
-    },
-    {
-      "headline": "Vestige to shut down Algorand DeFi platform on December 31, 2026, citing costs",
-      "take": "Vestige to shut down Algorand DeFi platform December 31, 2026",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/vestige-algorand-defi-shutdown-2026/"
     }
   ],
   "security": [
     {
-      "headline": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-      "take": "Kava Lend loses $3.8 million to hack, KAVA token drops nearly 40%",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+      "headline": "Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN",
+      "take": "Attackers hijacked 64,000 Bitcoin miners, redirecting 13 exahashes to OCEAN",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/64000-bitcoin-miners-hijacked-ocean-pool/"
     },
     {
-      "headline": "Hong Kong man loses nearly HK$18M in crypto scam that started with a YouTube ad",
-      "take": "Hong Kong man loses HK$18M in crypto scam starting with YouTube ad",
+      "headline": "Thai police arrest two Chinese nationals over $92M crypto pyramid scheme",
+      "take": "Thai police arrested two Chinese nationals behind $92M crypto pyramid scheme",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hong-kong-man-loses-hk18m-youtube-crypto-scam/"
+      "link": "https://cryptobriefing.com/thai-police-arrest-chinese-nationals-crypto-scheme/"
+    },
+    {
+      "headline": "Coinone warns of phishing, identity theft after data breach",
+      "take": "Coinone warns users of phishing and identity theft following data breach",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinone-data-breach-phishing-warning/"
+    },
+    {
+      "headline": "Nvidia faces US probe over potential illegal chip exports to China",
+      "take": "US probe launched into Nvidia over potential illegal chip exports to China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-faces-us-probe-over-potential-illegal-chip-exports-to-china/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC sues Louisiana to block order shutting out prediction markets",
-      "take": "CFTC sues Louisiana to block order shutting out prediction markets",
+      "headline": "Germany\u2019s Bundestag approves customs powers to seize suspected illicit assets, including crypto",
+      "take": "Germany's Bundestag approved customs powers to seize suspected illicit crypto assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-sues-louisiana-prediction-markets/"
-    },
-    {
-      "headline": "US government holds about $20 billion in Bitcoin and Ether",
-      "take": "US government holds approximately $20 billion in Bitcoin and Ether",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-holds-20b-bitcoin-ether/"
+      "link": "https://cryptobriefing.com/germany-bundestag-customs-seize-illicit-assets-crypto/"
     }
   ]
 }

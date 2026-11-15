@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-15T16:25:29.858421+00:00",
-  "ts": 1794759929,
+  "generated": "2026-11-15T22:55:50.936062+00:00",
+  "ts": 1794783350,
   "market": [
     {
       "headline": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-      "take": "Bitcoin ETFs saw $2.1B outflows in November across seven consecutive days",
+      "take": "Bitcoin ETFs saw $2.1B outflows over seven consecutive days in November",
       "source": "decrypt",
       "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
     },
@@ -15,13 +15,25 @@
       "link": "https://cryptobriefing.com/crypto-fear-greed-index-drops-to-21/"
     },
     {
-      "headline": "Bitcoin selloff tests resolve of committed investors",
-      "take": "Bitcoin selloff tests the resolve of long-term committed investors",
+      "headline": "CZ denies Binance sold crypto as Bitcoin rebounds from lows",
+      "take": "CZ denies Binance sold crypto as Bitcoin rebounds from four-month lows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-selloff-tests-committed-investors/"
+      "link": "https://cryptobriefing.com/cz-denies-binance-sold-crypto-bitcoin-rebounds/"
+    },
+    {
+      "headline": "iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026",
+      "take": "iShares Bitcoin Trust experienced $2.35B in outflows but remains positive for 2026",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ishares-bitcoin-trust-2026-flows-reversal/"
     }
   ],
   "business": [
+    {
+      "headline": "Samsung to produce SpaceX Starlink satellite chips at its Austin, Texas fab",
+      "take": "Samsung will produce SpaceX Starlink satellite chips at Austin fab",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/samsung-spacex-starlink-chips-austin-texas/"
+    },
     {
       "headline": "Anthropic targets $1.4T valuation in NASDAQ IPO, eyes AI market impact",
       "take": "Anthropic targets $1.4 trillion valuation in planned NASDAQ IPO",
@@ -30,49 +42,49 @@
     },
     {
       "headline": "Solana activates Breakpoint mode as its annual conference opens in London",
-      "take": "Solana opens annual Breakpoint conference in London with new initiatives",
+      "take": "Solana activates Breakpoint mode as annual conference opens in London",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/solana-breakpoint-mode-london-conference/"
     },
     {
-      "headline": "Czech National Bank issues its first bonds on a blockchain ledger",
-      "take": "Czech National Bank issued its first bonds on a blockchain ledger",
+      "headline": "Guy Oseary\u2019s Sound Ventures reportedly holds a $7 billion stake in Anthropic",
+      "take": "Sound Ventures reportedly holds $7 billion stake in Anthropic",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/czech-national-bank-tokenized-bonds-blockchain/"
+      "link": "https://cryptobriefing.com/sound-ventures-7-billion-anthropic-stake/"
     }
   ],
   "security": [
     {
       "headline": "Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN",
-      "take": "Attackers hijacked 64,000 Bitcoin miners, redirecting 13 exahashes to OCEAN",
+      "take": "Attackers hijacked 64,000 Bitcoin miners and redirected 13 EH/s to OCEAN",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/64000-bitcoin-miners-hijacked-ocean-pool/"
     },
     {
-      "headline": "Thai police arrest two Chinese nationals over $92M crypto pyramid scheme",
-      "take": "Thai police arrested two Chinese nationals behind $92M crypto pyramid scheme",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/thai-police-arrest-chinese-nationals-crypto-scheme/"
-    },
-    {
-      "headline": "Coinone warns of phishing, identity theft after data breach",
-      "take": "Coinone warns users of phishing and identity theft following data breach",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinone-data-breach-phishing-warning/"
-    },
-    {
-      "headline": "Nvidia faces US probe over potential illegal chip exports to China",
-      "take": "US probe launched into Nvidia over potential illegal chip exports to China",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-faces-us-probe-over-potential-illegal-chip-exports-to-china/"
+      "headline": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
+      "take": "Traders claim $6M profit by spotting BitGo pull request and frontrunning memecoin",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
     }
   ],
   "policy": [
     {
+      "headline": "Louisiana AG calls CFTC chair\u2019s claims \u2018flatly false\u2019 in prediction market fight",
+      "take": "Louisiana AG calls CFTC chair's claims flatly false in prediction market dispute",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/louisiana-ag-cftc-prediction-markets-fight/"
+    },
+    {
       "headline": "Germany\u2019s Bundestag approves customs powers to seize suspected illicit assets, including crypto",
-      "take": "Germany's Bundestag approved customs powers to seize suspected illicit crypto assets",
+      "take": "Germany's Bundestag approves customs powers to seize suspected illicit crypto assets",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/germany-bundestag-customs-seize-illicit-assets-crypto/"
+    },
+    {
+      "headline": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "take": "Crypto insiders skeptical about regulatory progress in Congress lame duck session",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session"
     }
   ]
 }

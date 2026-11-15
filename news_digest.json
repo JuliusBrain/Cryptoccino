@@ -1,96 +1,78 @@
 {
-  "generated": "2026-11-14T22:31:18.887116+00:00",
-  "ts": 1794695478,
+  "generated": "2026-11-15T06:44:34.175723+00:00",
+  "ts": 1794725074,
   "market": [
     {
-      "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-      "take": "Bitcoin slides to three-month low of $65,000 amid analyst capitulation warnings",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-    },
-    {
-      "headline": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-      "take": "Bitcoin ETFs lose $1 billion for second consecutive week as outflows persist",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
-    },
-    {
-      "headline": "US government holds about $20 billion in Bitcoin and Ether",
-      "take": "US government holds approximately $20 billion in Bitcoin and Ether combined",
+      "headline": "Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000",
+      "take": "Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-government-holds-20b-bitcoin-ether/"
+      "link": "https://cryptobriefing.com/crypto-market-liquidations-bitcoin-slide/"
     },
     {
-      "headline": "XRP falls below $1 amid extreme fear in crypto market",
-      "take": "XRP falls below $1 as extreme fear sentiment grips cryptocurrency market",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/xrp-falls-below-1-amid-extreme-fear-in-crypto-market/"
-    },
-    {
-      "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "take": "Behind-the-scenes force may amplify Bitcoin and Ether price volatility dynamics",
+      "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "take": "XRP crashes to lowest since November 2024 as money leaves crypto",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
+      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+    },
+    {
+      "headline": "RWA protocol stUSDT winds down after TVL peak of approximately $2.3 billion",
+      "take": "RWA protocol stUSDT winds down after reaching $2.3 billion TVL peak",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/stusdt-rwa-protocol-winds-down/"
+    },
+    {
+      "headline": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
+      "take": "AI selloff and Anthropic IPO linked to recent crypto market pressure",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/"
     }
   ],
   "business": [
     {
-      "headline": "CoreWeave revenue jumps 168% to $4B in Q3 2026 despite $709M net loss",
-      "take": "CoreWeave revenue jumps 168% to $4B in Q3 despite $709M net loss",
+      "headline": "Czech National Bank issues its first bonds on a blockchain ledger",
+      "take": "Czech National Bank issues its first bonds on a blockchain ledger",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-revenue-jumps-168-to-4b-in-q3-2026-despite-709m-net-loss/"
+      "link": "https://cryptobriefing.com/czech-national-bank-tokenized-bonds-blockchain/"
     },
     {
-      "headline": "Amazon named as Fermi\u2019s 600 MW customer for Project Matador",
-      "take": "Amazon named as Fermi's 600 MW customer for Project Matador data centers",
+      "headline": "Ava Labs says its NYSE deal cost nothing and opened doors with institutions",
+      "take": "Ava Labs says NYSE deal cost nothing and opened institutional doors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-fermi-600-mw-project-matador/"
+      "link": "https://cryptobriefing.com/ava-labs-nyse-avalanche-tokenized-settlement/"
     },
     {
-      "headline": "Kazakhstan plans tokenized government bonds for Q1 2027 after $22M sale",
-      "take": "Kazakhstan plans tokenized government bonds for Q1 2027 after $22M sale",
+      "headline": "Vestige to shut down Algorand DeFi platform on December 31, 2026, citing costs",
+      "take": "Vestige to shut down Algorand DeFi platform December 31, 2026",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kazakhstan-tokenized-government-bonds-q1-2027/"
-    },
-    {
-      "headline": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "take": "Ethereum scaling project MegaETH cuts staff by 20% while pursuing AI business",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business"
-    },
-    {
-      "headline": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop\u2014Without Crypto",
-      "take": "OpenAI launches ChatGPT Wallet enabling AI agents to shop without cryptocurrency",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto"
+      "link": "https://cryptobriefing.com/vestige-algorand-defi-shutdown-2026/"
     }
   ],
   "security": [
     {
-      "headline": "KAVA token sinks 40% as exploit hits Kava Lend, exchanges halt withdrawals",
-      "take": "KAVA token sinks 40% as exploit hits Kava Lend, exchanges halt withdrawals",
+      "headline": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "take": "Kava Lend loses $3.8 million to hack, KAVA token drops nearly 40%",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+    },
+    {
+      "headline": "Hong Kong man loses nearly HK$18M in crypto scam that started with a YouTube ad",
+      "take": "Hong Kong man loses HK$18M in crypto scam starting with YouTube ad",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kava-token-incident-bridge-shutdown/"
+      "link": "https://cryptobriefing.com/hong-kong-man-loses-hk18m-youtube-crypto-scam/"
     }
   ],
   "policy": [
     {
       "headline": "CFTC sues Louisiana to block order shutting out prediction markets",
-      "take": "CFTC sues Louisiana to block order shutting out prediction markets operations",
+      "take": "CFTC sues Louisiana to block order shutting out prediction markets",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cftc-sues-louisiana-prediction-markets/"
     },
     {
-      "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-      "take": "UK, Singapore, and Thailand central banks test cross-border FX settlement via stablecoins",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
-    },
-    {
-      "headline": "Trump administration divided over Nvidia AI chip exports to China",
-      "take": "Trump administration divided over Nvidia AI chip export restrictions to China",
+      "headline": "US government holds about $20 billion in Bitcoin and Ether",
+      "take": "US government holds approximately $20 billion in Bitcoin and Ether",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-administration-divided-over-nvidia-ai-chip-exports-to-china/"
+      "link": "https://cryptobriefing.com/us-government-holds-20b-bitcoin-ether/"
     }
   ]
 }

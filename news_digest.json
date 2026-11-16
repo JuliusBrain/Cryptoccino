@@ -1,90 +1,96 @@
 {
-  "generated": "2026-11-15T22:55:50.936062+00:00",
-  "ts": 1794783350,
+  "generated": "2026-11-16T06:42:55.414869+00:00",
+  "ts": 1794811375,
   "market": [
     {
-      "headline": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-      "take": "Bitcoin ETFs saw $2.1B outflows over seven consecutive days in November",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+      "headline": "Bitcoin Options Traders Brace for Slide to $60,000 After Selloff",
+      "take": "Bitcoin options traders position for decline toward $60,000 after recent selloff",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-16/bitcoin-btc-options-traders-brace-slide-60-000-selloff"
     },
     {
-      "headline": "Crypto Fear & Greed Index sinks to 21 as ETH and XRP hit multi-month lows",
-      "take": "Fear and Greed Index dropped to 21 as ETH and XRP hit multi-month lows",
+      "headline": "Bitcoin whales send $55M more to exchanges than they withdraw daily, Glassnode says",
+      "take": "Whale net outflows to exchanges signal potential selling pressure ahead",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-fear-greed-index-drops-to-21/"
+      "link": "https://cryptobriefing.com/bitcoin-whales-exchange-deposits-glassnode/"
+    },
+    {
+      "headline": "Bitcoin short-term holder whales face record $8B in unrealized losses",
+      "take": "Bitcoin short-term holder whales face record unrealized losses on holdings",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-short-term-holder-whales-record-losses/"
     },
     {
       "headline": "CZ denies Binance sold crypto as Bitcoin rebounds from lows",
-      "take": "CZ denies Binance sold crypto as Bitcoin rebounds from four-month lows",
+      "take": "CZ denies Binance sold crypto; Bitcoin recovers from four-month lows",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cz-denies-binance-sold-crypto-bitcoin-rebounds/"
     },
     {
-      "headline": "iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026",
-      "take": "iShares Bitcoin Trust experienced $2.35B in outflows but remains positive for 2026",
+      "headline": "Hedge funds fold on the AI trade as retail piles into Nvidia, says Morgan Stanley\u2019s Savone",
+      "take": "Hedge funds retreat from AI trade while retail investors increase Nvidia exposure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ishares-bitcoin-trust-2026-flows-reversal/"
+      "link": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/"
     }
   ],
   "business": [
     {
+      "headline": "DBS and Kinexys launch 24/7 transfers for USD tokenized deposits",
+      "take": "DBS and Kinexys launch round-the-clock tokenized USD deposit transfers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dbs-kinexys-24-7-usd-tokenized-deposits/"
+    },
+    {
+      "headline": "Toss launches non-custodial crypto wallet for its 30 million users",
+      "take": "Toss rolls out non-custodial crypto wallet to 30 million existing users",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/toss-launches-non-custodial-crypto-wallet/"
+    },
+    {
       "headline": "Samsung to produce SpaceX Starlink satellite chips at its Austin, Texas fab",
-      "take": "Samsung will produce SpaceX Starlink satellite chips at Austin fab",
+      "take": "Samsung to manufacture SpaceX Starlink satellite chips at Austin facility",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/samsung-spacex-starlink-chips-austin-texas/"
     },
     {
-      "headline": "Anthropic targets $1.4T valuation in NASDAQ IPO, eyes AI market impact",
-      "take": "Anthropic targets $1.4 trillion valuation in planned NASDAQ IPO",
+      "headline": "Bharat Semi raises $24M seed round to build AI image sensors",
+      "take": "Bharat Semi raises $24 million seed funding for AI image sensor development",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-targets-14t-valuation-in-nasdaq-ipo-eyes-ai-market-impact/"
-    },
-    {
-      "headline": "Solana activates Breakpoint mode as its annual conference opens in London",
-      "take": "Solana activates Breakpoint mode as annual conference opens in London",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-breakpoint-mode-london-conference/"
-    },
-    {
-      "headline": "Guy Oseary\u2019s Sound Ventures reportedly holds a $7 billion stake in Anthropic",
-      "take": "Sound Ventures reportedly holds $7 billion stake in Anthropic",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sound-ventures-7-billion-anthropic-stake/"
+      "link": "https://cryptobriefing.com/bharat-semi-24m-seed-ai-image-sensors/"
     }
   ],
   "security": [
     {
-      "headline": "Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN",
-      "take": "Attackers hijacked 64,000 Bitcoin miners and redirected 13 EH/s to OCEAN",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/64000-bitcoin-miners-hijacked-ocean-pool/"
+      "headline": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+      "take": "Luxor mining pool hit by AI-enabled attack redirecting client hashrate",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810"
     },
     {
       "headline": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
-      "take": "Traders claim $6M profit by spotting BitGo pull request and frontrunning memecoin",
+      "take": "Traders profit $6 million by frontrunning memecoin listing via public code review",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
+    },
+    {
+      "headline": "Aster CEO probes ASTER token swings linked to targeted liquidations",
+      "take": "Aster token swings linked to targeted liquidations under CEO investigation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/aster-ceo-investigates-aster-token-price-swings/"
     }
   ],
   "policy": [
     {
-      "headline": "Louisiana AG calls CFTC chair\u2019s claims \u2018flatly false\u2019 in prediction market fight",
-      "take": "Louisiana AG calls CFTC chair's claims flatly false in prediction market dispute",
+      "headline": "Brazil\u2019s central bank warns stablecoin conversions may amount to money laundering",
+      "take": "Brazil's central bank warns stablecoin conversions may constitute money laundering",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/louisiana-ag-cftc-prediction-markets-fight/"
+      "link": "https://cryptobriefing.com/brazil-central-bank-stablecoin-money-laundering/"
     },
     {
-      "headline": "Germany\u2019s Bundestag approves customs powers to seize suspected illicit assets, including crypto",
-      "take": "Germany's Bundestag approves customs powers to seize suspected illicit crypto assets",
+      "headline": "Fed\u2019s Schmid signals potential rate hikes as inflation exceeds target",
+      "take": "Federal Reserve official signals potential rate increases as inflation exceeds target",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/germany-bundestag-customs-seize-illicit-assets-crypto/"
-    },
-    {
-      "headline": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "take": "Crypto insiders skeptical about regulatory progress in Congress lame duck session",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session"
+      "link": "https://cryptobriefing.com/feds-schmid-signals-potential-rate-hikes-as-inflation-exceeds-target/"
     }
   ]
 }

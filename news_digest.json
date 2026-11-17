@@ -1,108 +1,126 @@
 {
-  "generated": "2026-11-16T19:41:04.555914+00:00",
-  "ts": 1794858064,
+  "generated": "2026-11-17T03:57:55.611059+00:00",
+  "ts": 1794887875,
   "market": [
     {
-      "headline": "Bitwise projects Solana could hit $1,100 by 2031 in its bull case",
-      "take": "Bitwise projects Solana could reach $1,100 by 2031 in bull scenario",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-solana-1100-price-target-2031/"
-    },
-    {
-      "headline": "Tokenized equities climb to a record high above $4 billion",
-      "take": "Tokenized equities climb to record high above $4 billion",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-equities-record-high-4-billion/"
-    },
-    {
-      "headline": "Tiger Global lifts Nvidia stake 7.2% to 12 million shares and adds 30.4% to Intel",
-      "take": "Tiger Global lifts Nvidia stake 7.2% and adds 30.4% to Intel",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tiger-global-nvidia-intel-stake-increase/"
-    },
-    {
-      "headline": "Nvidia Stock Has a 20% Rebound in Sight\u2014If Bulls Can Clear a Hurdle",
-      "take": "Nvidia stock has 20% rebound potential if bulls clear key hurdle",
+      "headline": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "take": "Bitcoin liquidations reached $2 billion over weekend; traders watch $60,000 support",
       "source": "decrypt",
-      "link": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle"
+      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"
     },
     {
-      "headline": "Saylor\u2019s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
-      "take": "MicroStrategy continues Bitcoin buying, adding through market dips",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip"
+      "headline": "CFTC data shows 2,375 net long Bitcoin contracts for week ending November 10",
+      "take": "CFTC data shows net long Bitcoin positioning at 2,375 contracts mid-November",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-cot-bitcoin-net-long-november-10/"
+    },
+    {
+      "headline": "Twenty One Capital buys the Bitcoin dip after weekend selloff",
+      "take": "Twenty One Capital purchased Bitcoin after weekend market selloff",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/twenty-one-capital-buys-bitcoin-dip-november-2026/"
+    },
+    {
+      "headline": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+      "take": "Bitwise projects Solana could reach $1,100 by 2031 in bull case",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407"
+    },
+    {
+      "headline": "Investors reassess AI exposure as selloff hits Wall Street\u2019s favorite trade",
+      "take": "Wall Street reassesses AI exposure as equities selloff intensifies",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/investors-reassess-ai-exposure-selloff-nomura/"
     }
   ],
   "business": [
     {
-      "headline": "Corma raises $125M at $1B valuation, expands server capacity 24-fold",
-      "take": "Corma raises $125M at $1B valuation, expands server capacity 24-fold",
+      "headline": "Backpack secures CFTC approval for US derivatives exchange as BP surges 40%",
+      "take": "Backpack wins CFTC approval for US derivatives exchange; token surges 40%",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/corma-raises-125m-1b-valuation-ai-cybersecurity/"
+      "link": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/"
     },
     {
-      "headline": "Jupiter introduces Global Passport and liquidity tools, targets idle tokenized assets",
-      "take": "Jupiter introduces Global Passport and liquidity tools for tokenized assets",
+      "headline": "Anthropic launches Claude Sheets, taking aim at Microsoft\u2019s spreadsheet turf",
+      "take": "Anthropic launches Claude Sheets to compete with Microsoft spreadsheet products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-tokenized-services-identity-liquidity-credit/"
+      "link": "https://cryptobriefing.com/anthropic-launches-claude-sheets-microsoft-office/"
     },
     {
-      "headline": "Solflare CEO Vidor Gencel pitches AI security alongside MoneyGram cash-out deal",
-      "take": "Solflare pitches AI security alongside MoneyGram cash-out partnership deal",
+      "headline": "BlackRock and Brevan Howard tokenized funds go live on Sei via KAIO",
+      "take": "BlackRock and Brevan Howard tokenized funds launch on Sei blockchain via KAIO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solflare-ai-security-moneygram-integration/"
+      "link": "https://cryptobriefing.com/blackrock-brevan-howard-tokenized-funds-sei/"
     },
     {
-      "headline": "Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit",
-      "take": "Cypherpunk buys Zcash dip as mining startup delivers $2.6M profit",
+      "headline": "Kalshi buys broker FB Securities and plans stock and ETF trading",
+      "take": "Kalshi acquires FB Securities, plans expansion into stock and ETF trading",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-acquires-fb-securities-stock-trading/"
+    },
+    {
+      "headline": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+      "take": "CFTC backs blockchain derivatives infrastructure; Backpack and tZERO approved",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392"
-    },
-    {
-      "headline": "Chainlink executive says banks\u2019 move into DeFi is only beginning",
-      "take": "Chainlink executive says banks' DeFi adoption is in early stages",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-executive-banks-defi-interest/"
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
     }
   ],
   "security": [
     {
-      "headline": "Lighter resumes withdrawals after recovering $5 million following API key exploit",
-      "take": "Lighter resumes withdrawals after recovering $5M from API key exploit",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/lighter-api-key-security-exploit/"
+      "headline": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "take": "Trezor wallet maker confirms customer data exposure; second incident reported",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data"
     },
     {
-      "headline": "California sues OpenAI, alleging unsafe AI development put the public at risk",
-      "take": "California sues OpenAI alleging unsafe AI development risks public safety",
+      "headline": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+      "take": "Hackers redirected Bitcoin miner rewards via AI attack on mining pools",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"
+    },
+    {
+      "headline": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "take": "Former Robinhood engineer pleads guilty to insider trading on Hyperliquid",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid"
+    },
+    {
+      "headline": "Google warns autonomous cyberattacks have arrived",
+      "take": "Google warns autonomous cyberattacks have become an active security threat",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-sues-openai-ai-safety/"
+      "link": "https://cryptobriefing.com/google-warns-autonomous-cyberattacks-arrived/"
     }
   ],
   "policy": [
     {
-      "headline": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-      "take": "Senate Democrats push CFTC to back off demands on prediction markets",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans"
-    },
-    {
-      "headline": "Clarity Act Defeat \u2018Failure of American Leadership\u2019: Trump\u2019s Former Crypto Chief",
-      "take": "Trump's crypto chief calls Clarity Act defeat a failure of leadership",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief"
-    },
-    {
-      "headline": "Nvidia faces challenges as US export controls tighten on China sales",
-      "take": "Nvidia faces tighter US export controls limiting China semiconductor sales",
+      "headline": "Treasury, NSC bypass Commerce to restrict Chinese AI-chip access",
+      "take": "Treasury and NSC bypass Commerce to restrict Chinese AI-chip access directly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-faces-challenges-as-us-export-controls-tighten-on-china-sales/"
+      "link": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/"
     },
     {
-      "headline": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
-      "take": "Fed models AI superintelligence scenarios including job losses and crashes",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market"
+      "headline": "California to hold AI firms accountable under state regulations",
+      "take": "California regulators move to hold AI companies accountable under state rules",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/california-to-hold-ai-firms-accountable-under-state-regulations/"
+    },
+    {
+      "headline": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "take": "Custodia Bank loses Supreme Court bid for direct Federal Reserve payment access",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "German lawmakers back crypto freezes outside criminal cases",
+      "take": "German lawmakers back authority to freeze cryptocurrency outside criminal cases",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Democratic senators warn SEC\u2019s tokenized stock exemption has illicit finance gaps",
+      "take": "Democratic senators warn SEC's tokenized stock exemption creates illicit finance gaps",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432"
     }
   ]
 }

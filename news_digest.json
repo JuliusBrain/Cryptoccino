@@ -1,126 +1,96 @@
 {
-  "generated": "2026-11-17T03:57:55.611059+00:00",
-  "ts": 1794887875,
+  "generated": "2026-11-17T16:10:43.692280+00:00",
+  "ts": 1794931843,
   "market": [
     {
-      "headline": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-      "take": "Bitcoin liquidations reached $2 billion over weekend; traders watch $60,000 support",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"
+      "headline": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+      "take": "Bitcoin holds near $64,000 as spot ETF outflow streak ends",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
     },
     {
-      "headline": "CFTC data shows 2,375 net long Bitcoin contracts for week ending November 10",
-      "take": "CFTC data shows net long Bitcoin positioning at 2,375 contracts mid-November",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-cot-bitcoin-net-long-november-10/"
-    },
-    {
-      "headline": "Twenty One Capital buys the Bitcoin dip after weekend selloff",
-      "take": "Twenty One Capital purchased Bitcoin after weekend market selloff",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/twenty-one-capital-buys-bitcoin-dip-november-2026/"
-    },
-    {
-      "headline": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
-      "take": "Bitwise projects Solana could reach $1,100 by 2031 in bull case",
+      "headline": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+      "take": "Bernstein sees upside for bitcoin miners trading at discounts to data center values",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407"
+      "link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125"
     },
     {
-      "headline": "Investors reassess AI exposure as selloff hits Wall Street\u2019s favorite trade",
-      "take": "Wall Street reassesses AI exposure as equities selloff intensifies",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/investors-reassess-ai-exposure-selloff-nomura/"
+      "headline": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "take": "Crypto stablecoin outflows accelerate alongside broader spot ETF redemptions",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
     }
   ],
   "business": [
     {
-      "headline": "Backpack secures CFTC approval for US derivatives exchange as BP surges 40%",
-      "take": "Backpack wins CFTC approval for US derivatives exchange; token surges 40%",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/"
-    },
-    {
-      "headline": "Anthropic launches Claude Sheets, taking aim at Microsoft\u2019s spreadsheet turf",
-      "take": "Anthropic launches Claude Sheets to compete with Microsoft spreadsheet products",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-launches-claude-sheets-microsoft-office/"
-    },
-    {
-      "headline": "BlackRock and Brevan Howard tokenized funds go live on Sei via KAIO",
-      "take": "BlackRock and Brevan Howard tokenized funds launch on Sei blockchain via KAIO",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-brevan-howard-tokenized-funds-sei/"
-    },
-    {
-      "headline": "Kalshi buys broker FB Securities and plans stock and ETF trading",
-      "take": "Kalshi acquires FB Securities, plans expansion into stock and ETF trading",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-acquires-fb-securities-stock-trading/"
-    },
-    {
-      "headline": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-      "take": "CFTC backs blockchain derivatives infrastructure; Backpack and tZERO approved",
+      "headline": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+      "take": "Anchorage and Kalshi Prime enable institutions to use custodied bitcoin as trading margin",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
+      "link": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568"
+    },
+    {
+      "headline": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+      "take": "Bitwise launches ZDAY, first non-crypto ETF focused on AI cyber defense",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062"
+    },
+    {
+      "headline": "Solana Foundation gains majority interest in CoinGecko to expand trading and DeFi",
+      "take": "Solana Foundation takes majority stake in CoinGecko to expand trading and DeFi",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coingecko-solana-backed-expansion/"
+    },
+    {
+      "headline": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+      "take": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
+    },
+    {
+      "headline": "Tether invests in Stables to expand USDT payments across Asia,\u00a0MENA",
+      "take": "Tether invests in Stables to expand USDT payments across Asia and MENA",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tether-investment-stables-usd-payment/"
     }
   ],
   "security": [
     {
-      "headline": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-      "take": "Trezor wallet maker confirms customer data exposure; second incident reported",
+      "headline": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+      "take": "Optimizely hack compromised 178 major websites to swap crypto wallet addresses",
       "source": "decrypt",
-      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data"
+      "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses"
     },
     {
-      "headline": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-      "take": "Hackers redirected Bitcoin miner rewards via AI attack on mining pools",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"
+      "headline": "Lighter reopens withdrawals after trader\u2019s API key leak, returns about $5 million in USDC",
+      "take": "Lighter exchange returns $5 million USDC after trader's API key leak",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113"
     },
     {
-      "headline": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-      "take": "Former Robinhood engineer pleads guilty to insider trading on Hyperliquid",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid"
-    },
-    {
-      "headline": "Google warns autonomous cyberattacks have arrived",
-      "take": "Google warns autonomous cyberattacks have become an active security threat",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-warns-autonomous-cyberattacks-arrived/"
+      "headline": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+      "take": "Former Robinhood engineer pleads guilty to wire fraud trading ahead of crypto listings",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
     }
   ],
   "policy": [
     {
-      "headline": "Treasury, NSC bypass Commerce to restrict Chinese AI-chip access",
-      "take": "Treasury and NSC bypass Commerce to restrict Chinese AI-chip access directly",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/"
+      "headline": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+      "take": "CFTC officially greenlights perpetual futures in US starting with Backpack",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack"
     },
     {
-      "headline": "California to hold AI firms accountable under state regulations",
-      "take": "California regulators move to hold AI companies accountable under state rules",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/california-to-hold-ai-firms-accountable-under-state-regulations/"
-    },
-    {
-      "headline": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "take": "Custodia Bank loses Supreme Court bid for direct Federal Reserve payment access",
+      "headline": "US senators seek SEC answers on tokenized stock money laundering risks",
+      "take": "US senators question SEC on tokenized stock money laundering risks",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "German lawmakers back crypto freezes outside criminal cases",
-      "take": "German lawmakers back authority to freeze cryptocurrency outside criminal cases",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Democratic senators warn SEC\u2019s tokenized stock exemption has illicit finance gaps",
-      "take": "Democratic senators warn SEC's tokenized stock exemption creates illicit finance gaps",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432"
+      "headline": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+      "take": "Judge acquits MIT brothers in $25 million Ethereum MEV case after mistrial",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
     }
   ]
 }

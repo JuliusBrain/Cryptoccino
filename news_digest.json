@@ -1,90 +1,126 @@
 {
-  "generated": "2026-11-18T00:59:54.136812+00:00",
-  "ts": 1794963594,
+  "generated": "2026-11-18T11:52:54.656682+00:00",
+  "ts": 1795002774,
   "market": [
     {
-      "headline": "Nvidia guides fourth-quarter revenue up to $132.6 billion and expands buyback",
-      "take": "Nvidia guides Q4 revenue to $132.6B, expands share buyback program",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-q4-revenue-guidance-buyback/"
+      "headline": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+      "take": "Bitcoin holds near $65k as basis trade liquidity tightens",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
     },
     {
-      "headline": "Bitcoin struggles below $65,000 as crypto liquidity drains away",
-      "take": "Bitcoin struggles below $65,000 as crypto liquidity drains away",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-below-65000-crypto-liquidity-drains/"
+      "headline": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "take": "Bitcoin declines as Nvidia earnings lift stock futures higher",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
     },
     {
-      "headline": "Wells Fargo more than doubles its BlackRock Bitcoin ETF stake to 49.6M shares",
-      "take": "Wells Fargo more than doubles BlackRock Bitcoin ETF stake to 49.6M shares",
+      "headline": "CoinShares swings to $39.6 million Q3 profit as AUM climbs to $7.4 billion",
+      "take": "CoinShares posts $39.6M Q3 profit; AUM reaches $7.4B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wells-fargo-doubles-blackrock-bitcoin-etf-stake/"
+      "link": "https://cryptobriefing.com/coinshares-q3-profit-aum-7-4-billion/"
     },
     {
-      "headline": "Cleveland Fed\u2019s Hammack supports gradual rate hikes, warns of larger increases if needed",
-      "take": "Cleveland Fed official supports gradual rate hikes, warns of larger increases if needed",
+      "headline": "BlackRock\u2019s IBIT leads $240M Bitcoin ETF outflow on November 17",
+      "take": "BlackRock IBIT leads $240M Bitcoin ETF outflows November 17",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cleveland-feds-hammack-supports-gradual-rate-hikes-warns-of-larger-increases-if/"
+      "link": "https://cryptobriefing.com/blackrock-ibit-leads-bitcoin-etf-outflow/"
+    },
+    {
+      "headline": "Solana ETFs snap 24-day drought with $11.6 million in net inflows",
+      "take": "Solana ETFs end 24-day outflow streak with $11.6M inflows",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/solana-etfs-snap-24-day-outflow-streak/"
     }
   ],
   "business": [
     {
-      "headline": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-      "take": "World Bank taps Circle and Citi to test stablecoins for development payments",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
+      "headline": "Polygon eyes US banking licence with $50 million to $100 million acquisition plans: Report",
+      "take": "Polygon explores US banking licence via $50M\u2013$100M acquisition",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/polygon-payment-expansion-regulated-business/"
     },
     {
-      "headline": "OpenAI launches ChatGPT for Sales to cut busywork for deal teams",
-      "take": "OpenAI launches ChatGPT for Sales to reduce busywork for deal teams",
+      "headline": "Hyundai Card tests AI agent commerce on JPMorgan\u2019s Kinexys blockchain",
+      "take": "Hyundai Card tests AI agent commerce on JPMorgan's Kinexys",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-launches-chatgpt-for-sales/"
+      "link": "https://cryptobriefing.com/hyundai-card-ai-agent-kinexys-test/"
     },
     {
-      "headline": "Maple Finance CEO Sidney Powell targets $15B in assets by 2027",
-      "take": "Maple Finance CEO targets $15 billion in assets under management by 2027",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/maple-finance-15b-assets-target-2027/"
+      "headline": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
+      "take": "DBS enables 24/7 USDC minting and redemption for Asian institutions",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970"
     },
     {
-      "headline": "Bank of England opens regulated pathway for blockchain clearing houses",
-      "take": "Bank of England opens regulated pathway for blockchain clearing houses",
+      "headline": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "take": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-england-blockchain-clearing-houses/"
+      "link": "https://cryptobriefing.com/bitwise-zcash-etf-texas-stock-exchange/"
+    },
+    {
+      "headline": "Morpho launches on OKX\u2019s X Layer with Gauntlet USDC vaults and tokenized stock loans",
+      "take": "Morpho launches on OKX X Layer with Gauntlet vaults",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/morpho-launches-okx-x-layer-usdc-vaults/"
     }
   ],
   "security": [
     {
-      "headline": "SEC reportedly investigating whether Nvidia misled investors",
-      "take": "SEC reportedly investigating whether Nvidia misled investors on guidance",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-investigates-nvidia-investor-disclosures/"
+      "headline": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+      "take": "Scattered Spider hacker sentenced six years for $11.6M crypto thefts",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto"
     },
     {
-      "headline": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-      "take": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Two Dubai crypto users lose $604K to tampered Ledger wallets",
+      "take": "Two Dubai users lose $604K to tampered Ledger wallets",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dubai-users-lose-604k-tampered-ledger-wallets/"
+    },
+    {
+      "headline": "Coinkite CEO says Coldcard flaw hit 0.17% of users as Galaxy tallies $116M in stolen Bitcoin",
+      "take": "Coldcard flaw hit 0.17% of users; Galaxy tallies $116M stolen Bitcoin",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coldcard-firmware-flaw-116m-bitcoin-stolen/"
+    },
+    {
+      "headline": "Etherscan warns users after attempted unauthorized access to its support system",
+      "take": "Etherscan warns users after attempted unauthorized support system access",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/etherscan-warns-attempted-support-system-access/"
+    },
+    {
+      "headline": "Google finds self-running AI hacking tool with Russian comments in its files",
+      "take": "Google discovers self-running AI hacking tool with Russian file comments",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files"
     }
   ],
   "policy": [
     {
-      "headline": "Trump\u2019s CFTC picks face Senate scrutiny as prediction market turf war heats up",
-      "take": "Trump's CFTC picks face Senate scrutiny as prediction market turf war intensifies",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909"
-    },
-    {
-      "headline": "Howard Lutnick to testify on Nvidia chip exports amid security concerns",
-      "take": "Howard Lutnick to testify on Nvidia chip exports amid security concerns",
+      "headline": "US tightens AI chip export rules days before Trump-Xi APEC meeting",
+      "take": "US tightens AI chip export rules ahead of Trump-Xi APEC meeting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/howard-lutnick-to-testify-on-nvidia-chip-exports-amid-security-concerns/"
+      "link": "https://cryptobriefing.com/us-ai-chip-export-rules-trump-xi-apec/"
     },
     {
-      "headline": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "take": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
+      "headline": "Trump administration weighs forcing companies to disclose Chinese AI model use",
+      "take": "Trump administration weighs mandatory disclosure of Chinese AI model use",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-chinese-ai-model-disclosure-rule/"
+    },
+    {
+      "headline": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+      "take": "Hong Kong central bank explores agentic AI for crypto financial crime detection",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959"
+    },
+    {
+      "headline": "House Democrats investigate Commerce Secretary Lutnick over Megaspeed blacklisting delay",
+      "take": "House Democrats investigate Commerce Secretary Lutnick over Megaspeed blacklisting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/house-democrats-investigate-commerce-secretary-lutnick-over-megaspeed/"
     }
   ]
 }

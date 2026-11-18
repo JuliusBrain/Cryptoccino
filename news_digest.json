@@ -1,126 +1,90 @@
 {
-  "generated": "2026-11-18T11:52:54.656682+00:00",
-  "ts": 1795002774,
+  "generated": "2026-11-18T20:39:05.829116+00:00",
+  "ts": 1795034345,
   "market": [
     {
-      "headline": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-      "take": "Bitcoin holds near $65k as basis trade liquidity tightens",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+      "headline": "Binance Secures $6.5 Billion Freezing Order From Abu Dhabi Court",
+      "take": "Binance secures $6.5 billion freezing order from Abu Dhabi court",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/binance-secures-6-5-billion-freezing-order-from-abu-dhabi-court"
     },
     {
-      "headline": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "take": "Bitcoin declines as Nvidia earnings lift stock futures higher",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
-    },
-    {
-      "headline": "CoinShares swings to $39.6 million Q3 profit as AUM climbs to $7.4 billion",
-      "take": "CoinShares posts $39.6M Q3 profit; AUM reaches $7.4B",
+      "headline": "Stablecoin supply drops $16B as investors move funds back to cash, Nansen says",
+      "take": "Stablecoin supply drops $16 billion as investors shift to cash",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinshares-q3-profit-aum-7-4-billion/"
+      "link": "https://cryptobriefing.com/stablecoin-supply-drop-investors-move/"
     },
     {
-      "headline": "BlackRock\u2019s IBIT leads $240M Bitcoin ETF outflow on November 17",
-      "take": "BlackRock IBIT leads $240M Bitcoin ETF outflows November 17",
+      "headline": "Goldman Sachs discloses over $1B in spot Bitcoin ETF holdings",
+      "take": "Goldman Sachs discloses over $1 billion in spot Bitcoin ETF holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-leads-bitcoin-etf-outflow/"
+      "link": "https://cryptobriefing.com/goldman-sachs-bitcoin-etf-holdings-1-billion/"
     },
     {
-      "headline": "Solana ETFs snap 24-day drought with $11.6 million in net inflows",
-      "take": "Solana ETFs end 24-day outflow streak with $11.6M inflows",
+      "headline": "Fed officials divided on December rate hike amid inflation concerns",
+      "take": "Fed officials divided on December rate hike amid inflation concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-etfs-snap-24-day-outflow-streak/"
+      "link": "https://cryptobriefing.com/fed-officials-divided-on-december-rate-hike-amid-inflation-concerns/"
+    },
+    {
+      "headline": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+      "take": "Bitcoin miners selling holdings to fund artificial intelligence development",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom"
     }
   ],
   "business": [
     {
-      "headline": "Polygon eyes US banking licence with $50 million to $100 million acquisition plans: Report",
-      "take": "Polygon explores US banking licence via $50M\u2013$100M acquisition",
+      "headline": "Variational raises $110 million at $1.5 billion valuation in Bain Capital Crypto-led round",
+      "take": "Variational raises $110 million at $1.5 billion valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polygon-payment-expansion-regulated-business/"
+      "link": "https://cryptobriefing.com/variational-raises-110-million-bain-capital-crypto/"
     },
     {
-      "headline": "Hyundai Card tests AI agent commerce on JPMorgan\u2019s Kinexys blockchain",
-      "take": "Hyundai Card tests AI agent commerce on JPMorgan's Kinexys",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hyundai-card-ai-agent-kinexys-test/"
-    },
-    {
-      "headline": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
-      "take": "DBS enables 24/7 USDC minting and redemption for Asian institutions",
+      "headline": "Ondo to launch tokenized Anthropic stock on IPO day",
+      "take": "Ondo to launch tokenized Anthropic stock on IPO day",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970"
+      "link": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
     },
     {
-      "headline": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
-      "take": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "headline": "Intel signs first outside customer for 18A process as yields reach 70%",
+      "take": "Intel signs first outside customer for 18A process",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitwise-zcash-etf-texas-stock-exchange/"
+      "link": "https://cryptobriefing.com/intel-first-external-customer-18a-process/"
     },
     {
-      "headline": "Morpho launches on OKX\u2019s X Layer with Gauntlet USDC vaults and tokenized stock loans",
-      "take": "Morpho launches on OKX X Layer with Gauntlet vaults",
+      "headline": "Google rolls out Genie 4 to AI Ultra subscribers, adding talking characters to its interactive worlds",
+      "take": "Google rolls out Genie 4 to AI Ultra subscribers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/morpho-launches-okx-x-layer-usdc-vaults/"
+      "link": "https://cryptobriefing.com/google-genie-4-ai-ultra-interactive-worlds/"
     }
   ],
   "security": [
     {
-      "headline": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
-      "take": "Scattered Spider hacker sentenced six years for $11.6M crypto thefts",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto"
-    },
-    {
-      "headline": "Two Dubai crypto users lose $604K to tampered Ledger wallets",
-      "take": "Two Dubai users lose $604K to tampered Ledger wallets",
+      "headline": "OpenAI locks down unreleased model weights after two security incidents",
+      "take": "OpenAI locks down unreleased model weights after security incidents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dubai-users-lose-604k-tampered-ledger-wallets/"
+      "link": "https://cryptobriefing.com/openai-security-protocols-unreleased-model-weights/"
     },
     {
-      "headline": "Coinkite CEO says Coldcard flaw hit 0.17% of users as Galaxy tallies $116M in stolen Bitcoin",
-      "take": "Coldcard flaw hit 0.17% of users; Galaxy tallies $116M stolen Bitcoin",
+      "headline": "Meta staff raise alarms over Muse AI\u2019s privacy invasions",
+      "take": "Meta staff raise privacy concerns over Muse AI system",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coldcard-firmware-flaw-116m-bitcoin-stolen/"
-    },
-    {
-      "headline": "Etherscan warns users after attempted unauthorized access to its support system",
-      "take": "Etherscan warns users after attempted unauthorized support system access",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/etherscan-warns-attempted-support-system-access/"
-    },
-    {
-      "headline": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "take": "Google discovers self-running AI hacking tool with Russian file comments",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files"
+      "link": "https://cryptobriefing.com/meta-muse-ai-privacy-staff-alarms/"
     }
   ],
   "policy": [
     {
-      "headline": "US tightens AI chip export rules days before Trump-Xi APEC meeting",
-      "take": "US tightens AI chip export rules ahead of Trump-Xi APEC meeting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-ai-chip-export-rules-trump-xi-apec/"
+      "headline": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+      "take": "Fed's Waller calls for 50-basis-point rate hike",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"
     },
     {
-      "headline": "Trump administration weighs forcing companies to disclose Chinese AI model use",
-      "take": "Trump administration weighs mandatory disclosure of Chinese AI model use",
+      "headline": "S&P Global Ratings downgrades Tether\u2019s USDT peg assessment to weak",
+      "take": "S&P Global Ratings downgrades Tether's USDT peg assessment",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-chinese-ai-model-disclosure-rule/"
-    },
-    {
-      "headline": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
-      "take": "Hong Kong central bank explores agentic AI for crypto financial crime detection",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959"
-    },
-    {
-      "headline": "House Democrats investigate Commerce Secretary Lutnick over Megaspeed blacklisting delay",
-      "take": "House Democrats investigate Commerce Secretary Lutnick over Megaspeed blacklisting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-democrats-investigate-commerce-secretary-lutnick-over-megaspeed/"
+      "link": "https://cryptobriefing.com/sp-global-downgrades-tether-usdt-weak/"
     }
   ]
 }

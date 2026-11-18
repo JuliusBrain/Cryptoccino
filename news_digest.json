@@ -1,96 +1,90 @@
 {
-  "generated": "2026-11-17T16:10:43.692280+00:00",
-  "ts": 1794931843,
+  "generated": "2026-11-18T00:59:54.136812+00:00",
+  "ts": 1794963594,
   "market": [
     {
-      "headline": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "take": "Bitcoin holds near $64,000 as spot ETF outflow streak ends",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+      "headline": "Nvidia guides fourth-quarter revenue up to $132.6 billion and expands buyback",
+      "take": "Nvidia guides Q4 revenue to $132.6B, expands share buyback program",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-q4-revenue-guidance-buyback/"
     },
     {
-      "headline": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
-      "take": "Bernstein sees upside for bitcoin miners trading at discounts to data center values",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125"
+      "headline": "Bitcoin struggles below $65,000 as crypto liquidity drains away",
+      "take": "Bitcoin struggles below $65,000 as crypto liquidity drains away",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-below-65000-crypto-liquidity-drains/"
     },
     {
-      "headline": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-      "take": "Crypto stablecoin outflows accelerate alongside broader spot ETF redemptions",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
+      "headline": "Wells Fargo more than doubles its BlackRock Bitcoin ETF stake to 49.6M shares",
+      "take": "Wells Fargo more than doubles BlackRock Bitcoin ETF stake to 49.6M shares",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wells-fargo-doubles-blackrock-bitcoin-etf-stake/"
+    },
+    {
+      "headline": "Cleveland Fed\u2019s Hammack supports gradual rate hikes, warns of larger increases if needed",
+      "take": "Cleveland Fed official supports gradual rate hikes, warns of larger increases if needed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cleveland-feds-hammack-supports-gradual-rate-hikes-warns-of-larger-increases-if/"
     }
   ],
   "business": [
     {
-      "headline": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
-      "take": "Anchorage and Kalshi Prime enable institutions to use custodied bitcoin as trading margin",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568"
+      "headline": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "take": "World Bank taps Circle and Citi to test stablecoins for development payments",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
     },
     {
-      "headline": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
-      "take": "Bitwise launches ZDAY, first non-crypto ETF focused on AI cyber defense",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062"
-    },
-    {
-      "headline": "Solana Foundation gains majority interest in CoinGecko to expand trading and DeFi",
-      "take": "Solana Foundation takes majority stake in CoinGecko to expand trading and DeFi",
+      "headline": "OpenAI launches ChatGPT for Sales to cut busywork for deal teams",
+      "take": "OpenAI launches ChatGPT for Sales to reduce busywork for deal teams",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coingecko-solana-backed-expansion/"
+      "link": "https://cryptobriefing.com/openai-launches-chatgpt-for-sales/"
     },
     {
-      "headline": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-      "take": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
-    },
-    {
-      "headline": "Tether invests in Stables to expand USDT payments across Asia,\u00a0MENA",
-      "take": "Tether invests in Stables to expand USDT payments across Asia and MENA",
+      "headline": "Maple Finance CEO Sidney Powell targets $15B in assets by 2027",
+      "take": "Maple Finance CEO targets $15 billion in assets under management by 2027",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-investment-stables-usd-payment/"
+      "link": "https://cryptobriefing.com/maple-finance-15b-assets-target-2027/"
+    },
+    {
+      "headline": "Bank of England opens regulated pathway for blockchain clearing houses",
+      "take": "Bank of England opens regulated pathway for blockchain clearing houses",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-england-blockchain-clearing-houses/"
     }
   ],
   "security": [
     {
-      "headline": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
-      "take": "Optimizely hack compromised 178 major websites to swap crypto wallet addresses",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses"
+      "headline": "SEC reportedly investigating whether Nvidia misled investors",
+      "take": "SEC reportedly investigating whether Nvidia misled investors on guidance",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sec-investigates-nvidia-investor-disclosures/"
     },
     {
-      "headline": "Lighter reopens withdrawals after trader\u2019s API key leak, returns about $5 million in USDC",
-      "take": "Lighter exchange returns $5 million USDC after trader's API key leak",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113"
-    },
-    {
-      "headline": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
-      "take": "Former Robinhood engineer pleads guilty to wire fraud trading ahead of crypto listings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
+      "headline": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "take": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ],
   "policy": [
     {
-      "headline": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
-      "take": "CFTC officially greenlights perpetual futures in US starting with Backpack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack"
+      "headline": "Trump\u2019s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "take": "Trump's CFTC picks face Senate scrutiny as prediction market turf war intensifies",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909"
     },
     {
-      "headline": "US senators seek SEC answers on tokenized stock money laundering risks",
-      "take": "US senators question SEC on tokenized stock money laundering risks",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Howard Lutnick to testify on Nvidia chip exports amid security concerns",
+      "take": "Howard Lutnick to testify on Nvidia chip exports amid security concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/howard-lutnick-to-testify-on-nvidia-chip-exports-amid-security-concerns/"
     },
     {
-      "headline": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-      "take": "Judge acquits MIT brothers in $25 million Ethereum MEV case after mistrial",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
+      "headline": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "take": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
     }
   ]
 }

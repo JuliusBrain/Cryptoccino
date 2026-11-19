@@ -1,90 +1,96 @@
 {
-  "generated": "2026-11-18T20:39:05.829116+00:00",
-  "ts": 1795034345,
+  "generated": "2026-11-19T02:37:48.741777+00:00",
+  "ts": 1795055868,
   "market": [
     {
-      "headline": "Binance Secures $6.5 Billion Freezing Order From Abu Dhabi Court",
-      "take": "Binance secures $6.5 billion freezing order from Abu Dhabi court",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/binance-secures-6-5-billion-freezing-order-from-abu-dhabi-court"
-    },
-    {
-      "headline": "Stablecoin supply drops $16B as investors move funds back to cash, Nansen says",
-      "take": "Stablecoin supply drops $16 billion as investors shift to cash",
+      "headline": "Anthropic sets IPO at $83, aims for $69B raise ahead of NASDAQ debut",
+      "take": "Anthropic sets IPO pricing at $83 per share, targeting $69 billion valuation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stablecoin-supply-drop-investors-move/"
+      "link": "https://cryptobriefing.com/anthropic-sets-ipo-at-83-aims-for-69b-raise-ahead-of-nasdaq-debut/"
     },
     {
-      "headline": "Goldman Sachs discloses over $1B in spot Bitcoin ETF holdings",
-      "take": "Goldman Sachs discloses over $1 billion in spot Bitcoin ETF holdings",
+      "headline": "Moody\u2019s lowers Nvidia\u2019s outlook to stable from positive",
+      "take": "Moody's downgrades Nvidia's outlook to stable from positive amid uncertainty",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-bitcoin-etf-holdings-1-billion/"
+      "link": "https://cryptobriefing.com/moodys-lowers-nvidia-outlook-stable/"
     },
     {
-      "headline": "Fed officials divided on December rate hike amid inflation concerns",
-      "take": "Fed officials divided on December rate hike amid inflation concerns",
+      "headline": "Strive\u2019s Jeff Walton says institutional credit could pivot from AI data centers to Bitcoin",
+      "take": "Institutional capital may shift from AI data centers toward Bitcoin holdings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fed-officials-divided-on-december-rate-hike-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/strive-jeff-walton-credit-capital-bitcoin/"
     },
     {
-      "headline": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
-      "take": "Bitcoin miners selling holdings to fund artificial intelligence development",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom"
+      "headline": "CoreWeave shares slide as debt concerns overshadow Nvidia partnership",
+      "take": "CoreWeave shares decline as debt concerns weigh despite Nvidia partnership",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-shares-slide-as-debt-concerns-overshadow-nvidia-partnership/"
     }
   ],
   "business": [
     {
-      "headline": "Variational raises $110 million at $1.5 billion valuation in Bain Capital Crypto-led round",
-      "take": "Variational raises $110 million at $1.5 billion valuation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/variational-raises-110-million-bain-capital-crypto/"
-    },
-    {
-      "headline": "Ondo to launch tokenized Anthropic stock on IPO day",
-      "take": "Ondo to launch tokenized Anthropic stock on IPO day",
+      "headline": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
+      "take": "Standard Chartered, StraitsX, OCBC complete tokenized deposit interoperability trial",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
+      "link": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964"
     },
     {
-      "headline": "Intel signs first outside customer for 18A process as yields reach 70%",
-      "take": "Intel signs first outside customer for 18A process",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/intel-first-external-customer-18a-process/"
+      "headline": "Payward, the owner of crypto exchange Kraken, is buying its CEO\u2019s venture capital business, Tribe",
+      "take": "Payward acquires CEO's venture capital firm Tribe in strategic consolidation",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe"
     },
     {
-      "headline": "Google rolls out Genie 4 to AI Ultra subscribers, adding talking characters to its interactive worlds",
-      "take": "Google rolls out Genie 4 to AI Ultra subscribers",
+      "headline": "OpenAI launches ChatGPT for Accounting with plugins for QuickBooks, Xero, NetSuite and more",
+      "take": "OpenAI launches ChatGPT accounting tool with QuickBooks, Xero, NetSuite plugins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/google-genie-4-ai-ultra-interactive-worlds/"
+      "link": "https://cryptobriefing.com/openai-chatgpt-for-accounting-plugin-launch/"
+    },
+    {
+      "headline": "Texas resumes environmental permit reviews for data centers after pause",
+      "take": "Texas resumes environmental permit reviews for cryptocurrency data centers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/texas-resumes-environmental-permit-reviews-for-data-centers-after-pause/"
     }
   ],
   "security": [
     {
-      "headline": "OpenAI locks down unreleased model weights after two security incidents",
-      "take": "OpenAI locks down unreleased model weights after security incidents",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-security-protocols-unreleased-model-weights/"
+      "headline": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+      "take": "Ledger confirms tampered Bitcoin wallets in Berlin, spy implant probe expands",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"
     },
     {
-      "headline": "Meta staff raise alarms over Muse AI\u2019s privacy invasions",
-      "take": "Meta staff raise privacy concerns over Muse AI system",
+      "headline": "Ikotas Labs discloses critical NGINX2Shell flaw, credits OpenAI collaboration",
+      "take": "Ikotas Labs discloses critical NGINX2Shell flaw with OpenAI collaboration credit",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-muse-ai-privacy-staff-alarms/"
+      "link": "https://cryptobriefing.com/openai-ikotas-labs-nginx2shell-vulnerability/"
+    },
+    {
+      "headline": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
+      "take": "AI models helped plan terror attacks in government security testing scenarios",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests"
     }
   ],
   "policy": [
     {
-      "headline": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
-      "take": "Fed's Waller calls for 50-basis-point rate hike",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"
+      "headline": "Trump administration taps TRM Labs in $95 million push to disrupt crypto crime networks",
+      "take": "Trump administration deploys TRM Labs with $95 million to disrupt crypto crime",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/crypto-crime-disruption-trump-trm/"
     },
     {
-      "headline": "S&P Global Ratings downgrades Tether\u2019s USDT peg assessment to weak",
-      "take": "S&P Global Ratings downgrades Tether's USDT peg assessment",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp-global-downgrades-tether-usdt-weak/"
+      "headline": "Senators: Treasury must ensure \u2018equal footing\u2019 for stablecoin issuers in GENIUS Act implementation",
+      "take": "Senators call for Treasury to ensure equal footing for stablecoin issuers",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501"
+    },
+    {
+      "headline": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "take": "Another appellate court rules against Kalshi, reinforcing legal headwinds for prediction markets",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds"
     }
   ]
 }

@@ -1,96 +1,120 @@
 {
-  "generated": "2026-11-19T02:37:48.741777+00:00",
-  "ts": 1795055868,
+  "generated": "2026-11-19T11:49:59.968018+00:00",
+  "ts": 1795088999,
   "market": [
     {
-      "headline": "Anthropic sets IPO at $83, aims for $69B raise ahead of NASDAQ debut",
-      "take": "Anthropic sets IPO pricing at $83 per share, targeting $69 billion valuation",
+      "headline": "Anthropic\u2019s record $107B IPO lifts Bitcoin back toward $64,000",
+      "take": "Anthropic's $107B IPO lifts Bitcoin toward $64,000 amid tech momentum",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-sets-ipo-at-83-aims-for-69b-raise-ahead-of-nasdaq-debut/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-lifts-bitcoin-toward-64000/"
     },
     {
-      "headline": "Moody\u2019s lowers Nvidia\u2019s outlook to stable from positive",
-      "take": "Moody's downgrades Nvidia's outlook to stable from positive amid uncertainty",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/moodys-lowers-nvidia-outlook-stable/"
+      "headline": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+      "take": "Bitcoin struggles to hold $64K as crypto ETF outflows reach $2.9B",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november"
     },
     {
-      "headline": "Strive\u2019s Jeff Walton says institutional credit could pivot from AI data centers to Bitcoin",
-      "take": "Institutional capital may shift from AI data centers toward Bitcoin holdings",
+      "headline": "BNB Chain draws level with Ethereum in the tokenized US T-bill market",
+      "take": "BNB Chain matches Ethereum in tokenized US T-bill market share",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/strive-jeff-walton-credit-capital-bitcoin/"
+      "link": "https://cryptobriefing.com/bnb-chain-matches-ethereum-tokenized-t-bills/"
     },
     {
-      "headline": "CoreWeave shares slide as debt concerns overshadow Nvidia partnership",
-      "take": "CoreWeave shares decline as debt concerns weigh despite Nvidia partnership",
+      "headline": "Franklin Templeton leads $14B tokenized US T-bill market with nearly $4B in assets",
+      "take": "Franklin Templeton dominates $14B tokenized T-bill market with $4B assets",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-shares-slide-as-debt-concerns-overshadow-nvidia-partnership/"
+      "link": "https://cryptobriefing.com/franklin-templeton-leads-tokenized-treasury-market/"
+    },
+    {
+      "headline": "Ripple CEO: Utility-driven crypto assets to outperform speculative tokens",
+      "take": "Ripple CEO predicts utility-driven crypto will outperform speculative tokens",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ripple-ceo-utility-driven-crypto-assets-to-outperform-speculative-tokens/"
     }
   ],
   "business": [
     {
-      "headline": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
-      "take": "Standard Chartered, StraitsX, OCBC complete tokenized deposit interoperability trial",
+      "headline": "1inch integrates Hyperliquid\u2019s perpetual futures into its dApp and Wallet",
+      "take": "1inch integrates Hyperliquid perpetual futures into dApp and wallet",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/1inch-integrates-hyperliquid-perpetual-futures/"
+    },
+    {
+      "headline": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+      "take": "Ant International launches real-time settlement protocol for tokenized deposits",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964"
+      "link": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586"
     },
     {
-      "headline": "Payward, the owner of crypto exchange Kraken, is buying its CEO\u2019s venture capital business, Tribe",
-      "take": "Payward acquires CEO's venture capital firm Tribe in strategic consolidation",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe"
-    },
-    {
-      "headline": "OpenAI launches ChatGPT for Accounting with plugins for QuickBooks, Xero, NetSuite and more",
-      "take": "OpenAI launches ChatGPT accounting tool with QuickBooks, Xero, NetSuite plugins",
+      "headline": "H100 Group asks shareholders to approve buybacks funded by its Bitcoin trading pool",
+      "take": "H100 Group seeks shareholder approval for Bitcoin-funded buyback program",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-chatgpt-for-accounting-plugin-launch/"
+      "link": "https://cryptobriefing.com/h100-group-bitcoin-share-buyback-vote/"
     },
     {
-      "headline": "Texas resumes environmental permit reviews for data centers after pause",
-      "take": "Texas resumes environmental permit reviews for cryptocurrency data centers",
+      "headline": "Anthropic options set to begin on Nasdaq Monday amid strong demand expectations",
+      "take": "Anthropic options trading begins Monday on Nasdaq with strong demand",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/texas-resumes-environmental-permit-reviews-for-data-centers-after-pause/"
+      "link": "https://cryptobriefing.com/anthropic-options-set-to-begin-on-nasdaq-monday-amid-strong-demand-expectations/"
+    },
+    {
+      "headline": "Roundhill scraps plans for XRP and Solana covered-call ETFs",
+      "take": "Roundhill abandons XRP and Solana covered-call ETF plans",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/roundhill-scraps-solana-xrp-income-etfs/"
     }
   ],
   "security": [
     {
-      "headline": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-      "take": "Ledger confirms tampered Bitcoin wallets in Berlin, spy implant probe expands",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"
-    },
-    {
-      "headline": "Ikotas Labs discloses critical NGINX2Shell flaw, credits OpenAI collaboration",
-      "take": "Ikotas Labs discloses critical NGINX2Shell flaw with OpenAI collaboration credit",
+      "headline": "North Korean hackers routed Bybit loot through Sky\u2019s stablecoin swap module, report finds",
+      "take": "North Korean hackers routed Bybit theft through Sky stablecoin system",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-ikotas-labs-nginx2shell-vulnerability/"
+      "link": "https://cryptobriefing.com/north-korean-hackers-sky-stablecoin-psm/"
     },
     {
-      "headline": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
-      "take": "AI models helped plan terror attacks in government security testing scenarios",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests"
+      "headline": "Hong Kong SFC flags Hyperliquid as suspicious, cites unlicensed operations",
+      "take": "Hong Kong SFC flags Hyperliquid as suspicious unlicensed platform",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hong-kong-sfc-flags-hyperliquid-as-suspicious-cites-unlicensed-operations/"
+    },
+    {
+      "headline": "\u2018Highly advanced\u2019 quantum computers could crack financial encryption in five years",
+      "take": "Advanced quantum computers could crack financial encryption within five years",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns"
+    },
+    {
+      "headline": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+      "take": "Ethereum block builders received most funds from $3.4M vault hack",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows"
     }
   ],
   "policy": [
     {
-      "headline": "Trump administration taps TRM Labs in $95 million push to disrupt crypto crime networks",
-      "take": "Trump administration deploys TRM Labs with $95 million to disrupt crypto crime",
+      "headline": "Russia weighs letting investment funds hold crypto directly",
+      "take": "Russia weighs allowing investment funds to hold crypto directly",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/crypto-crime-disruption-trump-trm/"
+      "link": "https://cryptobriefing.com/russia-investment-funds-hold-crypto/"
     },
     {
-      "headline": "Senators: Treasury must ensure \u2018equal footing\u2019 for stablecoin issuers in GENIUS Act implementation",
-      "take": "Senators call for Treasury to ensure equal footing for stablecoin issuers",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501"
-    },
-    {
-      "headline": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "take": "Another appellate court rules against Kalshi, reinforcing legal headwinds for prediction markets",
+      "headline": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+      "take": "Singapore settles $77.5M tokenized bill sale using local CBDC",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds"
+      "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc"
+    },
+    {
+      "headline": "House Democrats probe Commerce Secretary Lutnick over Nvidia scandal ties",
+      "take": "House Democrats probe Commerce Secretary Lutnick over Nvidia scandal ties",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/house-democrats-probe-commerce-secretary-lutnick-over-nvidia-scandal-ties/"
+    },
+    {
+      "headline": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "take": "Senators warn GENIUS Act could push stablecoin firms to federal oversight",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

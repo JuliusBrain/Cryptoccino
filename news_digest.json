@@ -1,114 +1,78 @@
 {
-  "generated": "2026-11-21T02:25:16.934551+00:00",
-  "ts": 1795227916,
+  "generated": "2026-11-21T11:17:53.358707+00:00",
+  "ts": 1795259873,
   "market": [
     {
-      "headline": "Bitcoin Falls to More than Two-Year Low as Global Markets Sink",
-      "take": "Bitcoin falls to two-year low as global markets decline sharply",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink"
+      "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "take": "Bitcoin drops below $57,000 for first time in two years amid broad selloff",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
     },
     {
-      "headline": "Nvidia sinks 23% in its worst week since October 2008",
-      "take": "Nvidia sinks 23% in worst week since October 2008 on guidance concerns",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-sinks-23-worst-week-since-2008/"
+      "headline": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "take": "XRP falls 10% as leveraged positions unwind and ETF inflows reverse",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
     },
     {
-      "headline": "CME Group logs $6.2 billion in weekend crypto trading after going 24/7",
-      "take": "CME Group logs $6.2 billion weekend crypto trading after going 24/7",
+      "headline": "Twenty One Capital doubles down on Bitcoin amid market slump",
+      "take": "Twenty One Capital increases Bitcoin allocation despite significant market decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cme-weekend-crypto-trading-volume-6-billion/"
-    },
-    {
-      "headline": "Twenty One Capital buys 172.25 Bitcoin, lifting holdings to roughly 43,841 BTC",
-      "take": "Twenty One Capital buys 172.25 Bitcoin, lifting holdings to 43,841 BTC",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/twenty-one-capital-buys-172-bitcoin/"
-    },
-    {
-      "headline": "Uniswap handles $2.3 billion in stablecoin trades in a single day",
-      "take": "Uniswap handles $2.3 billion in stablecoin trades in single day",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/uniswap-stablecoin-trades-2-3-billion-day/"
+      "link": "https://cryptobriefing.com/bitcoin-investment-strategy-twenty-one-capital/"
     }
   ],
   "business": [
     {
-      "headline": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "take": "Fairmint launches tokenized stock trading venue under SEC innovation exemption",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
-    },
-    {
-      "headline": "Anza\u2019s CEO outlines plans to double Solana compute capacity and cut storage costs",
-      "take": "Anza CEO outlines plans to double Solana compute capacity, cut storage",
+      "headline": "Oracle\u2019s $300B OpenAI infrastructure deal fully funded after capital raise",
+      "take": "Oracle secures full $300 billion funding for OpenAI infrastructure partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anza-ceo-solana-rate-limits-block-sizes/"
+      "link": "https://cryptobriefing.com/oracles-300b-openai-infrastructure-deal-fully-funded-after-capital-raise/"
     },
     {
-      "headline": "DCG\u2019s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
-      "take": "DCG's Zcash miner Fortitude clears vote for Nasdaq listing",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784"
+      "headline": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "take": "ECB partners with industry on tokenized deposits and securities experiments",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI",
-      "take": "Ark Invest acquires 705,982 Anthropic shares as Wood leans into AI",
+      "headline": "Former Tether associates launch Kintsugi Capital to chase yield on Tether Gold",
+      "take": "Former Tether associates launch Kintsugi Capital to yield-farm Tether Gold",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-invest-buys-anthropic-shares/"
-    },
-    {
-      "headline": "Phantom overhauls its perps trading screen with visual leverage and P&L tools",
-      "take": "Phantom overhauls perps trading screen with visual leverage and P&L tools",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/phantom-upgrades-perps-order-flow-visual-tools/"
+      "link": "https://cryptobriefing.com/kintsugi-capital-tether-gold-xaut-yield-fund/"
     }
   ],
   "security": [
     {
       "headline": "Binance hack: $2.82 billion frozen, only $32 million recovered",
-      "take": "Binance hack freezes $2.82 billion, recovers only $32 million so far",
+      "take": "Binance recovers only $32 million of $2.82 billion frozen in hack",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/binance-hack-frozen-funds-recovery/"
     },
     {
-      "headline": "Ledger users lose $95.35 million in theft tied to CryptoBilis devices",
-      "take": "Ledger users lose $95.35 million in theft tied to CryptoBilis devices",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ledger-users-lose-95m-cryptobilis-attack/"
+      "headline": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "take": "AI discovered critical Bitcoin node bug exploitable via repeated ID injection",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
     },
     {
       "headline": "Sonic audit shows S token supply is 48% higher than announced",
-      "take": "Sonic audit shows S token supply is 48% higher than announced",
+      "take": "Sonic S token supply revealed 48% higher than previously disclosed",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/sonic-audit-s-token-supply-48-higher/"
-    },
-    {
-      "headline": "HD Moore\u2019s canary experiment exposes data leaks across the AI supply chain",
-      "take": "Data leaks across AI supply chain exposed by canary experiment research",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hd-moore-ai-supply-chain-data-leaks/"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "take": "Kalshi races to stay ahead of New York order that could shut exchange",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
+      "headline": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "take": "Hong Kong expands crypto licensing rules to custodians and investment advisers",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Trump threatens tax on US companies building data centers abroad",
-      "take": "Trump threatens tax on US companies building data centers abroad",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-threatens-tax-on-us-companies-building-data-centers-abroad/"
-    },
-    {
-      "headline": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
-      "take": "Rep. Casten seeks to curb prediction market insider trading with DOJ program",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
+      "headline": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "take": "US lawmakers propose up to 30% whistleblower rewards for prediction market violations",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

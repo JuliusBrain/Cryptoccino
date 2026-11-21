@@ -1,78 +1,96 @@
 {
-  "generated": "2026-11-21T11:17:53.358707+00:00",
-  "ts": 1795259873,
+  "generated": "2026-11-21T19:24:52.619313+00:00",
+  "ts": 1795289092,
   "market": [
     {
-      "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "take": "Bitcoin drops below $57,000 for first time in two years amid broad selloff",
+      "headline": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday\u2019s stock open",
+      "take": "Bitcoin bounces 9% from two-year low, retakes $60,000 as traders await Monday open",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
     },
     {
-      "headline": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "take": "XRP falls 10% as leveraged positions unwind and ETF inflows reverse",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
-    },
-    {
-      "headline": "Twenty One Capital doubles down on Bitcoin amid market slump",
-      "take": "Twenty One Capital increases Bitcoin allocation despite significant market decline",
+      "headline": "BlackRock\u2019s IBIT posts record $541M outflow as Bitcoin ETFs bleed $3.47B in November",
+      "take": "Bitcoin ETFs bleed $3.47 billion in November, IBIT posts record $541M outflow",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-investment-strategy-twenty-one-capital/"
+      "link": "https://cryptobriefing.com/blackrock-ibit-record-outflow-bitcoin-etfs/"
+    },
+    {
+      "headline": "Bitcoin slips below its 200-week average for the first time since October 2023",
+      "take": "Bitcoin slips below 200-week average for first time since October 2023",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-below-200-week-moving-average/"
+    },
+    {
+      "headline": "$227M in crypto shorts liquidated in four hours as bears get squeezed",
+      "take": "$227 million in crypto shorts liquidated in four hours as bears squeezed",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/227m-crypto-shorts-liquidated-four-hours/"
+    },
+    {
+      "headline": "Kalshi sees institutional trading surge 4,124% to $26.3B in six months",
+      "take": "Kalshi sees institutional trading surge 4,124% to $26.3 billion in six months",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kalshi-institutional-trading-surge-26-billion/"
     }
   ],
   "business": [
     {
-      "headline": "Oracle\u2019s $300B OpenAI infrastructure deal fully funded after capital raise",
-      "take": "Oracle secures full $300 billion funding for OpenAI infrastructure partnership",
+      "headline": "Anthropic raises about $119.5 billion in record IPO, now holds up to $250 billion in cash",
+      "take": "Anthropic raises $119.5 billion in record IPO, holds up to $250 billion cash",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oracles-300b-openai-infrastructure-deal-fully-funded-after-capital-raise/"
+      "link": "https://cryptobriefing.com/anthropic-record-ipo-cash-compute-commitments/"
     },
     {
-      "headline": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "take": "ECB partners with industry on tokenized deposits and securities experiments",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Amazon nears $7.5 billion deal to buy AI startup Decart",
+      "take": "Amazon nears $7.5 billion deal to buy AI startup Decart",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/amazon-nears-deal-ai-startup-decart/"
     },
     {
-      "headline": "Former Tether associates launch Kintsugi Capital to chase yield on Tether Gold",
-      "take": "Former Tether associates launch Kintsugi Capital to yield-farm Tether Gold",
+      "headline": "Tether builds out QVAC, an open-source AI ecosystem that runs models on your devices",
+      "take": "Tether builds QVAC open-source AI ecosystem that runs models on user devices",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kintsugi-capital-tether-gold-xaut-yield-fund/"
+      "link": "https://cryptobriefing.com/tether-qvac-open-source-ai-ecosystem/"
+    },
+    {
+      "headline": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes its biggest customer",
+      "take": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes largest customer",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/spacex-4-billion-profit-anthropic-customer/"
     }
   ],
   "security": [
     {
-      "headline": "Binance hack: $2.82 billion frozen, only $32 million recovered",
-      "take": "Binance recovers only $32 million of $2.82 billion frozen in hack",
+      "headline": "Cyber bridge exploit mints 5.21 million CYBER tokens, Upbit and Bithumb freeze transfers",
+      "take": "Cyber bridge exploit mints 5.21 million CYBER tokens, exchanges freeze transfers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hack-frozen-funds-recovery/"
+      "link": "https://cryptobriefing.com/cyber-bridge-exploit-upbit-bithumb-freeze/"
     },
     {
-      "headline": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "take": "AI discovered critical Bitcoin node bug exploitable via repeated ID injection",
+      "headline": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "take": "Chainflip protocol FLIP tanks 30% after suspected $4.86 million vault drain",
       "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
+      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
     },
     {
-      "headline": "Sonic audit shows S token supply is 48% higher than announced",
-      "take": "Sonic S token supply revealed 48% higher than previously disclosed",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sonic-audit-s-token-supply-48-higher/"
+      "headline": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "take": "Fraudsters used fake crypto exchanges to steal $37 million, SEC alleges",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec"
+    },
+    {
+      "headline": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "take": "BTCS warns SEC its $54 million Aave loan could face liquidation risk",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
     }
   ],
   "policy": [
     {
-      "headline": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "take": "Hong Kong expands crypto licensing rules to custodians and investment advisers",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "take": "US lawmakers propose up to 30% whistleblower rewards for prediction market violations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Coins.ph halts transfers to self-custody wallets, limits users to regulated exchanges",
+      "take": "Coins.ph halts transfers to self-custody wallets, limits users to regulated exchanges",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coins-ph-halts-self-custody-wallet-transfers/"
     }
   ]
 }

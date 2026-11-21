@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T20:29:04.363592+00:00",
-  "ts": 1795206544,
+  "generated": "2026-11-21T02:25:16.934551+00:00",
+  "ts": 1795227916,
   "market": [
     {
       "headline": "Bitcoin Falls to More than Two-Year Low as Global Markets Sink",
@@ -9,100 +9,106 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink"
     },
     {
-      "headline": "Nasdaq slides into its third correction of 2026 as AI stocks stumble",
-      "take": "Nasdaq slides into third correction of 2026 as AI stocks stumble",
+      "headline": "Nvidia sinks 23% in its worst week since October 2008",
+      "take": "Nvidia sinks 23% in worst week since October 2008 on guidance concerns",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-third-correction-2026-ai-selloff/"
+      "link": "https://cryptobriefing.com/nvidia-sinks-23-worst-week-since-2008/"
     },
     {
-      "headline": "Nvidia loses $2.8T in market cap over 33 days after CEO resignation",
-      "take": "Nvidia loses $2.8 trillion in market cap over 33 days",
+      "headline": "CME Group logs $6.2 billion in weekend crypto trading after going 24/7",
+      "take": "CME Group logs $6.2 billion weekend crypto trading after going 24/7",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-loses-28t-in-market-cap-over-33-days-after-ceo-resignation/"
+      "link": "https://cryptobriefing.com/cme-weekend-crypto-trading-volume-6-billion/"
     },
     {
-      "headline": "Citi says US interest rates are unsustainably high, sees Fed cuts in 2027",
-      "take": "Citi expects unsustainably high US rates, forecasts Fed cuts in 2027",
+      "headline": "Twenty One Capital buys 172.25 Bitcoin, lifting holdings to roughly 43,841 BTC",
+      "take": "Twenty One Capital buys 172.25 Bitcoin, lifting holdings to 43,841 BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/citi-us-rates-unsustainably-high-fed-cuts-2027/"
+      "link": "https://cryptobriefing.com/twenty-one-capital-buys-172-bitcoin/"
     },
     {
-      "headline": "GPU rental prices climb 24% as AI trade cools, Silicon Data shows",
-      "take": "GPU rental prices climb 24 percent as AI trade cools",
+      "headline": "Uniswap handles $2.3 billion in stablecoin trades in a single day",
+      "take": "Uniswap handles $2.3 billion in stablecoin trades in single day",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/gpu-rental-prices-rise-silicon-data/"
+      "link": "https://cryptobriefing.com/uniswap-stablecoin-trades-2-3-billion-day/"
     }
   ],
   "business": [
     {
-      "headline": "Cerebras stock rebounds as Microsoft signs on as third hyperscaler customer",
-      "take": "Cerebras stock rebounds after Microsoft signs as third hyperscaler customer",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cerebras-stock-rebounds-microsoft-deal/"
+      "headline": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "take": "Fairmint launches tokenized stock trading venue under SEC innovation exemption",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
     },
     {
-      "headline": "Wirex launches Coinbase-issued tokenized US stocks for non-US users",
-      "take": "Wirex launches Coinbase-issued tokenized US stocks for non-US users",
+      "headline": "Anza\u2019s CEO outlines plans to double Solana compute capacity and cut storage costs",
+      "take": "Anza CEO outlines plans to double Solana compute capacity, cut storage",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/wirex-launches-coinbase-tokenized-us-stocks/"
+      "link": "https://cryptobriefing.com/anza-ceo-solana-rate-limits-block-sizes/"
     },
     {
-      "headline": "ChatGPT brings Space to Plus users, adding mobile editing",
-      "take": "ChatGPT adds mobile editing and Space feature for Plus users",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chatgpt-space-plus-users-mobile-editing/"
+      "headline": "DCG\u2019s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+      "take": "DCG's Zcash miner Fortitude clears vote for Nasdaq listing",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784"
     },
     {
-      "headline": "OpenAI introduces MedChemBench to test AI on medicinal chemistry",
-      "take": "OpenAI introduces MedChemBench to test AI on medicinal chemistry",
+      "headline": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI",
+      "take": "Ark Invest acquires 705,982 Anthropic shares as Wood leans into AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-introduces-medchembench-medicinal-chemistry/"
+      "link": "https://cryptobriefing.com/ark-invest-buys-anthropic-shares/"
     },
     {
-      "headline": "Quaise Energy lands Google as first customer for superhot geothermal",
-      "take": "Quaise Energy lands Google as first customer for geothermal power",
+      "headline": "Phantom overhauls its perps trading screen with visual leverage and P&L tools",
+      "take": "Phantom overhauls perps trading screen with visual leverage and P&L tools",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/quaise-energy-google-superhot-geothermal-deal/"
+      "link": "https://cryptobriefing.com/phantom-upgrades-perps-order-flow-visual-tools/"
     }
   ],
   "security": [
     {
-      "headline": "Binance hack laundering accelerates as $149M in Bitcoin passes through coinjoins, Elliptic says",
-      "take": "Binance hack laundering accelerates as $149M Bitcoin passes through coinjoins",
+      "headline": "Binance hack: $2.82 billion frozen, only $32 million recovered",
+      "take": "Binance hack freezes $2.82 billion, recovers only $32 million so far",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-hack-149m-bitcoin-coinjoin-elliptic/"
+      "link": "https://cryptobriefing.com/binance-hack-frozen-funds-recovery/"
     },
     {
-      "headline": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-      "take": "Wrapped Monero token collapses 99 percent after $13 million hack",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+      "headline": "Ledger users lose $95.35 million in theft tied to CryptoBilis devices",
+      "take": "Ledger users lose $95.35 million in theft tied to CryptoBilis devices",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ledger-users-lose-95m-cryptobilis-attack/"
     },
     {
-      "headline": "Hyperliquid\u2019s execution model raises concerns for institutional traders, Quote.Trade CTO warns",
-      "take": "Hyperliquid execution model raises concerns for institutional traders",
+      "headline": "Sonic audit shows S token supply is 48% higher than announced",
+      "take": "Sonic audit shows S token supply is 48% higher than announced",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/order-visibility-mechanics-concerns-institutional/"
+      "link": "https://cryptobriefing.com/sonic-audit-s-token-supply-48-higher/"
+    },
+    {
+      "headline": "HD Moore\u2019s canary experiment exposes data leaks across the AI supply chain",
+      "take": "Data leaks across AI supply chain exposed by canary experiment research",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/hd-moore-ai-supply-chain-data-leaks/"
     }
   ],
   "policy": [
     {
-      "headline": "SEC opens civil probe into Nvidia over potential accounting issues",
-      "take": "SEC opens civil probe into Nvidia over potential accounting issues",
+      "headline": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "take": "Kalshi races to stay ahead of New York order that could shut exchange",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
+    },
+    {
+      "headline": "Trump threatens tax on US companies building data centers abroad",
+      "take": "Trump threatens tax on US companies building data centers abroad",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sec-probes-nvidia-potential-accounting-issues/"
+      "link": "https://cryptobriefing.com/trump-threatens-tax-on-us-companies-building-data-centers-abroad/"
     },
     {
       "headline": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
-      "take": "Rep. Casten seeks to curb prediction market insider trading via DOJ whistleblower program",
+      "take": "Rep. Casten seeks to curb prediction market insider trading with DOJ program",
       "source": "theblock",
       "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
-    },
-    {
-      "headline": "Oregon sues OpenAI for $2B, claims ChatGPT linked to school shooting",
-      "take": "Oregon sues OpenAI for $2 billion, claims ChatGPT linked to shooting",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/oregon-sues-openai-for-2b-claims-chatgpt-linked-to-school-shooting/"
     }
   ]
 }

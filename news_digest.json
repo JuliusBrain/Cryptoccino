@@ -1,60 +1,54 @@
 {
-  "generated": "2026-11-21T19:24:52.619313+00:00",
-  "ts": 1795289092,
+  "generated": "2026-11-22T01:24:03.556634+00:00",
+  "ts": 1795310643,
   "market": [
     {
-      "headline": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday\u2019s stock open",
-      "take": "Bitcoin bounces 9% from two-year low, retakes $60,000 as traders await Monday open",
+      "headline": "Bitcoin heads for longest weekly losing streak since 2022 as holders chase AI stocks",
+      "take": "Bitcoin posts longest weekly losing streak since 2022 amid AI stock rotation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-longest-weekly-losing-streak-since-2022/"
+    },
+    {
+      "headline": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "take": "Bitcoin rebounds above $60k following $1.8 billion liquidation wave",
       "source": "coindesk",
       "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
     },
     {
-      "headline": "BlackRock\u2019s IBIT posts record $541M outflow as Bitcoin ETFs bleed $3.47B in November",
-      "take": "Bitcoin ETFs bleed $3.47 billion in November, IBIT posts record $541M outflow",
+      "headline": "Webull posts record $218.7 million quarter as client assets climb to $32.4 billion",
+      "take": "Webull reports record $218.7M quarterly revenue, client assets reach $32.4B",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/blackrock-ibit-record-outflow-bitcoin-etfs/"
+      "link": "https://cryptobriefing.com/webull-record-revenue-client-assets-32-billion/"
     },
     {
-      "headline": "Bitcoin slips below its 200-week average for the first time since October 2023",
-      "take": "Bitcoin slips below 200-week average for first time since October 2023",
+      "headline": "Tech sector trails S&P 500 by widest margin since at least 2010",
+      "take": "Tech sector trails S&P 500 by widest margin since at least 2010",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-below-200-week-moving-average/"
-    },
-    {
-      "headline": "$227M in crypto shorts liquidated in four hours as bears get squeezed",
-      "take": "$227 million in crypto shorts liquidated in four hours as bears squeezed",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/227m-crypto-shorts-liquidated-four-hours/"
-    },
-    {
-      "headline": "Kalshi sees institutional trading surge 4,124% to $26.3B in six months",
-      "take": "Kalshi sees institutional trading surge 4,124% to $26.3 billion in six months",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-institutional-trading-surge-26-billion/"
+      "link": "https://cryptobriefing.com/tech-sector-trails-sp-500-widest-since-2003/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic raises about $119.5 billion in record IPO, now holds up to $250 billion in cash",
-      "take": "Anthropic raises $119.5 billion in record IPO, holds up to $250 billion cash",
+      "headline": "Circle mints 500M USDC on Solana in about 20 minutes",
+      "take": "Circle mints 500M USDC on Solana in approximately twenty minutes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-record-ipo-cash-compute-commitments/"
+      "link": "https://cryptobriefing.com/circle-mints-500m-usdc-solana/"
     },
     {
-      "headline": "Amazon nears $7.5 billion deal to buy AI startup Decart",
-      "take": "Amazon nears $7.5 billion deal to buy AI startup Decart",
+      "headline": "RUM Group posts $96.6 million Q3 revenue as AI hosting overtakes video",
+      "take": "RUM Group posts $96.6M Q3 revenue as AI hosting overtakes video",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/amazon-nears-deal-ai-startup-decart/"
+      "link": "https://cryptobriefing.com/rum-group-q3-revenue-ai-hosting/"
     },
     {
-      "headline": "Tether builds out QVAC, an open-source AI ecosystem that runs models on your devices",
-      "take": "Tether builds QVAC open-source AI ecosystem that runs models on user devices",
+      "headline": "ARK withdraws plans for CoinDesk 20 and ex-Bitcoin ETF products",
+      "take": "ARK withdraws plans for CoinDesk 20 and ex-Bitcoin ETF products",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tether-qvac-open-source-ai-ecosystem/"
+      "link": "https://cryptobriefing.com/ark-withdraws-coindesk-20-crypto-etfs/"
     },
     {
       "headline": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes its biggest customer",
-      "take": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes largest customer",
+      "take": "SpaceX posts $4.4B quarterly profit with Anthropic as biggest customer",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/spacex-4-billion-profit-anthropic-customer/"
     }
@@ -62,35 +56,35 @@
   "security": [
     {
       "headline": "Cyber bridge exploit mints 5.21 million CYBER tokens, Upbit and Bithumb freeze transfers",
-      "take": "Cyber bridge exploit mints 5.21 million CYBER tokens, exchanges freeze transfers",
+      "take": "Cyber bridge exploit mints 5.21M tokens; Upbit and Bithumb freeze transfers",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/cyber-bridge-exploit-upbit-bithumb-freeze/"
     },
     {
       "headline": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "take": "Chainflip protocol FLIP tanks 30% after suspected $4.86 million vault drain",
+      "take": "Chainflip's FLIP drops 34% after attacker drains $4.86M with key compromise",
       "source": "coindesk",
       "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
     },
     {
       "headline": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-      "take": "Fraudsters used fake crypto exchanges to steal $37 million, SEC alleges",
+      "take": "SEC alleges fraudsters used fake crypto exchanges to steal $37M",
       "source": "decrypt",
       "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec"
-    },
-    {
-      "headline": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "take": "BTCS warns SEC its $54 million Aave loan could face liquidation risk",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
     }
   ],
   "policy": [
     {
-      "headline": "Coins.ph halts transfers to self-custody wallets, limits users to regulated exchanges",
-      "take": "Coins.ph halts transfers to self-custody wallets, limits users to regulated exchanges",
+      "headline": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "take": "Kalshi faces New York court hearing on order threatening nationwide shutdown",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813"
+    },
+    {
+      "headline": "Russia allows exchanges to launch crypto trading with Central Bank approval",
+      "take": "Russia allows exchanges to launch crypto trading with Central Bank approval",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coins-ph-halts-self-custody-wallet-transfers/"
+      "link": "https://cryptobriefing.com/russia-exchanges-crypto-trading-central-bank-approval/"
     }
   ]
 }

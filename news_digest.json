@@ -1,90 +1,102 @@
 {
-  "generated": "2026-11-22T01:24:03.556634+00:00",
-  "ts": 1795310643,
+  "generated": "2026-11-22T11:37:20.733563+00:00",
+  "ts": 1795347440,
   "market": [
     {
-      "headline": "Bitcoin heads for longest weekly losing streak since 2022 as holders chase AI stocks",
-      "take": "Bitcoin posts longest weekly losing streak since 2022 amid AI stock rotation",
+      "headline": "Over $400M in shorts liquidated as the crypto market recovers",
+      "take": "Over $400M in crypto shorts liquidated as market recovers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-longest-weekly-losing-streak-since-2022/"
+      "link": "https://cryptobriefing.com/over-400m-shorts-liquidated-crypto-recovers/"
     },
     {
-      "headline": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "take": "Bitcoin rebounds above $60k following $1.8 billion liquidation wave",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+      "headline": "Binance Bitcoin funding turns negative, and one analyst sees a possible reversal",
+      "take": "Binance Bitcoin funding turns negative, signaling possible reversal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/binance-bitcoin-funding-turns-negative-reversal/"
     },
     {
-      "headline": "Webull posts record $218.7 million quarter as client assets climb to $32.4 billion",
-      "take": "Webull reports record $218.7M quarterly revenue, client assets reach $32.4B",
+      "headline": "High valuations, margin debt spark stock market crash fears: Motley Fool",
+      "take": "High valuations and margin debt spark stock market crash fears",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/webull-record-revenue-client-assets-32-billion/"
+      "link": "https://cryptobriefing.com/high-valuations-margin-debt-spark-stock-market-crash-fears-motley-fool/"
     },
     {
-      "headline": "Tech sector trails S&P 500 by widest margin since at least 2010",
-      "take": "Tech sector trails S&P 500 by widest margin since at least 2010",
+      "headline": "JPMorgan forecasts hyperscaler spending to reach $2 trillion by 2030",
+      "take": "JPMorgan forecasts hyperscaler spending reaches $2 trillion by 2030",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tech-sector-trails-sp-500-widest-since-2003/"
+      "link": "https://cryptobriefing.com/jpmorgan-hyperscaler-spending-2-trillion-2030/"
+    },
+    {
+      "headline": "David Tepper exits AMD and Broadcom, doubles down on Nvidia and Micron",
+      "take": "David Tepper exits AMD and Broadcom, doubles Nvidia position",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/david-tepper-exits-amd-broadcom-ai-chips/"
     }
   ],
   "business": [
     {
-      "headline": "Circle mints 500M USDC on Solana in about 20 minutes",
-      "take": "Circle mints 500M USDC on Solana in approximately twenty minutes",
+      "headline": "Tribe AI crosses $100M in annualized revenue with Koch Industries among its clients",
+      "take": "Tribe AI crosses $100M annualized revenue with major corporate clients",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/circle-mints-500m-usdc-solana/"
+      "link": "https://cryptobriefing.com/tribe-ai-100m-annualized-revenue-koch/"
     },
     {
-      "headline": "RUM Group posts $96.6 million Q3 revenue as AI hosting overtakes video",
-      "take": "RUM Group posts $96.6M Q3 revenue as AI hosting overtakes video",
+      "headline": "Meta Platforms commits up to $145B to AI as its ad machine keeps paying off",
+      "take": "Meta commits up to $145B to AI as advertising revenue grows",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rum-group-q3-revenue-ai-hosting/"
+      "link": "https://cryptobriefing.com/meta-145-billion-ai-capex-advertising/"
     },
     {
-      "headline": "ARK withdraws plans for CoinDesk 20 and ex-Bitcoin ETF products",
-      "take": "ARK withdraws plans for CoinDesk 20 and ex-Bitcoin ETF products",
+      "headline": "Securitize is down 47% since listing, but its tokenization bet keeps expanding",
+      "take": "Securitize down 47% since listing but tokenization bet expanding",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ark-withdraws-coindesk-20-crypto-etfs/"
+      "link": "https://cryptobriefing.com/securitize-stock-down-tokenization-growth/"
     },
     {
-      "headline": "SpaceX posts $4.4 billion quarterly profit as Anthropic becomes its biggest customer",
-      "take": "SpaceX posts $4.4B quarterly profit with Anthropic as biggest customer",
+      "headline": "Intel signs first external customer for its 18A chipmaking process",
+      "take": "Intel signs first external customer for 18A chipmaking process",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/spacex-4-billion-profit-anthropic-customer/"
+      "link": "https://cryptobriefing.com/intel-first-external-customer-18a-process-2/"
     }
   ],
   "security": [
     {
-      "headline": "Cyber bridge exploit mints 5.21 million CYBER tokens, Upbit and Bithumb freeze transfers",
-      "take": "Cyber bridge exploit mints 5.21M tokens; Upbit and Bithumb freeze transfers",
+      "headline": "Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet",
+      "take": "Thai police raid Chiang Mai exchange tied to $2.7M USDT wallet",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cyber-bridge-exploit-upbit-bithumb-freeze/"
+      "link": "https://cryptobriefing.com/thai-police-raid-chiang-mai-usdt-exchange/"
     },
     {
-      "headline": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "take": "Chainflip's FLIP drops 34% after attacker drains $4.86M with key compromise",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
+      "headline": "Wells Fargo warns customers that third-party AI agents are used at their own risk",
+      "take": "Wells Fargo warns customers third-party AI agents used at own risk",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/wells-fargo-ai-agents-at-your-own-risk/"
     },
     {
-      "headline": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-      "take": "SEC alleges fraudsters used fake crypto exchanges to steal $37M",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec"
+      "headline": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed",
+      "take": "Kraken flags disruption in funding gateway, deposits may delay",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/kraken-cyber-optimism-funding-gateway-disruption/"
     }
   ],
   "policy": [
     {
-      "headline": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
-      "take": "Kalshi faces New York court hearing on order threatening nationwide shutdown",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813"
+      "headline": "Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income",
+      "take": "Tokyo audits 91 crypto holders, uncovers $24.5M unreported income",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokyo-tax-audit-91-crypto-holders/"
     },
     {
-      "headline": "Russia allows exchanges to launch crypto trading with Central Bank approval",
-      "take": "Russia allows exchanges to launch crypto trading with Central Bank approval",
+      "headline": "Russia\u2019s Communist Party proposes adding seized crypto to national reserves",
+      "take": "Russia's Communist Party proposes adding seized crypto to reserves",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/russia-exchanges-crypto-trading-central-bank-approval/"
+      "link": "https://cryptobriefing.com/russia-communist-party-seized-crypto-reserves/"
+    },
+    {
+      "headline": "Trump affirms confidence in Commerce Secretary Lutnick amid export scrutiny",
+      "take": "Trump affirms confidence in Commerce Secretary Lutnick amid scrutiny",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/trump-affirms-confidence-in-commerce-secretary-lutnick-amid-export-scrutiny/"
     }
   ]
 }

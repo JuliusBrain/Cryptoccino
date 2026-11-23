@@ -1,108 +1,114 @@
 {
-  "generated": "2026-11-22T19:47:51.606093+00:00",
-  "ts": 1795376871,
+  "generated": "2026-11-23T01:48:11.943928+00:00",
+  "ts": 1795398491,
   "market": [
     {
-      "headline": "JPMorgan estimates Bitcoin mining costs at $86K as price sinks far below",
-      "take": "Bitcoin mining costs estimated at $86K while price trades substantially lower",
+      "headline": "Bitcoin climbs back above $60K after leveraged longs get flushed",
+      "take": "Bitcoin climbs back above $60K after leveraged longs get flushed",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-bitcoin-mining-cost-86k/"
+      "link": "https://cryptobriefing.com/bitcoin-recovers-60k-after-liquidation-wipeout/"
+    },
+    {
+      "headline": "Coinbase captures 34% weekly spot volume share in tokenized equities",
+      "take": "Coinbase captures 34% weekly spot volume share in tokenized equities",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinbase-tokenized-equities-34-percent-spot-share/"
+    },
+    {
+      "headline": "Dow futures rise 684 points as stocks try to bounce after a brutal week",
+      "take": "Dow futures rise 684 points as stocks try to bounce after brutal week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dow-futures-rise-684-points-stocks-rebound/"
+    },
+    {
+      "headline": "Nvidia tops $100 billion in quarterly revenue for the first time",
+      "take": "Nvidia tops $100 billion in quarterly revenue for the first time",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-tops-100-billion-quarterly-revenue/"
     },
     {
       "headline": "Coinbase stock drops 64% from 52-week high as analysts weigh options",
-      "take": "Coinbase stock down 64% from 52-week high as analysts evaluate options",
+      "take": "Coinbase stock drops 64% from 52-week high as analysts weigh options",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/coinbase-stock-drops-64-percent-52-week-high/"
-    },
-    {
-      "headline": "Nasdaq slides deeper as Nvidia rout drags S&P 500 and Dow into correction",
-      "take": "Nasdaq slides deeper as Nvidia weakness drags S&P 500 and Dow into correction",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-correction-nvidia-sp500-dow-selloff/"
-    },
-    {
-      "headline": "Short-term Bitcoin holders capitulate as over 113K BTC hits exchanges",
-      "take": "Short-term Bitcoin holders capitulate with over 113K BTC hitting exchanges",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/short-term-bitcoin-holders-capitulate-exchanges/"
-    },
-    {
-      "headline": "Trump memecoin crashes 70% as holders prepare for another gala dinner",
-      "take": "Trump memecoin crashes 70% as holders prepare for another gala dinner",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-memecoin-crashes-gala-dinner-holders/"
     }
   ],
   "business": [
     {
-      "headline": "Samsung Wallet brings USDC transfers on Sui to 82 million US Galaxy devices",
-      "take": "Samsung Wallet brings USDC transfers on Sui to 82 million US Galaxy devices",
+      "headline": "Aptos named sole Move-based chain in PayPal\u2019s PYUSD0 stablecoin rollout",
+      "take": "Aptos named sole Move-based chain in PayPal's PYUSD stablecoin rollout",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/samsung-wallet-usdc-sui-galaxy-devices-2/"
+      "link": "https://cryptobriefing.com/aptos-paypal-pyusd0-stablecoin-launch/"
     },
     {
-      "headline": "PrimeRevenue plans to tokenize its trade finance instruments on Solana",
-      "take": "PrimeRevenue plans to tokenize trade finance instruments on Solana blockchain",
+      "headline": "Injective Mint brings no-code tokenization of stocks, bonds and other real-world assets onchain",
+      "take": "Injective Mint brings no-code tokenization of stocks, bonds and assets onchain",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/primerevenue-tokenize-trade-finance-solana/"
+      "link": "https://cryptobriefing.com/injective-mint-tokenization-real-world-assets/"
     },
     {
-      "headline": "Hashi goes live on Sui mainnet, turning Bitcoin into lending collateral",
-      "take": "Hashi goes live on Sui mainnet, enabling Bitcoin to serve as lending collateral",
+      "headline": "Notable Capital, GIC and Baillie Gifford stack billions behind Anthropic ahead of IPO",
+      "take": "Notable Capital, GIC and Baillie Gifford back Anthropic ahead of IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/hashi-launches-sui-mainnet-bitcoin-collateral/"
+      "link": "https://cryptobriefing.com/notable-capital-gic-baillie-gifford-anthropic-ipo/"
     },
     {
-      "headline": "Anthropic follows SpaceX with unconventional IPO process, irks bankers: Reuters",
-      "take": "Anthropic pursues unconventional IPO process similar to SpaceX, frustrating bankers",
+      "headline": "Anthropic\u2019s Claude nears 350 million weekly website visits ahead of IPO",
+      "take": "Anthropic's Claude nears 350 million weekly website visits ahead of IPO",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-follows-spacex-with-unconventional-ipo-process-irks-bankers-reuters/"
+      "link": "https://cryptobriefing.com/anthropic-claude-350-million-weekly-visits-ipo/"
+    },
+    {
+      "headline": "Backpack explains its centralized blockchain choice for US supervision",
+      "take": "Backpack explains its centralized blockchain choice for US supervision",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/backpack-centralized-blockchain-us-supervision/"
     }
   ],
   "security": [
     {
       "headline": "Chainflip\u2019s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-      "take": "Chainflip protocol suffers $12 million loss after 122.9 BTC theft disclosure",
+      "take": "Chainflip's losses climb to $12 million after 122.9 BTC theft disclosed",
       "source": "theblock",
       "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829"
     },
     {
-      "headline": "Bitcoin faces a quantum security challenge with roughly 6 million coins exposed",
-      "take": "Bitcoin faces quantum computing security challenge with roughly 6 million coins exposed",
+      "headline": "Fusionist\u2019s ACE bridge exploited, leading to $4M loss",
+      "take": "Fusionist's ACE bridge exploited, leading to $4 million loss",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-quantum-security-6-million-coins-exposed/"
+      "link": "https://cryptobriefing.com/fusionist-ace-bridge-exploit-4m-loss/"
     },
     {
-      "headline": "Li Ming, alleged key figure in Nvidia chip smuggling network, is out on bail",
-      "take": "Li Ming, alleged key figure in Nvidia chip smuggling network, released on bail",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/li-ming-nvidia-chip-smuggling-bail/"
+      "headline": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "take": "Bitcoin's quantum security challenge extends to bridges, custodians and coins",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
     }
   ],
   "policy": [
     {
-      "headline": "More on the pending oversight hearings: State of Crypto",
-      "take": "Pending oversight hearings on crypto regulation scheduled for state discussion",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/"
+      "headline": "UK\u2019s FCA bars crypto exchanges from acting as market makers on their own platforms",
+      "take": "UK's FCA bars crypto exchanges from acting as market makers on platforms",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/uk-fca-bars-crypto-exchanges-market-making/"
     },
     {
-      "headline": "China accessed advanced US AI chips, prompting new export controls",
-      "take": "China accessed advanced US AI chips, prompting new American export controls",
+      "headline": "US-China Commission recommends Congress require software AI disclosures",
+      "take": "US-China Commission recommends Congress require software AI disclosures",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/china-accessed-advanced-us-ai-chips-prompting-new-export-controls/"
+      "link": "https://cryptobriefing.com/uscc-recommends-chinese-ai-model-disclosures/"
     },
     {
-      "headline": "Missouri considers data center moratorium amid Big Tech backlash",
-      "take": "Missouri considers data center moratorium amid technology company backlash",
+      "headline": "US targets AI chip exports to China, impacting Southeast Asia cloud firms",
+      "take": "US targets AI chip exports to China, impacting Southeast Asia cloud firms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/missouri-considers-data-center-moratorium-amid-big-tech-backlash/"
+      "link": "https://cryptobriefing.com/us-targets-ai-chip-exports-to-china-impacting-southeast-asia-cloud-firms/"
     },
     {
-      "headline": "Bessent wants names behind Nvidia\u2019s export compliance",
-      "take": "Treasury Secretary Bessent demands identification of officials responsible for chip sales failures",
+      "headline": "Taiwan bans most short selling after Taiex\u2019s worst week since 1991",
+      "take": "Taiwan bans most short selling after Taiex's worst week since 1991",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-nvidia-compliance-accountability/"
+      "link": "https://cryptobriefing.com/taiwan-bans-short-selling-taiex-worst-week/"
     }
   ]
 }

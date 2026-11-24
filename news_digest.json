@@ -1,95 +1,114 @@
 {
-  "generated": "2026-11-24T13:53:19.044932+00:00",
-  "ts": 1795528399,
+  "generated": "2026-11-24T23:56:03.715827+00:00",
+  "ts": 1795564563,
   "market": [
     {
-      "headline": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-      "take": "Bitcoin spot ETF outflows hit record $4.71 billion in November",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
+      "headline": "Bitcoin options traders pile into puts at a pace last seen in 2022",
+      "take": "Bitcoin options traders accumulating put positions at 2022 pace signals caution",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-options-traders-puts-surge-bearish/"
     },
     {
-      "headline": "Binance SPCX futures reportedly hit 1.957 billion USDT in a single day",
-      "take": "Binance SPCX futures volume reached 1.957 billion USDT in single day",
+      "headline": "SWEEP leads tokenized T-bill growth with $120.3 million weekly gain",
+      "take": "SWEEP tokenized Treasury bills see substantial weekly inflows, $120 million growth",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-spcx-futures-spacex-volume/"
+      "link": "https://cryptobriefing.com/sweep-leads-tokenized-t-bill-growth/"
     },
     {
-      "headline": "Over 227,196 Bitcoin wake up from dormant wallets, complicating a lawsuit over \u2018abandoned\u2019 coins",
-      "take": "Over 227,000 Bitcoin moved from dormant wallets, complicating lawsuit claims",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dormant-bitcoin-wallets-complicate-lawsuit/"
+      "headline": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "take": "CleanSpark reports $987 million annual loss as bitcoin production declines",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061"
     },
     {
-      "headline": "Bitcoin\u2019s bear market reaches record 411 days, says Grayscale",
-      "take": "Bitcoin bear market reaches record 411 consecutive days duration",
+      "headline": "USDC Treasury mints 250M USDC on Solana, liquidity impact eyed",
+      "take": "USDC treasury mints 250 million on Solana, liquidity implications under review",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-bear-market-record-411-days-grayscale/"
-    },
-    {
-      "headline": "Mike Novogratz doubts Bitcoin will reach $90,000 before year-end",
-      "take": "Mike Novogratz doubts Bitcoin reaches ninety thousand before year-end",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/novogratz-doubts-bitcoin-90000-this-year/"
+      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-usdc-on-solana-liquidity-impact-eyed/"
     }
   ],
   "business": [
     {
-      "headline": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
-      "take": "BlackRock launches tokenized money market fund with hundred million assets",
+      "headline": "Dell\u2019s AI server backlog hits $132.3 billion, up 619% year over year",
+      "take": "Dell AI server backlog reaches $132.3 billion, up 619 percent annually",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dell-ai-server-backlog-132-billion/"
+    },
+    {
+      "headline": "Anthropic launches Claude Ship for AI-driven code management with GitHub integration",
+      "take": "Anthropic launches Claude Ship for AI-assisted code management and review",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-launches-claude-ship-for-ai-driven-code-management-with-github/"
+    },
+    {
+      "headline": "Payward\u2019s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+      "take": "Payward's Krak plans early 2027 US bitcoin cashback credit cards launch",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524"
+      "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
     },
     {
-      "headline": "Swiss National Bank explores shared ledger with UBS, SIX for tokenized finance",
-      "take": "Swiss National Bank explores shared ledger with UBS, SIX for tokenization",
+      "headline": "Rialto raises $5 million from Robinhood and Tandem to expand onchain trading",
+      "take": "Rialto raises $5 million for onchain trading platform from Robinhood, Tandem",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/swiss-national-bank-explores-shared-ledger-with-ubs-six-for-tokenized-finance/"
+      "link": "https://cryptobriefing.com/rialto-onchain-trading-expansion/"
     },
     {
-      "headline": "World Gold Council completes first live trial of digital gold system with JPMorgan, HSBC and StoneX",
-      "take": "World Gold Council completes digital gold trial with JPMorgan, HSBC",
+      "headline": "Jersey and UAE issuers control 88% of tokenized stock DeFi deposits",
+      "take": "Jersey and UAE issuers control 88 percent of tokenized stock DeFi deposits",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-fractional-gold-system/"
-    },
-    {
-      "headline": "Backpack launches RFQ system for stock trading",
-      "take": "Backpack launches RFQ system enabling stock trading on platform",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backpack-launches-stock-rfq-system/"
-    },
-    {
-      "headline": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-      "take": "Sky lender proposes fifty million dollar buyback for stUSDS withdrawals",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "link": "https://cryptobriefing.com/jersey-uae-issuers-tokenized-stock-defi-deposits/"
     }
   ],
   "security": [
     {
-      "headline": "CertiK trains Interpol investigators on tracing stolen crypto",
-      "take": "CertiK trains Interpol investigators on tracing stolen cryptocurrency",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/certik-trains-interpol-crypto-tracing/"
+      "headline": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+      "take": "Coldcard hardware wallet flaw persisted years despite multiple security audits",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits"
     },
     {
-      "headline": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-      "take": "Crypto trader Ansem's wallet hacked, two million in memecoins sold",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered"
+      "headline": "Anthropic and Harvard study finds AI agent teams less safe than single agents",
+      "take": "Anthropic study finds AI agent teams pose greater safety risks than individuals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-harvard-ai-agent-teams-safety/"
     },
     {
-      "headline": "Bitcoin Core bug let peers stall nodes for over a dozen seconds",
-      "take": "Bitcoin Core bug allowed peers to stall nodes over dozen seconds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-core-vulnerability-stalls-nodes-orphan-transactions/"
-    },
-    {
-      "headline": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-      "take": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/european-commission-eu-academy-data-breach/"
+      "headline": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+      "take": "OpenAI and Anthropic researchers concerned upcoming AI models too risky to release",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous"
     }
   ],
-  "policy": []
+  "policy": [
+    {
+      "headline": "CFTC approves permanent reporting rules for prediction markets",
+      "take": "CFTC approves permanent reporting framework for prediction markets operators",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cftc-permanent-reporting-rules-prediction-markets/"
+    },
+    {
+      "headline": "What the CFTC\u2019s New Crypto Reserves Guidance Actually Allows\u2014And What It Doesn\u2019t",
+      "take": "CFTC guidance clarifies what cryptocurrency reserve requirements allow and restrict",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt"
+    },
+    {
+      "headline": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+      "take": "South Korea moves toward lifting decade-long ICO ban after regulatory review",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"
+    },
+    {
+      "headline": "SEC staff gives Molecule no-action relief for scientific research tokens",
+      "take": "SEC staff grants Molecule no-action relief for scientific research token offerings",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067"
+    },
+    {
+      "headline": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "take": "Utah seeks to dismiss criminal charges against Kalshi following trading halt",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    }
+  ]
 }

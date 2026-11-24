@@ -1,102 +1,95 @@
 {
-  "generated": "2026-11-24T02:16:29.436515+00:00",
-  "ts": 1795486589,
+  "generated": "2026-11-24T13:53:19.044932+00:00",
+  "ts": 1795528399,
   "market": [
     {
-      "headline": "CFTC staff say bitcoin, ether can count toward derivatives firms\u2019 operating expenses",
-      "take": "CFTC allows bitcoin and ether as derivatives firms' operating expenses",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
+      "headline": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "take": "Bitcoin spot ETF outflows hit record $4.71 billion in November",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
     },
     {
-      "headline": "Fed\u2019s Williams signals potential consecutive rate hikes if inflation persists",
-      "take": "Fed signals potential consecutive rate hikes if inflation remains elevated",
+      "headline": "Binance SPCX futures reportedly hit 1.957 billion USDT in a single day",
+      "take": "Binance SPCX futures volume reached 1.957 billion USDT in single day",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/feds-williams-signals-potential-consecutive-rate-hikes-if-inflation-persists/"
+      "link": "https://cryptobriefing.com/binance-spcx-futures-spacex-volume/"
     },
     {
-      "headline": "Grayscale says bitcoin and major altcoins look \u2018oversold\u2019 as AI risks cloud near-term outlook",
-      "take": "Grayscale notes bitcoin and major altcoins appear oversold amid AI risks",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
+      "headline": "Over 227,196 Bitcoin wake up from dormant wallets, complicating a lawsuit over \u2018abandoned\u2019 coins",
+      "take": "Over 227,000 Bitcoin moved from dormant wallets, complicating lawsuit claims",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/dormant-bitcoin-wallets-complicate-lawsuit/"
     },
     {
-      "headline": "Grayscale\u2019s new 2x leveraged Zcash ETF takes 13% opening day tumble",
-      "take": "Grayscale's new 2x leveraged Zcash ETF drops thirteen percent on debut",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407"
+      "headline": "Bitcoin\u2019s bear market reaches record 411 days, says Grayscale",
+      "take": "Bitcoin bear market reaches record 411 consecutive days duration",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-bear-market-record-411-days-grayscale/"
+    },
+    {
+      "headline": "Mike Novogratz doubts Bitcoin will reach $90,000 before year-end",
+      "take": "Mike Novogratz doubts Bitcoin reaches ninety thousand before year-end",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/novogratz-doubts-bitcoin-90000-this-year/"
     }
   ],
   "business": [
     {
-      "headline": "Anthropic IPO creates 598 centimillionaires among non-founder staff",
-      "take": "Anthropic IPO creates 598 centimillionaires among non-founder employees",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ipo-598-centimillionaire-employees/"
+      "headline": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+      "take": "BlackRock launches tokenized money market fund with hundred million assets",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524"
     },
     {
-      "headline": "OKX Australia opens equity and commodity perpetual futures to retail traders",
-      "take": "OKX Australia launches equity and commodity perpetual futures for retail",
+      "headline": "Swiss National Bank explores shared ledger with UBS, SIX for tokenized finance",
+      "take": "Swiss National Bank explores shared ledger with UBS, SIX for tokenization",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okx-australia-equity-commodity-perpetual-futures/"
+      "link": "https://cryptobriefing.com/swiss-national-bank-explores-shared-ledger-with-ubs-six-for-tokenized-finance/"
     },
     {
-      "headline": "Anthropic launches Claude Ship to automate code reviews and approvals",
-      "take": "Anthropic launches Claude Ship to automate code reviews and approvals",
+      "headline": "World Gold Council completes first live trial of digital gold system with JPMorgan, HSBC and StoneX",
+      "take": "World Gold Council completes digital gold trial with JPMorgan, HSBC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-code-review-automation/"
+      "link": "https://cryptobriefing.com/jpmorgan-fractional-gold-system/"
     },
     {
-      "headline": "BitGo\u2019s Mike Belshe says stablecoins are winning where banks fell short",
-      "take": "BitGo executive says stablecoins outperformed traditional banks' offerings",
+      "headline": "Backpack launches RFQ system for stock trading",
+      "take": "Backpack launches RFQ system enabling stock trading on platform",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/mike-belshe-stablecoins-das2026-asia/"
+      "link": "https://cryptobriefing.com/backpack-launches-stock-rfq-system/"
+    },
+    {
+      "headline": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+      "take": "Sky lender proposes fifty million dollar buyback for stUSDS withdrawals",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     }
   ],
   "security": [
     {
-      "headline": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-      "take": "North Korea moves two hundred forty-seven million dollars of Binance hack proceeds",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers"
+      "headline": "CertiK trains Interpol investigators on tracing stolen crypto",
+      "take": "CertiK trains Interpol investigators on tracing stolen cryptocurrency",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/certik-trains-interpol-crypto-tracing/"
     },
     {
-      "headline": "Chainalysis traces billions stolen in Binance hack with its new AI tool",
-      "take": "Chainalysis traces billions stolen in Binance hack using new AI tool",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainalysis-ai-traces-binance-hack-funds/"
+      "headline": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "take": "Crypto trader Ansem's wallet hacked, two million in memecoins sold",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered"
     },
     {
-      "headline": "Backward Hat Capital founders charged in alleged $600M Ponzi scheme",
-      "take": "Backward Hat Capital founders charged in alleged six hundred million dollar Ponzi scheme",
+      "headline": "Bitcoin Core bug let peers stall nodes for over a dozen seconds",
+      "take": "Bitcoin Core bug allowed peers to stall nodes over dozen seconds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/backward-hat-capital-founders-charged-ponzi-scheme/"
+      "link": "https://cryptobriefing.com/bitcoin-core-vulnerability-stalls-nodes-orphan-transactions/"
     },
     {
-      "headline": "US blacklists Megaspeed over suspected Nvidia AI chip diversion to China",
-      "take": "US blacklists Megaspeed over suspected Nvidia AI chip diversion to China",
+      "headline": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+      "take": "European Commission confirms personal data stolen in AI-assisted cyberattack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-blacklists-megaspeed-over-suspected-nvidia-ai-chip-diversion-to-china/"
+      "link": "https://cryptobriefing.com/european-commission-eu-academy-data-breach/"
     }
   ],
-  "policy": [
-    {
-      "headline": "CFTC clears Bitcoin, Ether, and stablecoins for exchange capital buffers",
-      "take": "CFTC clears bitcoin, ether, stablecoins for exchange capital buffers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-advisory-crypto-financial-resource-requirements/"
-    },
-    {
-      "headline": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-      "take": "CFTC sets policies on event contract data reporting for crypto integration",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
-    },
-    {
-      "headline": "Kalshi secures temporary win in New York gambling law dispute",
-      "take": "Kalshi secures temporary legal victory in New York gambling law dispute",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    }
-  ]
+  "policy": []
 }

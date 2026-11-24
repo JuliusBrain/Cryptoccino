@@ -1,102 +1,102 @@
 {
-  "generated": "2026-11-23T13:03:40.315456+00:00",
-  "ts": 1795439020,
+  "generated": "2026-11-24T02:16:29.436515+00:00",
+  "ts": 1795486589,
   "market": [
     {
-      "headline": "Bitcoin rebounds above $61,000 as Wall Street futures rise",
-      "take": "Bitcoin rebounds above $61,000 as Wall Street futures rise",
+      "headline": "CFTC staff say bitcoin, ether can count toward derivatives firms\u2019 operating expenses",
+      "take": "CFTC allows bitcoin and ether as derivatives firms' operating expenses",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
+    },
+    {
+      "headline": "Fed\u2019s Williams signals potential consecutive rate hikes if inflation persists",
+      "take": "Fed signals potential consecutive rate hikes if inflation remains elevated",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-rebounds-above-61000-stock-futures/"
+      "link": "https://cryptobriefing.com/feds-williams-signals-potential-consecutive-rate-hikes-if-inflation-persists/"
     },
     {
-      "headline": "Live news: Tech futures rebound more than 3% as dollar index tops 104, a 20-month high",
-      "take": "Tech futures rebound over 3% while dollar index hits 20-month high",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025"
+      "headline": "Grayscale says bitcoin and major altcoins look \u2018oversold\u2019 as AI risks cloud near-term outlook",
+      "take": "Grayscale notes bitcoin and major altcoins appear oversold amid AI risks",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
     },
     {
-      "headline": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
-      "take": "Bitcoin's losing streak ranks second-longest ever, more downside seen",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside"
-    },
-    {
-      "headline": "Jupiter\u2019s weekly Solana perps volume hits $3.95 billion, a 12-month high",
-      "take": "Jupiter's Solana perps volume hits $3.95B, highest in 12 months",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jupiter-weekly-solana-perps-volume-record/"
-    },
-    {
-      "headline": "Solana hits record $1.8 billion in weekly tokenized equities trading",
-      "take": "Solana hits record $1.8B weekly tokenized equities trading volume",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/solana-record-tokenized-equities-trading-volume/"
+      "headline": "Grayscale\u2019s new 2x leveraged Zcash ETF takes 13% opening day tumble",
+      "take": "Grayscale's new 2x leveraged Zcash ETF drops thirteen percent on debut",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407"
     }
   ],
   "business": [
     {
-      "headline": "Cross River Bank launches its first Bitcoin-backed loans with LendingUSA",
-      "take": "Cross River Bank launches first Bitcoin-backed loans up to $250K",
+      "headline": "Anthropic IPO creates 598 centimillionaires among non-founder staff",
+      "take": "Anthropic IPO creates 598 centimillionaires among non-founder employees",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cross-river-bank-bitcoin-backed-loans-lendingusa/"
+      "link": "https://cryptobriefing.com/anthropic-ipo-598-centimillionaire-employees/"
     },
     {
-      "headline": "American Bitcoin secures $150M credit line from FalconX",
-      "take": "American Bitcoin secures $150M credit line from FalconX",
+      "headline": "OKX Australia opens equity and commodity perpetual futures to retail traders",
+      "take": "OKX Australia launches equity and commodity perpetual futures for retail",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/american-bitcoin-falconx-150m-credit-line/"
+      "link": "https://cryptobriefing.com/okx-australia-equity-commodity-perpetual-futures/"
     },
     {
-      "headline": "Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks",
-      "take": "Visa launches experimental AI agent wallet for US users",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903"
+      "headline": "Anthropic launches Claude Ship to automate code reviews and approvals",
+      "take": "Anthropic launches Claude Ship to automate code reviews and approvals",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-code-review-automation/"
     },
     {
-      "headline": "Fiona the Hippo meme coin donates $100K to Cincinnati Zoo charity",
-      "take": "Fiona hippo meme coin raises $100K for Cincinnati Zoo charity",
+      "headline": "BitGo\u2019s Mike Belshe says stablecoins are winning where banks fell short",
+      "take": "BitGo executive says stablecoins outperformed traditional banks' offerings",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fiona-hippo-meme-coin-cincinnati-zoo-donation/"
-    },
-    {
-      "headline": "OKXICE plans tokenized stock launch despite objections from 56 of 62 issuers",
-      "take": "OKXICE plans tokenized stock launch despite 56 of 62 issuers' objections",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/okxice-tokenized-securities-launch-issuer-objections/"
+      "link": "https://cryptobriefing.com/mike-belshe-stablecoins-das2026-asia/"
     }
   ],
   "security": [
     {
-      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "take": "Ethereum wallets holding $72B face potential future quantum attack threat",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack"
+      "headline": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+      "take": "North Korea moves two hundred forty-seven million dollars of Binance hack proceeds",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers"
     },
     {
-      "headline": "Upbit and Bithumb flag SKY and USDS as trading caution assets",
-      "take": "Upbit and Bithumb flag SKY and USDS as trading caution assets",
+      "headline": "Chainalysis traces billions stolen in Binance hack with its new AI tool",
+      "take": "Chainalysis traces billions stolen in Binance hack using new AI tool",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/upbit-bithumb-flag-sky-usds-caution/"
+      "link": "https://cryptobriefing.com/chainalysis-ai-traces-binance-hack-funds/"
+    },
+    {
+      "headline": "Backward Hat Capital founders charged in alleged $600M Ponzi scheme",
+      "take": "Backward Hat Capital founders charged in alleged six hundred million dollar Ponzi scheme",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/backward-hat-capital-founders-charged-ponzi-scheme/"
+    },
+    {
+      "headline": "US blacklists Megaspeed over suspected Nvidia AI chip diversion to China",
+      "take": "US blacklists Megaspeed over suspected Nvidia AI chip diversion to China",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-blacklists-megaspeed-over-suspected-nvidia-ai-chip-diversion-to-china/"
     }
   ],
   "policy": [
     {
-      "headline": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
-      "take": "Japan to ramp up crypto tax audits after $24.5M hidden income found",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income"
-    },
-    {
-      "headline": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
-      "take": "South Korea expands cryptocurrency account freezes, curbs illicit transfers",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad"
-    },
-    {
-      "headline": "Trump kept Commerce Secretary Lutnick after $25M library donation: WSJ",
-      "take": "Trump retained Commerce Secretary Lutnick after $25M library donation",
+      "headline": "CFTC clears Bitcoin, Ether, and stablecoins for exchange capital buffers",
+      "take": "CFTC clears bitcoin, ether, stablecoins for exchange capital buffers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/trump-kept-commerce-secretary-lutnick-after-25m-library-donation-wsj/"
+      "link": "https://cryptobriefing.com/cftc-advisory-crypto-financial-resource-requirements/"
+    },
+    {
+      "headline": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "take": "CFTC sets policies on event contract data reporting for crypto integration",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
+    },
+    {
+      "headline": "Kalshi secures temporary win in New York gambling law dispute",
+      "take": "Kalshi secures temporary legal victory in New York gambling law dispute",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     }
   ]
 }

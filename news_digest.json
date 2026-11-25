@@ -1,120 +1,96 @@
 {
-  "generated": "2026-11-25T08:46:05.089170+00:00",
-  "ts": 1795596365,
+  "generated": "2026-11-25T19:23:03.391821+00:00",
+  "ts": 1795634583,
   "market": [
     {
-      "headline": "Bitcoin ETFs Set for Worst Month as Outflows Near $5 Billion",
-      "take": "Bitcoin ETFs face worst month with nearly $5 billion in outflows",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-funds-head-for-worst-month-as-outflows-near-5-billion"
-    },
-    {
-      "headline": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
-      "take": "Ark Investment sells $6.8M in its own bitcoin ETF as BTC dips",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109"
-    },
-    {
-      "headline": "USDC Treasury mints 250M USDC on Solana, liquidity impact eyed",
-      "take": "USDC Treasury mints 250M USDC on Solana, liquidity effects monitored",
+      "headline": "CoinShares flags $20 billion AI ETF haul as Bitcoin funds draw almost nothing",
+      "take": "Crypto ETF flows diverge sharply, AI funds draw billions while Bitcoin stalls",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-usdc-on-solana-liquidity-impact-eyed/"
+      "link": "https://cryptobriefing.com/coinshares-ai-etf-inflows-bitcoin-funds/"
     },
     {
-      "headline": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
-      "take": "Traders can now hedge Nvidia and Anthropic exposure via Derive platform",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive"
+      "headline": "Bitcoin gains $2,500 in 3 hours, reclaims $59,500",
+      "take": "Bitcoin recovers $2,500 in hours, testing resistance above $59,000",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitcoin-gains-2500-reclaims-59500/"
     },
     {
-      "headline": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-      "take": "Just ten accounts drove all XRP Ledger trading growth last quarter",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
+      "headline": "USDT and USDC control 86.5% of the $281.3 billion stablecoin market",
+      "take": "USDT and USDC dominate stablecoin market with 86.5 percent combined share",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/usdt-usdc-control-stablecoin-market-share/"
+    },
+    {
+      "headline": "Hyperliquid\u2019s HYPE will join bitcoin, ether and more in Franklin Templeton\u2019s crypto ETF",
+      "take": "Franklin Templeton adds Hyperliquid HYPE token to multi-asset crypto ETF",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686"
     }
   ],
   "business": [
     {
-      "headline": "OpenAI and Fujitsu expand partnership to boost cyberdefense capabilities",
-      "take": "OpenAI and Fujitsu expand partnership to boost cyberdefense capabilities",
+      "headline": "Polymarket launches public contracts for AI compute pricing through 2028",
+      "take": "Polymarket launches long-dated contracts for Nvidia AI compute pricing stability",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-and-fujitsu-expand-partnership-to-boost-cyberdefense-capabilities/"
+      "link": "https://cryptobriefing.com/polymarket-ai-compute-pricing-contracts-2028/"
     },
     {
-      "headline": "Dell posts 235% growth in traditional servers and networking as AI demand reshapes its business",
-      "take": "Dell posts 235% traditional server growth as AI demand reshapes business",
+      "headline": "Fidelity files for spot Chainlink ETF with proposed FLNK ticker",
+      "take": "Fidelity files spot Chainlink ETF, expanding institutional crypto product lineup",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dell-traditional-servers-235-growth-ai-demand/"
+      "link": "https://cryptobriefing.com/fidelity-chainlink-fund-s1-link-trading/"
     },
     {
-      "headline": "Nvidia server GPU orders face delays until 2027 amid high demand",
-      "take": "Nvidia server GPU orders face delays extending into 2027 amid demand",
+      "headline": "PreStocks and Sunrise launch swap pools for SpaceX and Anthropic pre-IPO tokens",
+      "take": "PreStocks and Sunrise enable pre-IPO token trading for SpaceX, Anthropic",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-server-gpu-orders-face-delays-until-2027-amid-high-demand/"
+      "link": "https://cryptobriefing.com/prestocks-sunrise-spacex-anthropic-token-swaps/"
     },
     {
-      "headline": "A year after buying bitcoin, Czech central bank won't say what it's worth",
-      "take": "Czech central bank won't disclose bitcoin holdings value after one year",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth"
+      "headline": "CoreWeave\u2019s banks prepare to sell a Meta-backed loan of up to $4.5 billion",
+      "take": "CoreWeave's $4.5 billion Meta-backed loan to be syndicated next week",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-meta-backed-loan-4-5-billion/"
     },
     {
-      "headline": "CleanSpark posts $987 million fiscal 2026 loss,\u00a0holds 11,720 Bitcoin",
-      "take": "CleanSpark reports $987M fiscal loss while holding 11,720 bitcoin",
+      "headline": "Injective activates Veyra mainnet upgrade with new institutional tooling",
+      "take": "Injective activates Veyra mainnet with new institutional trading features",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cleanspark-fiscal-2026-loss-btc-holdings/"
+      "link": "https://cryptobriefing.com/injective-veyra-mainnet-upgrade-institutional-rwa/"
     }
   ],
   "security": [
     {
-      "headline": "JFrog reports AI agent exploited Hugging Face to steal secrets, then leaked its own",
-      "take": "JFrog AI agent exploited Hugging Face to steal secrets, then leaked own",
+      "headline": "DOJ unveils its largest-ever crackdown on scammers, with crypto fraud in the crosshairs",
+      "take": "DOJ launches largest crackdown on crypto fraud, targeting billions in proceeds",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jfrog-ai-agent-hugging-face-secrets/"
+      "link": "https://cryptobriefing.com/doj-largest-ever-scam-crackdown-crypto/"
     },
     {
-      "headline": "Signal tightens restrictions on AI agents that read your screen",
-      "take": "Signal tightens restrictions on AI agents that read user screens",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/signal-blocks-ai-agents-screen-privacy/"
-    },
-    {
-      "headline": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "take": "OpenAI and Anthropic insiders fear next AI models too dangerous to release",
+      "headline": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "take": "X wins court judgment against alleged Bitcoin bot farm operators",
       "source": "decrypt",
-      "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous"
-    },
-    {
-      "headline": "Anthropic and Harvard study finds AI agent teams less safe than single agents",
-      "take": "AI agent teams prove less safe than individual agents in research study",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-harvard-ai-agent-teams-safety/"
+      "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators"
     }
   ],
   "policy": [
     {
-      "headline": "South Korea\u2019s crypto bill could move stablecoin race beyond token issuance",
-      "take": "South Korea's crypto bill could push stablecoin regulation beyond token issuance",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "headline": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+      "take": "Nvidia settles $290 million SEC case over undisclosed crypto mining revenue",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
     },
     {
-      "headline": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
-      "take": "New York senator proposes 10% tax on prediction market fees for pre-K funding",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082"
+      "headline": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "take": "French Senate blocks new crypto tax and wallet reporting requirements",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk"
     },
     {
-      "headline": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
-      "take": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090"
-    },
-    {
-      "headline": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
-      "take": "Bitcoin and ether get CFTC staff approval for expense requirements in funds",
-      "source": "theblock",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"
+      "headline": "US chip export controls challenge China\u2019s AI progress, spur domestic chip push",
+      "take": "US chip export controls slow China's AI progress, trigger domestic chip push",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/us-chip-export-controls-challenge-chinas-ai-progress-spur-domestic-chip-push/"
     }
   ]
 }

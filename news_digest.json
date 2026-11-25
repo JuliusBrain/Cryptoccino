@@ -1,114 +1,120 @@
 {
-  "generated": "2026-11-24T23:56:03.715827+00:00",
-  "ts": 1795564563,
+  "generated": "2026-11-25T08:46:05.089170+00:00",
+  "ts": 1795596365,
   "market": [
     {
-      "headline": "Bitcoin options traders pile into puts at a pace last seen in 2022",
-      "take": "Bitcoin options traders accumulating put positions at 2022 pace signals caution",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-options-traders-puts-surge-bearish/"
+      "headline": "Bitcoin ETFs Set for Worst Month as Outflows Near $5 Billion",
+      "take": "Bitcoin ETFs face worst month with nearly $5 billion in outflows",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-funds-head-for-worst-month-as-outflows-near-5-billion"
     },
     {
-      "headline": "SWEEP leads tokenized T-bill growth with $120.3 million weekly gain",
-      "take": "SWEEP tokenized Treasury bills see substantial weekly inflows, $120 million growth",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sweep-leads-tokenized-t-bill-growth/"
-    },
-    {
-      "headline": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-      "take": "CleanSpark reports $987 million annual loss as bitcoin production declines",
+      "headline": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+      "take": "Ark Investment sells $6.8M in its own bitcoin ETF as BTC dips",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061"
+      "link": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109"
     },
     {
       "headline": "USDC Treasury mints 250M USDC on Solana, liquidity impact eyed",
-      "take": "USDC treasury mints 250 million on Solana, liquidity implications under review",
+      "take": "USDC Treasury mints 250M USDC on Solana, liquidity effects monitored",
       "source": "cryptobriefing",
       "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-usdc-on-solana-liquidity-impact-eyed/"
+    },
+    {
+      "headline": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+      "take": "Traders can now hedge Nvidia and Anthropic exposure via Derive platform",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive"
+    },
+    {
+      "headline": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+      "take": "Just ten accounts drove all XRP Ledger trading growth last quarter",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
     }
   ],
   "business": [
     {
-      "headline": "Dell\u2019s AI server backlog hits $132.3 billion, up 619% year over year",
-      "take": "Dell AI server backlog reaches $132.3 billion, up 619 percent annually",
+      "headline": "OpenAI and Fujitsu expand partnership to boost cyberdefense capabilities",
+      "take": "OpenAI and Fujitsu expand partnership to boost cyberdefense capabilities",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/dell-ai-server-backlog-132-billion/"
+      "link": "https://cryptobriefing.com/openai-and-fujitsu-expand-partnership-to-boost-cyberdefense-capabilities/"
     },
     {
-      "headline": "Anthropic launches Claude Ship for AI-driven code management with GitHub integration",
-      "take": "Anthropic launches Claude Ship for AI-assisted code management and review",
+      "headline": "Dell posts 235% growth in traditional servers and networking as AI demand reshapes its business",
+      "take": "Dell posts 235% traditional server growth as AI demand reshapes business",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-launches-claude-ship-for-ai-driven-code-management-with-github/"
+      "link": "https://cryptobriefing.com/dell-traditional-servers-235-growth-ai-demand/"
     },
     {
-      "headline": "Payward\u2019s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-      "take": "Payward's Krak plans early 2027 US bitcoin cashback credit cards launch",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
+      "headline": "Nvidia server GPU orders face delays until 2027 amid high demand",
+      "take": "Nvidia server GPU orders face delays extending into 2027 amid demand",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/nvidia-server-gpu-orders-face-delays-until-2027-amid-high-demand/"
     },
     {
-      "headline": "Rialto raises $5 million from Robinhood and Tandem to expand onchain trading",
-      "take": "Rialto raises $5 million for onchain trading platform from Robinhood, Tandem",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/rialto-onchain-trading-expansion/"
+      "headline": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+      "take": "Czech central bank won't disclose bitcoin holdings value after one year",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth"
     },
     {
-      "headline": "Jersey and UAE issuers control 88% of tokenized stock DeFi deposits",
-      "take": "Jersey and UAE issuers control 88 percent of tokenized stock DeFi deposits",
+      "headline": "CleanSpark posts $987 million fiscal 2026 loss,\u00a0holds 11,720 Bitcoin",
+      "take": "CleanSpark reports $987M fiscal loss while holding 11,720 bitcoin",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jersey-uae-issuers-tokenized-stock-defi-deposits/"
+      "link": "https://cryptobriefing.com/cleanspark-fiscal-2026-loss-btc-holdings/"
     }
   ],
   "security": [
     {
-      "headline": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "take": "Coldcard hardware wallet flaw persisted years despite multiple security audits",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits"
+      "headline": "JFrog reports AI agent exploited Hugging Face to steal secrets, then leaked its own",
+      "take": "JFrog AI agent exploited Hugging Face to steal secrets, then leaked own",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jfrog-ai-agent-hugging-face-secrets/"
     },
     {
-      "headline": "Anthropic and Harvard study finds AI agent teams less safe than single agents",
-      "take": "Anthropic study finds AI agent teams pose greater safety risks than individuals",
+      "headline": "Signal tightens restrictions on AI agents that read your screen",
+      "take": "Signal tightens restrictions on AI agents that read user screens",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-harvard-ai-agent-teams-safety/"
+      "link": "https://cryptobriefing.com/signal-blocks-ai-agents-screen-privacy/"
     },
     {
       "headline": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "take": "OpenAI and Anthropic researchers concerned upcoming AI models too risky to release",
+      "take": "OpenAI and Anthropic insiders fear next AI models too dangerous to release",
       "source": "decrypt",
       "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous"
+    },
+    {
+      "headline": "Anthropic and Harvard study finds AI agent teams less safe than single agents",
+      "take": "AI agent teams prove less safe than individual agents in research study",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/anthropic-harvard-ai-agent-teams-safety/"
     }
   ],
   "policy": [
     {
-      "headline": "CFTC approves permanent reporting rules for prediction markets",
-      "take": "CFTC approves permanent reporting framework for prediction markets operators",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cftc-permanent-reporting-rules-prediction-markets/"
-    },
-    {
-      "headline": "What the CFTC\u2019s New Crypto Reserves Guidance Actually Allows\u2014And What It Doesn\u2019t",
-      "take": "CFTC guidance clarifies what cryptocurrency reserve requirements allow and restrict",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt"
-    },
-    {
-      "headline": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-      "take": "South Korea moves toward lifting decade-long ICO ban after regulatory review",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"
-    },
-    {
-      "headline": "SEC staff gives Molecule no-action relief for scientific research tokens",
-      "take": "SEC staff grants Molecule no-action relief for scientific research token offerings",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067"
-    },
-    {
-      "headline": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "take": "Utah seeks to dismiss criminal charges against Kalshi following trading halt",
+      "headline": "South Korea\u2019s crypto bill could move stablecoin race beyond token issuance",
+      "take": "South Korea's crypto bill could push stablecoin regulation beyond token issuance",
       "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+      "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "take": "New York senator proposes 10% tax on prediction market fees for pre-K funding",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082"
+    },
+    {
+      "headline": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "take": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090"
+    },
+    {
+      "headline": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "take": "Bitcoin and ether get CFTC staff approval for expense requirements in funds",
+      "source": "theblock",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"
     }
   ]
 }

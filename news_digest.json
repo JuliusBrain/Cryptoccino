@@ -1,96 +1,126 @@
 {
-  "generated": "2026-11-25T19:23:03.391821+00:00",
-  "ts": 1795634583,
+  "generated": "2026-11-26T03:37:34.653680+00:00",
+  "ts": 1795664254,
   "market": [
     {
-      "headline": "CoinShares flags $20 billion AI ETF haul as Bitcoin funds draw almost nothing",
-      "take": "Crypto ETF flows diverge sharply, AI funds draw billions while Bitcoin stalls",
+      "headline": "Bitcoin reclaims $60,000 as $90M in leveraged shorts get liquidated",
+      "take": "Bitcoin reclaims $60,000 as $90M in leveraged shorts get liquidated",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coinshares-ai-etf-inflows-bitcoin-funds/"
+      "link": "https://cryptobriefing.com/bitcoin-reclaims-60000-short-liquidations/"
     },
     {
-      "headline": "Bitcoin gains $2,500 in 3 hours, reclaims $59,500",
-      "take": "Bitcoin recovers $2,500 in hours, testing resistance above $59,000",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-gains-2500-reclaims-59500/"
+      "headline": "Bitcoin Miners Hammered Again as Price Rout Squeezes Margins",
+      "take": "Bitcoin miners squeezed as price rout compresses profit margins significantly",
+      "source": "bloomberg_crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins"
     },
     {
-      "headline": "USDT and USDC control 86.5% of the $281.3 billion stablecoin market",
-      "take": "USDT and USDC dominate stablecoin market with 86.5 percent combined share",
+      "headline": "Nvidia nears first death cross since March 2025 amid stock decline",
+      "take": "Nvidia approaches first death cross since March 2025 amid stock decline",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/usdt-usdc-control-stablecoin-market-share/"
+      "link": "https://cryptobriefing.com/nvidia-nears-first-death-cross-since-march-2025-amid-stock-decline/"
     },
     {
-      "headline": "Hyperliquid\u2019s HYPE will join bitcoin, ether and more in Franklin Templeton\u2019s crypto ETF",
-      "take": "Franklin Templeton adds Hyperliquid HYPE token to multi-asset crypto ETF",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686"
+      "headline": "CoreWeave, Nvidia credit risk hits new highs amid AI debt concerns",
+      "take": "CoreWeave and Nvidia credit risk hits new highs amid AI debt concerns",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coreweave-nvidia-credit-risk-hits-new-highs-amid-ai-debt-concerns/"
+    },
+    {
+      "headline": "TD forecasts Bank of Canada rate hike in December amid inflation concerns",
+      "take": "TD forecasts Bank of Canada rate hike in December amid inflation",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/td-forecasts-bank-of-canada-rate-hike-in-december-amid-inflation-concerns/"
     }
   ],
   "business": [
     {
-      "headline": "Polymarket launches public contracts for AI compute pricing through 2028",
-      "take": "Polymarket launches long-dated contracts for Nvidia AI compute pricing stability",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/polymarket-ai-compute-pricing-contracts-2028/"
+      "headline": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+      "take": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for Zero blockchain",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
     },
     {
-      "headline": "Fidelity files for spot Chainlink ETF with proposed FLNK ticker",
-      "take": "Fidelity files spot Chainlink ETF, expanding institutional crypto product lineup",
+      "headline": "Chainlink connects banks to Swift\u2019s blockchain ledger for 24/7 payments",
+      "take": "Chainlink connects banks to Swift's blockchain ledger for 24/7 payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/fidelity-chainlink-fund-s1-link-trading/"
+      "link": "https://cryptobriefing.com/chainlink-banks-swift-blockchain-ledger/"
     },
     {
-      "headline": "PreStocks and Sunrise launch swap pools for SpaceX and Anthropic pre-IPO tokens",
-      "take": "PreStocks and Sunrise enable pre-IPO token trading for SpaceX, Anthropic",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/prestocks-sunrise-spacex-anthropic-token-swaps/"
+      "headline": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "take": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735"
     },
     {
-      "headline": "CoreWeave\u2019s banks prepare to sell a Meta-backed loan of up to $4.5 billion",
-      "take": "CoreWeave's $4.5 billion Meta-backed loan to be syndicated next week",
+      "headline": "Anthropic brings Skills over MCP to Claude and Claude Code in public beta",
+      "take": "Anthropic brings Skills over MCP to Claude and Claude Code beta",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-meta-backed-loan-4-5-billion/"
+      "link": "https://cryptobriefing.com/anthropic-skills-over-mcp-claude-beta/"
     },
     {
-      "headline": "Injective activates Veyra mainnet upgrade with new institutional tooling",
-      "take": "Injective activates Veyra mainnet with new institutional trading features",
+      "headline": "Injective\u2019s INJ token goes live on KyberSwap with Base liquidity",
+      "take": "Injective's INJ token goes live on KyberSwap with Base liquidity",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-veyra-mainnet-upgrade-institutional-rwa/"
+      "link": "https://cryptobriefing.com/injective-inj-live-kyberswap-base/"
     }
   ],
   "security": [
     {
-      "headline": "DOJ unveils its largest-ever crackdown on scammers, with crypto fraud in the crosshairs",
-      "take": "DOJ launches largest crackdown on crypto fraud, targeting billions in proceeds",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/doj-largest-ever-scam-crackdown-crypto/"
+      "headline": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "take": "Bitcoin mining firms report hashrate hijacking attacks rerouting block rewards",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks"
     },
     {
-      "headline": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
-      "take": "X wins court judgment against alleged Bitcoin bot farm operators",
+      "headline": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
+      "take": "1Password breach didn't touch vaults but phishing emails pose separate risk",
       "source": "decrypt",
-      "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators"
+      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails"
+    },
+    {
+      "headline": "Anthropic and OpenAI proofs fuel speculation about AI\u2019s threat to encryption",
+      "take": "Anthropic and OpenAI proofs fuel speculation about AI's threat to encryption",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-impact-on-cryptography-threats/"
+    },
+    {
+      "headline": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "take": "Artex AI hacking tool linked to US spy agency breach disclosed",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach"
     }
   ],
   "policy": [
     {
-      "headline": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
-      "take": "Nvidia settles $290 million SEC case over undisclosed crypto mining revenue",
+      "headline": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+      "take": "House Committee advances Strategic Bitcoin Reserve bill with narrow passage path",
       "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
     },
     {
-      "headline": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-      "take": "French Senate blocks new crypto tax and wallet reporting requirements",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk"
+      "headline": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
+      "take": "Senators Warren, Van Hollen push to scrap SEC's Regulation Crypto exemption",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
     },
     {
-      "headline": "US chip export controls challenge China\u2019s AI progress, spur domestic chip push",
-      "take": "US chip export controls slow China's AI progress, trigger domestic chip push",
+      "headline": "Schumer accuses Nvidia\u2019s Huang of violating US export laws with China chip sales",
+      "take": "Schumer accuses Nvidia's Huang of violating US export laws with China sales",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-chip-export-controls-challenge-chinas-ai-progress-spur-domestic-chip-push/"
+      "link": "https://cryptobriefing.com/schumer-accuses-nvidias-huang-of-violating-us-export-laws-with-china-chip-sales/"
+    },
+    {
+      "headline": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "take": "Nvidia to pay $290 million settling long-running crypto mining revenue lawsuit",
+      "source": "decrypt",
+      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit"
+    },
+    {
+      "headline": "House lawmakers propose RSI Safety Act to track AI models that help build their successors",
+      "take": "House lawmakers propose RSI Safety Act to track AI model development",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/house-rsi-safety-act-ai-oversight/"
     }
   ]
 }

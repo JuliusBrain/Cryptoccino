@@ -1,126 +1,96 @@
 {
-  "generated": "2026-11-26T03:37:34.653680+00:00",
-  "ts": 1795664254,
+  "generated": "2026-11-26T17:01:17.318544+00:00",
+  "ts": 1795712477,
   "market": [
     {
-      "headline": "Bitcoin reclaims $60,000 as $90M in leveraged shorts get liquidated",
-      "take": "Bitcoin reclaims $60,000 as $90M in leveraged shorts get liquidated",
+      "headline": "Bitcoin dormant supply climbs toward 69% as holders sit tight through the slump",
+      "take": "Bitcoin holders accumulating dormant supply, historically seen at bear market bottoms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-reclaims-60000-short-liquidations/"
+      "link": "https://cryptobriefing.com/bitcoin-dormant-supply-rises-69-percent/"
     },
     {
-      "headline": "Bitcoin Miners Hammered Again as Price Rout Squeezes Margins",
-      "take": "Bitcoin miners squeezed as price rout compresses profit margins significantly",
-      "source": "bloomberg_crypto",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins"
+      "headline": "JPMorgan flags Strategy\u2019s record-low mNAV as a Bitcoin capitulation signal",
+      "take": "JPMorgan flags Strategy's record NAV low as potential bitcoin capitulation signal",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/jpmorgan-strategy-record-low-mnav-capitulation/"
     },
     {
-      "headline": "Nvidia nears first death cross since March 2025 amid stock decline",
-      "take": "Nvidia approaches first death cross since March 2025 amid stock decline",
+      "headline": "US-dollar stablecoin supply falls $20.7 billion in 2026 as November posts steepest monthly drop since 2022",
+      "take": "US dollar stablecoin supply fell $20.7B in 2026, steepest monthly drop since 2022",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-nears-first-death-cross-since-march-2025-amid-stock-decline/"
+      "link": "https://cryptobriefing.com/us-dollar-stablecoin-supply-falls-2026/"
     },
     {
-      "headline": "CoreWeave, Nvidia credit risk hits new highs amid AI debt concerns",
-      "take": "CoreWeave and Nvidia credit risk hits new highs amid AI debt concerns",
+      "headline": "Monero plunges 17% after KuCoin announces XMR delisting",
+      "take": "Monero plunges 17% after KuCoin announces exchange delisting",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/coreweave-nvidia-credit-risk-hits-new-highs-amid-ai-debt-concerns/"
+      "link": "https://cryptobriefing.com/kucoin-delist-monero-november-30/"
     },
     {
-      "headline": "TD forecasts Bank of Canada rate hike in December amid inflation concerns",
-      "take": "TD forecasts Bank of Canada rate hike in December amid inflation",
+      "headline": "Bitcoin public key exposure climbs to a record 7.12 million BTC",
+      "take": "Bitcoin public key exposure climbs to record 7.12 million BTC",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/td-forecasts-bank-of-canada-rate-hike-in-december-amid-inflation-concerns/"
+      "link": "https://cryptobriefing.com/bitcoin-public-key-exposure-record-high/"
     }
   ],
   "business": [
     {
-      "headline": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
-      "take": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for Zero blockchain",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
-    },
-    {
-      "headline": "Chainlink connects banks to Swift\u2019s blockchain ledger for 24/7 payments",
-      "take": "Chainlink connects banks to Swift's blockchain ledger for 24/7 payments",
+      "headline": "Stellar adds $80.4 million in tokenized fund value in a single day",
+      "take": "Stellar adds $80.4 million tokenized fund value in single day",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/chainlink-banks-swift-blockchain-ledger/"
+      "link": "https://cryptobriefing.com/stellar-tokenized-fund-value-80-million/"
     },
     {
-      "headline": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-      "take": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735"
-    },
-    {
-      "headline": "Anthropic brings Skills over MCP to Claude and Claude Code in public beta",
-      "take": "Anthropic brings Skills over MCP to Claude and Claude Code beta",
+      "headline": "Cournot raises $5M to build an AI oracle that shows its work",
+      "take": "Cournot raises $5M for AI oracle that shows verifiable reasoning",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-skills-over-mcp-claude-beta/"
+      "link": "https://cryptobriefing.com/cournot-raises-5m-ai-native-oracle/"
     },
     {
-      "headline": "Injective\u2019s INJ token goes live on KyberSwap with Base liquidity",
-      "take": "Injective's INJ token goes live on KyberSwap with Base liquidity",
+      "headline": "Microsoft signs cloud inference deal with Cerebras, adding a fourth AI compute path",
+      "take": "Microsoft signs cloud inference deal with Cerebras, adds fourth AI compute path",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-inj-live-kyberswap-base/"
+      "link": "https://cryptobriefing.com/microsoft-cerebras-cloud-inference-agreement/"
+    },
+    {
+      "headline": "Meria Finance joins Jupiter\u2019s JupSOL validator set with a compliance pitch",
+      "take": "Meria Finance joins Jupiter's JupSOL validator set with compliance focus",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/meria-finance-joins-jupsol-validator-set/"
     }
   ],
   "security": [
     {
-      "headline": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-      "take": "Bitcoin mining firms report hashrate hijacking attacks rerouting block rewards",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks"
-    },
-    {
-      "headline": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
-      "take": "1Password breach didn't touch vaults but phishing emails pose separate risk",
-      "source": "decrypt",
-      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails"
-    },
-    {
-      "headline": "Anthropic and OpenAI proofs fuel speculation about AI\u2019s threat to encryption",
-      "take": "Anthropic and OpenAI proofs fuel speculation about AI's threat to encryption",
+      "headline": "Starknet highlights quantum computing threats to elliptic-curve SNARKs",
+      "take": "Starknet highlights quantum computing threats to elliptic curve SNARKs",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-impact-on-cryptography-threats/"
+      "link": "https://cryptobriefing.com/starknet-quantum-threats-elliptic-curve-snarks/"
     },
     {
-      "headline": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-      "take": "Artex AI hacking tool linked to US spy agency breach disclosed",
-      "source": "decrypt",
-      "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach"
+      "headline": "Cango contractor dies after October fire at Georgia Bitcoin mining facility",
+      "take": "Cango contractor dies following October fire at Georgia mining facility",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cango-contractor-dies-georgia-mining-fire/"
     }
   ],
   "policy": [
     {
-      "headline": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-      "take": "House Committee advances Strategic Bitcoin Reserve bill with narrow passage path",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
-    },
-    {
-      "headline": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
-      "take": "Senators Warren, Van Hollen push to scrap SEC's Regulation Crypto exemption",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
-    },
-    {
-      "headline": "Schumer accuses Nvidia\u2019s Huang of violating US export laws with China chip sales",
-      "take": "Schumer accuses Nvidia's Huang of violating US export laws with China sales",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/schumer-accuses-nvidias-huang-of-violating-us-export-laws-with-china-chip-sales/"
-    },
-    {
-      "headline": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-      "take": "Nvidia to pay $290 million settling long-running crypto mining revenue lawsuit",
+      "headline": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "take": "Spain lets financial intelligence unit freeze crypto accounts without court order",
       "source": "decrypt",
-      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit"
+      "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"
     },
     {
-      "headline": "House lawmakers propose RSI Safety Act to track AI models that help build their successors",
-      "take": "House lawmakers propose RSI Safety Act to track AI model development",
+      "headline": "EU sanctions proposal could cut off Kyrgyz crypto exchanges",
+      "take": "EU sanctions proposal could cut off access to Kyrgyz crypto exchanges",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/house-rsi-safety-act-ai-oversight/"
+      "link": "https://cryptobriefing.com/eu-sanctions-kyrgyz-crypto-exchanges/"
+    },
+    {
+      "headline": "Injective urges SEC to expand tokenized stock trading exemption to onchain order books",
+      "take": "Injective urges SEC to expand tokenized stock trading exemption onchain",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/injective-sec-letter-onchain-orderbooks/"
     }
   ]
 }

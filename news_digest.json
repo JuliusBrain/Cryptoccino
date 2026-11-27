@@ -1,102 +1,108 @@
 {
-  "generated": "2026-11-27T12:39:59.532659+00:00",
-  "ts": 1795783199,
+  "generated": "2026-11-27T23:31:04.474515+00:00",
+  "ts": 1795822264,
   "market": [
     {
-      "headline": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
-      "take": "Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains"
+      "headline": "Nasdaq and S&P 500 post best Thanksgiving week since 2008 as AI stocks rally",
+      "take": "Nasdaq and S&P 500 post best Thanksgiving week since 2008 as AI stocks rally",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/sp-500-best-thanksgiving-week-since-2008/"
     },
     {
-      "headline": "Bitcoin\u2019s EMA death cross is already in place as SMA cross looms",
-      "take": "Bitcoin's EMA death cross already in place as SMA cross looms",
+      "headline": "Leveraged funds flip net short on Nasdaq 100 futures as tech sentiment sours",
+      "take": "Leveraged funds flip net short on Nasdaq 100 futures as tech sentiment sours",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-death-cross-50-day-200-day-average/"
+      "link": "https://cryptobriefing.com/leveraged-funds-net-short-nasdaq-100-futures/"
     },
     {
-      "headline": "Goldman Sachs warns of $100 billion in automated stock selling ahead",
-      "take": "Goldman Sachs warns of $100 billion in automated stock selling ahead",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/goldman-sachs-100-billion-systematic-selling/"
+      "headline": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "take": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "source": "theblock",
+      "link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560"
     },
     {
-      "headline": "Austrian Financial Market Authority reports \u20ac20.4B in H1 crypto trading volume",
-      "take": "Austrian regulator reports \u20ac20.4B in H1 crypto trading volume",
+      "headline": "Anthropic shares close at $91.88, holding above $83 IPO price after a volatile first week",
+      "take": "Anthropic shares hold above $83 IPO price after volatile first week at $91.88",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/austria-fma-crypto-trading-volume-h1-2026/"
+      "link": "https://cryptobriefing.com/anthropic-shares-close-above-83-ipo-price/"
     },
     {
-      "headline": "Bitcoin supply profit/loss ratio hits 11-year low as capitulation signals emerge",
-      "take": "Bitcoin supply profit/loss ratio hits 11-year low signaling capitulation",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-profit-loss-ratio-11-year-low/"
+      "headline": "$7 Billion in Bitcoin Options Just Expired: Here\u2019s What It Means",
+      "take": "$7 billion in Bitcoin options just expired with uncertain market implications",
+      "source": "decrypt",
+      "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means"
     }
   ],
   "business": [
     {
-      "headline": "B3 and six major banks unite to build real-pegged stablecoin for Brazil\u2019s digital asset market",
-      "take": "B3 and six major banks unite to build real-pegged stablecoin for Brazil",
+      "headline": "BNB Chain unveils litepaper for a second L1 built for traders, payments and AI agents",
+      "take": "BNB Chain unveils litepaper for second L1 built for traders, payments, AI agents",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/open-brl-stablecoin-launch-brazil/"
+      "link": "https://cryptobriefing.com/bnb-chain-new-l1-litepaper/"
     },
     {
-      "headline": "Bank of Japan explores tokenized central bank money and cross-border payments",
-      "take": "Bank of Japan explores tokenized central bank money and cross-border payments",
+      "headline": "Binance Brasil lands foreign exchange license, its third from Brazil\u2019s central bank",
+      "take": "Binance Brasil lands foreign exchange license, its third from Brazil's central bank",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-japan-tokenized-central-bank-money/"
+      "link": "https://cryptobriefing.com/binance-brasil-foreign-exchange-license/"
     },
     {
-      "headline": "Injective asks SEC to allow order books for tokenized stock trading",
-      "take": "Injective asks SEC to allow order books for tokenized stock trading",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading"
+      "headline": "Cryptostar Corp plans shift to AI and HPC equipment hosting in Utah",
+      "take": "CryptoStar Corp plans shift to AI and HPC equipment hosting in Utah",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/cryptostar-ai-hpc-hosting-utah/"
     },
     {
-      "headline": "Nvidia forecasts $130B revenue, announces $150B stock buyback amid export hurdles",
-      "take": "Nvidia forecasts $130B revenue, announces $150B stock buyback",
+      "headline": "OpenAI offers ChatGPT Business credits to Lenovo PC users with preinstalled app",
+      "take": "OpenAI offers ChatGPT Business credits to Lenovo PC users with preinstalled app",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nvidia-forecasts-130b-revenue-announces-150b-stock-buyback-amid-export-hurdles/"
+      "link": "https://cryptobriefing.com/openai-lenovo-chatgpt-business-credits/"
     },
     {
-      "headline": "Tokenized stocks are mostly American companies sold to everyone except Americans",
-      "take": "Tokenized stocks mostly American companies sold to everyone except Americans",
+      "headline": "Grok Bot adds travel bookings through Sabre, plus higher limits and new connectors",
+      "take": "Grok Bot adds travel bookings through Sabre, plus higher limits and connectors",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tokenized-stocks-us-companies-non-us-investors/"
+      "link": "https://cryptobriefing.com/grok-bot-sabre-travel-bookings-connector/"
     }
   ],
   "security": [
     {
-      "headline": "Elliptic tracks $389M in stolen Binance funds through Bitcoin CoinJoins",
-      "take": "Elliptic tracks $389M in stolen Binance funds through Bitcoin CoinJoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/elliptic-389m-stolen-binance-funds-coinjoins/"
+      "headline": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+      "take": "Hackers hit US Air Force cloud system running air-defense and munitions data",
+      "source": "decrypt",
+      "link": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data"
     },
     {
-      "headline": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
-      "take": "Tether can freeze stolen crypto in minutes; recovery can take years",
-      "source": "coindesk",
-      "link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
+      "headline": "Khosla warns AI and quantum computing could threaten crypto security by 2030",
+      "take": "Khosla warns AI and quantum computing could threaten crypto security by 2030",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/khosla-warns-ai-and-quantum-computing-could-threaten-crypto-security-by-2030/"
+    },
+    {
+      "headline": "AI advances may threaten RSA encryption before quantum computing: FT",
+      "take": "AI advances may threaten RSA encryption before quantum computing arrives",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/ai-advances-may-threaten-rsa-encryption-before-quantum-computing-ft/"
+    },
+    {
+      "headline": "Den\u2019s MLS Wallet checks every transaction three times before funds move",
+      "take": "Den's MLS Wallet checks every transaction three times before funds move",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/den-mls-wallet-three-layer-security/"
     }
   ],
   "policy": [
     {
-      "headline": "Incoming ECB chief Hern\u00e1ndez de Cos favors tokenized deposits over stablecoins",
-      "take": "Incoming ECB chief favors tokenized deposits over stablecoins",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ecb-hernandez-de-cos-tokenized-deposits-stablecoins/"
+      "headline": "China sets March 2027 rollout for blockchain identity regulations",
+      "take": "China sets March 2027 rollout for blockchain identity regulations",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Scott Bessent says stablecoins could lead US T-bill purchases",
-      "take": "Scott Bessent says stablecoins could lead US T-bill purchases",
+      "headline": "Meta whistleblower urges UK to broaden NDA restrictions for AI insiders",
+      "take": "Meta whistleblower urges UK to broaden NDA restrictions for AI insiders",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bessent-stablecoins-us-treasury-bill-demand/"
-    },
-    {
-      "headline": "Kalshi pitches microinsurance to small businesses as state legal fights pile up",
-      "take": "Kalshi pitches microinsurance to small businesses amid state legal fights",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kalshi-microinsurance-small-businesses-utah/"
+      "link": "https://cryptobriefing.com/meta-whistleblower-uk-nda-ai-insiders/"
     }
   ]
 }

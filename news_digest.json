@@ -1,120 +1,102 @@
 {
-  "generated": "2026-11-27T01:46:48.913882+00:00",
-  "ts": 1795744008,
+  "generated": "2026-11-27T12:39:59.532659+00:00",
+  "ts": 1795783199,
   "market": [
     {
-      "headline": "TRON leads stablecoin market cap growth with $195.5 million daily gain",
-      "take": "TRON stablecoin market cap grew $195.5 million in a single day",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/tron-leads-stablecoin-market-cap-growth-2/"
+      "headline": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+      "take": "Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains"
     },
     {
-      "headline": "Bitcoin miners log longest block gap since July at 98 minutes",
-      "take": "Bitcoin miners experienced longest block gap since July at 98 minutes",
+      "headline": "Bitcoin\u2019s EMA death cross is already in place as SMA cross looms",
+      "take": "Bitcoin's EMA death cross already in place as SMA cross looms",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-longest-block-gap-since-july/"
+      "link": "https://cryptobriefing.com/bitcoin-death-cross-50-day-200-day-average/"
     },
     {
-      "headline": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-      "take": "Bitcoin holds above $60K despite death cross technical pattern emerging",
-      "source": "decrypt",
-      "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery"
+      "headline": "Goldman Sachs warns of $100 billion in automated stock selling ahead",
+      "take": "Goldman Sachs warns of $100 billion in automated stock selling ahead",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/goldman-sachs-100-billion-systematic-selling/"
     },
     {
-      "headline": "Pendle leads tokenized stock deposit growth with $57 million in deposits",
-      "take": "Pendle leads tokenized stock deposits with $57 million accumulated",
+      "headline": "Austrian Financial Market Authority reports \u20ac20.4B in H1 crypto trading volume",
+      "take": "Austrian regulator reports \u20ac20.4B in H1 crypto trading volume",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/pendle-leads-tokenized-stock-deposits/"
+      "link": "https://cryptobriefing.com/austria-fma-crypto-trading-volume-h1-2026/"
     },
     {
-      "headline": "Nasdaq 100 posts its wildest five-day stretch since April 2025",
-      "take": "Nasdaq 100 posts wildest five-day stretch since April 2025",
+      "headline": "Bitcoin supply profit/loss ratio hits 11-year low as capitulation signals emerge",
+      "take": "Bitcoin supply profit/loss ratio hits 11-year low signaling capitulation",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/nasdaq-100-highest-volatility-since-april-2025/"
+      "link": "https://cryptobriefing.com/bitcoin-profit-loss-ratio-11-year-low/"
     }
   ],
   "business": [
     {
-      "headline": "BNB Chain details new layer-1 for trading, private finance and AI",
-      "take": "BNB Chain launches new layer-1 blockchain for trading and AI",
-      "source": "cointelegraph_defi",
-      "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+      "headline": "B3 and six major banks unite to build real-pegged stablecoin for Brazil\u2019s digital asset market",
+      "take": "B3 and six major banks unite to build real-pegged stablecoin for Brazil",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/open-brl-stablecoin-launch-brazil/"
     },
     {
-      "headline": "Japan\u2019s JERA is in talks with Amazon, Microsoft and Google over the AI power crunch",
-      "take": "JERA in talks with Amazon, Microsoft, Google for AI data centers",
+      "headline": "Bank of Japan explores tokenized central bank money and cross-border payments",
+      "take": "Bank of Japan explores tokenized central bank money and cross-border payments",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jera-amazon-microsoft-google-energy-talks/"
+      "link": "https://cryptobriefing.com/bank-of-japan-tokenized-central-bank-money/"
     },
     {
-      "headline": "Saylor says Strategy aims to become the world\u2019s largest company by market cap",
-      "take": "MicroStrategy strategy aims to become world's largest company by cap",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/saylor-strategy-largest-company-market-cap/"
+      "headline": "Injective asks SEC to allow order books for tokenized stock trading",
+      "take": "Injective asks SEC to allow order books for tokenized stock trading",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading"
     },
     {
-      "headline": "JERA plans AI data centers beside its power plants with Dell and RHAELM",
-      "take": "JERA plans AI data centers beside power plants with Dell partnership",
+      "headline": "Nvidia forecasts $130B revenue, announces $150B stock buyback amid export hurdles",
+      "take": "Nvidia forecasts $130B revenue, announces $150B stock buyback",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jera-ai-data-centers-anthropic-meta-power-plants/"
+      "link": "https://cryptobriefing.com/nvidia-forecasts-130b-revenue-announces-150b-stock-buyback-amid-export-hurdles/"
+    },
+    {
+      "headline": "Tokenized stocks are mostly American companies sold to everyone except Americans",
+      "take": "Tokenized stocks mostly American companies sold to everyone except Americans",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/tokenized-stocks-us-companies-non-us-investors/"
     }
   ],
   "security": [
     {
-      "headline": "Binance restores withdrawals across nearly all networks four weeks after record $6.3B hack",
-      "take": "Binance restores withdrawals four weeks after $6.3 billion hack",
+      "headline": "Elliptic tracks $389M in stolen Binance funds through Bitcoin CoinJoins",
+      "take": "Elliptic tracks $389M in stolen Binance funds through Bitcoin CoinJoins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-restores-withdrawals-after-record-hack/"
+      "link": "https://cryptobriefing.com/elliptic-389m-stolen-binance-funds-coinjoins/"
     },
     {
-      "headline": "Anthropic study finds AI models still hold cyberattack knowledge after unlearning",
-      "take": "AI models retain cyberattack knowledge even after unlearning attempts",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-ai-unlearning-cyberattack-knowledge/"
-    },
-    {
-      "headline": "Palo Alto Networks CEO warns Anthropic\u2019s Mythos makes hacking easier",
-      "take": "Anthropic's Claude model reportedly makes hacking easier per researchers",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/palo-alto-ceo-warns-ai-hacking-risks/"
-    },
-    {
-      "headline": "Taylor Monahan says the scripts behind North Korean laundering can be turned against it",
-      "take": "North Korean crypto laundering scripts can be turned against them",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/taylor-monahan-ai-trace-north-korean-launderers/"
+      "headline": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "take": "Tether can freeze stolen crypto in minutes; recovery can take years",
+      "source": "coindesk",
+      "link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
     }
   ],
   "policy": [
     {
-      "headline": "Bank of Japan weighs tokenized central bank money in a new sandbox project",
-      "take": "Bank of Japan weighs tokenized central bank money sandbox project",
+      "headline": "Incoming ECB chief Hern\u00e1ndez de Cos favors tokenized deposits over stablecoins",
+      "take": "Incoming ECB chief favors tokenized deposits over stablecoins",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-japan-stablecoin-reserve-frameworks/"
+      "link": "https://cryptobriefing.com/ecb-hernandez-de-cos-tokenized-deposits-stablecoins/"
     },
     {
-      "headline": "Japan weighs cooling-off periods for crypto transfers to self-custody wallets",
-      "take": "Japan weighs cooling-off periods for crypto transfers to self-custody",
+      "headline": "Scott Bessent says stablecoins could lead US T-bill purchases",
+      "take": "Scott Bessent says stablecoins could lead US T-bill purchases",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/japan-fsa-crypto-cooling-off-periods/"
+      "link": "https://cryptobriefing.com/bessent-stablecoins-us-treasury-bill-demand/"
     },
     {
-      "headline": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-      "take": "Spain grants financial watchdog power to freeze crypto accounts",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
-      "take": "Coinbase says UK is getting DeFi regulation approach fundamentally wrong",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Bank of Japan flags emerging cyber threats to digital money from AI",
-      "take": "Bank of Japan flags emerging cyber threats to digital money from AI",
+      "headline": "Kalshi pitches microinsurance to small businesses as state legal fights pile up",
+      "take": "Kalshi pitches microinsurance to small businesses amid state legal fights",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bank-of-japan-ai-cyber-threats-digital-money/"
+      "link": "https://cryptobriefing.com/kalshi-microinsurance-small-businesses-utah/"
     }
   ]
 }

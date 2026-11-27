@@ -1,96 +1,120 @@
 {
-  "generated": "2026-11-26T17:01:17.318544+00:00",
-  "ts": 1795712477,
+  "generated": "2026-11-27T01:46:48.913882+00:00",
+  "ts": 1795744008,
   "market": [
     {
-      "headline": "Bitcoin dormant supply climbs toward 69% as holders sit tight through the slump",
-      "take": "Bitcoin holders accumulating dormant supply, historically seen at bear market bottoms",
+      "headline": "TRON leads stablecoin market cap growth with $195.5 million daily gain",
+      "take": "TRON stablecoin market cap grew $195.5 million in a single day",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-dormant-supply-rises-69-percent/"
+      "link": "https://cryptobriefing.com/tron-leads-stablecoin-market-cap-growth-2/"
     },
     {
-      "headline": "JPMorgan flags Strategy\u2019s record-low mNAV as a Bitcoin capitulation signal",
-      "take": "JPMorgan flags Strategy's record NAV low as potential bitcoin capitulation signal",
+      "headline": "Bitcoin miners log longest block gap since July at 98 minutes",
+      "take": "Bitcoin miners experienced longest block gap since July at 98 minutes",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/jpmorgan-strategy-record-low-mnav-capitulation/"
+      "link": "https://cryptobriefing.com/bitcoin-longest-block-gap-since-july/"
     },
     {
-      "headline": "US-dollar stablecoin supply falls $20.7 billion in 2026 as November posts steepest monthly drop since 2022",
-      "take": "US dollar stablecoin supply fell $20.7B in 2026, steepest monthly drop since 2022",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/us-dollar-stablecoin-supply-falls-2026/"
+      "headline": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "take": "Bitcoin holds above $60K despite death cross technical pattern emerging",
+      "source": "decrypt",
+      "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery"
     },
     {
-      "headline": "Monero plunges 17% after KuCoin announces XMR delisting",
-      "take": "Monero plunges 17% after KuCoin announces exchange delisting",
+      "headline": "Pendle leads tokenized stock deposit growth with $57 million in deposits",
+      "take": "Pendle leads tokenized stock deposits with $57 million accumulated",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/kucoin-delist-monero-november-30/"
+      "link": "https://cryptobriefing.com/pendle-leads-tokenized-stock-deposits/"
     },
     {
-      "headline": "Bitcoin public key exposure climbs to a record 7.12 million BTC",
-      "take": "Bitcoin public key exposure climbs to record 7.12 million BTC",
+      "headline": "Nasdaq 100 posts its wildest five-day stretch since April 2025",
+      "take": "Nasdaq 100 posts wildest five-day stretch since April 2025",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bitcoin-public-key-exposure-record-high/"
+      "link": "https://cryptobriefing.com/nasdaq-100-highest-volatility-since-april-2025/"
     }
   ],
   "business": [
     {
-      "headline": "Stellar adds $80.4 million in tokenized fund value in a single day",
-      "take": "Stellar adds $80.4 million tokenized fund value in single day",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/stellar-tokenized-fund-value-80-million/"
+      "headline": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "take": "BNB Chain launches new layer-1 blockchain for trading and AI",
+      "source": "cointelegraph_defi",
+      "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
     },
     {
-      "headline": "Cournot raises $5M to build an AI oracle that shows its work",
-      "take": "Cournot raises $5M for AI oracle that shows verifiable reasoning",
+      "headline": "Japan\u2019s JERA is in talks with Amazon, Microsoft and Google over the AI power crunch",
+      "take": "JERA in talks with Amazon, Microsoft, Google for AI data centers",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cournot-raises-5m-ai-native-oracle/"
+      "link": "https://cryptobriefing.com/jera-amazon-microsoft-google-energy-talks/"
     },
     {
-      "headline": "Microsoft signs cloud inference deal with Cerebras, adding a fourth AI compute path",
-      "take": "Microsoft signs cloud inference deal with Cerebras, adds fourth AI compute path",
+      "headline": "Saylor says Strategy aims to become the world\u2019s largest company by market cap",
+      "take": "MicroStrategy strategy aims to become world's largest company by cap",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/microsoft-cerebras-cloud-inference-agreement/"
+      "link": "https://cryptobriefing.com/saylor-strategy-largest-company-market-cap/"
     },
     {
-      "headline": "Meria Finance joins Jupiter\u2019s JupSOL validator set with a compliance pitch",
-      "take": "Meria Finance joins Jupiter's JupSOL validator set with compliance focus",
+      "headline": "JERA plans AI data centers beside its power plants with Dell and RHAELM",
+      "take": "JERA plans AI data centers beside power plants with Dell partnership",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meria-finance-joins-jupsol-validator-set/"
+      "link": "https://cryptobriefing.com/jera-ai-data-centers-anthropic-meta-power-plants/"
     }
   ],
   "security": [
     {
-      "headline": "Starknet highlights quantum computing threats to elliptic-curve SNARKs",
-      "take": "Starknet highlights quantum computing threats to elliptic curve SNARKs",
+      "headline": "Binance restores withdrawals across nearly all networks four weeks after record $6.3B hack",
+      "take": "Binance restores withdrawals four weeks after $6.3 billion hack",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/starknet-quantum-threats-elliptic-curve-snarks/"
+      "link": "https://cryptobriefing.com/binance-restores-withdrawals-after-record-hack/"
     },
     {
-      "headline": "Cango contractor dies after October fire at Georgia Bitcoin mining facility",
-      "take": "Cango contractor dies following October fire at Georgia mining facility",
+      "headline": "Anthropic study finds AI models still hold cyberattack knowledge after unlearning",
+      "take": "AI models retain cyberattack knowledge even after unlearning attempts",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cango-contractor-dies-georgia-mining-fire/"
+      "link": "https://cryptobriefing.com/anthropic-ai-unlearning-cyberattack-knowledge/"
+    },
+    {
+      "headline": "Palo Alto Networks CEO warns Anthropic\u2019s Mythos makes hacking easier",
+      "take": "Anthropic's Claude model reportedly makes hacking easier per researchers",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/palo-alto-ceo-warns-ai-hacking-risks/"
+    },
+    {
+      "headline": "Taylor Monahan says the scripts behind North Korean laundering can be turned against it",
+      "take": "North Korean crypto laundering scripts can be turned against them",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/taylor-monahan-ai-trace-north-korean-launderers/"
     }
   ],
   "policy": [
     {
-      "headline": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
-      "take": "Spain lets financial intelligence unit freeze crypto accounts without court order",
-      "source": "decrypt",
-      "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"
+      "headline": "Bank of Japan weighs tokenized central bank money in a new sandbox project",
+      "take": "Bank of Japan weighs tokenized central bank money sandbox project",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bank-of-japan-stablecoin-reserve-frameworks/"
     },
     {
-      "headline": "EU sanctions proposal could cut off Kyrgyz crypto exchanges",
-      "take": "EU sanctions proposal could cut off access to Kyrgyz crypto exchanges",
+      "headline": "Japan weighs cooling-off periods for crypto transfers to self-custody wallets",
+      "take": "Japan weighs cooling-off periods for crypto transfers to self-custody",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/eu-sanctions-kyrgyz-crypto-exchanges/"
+      "link": "https://cryptobriefing.com/japan-fsa-crypto-cooling-off-periods/"
     },
     {
-      "headline": "Injective urges SEC to expand tokenized stock trading exemption to onchain order books",
-      "take": "Injective urges SEC to expand tokenized stock trading exemption onchain",
+      "headline": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "take": "Spain grants financial watchdog power to freeze crypto accounts",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
+      "take": "Coinbase says UK is getting DeFi regulation approach fundamentally wrong",
+      "source": "cointelegraph_regulation",
+      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "headline": "Bank of Japan flags emerging cyber threats to digital money from AI",
+      "take": "Bank of Japan flags emerging cyber threats to digital money from AI",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/injective-sec-letter-onchain-orderbooks/"
+      "link": "https://cryptobriefing.com/bank-of-japan-ai-cyber-threats-digital-money/"
     }
   ]
 }

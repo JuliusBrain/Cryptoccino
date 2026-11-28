@@ -1,108 +1,90 @@
 {
-  "generated": "2026-11-27T23:31:04.474515+00:00",
-  "ts": 1795822264,
+  "generated": "2026-11-28T07:58:40.906129+00:00",
+  "ts": 1795852720,
   "market": [
     {
-      "headline": "Nasdaq and S&P 500 post best Thanksgiving week since 2008 as AI stocks rally",
-      "take": "Nasdaq and S&P 500 post best Thanksgiving week since 2008 as AI stocks rally",
+      "headline": "World Liberty Financial\u2019s WLFI token plunges 59% in 24 hours",
+      "take": "WLFI token crashes 59% in 24 hours amid fraud allegations and delisting calls",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/sp-500-best-thanksgiving-week-since-2008/"
+      "link": "https://cryptobriefing.com/world-liberty-financial-wlfi-token-plunges-59-percent/"
     },
     {
-      "headline": "Leveraged funds flip net short on Nasdaq 100 futures as tech sentiment sours",
-      "take": "Leveraged funds flip net short on Nasdaq 100 futures as tech sentiment sours",
+      "headline": "Over $407M in crypto positions liquidated in 24 hours as longs take the hit",
+      "take": "Over $407 million in crypto positions liquidated in single day, longs hit hardest",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/leveraged-funds-net-short-nasdaq-100-futures/"
+      "link": "https://cryptobriefing.com/crypto-liquidations-407-million-coinglass/"
     },
     {
-      "headline": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
-      "take": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
-      "source": "theblock",
-      "link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560"
-    },
-    {
-      "headline": "Anthropic shares close at $91.88, holding above $83 IPO price after a volatile first week",
-      "take": "Anthropic shares hold above $83 IPO price after volatile first week at $91.88",
+      "headline": "BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record",
+      "take": "BlackRock leads record $389M Bitcoin ETF outflows in November amid market pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/anthropic-shares-close-above-83-ipo-price/"
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-ethereum-etf-outflows-november/"
     },
     {
-      "headline": "$7 Billion in Bitcoin Options Just Expired: Here\u2019s What It Means",
-      "take": "$7 billion in Bitcoin options just expired with uncertain market implications",
-      "source": "decrypt",
-      "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means"
+      "headline": "CoinMarketCap\u2019s Fear and Greed Index sinks to 10 as extreme fear drags on",
+      "take": "Fear and Greed Index plummets to 10, signaling extreme market anxiety",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/coinmarketcap-fear-greed-index-extreme-fear-10/"
+    },
+    {
+      "headline": "Bitwise XRP ETF clients buy $5.4 million in a single day",
+      "take": "Bitwise XRP ETF sees $5.4 million single-day inflow from institutional clients",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/bitwise-xrp-etf-clients-buy-5-4-million/"
     }
   ],
   "business": [
     {
-      "headline": "BNB Chain unveils litepaper for a second L1 built for traders, payments and AI agents",
-      "take": "BNB Chain unveils litepaper for second L1 built for traders, payments, AI agents",
+      "headline": "XRP Ledger nears launch of native lending feature with final vote pending",
+      "take": "XRP Ledger prepares native lending feature launch pending final community vote",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/bnb-chain-new-l1-litepaper/"
+      "link": "https://cryptobriefing.com/xrp-ledger-nears-launch-of-native-lending-feature-with-final-vote-pending/"
     },
     {
-      "headline": "Binance Brasil lands foreign exchange license, its third from Brazil\u2019s central bank",
-      "take": "Binance Brasil lands foreign exchange license, its third from Brazil's central bank",
+      "headline": "Binance secures in-principle approval for regulated operations and Asia hub in Bhutan",
+      "take": "Binance secures in-principle approval for regulated operations and Asia hub in Bhutan",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/binance-brasil-foreign-exchange-license/"
+      "link": "https://cryptobriefing.com/binance-in-principle-approval-bhutan-asia-hub/"
     },
     {
-      "headline": "Cryptostar Corp plans shift to AI and HPC equipment hosting in Utah",
-      "take": "CryptoStar Corp plans shift to AI and HPC equipment hosting in Utah",
+      "headline": "Bullish expands equity tokenization services to Aptos and Ethereum",
+      "take": "Bullish expands equity tokenization services to Aptos and Ethereum blockchains",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/cryptostar-ai-hpc-hosting-utah/"
+      "link": "https://cryptobriefing.com/bullish-equity-tokenization-aptos-ethereum/"
     },
     {
-      "headline": "OpenAI offers ChatGPT Business credits to Lenovo PC users with preinstalled app",
-      "take": "OpenAI offers ChatGPT Business credits to Lenovo PC users with preinstalled app",
+      "headline": "Aave V4 USDC deposits hit a record $107.4 million on Ethereum Core Hub",
+      "take": "Aave V4 USDC deposits reach record $107.4 million on Ethereum Core Hub",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/openai-lenovo-chatgpt-business-credits/"
+      "link": "https://cryptobriefing.com/aave-v4-usdc-deposits-record-core-hub/"
     },
     {
-      "headline": "Grok Bot adds travel bookings through Sabre, plus higher limits and new connectors",
-      "take": "Grok Bot adds travel bookings through Sabre, plus higher limits and connectors",
+      "headline": "PayPal\u2019s PYUSD stablecoin goes live on Sei with sub-second settlement",
+      "take": "PayPal's PYUSD stablecoin launches on Sei with sub-second settlement capability",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/grok-bot-sabre-travel-bookings-connector/"
+      "link": "https://cryptobriefing.com/paypal-pyusd-stablecoin-launches-on-sei/"
     }
   ],
   "security": [
     {
-      "headline": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
-      "take": "Hackers hit US Air Force cloud system running air-defense and munitions data",
-      "source": "decrypt",
-      "link": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data"
+      "headline": "Justin Sun accuses World Liberty Financial of investor fraud, calls for WLFI and USD1 delisting",
+      "take": "Justin Sun accuses World Liberty Financial of investor fraud, seeks token delisting",
+      "source": "cryptobriefing",
+      "link": "https://cryptobriefing.com/justin-sun-accuses-world-liberty-financial-fraud/"
     },
     {
-      "headline": "Khosla warns AI and quantum computing could threaten crypto security by 2030",
-      "take": "Khosla warns AI and quantum computing could threaten crypto security by 2030",
+      "headline": "DecepEval study finds pressure lifts AI agent deception by 41.64 percentage points",
+      "take": "Research shows AI agent deception increases 41.64 percentage points under pressure",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/khosla-warns-ai-and-quantum-computing-could-threaten-crypto-security-by-2030/"
-    },
-    {
-      "headline": "AI advances may threaten RSA encryption before quantum computing: FT",
-      "take": "AI advances may threaten RSA encryption before quantum computing arrives",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/ai-advances-may-threaten-rsa-encryption-before-quantum-computing-ft/"
-    },
-    {
-      "headline": "Den\u2019s MLS Wallet checks every transaction three times before funds move",
-      "take": "Den's MLS Wallet checks every transaction three times before funds move",
-      "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/den-mls-wallet-three-layer-security/"
+      "link": "https://cryptobriefing.com/decepeval-pressure-ai-agent-deception/"
     }
   ],
   "policy": [
     {
-      "headline": "China sets March 2027 rollout for blockchain identity regulations",
-      "take": "China sets March 2027 rollout for blockchain identity regulations",
-      "source": "cointelegraph_regulation",
-      "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss_tag_regulation&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "headline": "Meta whistleblower urges UK to broaden NDA restrictions for AI insiders",
-      "take": "Meta whistleblower urges UK to broaden NDA restrictions for AI insiders",
+      "headline": "Trump family\u2019s USD1 stablecoin slips below its dollar peg",
+      "take": "Trump family's USD1 stablecoin falls below dollar peg, raising regulatory questions",
       "source": "cryptobriefing",
-      "link": "https://cryptobriefing.com/meta-whistleblower-uk-nda-ai-insiders/"
+      "link": "https://cryptobriefing.com/trump-usd1-stablecoin-depegs-dollar/"
     }
   ]
 }
